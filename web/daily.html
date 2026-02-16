@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>日报 - RSS-AI 每日技术资讯</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <h1 class="logo">RSS-AI 每日技术资讯</h1>
+        <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+          <span class="icon-sun">☀️</span>
+          <span class="icon-moon">🌙</span>
+        </button>
+      </div>
+      <nav class="nav">
+        <a href="index.html" class="nav-link">首页</a>
+        <a href="daily.html" class="nav-link active">日报</a>
+        <a href="weekly.html" class="nav-link">周报</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <!-- Date Navigation -->
+      <section class="date-nav-section">
+        <button class="btn btn-secondary" id="prevDay">◀ 前一天</button>
+        <div class="current-date">
+          <h2 id="currentDate">加载中...</h2>
+          <input type="date" id="datePicker" class="date-input">
+        </div>
+        <button class="btn btn-secondary" id="nextDay">后一天 ▶</button>
+      </section>
+
+      <!-- Stats Overview -->
+      <section class="stats-section compact">
+        <div class="stats-inline">
+          <div class="stat-item">
+            <span class="stat-label">原始文章:</span>
+            <span class="stat-value" id="originalCount">-</span>
+          </div>
+          <span class="stat-arrow">→</span>
+          <div class="stat-item">
+            <span class="stat-label">过滤后:</span>
+            <span class="stat-value" id="filteredCount">-</span>
+          </div>
+          <span class="stat-arrow">→</span>
+          <div class="stat-item">
+            <span class="stat-label">最终精选:</span>
+            <span class="stat-value" id="finalCount">-</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Short News Section -->
+      <section class="articles-section">
+        <div class="section-header">
+          <h2>📰 短资讯</h2>
+          <span class="count-badge" id="shortNewsCount">0</span>
+        </div>
+        <div class="articles-grid short-news-grid" id="shortNewsContainer">
+          <div class="loading">加载中...</div>
+        </div>
+      </section>
+
+      <!-- Long Articles Section -->
+      <section class="articles-section">
+        <div class="section-header">
+          <h2>📚 深度文章</h2>
+          <span class="count-badge" id="longArticlesCount">0</span>
+        </div>
+        <div class="articles-list" id="longArticlesContainer">
+          <div class="loading">加载中...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>RSS-AI 每日技术资讯 &copy; 2024 - 由 AI 精选整理</p>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    function sanitizeUrl(url) {
+      const s = String(url || '');
+      if (s.startsWith('http://') || s.startsWith('https://') || s.startsWith('/') || s.startsWith('#')) {
+        return s;
+      }
+      return '';
+    }
+
+    const renderer = new marked.Renderer();
+    renderer.link = function(href, title, text) {
+      const safeHref = sanitizeUrl(href);
+      const label = RSS_AI.escapeHtml(text || '');
+      if (!safeHref) return label;
+      const t = title ? ` title="${RSS_AI.escapeHtml(title)}"` : '';
+      return `<a href="${RSS_AI.escapeHtml(safeHref)}" target="_blank" rel="noopener noreferrer"${t}>${label}</a>`;
+    };
+    renderer.image = function(href, title, text) {
+      const safeSrc = sanitizeUrl(href);
+      if (!safeSrc) return '';
+      const alt = RSS_AI.escapeHtml(text || '');
+      const t = title ? ` title="${RSS_AI.escapeHtml(title)}"` : '';
+      return `<img src="${RSS_AI.escapeHtml(safeSrc)}" alt="${alt}" loading="lazy"${t} />`;
+    };
+
+    marked.setOptions({
+      renderer,
+      highlight: function(code, lang) {
+        if (lang && hljs.getLanguage(lang)) {
+          return hljs.highlight(code, { language: lang }).value;
+        }
+        return hljs.highlightAuto(code).value;
+      },
+      breaks: true,
+      gfm: true
+    });
+
+    let availableDates = [];
+    let currentDate = null;
+    let currentLongArticles = [];
+
+    async function loadDaily(date) {
+      currentDate = date;
+      document.getElementById('currentDate').textContent = RSS_AI.formatDate(date, true);
+      document.getElementById('datePicker').value = date;
+      window.history.pushState({}, '', `daily.html?date=${date}`);
+
+      const shortContainer = document.getElementById('shortNewsContainer');
+      const longContainer = document.getElementById('longArticlesContainer');
+
+      try {
+        const report = await RSS_AI.fetchDailyReport(date);
+        const shortNews = report.sections?.short_news || [];
+        const longArticles = report.sections?.long_articles || [];
+        currentLongArticles = longArticles;
+
+        document.getElementById('originalCount').textContent = report.stats?.total_fetched ?? '-';
+        document.getElementById('filteredCount').textContent = report.stats?.after_filter ?? '-';
+        document.getElementById('finalCount').textContent = report.stats?.final_count ?? '-';
+
+        document.getElementById('shortNewsCount').textContent = shortNews.length;
+        document.getElementById('longArticlesCount').textContent = longArticles.length;
+
+        renderShortNews(shortNews, shortContainer);
+        renderLongArticles(longArticles, longContainer);
+      } catch (e) {
+        shortContainer.innerHTML = '<div class="error">加载失败，请稍后重试</div>';
+        longContainer.innerHTML = '<div class="error">加载失败，请稍后重试</div>';
+      }
+    }
+
+    function renderShortNews(items, container) {
+      if (!items || items.length === 0) {
+        container.innerHTML = '<div class="no-data">今日暂无短资讯</div>';
+        return;
+      }
+
+      container.innerHTML = items.map((item, index) => {
+        if (item.type === 'topic') {
+          const sources = (item.articles || []).map(a =>
+            `<a href="${RSS_AI.escapeHtml(a.url)}" target="_blank" rel="noopener" class="source-link">${RSS_AI.escapeHtml(a.source || 'Unknown')}</a>`
+          ).join('、');
+          return `
+            <div class="article-card short-news-card">
+              <div class="card-header">
+                <span class="article-number">#${index + 1}</span>
+                <span class="article-source">热点话题</span>
+              </div>
+              <h3 class="article-title">${RSS_AI.escapeHtml(item.title)}</h3>
+              <p class="article-summary">${RSS_AI.escapeHtml(item.summary || '')}</p>
+              <div class="article-tags">
+                ${(item.tags || []).slice(0, 6).map(tag => `<span class="tag">${RSS_AI.escapeHtml(tag)}</span>`).join('')}
+              </div>
+              ${sources ? `<div class="topic-sources"><span class="sources-label">来源：</span>${sources}</div>` : ''}
+            </div>
+          `;
+        }
+
+        return `
+          <div class="article-card short-news-card">
+            <div class="card-header">
+              <span class="article-number">#${index + 1}</span>
+              <span class="article-source">${RSS_AI.escapeHtml(item.source || '未知来源')}</span>
+            </div>
+            <h3 class="article-title">${RSS_AI.escapeHtml(item.title)}</h3>
+            <p class="article-summary">${RSS_AI.escapeHtml(item.summary || '')}</p>
+            <div class="article-tags">
+              ${(item.tags || []).slice(0, 4).map(tag => `<span class="tag">${RSS_AI.escapeHtml(tag)}</span>`).join('')}
+            </div>
+            <div class="card-footer">
+              <a href="${RSS_AI.escapeHtml(item.url)}" target="_blank" rel="noopener" class="btn btn-sm btn-outline">阅读原文 ↗</a>
+              <span class="article-date">${RSS_AI.formatTime(item.published_at)}</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderLongArticles(items, container) {
+      if (!items || items.length === 0) {
+        container.innerHTML = '<div class="no-data">今日暂无深度文章</div>';
+        return;
+      }
+
+      container.innerHTML = items.map((article, index) => {
+        const hasTranslation = !!(article.translated_content || article.translated_title || article.translated_summary);
+        const title = article.title || 'Untitled';
+        const summary = article.summary || '';
+        const translatedTitle = article.translated_title || title;
+        const translatedSummary = article.translated_summary || summary;
+
+        return `
+          <div class="article-card long-article-card" data-index="${index}" data-translated="false">
+            <div class="card-header">
+              <span class="article-number">#${index + 1}</span>
+              <span class="article-source">${RSS_AI.escapeHtml(article.source || '未知来源')}</span>
+              <div class="card-actions">
+                ${hasTranslation ? `
+                  <button class="btn btn-sm btn-outline toggle-translate" data-index="${index}">🌐 翻译</button>
+                ` : ''}
+                <button class="btn btn-sm btn-outline toggle-expand" data-index="${index}">📖 展开全文</button>
+              </div>
+            </div>
+            <h3 class="article-title" id="title-${index}">${RSS_AI.escapeHtml(title)}</h3>
+            <p class="article-summary" id="summary-${index}">${RSS_AI.escapeHtml(summary)}</p>
+            <div class="article-tags">
+              ${(article.tags || []).map(tag => `<span class="tag">${RSS_AI.escapeHtml(tag)}</span>`).join('')}
+            </div>
+            <div class="article-meta">
+              <span class="meta-item">📅 ${RSS_AI.formatDate(article.published_at || currentDate)}</span>
+              ${article.reading_time ? `<span class="meta-item">⏱️ ${article.reading_time} 分钟</span>` : ''}
+            </div>
+            <div class="article-content collapsed" id="content-${index}">
+              <div class="content-body" id="body-${index}">
+                ${article.content ? marked.parse(article.content) : '<p>暂无内容</p>'}
+              </div>
+              ${hasTranslation ? `
+                <div class="content-translated" id="translated-${index}" style="display: none;">
+                  ${article.translated_content ? marked.parse(article.translated_content) : '<p>暂无翻译</p>'}
+                </div>
+              ` : ''}
+            </div>
+            <div class="card-footer">
+              <a href="${RSS_AI.escapeHtml(article.url)}" target="_blank" rel="noopener" class="btn btn-sm btn-primary">阅读原文 ↗</a>
+            </div>
+            <template id="translated-title-${index}">${RSS_AI.escapeHtml(translatedTitle)}</template>
+            <template id="translated-summary-${index}">${RSS_AI.escapeHtml(translatedSummary)}</template>
+          </div>
+        `;
+      }).join('');
+
+      container.querySelectorAll('.toggle-expand').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const index = e.currentTarget.dataset.index;
+          const content = document.getElementById(`content-${index}`);
+          const isCollapsed = content.classList.contains('collapsed');
+          content.classList.toggle('collapsed');
+          e.currentTarget.textContent = isCollapsed ? '📕 收起' : '📖 展开全文';
+
+          if (isCollapsed) {
+            content.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+          }
+        });
+      });
+
+      container.querySelectorAll('.toggle-translate').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const index = e.currentTarget.dataset.index;
+          const card = container.querySelector(`.long-article-card[data-index="${index}"]`);
+          const translated = card.dataset.translated === 'true';
+
+          const originalBody = document.getElementById(`body-${index}`);
+          const translatedBody = document.getElementById(`translated-${index}`);
+          const titleEl = document.getElementById(`title-${index}`);
+          const summaryEl = document.getElementById(`summary-${index}`);
+          const translatedTitle = document.getElementById(`translated-title-${index}`)?.content?.textContent || titleEl.textContent;
+          const translatedSummary = document.getElementById(`translated-summary-${index}`)?.content?.textContent || summaryEl.textContent;
+
+          if (!translated) {
+            if (translatedBody) translatedBody.style.display = 'block';
+            originalBody.style.display = 'none';
+            titleEl.textContent = translatedTitle;
+            summaryEl.textContent = translatedSummary;
+            card.dataset.translated = 'true';
+            e.currentTarget.textContent = '原文';
+          } else {
+            if (translatedBody) translatedBody.style.display = 'none';
+            originalBody.style.display = 'block';
+            titleEl.textContent = currentLongArticles[index]?.title || titleEl.textContent;
+            summaryEl.textContent = currentLongArticles[index]?.summary || summaryEl.textContent;
+            card.dataset.translated = 'false';
+            e.currentTarget.textContent = '🌐 翻译';
+          }
+        });
+      });
+
+      container.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+    }
+
+    function navigate(offset) {
+      const idx = availableDates.indexOf(currentDate);
+      const next = availableDates[idx + offset];
+      if (next) loadDaily(next);
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      RSS_AI.initTheme();
+      const index = await RSS_AI.fetchIndex();
+      availableDates = RSS_AI.getAvailableDailyDates(index).sort();
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const paramDate = urlParams.get('date');
+      const initial = (paramDate && availableDates.includes(paramDate)) ? paramDate : RSS_AI.getLatestDailyDate(index);
+      await loadDaily(initial);
+
+      document.getElementById('prevDay').addEventListener('click', () => navigate(-1));
+      document.getElementById('nextDay').addEventListener('click', () => navigate(1));
+      document.getElementById('datePicker').addEventListener('change', (e) => {
+        const selected = e.target.value;
+        if (selected) loadDaily(selected);
+      });
+    });
+  </script>
+</body>
+</html>

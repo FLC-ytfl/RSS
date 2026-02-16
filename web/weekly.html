@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>周报 - RSS-AI 每日技术资讯</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <h1 class="logo">RSS-AI 每日技术资讯</h1>
+        <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+          <span class="icon-sun">☀️</span>
+          <span class="icon-moon">🌙</span>
+        </button>
+      </div>
+      <nav class="nav">
+        <a href="index.html" class="nav-link">首页</a>
+        <a href="daily.html" class="nav-link">日报</a>
+        <a href="weekly.html" class="nav-link active">周报</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <!-- Week Navigation -->
+      <section class="date-nav-section">
+        <button class="btn btn-secondary" id="prevWeek">◀ 前一周</button>
+        <div class="current-date">
+          <h2 id="currentWeek">加载中...</h2>
+        </div>
+        <button class="btn btn-secondary" id="nextWeek">后一周 ▶</button>
+      </section>
+
+      <!-- Weekly Stats -->
+      <section class="stats-section">
+        <h2>本周概览</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon">📄</div>
+            <div class="stat-content">
+              <span class="stat-value" id="totalArticles">0</span>
+              <span class="stat-label">总文章数</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📰</div>
+            <div class="stat-content">
+              <span class="stat-value" id="uniqueSources">0</span>
+              <span class="stat-label">来源数</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">🏷️</div>
+            <div class="stat-content">
+              <span class="stat-value" id="uniqueTags">0</span>
+              <span class="stat-label">标签数</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">⭐</div>
+            <div class="stat-content">
+              <span class="stat-value" id="highlightCount">0</span>
+              <span class="stat-label">精选文章</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Charts Section -->
+      <section class="charts-section">
+        <h2>数据分析</h2>
+        <div class="charts-grid three-col">
+          <div class="chart-container">
+            <h3>标签频率分布</h3>
+            <canvas id="tagsChart"></canvas>
+          </div>
+          <div class="chart-container">
+            <h3>来源分布</h3>
+            <canvas id="sourcesChart"></canvas>
+          </div>
+          <div class="chart-container">
+            <h3>每日趋势</h3>
+            <canvas id="trendChart"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <!-- Word Cloud Section -->
+      <section class="wordcloud-section">
+        <h2>关键词云</h2>
+        <div class="wordcloud-container">
+          <canvas id="wordCloud"></canvas>
+        </div>
+      </section>
+
+      <!-- Highlight Articles -->
+      <section class="articles-section">
+        <div class="section-header">
+          <h2>⭐ 本周精选</h2>
+          <span class="count-badge" id="highlightCountBadge">0</span>
+        </div>
+        <div class="articles-list" id="highlightArticles">
+          <div class="loading">加载中...</div>
+        </div>
+      </section>
+
+      <!-- Daily Summary -->
+      <section class="daily-summary-section">
+        <h2>每日摘要</h2>
+        <div class="daily-summary-list" id="dailySummaryList">
+          <div class="loading">加载中...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>RSS-AI 每日技术资讯 &copy; 2024 - 由 AI 精选整理</p>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    let availableWeeks = [];
+    let currentWeekId = null;
+    let tagsChart = null;
+    let sourcesChart = null;
+    let trendChart = null;
+
+    function destroyCharts() {
+      if (tagsChart) tagsChart.destroy();
+      if (sourcesChart) sourcesChart.destroy();
+      if (trendChart) trendChart.destroy();
+      tagsChart = null;
+      sourcesChart = null;
+      trendChart = null;
+    }
+
+    function renderCharts(stats) {
+      destroyCharts();
+
+      const tagsCtx = document.getElementById('tagsChart').getContext('2d');
+      const tagLabels = (stats.top_tags || []).slice(0, 15).map(t => t.tag);
+      const tagValues = (stats.top_tags || []).slice(0, 15).map(t => t.count);
+      tagsChart = new Chart(tagsCtx, {
+        type: 'bar',
+        data: {
+          labels: tagLabels,
+          datasets: [{
+            label: '出现次数',
+            data: tagValues,
+            backgroundColor: 'rgba(0, 102, 204, 0.6)',
+            borderColor: 'rgba(0, 102, 204, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          indexAxis: 'y',
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } }
+        }
+      });
+
+      const sourcesCtx = document.getElementById('sourcesChart').getContext('2d');
+      const sourceLabels = (stats.top_sources || []).slice(0, 8).map(s => s.source);
+      const sourceValues = (stats.top_sources || []).slice(0, 8).map(s => s.count);
+      sourcesChart = new Chart(sourcesCtx, {
+        type: 'doughnut',
+        data: {
+          labels: sourceLabels,
+          datasets: [{
+            data: sourceValues,
+            backgroundColor: [
+              '#0066cc', '#00cc66', '#cc6600', '#cc0066',
+              '#6600cc', '#00cccc', '#66cc00', '#cc00cc'
+            ]
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { position: 'right' } }
+        }
+      });
+
+      const trendCtx = document.getElementById('trendChart').getContext('2d');
+      const trend = (stats.daily_trend || []).slice().sort((a, b) => a.date.localeCompare(b.date));
+      trendChart = new Chart(trendCtx, {
+        type: 'line',
+        data: {
+          labels: trend.map(d => RSS_AI.formatDate(d.date, false)),
+          datasets: [{
+            label: '文章数',
+            data: trend.map(d => d.count || 0),
+            borderColor: '#0066cc',
+            backgroundColor: 'rgba(0, 102, 204, 0.1)',
+            fill: true,
+            tension: 0.3
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+
+    function renderWordCloud(wordcloud) {
+      const canvas = document.getElementById('wordCloud');
+      const words = (wordcloud || []).slice(0, 100).map(w => [w.word, (w.count || 1) * 10]);
+
+      if (words.length === 0) {
+        canvas.parentElement.innerHTML = '<div class="no-data">暂无数据</div>';
+        return;
+      }
+
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      WordCloud(canvas, {
+        list: words,
+        gridSize: 8,
+        weightFactor: 3,
+        fontFamily: 'Microsoft YaHei, sans-serif',
+        color: function() {
+          const colors = isDark
+            ? ['#4da6ff', '#66cc66', '#ffcc00', '#ff6666', '#cc66ff']
+            : ['#0066cc', '#009933', '#cc6600', '#cc3366', '#6633cc'];
+          return colors[Math.floor(Math.random() * colors.length)];
+        },
+        rotateRatio: 0.3,
+        backgroundColor: 'transparent'
+      });
+    }
+
+    function renderHighlights(highlights) {
+      const container = document.getElementById('highlightArticles');
+      if (!highlights || highlights.length === 0) {
+        container.innerHTML = '<div class="no-data">本周暂无精选文章</div>';
+        return;
+      }
+
+      container.innerHTML = highlights.map((article, index) => `
+        <div class="article-card highlight-card">
+          <div class="card-header">
+            <span class="article-number">#${index + 1}</span>
+            <span class="article-source">${RSS_AI.escapeHtml(article.source || '未知来源')}</span>
+            <span class="article-date">${RSS_AI.formatDate(article.published_at || article.date || '')}</span>
+          </div>
+          <h3 class="article-title">${RSS_AI.escapeHtml(article.title || '')}</h3>
+          <p class="article-summary">${RSS_AI.escapeHtml(article.summary || '')}</p>
+          <div class="article-tags">
+            ${(article.tags || []).map(tag => `<span class="tag">${RSS_AI.escapeHtml(tag)}</span>`).join('')}
+          </div>
+          <div class="card-footer">
+            <a href="${RSS_AI.escapeHtml(article.url || '')}" target="_blank" rel="noopener" class="btn btn-sm btn-primary">阅读原文 ↗</a>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function renderDailyList(trend) {
+      const container = document.getElementById('dailySummaryList');
+      const list = (trend || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+      if (list.length === 0) {
+        container.innerHTML = '<div class="no-data">暂无每日数据</div>';
+        return;
+      }
+
+      container.innerHTML = list.map(d => `
+        <div class="daily-summary-item">
+          <div class="summary-header">
+            <h3>${RSS_AI.formatDate(d.date)}</h3>
+            <span class="article-count">${d.count || 0} 条</span>
+          </div>
+          <a href="daily.html?date=${d.date}" class="btn btn-sm btn-outline">查看详情 →</a>
+        </div>
+      `).join('');
+    }
+
+    async function loadWeekly(weekId) {
+      currentWeekId = weekId;
+      window.history.pushState({}, '', `weekly.html?week=${weekId}`);
+
+      try {
+        const report = await RSS_AI.fetchWeeklyReport(weekId);
+        document.getElementById('currentWeek').textContent = `${RSS_AI.formatDate(report.week_start)} - ${RSS_AI.formatDate(report.week_end)}`;
+
+        document.getElementById('totalArticles').textContent = report.stats?.total_articles || 0;
+        document.getElementById('uniqueSources').textContent = (report.stats?.top_sources || []).length;
+        document.getElementById('uniqueTags').textContent = (report.stats?.top_tags || []).length;
+        document.getElementById('highlightCount').textContent = (report.highlights || []).length;
+        document.getElementById('highlightCountBadge').textContent = (report.highlights || []).length;
+
+        renderCharts(report.stats || {});
+        renderWordCloud(report.wordcloud || []);
+        renderHighlights(report.highlights || []);
+        renderDailyList(report.stats?.daily_trend || []);
+      } catch (e) {
+        document.getElementById('highlightArticles').innerHTML = '<div class="error">加载失败，请稍后重试</div>';
+      }
+    }
+
+    function navigate(offset) {
+      const idx = availableWeeks.indexOf(currentWeekId);
+      const next = availableWeeks[idx + offset];
+      if (next) loadWeekly(next);
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      RSS_AI.initTheme();
+      const index = await RSS_AI.fetchIndex();
+      availableWeeks = RSS_AI.getAvailableWeeklyIds(index).sort();
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const paramWeek = urlParams.get('week');
+      const initial = (paramWeek && availableWeeks.includes(paramWeek)) ? paramWeek : RSS_AI.getLatestWeekId(index);
+      if (!initial) {
+        document.getElementById('highlightArticles').innerHTML = '<div class="no-data">暂无周报</div>';
+        return;
+      }
+
+      await loadWeekly(initial);
+
+      document.getElementById('prevWeek').addEventListener('click', () => navigate(-1));
+      document.getElementById('nextWeek').addEventListener('click', () => navigate(1));
+    });
+  </script>
+</body>
+</html>

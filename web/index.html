@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSS-AI 每日技术资讯</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <h1 class="logo">RSS-AI 每日技术资讯</h1>
+        <button class="theme-toggle" id="themeToggle" aria-label="切换主题">
+          <span class="icon-sun">☀️</span>
+          <span class="icon-moon">🌙</span>
+        </button>
+      </div>
+      <nav class="nav">
+        <a href="index.html" class="nav-link active">首页</a>
+        <a href="daily.html" class="nav-link">日报</a>
+        <a href="weekly.html" class="nav-link">周报</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <!-- Date Picker Section -->
+      <section class="date-picker-section">
+        <h2>选择日期</h2>
+        <div class="date-controls">
+          <input type="date" id="datePicker" class="date-input">
+          <button class="btn btn-primary" id="loadDateBtn">加载报告</button>
+        </div>
+      </section>
+
+      <!-- Stats Overview -->
+      <section class="stats-section">
+        <h2>统计概览</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-icon">📄</div>
+            <div class="stat-content">
+              <span class="stat-value" id="totalArticles">0</span>
+              <span class="stat-label">总文章数</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📰</div>
+            <div class="stat-content">
+              <span class="stat-value" id="shortNewsCount">0</span>
+              <span class="stat-label">短资讯</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">📚</div>
+            <div class="stat-content">
+              <span class="stat-value" id="longArticlesCount">0</span>
+              <span class="stat-label">深度文章</span>
+            </div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-icon">🏷️</div>
+            <div class="stat-content">
+              <span class="stat-value" id="uniqueTags">0</span>
+              <span class="stat-label">标签数</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Charts Section -->
+      <section class="charts-section">
+        <h2>数据可视化</h2>
+        <div class="charts-grid">
+          <div class="chart-container">
+            <h3>标签分布</h3>
+            <canvas id="tagsChart"></canvas>
+          </div>
+          <div class="chart-container">
+            <h3>来源分布</h3>
+            <canvas id="sourcesChart"></canvas>
+          </div>
+        </div>
+      </section>
+
+      <!-- Recent Reports List -->
+      <section class="reports-section">
+        <h2>最新报告</h2>
+        <div class="reports-list" id="reportsList">
+          <div class="loading">加载中...</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>RSS-AI 每日技术资讯 &copy; 2024 - 由 AI 精选整理</p>
+    </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    let tagsChart = null;
+    let sourcesChart = null;
+
+    function buildDistributions(items) {
+      const tagCounts = {};
+      const sourceCounts = {};
+
+      for (const item of items) {
+        for (const tag of (item.tags || [])) {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        }
+
+        if (item.type === 'topic') {
+          for (const a of (item.articles || [])) {
+            const source = a.source || 'Unknown';
+            sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+          }
+        } else {
+          const source = item.source || 'Unknown';
+          sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+        }
+      }
+
+      return { tagCounts, sourceCounts };
+    }
+
+    function renderCharts(tagCounts, sourceCounts) {
+      const tagLabels = Object.keys(tagCounts).slice(0, 10);
+      const tagValues = tagLabels.map(k => tagCounts[k]);
+      const sourceLabels = Object.keys(sourceCounts).slice(0, 8);
+      const sourceValues = sourceLabels.map(k => sourceCounts[k]);
+
+      if (tagsChart) tagsChart.destroy();
+      if (sourcesChart) sourcesChart.destroy();
+
+      const tagsCtx = document.getElementById('tagsChart').getContext('2d');
+      tagsChart = new Chart(tagsCtx, {
+        type: 'bar',
+        data: {
+          labels: tagLabels,
+          datasets: [{
+            label: '文章数',
+            data: tagValues,
+            backgroundColor: 'rgba(0, 102, 204, 0.6)',
+            borderColor: 'rgba(0, 102, 204, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } }
+        }
+      });
+
+      const sourcesCtx = document.getElementById('sourcesChart').getContext('2d');
+      sourcesChart = new Chart(sourcesCtx, {
+        type: 'doughnut',
+        data: {
+          labels: sourceLabels,
+          datasets: [{
+            data: sourceValues,
+            backgroundColor: [
+              '#0066cc', '#00cc66', '#cc6600', '#cc0066',
+              '#6600cc', '#00cccc', '#66cc00', '#cc00cc'
+            ]
+          }]
+        },
+        options: { responsive: true, maintainAspectRatio: false }
+      });
+    }
+
+    async function loadHome() {
+      RSS_AI.initTheme();
+
+      const reportsList = document.getElementById('reportsList');
+      const datePicker = document.getElementById('datePicker');
+
+      let index;
+      try {
+        index = await RSS_AI.fetchIndex();
+      } catch (e) {
+        reportsList.innerHTML = '<div class="error">加载失败，请检查数据源配置</div>';
+        return;
+      }
+
+      const dates = RSS_AI.getAvailableDailyDates(index);
+      const latestDate = dates[0] || new Date().toISOString().split('T')[0];
+      datePicker.value = latestDate;
+
+      reportsList.innerHTML = dates.slice(0, 10).map(date => {
+        const entry = (index.daily_reports || []).find(r => r.date === date) || {};
+        const stats = entry.stats || {};
+        return `
+          <a href="daily.html?date=${date}" class="report-item">
+            <div class="report-date">${RSS_AI.formatDate(date)}</div>
+            <div class="report-info">
+              <span class="report-count">${stats.final_count || 0} 条</span>
+              <span class="report-tags">短讯 ${stats.short_news || 0} / 长文 ${stats.long_articles || 0}</span>
+            </div>
+          </a>
+        `;
+      }).join('') || '<div class="no-data">暂无报告</div>';
+
+      // Load stats + charts for latest date
+      try {
+        const report = await RSS_AI.fetchDailyReport(latestDate);
+        const shortNews = report.sections?.short_news || [];
+        const longArticles = report.sections?.long_articles || [];
+        const allItems = [...shortNews, ...longArticles];
+
+        document.getElementById('totalArticles').textContent = allItems.length;
+        document.getElementById('shortNewsCount').textContent = shortNews.length;
+        document.getElementById('longArticlesCount').textContent = longArticles.length;
+
+        const uniqueTags = new Set();
+        for (const item of allItems) {
+          for (const tag of (item.tags || [])) uniqueTags.add(tag);
+        }
+        document.getElementById('uniqueTags').textContent = uniqueTags.size;
+
+        const { tagCounts, sourceCounts } = buildDistributions(allItems);
+        renderCharts(tagCounts, sourceCounts);
+      } catch (e) {
+        // ignore
+      }
+
+      document.getElementById('loadDateBtn').addEventListener('click', () => {
+        const date = datePicker.value;
+        if (date) window.location.href = `daily.html?date=${date}`;
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', loadHome);
+  </script>
+</body>
+</html>

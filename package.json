@@ -1,0 +1,20 @@
+{
+  "name": "rss-ai",
+  "version": "1.0.0",
+  "description": "RSS feed analyzer with AI-powered content processing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^25.0.0",
+    "marked": "^15.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

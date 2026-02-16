@@ -1,0 +1,80 @@
+name: Daily RSS Fetch
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # UTC 22:00 = Beijing 06:00
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 0
+
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: code/package-lock.json
+
+      - name: Install dependencies
+        working-directory: code
+        run: npm ci
+
+      - name: Seed index from data branch
+        shell: bash
+        run: |
+          mkdir -p code/output
+          if [ -f data/index.json ]; then
+            cp data/index.json code/output/index.json
+          fi
+
+      - name: Fetch RSS feeds
+        working-directory: code
+        run: node src/fetcher/index.js
+
+      - name: Analyze and process
+        working-directory: code
+        run: node src/analyzer/index.js
+        env:
+          AI_API_URL: ${{ secrets.AI_API_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+
+      - name: Generate daily report
+        working-directory: code
+        run: node src/reporter/daily.js
+
+      - name: Publish to data branch
+        shell: bash
+        run: |
+          date="$(date -u +%Y-%m-%d)"
+          mkdir -p data/daily
+          cp "code/output/daily/${date}.json" "data/daily/${date}.json"
+          cp "code/output/index.json" "data/index.json"
+
+      - name: Commit and push data branch
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          date="$(date -u +%Y-%m-%d)"
+          git add "daily/${date}.json" index.json
+          git commit -m "Daily report for ${date}" || echo "No changes"
+          git push origin data

@@ -1,0 +1,45 @@
+name: Weekly Report
+
+on:
+  schedule:
+    - cron: '30 22 * * 0'  # Sunday UTC 22:30
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 0
+
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: code
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate weekly report
+        working-directory: data
+        run: node ../code/src/reporter/weekly.js
+
+      - name: Commit to data branch
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weekly index.json
+          git commit -m "Weekly report for $(date -u +%Y-W%V)" || echo "No changes"
+          git push origin data
