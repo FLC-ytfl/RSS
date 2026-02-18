@@ -5,7 +5,6 @@ const { classifyArticles } = require('./classifier');
 const { extractContents } = require('./content-extractor');
 const { generateTags } = require('./tagger');
 const { generateSummaries } = require('./summarizer');
-const { translateArticles } = require('./translator');
 const { mergeSimilarArticles } = require('./merger');
 const { APIClient } = require('../utils/api-client');
 
@@ -97,7 +96,7 @@ async function analyzeArticles() {
     content: a.extractedContent?.markdown || a.content || a.description || ''
   }));
   const longTagged = await generateTags(longTagInput, client);
-  const longTranslated = await translateArticles(longTagged, client);
+  const longTranslated = longTagged;
 
   const longFinal = longTranslated.map(a => {
     const content = a.extractedContent?.markdown || '';
@@ -111,9 +110,9 @@ async function analyzeArticles() {
       tags: a.tags || [],
       published_at: a.pubDate || a.isoDate || null,
       reading_time: estimateReadingTimeMinutes(content),
-      translated_title: a.translated_title,
-      translated_summary: a.translated_summary,
-      translated_content: a.translated_content
+      translated_title: null,
+      translated_summary: null,
+      translated_content: null
     };
   });
 
@@ -136,15 +135,15 @@ async function analyzeArticles() {
       : item.contentSnippet || item.content || item.summary || ''
   }));
   const shortTagged = await generateTags(shortTagInput, client);
-  const shortTranslated = await translateArticles(shortTagged, client);
+  const shortTranslated = shortTagged;
 
   const shortFinal = shortTranslated.map(item => {
     if (item.type === 'topic') {
       return {
         ...item,
         tags: item.tags || [],
-        translated_title: item.translated_title,
-        translated_summary: item.translated_summary
+        translated_title: null,
+        translated_summary: null
       };
     }
 
@@ -156,8 +155,8 @@ async function analyzeArticles() {
       source: item.source || 'Unknown',
       tags: item.tags || [],
       published_at: item.published_at || item.pubDate || item.isoDate || null,
-      translated_title: item.translated_title,
-      translated_summary: item.translated_summary
+      translated_title: null,
+      translated_summary: null
     };
   });
 
