@@ -1,0 +1,832 @@
+{
+  "date": "2026-02-21",
+  "stats": {
+    "total_fetched": 268,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 27,
+    "long_articles": 3
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Thibault Sottiaux",
+        "summary": "<blockquote cite=\"https://twitter.com/thsottiaux/status/2024947946849186064\"><p>We’ve made GPT-5.3-Codex-Spark about 30% faster. It is now serving at over 1200 tokens per second.</p></blockquote> <p class=\"cite\">&mdash;...",
+        "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-02-21T01:30:21.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Computing big, certified Fibonacci numbers",
+        "summary": "I’ve written before about computing big Fibonacci numbers, and about creating a certificate to verify a Fibonacci number has been calculated correctly. This post will revisit both, giving a different approach to computin...",
+        "url": "https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sat, 21 Feb 2026 18:13:13 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Track Zelda release anniversaries in your calendar",
+        "summary": "The original Legend of Zelda came out 40 years ago today. With other birthdays on the horizon, like Twilight Princess’s 20th in November, I wanted a calendar that showed the anniversary of every Zelda game. So I made one...",
+        "url": "https://evanhahn.com/zelda-anniversary-calendar/",
+        "source": "Evan Hahn (dot com)",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Sat, 21 Feb 2026 00:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "OpenBenches at FOSDEM",
+        "summary": "At the recent FOSDEM, I did a very quick lightning talk about our OpenBenches project. Sadly, despite the best efforts of the AV team, the video had a missing section. I took my own audio recording and zipkid took some p...",
+        "url": "https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Sat, 21 Feb 2026 12:34:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare outage on February 20, 2026",
+        "summary": "Cloudflare suffered a service outage on February 20, 2026. A subset of customers who use Cloudflare’s Bring Your Own IP (BYOIP) service saw their routes to the Internet withdrawn via Border Gateway Protocol (BGP).",
+        "url": "https://blog.cloudflare.com/cloudflare-outage-february-20-2026/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud"
+        ],
+        "published_at": "Sat, 21 Feb 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 02/21/26",
+        "summary": "Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial technology.",
+        "url": "https://www.construction-physics.com/p/reading-list-022126",
+        "source": "Construction Physics",
+        "tags": [
+          "Cloud"
+        ],
+        "published_at": "Sat, 21 Feb 2026 13:37:44 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-21T22:13:41.666Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Wrapping Code Comments",
+        "summary": "<think>\nThe user wants me to summarize this article about wrapping code comments. Let me identify the key points:\n\n1. Code and comments should be wrapped at different column widths\n2. For comments, the width should be relative to where the comment starts (indented comments should wrap narrower)\n3. Optimal line length is about 100 columns for code (fits two editors side by side)\n4. Comments are easier to read when wrapped narrower (70 columns) than code, unless it would push the line past 100\n5. Tools like VS Code and Emacs don't well-support relative wrapping for comments\n6. Soft-wrapping has issues because it doesn't understand text structure (like markdown lists)\n\nNow I need to write a 100-200 word summary covering these points.\n</think>\n\n# Summary\n\nThe article discusses best practices for wrapping code comments. The author argues that code and comments should have different line-width limits: code should wrap at 100 columns (allowing two editors side by side), while comment content should wrap at 70 columns—unless that would push the line past 100.\n\nKey insight: comment wrapping should be *relative* to the comment's indentation level. Indented comments should wrap narrower than top-level comments, making nested comments easier to read. However, the author notes this intuitive approach lacks proper tool support—VS Code's Rewrap extension and Emacs both handle fixed-width wrapping, not relative wrapping.\n\nThe author also addresses soft-wrapping versus hard-wrapping. Soft-wrapping fails without understanding text semantics—for example, wrapped markdown list items need proper indentation to be readable. This makes hard-wrapping comments necessary for consistent formatting across different editors and viewing contexts.",
+        "content": "Feb 21, 2026\n        \n        I was today years old when I realized that:\n\n        \n          - \n            Code and code comments ideally should be wrapped to a different\n            column.\n          \n\n          - \n            For comments, the width should be relative to the start of the\n            comment.\n          \n\n        \n\n        \n          It’s a good idea to limit line length to about 100 columns. This is a\n          physical limit, the width at which you can still comfortably fit two\n          editors side by side (see\n          [*Size Matters*](https://matklad.github.io/2025/11/28/size-matters.html)). Note an apparent contradiction: the optimal\n          width for readable prose is usually taken to be narrower, 60–70\n          columns. The contradiction is resolved by noticing that, for code,\n          indentation eats into usable space. Typically, code is much less\n          typographically dense than prose.\n        \n\n        \n          Still, I find comment blocks easier to read when they are wrapped\n          narrower than the surrounding code. I want lines to be wrapped at 100,\n          and *content* of comments to be wrapped at 70 (unless that\n          pushes overall line to be longer than 100). That is, I want layout\n          like this (using 20/30 rulers instead of 70/100, for illustrative\n          purposes):\n        \n\n        \n          \n```\n// Top level comments\n// can be this wide.\nconst S = struct {\n    // Nested comments are\n    // also this wide, but\n    // are shifted right.\n    fn f() void {\n        switch (value) {\n            0 => {\n                // But there is\n                // a hard limit.\n            }\n        }\n    }\n}\n```\n\n        \n        \n          This feels obvious in retrospect, but notably isn’t be well-supported\n          by the tools? The\n          [VS Code extension](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) I use allows configuring dedicated fill column\n          for comments, but doesn’t make it *relative*, so indented\n          comment blocks are always narrower than top-level ones. Emacs `M-q` also doesn’t do relative wrapping out of the box!\n        \n\n        \n        \n          Aside on hard-wrapping: should we bother with wrapping comments at\n          all? Can’t we rely on our editor to implement soft-wrapping? The\n          problem with soft-wrapping is that you can’t soft-wrap text correctly\n          without understanding its meaning. Consider a markdown list:\n        \n\n        \n          \n```\nA list:\n  * item one,\n  * item two.\n```\n\n        \n        \n          If the first item is long enough to necessitate wrapping, the wrapped\n          line should also be indented, which requires parsing the text as\n          markdown first:\n        \n\n        \n          \n```\nA list:\n  * item one which is long enough\n    necessitate wrapping,\n  * item two.\n```",
+        "url": "https://matklad.github.io/2026/02/21/wrapping-code-comments.html",
+        "source": "matklad",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-02-21T00:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Andrej Karpathy talks about \"Claws\"",
+        "summary": "<think>\nThe user wants me to summarize this article about Andrej Karpathy's discussion of \"Claws\" in 100-200 words. Let me identify the key points:\n\n1. Andrej Karpathy tweeted about buying a Mac Mini to experiment with Claws\n2. He defines Claws as a new layer on top of LLM agents - handling orchestration, scheduling, context, tool calls, and persistence\n3. He mentions several examples: NanoClaw (~4000 lines of code, runs in containers), nanobot, zeroclaw, ironclaw, picoclaw\n4. The term \"Claw\" is becoming a term of art for OpenClaw-like agent systems\n5. These are AI agents that run on personal hardware, communicate via messaging protocols, can act on instructions and schedule tasks\n6. The emoji associated is 🦞\n\nI need to keep this between 100-200 words and focus on key takeaways. Let me write a concise summary.\n</think>\n\n**Summary:**\n\nAndrej Karpathy recently shared his thoughts on \"Claws\" – a new category of AI systems emerging on top of LLM agents. Purchasing a Mac Mini to experiment with Claws, Karpathy describes them as an orchestration layer that handles scheduling, context management, tool calls, and persistence for AI agents.\n\nHe notes several emerging Claw implementations, including NanoClaw (built with approximately 4,000 lines of code, running everything in containers by default), nanobot, zeroclaw, ironclaw, and picoclaw.\n\nThe term \"Claw\" is gaining traction as shorthand for OpenClaw-like agent systems – AI agents that typically run on personal hardware, communicate through messaging protocols, and can both execute direct instructions and schedule autonomous tasks.\n\nKarpathy suggests Claws represent an exciting new layer in the AI technology stack, similar to how LLM agents emerged as a new layer on top of base LLMs.",
+        "content": "21st February 2026\n\n**[Andrej Karpathy talks about \"Claws\"](https://twitter.com/karpathy/status/2024987174077432126)**. Andrej Karpathy tweeted a mini-essay about buying a Mac Mini (\"The apple store person told me they are selling like hotcakes and everyone is confused\") to tinker with Claws:\n\n> I'm definitely a bit sus'd to run OpenClaw specifically [...] But I do love the concept and I think that just like LLM agents were a new layer on top of LLMs, Claws are now a new layer on top of LLM agents, taking the orchestration, scheduling, context, tool calls and a kind of persistence to a next level.\n\n> Looking around, and given that the high level idea is clear, there are a lot of smaller Claws starting to pop out. For example, on a quick skim NanoClaw looks really interesting in that the core engine is ~4000 lines of code (fits into both my head and that of AI agents, so it feels manageable, auditable, flexible, etc.) and runs everything in containers by default. [...]\n\n> Anyway there are many others - e.g. nanobot, zeroclaw, ironclaw, picoclaw (lol @ prefixes). [...]\n\n> Not 100% sure what my setup ends up looking like just yet but Claws are an awesome, exciting new layer of the AI stack.\n\nAndrej has an ear for fresh terminology (see [vibe coding](https://simonwillison.net/2025/Mar/19/vibe-coding/), [agentic engineering](https://simonwillison.net/2026/Feb/11/glm-5/)) and I think he's right about this one, too: \"**Claw**\" is becoming a term of art for the entire category of OpenClaw-like agent systems - AI agents that generally run on personal hardware, communicate via messaging protocols and can both act on direct instructions and schedule tasks.\n\nIt even comes with an established emoji 🦞",
+        "url": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Web Dev"
+        ],
+        "published_at": "2026-02-21T00:37:45.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Whale Fall",
+        "summary": "<think>\nThe user wants me to summarize this article about \"Whale Fall\" in 100-200 words. The article draws an analogy between whale falls in the ocean and what happens when open source projects are abandoned. Let me identify the key points:\n\n1. Whale fall definition - when a whale dies and sinks to the ocean floor, becoming an ecosystem that supports life for decades through three stages\n2. The analogy to open source projects:\n   - First stage: Forks appear (like scavengers) - examples: LibreOffice from OpenOffice, MariaDB from MySQL, Jenkins from Hudson\n   - Second stage: Smaller projects extract modules or build tools targeting the dead project's data formats (like enrichment opportunists) - Google Reader shutdown led to Feedly, FreshRSS, etc.\n   - Third stage: The structural skeleton (protocols, file formats, APIs) continues supporting communities (like chemosynthetic bacteria) - OpenDocument Format, OCI spec, Tree-sitter\n\n3. The article seems to be about succession patterns in abandoned open source projects\n\nI need to keep this between 100-200 words, focusing on key points and main takeaways.\n</think>\n\n## Summary\n\nThis article explores an analogy between natural whale falls and what happens when open source projects are abandoned. When a whale dies in the ocean, its carcass sinks to the ocean floor and becomes an ecosystem that sustains life for decades through three stages: scavengers strip soft tissue, enrichment opportunists colonize the bones, and chemosynthetic bacteria feed on the skeleton itself.\n\nThe author applies this same pattern to abandoned open source projects. First, forks emerge as \"scavengers\" - such as LibreOffice replacing OpenOffice, MariaDB replacing MySQL, and Jenkins replacing Hudson. Second, smaller projects extract specific modules or build tools targeting the dead project's data formats, like FreshRSS and Feedly filling Google Reader's void. Third, the underlying protocols, file formats, and API contracts outlive the original projects, continuing to support specialized communities—just as OpenDocument Format persists through various libraries, and the Open Container Initiative spec defines containers regardless of Docker's own standing.\n\nThe key takeaway is that abandoned software projects don't truly disappear; they become foundations for new ecosystems, with their structural elements often outliving the communities that created them.",
+        "content": "When a whale dies in the open ocean, its carcass sinks to the abyssal floor and becomes an ecosystem. Marine biologists call this a [whale fall](https://en.wikipedia.org/wiki/Whale_fall), and the body sustains life in three overlapping stages: mobile scavengers strip the soft tissue over months, enrichment opportunists colonise the bones and surrounding sediment for years, and chemosynthetic bacteria feed on the skeleton itself for decades, converting the lipids stored in bone into energy that supports entire communities of specialised organisms. A single whale fall can sustain life on an otherwise barren ocean floor for fifty years.\n\n[Michael Winser](https://www.linkedin.com/in/michaelw) mentioned whale fall offhand while we were talking about what happens to the dependency graphs of abandoned projects, and it won’t leave my head.\n\nA large open source project goes unmaintained. Maybe the maintainer burns out, maybe the company behind it pivots. The project stops getting updates but doesn’t disappear. It sits on GitHub accumulating issues, its last commit receding further into the past, and somebody forks it to start merging the most urgent patches. If the project was popular enough, multiple forks appear, competing for users the way hagfish compete for blubber, though most die quickly and one or two survive on the strength of someone with enough time or institutional support to keep going. OpenOffice became LibreOffice this way, MySQL became MariaDB, Hudson became Jenkins, each a scavenger fork that grew into the canonical replacement through a familiar sequence of fork announcement, migration guide, and “why you should switch” blog posts.\n\nSmaller projects then start extracting specific modules or building tools that target the dead project’s data formats. Google Reader wasn’t open source, but the same thing happened when it shut down: Feedly, Miniflux, FreshRSS, Tiny Tiny RSS, and a dozen others rushed to fill the vacuum, several of them implementing the Google Reader API or the Fever API not because those were good APIs but because years of RSS clients had been built to speak them. The licence didn’t matter. The interfaces were public, other software depended on them, and that was enough.\n\nAnd then the structural skeleton, the protocols and file formats and API contracts, goes on supporting specialised communities that may not even know where the bones came from. OpenDocument Format has outlasted the OpenOffice community that created it, sustained by document format libraries across dozens of language ecosystems. Docker donated its container runtime and image format to the Open Container Initiative in 2015. The OCI spec now defines how containers work regardless of runtime. Docker’s own dominance faded; the spec didn’t. Tree-sitter was built for Atom, and after GitHub archived Atom it became the syntax engine inside Zed, Neovim, Helix, and most editors shipped in the last few years.\n\n### Succession\n\nThe pattern I keep noticing with unmaintained libraries is successive recolonisation. A project goes quiet, someone forks it, other projects start depending on the fork, and then that fork maintainer burns out too and the whole cycle repeats at a smaller scale. Each generation of fork is typically smaller than the last, with fewer contributors and a narrower user base, until eventually the idea itself migrates rather than the code. Someone in another language ecosystem looks at the accumulated wreckage and decides to rewrite the concept from scratch, carrying the design forward but leaving the implementation behind.\n\nSass went through this. The original reference implementation was a Ruby gem. When Ruby’s performance became a bottleneck, LibSass rewrote it in C++, and the `sassc` gem wrapped that for Ruby users. Then LibSass itself was deprecated in favour of Dart Sass, which is now the canonical implementation. The concept migrated from Ruby to C++ to Dart across a decade, each rewrite benefiting from the accumulated bug reports and design arguments of its predecessors, and at each stage there were wrapper libraries in other ecosystems feeding on the structural skeleton of the Sass language spec. Most people writing Sass today have no idea it started as a Ruby gem.\n\nSuccessive recolonisation has a nasty failure mode. Edera discovered a [differential parsing bug in Rust’s tar-rs library](https://opensourcesecurity.io/2025/2025-12-tarmageddon-alex/) that affected every fork downstream: tar-rs itself, async-tar, tokio-tar, and multiple internal forks maintained by companies like Astral (whose fork ships inside the uv package manager). Coordinated disclosure meant contacting around twenty entities across a fragmented fork graph where three of the four library versions were unmaintained and several maintainers were unreachable. The vulnerability existed because the code had been copied forward through successive forks without anyone re-auditing the PAX header parsing that all of them inherited from the original. The bug had been sitting in the bones the whole time, inherited by every fork. Discovering which forks of a package are affected by an advisory is a problem I’m working on separately, because right now nobody has good tooling for it.\n\nCentOS after the Stream pivot is the same pattern at operating system scale: Rocky Linux and AlmaLinux forked, smaller RHEL-compatible rebuilds appeared in the enrichment layer around them, and the structural skeleton underneath, RPM packaging, systemd conventions, filesystem hierarchy, persisted unchanged regardless of which particular distribution is alive or dead at any given moment.\n\n### Licence changes\n\nWhen a project switches from an open source licence to a source-available one, the scavenger stage triggers almost immediately, often before the change even takes effect. Redis to [Valkey](https://github.com/valkey-io/valkey), Elasticsearch to [OpenSearch](https://opensearch.org/), Terraform to [OpenTofu](https://opentofu.org/), the pattern by now is familiar enough that the community has it down to a routine: rush to fork the last open commit, compete briefly, and consolidate around one or two survivors. The organism isn’t exactly dead in these cases. Redis the product still has revenue and a roadmap. But from the perspective of the open source ecosystem the body of code has stopped accepting outside contributions, and the forks start drifting from the original the way MariaDB drifted from MySQL.\n\nThe abstraction layers are the part that lasts. Every project that integrated with the open version faces a choice between following the proprietary version or switching to the fork, and plenty of them just build a compatibility shim instead. Those shims tend to outlast the controversy that created them, feeding quietly on the skeleton of the original API years after the licence debate has cooled off.\n\n### Sun Microsystems\n\nOracle’s acquisition of Sun in 2010 was less a single whale fall than an entire pod dying at sea simultaneously. Java, Solaris, ZFS, DTrace, VirtualBox, NetBeans, GlassFish, Hudson, MySQL, each sank to a separate ocean floor and spawned its own succession. Some produced single dominant forks (Hudson to Jenkins, ZFS to OpenZFS), others scattered into competing lineages (MySQL alone fed MariaDB, Percona, and briefly Drizzle, which itself became a smaller whale fall when it was abandoned), and some bounced between foundations before settling (NetBeans to Apache, GlassFish to Payara and the broader Jakarta EE ecosystem). The structural skeletons underneath all of it, the JVM bytecode format, the ZFS on-disk format, the MySQL wire protocol, are still load-bearing in projects whose developers have never heard of Sun.\n\n### Shallow water\n\nSome projects die in shallow water where the carcass gets recycled quickly. Acqui-hires work this way: the company gets absorbed, the code goes proprietary or gets archived, and the knowledge disperses with the people rather than accumulating in a public carcass that others can feed on. Corporate consolidation has a similar effect, because when a large independent project gets folded into a platform company’s proprietary service, the nutrients get recycled in the water column rather than sinking deep enough for succession to happen.\n\nI think the current trend of consolidation under cloud providers is reducing the whale fall rate in open source, and that this has second-order effects on ecosystem diversity that nobody is tracking. You could measure it: look at the fork and dependency graphs of dead projects over time, count how many new projects cite a dead dependency, compare the half-life of a whale fall in npm versus crates versus rubygems. Do some ecosystems have deeper ocean floors, slower decomposition, longer-lasting structural influence? The data exists in package registries and forge APIs, but I haven’t seen anyone ask the question.\n\nAn open source ecosystem where every large project is owned by a platform company, maintained indefinitely or quietly absorbed on death, is one where those enrichment and chemosynthetic stages rarely get a chance to develop, and the small specialised organisms that depend on whale falls for food never get a chance to evolve. The healthiest ecosystems have a steady supply of whale falls, which is an odd thing to root for since it means wishing for the death of large projects, except that the deep ocean floor has no other food source.",
+        "url": "https://nesbitt.io/2026/02/21/whale-fall.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Database",
+          "Product"
+        ],
+        "published_at": "2026-02-21T00:00:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Wrapping Code Comments - <think> The user wants me to summarize this article about wrapping code comments. Let me i...",
+    "Andrej Karpathy talks about \"Claws\" - <think> The user wants me to summarize this article about Andrej Karpathy's discussion of...",
+    "Whale Fall - <think> The user wants me to summarize this article about \"Whale Fall\" in 100-200 words. T..."
+  ],
+  "wordcloud": [
+    {
+      "word": "comments",
+      "count": 13
+    },
+    {
+      "word": "code",
+      "count": 11
+    },
+    {
+      "word": "projects",
+      "count": 9
+    },
+    {
+      "word": "like",
+      "count": 7
+    },
+    {
+      "word": "wrapping",
+      "count": 7
+    },
+    {
+      "word": "article",
+      "count": 7
+    },
+    {
+      "word": "key",
+      "count": 7
+    },
+    {
+      "word": "claws",
+      "count": 7
+    },
+    {
+      "word": "whale",
+      "count": 7
+    },
+    {
+      "word": "think",
+      "count": 6
+    },
+    {
+      "word": "agents",
+      "count": 6
+    },
+    {
+      "word": "open",
+      "count": 6
+    },
+    {
+      "word": "words",
+      "count": 5
+    },
+    {
+      "word": "points",
+      "count": 5
+    },
+    {
+      "word": "summary",
+      "count": 5
+    },
+    {
+      "word": "karpathy",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "source",
+      "count": 5
+    },
+    {
+      "word": "abandoned",
+      "count": 5
+    },
+    {
+      "word": "different",
+      "count": 4
+    },
+    {
+      "word": "let",
+      "count": 4
+    },
+    {
+      "word": "relative",
+      "count": 4
+    },
+    {
+      "word": "wrap",
+      "count": 4
+    },
+    {
+      "word": "columns",
+      "count": 4
+    },
+    {
+      "word": "side",
+      "count": 4
+    },
+    {
+      "word": "author",
+      "count": 4
+    },
+    {
+      "word": "andrej",
+      "count": 4
+    },
+    {
+      "word": "layer",
+      "count": 4
+    },
+    {
+      "word": "protocols",
+      "count": 4
+    },
+    {
+      "word": "ocean",
+      "count": 4
+    },
+    {
+      "word": "formats",
+      "count": 4
+    },
+    {
+      "word": "fibonacci",
+      "count": 3
+    },
+    {
+      "word": "zelda",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "list",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "write",
+      "count": 3
+    },
+    {
+      "word": "user",
+      "count": 3
+    },
+    {
+      "word": "wants",
+      "count": 3
+    },
+    {
+      "word": "summarize",
+      "count": 3
+    },
+    {
+      "word": "identify",
+      "count": 3
+    },
+    {
+      "word": "wrapped",
+      "count": 3
+    },
+    {
+      "word": "comment",
+      "count": 3
+    },
+    {
+      "word": "narrower",
+      "count": 3
+    },
+    {
+      "word": "line",
+      "count": 3
+    },
+    {
+      "word": "editors",
+      "count": 3
+    },
+    {
+      "word": "tools",
+      "count": 3
+    },
+    {
+      "word": "soft-wrapping",
+      "count": 3
+    },
+    {
+      "word": "tool",
+      "count": 3
+    },
+    {
+      "word": "top",
+      "count": 3
+    },
+    {
+      "word": "llm",
+      "count": 3
+    },
+    {
+      "word": "containers",
+      "count": 3
+    },
+    {
+      "word": "term",
+      "count": 3
+    },
+    {
+      "word": "claw",
+      "count": 3
+    },
+    {
+      "word": "systems",
+      "count": 3
+    },
+    {
+      "word": "fall",
+      "count": 3
+    },
+    {
+      "word": "analogy",
+      "count": 3
+    },
+    {
+      "word": "stage",
+      "count": 3
+    },
+    {
+      "word": "scavengers",
+      "count": 3
+    },
+    {
+      "word": "communities",
+      "count": 3
+    },
+    {
+      "word": "replacing",
+      "count": 3
+    },
+    {
+      "word": "blockquote",
+      "count": 2
+    },
+    {
+      "word": "cite",
+      "count": 2
+    },
+    {
+      "word": "ve",
+      "count": 2
+    },
+    {
+      "word": "computing",
+      "count": 2
+    },
+    {
+      "word": "big",
+      "count": 2
+    },
+    {
+      "word": "numbers",
+      "count": 2
+    },
+    {
+      "word": "approach",
+      "count": 2
+    },
+    {
+      "word": "calendar",
+      "count": 2
+    },
+    {
+      "word": "original",
+      "count": 2
+    },
+    {
+      "word": "openbenches",
+      "count": 2
+    },
+    {
+      "word": "fosdem",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "best",
+      "count": 2
+    },
+    {
+      "word": "outage",
+      "count": 2
+    },
+    {
+      "word": "february",
+      "count": 2
+    },
+    {
+      "word": "service",
+      "count": 2
+    },
+    {
+      "word": "via",
+      "count": 2
+    },
+    {
+      "word": "reading",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "indented",
+      "count": 2
+    },
+    {
+      "word": "easier",
+      "count": 2
+    },
+    {
+      "word": "unless",
+      "count": 2
+    },
+    {
+      "word": "push",
+      "count": 2
+    },
+    {
+      "word": "past",
+      "count": 2
+    },
+    {
+      "word": "vs",
+      "count": 2
+    },
+    {
+      "word": "emacs",
+      "count": 2
+    },
+    {
+      "word": "don't",
+      "count": 2
+    },
+    {
+      "word": "text",
+      "count": 2
+    },
+    {
+      "word": "markdown",
+      "count": 2
+    },
+    {
+      "word": "indentation",
+      "count": 2
+    },
+    {
+      "word": "notes",
+      "count": 2
+    },
+    {
+      "word": "proper",
+      "count": 2
+    },
+    {
+      "word": "support",
+      "count": 2
+    },
+    {
+      "word": "hard-wrapping",
+      "count": 2
+    },
+    {
+      "word": "mac",
+      "count": 2
+    },
+    {
+      "word": "mini",
+      "count": 2
+    }
+  ]
+}
