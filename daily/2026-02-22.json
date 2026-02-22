@@ -1,0 +1,848 @@
+{
+  "date": "2026-02-22",
+  "stats": {
+    "total_fetched": 268,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Bitcoin mining difficulty",
+        "summary": "The previous post looked at the Bitcoin network hash rate, currently around one zettahash per second, i.e. 1021 hashes per second. The difficulty of mining a Bitcoin block adjusts over time to keep the rate of block prod...",
+        "url": "https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Sun, 22 Feb 2026 19:17:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Exahash, Zettahash, Yottahash",
+        "summary": "When I first heard of cryptographic hash functions, they were called “one-way functions” and seemed like a mild curiosity. I had no idea that one day the world would compute a mind-boggling number of hashes every second....",
+        "url": "https://www.johndcook.com/blog/2026/02/22/zettahash/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile",
+          "Algorithms",
+          "Systems"
+        ],
+        "published_at": "Sun, 22 Feb 2026 18:30:40 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "10,000,000th Fibonacci number",
+        "summary": "I’ve written a couple times about Fibonacci numbers and certificates. Here the certificate is auxiliary data that makes it faster to confirm that the original calculation was correct. This post puts some timing numbers t...",
+        "url": "https://www.johndcook.com/blog/2026/02/21/f10000000/",
+        "source": "John D. Cook",
+        "tags": [
+          "Product",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 22 Feb 2026 01:00:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How close are we to a vision for 2010?",
+        "summary": "Twenty five years ago today, the EU's IST advisory group published a paper about the future of \"Ambient Intelligence\". Way before the world got distracted with cryptoscams and AI slop, we genuinely thought that computers...",
+        "url": "https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 22 Feb 2026 12:34:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-22T22:14:11.316Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "How I think about Codex",
+        "summary": "<think>\nThe user wants me to summarize this article about OpenAI's Codex in 100-200 words. Let me identify the key points:\n\n1. Author: Gabriel Chua, Developer Experience Engineer for APAC at OpenAI\n2. Date: 22nd February 2026\n3. Main topic: Explains what \"Codex\" means in OpenAI's ecosystem\n4. Key definitions:\n   - Codex is OpenAI's software engineering agent\n   - An agent = model + instructions + tools + runtime\n   - Three parts: Model + Harness + Surfaces\n   - Model + Harness = the Agent\n   - Surfaces = how you interact with the Agent\n5. The harness is open source and lives at github.com/openai/codex\n6. Important point: Codex models are trained specifically for the Codex harness - tool use, execution loops, compaction, and iterative verification are built into how the model learns, not added later\n\nLet me write a concise 100-200 word summary covering these points.\n</think>\n\n## Summary\n\nIn this article, Gabriel Chua (Developer Experience Engineer for APAC at OpenAI) explains the terminology around \"Codex\" in the OpenAI ecosystem.\n\nChua defines Codex as OpenAI's software engineering agent, which consists of three interconnected parts: **Model + Harness + Surfaces**. The Model combined with the Harness forms the Agent itself—the Harness being the collection of instructions and tools that enable task execution. Surfaces refer to how users interact with the Agent.\n\nNotably, the Harness is open source and available at github.com/openai/codex.\n\nThe article provides a significant insider acknowledgment: Codex models are directly trained alongside the Codex harness. This means tool use, execution loops, compaction, and iterative verification aren't external add-ons—they're integral to how the model learns. The harness is specifically designed around the model's planning, tool invocation, and error recovery capabilities.\n\nThis explains why Codex performs particularly well on software engineering tasks compared to general-purpose models.",
+        "content": "22nd February 2026\n\n**[How I think about Codex](https://www.linkedin.com/pulse/how-i-think-codex-gabriel-chua-ukhic)**. Gabriel Chua (Developer Experience Engineer for APAC at OpenAI) provides his take on the confusing terminology behind the term \"Codex\", which can refer to a bunch of of different things within the OpenAI ecosystem:\n\n> In plain terms, Codex is OpenAI’s software engineering agent, available through multiple interfaces, and an agent is a model plus instructions and tools, wrapped in a runtime that can execute tasks on your behalf. [...]\n\n> At a high level, I see Codex as three parts working together:\n\n> *Codex = Model + Harness + Surfaces* [...]\n\n> \n> - Model + Harness = the Agent\n\n> - Surfaces = how you interact with the Agent\n\n> \n\nHe defines the harness as \"the collection of instructions and tools\", which is notably open source and lives in the [openai/codex](https://github.com/openai/codex) repository.\n\nGabriel also provides the first acknowledgment I've seen from an OpenAI insider that the Codex model family are directly trained for the Codex harness:\n\n> Codex models are trained in the presence of the harness. Tool use, execution loops, compaction, and iterative verification aren’t bolted on behaviors — they’re part of how the model learns to operate. The harness, in turn, is shaped around how the model plans, invokes tools, and recovers from failure.",
+        "url": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-02-22T15:53:43.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Nerd Quiz #4",
+        "summary": "<think>The user wants me to summarize an article about \"Nerd Quiz #4\" in 100-200 words. Let me analyze the content:\n\n1. **Writing Type**: This is a brief announcement/press release about a quiz application\n2. **Style**: Semi-formal, promotional but informative\n3. **Audience**: People interested in quizzes, tech enthusiasts, the creator's audience\n4. **Structure**: Simple introduction, details about the quiz, call to action\n\nKey points to cover:\n- It's the fourth installment of Nerd Quiz\n- It's a single-page HTML quiz application\n- Tests your \"inner geek\" with questions from everyday moments\n- This release has 5 new questions\n- Topics include computing history, graph theory, and Unix\n- Link to try the quiz\n- Link to community discussion page\n- Invitation to share scores and discuss\n\nI need to write a concise 100-200 word summary that captures these key points while being informative and engaging.\n</think>\n\n# Summary: Nerd Quiz #4\n\nNerd Quiz #4 is the latest edition of Susam Pal's single-page HTML quiz application designed to challenge users' inner geek through everyday intellectual moments. This release features five new questions spanning diverse topics such as computing history, graph theory, and Unix. The quiz continues the series' tradition of presenting thought-provoking questions derived from reading, writing, thinking, learning, and exploring. Users can access the quiz directly and participate in community discussions to share their scores or debate the questions with fellow participants.",
+        "content": "By **Susam Pal** on 22 Feb 2026\n\n  Nerd Quiz #4 is the fourth instalment of Nerd Quiz, a single page\n  HTML application that challenges you to measure your inner geek with\n  a brief quiz.  Each question in the quiz comes from everyday moments\n  of reading, writing, thinking, learning and exploring.\n\n  This release introduces five new questions drawn from a range of\n  topics, including computing history, graph theory and Unix.\n  Visit [Nerd Quiz](https://susam.net/nq.html#4) to try the quiz.\n\n  A community discussion page is\n  [available here](https://susam.net/comments/nq.html).  You are\n  very welcome to share your score or discuss the questions there.",
+        "url": "https://susam.net/code/news/nq/4.0.0.html",
+        "source": "Susam Pal",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Sun, 22 Feb 2026 00:00:00 +0000",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Forge-Specific Repository Folders",
+        "summary": "<think>\nThe user wants me to summarize this article about repository configuration folders used by different Git hosting platforms (forges). The article explains how each platform (.github, .gitlab, .gitea, .forgejo, .bitbucket) uses dot-folders to configure CI/CD, issue templates, PR templates, code owners, and other features.\n\nKey points to cover:\n1. Each forge uses a different dot-folder for configuration\n2. Common features across platforms: CI/CD, issue/PR templates, CODEOWNERS\n3. GitHub's .github/ folder features\n4. GitLab's .gitlab/ folder features\n5. Gitea/Forgejo's .gitea/.forgejo/ folders\n6. Bitbucket's .bitbucket/ folder\n7. Portability issues between platforms\n\nI need to keep it 100-200 words and focus on key takeaways.\n</think>\n\n## Summary\n\nThis article explains how different Git hosting platforms (forges) use hidden folders in repository roots to configure CI/CD, code review, and issue management features.\n\n**Key Points:**\n\n- Each forge uses a unique dot-folder (`.github/`, `.gitlab/`, `.gitea/`, `.forgejo/`, `.bitbucket/`) to store platform-specific configurations\n\n- **GitHub** (.github/): Supports workflows (Actions), issue/PR templates, dependabot, CODEOWNERS, and funding configuration\n\n- **GitLab** (.gitlab/): Uses CI templates, MR/issue templates, CODEOWNERS, and changelog config. Main CI file remains at root (.gitlab-ci.yml)\n\n- **Gitea/Forgejo** (.gitea/.forgejo/): Support workflows, templates, and CODEOWNERS using regex patterns instead of globs. Both check multiple folders for compatibility\n\n- **Bitbucket** (.bitbucket/): Limited to CODEOWNERS and team definitions; CI uses bitbucket-pipelines.yml at root\n\n**Main Takeaway:** These folders solve similar problems across platforms but lack standardization, making repository portability between forges challenging. Some platforms check multiple folders for backward compatibility, allowing shared configs in `.github/` with platform-specific overrides.",
+        "content": "Git doesn’t know about CI, code review, or issue templates, but every forge that hosts git repositories has added these features through the same trick: a dot-folder in your repo root that the forge reads on push. The folder names differ, the contents overlap in some places and diverge in others, and the portability story between them is worse than you’d expect. A companion to my earlier post on [git’s magic files](https://nesbitt.io/2026/02/05/git-magic-files.html).\n\n### .github/\n\nGitHub’s folder holds:\n\n  - **workflows/** — GitHub Actions CI/CD configuration (`.github/workflows/*.yml`)\n\n  - **ISSUE_TEMPLATE/** and **PULL_REQUEST_TEMPLATE/** — issue and PR templates\n\n  - **dependabot.yml** — automated dependency updates\n\n  - **CODEOWNERS** — required reviewers for paths\n\n  - **FUNDING.yml** — sponsor button configuration\n\nGitHub also reads some files from the repo root or from `.github/`: **SECURITY.md**, **CONTRIBUTING.md**, **CODE_OF_CONDUCT.md**. **LICENSE** must be in the repo root for GitHub’s license detection to pick it up.\n\nThe `.github/workflows/` directory contains YAML files defining Actions workflows. Each file is a separate workflow that runs on events like push, pull request, or schedule.\n\nCODEOWNERS uses [gitignore-style](https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html) glob patterns to map paths to GitHub users or teams who must review changes:\n\n```\n# .github/CODEOWNERS\n*.js @frontend-team\n/docs/ @docs-team\n* @admins\n\n```\n\n### .gitlab/\n\nGitLab uses `.gitlab/` for:\n\n  - **ci/** — reusable CI/CD templates\n\n  - **merge_request_templates/** — MR templates\n\n  - **issue_templates/** — issue templates\n\n  - **CODEOWNERS** — approval rules\n\n  - **changelog_config.yml** — built-in changelog generation config\n\nGitLab’s main CI config is `.gitlab-ci.yml` at the repo root, not in the folder. Projects often keep reusable CI templates in `.gitlab/ci/` and pull them in with `include:local`, though the directory name is convention rather than something GitLab treats specially.\n\nGitLab’s CODEOWNERS works similarly to GitHub’s but with different approval rule options and integration with GitLab’s approval workflows.\n\n### .gitea/ and .forgejo/\n\nGitea and Forgejo (a fork of Gitea) support:\n\n  - **workflows/** — Gitea/Forgejo Actions (`.gitea/workflows/*.yml` or `.forgejo/workflows/*.yml`)\n\n  - **ISSUE_TEMPLATE/** and **PULL_REQUEST_TEMPLATE/** — templates\n\nForgejo checks `.forgejo/` then `.gitea/` then `.github/` in that order, while Gitea checks `.gitea/` then `.github/`, so you can keep shared config in `.github/` and add platform-specific overrides in the forge’s own folder.\n\nGitea’s CODEOWNERS uses Go regexp instead of gitignore-style globs. Patterns look like `.*\\.js$` instead of `*.js`.\n\n### .bitbucket/\n\nBitbucket keeps two files in `.bitbucket/`:\n\n  - **CODEOWNERS** — required reviewers\n\n  - **teams.yaml** — ad-hoc reviewer groups\n\nCI config lives at `bitbucket-pipelines.yml` in the repo root, similar to GitLab’s approach.\n\nBitbucket’s CODEOWNERS has reviewer selection strategies baked into the syntax:\n\n```\n# .bitbucket/CODEOWNERS\n*.js random(1) @frontend-team\n/api/ least_busy(2) @backend-team\n/critical/ all @security-team\n\n```\n\n`random(1)` picks one random reviewer from the team, `least_busy(2)` picks the two reviewers with the fewest open PRs, and `all` requires every team member to review. No other forge has reviewer selection strategies in the CODEOWNERS syntax.\n\nThe `.bitbucket/teams.yaml` file lets you define ad-hoc reviewer groups without creating formal Bitbucket teams:\n\n```\n# .bitbucket/teams.yaml\nsecurity:\n  - alice\n  - bob\nfrontend:\n  - carol\n  - dave\n\n```\n\nThese can then be referenced in CODEOWNERS with the `@teams/` prefix, like `@teams/security` or `@teams/frontend`.\n\n### Fallback chains\n\nIf you host the same repository on multiple platforms, shared config in `.github/` will be picked up by Gitea and Forgejo, with platform-specific overrides in `.gitea/` or `.forgejo/` taking priority. Bitbucket and GitLab only check their own folders, so multi-platform support across all forges still requires some duplication.\n\n### Gotchas\n\nGitHub’s org-level `.github` repository lets you set default issue templates, PR templates, and community health files for every repo in the org, but the fallback is all-or-nothing: if a repo has any file in its own `.github/ISSUE_TEMPLATE/` folder, none of the org-level templates are inherited and there’s no way to merge them. The org `.github` repo must also be public, so your default templates are visible to everyone.\n\nGitHub looks for CODEOWNERS in three places: `.github/CODEOWNERS`, then `CODEOWNERS` at the root, then `docs/CODEOWNERS`. First one found wins and the others are silently ignored. The syntax looks like `.gitignore` but [doesn’t support](https://docs.github.com/articles/about-code-owners) `!` negation, `[]` character ranges, or `\\#` escaping. A syntax error used to cause the entire file to be silently ignored, meaning no owners were assigned to anything. GitHub has since added error highlighting in the web UI but there’s still no push-time validation.\n\nGitLab supports [optional CODEOWNERS sections](https://docs.gitlab.com/user/project/codeowners/advanced/) with a `^` prefix, but “optional” only applies to merge requests. If someone pushes directly to a protected branch, the docs say approval from those sections is “still required,” though how that actually works for a command-line push is [unclear even to GitLab users](https://forum.gitlab.com/t/optional-codeowners-what-does-approval-required-if-pushing-directly-to-protected-branch-mean/107795).\n\nThe Gitea/Forgejo workflow fallback is all-or-nothing too: if `.gitea/workflows/` contains any workflow files, `.github/workflows/` is [completely ignored](https://github.com/go-gitea/gitea/issues/31456), so you can’t run platform-specific workflows side by side.\n\nGitea’s CODEOWNERS doesn’t check `.github/CODEOWNERS` at all, only `./CODEOWNERS`, `./docs/CODEOWNERS`, and `.gitea/CODEOWNERS`. If you migrate from GitHub with your CODEOWNERS in `.github/`, it silently does nothing. And even when it works, CODEOWNERS on Gitea [isn’t enforceable](https://github.com/go-gitea/gitea/issues/32602): it adds reviewers but there’s no branch protection option to require their approval. Anyone with write access can approve. A regression in Gitea 1.21.9 also [broke CODEOWNERS for fork PRs](https://github.com/go-gitea/gitea/pull/30476), which wasn’t fixed until 1.21.11.\n\nForgejo and Gitea both inherited the `pull_request_target` trigger from GitHub Actions compatibility, which means they also inherited the “[pwn request](https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/)” attack surface. The workflow runs from the base branch with access to secrets, and if it checks out and executes the fork’s PR code, those secrets can be exfiltrated. Forgejo added a trust-based approval system for fork PRs, but `pull_request_target` workflows still run with write tokens.\n\n[CVE-2025-68937](https://www.cvedetails.com/cve/CVE-2025-68937/) is a symlink-following vulnerability in template repository processing, filed against Forgejo. An attacker creates a template repository with symlinks pointing at sensitive paths like the git user’s `authorized_keys`, and when someone creates a new repo from that template, the symlinks get dereferenced during template expansion, allowing the attacker to write arbitrary files on the server. Forgejo was affected through v13.0.1 (and v11.0.6 on LTS). Gitea had the same bug since v1.11 and fixed it in v1.24.7 under a separate advisory.\n\nThe Forgejo runner also fixed a [cache poisoning vulnerability](https://codeberg.org/forgejo/security-announcements/issues/38) in v10.0.0 where PR workflows could write to the shared action cache, letting a malicious PR poison future privileged workflow runs. It’s unclear whether Gitea’s runner is affected or fixed this quietly, as they haven’t published a corresponding advisory.\n\nGitHub Actions [expressions are case-insensitive](https://yossarian.net/til/post/github-actions-is-surprisingly-case-insensitive/). `$` matches whether the branch is `main`, `MAIN`, or `mAiN`. Context accesses like `secrets.MY_SECRET` and `SECRETS.my_secret` resolve to the same thing. Git itself is case-sensitive, so if your workflow security depends on branch naming conventions, there’s a mismatch that’s easy to miss.\n\nIf you know of other forge-specific folders or have corrections, reach out on [Mastodon](https://mastodon.social/@andrewnez) or submit a pull request on [GitHub](https://github.com/andrew/nesbitt.io).",
+        "url": "https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-02-22T10:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Orality Theory of Everything",
+        "summary": "<think>\nThe user wants me to summarize this article about the \"orality theory of everything\" in 100-200 words. Let me identify the key points:\n\n1. The article discusses \"theories of everything\" - explanations that try to account for many different societal problems through a single cause (like smartphones or housing)\n\n2. The \"orality theory of everything\" is presented as a new favorite theory\n\n3. Key concepts:\n- Walter Ong and Marshall McLuhan were mid-20th century media theorists\n- They studied the shift from orality (spoken word, oral tradition) to literacy (written word)\n- Oral age: social storytelling, flexible cultural memory\n- Literacy age: allowed complex abstract thinking, science, technology\n- Literacy restructured human consciousness\n- Now we're seeing a decline of literate culture and rise of digital/social media\n\n4. Joe Weisenthal from Bloomberg is mentioned as a proponent of this theory\n- He believes communication is becoming more \"oral\" in character\n- Not just spoken word, but communication having conversational characteristics\n- This harkens back to pre-literate or pre-mass literacy times\n\n5. The article is based on a podcast discussion between Derek Thompson and Joe Weisenthal\n\nLet me write a concise 100-200 word summary:\n</think>\n\n# Summary\n\nThe article introduces the \"orality theory of everything,\" a framework that attributes modern societal changes to the decline of literacy and return to oral communication patterns. Drawing on mid-20th-century media theorists Walter Ong and Marshall McLuhan, the theory traces how humanity shifted from an age of orality—characterized by social storytelling and collective memory—to an age of literacy, which enabled abstract thinking and modern technology. The author argues that literacy fundamentally restructured human consciousness, and the current decline of reading combined with the rise of social media is transforming human cognition once again. Bloomberg's Joe Weisenthal, a proponent of this theory, suggests that modern digital communication, while not always spoken aloud, possesses the conversational characteristics of pre-literate culture. The author presents these \"theories of everything\" not as complete explanations but as useful frameworks for understanding how single phenomena can produce widespread second-order effects. The article is based on a transcript from Thompson's podcast discussion with Weisenthal.",
+        "content": "The world is full of theories of everything. The smartphone theory of everything argues that our personal devices are responsible for the rise of political polarization, anxiety, depression, and conspiracy theories—not to mention the decline of attention spans, intelligence, happiness, and general comity. The housing theory of everything pins inequality, climate change, obesity, and declining fertility on the West’s inability to build enough homes. If you treat theories of everything as literal theories of *everything*, you will be disappointed to find that they all have holes. I prefer to think of them as exercises in thinking through the ways that single phenomena can have large and unpredictable second-order effects.\n\nMy new favorite theory of everything is the orality theory of everything. This theory emerges from the work of mid-20th-century media theorists, especially Walter Ong and Marshall McLuhan. They argued that the invention of the alphabet and the rise of literacy were among the most important events in human history. These developments shifted communications from an age of orality—in which all information was spoken and all learning was social—to an age of literacy, in which writing could fix words in place, allowing people to write alone, read alone, and develop ever more complicated ideas that would have been impossible to memorize. The age of orality was an age of social storytelling and flexible cultural memory. The age of literacy made possible a set of abstract systems of thought—calculus, physics, advanced biology, quantum mechanics—that form the basis of all modern technology. But that’s not all, Ong and his ilk said. Literacy literally restructured our consciousness, and the demise of literate culture—the decline of reading and the rise of social media—is again transforming what it feels like to be a thinking person.\n\nThe most enthusiastic modern proponent of the orality theory of everything that I know of is *Bloomberg*’s Joe Weisenthal, the co-host of the *Odd Lots* podcast. We discussed orality, literacy, and the implications for politics, storytelling, expertise, social relations, and much more. The following transcript has been edited for clarity, brevity, and the goal of making both speakers sound a bit smarter.\n\n**Derek Thompson:** The return of orality: Why do you think it explains everything?\n\n**Joe Weisenthal:** I don’t think it explains everything. I think it only explains 99 percent of everything.\n\nI believe that human communication is becoming more oral. And by that I don’t just mean that people are talking more with their mouths, although I do think that is the case. It’s more that communication in general, whether in the spoken form or in the digital form, has the characteristics of conversation. And it truly harkens back to a time before, really, the written word, or certainly before mass literacy.\n\nIn 2016, during the presidential election, I started reading the work of Walter Ong. He was a Jesuit priest. He studied with Marshall McLuhan. He was at Saint Louis University and wrote this really incredible book called *Orality and Literacy*. The gist is that humans [in oral cultures] fundamentally think differently when they’re in this world that you *can’t* write anything down, that you *can’t* look anything up. For most of human history, there was no way to look up anything at all. There was no reference material and so forth. And as such, people had to optimize their communication for the conditions of that time.\n\nThrough a lot of study of Homer and other ancient epics, people realized that there were certain patterns of communication. People spoke with rhythm and rhyme and musicality, because it helps people memorize things. Certain phrases just get repeated over and over again. Repetition, communication, and information were optimized for memorability, in packets, and what we would call “going viral.” When I started reading this book, I was like, *Look, this has a lot of explanatory power*. These things that characterize the Homeric times—the way society prioritized and packaged information—greatly resemble what we see today. My big thesis is that as communication becomes more of this back-and-forthness, it’s changing the way that we communicate and the way we think.\n\n**Thompson: **To drill down on why the shift to literacy was so important for the way we think, for the way we transmit knowledge, for the way we build institutions, I want to quote two great scholars here. The first is Joshua Meyrowitz, an emeritus professor of communication at the University of New Hampshire. He writes in *No Sense of Place: The Impact of Electronic Media on Social Behavior*:\n\n> The break from total reliance on oral communication allows people to become more introspective, rational, and individualistic. Abstract thought develops. From the circular world of sound with its round huts and round villages, people move, over time, toward linear, cause and effect thinking, grid-like cities, and a one thing at a time and one thing after another world that mimics the linear lines of writing and type.\n\nThe second is from another great scholar named Joe Weisenthal:\n\n> Many of the things that modern institutions are built on—enlightenment thinking, formal logic, reason, meritocracy, examining the evidence—are downstream from the ability to contemplate the written word at a distance.\n\nWhy don’t you expand on either quote?\n\n**Weisenthal: **People can probably feel this. When you’re in a conversation, online or offline, what are you doing? You’re often trying to impress someone. You might be trying to one-up someone. Maybe if there’s a few people there, you’re trying to put someone down to look cool for the other person. These are all things that occur that don’t occur when you’re in solitude. A solo interaction with language can only be done really with the written word. Even setting aside the logical arguments for the connection between the alphabet and left-to-right thinking and linear thinking, most people, I think, could intuitively understand that interactive environments foster different priorities.\n\n[Adam Kirsch: Reading is a vice](https://www.theatlantic.com/ideas/2026/01/reading-crisis-solution-literature-personal-passion/685461/)\n\nWhen you’re writing a letter, or certainly, let’s say, you’re writing a book as you have, you don’t necessarily have the reader in mind at that exact moment. In fact, you have the luxury of writing and not having to think about what the reader is going to be doing at this moment. These are all luxuries that occur in the context of literacy—the written word—that are separate from a conversation. And so the written word creates all kinds of new opportunities to think through these things, to take time, to not respond right away.\n\n**Thompson: **Thinking used to be something that had to be done socially. It was impossible to learn *The Odyssey* on your own. It was transmitted to you from a person. You would rehearse it with someone else. The mode of information transfer was necessarily social. Books are written alone, and books are typically read alone. And so this age of literacy gave rise to this privilege of solitude and interiority that I think is really, really important.\n\nWalter Ong, our mutual hero, has a great quote that I want to throw to you and then get your reaction to, because it goes right to this point. He said:\n\n> Human beings in primary oral cultures … do not “study.” They learn by apprenticeship—hunting with experienced hunters, for example—by discipleship, which is a kind of apprenticeship, by listening, by repeating what they hear, by mastering proverbs and ways of combining and recombining them … not by study in the strict sense.\n\nI’m very interested in a phenomenon that I call the antisocial century, the idea that for a variety of reasons, we are spending much more time alone. And that is having a bunch of second- and third-order effects. And it really is interesting to me, as I was going deeper into this project, to think that it’s the age of literacy that in many ways allowed us to be alone as we learned, and to prize a certain kind of interiority.\n\n**Weisenthal: **Marshall McLuhan had this observation: The alphabet is the most detribalizing technology that’s ever existed. It speaks to this idea that prior to the written word, all knowledge was, per se, communal. It had to be in a group. If you have multiple texts in front of you, then you trust the one that feels most logical. But you don’t have that luxury when all knowledge is communal. Being part of the crowd has to be part of learning.\n\nThe ear and the eye are very different organs. You can close your eyes, which you can’t do with your ears. You can get perspective from your eye and establish perspective in a way you can’t do with your ears. So it’s like you go into a room and you can stand back at the corner so you can make sure that you can see everything going on in the room. The ear is very different. We’re at the center of everything constantly. You can’t close it. The ear continues to work while we’re sleeping. There’s an evolutionary purpose for the fact that we can still hear when we’re sleeping, because if there’s an intruder or a wild animal or something, it wakes us up and we can run.\n\nSo the ear, McLuhan said, is inherently a source of terror. It feels very digital. Even though we do look at the internet, there is this sense in which we can never remove ourselves from it. Even if we’re reading the internet, it almost feels more like we’re hearing it. There’s an immersiveness in contemporary digital discourse that I think is much more like hearing than it is about seeing. So I think there’s all kinds of different ways that we are sort of returning to this realm.\n\n**Thompson: **We had the age of orality, which was the age of the ear. Then we had the high-water mark of literacy, which is the high-water mark of the age of the eye. And now we’re in this messy third stage where it’s like there’s some human facial organ that’s an eye and an ear mashed together, because we have TV and radio and social media and TikTok. And what’s interesting about these technologies is that they are all oral. What is radio, if not oral? What is television, if not oral? What is TikTok, if not spoken and live?\n\nBut there’s a lasting record of your tweets. There’s a lasting record of that TikTok, which can be shared. And the fact that these pieces of media can be recorded means that in many ways they are also of a piece with the age of literacy, of literate recorded artifacts. What do we make of this weird synthetic new stage that we’re in? What do we call it? How do we describe it?\n\n**Weisenthal:** Andrey Mir, who has written some of the best stuff updating Ong’s ideas, calls it digital orality. I like that. One thing that’s interesting, though, is that we might not really have those records in the future. For one thing, things disappear. Two, we don’t really trust pictures anymore. The archive is sort of tenuous. We maybe had this brief period where we had a lot of digital archives and we could trust them, but digital archives are disappearing and you’re going to have facsimiles, things that looked like they happened that didn’t actually happen, which, incidentally, Ong talks about.\n\nSo he talks about how in a lot of oral cultures, history was malleable. He talks about biblical genealogies: So-and-so begat so-and-so begat so-and-so begat so-and-so begat,  on forever. There are a lot of examples in oral cultures where, when something is no longer convenient—maybe there are some lineage of kings and that king falls into disrepute and they switch it—they’ll just come up with a new poem. And so there isn’t the idea of a fixed history. I think that’s probably what’s going to happen today. We’re going to have books for a very long time, but history will be manufactured in accordance with the sort of contemporary values of the moment.\n\n**Thompson:** This is a period that some people call post-literate. Reading is in decline. Standardized-test scores are in decline. As I’ve written, it sometimes feels like everything is trying to become television. Social media is becoming TV; podcasts are becoming TV. People are going to the movies less. Everything is evolving toward short-form video. I wonder how you feel about this general thesis that in a post-literate age, everything is evolving toward short-form video.\n\n**Weisenthal:** This idea of post-literacy, I think there’s a sort of figurative meaning and a literal meaning. On the one hand, again, when I hear the word *post-literacy* or when I’ve used the term, it doesn’t necessarily mean that people don’t know how to read. I still think it’s mostly useful as a term to describe conditions of information and conditions of communication that are very distinct from solitary, literate communications. So I think the fact that so much is talk, so much is back-and-forthness, so much is information designed to be viral, memorable, repeatable—this is mostly what I am thinking of when I think about post-literacy.\n\nIncidentally, I don’t think people know how to read either. I look at myself and I think I read way more books than 99 percent of the population. But I’ll read two pages and then I’ll check my Twitter mentions, and then I’ll read two pages and check my Twitter mentions. Isn’t that everyone? Can anyone actually read three pages anymore? Maybe it’s just me, and my attention span is just totally bombed out, which is possible, because, again, I spend all day looking at a screen. I’ll fully cop to that.\n\n**Thompson:** I do also have the sense when I’m reading that there’s often, especially if my phone is anywhere within reach or sight, something calling me away from that book at all times.\n\n**Weisenthal:** In some of the writing from the ’60s and ’70s, one of the things that I’ve noticed is people talking about phones interrupting people having sex. This is a common observation. They talk about unplugging the phone before couples had sex or whatever it was. And I think, again, one of the things people talk about right now, which I find fascinating, is the big fertility drops and people are trying to figure it out. And this is something that is occurring in almost every country around the world, including China, which does not resemble the rest of the world and has avoided many contemporary pathologies. Even there, it’s happening.\n\n[Read: The slow, quiet demise of American romance](https://www.theatlantic.com/family/archive/2024/12/4b-sex-strike-american-dating/680770/)\n\nAnd I do think it’s very interesting that—if you go back and look at how many people noticed this phenomenon when everyone started getting phones—the degree to which it was as if the phone was the third person there, interrupting the privacy of the couple. That’s a very powerful observation that I think then has a lot of explanatory effects for what came afterwards, when everyone started holding a phone on them, every waking minute.\n\n**Thompson:** I want to apply your theories to some domains of modern life, starting with politics. I went to look up Donald Trump’s nicknames, because I know that you’re very interested in his propensity for epithets, for nicknames. It’s nearly Homeric. Fortunately for our purposes, Wikipedia keeps track of all of Trump’s nicknames, so I didn’t have to remember them—speaking of outsourced memory. Here are some of them. Steve Bannon was “Sloppy Steve,” Joe Biden was “Sleepy Joe,” Mike Bloomberg was “Mini Mike,” Jeb Bush was, of course, “Low-Energy Jeb.”\n\nThis plays into this classic tradition of orality. The wine-dark seas, swift-footed Achilles. And Walter Ong has a great passage where he writes about this, which I would love to get your reaction to:\n\n> The cliches in political denunciations in many low-technology developing cultures—enemy of the people, capitalist war-mongers—that strike high literates as mindless are residual formulary essentials of oral thought processes.\n\nIt’s so interesting to think that Ong is saying that it is low-technology developing countries where these nicknames are prevalent. But you wake up today and the richest country in the world is presided over by a now two-time president whose facility for nicknames is very famous. What significance do you put on this? Why is it important that a figure like Trump plays into these old-fashioned oral traditions?\n\n**Weisenthal:** It’s interesting—when you say things like, *Oh, Trump has a sort of Homeric quality in the way he speaks*, that repels a lot of people. Like, *What are you talking about? This is nothing like Homer*. But my theory, which I can’t prove, is that the original bards who composed Homer were probably Trump-like characters. So rather than saying Trump is a Homeric character, we could say that the people who gathered around and told these ancient stories were probably the Trump-like characters of their time. Colorful, very big characters, people who were loud, who could really get attention, who would captivate people when they talked. One of Ong’s observations in *Orality and Literacy* is about heavy and light characters in oral societies. Heavy characters are like Cerberus, the three-headed dog; Medusa; Zeus—these larger-than-life, frequently grotesque, visually grotesque characters.\n\nThe modern world has elevated a lot of what I think Ong would call heavy characters. I certainly think Trump is a heavy character, with his makeup, his hair, and his whole visual presentation. I think Elon Musk is a heavy character. We are in the time of the heavy character.\n\nIf you look at icons of the previous age, John F. Kennedy was not a heavy character. That’s a light character, a certain coolness. Barack Obama was a light character; there was a certain coolness to him. One of the things that people debate a lot is, like, *If Obama could run again, wouldn’t he just clean up?* *If Democrats could just bring Obama back for a third time, wouldn’t that just solve all of Democrats’ electoral problems?* And I think in 2016, I probably would’ve believed that. And maybe in 2020, I would’ve believed that. But I’m certainly less confident now. I feel like Obama is a character of a cooler, different time. A character from a pre-TikTok time, in many respects.\n\n**Thompson:** Let me push back here. I think Obama in 2004, with the first Democratic National Committee speech, was a heavy character. I think the presidency lightened him. I think Trump in 2015 was a heavy character, and he is a lighter character now having suffered overexposure. Maybe the fissures that you see in the Republican Party are that Trump, the once heavy character, is losing the weight that used to be necessary to keep this coalition together. And people are seeing he’s kind of lost it. I wonder if there’s some idea that in politics, many people debut as the heavy character. But experience and time and failure lightens them. And that’s part of the reason no president seems to survive more than one year of positive approval ratings. We have learned to hate everybody.\n\n**Weisenthal:** Since you mentioned this phenomenon, that no president can sustain high approval ratings (which does seem like a phenomenon basically everywhere), could we pivot? Could I bring in Meyrowitz here?\n\nMeyrowitz, in 1985, was talking about electronic media before anyone really conceived of that idea. One of his observations is that everybody has an onstage and a backstage. We talk on this podcast in a certain way. But that is different from how we would talk at home with our family. Or you and I might talk differently when we hang up this podcast and we’re saying goodbye or something. This is a very normal thing, which is that you just talk differently in different environments.\n\nWhat Meyrowitz anticipated in *No Sense of Place* is this idea that electronic media would cause us to be suspicious of people who talk differently in one environment versus another. If someone code-switched, if someone talked differently on the campaign trail than they did in their private life, then we would come to think, *This person’s a phony*. Something about Trump is that there are very few examples of him ever talking differently in one environment than in any other. People could be totally repelled by things that he said in public or private. But he’s not a hypocrite in the way that a lot of people use that word. He is the same in almost every environment. This is precisely what Meyrowitz would’ve anticipated, that we would gravitate toward people who act the same onstage and backstage, that we would come to view that consistency of character as a value.\n\n**Thompson:** The name of Meyrowitz’s book is* No Sense of Place*. And I want to just slow down on that title, because it’s a pun. By *no sense of place*, Meyrowitz is saying that electronic media extends our consciousness outward, so we don’t really know where we are. I could be reading Twitter in Arlington, Virginia, but feel myself becoming emotional about Gaza or Ukraine or Minneapolis, in a way that was impossible in the age before television or radio. This new age of communications media takes us out of where we are and puts us right in front of the faces of people who are thousands of miles away.\n\nBut he also means *no sense of place* in a hierarchical sense. He means that people will be able, with electronic media, to operate outside of their slot in the hierarchy: The poor will be able to scream at the billionaires. And this, he said, is going to create more social unrest. It’s going to create more, I think he would agree, of something like populism. And this really interesting idea that electronic media not only unmoors us from where we are geographically but that it also demolishes hierarchies—I think it was incredibly insightful, considering it was written 41 years ago.\n\nBut he goes one step further in a way that’s really surprising, and this is the part I’d really love you to comment on. He says this about our future relationship to expertise—and God only knows how many people have talked about what’s happened to expertise in the last few decades: “Our increasingly complex technological and social world has made us rely more and more heavily on ‘expert information,’ but the general exposure of ‘experts’ as fallible human beings has lessened our faith in them as people. The change in our image of leaders and experts leaves us with”—and this is exactly your point—“a distrust of power, but also with a seemingly powerless dependence on those in whom we have little trust.”\n\n**Weisenthal:** It’s crazy. It does feel like this could be in *The* *Atlantic* in 2025. It’s just so far ahead of its time. You mentioned the poor can scream at the billionaires. I think most people would say, *Look, technology is an enabled environment in which the poor can have their voice heard and billionaires are brought low and can be hectored, and we see that happen every day online*. Most people intuitively think that’s a very positive development. That’s, like, an egalitarian development. But by the same token, there are other things that most people are not as comfortable with. I think this whole field of study offers a certain way of viewing history that is not entirely satisfying to anyone or anyone’s political project currently.\n\n**Thompson: **Speaking of topics that aren’t particularly comfortable with any political project, I have a question for you about AI and how AI slots into orality versus literacy. I want to come at it from what I hope is an interesting angle. This is a quote from Ong’s *Orality and Literacy*:\n\n> A written text is basically unresponsive. If you ask a person to explain his or her statement, you can get an explanation; if you ask a text, you get back nothing except the same, often stupid, words which called for your question in the first place.\n\nI reread that section on a plane recently, and I jolted up in my seat. *That’s* what AI has changed. You can enter into conversations with text. That is true either at a literal level—like, I can download a PDF of a book and give it to Claude and be like, *Claude, can we talk about this book?*—but also, at a higher abstract level, we’re talking about a technology that is pretrained on text. It’s pretrained on literacy. But we have an oral, which is to say conversational, relationship with that training corpus. It’s weird.\n\n**Weisenthal:** The jury is out still on how AI slots into this. Because on the one hand, you can upload some texts to Claude and ask questions, and it becomes an interactive thing. That’s oral; that’s conversation.\n\n[Read: The problem with using AI in your personal life](https://www.theatlantic.com/family/2026/02/ai-etiquette-friends/685858/)\n\nBut those conversations with AI, they don’t feel like other conversations that exist online. The AI is not going to insult you. The AI is not going to speak to you in memes. The AI is not going to use epithets. I’m not trying to one-up the AI either. Ong used the word *agonistic*; oral cultures are competitive. We see that online, how we’re always competing with one another when we’re talking.\n\nAI chatbot communications aren’t agonistically toned. Just the opposite. Most people’s complaint with AI is that it’s too obsequious, that it’s not confrontational enough. I’ll say something stupid to the chatbot, and it’ll say, *That’s a really good idea, Joe! Let’s explore that further.* This is actually one of the big problems of AI, which is that it’s insufficiently opinionated. The chatbots do not correct you. AI is conversational, but it doesn’t have a lot of these other aspects of conversation that other digital conversations have.\n\n**Thompson:** Maybe the age of social media really was the revenge of orality. But an age of AI would be much more like the revenge of literacy.\n\nOng and Meyrowitz both point to this idea that literacy pulled us into ourselves. Reading is interior. And then novels, in response to the interiority of reading, became more interior. Nineteenth-century novels are incredibly rich about what it is like to be thinking and alive in this moment. It’s not plot, plot, plot. It’s not genealogy. It’s fully inside the phenomenological experience of the characters.\n\nAnd AI, to me, feels much more subvocal. It feels like I’m having a conversation with myself. It’s not myself. It’s this machine that I’m talking with, but it feels more like daydreaming with myself than the antagonistic experience of being on Twitter, where I’m inside the minds of other people, thrust into the faces of strangers whom I’ve never met.\n\n**Weisenthal:** It’s very plausible. It’s not going to look exactly like the previous age of literacy, but it never does. These things come and go. The current age of orality is different, obviously, from the original one. The return to solitude. If you’re going back and forth with the chatbot, you close the computer, you don’t feel that same *Oh, they’re still arguing there without me.* *They’re talking online about me and I’m not there to defend myself.* Whatever it is. You don’t quite have that same pull. I think all these things—they’ll live with each other, and there’ll be shades of the past that we hear echoes of, and they’ll be different, and they’ll be similar. And I think it’s good to recognize these patterns and observe them, just for one’s own sanity—to have a sense of what’s pulling you in various different directions.\n\n**Thompson:** To close with the Joeism “What’d I miss?”—what’s important in this space that we didn’t have time to talk about or that I didn’t sufficiently ask?\n\n**Weisenthal:** I just think, by and large, that there are a lot of contemporary pathologies. People point to digital media, the phones, et cetera, as drivers of them. What I would just say is, there’s a lot of writing that I think helps answer these questions, that was written before any of this existed. I would like it if more people became familiar with Josh Meyrowitz, Walter Ong, Eric Havelock, Marshall McLuhan, and so forth. I think I would like that. I just want to talk to people about them.\n\n*This article was adapted from a *[*post*](https://www.derekthompson.org/p/why-the-decline-of-literacyand-the) *on Derek Thompson’s Substack.*",
+        "url": "https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed",
+        "source": "Derek Thompson | The Atlantic",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-02-22T12:00:00.000Z",
+        "reading_time": 24,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sentry",
+        "summary": "<think>\nThe user wants me to summarize the article about Sentry in 100-200 words, focusing on key points and main takeaways. Let me identify the main points:\n\n1. This is a hands-on workshop about Sentry for iOS apps\n2. It connects slowdowns, crashes, and user experience\n3. Four main areas covered:\n   - Setting up Sentry for high-priority mobile issues without alert fatigue\n   - Using Logs and Breadcrumbs to understand crashes\n   - Using Tracing to find performance bottlenecks\n   - Using Size Analysis to monitor and reduce iOS app size\n\nI need to write a concise 100-200 word summary covering these points.\n</think>\n\n# Summary\n\nThis article describes a hands-on workshop focused on using Sentry to improve iOS app performance and user experience by connecting slowdowns, crashes, and overall app behavior.\n\nThe workshop covers four key areas: First, setting up Sentry to detect and alert on critical mobile issues while avoiding alert fatigue. Second, using Logs and Breadcrumbs to reconstruct the sequence of events leading up to a crash. Third, employing Tracing to identify performance bottlenecks in the app. Fourth, utilizing Size Analysis to monitor and reduce the iOS application's bundle size.\n\nThe session aims to help developers proactively address mobile issues, quickly diagnose crash causes, optimize app performance, and manage app size efficiently—all with the goal of delivering a better user experience.",
+        "content": "In this hands-on workshop, we show you how to connect the dots between slowdowns, crashes, and the user experience in your iOS app. This session covers how to:\n\n- ​Set up Sentry to surface and alert on high-priority mobile issues (without alert fatigue)\n\n- ​Use Logs and Breadcrumbs to reconstruct what happened with a crash\n\n- Find what’s behind a performance bottleneck using Tracing\n\n- Monitor and reduce the size of your iOS app using Size Analysis",
+        "url": "https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-02-22T20:58:55.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "How I think about Codex - <think> The user wants me to summarize this article about OpenAI's Codex in 100-200 words....",
+    "Nerd Quiz #4 - <think>The user wants me to summarize an article about \"Nerd Quiz #4\" in 100-200 words. Le...",
+    "Forge-Specific Repository Folders - <think> The user wants me to summarize this article about repository configuration folders...",
+    "The Orality Theory of Everything - <think> The user wants me to summarize this article about the \"orality theory of everythin...",
+    "Sentry - <think> The user wants me to summarize the article about Sentry in 100-200 words, focusing..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 14
+    },
+    {
+      "word": "codex",
+      "count": 13
+    },
+    {
+      "word": "quiz",
+      "count": 12
+    },
+    {
+      "word": "think",
+      "count": 11
+    },
+    {
+      "word": "key",
+      "count": 11
+    },
+    {
+      "word": "points",
+      "count": 10
+    },
+    {
+      "word": "harness",
+      "count": 10
+    },
+    {
+      "word": "theory",
+      "count": 10
+    },
+    {
+      "word": "summary",
+      "count": 9
+    },
+    {
+      "word": "user",
+      "count": 8
+    },
+    {
+      "word": "github",
+      "count": 8
+    },
+    {
+      "word": "agent",
+      "count": 7
+    },
+    {
+      "word": "model",
+      "count": 7
+    },
+    {
+      "word": "word",
+      "count": 7
+    },
+    {
+      "word": "folders",
+      "count": 7
+    },
+    {
+      "word": "templates",
+      "count": 7
+    },
+    {
+      "word": "literacy",
+      "count": 7
+    },
+    {
+      "word": "words",
+      "count": 6
+    },
+    {
+      "word": "let",
+      "count": 6
+    },
+    {
+      "word": "main",
+      "count": 6
+    },
+    {
+      "word": "features",
+      "count": 6
+    },
+    {
+      "word": "platforms",
+      "count": 6
+    },
+    {
+      "word": "gitea",
+      "count": 6
+    },
+    {
+      "word": "ci",
+      "count": 6
+    },
+    {
+      "word": "orality",
+      "count": 6
+    },
+    {
+      "word": "everything",
+      "count": 6
+    },
+    {
+      "word": "sentry",
+      "count": 6
+    },
+    {
+      "word": "app",
+      "count": 6
+    },
+    {
+      "word": "write",
+      "count": 5
+    },
+    {
+      "word": "wants",
+      "count": 5
+    },
+    {
+      "word": "summarize",
+      "count": 5
+    },
+    {
+      "word": "experience",
+      "count": 5
+    },
+    {
+      "word": "openai",
+      "count": 5
+    },
+    {
+      "word": "explains",
+      "count": 5
+    },
+    {
+      "word": "nerd",
+      "count": 5
+    },
+    {
+      "word": "questions",
+      "count": 5
+    },
+    {
+      "word": "gitlab",
+      "count": 5
+    },
+    {
+      "word": "forgejo",
+      "count": 5
+    },
+    {
+      "word": "bitbucket",
+      "count": 5
+    },
+    {
+      "word": "issue",
+      "count": 5
+    },
+    {
+      "word": "codeowners",
+      "count": 5
+    },
+    {
+      "word": "size",
+      "count": 5
+    },
+    {
+      "word": "openai's",
+      "count": 4
+    },
+    {
+      "word": "identify",
+      "count": 4
+    },
+    {
+      "word": "surfaces",
+      "count": 4
+    },
+    {
+      "word": "concise",
+      "count": 4
+    },
+    {
+      "word": "repository",
+      "count": 4
+    },
+    {
+      "word": "different",
+      "count": 4
+    },
+    {
+      "word": "issues",
+      "count": 4
+    },
+    {
+      "word": "media",
+      "count": 4
+    },
+    {
+      "word": "oral",
+      "count": 4
+    },
+    {
+      "word": "age",
+      "count": 4
+    },
+    {
+      "word": "social",
+      "count": 4
+    },
+    {
+      "word": "weisenthal",
+      "count": 4
+    },
+    {
+      "word": "communication",
+      "count": 4
+    },
+    {
+      "word": "ios",
+      "count": 4
+    },
+    {
+      "word": "performance",
+      "count": 4
+    },
+    {
+      "word": "bitcoin",
+      "count": 3
+    },
+    {
+      "word": "around",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "users",
+      "count": 3
+    },
+    {
+      "word": "author",
+      "count": 3
+    },
+    {
+      "word": "chua",
+      "count": 3
+    },
+    {
+      "word": "software",
+      "count": 3
+    },
+    {
+      "word": "engineering",
+      "count": 3
+    },
+    {
+      "word": "models",
+      "count": 3
+    },
+    {
+      "word": "tool",
+      "count": 3
+    },
+    {
+      "word": "execution",
+      "count": 3
+    },
+    {
+      "word": "release",
+      "count": 3
+    },
+    {
+      "word": "application",
+      "count": 3
+    },
+    {
+      "word": "discussion",
+      "count": 3
+    },
+    {
+      "word": "thinking",
+      "count": 3
+    },
+    {
+      "word": "configuration",
+      "count": 3
+    },
+    {
+      "word": "forges",
+      "count": 3
+    },
+    {
+      "word": "cd",
+      "count": 3
+    },
+    {
+      "word": "pr",
+      "count": 3
+    },
+    {
+      "word": "folder",
+      "count": 3
+    },
+    {
+      "word": "spoken",
+      "count": 3
+    },
+    {
+      "word": "human",
+      "count": 3
+    },
+    {
+      "word": "decline",
+      "count": 3
+    },
+    {
+      "word": "joe",
+      "count": 3
+    },
+    {
+      "word": "modern",
+      "count": 3
+    },
+    {
+      "word": "workshop",
+      "count": 3
+    },
+    {
+      "word": "crashes",
+      "count": 3
+    },
+    {
+      "word": "mobile",
+      "count": 3
+    },
+    {
+      "word": "alert",
+      "count": 3
+    },
+    {
+      "word": "mining",
+      "count": 2
+    },
+    {
+      "word": "difficulty",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "hash",
+      "count": 2
+    },
+    {
+      "word": "rate",
+      "count": 2
+    },
+    {
+      "word": "zettahash",
+      "count": 2
+    },
+    {
+      "word": "per",
+      "count": 2
+    },
+    {
+      "word": "hashes",
+      "count": 2
+    },
+    {
+      "word": "block",
+      "count": 2
+    },
+    {
+      "word": "keep",
+      "count": 2
+    },
+    {
+      "word": "functions",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "world",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    }
+  ]
+}
