@@ -78,8 +78,18 @@
       }
     }
   ],
-  "weekly_reports": [],
-  "lastUpdated": "2026-02-22T22:17:54.354Z",
+  "weekly_reports": [
+    {
+      "week_id": "2026-W08",
+      "week_start": "2026-02-16",
+      "file": "weekly/2026-W08.json",
+      "stats": {
+        "total_articles": 210,
+        "days_covered": 7
+      }
+    }
+  ],
+  "lastUpdated": "2026-02-22T22:51:39.945Z",
   "reports": [
     {
       "date": "2026-02-22",
