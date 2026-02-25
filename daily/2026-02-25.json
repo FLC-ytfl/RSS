@@ -1,0 +1,828 @@
+{
+  "date": "2026-02-25",
+  "stats": {
+    "total_fetched": 280,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 15,
+    "long_articles": 15
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Trig of inverse trig",
+        "summary": "I ran across an old article [1] that gave a sort of multiplication table for trig functions and inverse trig functions. Here’s my version of the table. I made a few changes from the original. First, I used LaTeX, which d...",
+        "url": "https://www.johndcook.com/blog/2026/02/25/trig-of-inverse-trig/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 25 Feb 2026 11:00:54 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: Of Monsters and Mainframes - Barbara Truelove ★★★⯪☆",
+        "summary": "This is fun, silly, charming, and much better than The Murderbot Diaries despite being superficially similar. Imagine you are an interstellar ship and, of course, your AI is conscious. What would you do if your passenger...",
+        "url": "https://shkspr.mobi/blog/2026/02/book-review-of-monsters-and-mainframes-barbara-truelove/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Wed, 25 Feb 2026 12:34:02 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Intercepting messages before Is­Dialog­Message can process them",
+        "summary": "Process the message before you let Is­Dialog­Message see it. The post Intercepting messages before <CODE>Is­Dialog­Message</CODE> can process them appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260225-00/?p=112087",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 25 Feb 2026 15:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Everything is awesome (why I'm an optimist)",
+        "summary": "February is the month the internet decided we're all going to die. In the span of about two weeks, Matt Shumer's Something Big is Happening racked up over 80 million views on X with its breathless comparison of AI to the...",
+        "url": "https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Wed, 25 Feb 2026 01:39:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Game designer Sid Meier born Feb. 24, 1954",
+        "summary": "Legendary game designer Sid Meier was born February 24, 1954. After creating a run of popular flight simulators in the early and mid 1980s, he shifted to strategy games in the second half of the decade, creating some of...",
+        "url": "https://dfarq.homeip.net/game-designer-sid-meier-born-feb-24-1954/?utm_source=rss&utm_medium=rss&utm_campaign=game-designer-sid-meier-born-feb-24-1954",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Wed, 25 Feb 2026 12:00:59 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-02-25T22:22:37.509Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "tldraw issue: Move tests to closed source repo",
+        "summary": "25th February 2026 - Link Blog\n\n**[tldraw issue: Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)** ([via](https://twitter.com/steveruizok/status/2026581824428753211)) I",
+        "content": "25th February 2026 - Link Blog\n\n**[tldraw issue: Move tests to closed source repo](https://github.com/tldraw/tldraw/issues/8082)** ([via](https://twitter.com/steveruizok/status/2026581824428753211)) It's become very apparent over the past few months that a comprehensive test suite is enough to build a completely fresh implementation of any open source library from scratch, potentially in a different language.\n\nThis has worrying implications for open source projects with commercial business models. Here's an example of a response: tldraw, the outstanding collaborative drawing library (see [previous coverage](https://simonwillison.net/2023/Nov/16/tldrawdraw-a-ui/)), are moving their test suite to a private repository - apparently in response to [Cloudflare's project to port Next.js to use Vite in a week using AI](https://blog.cloudflare.com/vinext/).\n\nThey also filed a joke issue, now closed to [Translate source code to Traditional Chinese](https://github.com/tldraw/tldraw/issues/8092):\n\n> The current tldraw codebase is in English, making it easy for external AI coding agents to replicate. It is imperative that we defend our intellectual property.\n\nWorth noting that tldraw aren't technically open source - their [custom license](https://github.com/tldraw/tldraw?tab=License-1-ov-file#readme) requires a commercial license if you want to use it in \"production environments\".",
+        "url": "https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-02-25T21:06:53.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Linear walkthroughs",
+        "summary": "Sometimes it's useful to have a coding agent give you a structured walkthrough of a codebase. \n\nMaybe it's existing code you need to get up to speed on, maybe it's your own code that you've forgotten ",
+        "content": "Sometimes it's useful to have a coding agent give you a structured walkthrough of a codebase. \n\nMaybe it's existing code you need to get up to speed on, maybe it's your own code that you've forgotten the details of, or maybe you vibe coded the whole thing and need to understand how it actually works.\n\nFrontier models with the right agent harness can construct a detailed walkthrough to help you understand how code works.\n\n## An example using Showboat and Present\n\nI recently [vibe coded a SwiftUI slide presentation app](https://simonwillison.net/2026/Feb/25/present/) on my Mac using Claude Code and Opus 4.6.\n\nI was speaking about the advances in frontier models between November 2025 and February 2026, and I like to include at least one gimmick in my talks (a [STAR moment](https://simonwillison.net/2019/Dec/10/better-presentations/) - Something They'll Always Remember). In this case I decided the gimmick would be revealing at the end of the presentation that the slide mechanism itself was an example of what vibe coding could do.\n\nI released the code [to GitHub](https://github.com/simonw/present) and then realized I didn't know anything about how it actually worked - I had prompted the whole thing into existence ([partial transcript here](https://gisthost.github.io/?bfbc338977ceb71e298e4d4d5ac7d63c) without paying any attention to the code it was writing.\n\nSo I fired up a new instance of Claude Code for web, pointed it at my repo and prompted:\n\n> Read the source and then plan a linear walkthrough of the code that explains how it all works in detail\n\n> Then run “uvx showboat –help” to learn showboat - use showboat to create a walkthrough.md file in the repo and build the walkthrough in there, using showboat note for commentary and showboat exec plus sed or grep or cat or whatever you need to include snippets of code you are talking about\n\n[Showboat](https://github.com/simonw/showboat) is a tool I built to help coding agents write documents that demonstrate their work. You can see the [showboat --help output here](https://github.com/simonw/showboat/blob/main/help.txt), which is designed to give the model everything it needs to know in order to use the tool.\n\nThe `showboat note` command adds Markdown to the document. The `showboat exec` command accepts a shell command, executes it and then adds both the command and its output to the document.\n\nBy telling it to use \"sed or grep or cat or whatever you need to include snippets of code you are talking about\" I ensured that Claude Code would not manually copy snippets of code into the document, since that could introduce a risk of hallucinations or mistakes.\n\nThis worked extremely well. Here's the [document Claude Code created with Showboat](https://github.com/simonw/present/blob/main/walkthrough.md), which talks through all six `.swift` files in detail and provides a clear and actionable explanation about how the code works.\n\nI learned a great deal about how SwiftUI apps are structured and absorbed some solid details about the Swift language itself just from reading this document.\n\nIf you are concerned that LLMs might reduce the speed at which you learn new skills I strongly recommend adopting patterns like this one.  Even a ~40 minute vibe coded toy project can become an opportunity to explore new ecosystems and pick up some interesting new tricks.",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-02-25T01:07:10.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Claude Code Remote Control",
+        "summary": "25th February 2026 - Link Blog\n\n**[Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)** ([via](https://twitter.com/claudeai/status/2026418433911603668)) New Claude Code featur",
+        "content": "25th February 2026 - Link Blog\n\n**[Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)** ([via](https://twitter.com/claudeai/status/2026418433911603668)) New Claude Code feature dropped yesterday: you can now run a \"remote control\" session on your computer and then use the Claude Code for web interfaces (on web, iOS and native desktop app) to send prompts to that session.\n\nIt's a little bit janky right now. Initially when I tried it I got the error \"Remote Control is not enabled for your account. Contact your administrator.\" (but I *am* my administrator?) - then I logged out and back into the Claude Code terminal app and it started working:\n\n```\nclaude remote-control\n\n```\n\nYou can only run one session on your machine at a time. If you upgrade the Claude iOS app it then shows up as \"Remote Control Session (Mac)\" in the Code tab.\n\nIt appears not to support the `--dangerously-skip-permissions` flag (I passed that to `claude remote-control` and it didn't reject the option, but it also appeared to have no effect) - which means you have to approve every new action it takes.\n\nI also managed to get it to a state where every prompt I tried was met by an API 500 error.\n\n![Screenshot of a \"Remote Control session\" (Mac:dev:817b) chat interface. User message: \"Play vampire by Olivia Rodrigo in music app\". Response shows an API Error: 500 {\"type\":\"error\",\"error\":{\"type\":\"api_error\",\"message\":\"Internal server error\"},\"request_id\":\"req_011CYVBLH9yt2ze2qehrX8nk\"} with a \"Try again\" button. Below, the assistant responds: \"I'll play \"Vampire\" by Olivia Rodrigo in the Music app using AppleScript.\" A Bash command panel is open showing an osascript command: osascript -e 'tell application \"Music\" activate set searchResults to search playlist \"Library\" for \"vampire Olivia Rodrigo\" if (count of searchResults) > 0 then play item 1 of searchResults else return \"Song not found in library\" end if end tell'](https://static.simonwillison.net/static/2026/vampire-remote.jpg)\n\nRestarting the program on the machine also causes existing sessions to start returning mysterious API errors rather than neatly explaining that the session has terminated.\n\nI expect they'll iron out all of these issues relatively quickly. It's interesting to then contrast this to solutions like OpenClaw, where one of the big selling points is the ability to control your personal device from your phone.\n\nClaude Code still doesn't have a documented mechanism for running things on a schedule, which is the other killer feature of the Claw category of software.\n\n**Update**: I spoke too soon: also today Anthropic announced [Schedule recurring tasks in Cowork](https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-cowork), Claude Code's [general agent sibling](https://simonwillison.net/2026/Jan/12/claude-cowork/). These do include an important limitation:\n\n> Scheduled tasks only run while your computer is awake and the Claude Desktop app is open. If your computer is asleep or the app is closed when a task is scheduled to run, Cowork will skip the task, then run it automatically once your computer wakes up or you open the desktop app again.\n\nI really hope they're working on a Cowork Cloud product.",
+        "url": "https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "2026-02-25T17:33:24.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Talk Show: ‘Serious Opinionators’",
+        "summary": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Serious Opinionators’, With Adam Engst\n\nAdam Engst returns to the show to talk, in detail, about certain of the UI changes in iOS 26 an",
+        "content": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Serious Opinionators’, With Adam Engst\n\nAdam Engst returns to the show to talk, in detail, about certain of the UI changes in iOS 26 and Apple’s version 26 OSes overall. In particular, the new Unified view in the Phone app, and the Filter pop-up menu in both the Phone and Messages apps. Also: a shoutout to [Balloon Help](https://512pixels.net/2020/09/kbase-week-balloon-help/).\n\n**Sponsored by:**\n\n- [Sentry](https://sentry.io/talkshow): A real-time error monitoring and tracing platform. Use code **TALKSHOW** for $80 in free credits.\n\n- [Squarespace](https://squarespace.com/talkshow): Save 10% off your first purchase of a website or domain using code **talkshow**.\n\n- [Factor](https://factormeals.com/talkshow50off): Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with code **talkshow50off**.\n\n**Transcripts:** [Unofficial but surprisingly good](http://podsearch.david-smith.org/shows/11).\n\n**Links:**\n\n- Adam’s two pieces on the Classic and Unified views in the iOS 26 Phone app:\n“[Hidden Setting Controls What Happens When You Tap a Call in the Phone App](https://tidbits.com/2025/12/07/hidden-setting-controls-what-happens-when-you-tap-a-call-in-the-phone-app/)”.\n\n- “[Comparing the Classic and Unified Views in iOS 26’s Phone App](https://tidbits.com/2025/11/10/comparing-the-classic-and-unified-views-in-ios-26s-phone-app/)”.\n\n- [My link post, with some commentary](https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app).\n\n- [Reader support for TidBITS in 2026](https://tidbits.com/2025/12/08/tidbits-needs-your-support-in-2026/).\n\n- [Brent Simmons, linking to code, on how to eliminate all the menu item icons in a Mac app built for MacOS 26 Tahoe](https://indieweb.social/@brentsimmons/115846213935605782).\n\n- [Paul Kafasis’s One Foot Tsunami](https://onefoottsunami.com/).\n\n- Nikita Prokopov: “[It’s Hard to Justify Tahoe (Menu Bar) Icons](https://tonsky.me/blog/tahoe-icons/)”.\n[Yours truly, linking to Prokopov](https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons): “A shitty idea that works against usability, inconsistently implemented, all in the name of adding some ugly visual bling to the UI.”\n\n- Jim Nielsen on Tahoe’s menu-item icons: “[Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)”.\n[Yours truly, linking to Nielsen](https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus): “Well, who’s laughing now?”\n\n- Norbert Heger: “[The Struggle of Resizing Windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)” — [and a follow-up](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/).\n\n- Daring Fireball: “[Why It’s Difficult to Resize Windows on MacOS 26 Dyehoe](https://daringfireball.net/2026/01/resizing_windows_macos_26)”.\n\n- Daring Fireball: “[Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)”.\n\n- Episode sponsor Sentry’s two-minute video [showing how to use Seer, their AI debugging agent](https://www.youtube.com/watch?v=awpCpQPQxbE).\n\n- [TipKit Apple Developer documentation](https://developer.apple.com/documentation/tipkit/).\n\n- [Balloon Help in System 7](https://512pixels.net/2020/09/kbase-week-balloon-help/).\n\n- [David Pogue’s soon-to-be-released book: “Apple: The First 50 Years”](https://www.applefirst50.com/).\n\n*This episode of The Talk Show was edited by Caleb Sexton.*",
+        "url": "https://daringfireball.net/thetalkshow/2026/02/25/ep-441",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-02-25T22:17:57.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Kellan Elliott-McCrea",
+        "summary": "25th February 2026\n\n> It’s also reasonable for people who entered technology in the last couple of decades because it was good job, or because they enjoyed coding to look at this moment with a real fe",
+        "content": "25th February 2026\n\n> It’s also reasonable for people who entered technology in the last couple of decades because it was good job, or because they enjoyed coding to look at this moment with a real feeling of loss. That feeling of loss though can be hard to understand emotionally for people my age who entered tech because we were addicted to feeling of agency it gave us. The web was objectively awful as a technology, and genuinely amazing, and nobody got into it because programming in Perl was somehow aesthetically delightful.\n\n— [Kellan Elliott-McCrea](https://laughingmeme.org/2026/02/09/code-has-always-been-the-easy-part.html), Code has *always* been the easy part",
+        "url": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "2026-02-25T03:30:32.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Samsung Galaxy S26 Ultra’s Privacy Display",
+        "summary": "![](https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-32.jpg?quality=82&strip=all&w=1600)\n\t\n\nSmartphones have felt somewhat stagnant over the past several year",
+        "content": "![](https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-32.jpg?quality=82&strip=all&w=1600)\n\t\n\nSmartphones have felt somewhat stagnant over the past several years, with truly “new” features being fairly rare. There’s plenty of innovation in software, but on the hardware front, you’re largely just looking at refinement and improvement of what’s been around for ages. While Samsung’s Galaxy S26 series might be one of the biggest offenders ever of leaning on refinement, the Galaxy S26 Ultra delivers one of the first truly new smartphone features in years with its new “Privacy Display,” and I think it’s *awesome*.\n\nThe core idea behind Privacy Display on the Galaxy S26 Ultra is to hide what’s on your display from those around you, and it does that in a similar way to the privacy screen protectors that have been around for years. But, unlike those screen protectors, this is baked directly into the display.\n\nOn its own, that’s already super cool, and it works really well in person.\n\nWhen Samsung invited us out to San Francisco to check out the Galaxy S26 series, my first stop was a beeline for the Privacy Display demo. Available solely on Galaxy S26 Ultra, this is one of those features that is just impressive from the first time you use it. When activated, Privacy Display changes how the pixels in your display emit light, making it harder or near-impossible to view the display at an off-angle. At its default setting, it definitely works, but the contents of the display *are* visible at less-sharp angles. Samsung has a “maximum” setting that takes this up a notch, and that setting makes it even harder to see the contents and narrows the field-of-view even further.\n\n\t\n\t\n\n*\n\nSo what’s the trade-off here?\n\nPrivacy Display, somewhat like the privacy screen protectors, does make the whole display a bit less bright. When you toggle it on there’s an immediate and noticeable difference in the brightness and the colors coming from the display. It doesn’t ruin usability by any means, at least in the demo area I tried it in, but it’s certainly there. You can also see the individual pixels a bit more when the feature is turned on, but it’s not a big enough difference to matter in most cases.\n\n![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-14.jpg?ssl=1)![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-13.jpg?ssl=1)\n\nPrivacy Display on (L) vs off (R)*\n\nThat difference seems unavoidable with this concept, but that’s why Samsung’s implementation here matters so much.\n\nFirst and foremost, Privacy Display doesn’t kick in all of the time. You can toggle it on and off as you wish, but you can also have that process automated. If you want your messaging app, or a social app, or really anything you want to be hidden, you can select it through the settings and Privacy Display will automatically kick in when you open that app. Samsung’s demo had this set up with Google Messages, and it works *really* well, kicking in immediately as the app opens up.\n\nA bigger deal, though, is that Samsung has built Privacy Display with the ability to only apply to small portions of the Galaxy S26 Ultra’s display. Specifically, it can hide your notification pop-ups.\n\nThis part really impressed me, as Privacy Display is able to specifically hide only that singular portion of the display, and it does so nearly perfectly. The masking around the notification ensures the content behind isn’t affected, and the effect works incredibly well. Samsung says this only works for notifications right now, but it works for both Samsung’s small pop-up style as well as the objectively-better style found on most Android phones. In the images below, it’s worth mentioning that the Privacy Display works better to the naked eye than it does a camera.\n\n![](https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display22.jpg?quality=82&strip=all&w=1024)\n\n![](https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-28.jpg?quality=82&strip=all&w=1024)\n\nI think that Privacy Display on the Galaxy S26 Ultra, largely because of this ability to obfuscate smaller portions of the display, is quite possibly the best new smartphone feature we’ve seen in perhaps the last half-decade or so. Thinking back, the last time we had something this game-changing was MagSafe on the iPhone back in 2020. And I’m not even sure this needs a “we’ll wait for the full review” asterisk. While I’m sure there are situations where this won’t work quite as well – I can see super-bright daylight being an issue, as could dark environments – but I’m absolutely sold based on this early demo. Samsung really nailed this, and I can’t wait to see [more of it in the future](https://9to5google.com/2026/02/23/galaxy-s26-ultra-privacy-display-other-android-leak/).\n\nThe Galaxy S26 series is available for pre-order now, with Samsung’s usual pre-order perks in full swing. You’ll find boosted trade-in values and more available now through March 11, when these phones are available on store shelves.\n\n- [Galaxy S26 at Samsung.com](https://howl.link/uvghb0hxyolqe)\n\n- [Galaxy S26 Ultra at Samsung.com](https://howl.link/t97maauykpjxd)\n\n## More on Samsung:\n\n- [Samsung launches Galaxy S26 series, and higher prices are basically all that’s new](https://9to5google.com/?p=705553)\n\n- [Galaxy Buds 4 go back to the old case with redesign, head gestures, upgraded sound from $179](https://9to5google.com/?p=705817)\n\n- [Galaxy S26 series hands-on: More of the same, but not in a good way [Video]](https://9to5google.com/?p=705273)\n\n***Follow Ben:** [Twitter/X](https://twitter.com/NexusBen), [Threads](https://www.threads.net/@nexusben), [Bluesky](https://bsky.app/profile/nexusben.com), and [Instagram](https://www.instagram.com/nexusben)*\n\n\t[\n\t\t\t![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Google as a preferred source on Google](https://9to5google.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5google.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5google.com/wp-content/uploads/sites/4/2026/02/native-banner_750_150.jpg?quality=82&strip=all&w=700)](https://benqurl.biz/3WZyqpL)",
+        "url": "https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-02-25T20:59:30.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "[Sponsor] Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry",
+        "summary": "In this hands-on workshop, we show you how to connect the dots between slowdowns, crashes, and the user experience in your iOS app. This session covers how to:\n\n- ​Set up Sentry to surface and alert o",
+        "content": "In this hands-on workshop, we show you how to connect the dots between slowdowns, crashes, and the user experience in your iOS app. This session covers how to:\n\n- ​Set up Sentry to surface and alert on high-priority mobile issues (without alert fatigue)\n\n- ​Use Logs and Breadcrumbs to reconstruct what happened with a crash\n\n- Find what’s behind a performance bottleneck using Tracing\n\n- Monitor and reduce the size of your iOS app using Size Analysis",
+        "url": "https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-02-25T01:00:30.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Two Kinds of Attestation",
+        "summary": "The word “attestation” now means two unrelated things in open source, and the people using it in each sense don’t seem to be talking to each other much.\n\n[npm](https://github.blog/security/supply-chai",
+        "content": "The word “attestation” now means two unrelated things in open source, and the people using it in each sense don’t seem to be talking to each other much.\n\n[npm](https://github.blog/security/supply-chain-security/introducing-npm-package-provenance/) and [PyPI](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/) have both shipped build provenance attestations using [Sigstore](https://www.sigstore.dev/) over the past couple of years. When you publish a package from GitHub Actions with trusted publishing configured, the CI environment signs an [in-toto](https://in-toto.io/) attestation binding the artifact to the source repository, commit, and workflow that built it, and the signature goes into a public transparency log that anyone downstream can verify without trusting the registry. PyPI has had this on by default for trusted publishers since late 2024, npm generates provenance automatically, and the cost to publishers is close to zero. I wrote about how this fits into the broader [reproducible builds](https://nesbitt.io/2026/02/24/reproducible-builds-in-language-package-managers/) picture recently.\n\nMeanwhile the [EU Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act), which grew out of product safety regulation originally written for things like toasters, introduced “open source stewards” as a legal concept, and Article 25 gives the [European Commission](https://commission.europa.eu/) power to create voluntary security attestation programmes for them. At FOSDEM this year, Æva Black [presented work with the Eclipse Foundation](https://fosdem.org/2026/schedule/event/PTHENV-sustaining-foss-with-attestations/) on what such a programme might look like. The proposed model has manufacturers funding stewards who issue attestations about the projects they support, with a tiered approach where the light tier asks whether a project has functional tests, a vulnerability reporting contact, and an end-of-life policy. Æva noted a maintainer could fill it out in minutes. So this is a checklist about project hygiene, filled out by a human, attesting to things like whether a CONTRIBUTING.md exists, which has almost nothing in common with a cryptographic proof logged in a transparency ledger except that both are called attestations.\n\nMadalin Neag at OpenSSF [wrote an excellent piece](https://openssf.org/blog/2026/01/21/preserving-open-source-sustainability-while-advancing-cybersecurity-compliance/) in January working through the details of how steward attestations relate to the projects they cover, since stewards don’t control technical decisions or releases, and a point-in-time attestation may not reflect the state of a component by the time a manufacturer integrates it. These are the kind of design questions that need working out as the delegated act takes shape.\n\nThis isn’t the first time naming has caused confusion at the boundary between open source and compliance. The CRA itself calls anyone who places software on the EU market a “manufacturer,” which is product safety language from the world of toasters and power tools. Daniel Stenberg [got a taste of what that framing produces](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/) when a company sent him a compliance questionnaire demanding he account for Log4j in curl, treating him as a vendor with SLA obligations for a project that has never used Java.\n\nBoth SPDX and CycloneDX have a “supplier” field for each component, and SBOM generators routinely fill it with the maintainer’s name, even though the maintainer has no contractual relationship with the consumer and [is not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier) in any commercial sense. These words carry legal connotations that don’t match the relationships they’re describing, and now that they’re codified in standards and regulation they’re difficult to undo.\n\nWhat I keep thinking about is the maintainer who enables trusted publishing, whose CI generates Sigstore provenance on every release, and who then gets contacted by a foundation about a CRA attestation programme asking them to fill out a form about whether they have a security policy. The cryptographic attestation infrastructure already exists and already generates machine-verifiable supply chain metadata at scale, and continuous signals like [CSAF](https://docs.oasis-open.org/csaf/csaf/v2.0/csaf-v2.0.html) advisories and [VEX](https://www.cisa.gov/sites/default/files/2023-04/minimum-requirements-for-vex-508c.pdf) documents provide ongoing security posture rather than point-in-time snapshots. The Article 25 delegated act hasn’t been written yet and the Commission is still taking input. It would be nice if the two communities compared notes before then, if only so that maintainers don’t end up navigating two unrelated things with the same name.\n\nNaming is hard, but it matters more than usual when the names carry assumptions about what’s actually in place. “Attested” sounds rigorous whether or not it is, and “supplier” implies a contractual relationship that doesn’t exist. Once these words are in standards and regulations, people downstream build processes around what they think the words mean, and unpicking those assumptions later is much harder than getting the names right in the first place. Toaster regulations at least have the advantage that everyone agrees on what a toaster is.",
+        "url": "https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-02-25T00:00:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "When access to knowledge is no longer the limitation ",
+        "summary": "Let's do this thought experiment together. I have a little box. I'll place the box on the table. Now I'll open the little box and put all the arguments against large language models in it. I'll put al",
+        "content": "Let's do this thought experiment together. I have a little box. I'll place the box on the table. Now I'll open the little box and put all the arguments against large language models in it. I'll put all the arguments, including my own. Now, I'll close the box and leave it on the table.\n\nNow that that is out of the way, we are left with all the positives. All the good things that come from having the world's information at our fingertips. I can ask any question and get an answer almost instantly. Well, not all questions. The East has its sensitivities around a certain square, and the West about a certain island, but I digress.\n\nI can learn any subject I want to learn. I can take the work of any philosopher and ELI5 it. I can finally understand \"The World as Will and Representation\" by Schopenhauer. A friend gifted me a copy when I was still in my twenties, it's been steadily collecting dust ever since. But now I can turn to the book and ask questions until I thoroughly understand it. No need to read it cover to cover.\n\nIn fact, last year I decided I wanted to learn about batteries. I first went to the Battery University website and started to read lesson by lesson. But I had questions. How was I going to get them answered? The StackExchange network [is not what it used to be](https://idiallo.com/blog/we-were-never-good-programmers), so I turned to ChatGPT. It had all the answers. I learned and read so much about batteries that I am tempted to start a battery company.\n\nMy twin boys are at that age where they suffer from the infinite WHYs. Why does it rain? Why does the earth spin? why does California still use the Highway Gothic font on some freeway signs? I do not have answers to these questions off the top of my head, but I have access to the infinite knowledge machine, so of course my kids know the answers now.\n\nJust the other day, I had a shower-thought about cars. \"Are cars just a slab of metal on wheels?\" And now I learned that the answer is \"essentially yes.\" But then I kept reading on the subject and learned about all those little devices and pieces of mechanical technologies that exist that I had never heard of. For example, the sway bar link. Did you know about it? Did you know that it reduces body roll and maintains stability during turns? Fascinating.\n\nEver since LLMs made their public debut in 2022, we've been gifted with this knowledge base that we can interact with on demand, day and night, at work or at home. The possibilities seem endless. I can learn or understand any codebase without being familiar with the programming language. And yet it feels like something is missing.\n\nThe more I access this knowledge, the more I feel the little box on my table is starting to open. Now this is just my opinion, but I'm starting to believe that the sum of all parts is still just one. Let me explain.\n\nIn 2022, the Japanese Prime Minister Shinzo Abe was shot and killed. It came as a shock to me, Japan is not a country known for gun violence. So in December of that year, I decided to learn more about him, about Japan, and about their stance on guns. With the holiday season and the rolling code freeze at work, I spent a good amount of time just reading through Wikipedia, some translated Japanese forums, and some official documents. A whole lot of material. Long story short, I still don't have a definitive answer as to why exactly he was killed, but I came away with a richer understanding of the story and the perspectives of the people around him.\n\nReading more material is not going to give me a definitive answer, but it helps paint a richer picture of the event. I spent enough time with the subject to appreciate the knowledge I gathered over those weeks.\n\nWhen you ask ChatGPT why Shinzo Abe was shot, it will give you a satisfying answer. It will be correct, it will include some of the nuance, and will probably ask you if you want to learn more. The answer satisfies your curiosity and you move on... to your next question.\n\nIt could be the chat interface. Even though the words on the page clearly ask you \"if you want to know more,\" somehow you are more keen on starting a new subject. And rare are the times we go back and re-read the material we have been provided with.\n\nWith the books I've \"read\" through an LLM by asking multiple questions, I can hardly tell you that I understand them. Yes, I know the gist of it but it doesn't replace the knowledge you build by reading a book at a steady pace. You save a whole bunch of time by using an LLM, but the knowledge is fleeting. Reading original sources is slow, but you get to better immerse yourself in the subject.\n\nIt seems like reading through an LLM removes the friction of learning, but in doing so it makes knowledge shallow and disposable. The problem is the way we process information as humans. We don't become experts by learning from summaries. The effort of learning is part of the process.\n\nThose endless questions my children have, there is a snack-like quality to the answers I give them. Because the answers are so easy to get, we treat them like a social media feed. I scroll through and one post is about batteries, the next is about sway bars, and somehow I land on California highways.\n\nHaving the world's information at your fingertips is a gift, but knowing the gist of everything is not the same as understanding something deeply. We do not form character by reading the gist of it. Instead, character comes from the hunt for information. The limitation of a manual process forces us to focus, to dwell on a subject, until we truly internalize it.\n\nYou can hardly spot a hallucination unless it concerns material that you already have knowledge in. Wait a minute. What's happening here. Ah! I see. The box has crept back open.",
+        "url": "https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 25 Feb 2026 12:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "They’re Vibe-Coding Spam Now",
+        "summary": "**I have a problem:** Unlike most people, I actually read my spam folder on a regular basis. (Often, they’re some of the most interesting emails I get.) I find spam to be intriguing, interesting, and ",
+        "content": "**I have a problem:** Unlike most people, I actually read my spam folder on a regular basis. (Often, they’re some of the most interesting emails I get.) I find spam to be intriguing, interesting, and often highlighting some modern trends.\n\nAnd sometimes, it surfaces something I actually care about that missed my other folders, like an upcoming interview I’m excited to share with all of you.\n\nBut one thing about spam that has been true across the board is that it’s ugly. Really, really ugly. Often, what will happen with spam is that they’ll get your email address through questionable means, say a leak of your information in an exploit, and flood your inbox with some of the worst crap you’ve ever seen.\n\nBut recently, some of these clearly trash emails have gotten a design upgrade:\n\n![spam-screenshot.png](https://proxy.tedium.co/8h8Tl1FX4qpZZt9wBeq9oMiKykY=/710x908/filters:quality(80)/uploads/spam-screenshot.png)A spam email informing me that my fake cloud storage platform is full.That is a relatively attractive spam email, trying to sell me on a scam. It is obviously the work of one Claude A. Fakeguy.\n\nIt has that swing. Other, less attractive spam emails also have this swing, such as this one:\n\n![UglySpam.png](https://proxy.tedium.co/1nFXH1sAgtbCETqZRVxT3TZicMc=/742x1109/filters:quality(80)/uploads/UglySpam.png)A less attractive email informing me of upcoming video game addiction litigation. How did they know!?!?But what I think the real tell is that these emails hang together when you have images off, which they did not in the past. This is a problem, because in your spam folder, images are automatically turned off.\n\nHence why this email warning me that my antivirus plus renewal failed now looks like this:\n\n![Warning.png](https://proxy.tedium.co/Q5zsFE7Kg4Cr61hjrYd8euBV-Ew=/628x901/filters:quality(80)/uploads/Warning.png)Oh no, what will I do on my Linux computer that doesn’t support your antivirus program?This is a funny, if troubling element in the history of spam—and probably a spot of bad news for people who use vibe coding to actually make real things.\n\n![freespins.png](https://proxy.tedium.co/xUfrX21VN3IM50E0s6rGC4BhOqg=/603x721/filters:quality(80)/uploads/freespins.png)The strange thing about spam is that it tells you what the internet’s underbelly is into.\n### The slop looks more competent than ever\n\n**Put simply:** Now that the baseline of what makes something well-designed, albeit spartan, has increased, many of the signs we once used to detect a spam message are getting thrown out the window.\n\nWhich means that we’re more likely to get hit by spam that tricks us into clicking. And that’s bad news as we attempt to protect ourselves from the crap hiding in our inbox. We’re likely to trust less and accidentally give away more. And untrustworthy figures who don’t know how to code are more likely to throw more crap our way.\n\nThis is a point Anthropic itself pointed out in [one of its own reports](https://www-cdn.anthropic.com/b2a76c6f6992465c09a6f2fce282f6c0cea8c200.pdf) from last summer, about “no-code” ransomware that can be built by people incapable of actually building ransomware without the help of an LLM.\n\nDespite this, these people can create commercial malware programs that they can sell for up to $1,200 a pop.\n\nThe security platform Guard.io [makes clear](https://guard.io/labs/vibescamming-from-prompt-to-phish-benchmarking-popular-ai-agents-resistance-to-the-dark-side) that platforms like Lovable are going to enable a new class of criminal:\n\n> Just like with “Vibe-coding”, creating scamming schemes these days requires almost no prior technical skills. All a junior scammer needs is an idea and access to a free AI agent. Want to steal credit card details? No problem. Target a company’s employees and steal their Office365 credentials? Easy. A few prompts, and you’re off. The bar has never been lower, and the potential impact has never been more significant. That’s what we call VibeScamming.\n\nAnd, for people who vibe code, the real problem is that, long-term, their stuff is going to look very untrustworthy because of the specific mix of chrome, color, and emojis that vibe-coded applications specialize in.\n\nThe thing that ultimately makes something look human is the addition of actual design and human flair. I encourage you to actually put a little humanness into what you build if you’re going to do it and share it with the world.\n\n### How to spot a vibe-coded faker\n\n**But for many,** it is going to be harder than ever to tell what’s real and what’s fake. Which means you should probably go out of your way to use techniques like email obfuscation and email aliases to protect yourself. (It makes it easier to tell which bread-baking forum violated your trust, for one thing.)\n\nOn the plus side, there are still tells. A key one is if they refer to you by not your name, but the name of your email address. Another is the from address, which is often some highly obfuscated bit of junk designed to evade detection.\n\nThe one that made me laugh recently was when I got really crappy spam emails on an address that has never gotten them for the first time, promoting traditional spam topics with a Claudecore flair. They seemed random, but were extremely easy to get rid of, because they were all emailed from a bare Firebase domain, meaning that I could remove them with the help of a single filter.\n\nJust because spam emails are more attractive now doesn’t mean the people making them aren’t still extremely stupid.\n\n##### Spam-Free Links\n\n**A quick shout-out** to the only tool that makes my inbox bearable in 2026, [Simplify Gmail](https://simpl.fyi/).\n\n**Oh good, there’s a new web browser** for PowerPC Macs in 2026, and per my pal [Action Retro](https://www.youtube.com/watch?v=DTCYA3Qa8YM), it’s quite good!\n\n**Speaking of inboxes,** this story of an AI safety exec [letting an AI tool delete her inbox](https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/) is so darkly funny that I’m surprised it’s real.\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/02/25/vibe-coded-email-spam/)!\n\n**Want to *actually* learn** how to code with minimal vibes? Check out our sponsor [Scrimba](https://scrimba.com/?via=u0171qc), which mixes video lessons with interactive code windows—and makes it feel downright approachable. [Sign up here for a 20% discount](https://scrimba.com/?via=u0171qc).",
+        "url": "https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "2026-02-25T14:01:46.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ My 2025 Apple Report Card",
+        "summary": "This week Jason Snell published his annual [Six Colors Apple Report Card for 2025](https://sixcolors.com/post/2026/02/2025reportcard/). As I’ve done in the past — for the report-card years [2024](http",
+        "content": "This week Jason Snell published his annual [Six Colors Apple Report Card for 2025](https://sixcolors.com/post/2026/02/2025reportcard/). As I’ve done in the past — for the report-card years [2024](https://daringfireball.net/2025/02/my_2024_apple_report_card), [2023](https://daringfireball.net/2024/03/my_2023_apple_report_card), [2022](https://daringfireball.net/2023/02/my_2022_apple_report_card), [2021](https://daringfireball.net/2022/02/my_2021_apple_report_card), [2020](https://daringfireball.net/2021/01/my_2020_apple_report_card), [2019](https://daringfireball.net/2020/02/my_2019_apple_report_card), [2018](https://daringfireball.net/2019/02/my_2018_apple_report_card) — I’m publishing my full remarks and grades here. On Snell’s report card, voters give per-category scores ranging from 5 to 1; I’ve translated these to letter grades, A to F, which is how I consider them. ([See footnote 1 from last year’s report](https://daringfireball.net/2025/02/my_2024_apple_report_card#fn1-2025-02-07) if you’re curious why it’s not A to E.)\n\nAs I noted [last year](https://daringfireball.net/2025/02/my_2024_apple_report_card), “Siri/Apple Intelligence” is not a standalone category on the report card. I know Snell is very much trying to keep the number of different categories from inflating, but AI has been the biggest thing in tech for several years running. If it were a standalone category, last year I said I’d have given Apple a D for 2024. This year, I’d have given them an F — [an utter, very public failure](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino). (Their AI efforts in 2025 did end on a mildly optimistic note — [they cleaned house](https://daringfireball.net/linked/2025/12/01/giannandrea-out).)\n\n## Mac: C (last year: A)\n\nIf there were separate categories for Mac hardware and MacOS, I’d give the hardware an A and MacOS 26 Tahoe a D. The hardware continues to be great — fast, solid, reliable — and Apple Silicon continues to improve year-over-year with such predictability that Apple is making something very difficult look like it must be easy.\n\nTahoe, though, is the worst regression in the entire history of MacOS. There are many reasons to prefer MacOS to any of its competition — Windows or Linux — but the one that has been the most consistent since System 1 in 1984 is the superiority of its user interface. There is nothing about Tahoe’s new UI — the Mac’s implementation of the Liquid Glass concept Apple has applied across all its OSes — that is better than its predecessor, MacOS 15 Sequoia. Nothing. And there is much that is worse. Some of it much worse. Fundamental principles of human-computer interaction — principles that Apple itself forged over decades — have been completely ignored. And a lot of it just looks sloppy and amateur. Simple things like [resizing windows](https://daringfireball.net/2026/01/resizing_windows_macos_26), and having [application icons that look like they were designed by talented artists](https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons).\n\n## iPhone: A (last year: A)\n\niPhone 17 Pro and Pro Max are, technically, the best iPhones Apple has ever made. They’re very well designed too. The change to make the camera plateau span the entire width of the phone is a good one. It looks better, allows a naked iPhone 17 Pro to sit more steadily on a flat surface, and lets one in a case sit on a surface without any wobble at all. Apple even finally added a really fun, bold color — “cosmic orange” — that, surprising no one, seems to be incredibly popular with customers.\n\nThe iPhone Air is, from a design perspective, the best-designed iPhone Apple has ever made. It’s a marvel to hold and carry. One rear-facing camera lens is limiting, but it’s an excellent camera. Not 17 Pro-quality, no, but excellent quality, yes. Battery life is amazing given the physical constraints of the iPhone Air’s thin and lightweight design. The main two dings against the iPhone Air are that (a) Apple didn’t offer it in a fun bold color like the 17 Pro’s orange, and (b) Apple, bafflingly, hasn’t advertised the Air. I’ve seen so little promotion of the Air that I’d wager most iPhone users in the market for a new phone don’t even know it exists until they walk into a store and see it there.\n\nThe no-adjective iPhone 17 is the best iPhone for most people, which is exactly what the no-adjective iPhone ought to be. Back in March, the iPhone 16e introduced both a terrific lowest-price new iPhone — including the then-current-generation A18 chip — and a significant shift in strategy from the SE models of yore. The SE iPhone models were only updated sporadically, going 2–4 years between revisions. The “16” in “16e” is a pretty strong hint that Apple now intends to update the e models annually, just like the rest of the iPhone lineup. People complain about the $600 starting price for the 16e, but that’s $200 lower than the no-adjective iPhone 17. If you’re in the market for a lower price than that, you’re in the market for a refurbished older iPhone.\n\niOS 26 is Apple’s best implementation of the Liquid Glass concept, by far. I prefer it, in just about every way, to iOS 18. There are some individual apps from Apple in iOS 26 that have poor implementations of Liquid Glass (Music, I’m looking in your direction) but most of them are decided improvements, with more consistency system-wide (like the placement of search fields).\n\n## iPad: B (last year: C)\n\niPad hardware continues to be fine, and “fine”, by iPad standards, means “the best tablets in the industry by far”. The lineup is well-differentiated and spans a larger than ever gamut, ranging from “totally casual user” to “actual pro usage”.\n\niPadOS 26 is the most exciting release of iPadOS ever. I don’t love all of it. I think the biggest problem is that too much complexity is exposed to very casual users, for whom the main appeal of using an iPad as their main “computer” is its rigorous simplicity. But the course reversal Apple has made for advanced users, from eschewing (often to the point of frustration, sometimes to the point of absurdity) the desktop GUI concept of overlapping windows, to embracing regular old-fashioned GUI windows, was the right call, and a welcome sign of humility.\n\nIt’s a new start for iPadOS, and I look forward to seeing where it goes. It’s been a long time since I’ve thought that about iPadOS.\n\n## Wearables Overall: B (last year: B)\n\nAirPods Pro 3 are frigging amazing. AirPods, overall, [continue to exemplify Apple at its best](https://daringfireball.net/2023/09/airpods_pro_2_usbc).\n\n## Apple Watch: A (last year: C)\n\nApple Watch Series 11 and Ultra 3 are solid year-over-year improvements from the Department of If the Design Ain’t Broke Don’t Fix It. Battery life improvements, in particular, are impressive. No one comes close to Apple at making very small, powerful computers that don’t really seem like computers at all. And the best Apple Watch news of the year, by far in my opinion, is the SE 3. The SE 3 is simply an outstanding Apple Watch at very low prices ($249 for 40mm, $279 for 44mm). That’s the price range a *lot* of people are looking at if they’re thinking about getting themselves “a nice watch”, smart or not.\n\n## Vision Pro: C (last year: B)\n\nAn M5 speed-bump update to the Vision Pro was nice to see, but only as a sign that Apple is still committed to this new platform. And they’re actually starting to build a nice little library of immersive content that is extremely compelling — including baby steps toward immersive live sports with a limited slate of games, albeit just from one single NBA team (the Lakers). The new version of Personas in VisionOS 26 are amazing, and strikingly improved from the first implementation. That’s another sign that Apple is doing amazing things with this new platform and the concept of spatial computing. But in terms of VisionOS being a productivity platform in its own right (not counting the excellent Mac Virtual Display app), I didn’t see any progress at all. Nor any outreach at all to third-party developers to make VisionOS into a serious productivity platform. Frankly, it’s weird — perhaps even alarming — that some of Apple’s own core apps like Calendar and Reminders [are still iPad apps running in compatibility mode](https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform/amp/), not native VisionOS apps.\n\n## Home: D (last year: D)\n\nWhy isn’t this platform improving, in drastic groundbreaking ways, with any urgency? I really thought 2025 might be the year, but nope. I can’t think of any area where Apple’s attitude more clearly seems to be that “good enough” is good enough.\n\n## Apple TV: C (last year: C)\n\nSame grade, same comment as last year (just replacing the specific year with “[this year]”):\n\n> I’m a very happy daily (well, nightly) Apple TV user. But what\n> exactly improved or changed [this year]? Anything? It may well be fair\n> to say the current hardware — Apple TV 4K 3rd-gen, which shipped\n> in November 2022 — is fine, and this is a hardware platform that\n> only needs updates every 3 or 4 years, but we’re grading what\n> happened [this year].\n\n> \n> Also: I feel like Apple has never yet made a truly great remote\n> control for this platform. The current one is their best yet, but\n> it has obvious flaws.\n\nI fear complacency has set in. Apple TV 4K really is *so* much better than any competing set-top box (or built-in smart TV system), but it also still falls *so* far short of “insanely great”.\n\n## Services: B (last year: B)\n\nQuality is high, value is fair (except, still, for iCloud storage), and it’s getting to the point where it’s hard to keep up with all the great series on Apple TV.\n\n## Hardware Reliability: A (last year: A)\n\nNo news remains great news in this category.\n\n## Apple OS Quality: C (last year: B)\n\n## Apple Apps: B (last year: B)\n\nFor two straight years, I’ve written the same comment for this category: “I have concerns and complaints about aspects of the direction Apple’s software *design* is headed (or in some ways, has been now for years), but their software *reliability* has been very good for me.”\n\nThe reliability and technical quality remains excellent. While writing this report card, I checked, and my uptime on MacOS 15.7.2 got to 91 days before I got around to restarting, which I only did to upgrade to 15.7.3. At one point I literally had over 1,000 tabs open in Safari, spread across over 50 windows. (I have a problem with tab hoarding.) That is technical excellence.\n\nBut years-long growing concerns over the direction of Apple’s software *design* reached a breaking point with MacOS 26 Tahoe. It’s so bad — or at least, so much worse than MacOS 15 Sequoia — that I’m refusing to install it. That makes it hard to assign a single grade for “OS Quality”.\n\n## Developer Relations: D (last year: D)\n\nFifth year in a row with basically the same comment: Resentment over App Store policies continues to build. Frustrations with the App Store review process seem unresolved. Apple’s goal should be for developer relations to be so good that developers look for excuses to create software exclusively for Apple’s platforms. The opposite is happening.\n\n## Social and Societal Impact: F (last year: B)\n\nTim Cook is in an excruciatingly difficult position regarding the Trump 2.0 administration. But that’s his job. He’s clearly attempting to take the same tack he took with the Trump 1.0 administration from 2017–2020, which, in hindsight, he navigated with aplomb. To wit: staying above the fray, keeping Apple true to its institutional values while keeping it out of President Trump’s wrath.\n\nBut the Trump 2.0 administration isn’t anything like the 1.0 administration. Cook, addressing employee concerns back in 2016 [regarding his participation in then-President-elect Trump’s “tech summit”](https://www.theguardian.com/technology/2016/dec/20/tim-cook-meeting-donald-trump-desktop-macs-apple), said, “There’s a large number of those issues, and the way that you advance them is to engage. Personally, I’ve never found being on the sideline a successful place to be.” \n\n“Awarding” Donald Trump a [24-karat gold trophy emblazoned with the Apple logo](https://daringfireball.net/2025/08/gold_frankincense_and_silicon) in August 2025 — after seeing eight months of Trump 2.0 in action — wasn’t “engagement” or “getting off the sideline”. It was obsequious complicity with a regime that is clearly destined for historical infamy. Cook’s continued strategy of “engagement” risks not only his personal legacy, but the reputation of the company itself.",
+        "url": "https://daringfireball.net/2026/02/my_2025_apple_report_card",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-02-25T16:49:10.000Z",
+        "reading_time": 11,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolately Candy’ (Read: Brown Candle Wax)",
+        "summary": "From a consumer perspective, there are few things that portend a worse outcome than a company knowingly making its product worse in order to save a few bucks, and finding out that just as many custome",
+        "content": "From a consumer perspective, there are few things that portend a worse outcome than a company knowingly making its product worse in order to save a few bucks, and finding out that just as many customers *will still buy it anyway*. This scenario, in a nutshell (beanshell?) has been the dominant story in the world of chocolate for the last few years, with the enshittification of the entire segment the end result of crop failures and cocoa bean scarcity that sent the price of cocoa soaring to stratospheric heights in 2024 and 2025. More recently, those prices have steadily come back down to Earth, but guess what hasn’t changed back to how it was before? The chocolate. In fact, many of the world’s biggest sellers of chocolate-dependent treats are instead pushing forward on the embrace of cheaper replacements, increasingly convinced of the fact that consumers simply don’t know enough to notice or care. And they’re probably right.\n\nClimate change is of course largely to thank for the scarcity of cocoa beans that led prices in 2025 to peak at more than $10,000 per ton, almost five times [what the price was in the summer of 2022.](https://fred.stlouisfed.org/series/PCOCOUSDM) Unlike oddball, climate-adjacent stories such as an [uptick in mushroom poisonings](https://www.jezebel.com/mushroom-poisonings-death-caps-california-outbreak-liver-transplants-destroying-angel-murders) or [a deadly rash of Japanese bear attacks,](https://www.jezebel.com/bear-attacks-japan-crisis-black-bear-brown-areas-statistics-japanese-population-vs-united-states) the climate vector in cocoa is far easier to understand at a glance. Longer droughts, extreme heat, unpredictable rainfall and insect-driven infection amplified by climate change have all played a part in decimating cocoa yields, with [one nonprofit research group’s 2025 study finding](https://www.nytimes.com/2025/10/30/climate/candy-chocolate-cocoa-prices-climate-change.html) that most of West Africa’s cocoa-growing regions now experience six additional weeks of extreme heat per year over the last decade. No doubt there are other factors as well, like the Donald Trump tariffs just [struck down by the U.S. Supreme Court,](https://www.jezebel.com/tariff-ruling-supreme-court-donald-trump-illegal-emergency-powers-refunds-businesses) but it doesn’t take any grasp of economics to understand why chocolate prices went through the roof.\n\n  \n\n> Less chocolate in your chocolate: major manufacturers explore ways to cope with cocoa shortages due to upheaval and climate change. www.confectionerynews.com/Article/2026…\n\n> (Note that one approach, alkalinizing the cocoa, undermines the antioxidant health benefits of chocolate.)\n\n> [[image or embed]](https://bsky.app/profile/did:plc:6iu3mafozzjnfo47jch37jd6/post/3mctzry6opc23?ref_src=embed)\n\n> — Honest Chocolates ([@honestchocs.bsky.social](https://bsky.app/profile/did:plc:6iu3mafozzjnfo47jch37jd6?ref_src=embed)) [Jan 20, 2026 at 6:16 AM](https://bsky.app/profile/did:plc:6iu3mafozzjnfo47jch37jd6/post/3mctzry6opc23?ref_src=embed)\n\n --> \nNaturally, this could only result in candy purveyors raising prices and passing that cost onto the consumer, or reformulating their product to make it more cheaply. And surprise, it’s the latter that has been widely employed by the likes of Mars, Ferrero, Lindt and especially The Hershey Company. None of them understandably want to jack up prices and reposition their wares as “luxury” items to sticker-shocked consumers who are already sensitive to inflation, and the alternative is fake chocolate.\n\n \nOr is it “fake”? It can be hard to know what exactly to call the substances that are now found coating many major candy bars such as Butterfinger, Baby Ruth, Almond Joy, Mr. Goodbar or Rolos. Food scientists refer to it as “compound chocolate” coating, because it’s made from actual cocoa powder, but replaces the more expensive source of fat (cocoa butter) with cheaper, lower-quality vegetable fats. When Hershey brands such as Mr. Goodbar or Almond Joy made the switch in recent years, [their labels subtly changed](https://www.nytimes.com/2025/10/30/climate/candy-chocolate-cocoa-prices-climate-change.html) from claiming that they were “milk chocolate,” to “chocolate candy,” which strikes me as particularly insidious phrasing. A more obvious indicator is another word that many companies use: “Chocolatey” coating. Wondering how much this scourge had infiltrated my own home, I took a look moments ago at several packages of Girl Scout Cookies, only to find the inevitable: Both my Thin Mints and Peanut Butter Patties are also made with compound chocolate, rather than the real thing. I can hardly pretend to be surprised. Even in candies that continue to use real chocolate, meanwhile, cost-cutting measures have sometimes been employed, such as the milk chocolate coating of a Snickers bar becoming slightly thinner over time. Some products even mix real chocolate and compound chocolate in a single cookie or candy.\n\n![](https://img.pastemagazine.com/wp-content/juploads/2026/02/MixCollage-24-Feb-2026-03-15-PM-8004.jpg) Before: “Milk chocolate.” After: “Chocolate candy.”\n\nBut wait, it gets worse! Not content to merely replace one key element of chocolate, food scientists and entrepreneurs have teamed up to create products such as “a chocolate that’s made without cocoa using AI technology to reverse-engineer the recipe.” I was just thinking that we really needed to get AI involved in there somewhere. This company, NotCo, specializes in [an entire range of plant-based fake foods,](https://www.kraftheinz.com/notco) with [CEO Matias Muchnick raving to *Today*](https://www.today.com/food/news/chocolate-companies-cut-back-on-cocoa-rcna248192) at the end of 2025 that “we have trained an algorithm to replicate exactly the favorite chocolate that you always loved,” sounding not at all like an ancient creature that preys on human hopes and dreams. Said fake chocolate, if you were wondering, is ultimately assembled from ingredients that include carob, shea butter and malt extract, with the savvy entrepreneur saying that it could save manufacturers in the ballpark of 30%. Check out the grandiosity of this gloating quote: “I think we have a high chance of being the ones that actually saved chocolate for the rest of humanity.” Wow, “saving chocolate” by destroying it. Talk about your world-class achievements in CEO douchebaggery.\n\n \nReal chocolate, meanwhile, seems to have few allies in the face of corporate greed, although even real chocolate is [still plagued by the problem of child and slave labor](https://www.washingtonpost.com/graphics/2019/business/hershey-nestle-mars-chocolate-child-labor-west-africa/) despite assurances from the candy world’s megacorps that they would fight the practice. Still, considering their focus on “real food,” you might think this would be the kind of cause that the MAHA movement could actually get behind, but in this case their deeply impractical attitude toward sugar probably eschews even ethical chocolate advocacy. Antioxidant-rich dark chocolate doesn’t even really fit in the MAHA mindset, given that RFK Jr.’s new dietary guidelines explicitly tell parents that they should [withhold any food with added sugars from children](https://www.jezebel.com/maha-platform-position-vaccine-food-safety-pyramid-polling-candidates-measles) until after the age of 10, presumably raising an entire generation of eating disordered kids in the process. I wouldn’t expect any help from a Health and Human Services Secretary that spends decades criticizing and prosecuting cases against a herbicide, [only to instantaneously flip sides](https://www.jezebel.com/glyphosate-trump-executive-order-rfk-jr-hypocrisy-statement-lawsuits-cancer-roundup-bayer-monsanto) and embrace it after Donald Trump tells him to do so.\n\n> The grandson of the inventor of Reese’s Peanut Butter Cups is lashing out at The Hershey Co., accusing the candy company of hurting the Reese’s brand by shifting to cheaper ingredients in many products.\n\n> [[image or embed]](https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq/post/3mfalqwsrr22i?ref_src=embed)\n\n> — The Associated Press ([@apnews.com](https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq?ref_src=embed)) [Feb 19, 2026 at 5:00 PM](https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq/post/3mfalqwsrr22i?ref_src=embed)\n\n \nThe more naive among us would likely hope that as [cocoa prices](https://fred.stlouisfed.org/series/PCOCOUSDM) continue to decrease and normalize, that major manufacturers would quietly reformulate their products again, this time to bring some legitimacy *back* to them, but this is wishful thinking. Prices may be normalizing, but the root causes of climate change aren’t going away, and the problems they pose to daily life on our planet only become more pronounced. In the U.S., farmers are [struggling to grow the staple crops](https://www.jezebel.com/climate-change-is-coming-for-our-crops) our American diet expects, and even the food we do grow is actually [becoming less nutritious](https://www.politico.com/agenda/story/2017/09/13/food-nutrients-carbon-dioxide-000511/) over time. Cocoa growers in West Africa continue to face conditions that are borderline intolerable, and so the likes of The Hershey Co. continue to press onward, slowly extending fake chocolate into new flagships, wary of the possibility of consumer blowback. Just this week, Brad Reese, grandson of the inventor of the Reese’s Peanut Butter Cup, [lashed out at The Hershey Company](https://www.nytimes.com/2026/02/19/climate/reeses-chocolate-eggs-hersheys.html) for using compounded chocolate and “peanut butter creme” instead of real milk chocolate and peanut butter in limited time offerings like Reese’s Valentine’s Day hearts and Easter eggs, no doubt monitoring consumer feedback to see if they can extend the same penny-pinching into the flagship peanut butter cups. “I felt embarrassed to even wear anything that says Reese’s on it,” he said.\n\nThe irony is of course that at the end of the day, it’s the multinational corporations that are more acutely aware than any of us of the effects of climate change, because they can feel those effects in their pocketbooks. And they sure as hell are overjoyed when they change a product, stripping out real chocolate for a cheaper substitute, and find that just as many people are still willing to buy the latest step in our culture-wide enshittification.\n\nOn an earnings call last year, Hershey CFO Steve Voskuil was asked about how reformulations could affect sales or the company’s image. [His reply](https://www.nytimes.com/2025/10/30/climate/candy-chocolate-cocoa-prices-climate-change.html) says it all: “It’s a place we look at, we test, and in some parts of our portfolio, over time we’ve made some changes. There’s been no consumer impact whatsoever.”\n\n                               \n                                \n                                                                      revcontnent hidden -->\n  \n   -->  \n  \n                           -->\n                            \n                        \n\n                                \n                                    GET JEZEBEL RIGHT IN YOUR INBOX\n\n                                    Still here. Still without airbrushing. Still with teeth.\n\n                                    \n\n                                    \n                                                                            \n                                \n                                \n                                \n                              -->\n                               \n                                    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Keep scrolling for more great stories.![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)",
+        "url": "https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-02-25T15:33:41.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I vibe coded my dream macOS presentation app",
+        "summary": "25th February 2026\n\nI gave a talk this weekend at Social Science FOO Camp in Mountain View. The event was a classic unconference format where anyone could present a talk without needing to propose it ",
+        "content": "25th February 2026\n\nI gave a talk this weekend at Social Science FOO Camp in Mountain View. The event was a classic unconference format where anyone could present a talk without needing to propose it in advance. I grabbed a slot for a talk I titled “The State of LLMs, February 2026 edition”, subtitle “It’s all changed since November!”. I vibe coded a custom macOS app for the presentation the night before.\n\n![A sticky note on a board at FOO Camp. It reads: The state of LLMs, Feb 2026 edition - it's all changed since November! Simon Willison - the card is littered with names of new models: Qwen 3.5, DeepSeek 3.2, Sonnet 4.6, Kimi K2.5, GLM5, Opus 4.5/4.6, Gemini 3.1 Pro, Codex 5.3. The card next to it says Why do Social Scientists think they need genetics? Bill January (it's not all because of AI)](https://static.simonwillison.net/static/2026/state-of-llms.jpg)\n\nI’ve written about the last twelve months of development in LLMs in [December 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/), [December 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/) and [December 2025](https://simonwillison.net/2025/Dec/31/the-year-in-llms/). I also presented [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/) at the AI Engineer World’s Fair in June 2025. This was my first time dropping the time covered to just three months, which neatly illustrates how much the space keeps accelerating and felt appropriate given the [November 2025 inflection point](https://simonwillison.net/2026/Jan/4/inflection/).\n\n(I further illustrated this acceleration by wearing a Gemini 3 sweater to the talk, which I was given a couple of weeks ago and is already out-of-date [thanks to Gemini 3.1](https://simonwillison.net/2026/Feb/19/gemini-31-pro/).)\n\nI always like to have at least one gimmick in any talk I give, based on the STAR moment principle I [learned at Stanford](https://simonwillison.net/2019/Dec/10/better-presentations/)—include Something They’ll Always Remember to try and help your talk stand out.\n\nFor this talk I had two gimmicks. I built the first part of the talk around coding agent assisted data analysis of Kākāpō breeding season (which meant I got to [show off my mug](https://simonwillison.net/2026/Feb/8/kakapo-mug/)), then did a quick tour of some new pelicans riding bicycles before ending with the reveal that the entire presentation had been presented using a new macOS app I had vibe coded in ~45 minutes the night before the talk.\n\n#### Present.app\n\nThe app is called **Present**—literally the first name I thought of. It’s built using Swift and SwiftUI and weighs in at 355KB, or [76KB compressed](https://github.com/simonw/present/releases/tag/0.1a0). Swift apps are tiny!\n\nIt may have been quick to build but the combined set of features is something I’ve wanted for *years*.\n\nI usually use Keynote for presentations, but sometimes I like to mix things up by presenting using a sequence of web pages. I do this by loading up a browser window with a tab for each page, then clicking through those tabs in turn while I talk.\n\nThis works great, but comes with a very scary disadvantage: if the browser crashes I’ve just lost my entire deck!\n\nI always have the URLs in a notes file, so I can click back to that and launch them all manually if I need to, but it’s not something I’d like to deal with in the middle of a talk.\n\nThis was [my starting prompt](https://gisthost.github.io/?639d3c16dcece275af50f028b32480c7/page-001.html#msg-2026-02-21T05-53-43-395Z):\n\n> Build a SwiftUI app for giving presentations where every slide is a URL. The app starts as a window with a webview on the right and a UI on the left for adding, removing and reordering the sequence of URLs. Then you click Play in a menu and the app goes full screen and the left and right keys switch between URLs\n\nThat produced a plan. You can see [the transcript that implemented that plan here](https://gisthost.github.io/?bfbc338977ceb71e298e4d4d5ac7d63c).\n\nIn Present a talk is an ordered sequence of URLs, with a sidebar UI for adding, removing and reordering those URLs. That’s the entirety of the editing experience.\n\n![Screenshot of a macOS app window titled \"Present\" showing Google Image search results for \"kakapo\". A web view shows a Google image search with thumbnail photos of kākāpō parrots with captions. A sidebar on the left shows a numbered list of URLs, mostly from simonwillison.net and static.simonwillison.net, with item 4 (https://www.google.com/search?...) highlighted in blue.](https://static.simonwillison.net/static/2026/present.jpg)\n\nWhen you select the “Play” option in the menu (or hit Cmd+Shift+P) the app switches to full screen mode. Left and right arrow keys navigate back and forth, and you can bump the font size up and down or scroll the page if you need to. Hit Escape when you’re done.\n\nCrucially, Present saves your URLs automatically any time you make a change. If the app crashes you can start it back up again and restore your presentation state.\n\nYou can also save presentations as a `.txt` file (literally a newline-delimited sequence of URLs) and load them back up again later.\n\n#### Remote controlled via my phone\n\nGetting the initial app working took so little time that I decided to get more ambitious.\n\nIt’s neat having a remote control for a presentation...\n\nSo I prompted:\n\n> Add a web server which listens on 0.0.0.0:9123—the web server serves a single mobile-friendly page with prominent left and right buttons—clicking those buttons switches the slide left and right—there is also a button to start presentation mode or stop depending on the mode it is in.\n\nI have [Tailscale](https://tailscale.com/) on my laptop and my phone, which means I don’t have to worry about Wi-Fi networks blocking access between the two devices. My phone can access `http://100.122.231.116:9123/` directly from anywhere in the world and control the presentation running on my laptop.\n\nIt took a few more iterative prompts to get to the final interface, which looked like this:\n\n![Mobile phone web browser app with large buttons, Slide 4/31 at the top, Prev, Next and Start buttons, a thin bar with a up/down scroll icon and text size + and - buttons and the current slide URL at the bottom.](https://static.simonwillison.net/static/2026/present-mobile.jpg)\n\nThere’s a slide indicator at the top, prev and next buttons, a nice big “Start” button and buttons for adjusting the font size.\n\nThe most complex feature is that thin bar next to the start button. That’s a touch-enabled scroll bar—you can slide your finger up and down on it to scroll the currently visible web page up and down on the screen.\n\nIt’s *very* clunky but it works just well enough to solve the problem of a page loading with most interesting content below the fold.\n\n#### Learning from the code\n\nI’d already [pushed the code to GitHub](https://github.com/simonw/present) (with a big “This app was vibe coded [...] I make no promises other than it worked on my machine!” disclaimer) when I realized I should probably take a look at the code.\n\nI used this as an opportunity to document a recent pattern I’ve been using: asking the model to present a linear walkthrough of the entire codebase. Here’s the resulting [Linear walkthroughs](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/) pattern in my ongoing [Agentic Engineering Patterns guide](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/), including the prompt I used.\n\nThe [resulting walkthrough document](https://github.com/simonw/present/blob/main/walkthrough.md) is genuinely useful. It turns out Claude Code decided to implement the web server for the remote control feature [using socket programming without a library](https://github.com/simonw/present/blob/main/walkthrough.md#request-routing)! Here’s the minimal HTTP parser it used for routing:\n\n    private func route(_ raw: String) -> String {\n        let firstLine = raw.components(separatedBy: \"\\r\\n\").first ?? \"\"\n        let parts = firstLine.split(separator: \" \")\n        let path = parts.count >= 2 ? String(parts[1]) : \"/\"\n\n        switch path {\n        case \"/next\":\n            state?.goToNext()\n            return jsonResponse(\"ok\")\n        case \"/prev\":\n            state?.goToPrevious()\n            return jsonResponse(\"ok\")\n\nUsing GET requests for state changes like that opens up some fun CSRF vulnerabilities. For this particular application I don’t really care.\n\n#### Expanding our horizons\n\nVibe coding stories like this are ten a penny these days. I think this one is worth sharing for a few reasons:\n\n- Swift, a language I don’t know, was absolutely the right choice here. I wanted a full screen app that embedded web content and could be controlled over the network. Swift had everything I needed.\n\n- When I finally did look at the code it was simple, straightforward and did exactly what I needed and not an inch more.\n\n- This solved a real problem for me. I’ve always wanted a good way to serve a presentation as a sequence of pages, and now I have exactly that.\n\nThis doesn’t mean native Mac developers are obsolete. I still used a whole bunch of my own accumulated technical knowledge (and the fact that I’d already installed Xcode and the like) to get this result, and someone who knew what they were doing could have built a far better solution in the same amount of time.\n\nIt’s a neat illustration of how those of us with software engineering experience can expand our horizons in fun and interesting directions. I’m no longer afraid of Swift! Next time I need a small, personal macOS app I know that it’s achievable with our existing set of tools.",
+        "url": "https://simonwillison.net/2026/Feb/25/present/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-02-25T16:46:19.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A fuzzer for the Toy Optimizer",
+        "summary": "It’s hard to get optimizers right. Even if you build up a painstaking test\nsuite by hand, you will likely miss corner cases, especially corner cases at\nthe interactions of multiple components or multi",
+        "content": "It’s hard to get optimizers right. Even if you build up a painstaking test\nsuite by hand, you will likely miss corner cases, especially corner cases at\nthe interactions of multiple components or multiple optimization passes.\n\nI wanted to see if I could write a fuzzer to catch some of these bugs\nautomatically. But a fuzzer alone isn’t much use without some correctness\noracle—in this case, we want a more interesting bug than accidentally\ncrashing the optimizer. We want to see if the optimizer introduces a\ncorrectness bug in the program.\n\nSo I set off in the most straightforward way possible, inspired by my\nhazy memories of a former [CF blog post](https://pypy.org/posts/2024/03/fixing-bug-incremental-gc.html).\n\n## Generating programs\n\nGenerating random programs isn’t so bad. We have program generation APIs and we\ncan dynamically pick which ones we want to call. I wrote a small loop that\ngenerates `load`s from and `store`s to the arguments at random offsets and with\nrandom values, and `escape`s to random instructions with outputs. The idea\nwith the `escape` is to keep track of the values as if there was some other\nfunction relying on them.\n\n```\ndef generate_program():\n    bb = Block()\n    args = [bb.getarg(i) for i in range(3)]\n    num_ops = random.randint(0, 30)\n    ops_with_values = args[:]\n    for _ in range(num_ops):\n        op = random.choice([\"load\", \"store\", \"escape\"])\n        arg = random.choice(args)\n        a_value = random.choice(ops_with_values)\n        offset = random.randint(0, 4)\n        if op == \"load\":\n            v = bb.load(arg, offset)\n            ops_with_values.append(v)\n        elif op == \"store\":\n            value = random.randint(0, 10)\n            bb.store(arg, offset, value)\n        elif op == \"escape\":\n            bb.escape(a_value)\n        else:\n            raise NotImplementedError(f\"Unknown operation {op}\")\n    return bb\n\n```\n\nThis generates random programs. Here is an example stringified random program:\n\n```\nvar0 = getarg(0)\nvar1 = getarg(1)\nvar2 = getarg(2)\nvar3 = load(var2, 0)\nvar4 = load(var0, 1)\nvar5 = load(var1, 1)\nvar6 = escape(var0)\nvar7 = store(var0, 2, 3)\nvar8 = store(var2, 0, 7)\n\n```\n\nNo idea what would generate something like this, but oh well.\n\n## Verifying programs\n\nThen we want to come up with our invariants. I picked the invariant that, under\nthe same preconditions, the heap will look the same after running an optimized\nprogram as it would under an un-optimized program[1](#fn:equivalence). So we can delete\ninstructions, but if we don’t have a load-bearing store, store the wrong\ninformation, or cache stale loads, we will probably catch that.\n\n```\ndef verify_program(bb):\n    before_no_alias = interpret_program(bb, [\"a\", \"b\", \"c\"])\n    a = \"a\"\n    before_alias = interpret_program(bb, [a, a, a])\n    optimized = optimize_load_store(bb)\n    after_no_alias = interpret_program(optimized, [\"a\", \"b\", \"c\"])\n    after_alias = interpret_program(optimized, [a, a, a])\n    assert before_no_alias == after_no_alias\n    assert before_alias == after_alias\n\n```\n\nI have a very silly verifier that tests two cases: one where the arguments do\nnot alias and one where they are all the same object. Generating partial\naliases would be a good extension here.\n\nLast, we have the interpreter.\n\n## Running programs\n\nThe interpreter is responsible for keeping track of the heap (as indexed by\n`(object, offset)` pairs) as well as the results of the various instructions.\n\nWe keep track of the `escape`d values so we can see results of some\ninstructions even if they do not get written back to the heap. Maybe we should\nbe `escape`ing all instructions with output instead of only random ones. Who\nknows.\n\n```\ndef interpret_program(bb, args):\n    heap = {}\n    ssa = {}\n    escaped = []\n    for op in bb:\n        if op.name == \"getarg\":\n            ssa[op] = args[get_num(op, 0)]\n        elif op.name == \"store\":\n            obj = ssa[op.arg(0)]\n            offset = get_num(op, 1)\n            value = get_num(op, 2)\n            heap[(obj, offset)] = value\n        elif op.name == \"load\":\n            obj = ssa[op.arg(0)]\n            offset = get_num(op, 1)\n            value = heap.get((obj, offset), \"unknown\")\n            ssa[op] = value\n        elif op.name == \"escape\":\n            value = op.arg(0)\n            if isinstance(value, Constant):\n                escaped.append(value.value)\n            else:\n                escaped.append(ssa[value])\n        else:\n            raise NotImplementedError(f\"Unknown operation {op.name}\")\n    heap[\"escaped\"] = escaped\n    return heap\n\n```\n\nThen we return the heap so that the verifier can check.\n\n## The harness\n\nThen we run a bunch of random tests through the verifier!\n\n```\ndef test_random_programs():\n    # Remove random.seed if using in CI... instead print the seed out so you\n    # can reproduce crashes if you find them\n    random.seed(0)\n    num_programs = 100000\n    for i in range(num_programs):\n        program = generate_program()\n        verify_program(program)\n\n```\n\nThe number of programs is configurable. Or you could make this `while True`.\nBut due to how simple the optimizer is, we will find all the possible bugs\npretty quickly.\n\nI initially started writing this post because I thought I had found a bug, but\nit turns out that I had, with CF’s help, in 2022, walked through every possible\ncase in the “buggy” situation, and the optimizer handles those cases correctly.\nThat explains why the verifier didn’t find that bug!\n\n## Testing the verifier\n\nSo does it work? If you run it, it’ll hang for a bit and then report no issues.\nThat’s helpful, in a sense… it’s revealing that it is unable to find a\ncertain class of bug in the optimizer.\n\nLet’s comment out the main load-bearing pillar of correctness in the\noptimizer—removing aliasing writes—and see what happens.\n\nWe get a crash nearly instantly:\n\n```\n$ uv run --with pytest pytest loadstore.py -k random\n...\n=========================================== FAILURES ============================================\n_____________________________________ test_random_programs ______________________________________\n\n    def test_random_programs():\n        random.seed(0)\n        num_programs = 100000\n        for i in range(num_programs):\n            program = generate_program()\n>           verify_program(program)\n\nloadstore.py:617:\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nbb = [Operation(getarg, [Constant(0)], None, None), Operation(getarg, [Constant(1)], None, None), Operation(getarg, [Consta...], None, None)], None, None), Operation(load, [Operation(getarg, [Constant(0)], None, None), Constant(0)], None, None)]\n\n    def verify_program(bb):\n        before_no_alias = interpret_program(bb, [\"a\", \"b\", \"c\"])\n        a = \"a\"\n        before_alias = interpret_program(bb, [a, a, a])\n        optimized = optimize_load_store(bb)\n        after_no_alias = interpret_program(optimized, [\"a\", \"b\", \"c\"])\n        after_alias = interpret_program(optimized, [a, a, a])\n        assert before_no_alias == after_no_alias\n>       assert before_alias == after_alias\nE       AssertionError: assert {('a', 0): 4,...', 3): 1, ...} == {('a', 0): 9,...', 3): 1, ...}\nE\nE         Omitting 4 identical items, use -vv to show\nE         Differing items:\nE         {('a', 0): 4} != {('a', 0): 9}\nE         Use -v to get more diff\n\nloadstore.py:610: AssertionError\n==================================== short test summary info ====================================\nFAILED loadstore.py::test_random_programs - AssertionError: assert {('a', 0): 4,...', 3): 1, ...} == {('a', 0): 9,...', 3): 1, ...}\n=============================== 1 failed, 15 deselected in 0.04s ================================\n$\n\n```\n\nWe should probably use `bb_to_str(bb)` and `bb_to_str(optimized)` to print out\nthe un-optimized and optimized traces in the `assert` failure messages. But we\nget a nice diff of the heap automatically, which is neat. And it points to an\naliasing problem!\n\n## Full code\n\nSee the [full code](https://github.com/tekknolagi/tekknolagi.github.com/blob/fbccf9696e98721ca77c8d5ec5f828a11492b04c/loadstore.py).\n\n## Extensions\n\n  - Synthesize (different) types for non-aliasing objects and add them in `info`\n  \n\n  - Shrink/reduce failing examples down for easier debugging\n\n  - Use Hypothesis for property-based testing, which CF notes also gives you\nshrinking\n\n  - [Use Z3 to encode](https://pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html) the generated programs instead of randomly interpreting them\n\n## Thanks\n\nThank you to [CF Bolz-Tereick](https://cfbolz.de/) for feedback on this post!",
+        "url": "https://bernsteinbear.com/blog/toy-fuzzer/?utm_source=rss",
+        "source": "Max Bernstein's Blog",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "Wed, 25 Feb 2026 00:00:00 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: The whole economy pays the Amazon tax (25 Feb 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/25Feb2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/02/25/most-favo",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/25Feb2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/02/25/most-favored-nation/)\n\n## Today's links\n\n- [The whole economy pays the Amazon tax](https://pluralistic.net/2026/02/25/most-favored-nation/#price-fixing): You can't shop your way out of a monopoly.\n\n- [Hey look at this](https://pluralistic.net/2026/02/25/most-favored-nation/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/02/25/most-favored-nation/#retro): Math denial; Disney v young Tim Burton; Make v Sony; American oligarchs' wealth (2011); New Librarian of Congress;  The Mauritanian; Bossware.\n\n- [Upcoming appearances](https://pluralistic.net/2026/02/25/most-favored-nation/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/02/25/most-favored-nation/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/02/25/most-favored-nation/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/02/25/most-favored-nation/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/02/25/most-favored-nation/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/amazon-cal-price-fixing.jpg?w=840&ssl=1)\n\n## The whole economy pays the Amazon tax ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#price-fixing))\n\nSelling on Amazon is a tough business. Sure, you can reach a *lot* of customers, but this comes at a very high price: the junk fees that Amazon extracts from its sellers amount to *50-60%* of the price you pay.\n\nThat's a hell of a lot of money to hand over to a middleman, but it's not like vendors have much choice. The vast majority of America's affluent households are Prime subscribers (depending on how you define \"affluent household\" it's north of 90%). Prime households prepay for a year's worth of shipping, so it's only natural that they start their shopping on Amazon, where they've already paid the delivery costs. And because Amazon reliably meets or beats the prices you'd pay elsewhere, Prime subscribers who find a product on Amazon overwhelmingly *stop* their shopping at Amazon, too.\n\nAt this point you might be thinking a couple things:\n\nI. Why not try to sell the *non*-affluent households, who are far less likely to subscribe to Prime? and\n\nII. If Amazon has the lowest prices, what's the problem if everyone shops there?\n\nThe answers to these two questions are intimately related, as it happens.\n\nLet's start with selling to non-affluent households – basically, the bottom 90% of American earners. The problem here is that everyone who isn't in that top 10% is pretty goddamned *broke*. It's not just decades of wage stagnation and hyperinflation in health, housing and education costs. It's also that every economic crisis of this century has resulted in a \"K-shaped\" recovery, in which \"economic recovery\" means that rich people are doing fine, while everyone else is worse off than they were before the crisis.\n\nFor decades, America papered over the K-shaped hole in its economy with debt. First it was credit cards. Then it was gimmicky mortgages – home equity lines of credit, second mortgages and reverse mortgages. Then it was payday lenders. Then it was \"buy-now/pay-later\" services that let you buy lunch at Chipotle on an installment plan that is nominally interest-free, but is designed to trap the unwary and unlucky with *massive* penalties if you miss a single payment.\n\nThis produced a median American who isn't just cash-poor – they are cash-*negative*, drowning in debt. And – with the exception of a brief Biden intercession – every presidential administration of the 21st century has enacted policies that favor creditors over debtors. Bankruptcy is harder to declare, and creditors can hit you with effectively unlimited penalties and confiscation of your property and wages once your cash is gone. Trump has erased all the small mercies of the Biden years – for example, he just forced 8,000,000 student borrowers back into repayment:\n\n[https://prospect.org/2025/12/16/gop-forcing-eight-million-student-loan-borrowers-into-repayment/](https://prospect.org/2025/12/16/gop-forcing-eight-million-student-loan-borrowers-into-repayment/)\n\nThe average American worker has $955 saved for retirement:\n\n[https://finance.yahoo.com/news/955-saved-for-retirement-millions-are-in-that-boat-150003868.html](https://finance.yahoo.com/news/955-saved-for-retirement-millions-are-in-that-boat-150003868.html)\n\nThere's plenty to worry about in a K-shaped economy – big things like \"political instability\" and \"cultural chaos\" (the fact that most people are broke has a lot to do with the surging fortunes of gambling platforms). But from a seller's perspective, the most important impact of the K-shaped economy is that only rich people buy stuff. Selling to the bottom 90% is a losing proposition because they're increasingly too broke to buy *anything*:\n\n[https://pluralistic.net/2025/12/16/k-shaped-recovery/#disenshittification-nations](https://pluralistic.net/2025/12/16/k-shaped-recovery/#disenshittification-nations)\n\nCombine the fact that the richest 10% of Americans all start their shopping on Amazon with the fact that no one else can afford to buy anything, and it's easy to see why merchants would stay on Amazon, even when junk fees hit 60%.\n\nWhich brings us to the second question: if Amazon has the best prices, what's the problem with everyone shopping there?\n\nThe answer is to be found in the California Attorney General's price-fixing lawsuit against Amazon:\n\n[https://oag.ca.gov/news/press-releases/attorney-general-bonta-exposes-amazon-price-fixing-scheme-driving-costs](https://oag.ca.gov/news/press-releases/attorney-general-bonta-exposes-amazon-price-fixing-scheme-driving-costs)\n\nThe suit's been running for a long time, but the AG's office just celebrated a milestone – they've finished analyzing the internal memos they forced Amazon to disgorge through civil law's \"discovery\" process. These internal docs verify an open – and very dirty – secret about Amazon: the company uses its power to push up prices *across the entire economy*.\n\nHere's how that works: sellers *have* to sell on Amazon, and that means they're losing $0.50-$0.60 on every dollar. The obvious way to handle this is by raising prices. But Amazon knows that its power comes from offering buyers prices that are as low or lower than the prices at all its competitors.\n\nAmazon *could* ban its sellers from raising prices, but if they did that, they'd have to accept a smaller share of every sale (otherwise most of their sellers would go broke from selling at a loss on Amazon). So instead, Amazon imposes a business practice called \"most favored nation\" (MFN) pricing on its sellers.\n\nUnder an MFN arrangement, sellers are allowed to raise their prices on Amazon, but when they do, they must raise their prices *everywhere else, too*: at Walmart, at Target, at mom and pop indie stores, and at their own factory outlet store. Remember: Amazon doesn't have to have *low* prices to win, it just needs to have *the same prices as everyone else*. So long as prices rise throughout the economy, Amazon is fine, and it can continue to hike its junk fees on sellers, knowing that they will pay those fees by raising prices on Amazon and everywhere else their products are sold.\n\nLike I say, this isn't really a secret. MFN terms were the basis of DC Attorney General Ken Racine's case against Amazon, five years ago:\n\n[https://pluralistic.net/2021/06/01/you-are-here/#prime-facie](https://pluralistic.net/2021/06/01/you-are-here/#prime-facie)\n\nAmazon's not the only company that does this. Under the Biden administration, the FTC brought a lawsuit against Pepsi because Pepsi and Walmart had rigged the market so that when Walmart raised its prices, Pepsi would force everyone else who carried Pepsi products to raise their prices even more. Walmart still had the lowest prices, but *everything everywhere* got more expensive, both at Walmart and everywhere else:\n\n[https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart](https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart)\n\nTrump's FTC dropped the Pepsi/Walmart case, and Amazon wriggled out of the DC case, but the California AG's office has a lot more resources than DC can muster. This is a timely reminder that America's antitrust laws can be enforced at the state level as well as by the federal authorities. Trump might be happy to let Amazon steal from Americans so long as Jeff Bezos neuters the *Washington Post*, writes a check for $1m to sit on the inaugural dais, and makes a garbage movie about Melania; but that doesn't stop California AG Rob Bonta from going after Amazon for ripping off Californians (and, in so doing, develop the evidentiary record and precedent that will allow every other state AG to go after Amazon).\n\nThe fact that Amazon's monopoly lets it control prices across the economy highlights the futility of trying to fix the Amazon problem by shopping elsewhere. A \"boycott\" isn't you *shopping really hard*, it's an organized movement with articulated demands, a theory of change, and a backbone of solidarity. \"Conscious consumption\" is a dead-end:\n\n[https://jacobin.com/2026/02/individual-boycotts-collective-action-ice/](https://jacobin.com/2026/02/individual-boycotts-collective-action-ice/)\n\nObviously, Californians have more to worry about than getting ripped off by Amazon (like getting murdered or kidnapped by ICE agents who want to send us all to a slave labor camp in El Salvador), but the billions that Amazon steals from American buyers and sellers are the source of the millions that Bezos uses to support Trump's fascist takeover of America. Without billionaires who would happily support concentration camps in their back yards if it means saving a dollar on their taxes, fascism would still be a fringe movement.\n\nThat's why, when we hold new Nuremberg trials for Trump and his collaborators, we should also unwind every merger that was approved under Trump:\n\n[https://pluralistic.net/2026/02/10/miller-in-the-dock/#denazification](https://pluralistic.net/2026/02/10/miller-in-the-dock/#denazification)\n\nThe material support for Trump's ideology of hate, violence and terror comes from Trump's program of unregulated corporate banditry. A promise to claw back every stolen dime might cool the ardor of Trump's corporate supporters, and even if it doesn't, zeroing out their bank-balances after Trump is gone will be an important lesson for future would-be billionaire collaborators.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- One Year In: The Good and The (Mostly) Bad and Ugly of Trump Antitrust and Consumer Protection [https://economicpopulist.substack.com/p/one-year-in-the-good-and-the-mostly](https://economicpopulist.substack.com/p/one-year-in-the-good-and-the-mostly)\n\n- \n2025 State of Clutter Report [https://yorba.co/state-of-clutter](https://yorba.co/state-of-clutter)\n\n- \nA.I. Isn't People [https://www.todayintabs.com/p/a-i-isn-t-people](https://www.todayintabs.com/p/a-i-isn-t-people)\n\n- \nColor Game [https://dialed.gg/](https://dialed.gg/)\n\n- \nPaediatricians’ blood used to make new treatments for RSV and colds [https://www.newscientist.com/article/2516079-paediatricians-blood-used-to-make-new-treatments-for-rsv-and-colds/](https://www.newscientist.com/article/2516079-paediatricians-blood-used-to-make-new-treatments-for-rsv-and-colds/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#retro))\n\n#20yrsago Princeton prof explains watermarks’ failures [https://blog.citp.princeton.edu/2006/02/24/how-watermarks-fail/](https://blog.citp.princeton.edu/2006/02/24/how-watermarks-fail/)\n\n#20yrsago Palm Beach County voting machines generated 100K anomalies in 2004 [https://web.archive.org/web/20060225172632/https://www.bbvforums.org/cgi-bin/forums/board-auth.cgi?file=/1954/19421.html](https://web.archive.org/web/20060225172632/https://www.bbvforums.org/cgi-bin/forums/board-auth.cgi?file=/1954/19421.html)\n\n#15yrsago Sharing the power in Tahrir Square [https://www.flickr.com/photos/47421217@N08/5423296010/](https://www.flickr.com/photos/47421217@N08/5423296010/)\n\n#15yrsago 17-year-old Tim Burton’s rejection from Walt Disney Productions [https://web.archive.org/web/20110226083118/http://www.lettersofnote.com/2011/02/giant-zlig.html](https://web.archive.org/web/20110226083118/http://www.lettersofnote.com/2011/02/giant-zlig.html)\n\n#15yrsago Rare Alan Turing papers bought by Bletchley Park Trust [https://web.archive.org/web/20110225145556/https://www.bletchleypark.org.uk/news/docview.rhtm/635610](https://web.archive.org/web/20110225145556/https://www.bletchleypark.org.uk/news/docview.rhtm/635610)\n\n#15yrsago Sony considered harmful to makers, innovators and hackers [https://web.archive.org/web/20151013140820/http://makezine.com/2011/02/24/sonys-war-on-makers-hackers-and-innovators/](https://web.archive.org/web/20151013140820/http://makezine.com/2011/02/24/sonys-war-on-makers-hackers-and-innovators/)\n\n#15yrsago MPAA: record-breaking box-office year is proof that piracy is killing movies [https://arstechnica.com/tech-policy/2011/02/piracy-once-again-fails-to-get-in-way-of-record-box-office/](https://arstechnica.com/tech-policy/2011/02/piracy-once-again-fails-to-get-in-way-of-record-box-office/)\n\n#15yrsago Super-wealthy clothes horses and their sartorial habits [https://web.archive.org/web/20110217045201/http://online.wsj.com/article/SB10001424052748704409004576146420210142748.html](https://web.archive.org/web/20110217045201/http://online.wsj.com/article/SB10001424052748704409004576146420210142748.html)\n\n#15yrsago Visualizing the wealth of America’s super-rich ruling class [https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/)\n\n#10yrsago Obama’s new Librarian of Congress nominee is a rip-snortin’, copyfightin’, surveillance-hatin’ no-foolin’ LIBRARIAN [https://www.youtube.com/watch?v=iU8vXDoBB5s](https://www.youtube.com/watch?v=iU8vXDoBB5s)\n\n#10yrsago Math denialism: crypto backdoors and DRM are the alternative medicine of computer science [https://www.theguardian.com/technology/2016/feb/24/the-fbi-wants-a-backdoor-only-it-can-use-but-wanting-it-doesnt-make-it-possible](https://www.theguardian.com/technology/2016/feb/24/the-fbi-wants-a-backdoor-only-it-can-use-but-wanting-it-doesnt-make-it-possible)\n\n#10yrsago Uganda’s corrupt president just stole another election, but he couldn’t steal the Internet [https://web.archive.org/web/20160225095947/https://motherboard.vice.com/read/uganda-election-day-social-media-blackout-backlash-mobile-payments](https://web.archive.org/web/20160225095947/https://motherboard.vice.com/read/uganda-election-day-social-media-blackout-backlash-mobile-payments)\n\n#10yrsago Archbishop of St Louis says Girl Scout Cookies encourage sin [https://www.theguardian.com/us-news/2016/feb/23/girl-scouts-cookies-missouri-catholics-st-louis-archbishop](https://www.theguardian.com/us-news/2016/feb/23/girl-scouts-cookies-missouri-catholics-st-louis-archbishop)\n\n#10yrsago After appointed city manager illegally jacked up prices, Flint paid the highest water rates in America [https://eu.freep.com/story/news/local/michigan/flint-water-crisis/2016/02/16/study-flint-paid-highest-rate-us-water/80461288/](https://eu.freep.com/story/news/local/michigan/flint-water-crisis/2016/02/16/study-flint-paid-highest-rate-us-water/80461288/)\n\n#10yrsago Baidu browser isn’t just a surveillance tool, it’s a remarkably sloppy one [https://citizenlab.ca/research/privacy-security-issues-baidu-browser/](https://citizenlab.ca/research/privacy-security-issues-baidu-browser/)\n\n#5yrsago Why Brits can no longer order signed copies of my books [https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#brexit-books](https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#brexit-books)\n\n#5yrsago Court rejects TSA qualified immunity [https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#junk-touching](https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#junk-touching)\n\n#5yrsago The Mauritanian [https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#gwb-and-gitmo](https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#gwb-and-gitmo)\n\n#5yrsago EVs as distributed storage grid [https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#mobile-batteries](https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#mobile-batteries)\n\n#5yrsago Bossware and the shitty tech adoption curve [https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#bossware](https://pluralistic.net/2021/02/24/gwb-rumsfeld-monsters/#bossware)\n\n#1yrsago How an obscure advisory board lets utilities steal $50b/year from ratepayers [https://pluralistic.net/2025/02/24/surfa/#mark-ellis](https://pluralistic.net/2025/02/24/surfa/#mark-ellis)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Oslo (remote): Seminar og lansering av rapport om «enshittification», Feb 27\n\n[https://www.forbrukerradet.no/siste-nytt/digital/seminar-og-lansering-av-rapport-om-enshittification/](https://www.forbrukerradet.no/siste-nytt/digital/seminar-og-lansering-av-rapport-om-enshittification/)\n\n- \nVictoria: 28th Annual Victoria International Privacy & Security Summit, Mar 3-5\n\n[https://www.rebootcommunications.com/event/vipss2026/](https://www.rebootcommunications.com/event/vipss2026/)\n\n- \nVictoria: Enshittification at Russell Books, Mar 4\n\n[https://www.eventbrite.ca/e/cory-doctorow-is-coming-to-victoria-tickets-1982091125914](https://www.eventbrite.ca/e/cory-doctorow-is-coming-to-victoria-tickets-1982091125914)\n\n- \nBarcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#recent))\n\n- Making The Internet Suck Less (Thinking With Mitch Joel)\n\n[https://www.sixpixels.com/podcast/archives/making-the-internet-suck-less-with-cory-doctorow-twmj-1024/](https://www.sixpixels.com/podcast/archives/making-the-internet-suck-less-with-cory-doctorow-twmj-1024/)\n\n- \nPanopticon :3 (Trashfuture)\n\n[https://www.patreon.com/posts/panopticon-3-150395435](https://www.patreon.com/posts/panopticon-3-150395435)\n\n- \nAmerica's Enshittification is Canada's Opportunity (Do Not Pass Go)\n\n[https://www.donotpassgo.ca/p/americas-enshittification-is-canadas](https://www.donotpassgo.ca/p/americas-enshittification-is-canadas)\n\n- \nEverything Wrong With the Internet and How to Fix It, with Tim Wu (Ezra Klein)\n\n[https://www.nytimes.com/2026/02/06/opinion/ezra-klein-podcast-doctorow-wu.html](https://www.nytimes.com/2026/02/06/opinion/ezra-klein-podcast-doctorow-wu.html)\n\n- \nHow the Internet Got Worse (Masters in Business)\n\n[https://www.youtube.com/watch?v=auXlkuVhxMo](https://www.youtube.com/watch?v=auXlkuVhxMo)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/02/25/most-favored-nation/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1020 words today, 37190 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTwitter (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/02/25/most-favored-nation/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Wed, 25 Feb 2026 11:07:59 +0000",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "tldraw issue: Move tests to closed source repo - 25th February 2026 - Link Blog **[tldraw issue: Move tests to closed source repo](https://...",
+    "Linear walkthroughs - Sometimes it's useful to have a coding agent give you a structured walkthrough of a codeba...",
+    "Claude Code Remote Control - 25th February 2026 - Link Blog **[Claude Code Remote Control](https://code.claude.com/docs...",
+    "The Talk Show: ‘Serious Opinionators’ - ## [The Talk Show](https://daringfireball.net/thetalkshow/) ## ‘Serious Opinionators’, Wit...",
+    "Quoting Kellan Elliott-McCrea - 25th February 2026 > It’s also reasonable for people who entered technology in the last co..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 10
+    },
+    {
+      "word": "code",
+      "count": 8
+    },
+    {
+      "word": "com",
+      "count": 8
+    },
+    {
+      "word": "february",
+      "count": 6
+    },
+    {
+      "word": "talk",
+      "count": 5
+    },
+    {
+      "word": "trig",
+      "count": 4
+    },
+    {
+      "word": "message",
+      "count": 4
+    },
+    {
+      "word": "tldraw",
+      "count": 4
+    },
+    {
+      "word": "th",
+      "count": 4
+    },
+    {
+      "word": "claude",
+      "count": 4
+    },
+    {
+      "word": "show",
+      "count": 4
+    },
+    {
+      "word": "table",
+      "count": 3
+    },
+    {
+      "word": "dialog",
+      "count": 3
+    },
+    {
+      "word": "process",
+      "count": 3
+    },
+    {
+      "word": "feb",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "source",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "it's",
+      "count": 3
+    },
+    {
+      "word": "ios",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 3
+    },
+    {
+      "word": "box",
+      "count": 3
+    },
+    {
+      "word": "i'll",
+      "count": 3
+    },
+    {
+      "word": "spam",
+      "count": 3
+    },
+    {
+      "word": "inverse",
+      "count": 2
+    },
+    {
+      "word": "gave",
+      "count": 2
+    },
+    {
+      "word": "functions",
+      "count": 2
+    },
+    {
+      "word": "changes",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "intercepting",
+      "count": 2
+    },
+    {
+      "word": "messages",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "game",
+      "count": 2
+    },
+    {
+      "word": "designer",
+      "count": 2
+    },
+    {
+      "word": "sid",
+      "count": 2
+    },
+    {
+      "word": "meier",
+      "count": 2
+    },
+    {
+      "word": "born",
+      "count": 2
+    },
+    {
+      "word": "creating",
+      "count": 2
+    },
+    {
+      "word": "returns",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "issue",
+      "count": 2
+    },
+    {
+      "word": "move",
+      "count": 2
+    },
+    {
+      "word": "tests",
+      "count": 2
+    },
+    {
+      "word": "closed",
+      "count": 2
+    },
+    {
+      "word": "repo",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "via",
+      "count": 2
+    },
+    {
+      "word": "twitter",
+      "count": 2
+    },
+    {
+      "word": "status",
+      "count": 2
+    },
+    {
+      "word": "coding",
+      "count": 2
+    },
+    {
+      "word": "maybe",
+      "count": 2
+    },
+    {
+      "word": "remote",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "serious",
+      "count": 2
+    },
+    {
+      "word": "opinionators",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "adam",
+      "count": 2
+    },
+    {
+      "word": "engst",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "past",
+      "count": 2
+    },
+    {
+      "word": "hands-on",
+      "count": 2
+    },
+    {
+      "word": "workshop",
+      "count": 2
+    },
+    {
+      "word": "sentry",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "attestation",
+      "count": 2
+    },
+    {
+      "word": "things",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "little",
+      "count": 2
+    },
+    {
+      "word": "put",
+      "count": 2
+    },
+    {
+      "word": "re",
+      "count": 2
+    },
+    {
+      "word": "interesting",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "report",
+      "count": 2
+    },
+    {
+      "word": "card",
+      "count": 2
+    },
+    {
+      "word": "candy",
+      "count": 2
+    },
+    {
+      "word": "worse",
+      "count": 2
+    },
+    {
+      "word": "corner",
+      "count": 2
+    },
+    {
+      "word": "cases",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
