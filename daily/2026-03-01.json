@@ -1,0 +1,861 @@
+{
+  "date": "2026-03-01",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Shell variable ~-",
+        "summary": "After writing the previous post, I poked around in the bash shell documentation and found a handy feature I’d never seen before, the shortcut ~-. I frequently use the command cd - to return to the previous working direct...",
+        "url": "https://www.johndcook.com/blog/2026/03/01/tilde-dash/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 01 Mar 2026 18:15:16 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "\nRedis patterns for coding\n",
+        "summary": "Here LLM and coding agents can find: 1. Exhaustive documentation about Redis commands and data types. 2. Patterns commonly used. 3. Configuration hints. 4. Algorithms that can be mounted using Redis commands. https://red...",
+        "url": "\nhttp://antirez.com/news/161\n",
+        "source": "\n<antirez>\n",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "Sun, 01 Mar 2026 10:55:09 +0100",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆",
+        "summary": "Everyone knows that Black people didn't exist in the UK until recently, right? Despite mountains of evidence of everything from Black Tudors and Victorian actors, some myths perniciously persist. What was the experience...",
+        "url": "https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Cloud"
+        ],
+        "published_at": "Sun, 01 Mar 2026 12:34:27 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "\"Why hack the DHS? I can think of a couple Pretti Good reasons!\"",
+        "summary": "Today, DDoSecrets published data about ICE contracts hacked from DHS's Office of Industry Partnership. The hacker group, Department of Peace, published a statement that included: Why hack the DHS? I can think of a couple...",
+        "url": "https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/",
+        "source": "micahflee",
+        "tags": [
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Sun, 01 Mar 2026 21:21:35 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Killing my inner Necron",
+        "summary": "On surviving surgery, confronting mortality, and finding peace on the other side.",
+        "url": "https://xeiaso.net/blog/2026/killing-my-inner-necron/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Sun, 01 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why on-device agentic AI can't keep up",
+        "summary": "On-device AI agents sound great in theory. The maths on KV cache scaling, RAM budgets, and inference speed says otherwise.",
+        "url": "https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Sun, 01 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-01T22:13:57.764Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting claude.com/import-memory",
+        "summary": "<think>The user wants me to summarize an article titled \"Quoting claude.com/import-memory\" in 100-200 words. The article appears to be about a feature on Claude's website that allows users to export their memories.\n\nLooking at the content, it's presenting a prompt that a user would use to export their data from Claude. The article is dated 1st March 2026 and shows a detailed prompt asking Claude to list every memory stored about the user, including:\n\n1. Instructions about how to respond\n2. Personal details (name, location, job, family, interests)\n3. Projects, goals, and recurring topics\n4. Tools, languages, and frameworks used\n5. Preferences and corrections to behavior\n6. Any other stored context\n\nThe key point is that this is Anthropic's \"import your memories to Claude\" feature - essentially a data portability feature that allows users to export all the context Claude has learned about them.\n\nI need to summarize this in 100-200 words, focusing on the key points and main takeaways. The summary should be concise and informative.\n\nLet me write a summary:\n</think>\n\nAnthropic offers a \"import your memories to Claude\" feature at claude.com/import-memory, enabling users to export all stored context when switching services. The feature provides a detailed prompt template requesting Claude to list every memory, including verbatim instructions about tone, format, and response style the user has established. It covers personal details like name, location, job, family, and interests, as well as project goals, recurring topics, technical preferences, and behavioral corrections. The export requires outputting entries in a specific format with dates where available, without summarization or omission. After listing all memories, Claude confirms whether the set is complete. This data portability tool empowers users to maintain their personalized context when migrating to alternative AI services, ensuring continuity in their AI interactions.",
+        "content": "1st March 2026\n\n> `I'm moving to another service and need to export my data. List every memory you have stored about me, as well as any context you've learned about me from past conversations. Output everything in a single code block so I can easily copy it. Format each entry as: [date saved, if available] - memory content. Make sure to cover all of the following — preserve my words verbatim where possible: Instructions I've given you about how to respond (tone, format, style, 'always do X', 'never do Y'). Personal details: name, location, job, family, interests. Projects, goals, and recurring topics. Tools, languages, and frameworks I use. Preferences and corrections I've made to your behavior. Any other stored context not covered above. Do not summarize, group, or omit any entries. After the code block, confirm whether that is the complete set or if any remain.`\n\n— [claude.com/import-memory](https://claude.com/import-memory), Anthropic's \"import your memories to Claude\" feature is a prompt",
+        "url": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-01T11:21:45.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Talk Show: ‘Bad Dates’",
+        "summary": "<think>The user wants me to summarize an article titled \"The Talk Show: 'Bad Dates'\" in 100-200 words. This appears to be a podcast episode description from Daring Fireball, a technology blog.\n\nLooking at the content:\n- It's a talk show/podcast episode\n- Host: The Talk Show (Daring Fireball)\n- Guest: Jason Snell\n- Topics discussed:\n  - 2025 Six Colors Apple Report Card\n  - MacOS 26 Tahoe\n  - Apple Creator Studio\n  - Expectations for upcoming Apple product announcements\n- Sponsored by: Notion, Squarespace, Sentry\n- Various links to related content\n\nThe article is essentially a podcast episode show notes page with descriptions of topics, sponsors, and related links. I need to summarize the key points in 100-200 words.\n\nKey takeaways:\n1. This is a podcast episode featuring Jason Snell discussing Apple's 2025 performance\n2. They cover the Six Colors Apple Report Card (an annual assessment)\n3. They discuss MacOS 26 Tahoe (seems to have some criticisms - terrible icons, inscrutable menu icons)\n4. They talk about Apple Creator Studio\n5. They speculate about upcoming Apple announcements\n6. There are mentions of various Mac launcher apps\n\nI should write this as a concise, informative summary in prose form, keeping it between 100-200 words.\n</think>\n\nThis Daring Fireball podcast episode features host John Gruber in conversation with Jason Snell, editor at Six Colors, examining Apple's performance in 2025 through their annual Report Card assessment. The discussion covers macOS 26 Tahoe, which receives criticism for design choices including problematic app icons and confusing menu item icons. They also explore Apple Creator Studio and share expectations for upcoming Apple product announcements. The episode references Kieran Healy's analysis of the Report Card data and mentions various Mac launcher applications like LaunchBar, Alfred, and Raycast. The conversation touches on Apple's Manufacturing Academy opening in Detroit and includes a nod to Derek Sivers' perspective on ideas versus execution. The show is sponsored by Notion, Squarespace, and Sentry, with unofficial transcripts available through PodSearch.",
+        "content": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Bad Dates’, With Jason Snell\n\nJason Snell returns to the show to discuss the 2025 Six Colors Apple Report Card, MacOS 26 Tahoe, Apple Creator Studio, along with what we expect/hope for in next week’s Apple product announcements.\n\n**Sponsored by:**\n\n- [Notion](https://notion.com/talkshow): The AI workspace where teams and AI agents get more done together.\n\n- [Squarespace](https://squarespace.com/talkshow): Save 10% off your first purchase of a website or domain using code **talkshow**.\n\n- [Sentry](https://sentry.io/talkshow): A real-time error monitoring and tracing platform. Use code **TALKSHOW** for $80 in free credits.\n\n**Transcripts:** [Unofficial but surprisingly good](http://podsearch.david-smith.org/shows/11).\n\n**Links:**\n\n- [Apple in 2025: The Six Colors Report Card](https://sixcolors.com/post/2026/02/2025reportcard/).\n\n- Kieran Healy, in a post at Six Colors published after we recorded the show: “[Charting the Vibes in the 2025 Apple Report Card](https://sixcolors.com/post/2026/02/charting-the-vibes-in-the-2025-apple-report-card/)”.\n\n- [Kieran Healy’s homepage/weblog](https://kieranhealy.org/blog/).\n\n- [My 2025 Apple Report Card](https://daringfireball.net/2026/02/my_2025_apple_report_card).\n\n- [Upgrade: “The Shifting Sands of Liquid Glass”](https://sixcolors.com/post/2026/02/charting-the-vibes-in-the-2025-apple-report-card/), wherein Jason and Myke discuss this year’s report card, and Jason makes rascally comments supporting MacOS 26 Tahoe. (And Myke isn’t much better.)\n\n- [Apple’s July 2025 announcement of the Apple Manufacturing Academy in Detroit](https://www.apple.com/newsroom/2025/07/apple-manufacturing-academy-opens-in-detroit-on-august-19/).\n\n- Derek Sivers, in 2005: “[Ideas Are Just a Multiplier of Execution](https://sive.rs/multiply)”.\n\n- [ChangeTheHeaders](https://underpassapp.com/ChangeTheHeaders/) — a Safari extension I convinced Jeff Johnson to build, which, among other things, allows me never to be served WebP images in lieu of PNG or JPEG.\n[StopTheMadness](https://underpassapp.com/StopTheMadness/) — the older sibling, companion Safari Extension to ChangeTheHeaders that gives you explicit control over all sorts of web features, on a per-website basis. (I conflated the two during the show.)\n\n- [WebP](https://developers.google.com/speed/webp).\n\n- Mac Launchers:\n[LaunchBar (my favorite, and until Tahoe, Jason’s too)](https://www.obdev.at/launchbar).\n\n- [Alfred](https://www.alfredapp.com/).\n\n- [Raycast](https://www.raycast.com/).\n\n- [Tuna](https://tunaformac.com/).\n\n- [Quicksilver](https://qsapp.com/).\n\n- Incomplete list of what’s wrong with MacOS 26 Tahoe:\n[Terrible app icons](https://daringfireball.net/linked/2025/11/07/tahoes-terrible-icons).\n\n- The terrible idea to include inscrutable, inconsistent icons next to just about every menu item in every app, as documented by [Jim Nielsen](https://blog.jim-nielsen.com/2025/icons-in-menus/) and [Nikita Prokopov](https://tonsky.me/blog/tahoe-icons/), and linked to by yours truly [here](https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus) and [here](https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons), respectively.\n\n- Norbert Heger: “[The Struggle of Resizing Windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)” — [and a follow-up](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/).\n\n- Daring Fireball: “[Why It’s Difficult to Resize Windows on MacOS 26 Dyehoe](https://daringfireball.net/2026/01/resizing_windows_macos_26)”.\n\n- Daring Fireball: “[Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)”.\n\n- [Stephen Hackett’s MacOS Screenshot Library at 512 Pixels](https://512pixels.net/projects/aqua-screenshot-library/).\n\n- [Steve Krug’s classic book, “Don’t Make Me Think”](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515).\n\n- [The Appearance Manager and the themes that never actually shipped for classic Mac OS](https://atpm.com/6.08/gui-junkie.shtml).\n\n- [Comparing Alan Dye’s horseshitty introduction of Liquid Glass at WWDC 2025 to Steve Jobs’s introduction of Aqua back in 2000](https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025).\n\n- [Manu Cornet’s 2011 classic: “Organizational Charts In Major Tech”](https://ritholtz.com/2011/07/organizational-charts-in-major-tech/).\n\n*This episode of The Talk Show was edited by Caleb Sexton.*",
+        "url": "https://daringfireball.net/thetalkshow/2026/02/28/ep-442",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-01T15:43:02.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "&ldquo;How old are you?&rdquo; Asked the OS ",
+        "summary": "<think>The user wants me to summarize an article titled \"How old are you?\" Asked the OS in 100-200 words. Let me analyze the content:\n\nThe article discusses:\n1. A new California law (AB-1043) passed in October 2025 requiring operating systems to collect users' ages at account creation\n2. Questions about how it works, whether it applies to offline systems, and enforcement\n3. The author's skepticism about the law's enforceability\n4. A comparison to IRS requirements to report illegal income\n5. The author's concern that the law could be used as a tool for prosecution when suspected of other crimes\n\nThe tone is critical and concerned about civil liberties implications. The author uses hyperbole and irony to make their point.\n\nFor a summary of 100-200 words, I need to:\n- Capture the key points\n- Maintain the critical tone\n- Be concise but informative\n- Use proper English throughout\n- Use balanced structure (not too many short sentences)\n\nLet me write this summary:\n</think>\n\n# Summary\n\nCalifornia passed AB-1043 in October 2025, requiring all operating systems to collect users' ages during account creation. The law raises practical questions about enforcement, particularly for offline systems like home Raspberry Pi setups or devices such as Tamagotchis. The author argues the law is fundamentally unenforceable since users can simply provide false information.\n\nThe article draws a parallel to IRS requirements for reporting income from illegal activities—where the expectation of compliance exists despite no practical verification. Similarly, failing to report your age to an OS technically violates the law, whether using Windows or a simple digital toy.\n\nThe author's primary concern is the law's potential weaponization: while not actively enforced, the age violation could be used to arrest individuals suspected of other crimes, creating an additional legal vulnerability. This represents a troubling expansion of regulatory power into personal computing, where technical impossibility of enforcement is sidestepped by maintaining a legal framework that could be applied selectively during investigations.",
+        "content": "A new law passed in California to require every operating system to collect the user's age at account creation time. The law is [AB-1043](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043). And it was passed in October of 2025. \n\nHow does it work? Does it apply to offline systems? When I set up my Raspberry Pi at home, is this enforced? What if I give an incorrect age, am I breaking the law now? What if I set my account correctly, but then my kids use the device? What happens?\n\nThere is no way to enforce this law, but I suspect that's not the point. It's similar to statements you find in IRS documents. The IRS requires you to report all income from illegal activities, such as bribes and scams. Obviously, if you are getting a bribe, you wouldn't report it, but by not reporting it you are breaking additional laws that can be used to get you prosecuted.\n\nWhen you don't report your age to your OS whether it's a windows device or a Tamagotchi, you are breaking the law. It's not enforced of course, but when you are suspected of any other crime, you can be arrested for the age violation first, then prosecuted for something else. \n\nWhat a world we live in.",
+        "url": "https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Sun, 01 Mar 2026 01:43:17 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The two kinds of error",
+        "summary": "<think>The user wants me to summarize an article titled \"The two kinds of error\" in 100-200 words. I need to focus on the key points and main takeaways, keeping it concise and informative.\n\nLet me identify the main points:\n1. The article divides errors into two categories: expected and unexpected\n2. Expected errors are normal part of operation (user input errors, network issues, permissions) - not the developer's fault, should be handled gracefully\n3. Unexpected errors are bugs (null pointers, assertion failures, logic errors) - the developer's fault, should crash\n4. Expected errors should return error results, not throw/panic, and use WARN/INFO logs\n5. Unexpected errors should crash the program to make bugs visible\n\nI need to write a summary of 100-200 words that's concise and informative. The content is in English, so I'll write in English.\n\nLet me draft this summary:\n\n---\n\nThe article presents a framework for categorizing software errors into two distinct types: expected and unexpected errors, each requiring different handling approaches.\n\nExpected errors occur during normal program operation and aren't the developer's fault. These include validation errors when users enter invalid data, network failures, and permission issues. Since these are unavoidable, developers should handle them gracefully by returning error results rather than throwing exceptions, and using appropriate logging levels like WARN or INFO.\n\nUnexpected errors, in contrast, indicate bugs in the code—such as null pointer exceptions, assertion failures, or logic errors. These should never happen in properly functioning software. The author argues that unexpected errors should cause the program to crash, as this makes problems immediately visible and ultimately leads to more reliable software by forcing developers to address underlying issues.\n\nThe key takeaway is that distinguishing between these error types helps developers create more robust and maintainable applications by responding appropriately to each category.\n\n---\n\nLet me count: approximately 150 words. This fits the 100-200 word requirement and covers all the key points.\n</think>\n\nThe article presents a framework for categorizing software errors into two distinct types: expected and unexpected errors, each requiring different handling approaches.\n\nExpected errors occur during normal program operation and aren't the developer's fault. These include validation errors when users enter invalid data, network failures, and permission issues. Since these are unavoidable, developers should handle them gracefully by returning error results rather than throwing exceptions, and using appropriate logging levels like WARN or INFO.\n\nUnexpected errors, in contrast, indicate bugs in the code—such as null pointer exceptions, assertion failures, or logic errors. These should never happen in properly functioning software. The author argues that unexpected errors should cause the program to crash, as this makes problems immediately visible and ultimately leads to more reliable software by forcing developers to address underlying issues.\n\nThe key takeaway is that distinguishing between these error types helps developers create more robust and maintainable applications by responding appropriately to each category.",
+        "content": "*In short: in my mind, errors are divided into two categories. Expected errors (think “user entered invalid data”), which are part of normal operation, aren’t the developer’s fault, and should be handled. Unexpected errors (think “null pointer exception”) are the developer’s fault, likely indicate a bug, and are allowed to crash.*\n\nError handling is an important, but often neglected, part of programming and user experience.\n\nOver the years, I’ve developed an opinion about the two types of error in software. This is primarily informed by a career in web and application development, but I hope these learnings are widely applicable.\n\nIn my mind, errors are divided into two categories: *expected* and *unexpected*.\n\n## Expected errors\n\nExpected errors happen during normal operation. Examples:\n\n- Validation errors when the user enters invalid data. You can’t control what the user types!\n- Network errors when the user’s network fails. It’s not your fault if the user turns their Internet off or has a slow connection!\n- Permission errors when your program isn’t allowed to do something. You can’t magically read forbidden files, fix a user’s password, or steal webcam privileges!\n\nThe developer hasn’t made a mistake when these happen, and there’s often little they can do to prevent it. The existence of these errors is not a bug (though failing to handle them can be). These aren’t the programmer’s fault.\n\nExpected errors are recoverable. This might mean logging a warning, showing a message to the user, or using a fallback.\n\nExpected errors should not `throw`, `raise`, or `panic`. Instead, they should return an error result. This works differently in every language, but is often a `Result` type, a union of `null` and the success value, or an error code. This pattern pushes you toward handling the error, which you should if you want to make your software reliable.\n\nExpected errors should use `WARN` or `INFO` log messages because this isn’t a problem to solve. You may want to set up an alert if you start getting *lots* of warnings.\n\n## Unexpected errors\n\nUnexpected errors should never happen. If they do, you’ve got a bug! Examples:\n\n- Assertion errors. For example, a function *must* be called with a non-empty string, and someone violated the contract if they didn’t.\n- Logic errors. If Thing A depends on Thing B, but Thing B isn’t properly initialized, that’s unexpected. Null pointer exceptions are also typically a surprise.\n- Invalid data errors. You can usually assume your database will give back valid data. If it doesn’t, you’ve probably got a bug somewhere.\n\nYou should generally not try to recover these errors. It’s okay to explode—crash, `panic`, and `throw`.\n\nTo get even more radical: I often think unexpected errors should *completely crash the program*. It’s disruptive in the short term, but I find crashes make software feel *more* reliable in the long run. You’re more likely to hear about these problems from annoyed users—if not your own testing.\n\nUnexpected errors should use `ERROR` or `FATAL` log messages because they indicate a real problem. At best, they indicate an incorrect assumption. At worst, there’s a serious bug somewhere.\n\n## Drawing the line\n\nThe line between “expected” and “unexpected” depends on the task.\n\nAt one extreme: if you’re making a prototype or quick script, I reckon *all* errors are unexpected. You might decide not to handle problems with the network, filesystem, or user input. Who cares? This is just a little script or idea.\n\nAt the other extreme: if you’re coding for a space probe on a 50-year mission, almost *all* errors are expected, [including catastrophic hardware failures](https://hackaday.com/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/).\n\nMost programs lie somewhere in between, and you have to decide which errors are unexpected. For example, are memory allocation errors expected in your program? It depends.\n\nIn my experience, if you want to make your stuff more reliable, you’ll trend toward expecting more and more errors. Lots can go wrong on a normal day! For example, my team recently had to deal with a memory allocation error, even though we’re writing a Node.js app.\n\nSome programming languages, like Rust and Zig, classify many errors as expected. Others, like JavaScript and Python, classify them as unexpected. For example, when you parse JSON in Go, the compiler makes you handle the error; not so in Ruby. I tend to prefer stricter compilers for production software and looser languages for scripts and prototypes, in part because of their philosophy about errors. (The Rustaceans among you probably notice that this whole post is very similar to [Rust’s error philosophy](https://doc.rust-lang.org/std/macro.panic.html#when-to-use-panic-vs-result).)\n\nTo be clear: this is just what *I* think. I’ve found it useful to categorize errors this way. If you think about errors differently, (1) [I’d love to hear it](https://evanhahn.com/contact/) (2) I’m glad you’re thinking about error handling in software.",
+        "url": "https://evanhahn.com/the-two-kinds-of-error/",
+        "source": "Evan Hahn (dot com)",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Sun, 01 Mar 2026 00:00:00 +0000",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sentry",
+        "summary": "<think>The user wants me to summarize an article about Sentry's content for an iOS app development workshop. Let me analyze the key points:\n\n1. The article is about a hands-on workshop focused on iOS app monitoring and debugging\n2. It covers connecting performance issues to user experience\n3. Four main topics are covered:\n   - Setting up Sentry for mobile issues with proper alerting\n   - Using Logs and Breadcrumbs for crash investigation\n   - Performance bottleneck analysis through Tracing\n   - App size monitoring and reduction\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write a clear, professional summary that captures the essence of the workshop content.\n</think>\n\n# Summary\n\nThis workshop teaches developers how to monitor and optimize iOS applications using Sentry's debugging and performance tools. The session focuses on connecting technical issues like slowdowns and crashes directly to user experience impact.\n\nKey topics include setting up intelligent alerting systems that highlight high-priority mobile issues while avoiding alert fatigue, using Logs and Breadcrumbs to trace the sequence of events leading to crashes, applying Tracing to identify performance bottlenecks, and leveraging Size Analysis to monitor and reduce app bundle size.\n\nThe workshop provides practical guidance for implementing comprehensive mobile monitoring, helping developers proactively detect, diagnose, and resolve issues before they significantly impact users.",
+        "content": "In this hands-on workshop, we show you how to connect the dots between slowdowns, crashes, and the user experience in your iOS app. This session covers how to:\n\n- ​Set up Sentry to surface and alert on high-priority mobile issues (without alert fatigue)\n\n- ​Use Logs and Breadcrumbs to reconstruct what happened with a crash\n\n- Find what’s behind a performance bottleneck using Tracing\n\n- Monitor and reduce the size of your iOS app using Size Analysis",
+        "url": "https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-03-01T15:44:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Downstream Testing",
+        "summary": "<think>The user wants me to summarize an article about downstream testing in software libraries. Let me analyze the key points:\n\n1. **Main Thesis**: Information about how a library is actually used exists in dependents' code, not in the library's own tests or documentation.\n\n2. **Hyrum's Law**: Implicit contracts exist once you have enough users - downstream code depends on undocumented behaviors (error message formats, iteration orders, \"internal\" methods).\n\n3. **Semver Problem**: Version numbers declare maintainer intent, not actual downstream dependencies. A 2023 study found 11.58% of Maven dependency updates contain breaking changes, nearly half in non-major versions.\n\n4. **Current Feedback Loop Problem**: Maintainers have no way to validate version numbers before publishing - reactive cycle of release, wait for bug reports, hope breakage isn't widespread.\n\n5. **Debian's Solution (DEP-8/Autopkgtest)**:\n   - Packages declare test suites following DEP-8 specification\n   - Britney migration tool triggers autopkgtest for package and reverse dependencies\n   - Regression blocks migration\n   - Example: Expat update causing test failures sits in unstable until resolved\n   - This catches problems before reaching anyone outside unstable\n\n6. **Key Insight**: Autopkgtest doesn't check API compatibility - it runs actual test suites of actual consumers, encoding whatever implicit contracts those consumers have built against.\n\n7. **Fedora/Cockpit Solution**: Using tmt, Packit, and Testing Farm to run downstream tests in PRs before release. Cockpit configured PRs on core library to automatically run test suites of dependents (cockpit-podman, etc.) against proposed changes.\n\n8. **Why This Works Better**: When maintainer discovers breakage in a PR, they're still inside the change - they remember context, know which tests they considered, and have the diff in front of them.\n \nI'll craft a concise summary highlighting the critical insights about downstream testing. The core challenge is that library usage details are hidden in dependent code, not documentation. Hyrum's Law reveals how implicit contracts emerge through user interactions. Current version management fails to capture actual dependencies, with a significant percentage of updates introducing breaking changes. Proactive testing strategies like Debian's autopkgtest and Fedora's integrated testing approaches offer promising solutions by catching potential issues before release.\n</think>\n\n# Summary: Downstream Testing for Libraries\n\nLibraries contain implicit contracts about usage that exist only in downstream code, not in documentation or the library's own tests. Hyrum's Law states that once a library has enough users, all undocumented behaviors become de facto contracts—downstream code may depend on error message formats, iteration orders, or methods the maintainer considers internal. Semantic versioning fails here because version numbers reflect maintainer intent, not actual downstream dependencies. A 2023 study of Maven found that 11.58% of dependency updates contain breaking changes, with nearly half occurring in non-major versions.\n\nDebian addresses this through autopkgtest, which runs actual test suites of reverse dependencies before packages migrate to stable. When a change breaks dependent packages, migration blocks until resolved—catching issues before they reach most users. Fedora's approach with tmt, Packit, and Testing Farm runs downstream tests during pull requests, before any release. This proactive model lets maintainers discover breakage while the context is fresh and the fix is simple.",
+        "content": "The information about how a library is actually used lives in the dependents’ code, not in the library’s own tests or docs. Someone downstream is parsing your error messages with a regex, or relying on the iteration order of a result set you never documented, or depending on a method you consider internal because it wasn’t marked private in a language that doesn’t enforce visibility. [Hyrum’s Law](https://www.hyrumslaw.com/) says all of these implicit contracts exist once you have enough users, and semver can’t help because a version number declares what the maintainer intended, not what downstream code actually depends on.\n\nA [2023 study of Maven](https://hasel.auckland.ac.nz/2023/11/12/understanding-breaking-changes-in-the-wild/) found that 11.58% of dependency updates contain breaking changes that impact clients, and nearly half arrived in non-major version bumps. Most library maintainers have no way to validate their version number before publishing, so the feedback loop is reactive: release, wait for bug reports, and hope the breakage wasn’t too widespread before you can cut a patch.\n\n### Distributions\n\nDebian packages declare test suites following the DEP-8 specification, and when a package is a candidate for migration from unstable to testing, the migration tool Britney triggers [autopkgtest](https://wiki.debian.org/autopkgtest) for the package and all of its reverse dependencies. A regression blocks migration, so an Expat update that causes test failures in its dependents sits in unstable until someone resolves them, and a Coq update that broke mathcomp-analysis and mathcomp-finmap did the same. The maintainer finds out who they broke and how before the change reaches anyone who didn’t opt into unstable.\n\nAutopkgtest doesn’t check API compatibility. It runs actual test suites of actual consumers, which encode whatever implicit contracts those consumers have built against, including ones the upstream maintainer has never heard of. If library Y changes the sort order of a hash table in a patch release and package X’s tests assumed that order was stable, migration blocks until someone decides whose assumption was wrong.\n\nFedora’s recent work with [tmt, Packit, and Testing Farm](https://cockpit-project.org/blog/tmt-cross-project-testing.html) runs downstream tests in the PR, before anything is released. The Cockpit project configured it so that opening a PR on their core library automatically runs the test suites of cockpit-podman and other dependents against the proposed change, with results showing up as status checks before merge. As they put it, “it is too late at the distro level anyway: at that point the new upstream release which includes the regression was already done, and the culprit landed possibly weeks ago already.”\n\nWhen a maintainer discovers breakage in a PR, they’re still inside the change. They remember why they restructured that error path, they know which tests they considered, and the diff is right in front of them. The cost of responding to a downstream failure at this point is a few minutes of thought and maybe a revised approach. When the same breakage surfaces as an issue filed three weeks after release, the maintainer has to reload the context of the change, understand the downstream project’s usage well enough to see why it broke, decide whether to fix forward or revert, cut a new release, and hope that consumers who already pinned away will unpin. The information is the same in both cases, a downstream test failed, but the cost of acting on it scales with the distance from the change that caused it.\n\nDebian’s autopkgtest catches breakage before migration to testing, which is better than catching it after, but the change has already been released upstream by that point. The Fedora approach catches it before the upstream release happens at all, which means the maintainer can fix it before anyone outside their own CI ever encounters it. František Lachman and Cristian Le presented the PTE project at [FOSDEM](https://fosdem.org/2026/schedule/event/MCNHUF-from-code-to-distribution-testing-pipeline/). Downstream feedback that arrives while you’re still writing the code changes how you think about the change itself.\n\n### Language ecosystems\n\nDistributions can do this because they have structural properties that language ecosystems lack: a single canonical dependency graph, a standardized test interface (DEP-8 in Debian’s case), a shared execution environment where every package builds and runs the same way, and the authority to block a release based on downstream results. npm, PyPI, and RubyGems have fragmented tooling, no standard way to invoke a package’s tests from outside its own repo, heterogeneous execution environments, and no mechanism to gate a publish on anything other than the maintainer’s own judgement. A few language ecosystems have built partial versions of downstream testing anyway, though they tend to belong to compiler teams with the resources to work around these gaps.\n\nRust’s [crater](https://github.com/rust-lang/crater) compiles and tests every crate on crates.io against both the current and proposed compiler, then diffs the results. A recent [PR adding `impl From<f16> for f32`](https://github.com/rust-lang/rust/pull/142723) to the standard library broke 3,143 crates out of 650,587 tested. Adding a trait implementation is unambiguously backwards-compatible by semver’s rules, but it broke type inference in thousands of downstream projects because existing code depended on there being exactly one conversion path between those types. Crater caught it before it shipped, during a run that took five to six days across Linux x86_64. Without it, the Rust team would have discovered the breakage from 3,143 individual bug reports.\n\nCrater also benefits from Rust being compiled: a type inference failure shows up at build time, before any tests run. In Python, Ruby, or JavaScript, the equivalent breakage only surfaces at runtime, so you need downstream test suites that actually exercise the affected code paths, and those code paths need to be covered in the first place. The case for downstream testing is stronger in dynamic ecosystems because there’s no compile step to catch the easy ones, and the signal is harder to get.\n\nNode.js runs [CITGM](https://github.com/nodejs/citgm) (Canary in the Goldmine), which tests about 80 curated npm packages against proposed Node versions. A refactor in Node 12 moved `isFile` from `Stats.prototype` to `StatsBase.prototype`, changing nothing about the public API but breaking the esm module because it walked the prototype chain directly. In a separate release, a change to the timing of a `readable` event on EOF broke the dicer module, which depended on that event firing synchronously.\n\nAll of these were built by teams with dedicated infrastructure budgets and release processes, and an individual library maintainer who publishes a widely-used package on npm or PyPI or RubyGems has nothing comparable, even though they face the same problem at a different scale.\n\n### Merge confidence\n\nRenovate’s [Merge Confidence](https://docs.renovatebot.com/merge-confidence/) aggregates data from millions of update PRs to tell consumers whether an update is safe: how old the release is, what percentage of Renovate users have adopted it, and what percentage of updates result in passing tests. The signal comes from real test results across real projects, but it arrives after the release and flows to consumers, never back to the maintainer who shipped the change.\n\nThe algorithm is private, and the underlying dataset of which updates broke which projects’ tests stays behind Mend’s paywall. Dependabot shows a [compatibility score](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates) on security update PRs, calculated from CI results across other public repos that made the same update, but only when at least five candidate updates exist, and the data doesn’t flow back to the maintainer either. I’ve started indexing Dependabot PRs at [dependabot.ecosyste.ms](https://dependabot.ecosyste.ms/) to build an open version of this signal. It doesn’t have CI data yet, but it already tracks merge percentages per update, which gives a rough proxy for how much trouble a particular version bump is causing across the ecosystem.\n\n### Discovery\n\nRegistries track which packages declare dependencies on other packages, but applications that consume libraries are mostly invisible: a Rails app that depends on a gem won’t show up in RubyGems’ reverse dependency list, and a company’s internal service using an npm package won’t appear on npmjs.com. The maintainer’s view of their dependents is limited to whatever the registry can see, which skews heavily toward other libraries and misses the applications, which are where the stranger usage patterns and more surprising implicit contracts show up.\n\n[ecosyste.ms](https://ecosyste.ms/) tracks dependents across both packages and open source repositories, scanning millions of repos on GitHub, GitLab, and other forges for manifest files that declare dependencies. A maintainer can see which applications actually use their library, which is the view you’d need to build a downstream testing system on.\n\n### Building it\n\nThis is something I want to build on top of ecosyste.ms. A maintainer connects the service to their CI, and on every PR or pre-release branch it queries ecosyste.ms for the top N dependents of the package, both libraries and applications, ranked by some combination of dependent count, download volume, and recency of commits. It clones each one, installs the proposed version of the library in place of the current release, and runs their test suite in an isolated environment. The results come back as a report on the PR: which dependents were tested, which ones regressed, what the stack traces look like, which of the maintainer’s changes likely caused each failure.\n\nA maintainer looking at that report before tagging a release would see things that are currently invisible to them. They’d see that popular applications parse their error messages with regex and will break if the wording changes, that a widely-used wrapper library calls a method they considered internal and were about to remove, that their optimisation to batch database calls changed the callback order in a way that two downstream projects’ integration tests depend on.\n\nMichal Gorny’s [catalogue of problems with downstream testing Python packages](https://mgorny.pl/articles/downstream-testing-python-packages.html) lays out the failure modes: test suites that modify installed files assuming they’re in a disposable container, pytest plugins in the environment causing unexpected test collection, tests requiring network access or Docker, timing-dependent assertions, floating-point precision differences across architectures, source distributions that omit test files entirely. Any service trying this across a registry would need to handle all of these gracefully, distinguishing genuine regressions from environmental noise, which is a hard problem that Debian has spent years refining with autopkgtest and still hasn’t fully solved.\n\nDeveloper tools usually fund themselves by selling an enterprise version, but large companies facing similar coordination problems between internal teams already solved them with monorepos. When all your code lives in one tree, downstream testing is just CI: you run every affected test before merging, no special infrastructure needed. Google, Meta, and Microsoft have invested heavily in making that work, and inside their monorepos the problem is already solved. Nobody’s going to buy an enterprise version of downstream testing when their codebase doesn’t have a “downstream,” which leaves open source maintainers as the only audience for a tool like this, and they can’t fund it.\n\necosyste.ms already provides the dependent discovery, source repositories are linked from package metadata, test suites follow ecosystem conventions that are well-understood enough to automate, and container infrastructure makes isolated environments cheap. Crater and autopkgtest have proven the approach works at ecosystem scale. The missing piece is stitching these together into something an individual maintainer can point at their package and get results from, without needing a compiler team’s budget or a distro’s infrastructure.",
+        "url": "https://nesbitt.io/2026/03/01/downstream-testing.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "2026-03-01T00:00:00.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Notes on Lagrange Interpolating Polynomials",
+        "summary": "<think>The user wants me to summarize an article about Lagrange Interpolating Polynomials in 100-200 words. Let me analyze the key points:\n\n1. The article is about polynomial interpolation - finding a polynomial that fits a given set of data points perfectly\n2. It discusses existence using linear algebra and the Vandermonde matrix\n3. It introduces Lagrange Polynomial interpolation as an alternative approach\n4. The key idea is Lagrange basis functions that equal 1 at one point and 0 at all others\n5. The linear combination of these basis functions creates the interpolating polynomial\n\nI need to condense this into 100-200 words while keeping the main takeaways clear and informative.\n\nLet me write a concise summary:\n</think>\n\n# Summary: Notes on Lagrange Interpolating Polynomials\n\nPolynomial interpolation finds a polynomial that perfectly fits a given set of distinct data points. While a linear algebra approach uses the Vandermonde matrix to solve for coefficients, this method is often numerically ill-conditioned in practice.\n\nLagrange interpolation offers an elegant alternative through Lagrange basis functions. Each basis function ℓᵢ(x) is designed to equal 1 at one specific point xᵢ and 0 at all other data points. By constructing these functions using a product-based formula and normalizing them, we create polynomials that precisely satisfy the interpolation conditions.\n\nThe linear combination of these basis functions, weighted by the corresponding y-values, produces the interpolating polynomial. This approach avoids matrix inversion and provides an intuitive geometric understanding of how each basis function contributes to fitting the data points.",
+        "content": "*Polynomial interpolation* is a method of finding a polynomial function\nthat fits a given set of data perfectly. More concretely, suppose we\nhave a set of  distinct points [[1]](#footnote-1):\n\nAnd we want to find the polynomial coefficients \nsuch that:\n\nFits all our points; that is ,  etc.\n\nThis post discusses a common approach to solving this problem, and also\nshows why such a polynomial exists and is unique.\n\n## Showing existence using linear algebra\n\nWhen we assign all points  into the generic polynomial\n, we get:\n\nWe want to solve for the coefficients . This is a linear\nsystem of equations that can be represented by the following matrix\nequation:\n\nThe matrix on the left is called the *Vandermonde matrix*. This matrix\nis known to be invertible (see Appendix for a proof); therefore, this\nsystem of equations has a single solution that can be calculated by\ninverting the matrix.\n\nIn practice, however, the Vandermonde matrix is often numerically\nill-conditioned, so inverting it isn’t the best way to calculate exact\npolynomial coefficients. Several better methods exist.\n\n## Lagrange Polynomial\n\nLagrange interpolation polynomials emerge from a simple, yet powerful\nidea. Let’s define the *Lagrange basis* functions \n() as follows, given our points :\n\nIn words,  is constrained to 1 at ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) and to 0 at\nall other . We don’t care about its value at any other point.\n\nThe linear combination:\n\nis then a valid interpolating polynomial for our set of \npoints, because it’s equal to ![](https://eli.thegreenplace.net/images/math/35c2ac2f82d0ff8f9011b596ed7e54bfcc55f471.png) at each ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) (take a\nmoment to convince yourself this is true).\n\nHow do we find ? The key insight comes from studying the\nfollowing function:\n\nThis function has ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png) terms  for all\n. It should be easy to see that  is 0 at\nall  when .\n\nWhat about its value at ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png), though? We can just assign\n![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) into  to get:\n\nAnd then normalize , dividing it by this (constant) value. We get\nthe Lagrange basis function :\n\nLet’s use a concrete example to visualize this. Suppose we have the\nfollowing set of points we want to interpolate:\n. We can calculate ,\n and , and get the following:\n\n![](https://eli.thegreenplace.net/images/2026/lagrange-basis.png)\n\nNote where each  intersects the ![](https://eli.thegreenplace.net/images/math/11f6ad8ec52a2984abaafd7c3b516503785c2072.png) axis. These\nfunctions have the right values at all . If we\nnormalize them to obtain , we get these functions:\n\n![](https://eli.thegreenplace.net/images/2026/lagrange-basis-normalized.png)\n\nNote that each polynomial is 1 at the appropriate ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) and 0 at\nall the other , as required.\n\nWith these , we can now plot the interpolating polynomial\n, which fits our set of input points:\n\n![](https://eli.thegreenplace.net/images/2026/lagrange-inter-poly.png)\n\n## Polynomial degree and uniqueness\n\nWe’ve just seen that the linear combination of Lagrange basis functions:\n\nis a valid interpolating polynomial for a set of  distinct\npoints . What is its degree?\n\nSince the degree of each  is ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png), then the degree of\n is *at most* ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png). We’ve just derived the first part\nof the *Polynomial interpolation theorem*:\n\n**Polynomial interpolation theorem**: for any  data points\n where no\ntwo  are the same, there exists a unique polynomial\n of degree at most ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png) that interpolates these points.\n\nWe’ve demonstrated existence and degree, but not yet *uniqueness*. So\nlet’s turn to that.\n\nWe know that  interpolates all  points, and its\ndegree is ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png). Suppose there’s another such polynomial\n. Let’s construct:\n\nThat do we know about ? First of all, its value is 0 at all\nour ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png), so it has  *roots*. Second, we also know\nthat its degree is at most ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png) (because it’s the difference of two\npolynomials of such degree). These two facts are a contradiction.\nNo non-zero polynomial of degree  can have\n roots (a basic algebraic fact related to the *Fundamental\ntheorem of algebra*). So  must be the zero polynomial; in\nother words, our  is unique .\n\nNote the implication of uniqueness here: given our set of \ndistinct points, there’s only one polynomial of degree \nthat interpolates it. We can find its coefficients by inverting the\nVandermonde matrix, by using Lagrange basis functions, or\nany other method [[2]](#footnote-2).\n\n## Lagrange polynomials as a basis for \n\nThe set  consists of all real polynomials of\ndegree . This set - along with addition of polynomials and\nscalar multiplication - [forms a vector\nspace](https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/).\n\nWe called  the \"Lagrange basis\" previously, and they do -\nin fact - form an actual linear algebra basis for this vector space. To\nprove this claim, we need to show that Lagrange polynomials are linearly\nindependent and that they span the space.\n\n**Linear independence**: we have to show that\n\nimplies . Recall that  is 1\nat ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png), while all other  are 0 at that point.\nTherefore, evaluating  at ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png), we get:\n\nSimilarly, we can show that  is 0, for all ![](https://eli.thegreenplace.net/images/math/042dc4512fa3d391c5170cf3aa61e6a638f84342.png)\n.\n\n**Span**: we’ve already demonstrated that the linear combination of\n:\n\nis a valid interpolating polynomial for any set of  distinct\npoints. Using the *polynomial interpolation theorem*, this is the unique\npolynomial interpolating this set of points. In other words, for every\n, we can identify any set of  distinct points it passes\nthrough, and then use the technique described in this post to find the coefficients of  in the\nLagrange basis. Therefore, the set  spans\nthe vector space .\n\n## Interpolation matrix in the Lagrange basis\n\nPreviously we’ve seen how to use the \nbasis to write down a system of linear equations that helps us find the\ninterpolating polynomial. This results in the *Vandermonde matrix*.\n\nUsing the Lagrange basis, we can get a much nicer matrix representation\nof the interpolation equations.\n\nRecall that our general polynomial using the Lagrange basis is:\n\nLet’s build a system of equations for each of the  points\n. For ![](https://eli.thegreenplace.net/images/math/efbda784ad565c1c5201fdc948a570d0426bc6e6.png):\n\nBy definition of the Lagrange basis functions, all \nwhere  are 0, while  is 1. So this\nsimplifies to:\n\nBut the value at node ![](https://eli.thegreenplace.net/images/math/efbda784ad565c1c5201fdc948a570d0426bc6e6.png) is ![](https://eli.thegreenplace.net/images/math/2bb5817d0f3bf8490a8c7b1343f84f9635e683a3.png), so we’ve just found\nthat . We can produce similar equations for the other\nnodes as well, , etc. In matrix form:\n\nWe get the identity matrix; this is another way to trivially show that\n,  and so on.\n\n## Appendix: Vandermonde matrix\n\nGiven some numbers  a matrix of this form:\n\nIs called the *Vandermonde* matrix. What’s special about a Vandermonde\nmatrix is that we know it’s invertible when ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) are distinct.\nThis is [because its determinant is known to be\nnon-zero](https://mathworld.wolfram.com/InvertibleMatrixTheorem.html).\nMoreover, its determinant is [[3]](#footnote-3):\n\nHere’s why.\n\nTo get some intuition, let’s consider some small-rank Vandermonde\nmatrices. Starting with a 2-by-2:\n\nLet’s try 3-by-3 now:\n\nWe can use the standard way of calculating determinants to expand from\nthe first row:\n\nUsing some algebraic manipulation, it’s easy to show this is equivalent\nto:\n\nFor the full proof, let’s look at the generalized\n-by- matrix again:\n\nRecall that subtracting a multiple of one column from another doesn’t\nchange a matrix’s determinant. For each column , we’ll\nsubtract the value of column  multiplied by ![](https://eli.thegreenplace.net/images/math/efbda784ad565c1c5201fdc948a570d0426bc6e6.png) from\nit (this is done on all columns simultaneously). The idea is to make the\nfirst row all zeros after the very first element:\n\nNow we factor out  from the second row (after the first\nelement),  from the third row and so on, to get:\n\nImagine we erase the first row and first column of ![](https://eli.thegreenplace.net/images/math/c9ee5681d3c59f7541c27a38b67edf46259e187b.png). We’ll call\nthe resulting matrix ![](https://eli.thegreenplace.net/images/math/e2415cb7f63df0c9de23362326ad3c37a9adfc96.png).\n\nBecause the first row of ![](https://eli.thegreenplace.net/images/math/c9ee5681d3c59f7541c27a38b67edf46259e187b.png) is all zeros except the first\nelement, we have:\n\nNote that the first row of ![](https://eli.thegreenplace.net/images/math/e2415cb7f63df0c9de23362326ad3c37a9adfc96.png) has a common factor of\n, so when calculating , we can move this\ncommon factor out. Same for the common factor  of the\nsecond row, and so on. Overall, we can write:\n\nBut the smaller matrix is just the Vandermonde matrix for\n. If we continue this process by induction,\nwe’ll get:\n\nIf you’re interested, the [Wikipedia page for the Vandermonde matrix](https://en.wikipedia.org/wiki/Vandermonde_matrix) has a couple of additional\nproofs.\n\n[[1]](#footnote-reference-1)The ![](https://eli.thegreenplace.net/images/math/11f6ad8ec52a2984abaafd7c3b516503785c2072.png)-es here are called *nodes* and the ![](https://eli.thegreenplace.net/images/math/95cb0bfd2977c761298d9624e4b4d4c72a39974a.png)-s are\ncalled *values*.\n\n[[2]](#footnote-reference-2)[Newton\npolynomials](https://eli.thegreenplace.net/2024/method-of-differences-and-newton-polynomials/)\nis also an option, and there are many other approaches.\n\n[[3]](#footnote-reference-3)Note that this means the product of all differences between\n and ![](https://eli.thegreenplace.net/images/math/34e03e6559b14df9fe5a97bbd2ed10109dfebbd3.png) where ![](https://eli.thegreenplace.net/images/math/042dc4512fa3d391c5170cf3aa61e6a638f84342.png) is strictly smaller than\n. That is, for , the full product is\n. For an arbitrary ![](https://eli.thegreenplace.net/images/math/d1854cae891ec7b29161ccaf79a24b00c274bdaa.png),\nthere are  factors in total.",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/",
+        "source": "Eli Bendersky's website",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-01T02:58:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Praatjes",
+        "summary": "<think>The user wants me to summarize an article titled \"Praatjes\" which appears to be a Dutch-language page listing presentations/talks given by someone (presumably Berthub). The content is a schedule of talks from 2024-2026, primarily focused on digital autonomy, sovereignty, and cloud dependency.\n\nLet me analyze the key points:\n1. The page lists publicly announced talks\n2. The main topic is digital autonomy, sovereignty, or cloud dependency\n3. It covers talks from 2024, 2025, and 2026\n4. The talks are given to various Dutch government agencies, organizations, and institutions\n5. There's a mix of public and some private talks mentioned\n\nKey themes I can identify:\n- Digital autonomy/sovereignty is a major theme\n- Government and public sector organizations are the primary audience\n- Various Dutch institutions: AFM (financial markets authority), Kiesraad (electoral council), CBS (statistics), police, ministries, etc.\n- Technical and policy aspects covered\n- International aspects mentioned\n\nI need to write a concise 100-200 word summary in English (since the request is in English). Let me focus on the main takeaways about what this person does and the significance of these talks.\n\nThe summary should:\n- Be 100-200 words\n- Focus on key points and main takeaways\n- Be concise and informative\n- Cover the essential nature of this content\n\nLet me write this summary.\n</think>\n\n## Summary\n\nThis page catalogs a series of public presentations given by Berthub from August 2024 through January 2026, with the majority scheduled for 2025. The talks primarily address digital autonomy, sovereignty, and cloud dependency—critical issues for Dutch government institutions and organizations seeking to reduce technological dependence on foreign vendors.\n\nThe presentations span diverse audiences within the Dutch public sector, including government ministries (Justice & Security, Interior Affairs), regulatory bodies (AFM, Personal Data Authority), law enforcement (Police High Tech Crime Team), judicial institutions (Council for the Judiciary), and infrastructure providers (Alliander, Schiphol). The schedule extends into 2026 with sessions at BZK (Public Administration) and the Tweede Kamer (Dutch Parliament).\n\nThe breadth of organizations involved reflects growing concern across European governments about digital infrastructure independence. Many talks include links to associated articles or presentations, suggesting this represents an ongoing effort to educate policymakers and technical leaders about strategic technology choices and their implications for national sovereignty.",
+        "content": "Publieke of in ieder geval breed aangekondigde praatjes. Tenzij anders\nvermeld was het onderwerp minstens deels digitale autonomie, soevereiniteit,\nof cloudafhankelijkheid.\n\nDe lijst is nog niet compleet. Eerdere jaren zijn [op mijn oude\npraatjespagina](https://berthub.eu/presentations.html) te vinden. Ook zijn\ner praatjes die niet publiekelijk aangekondigd zijn.\n\n## 2024\n\n- 27 augstus, AFM (AI)\n\n- 25 november, Kiesraad\n\n- 18 december, CBS\n\n## 2025\n\n- 29 januari, AMSEC/ABN Amro\n\n- 11 feb, Incose\n\n- 17 feb, Autoriteit Persoonsgevens, personeelspraatje\n\n- 27 februari, Cyssec, Schiphol\n\n- 13 maart, Alliander\n\n- 21 maart, Webdev conferentie/php, [Microstacks or megadependencies over at Webdevcon 2025](https://berthub.eu/articles/posts/microstacks-or-megadependencies-webdev/)\n\n- 25 maart, Raad voor de Rechtspraak\n\n- 3 april, GROSC (meldkamers)\n\n- 9 april, Belastingdienst expertdag\n\n- 22 april, Universiteit Utrecht, Descartes College\n\n- 24 april, Tweede Kamer (datamaand), [Data, experts en politiek: een ongemakkelijke combinatie](https://berthub.eu/articles/posts/data-experts-politiek-tweede-kamer/)\n\n- 8 mei, landmeetkundig genootschap\n\n- 15 mei, Waag, staat van het internet\n\n- 5 juni, dcypher/NCC-NL “Cyber Innovation Day”\n\n- 13 juni, Publicspaces\n\n- 17 juni ECFR (denktank)\n\n- 27 juni Joy of Code (energiezuinig coden)\n\n- 3 juli, Auditdienst Rijk\n\n- 7 juli, internationale overheden en diensten\n\n- 9 augustus, WHY 2025, [DNA/moleculaire biologie Intro](https://berthub.eu/articles/posts/dna-talks-and-why2025/)\n\n- 10 augustus, WHY 2025, [Reverse Engineering Life: A teardown of the DNA source code of a whole bacterium](https://berthub.eu/articles/posts/dna-talks-and-why2025/)\n\n- 11 augustus, WHY 2025, [DNA Afterparty](https://berthub.eu/articles/posts/dna-talks-and-why2025/)\n\n- 29 augustus, Politie, Team High Tech Crime (2x)\n\n- 1 september, Ministerie J&V\n\n- 4 september, een investeringsmaatschappij\n\n- 10 september, cybersec Jaarbeurs Utrecht\n\n- 16 september, Vereniging van Registars\n\n- 23 september, IT bedrijf True Fullstaq\n\n- 24 september, NFI/JusticeLink, [Data en de Democratische Rechtsorde](https://berthub.eu/articles/posts/data-democratische-rechtsorde/)\n\n- 25 september, congres digitale toezichthouders (overheid)\n\n- 2 oktober, VNG/DCC\n\n- 9 oktober, SSC-ICT (IT club van 9 ministeries)\n\n- 27 oktober, DNB\n\n- 30 oktober, Logius\n\n- 6 november, Alliander (2)\n\n- 7 november, Ministerie J&V\n\n- 10 november, KNB (notarissen)\n\n- 20 november, VvTP TU Delft (technologische afhankelijkheid), [TU Delft lecture: Security of Science](https://berthub.eu/articles/posts/tu-delft-security-of-science/)\n\n- 25 november, TU Delft (Bestuurskunde)\n\n- 28 november, Vlaamse toezichtcommissie (soort AP)\n\n- 1 december, Algemene Rekenkamer\n\n- 4 december, NFI (over DNA)\n\n## 2026\n\n- 14 januari, een stuk overheid\n\n- 15 januari, Rijks ISAC\n\n- 22 januari, BZK, Open Data (zijdelings over digitale autonomie)\n\n- 26 januari, Tweede Kamer “het kan wel” sessie\n\n- 27 januari, Tweede Kamer [rondetafelgesprek Solvinity/DigiD](https://berthub.eu/articles/posts/overheid-operationele-afhankelijkheden/)\n\n- 28 januari, Waterschappen “West”\n\n- 30 januari, Open Universiteit, masterclass\n\n- 3 februari, TenneT\n\n- 5 februari, Signetbreedband/Strijp\n\n- 8 februari, VPRO Bureau Buitenland (TV)\n\n- 13 februari, een stuk overheid\n\n- 24 februari, Veiligheid- en Gezondheidsregio Gelderland Midden\n\n- 4 maart, BNR Big 5 (radio)\n\n- 4 maart, praatje bij Grote IT Tent\n\n- 11 maart, Kivi\n\n- 11 maart, praatje bij IT Tent\n\n- 20 maart, 8RA / europese cloud\n\n- 23 maart, LUMC/Hogeschool Leiden\n\n- 26 maart, ABD, digitale macht en soevereiniteit\n\n- 31 maart, Connect2Trust (Radio Kootwijk)\n\n- 11 september, Open Universiteit, masterclass\n\n- 25 augustus, ABD, digitale macht en soevereiniteit",
+        "url": "https://berthub.eu/articles/praatjes/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Sun, 01 Mar 2026 12:22:53 +0200",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting claude.com/import-memory - <think>The user wants me to summarize an article titled \"Quoting claude.com/import-memory\"...",
+    "The Talk Show: ‘Bad Dates’ - <think>The user wants me to summarize an article titled \"The Talk Show: 'Bad Dates'\" in 10...",
+    "&ldquo;How old are you?&rdquo; Asked the OS  - <think>The user wants me to summarize an article titled \"How old are you?\" Asked the OS in...",
+    "The two kinds of error - <think>The user wants me to summarize an article titled \"The two kinds of error\" in 100-20...",
+    "Sentry - <think>The user wants me to summarize an article about Sentry's content for an iOS app dev..."
+  ],
+  "wordcloud": [
+    {
+      "word": "errors",
+      "count": 21
+    },
+    {
+      "word": "key",
+      "count": 19
+    },
+    {
+      "word": "summary",
+      "count": 19
+    },
+    {
+      "word": "think",
+      "count": 18
+    },
+    {
+      "word": "article",
+      "count": 18
+    },
+    {
+      "word": "points",
+      "count": 16
+    },
+    {
+      "word": "words",
+      "count": 15
+    },
+    {
+      "word": "user",
+      "count": 15
+    },
+    {
+      "word": "let",
+      "count": 14
+    },
+    {
+      "word": "data",
+      "count": 13
+    },
+    {
+      "word": "issues",
+      "count": 13
+    },
+    {
+      "word": "users",
+      "count": 12
+    },
+    {
+      "word": "summarize",
+      "count": 11
+    },
+    {
+      "word": "downstream",
+      "count": 11
+    },
+    {
+      "word": "claude",
+      "count": 10
+    },
+    {
+      "word": "main",
+      "count": 10
+    },
+    {
+      "word": "concise",
+      "count": 10
+    },
+    {
+      "word": "content",
+      "count": 9
+    },
+    {
+      "word": "write",
+      "count": 9
+    },
+    {
+      "word": "law",
+      "count": 9
+    },
+    {
+      "word": "error",
+      "count": 9
+    },
+    {
+      "word": "unexpected",
+      "count": 9
+    },
+    {
+      "word": "talks",
+      "count": 9
+    },
+    {
+      "word": "wants",
+      "count": 8
+    },
+    {
+      "word": "informative",
+      "count": 8
+    },
+    {
+      "word": "apple",
+      "count": 8
+    },
+    {
+      "word": "developers",
+      "count": 8
+    },
+    {
+      "word": "testing",
+      "count": 8
+    },
+    {
+      "word": "takeaways",
+      "count": 7
+    },
+    {
+      "word": "like",
+      "count": 7
+    },
+    {
+      "word": "expected",
+      "count": 7
+    },
+    {
+      "word": "software",
+      "count": 7
+    },
+    {
+      "word": "code",
+      "count": 7
+    },
+    {
+      "word": "lagrange",
+      "count": 7
+    },
+    {
+      "word": "polynomial",
+      "count": 7
+    },
+    {
+      "word": "feature",
+      "count": 6
+    },
+    {
+      "word": "contracts",
+      "count": 6
+    },
+    {
+      "word": "topics",
+      "count": 6
+    },
+    {
+      "word": "context",
+      "count": 6
+    },
+    {
+      "word": "show",
+      "count": 6
+    },
+    {
+      "word": "episode",
+      "count": 6
+    },
+    {
+      "word": "report",
+      "count": 6
+    },
+    {
+      "word": "performance",
+      "count": 6
+    },
+    {
+      "word": "digital",
+      "count": 6
+    },
+    {
+      "word": "failures",
+      "count": 6
+    },
+    {
+      "word": "actual",
+      "count": 6
+    },
+    {
+      "word": "basis",
+      "count": 6
+    },
+    {
+      "word": "documentation",
+      "count": 5
+    },
+    {
+      "word": "types",
+      "count": 5
+    },
+    {
+      "word": "titled",
+      "count": 5
+    },
+    {
+      "word": "export",
+      "count": 5
+    },
+    {
+      "word": "covers",
+      "count": 5
+    },
+    {
+      "word": "technical",
+      "count": 5
+    },
+    {
+      "word": "talk",
+      "count": 5
+    },
+    {
+      "word": "podcast",
+      "count": 5
+    },
+    {
+      "word": "various",
+      "count": 5
+    },
+    {
+      "word": "app",
+      "count": 5
+    },
+    {
+      "word": "analyze",
+      "count": 5
+    },
+    {
+      "word": "systems",
+      "count": 5
+    },
+    {
+      "word": "english",
+      "count": 5
+    },
+    {
+      "word": "crash",
+      "count": 5
+    },
+    {
+      "word": "program",
+      "count": 5
+    },
+    {
+      "word": "workshop",
+      "count": 5
+    },
+    {
+      "word": "tests",
+      "count": 5
+    },
+    {
+      "word": "dependencies",
+      "count": 5
+    },
+    {
+      "word": "dependency",
+      "count": 5
+    },
+    {
+      "word": "autopkgtest",
+      "count": 5
+    },
+    {
+      "word": "test",
+      "count": 5
+    },
+    {
+      "word": "interpolating",
+      "count": 5
+    },
+    {
+      "word": "interpolation",
+      "count": 5
+    },
+    {
+      "word": "given",
+      "count": 5
+    },
+    {
+      "word": "functions",
+      "count": 5
+    },
+    {
+      "word": "sovereignty",
+      "count": 5
+    },
+    {
+      "word": "dutch",
+      "count": 5
+    },
+    {
+      "word": "public",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "ideas",
+      "count": 4
+    },
+    {
+      "word": "memories",
+      "count": 4
+    },
+    {
+      "word": "including",
+      "count": 4
+    },
+    {
+      "word": "personal",
+      "count": 4
+    },
+    {
+      "word": "point",
+      "count": 4
+    },
+    {
+      "word": "card",
+      "count": 4
+    },
+    {
+      "word": "sentry",
+      "count": 4
+    },
+    {
+      "word": "page",
+      "count": 4
+    },
+    {
+      "word": "icons",
+      "count": 4
+    },
+    {
+      "word": "applications",
+      "count": 4
+    },
+    {
+      "word": "requiring",
+      "count": 4
+    },
+    {
+      "word": "enforcement",
+      "count": 4
+    },
+    {
+      "word": "critical",
+      "count": 4
+    },
+    {
+      "word": "author",
+      "count": 4
+    },
+    {
+      "word": "since",
+      "count": 4
+    },
+    {
+      "word": "developer's",
+      "count": 4
+    },
+    {
+      "word": "fault",
+      "count": 4
+    },
+    {
+      "word": "bugs",
+      "count": 4
+    },
+    {
+      "word": "include",
+      "count": 4
+    },
+    {
+      "word": "exceptions",
+      "count": 4
+    },
+    {
+      "word": "library",
+      "count": 4
+    },
+    {
+      "word": "implicit",
+      "count": 4
+    },
+    {
+      "word": "version",
+      "count": 4
+    },
+    {
+      "word": "maintainer",
+      "count": 4
+    }
+  ]
+}
