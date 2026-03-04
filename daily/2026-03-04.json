@@ -1,0 +1,866 @@
+{
+  "date": "2026-03-04",
+  "stats": {
+    "total_fetched": 278,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Compatibility Notes on the New Studio Displays",
+        "summary": "Juli Clover, at MacRumors, notes that neither the new Studio Display nor the Studio Display XDR are compatible with Intel-based Macs. (I’m curious why.) Also, in a separate report, she notes that Macs with any M1 chip, o...",
+        "url": "https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Hardware"
+        ],
+        "published_at": "2026-03-04T16:10:32.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "From logistic regression to AI",
+        "summary": "It is sometimes said that neural networks are “just” logistic regression. (Remember neural networks? LLMs are neural networks, but nobody talks about neural networks anymore.) In some sense a neural network is logistic r...",
+        "url": "https://www.johndcook.com/blog/2026/03/04/from-logistic-regression-to-ai/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Wed, 04 Mar 2026 14:15:02 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An AI Odyssey, Part 2: Prompting Peril",
+        "summary": "I was working with a colleague recently on a project involving the use of the OpenAI API. I brought up the idea that, perhaps it is possible to improve the accuracy of API response by modifying the API call to increase t...",
+        "url": "https://www.johndcook.com/blog/2026/03/04/an-ai-odyssey-part-2-prompting-peril/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 04 Mar 2026 14:04:30 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Studio Display vs. Studio Display XDR",
+        "summary": "Not sure if this page was there yesterday, but the main “Displays” page at Apple’s website is a spec-by-spec comparison between the regular and XDR models. Nice. ★",
+        "url": "https://www.apple.com/displays/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-03-04T18:04:43.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How many hours do you need to work to afford a pint of beer?",
+        "summary": "I dropped into a pub in central London and ordered two pints of draught beer. Obviously the price of everything is nuts these days - and doubly so in London - so I only winced a little bit when the cost came to about twe...",
+        "url": "https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 04 Mar 2026 12:34:22 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Homebrew Computer Club in Menlo Park",
+        "summary": "The Homebrew Computer Club was a legendary early computer hobbyist group in Menlo Park, California. The book Fire in the Valley and the 1999 movie Pirates of Silicon Valley describe the group’s pivotal role in the comput...",
+        "url": "https://dfarq.homeip.net/homebrew-computer-club-in-menlo-park/?utm_source=rss&utm_medium=rss&utm_campaign=homebrew-computer-club-in-menlo-park",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 04 Mar 2026 12:00:52 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Always-on detections: eliminating the WAF “log versus block” trade-off",
+        "summary": "Cloudflare is introducing Attack Signature Detection and Full-Transaction Detection to provide continuous, high-fidelity security insights without the manual tuning of traditional WAFs. By correlating request payloads wi...",
+        "url": "https://blog.cloudflare.com/attack-signature-detection/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Wed, 04 Mar 2026 15:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Stop reacting to breaches and start preventing them with User Risk Scoring",
+        "summary": "Cloudflare One now incorporates dynamic User Risk Scores into Access policies to enable automated, adaptive security responses. This update allows teams to move beyond binary \"allow/deny\" rules by evaluating continuous b...",
+        "url": "https://blog.cloudflare.com/adaptive-access-user-risk-scoring/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Wed, 04 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Aha, I found a counterexample to the documentation that says that Query­Performance­Counter never fails",
+        "summary": "Of course, anything can happen if you break the rules. The post Aha, I found a counterexample to the documentation that says that <CODE>Query­Performance­Counter</CODE> never fails appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260304-00/?p=112110",
+        "source": "The Old New Thing",
+        "tags": [
+          "Database",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Wed, 04 Mar 2026 15:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Mind the gap: new tools for continuous enforcement from boot to login",
+        "summary": "Cloudflare’s mandatory authentication and independent MFA protect organizations by ensuring continuous enforcement, from the moment a machine boots until sensitive resources are accessed.",
+        "url": "https://blog.cloudflare.com/mandatory-authentication-mfa/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Wed, 04 Mar 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Defeating the deepfake: stopping laptop farms and insider threats",
+        "summary": "Cloudflare One is partnering with Nametag to combat laptop farms and AI-enhanced identity fraud by requiring identity verification during employee onboarding and via continuous authentication.",
+        "url": "https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Wed, 04 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Moving from license plates to badges: the Gateway Authorization Proxy",
+        "summary": "Cloudflare’s Gateway Authorization Proxy adds support for identity-aware policies for clientless devices, securing virtual desktops, and guest networks without a device client.",
+        "url": "https://blog.cloudflare.com/gateway-authorization-proxy-identity-aware-policies/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Wed, 04 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-04T22:21:37.228Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Anti-patterns: things to avoid",
+        "summary": "<think>The user wants me to summarize this article about anti-patterns in agentic engineering, specifically focusing on the topic of \"Inflicting unreviewed code on collaborators.\" The summary should be 100-200 words, concise, and focus on key points and main takeaways.\n\nLet me identify the key points:\n1. The main anti-pattern discussed is submitting unreviewed code to collaborators\n2. Don't file PRs with code you haven't reviewed yourself\n3. If you open a PR with agent-produced code without reviewing it, you're delegating work to others\n4. You need to be confident the code is ready before asking others to review\n5. Good agentic engineering PR characteristics:\n   - Code works and you're confident it works\n   - Changes are small enough to review efficiently\n   - PR includes context (goals, links to issues)\n   - Review PR descriptions yourself (not just generated text)\n6. Recommendations: include evidence of manual testing, comments on implementation, screenshots/videos\n\nNow I need to write a concise 100-200 word summary.\n</think>\n\n# Summary: Anti-patterns in Agentic Engineering\n\nThis article highlights a critical anti-pattern in agentic engineering: submitting unreviewed code to collaborators. The core message is clear—never file pull requests with code you haven't personally reviewed and validated. When you open a PR containing agent-generated code without verifying it yourself, you're essentially shifting your responsibility onto others who could have prompted the agent themselves.\n\nEffective agentic engineering pull requests share key characteristics: the code must work, and you must be confident it does; changes should be small and focused to minimize reviewer cognitive load; and the PR should include context explaining the higher-level goals and linking to relevant issues.\n\nThe author emphasizes that generated PR descriptions require your review too—it's disrespectful to expect others to read text you haven't validated. To demonstrate you've done the work, include evidence like manual testing notes, implementation comments, or even screenshots of the feature working. This shows reviewers their time won't be wasted.",
+        "content": "There are some behaviors that are anti-patterns in our weird new world of agentic engineering.\n\n## Inflicting unreviewed code on collaborators\n\nThis anti-pattern is common and deeply frustrating.\n\n**Don't file pull requests with code you haven't reviewed yourself**.\n\nIf you open a PR with hundreds (or thousands) of lines of code that an agent produced for you, and you haven't done the work to ensure that code is functional yourself, you are delegating the actual work to other people.\n\nThey could have prompted an agent themselves. What value are you even providing?\n\nIf you put code up for review you need to be confident that it's ready for other people to spend their time on it. The initial review pass is your responsibility, not something you should farm out to others.\n\nA good agentic engineering pull request has the following characteristics:\n\n- The code works, and you are confident that it works. [Your job is to deliver code that works](https://simonwillison.net/2025/Dec/18/code-proven-to-work/).\n\n- The change is small enough to be reviewed efficiently without inflicting too much additional cognitive load on the reviewer. Several small PRs beats one big one, and splitting code into separate commits is easy with a coding agent to do the Git finagling for you.\n\n- The PR includes additional context to help explain the change. What's the higher level goal that the change serves? Linking to relevant issues or specifications is useful here.\n\n- Agents write convincing looking pull request descriptions. You need to review these too! It's rude to expect someone else to read text that you haven't read and validated yourself.\n\nGiven how easy it is to dump unreviewed code on other people, I recommend including some form of evidence that you've put that extra work in yourself. Notes on how you manually tested it, comments on specific implementation choices or even screenshots and video of the feature working go a *long* way to demonstrating that a reviewer's time will not be wasted digging into the details.",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-03-04T17:34:42.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’",
+        "summary": "<think>The user wants me to summarize an article about Apple's M5 Pro and M5 Max chip announcements, specifically focusing on their decision to rename CPU cores.\n\nLet me identify the key points:\n1. Apple renamed its CPU cores in the M5 Pro and M5 Max chips\n2. \"Performance\" cores are now called \"super cores\"\n3. \"Efficiency\" cores are now called \"performance\" cores (this is the Batman/Superman metaphor)\n4. This change was applied retroactively to other M5 devices\n5. The new efficiency cores (now called performance cores) got a significant architecture update\n6. Apple was frustrated that people thought efficiency cores were weak\n7. The author thinks this naming change could be confusing\n\nI need to summarize this in 100-200 words, keeping it concise and informative, focusing on key points and main takeaways.\n\nLet me write a summary that captures the essence of the article.\n</think>\n\n**Summary:**\n\nApple has renamed its CPU cores in the new M5 Pro and M5 Max chips, creating potential confusion for consumers. Previously called \"performance\" cores, Apple's most powerful cores are now marketed as \"super cores.\" Meanwhile, the efficiency cores have been rebranded as \"performance\" cores—a change Apple applied retroactively to all M5 devices, including the standard M5 MacBook Pro, iPad Pro, and Vision Pro.\n\nThis shift stems from Apple's frustration that users undervalue efficiency cores, despite their impressive standalone performance. The company hopes the new terminology emphasizes capability over power saving.\n\nBeyond naming, the update brings meaningful hardware changes. The new efficiency cores received significant architectural improvements for better multithreaded performance, representing the most substantial upgrade in this chip generation. While the new names may cause short-term confusion, the underlying performance gains are a notable development for users seeking improved everyday computing efficiency.",
+        "content": "![Two Apple M5 chips, Pro and Max, on a black background.](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/03/M5ProMaxChips-6c.jpeg?ssl=1)\nOne of the most surprising parts of Apple’s announcement on Tuesday of [new M5 Pro and M5 Max MacBook Pro models](https://sixcolors.com/post/2026/03/apple-debuts-macbook-pros-with-m5-pro-m5-max-chips/) was its decision to change how it describes the two different types of CPU cores in its processors.\n\nWhat’s in a name? It’s really a marketing decision, more than anything else. And most people will not care, or even notice. But those of us who pay close attention to this stuff will notice, and you may be hearing about it from us for some time to come.\n\nHere’s what happened:\n\n- Apple renamed its most powerful CPU cores, which had previously been called *performance* cores. As of the M5 Pro and Max, those cores are now called “super cores.”\n\n- Surprise! Since those cores also shipped in the M5 MacBook Pro, M5 iPad Pro, and M5 Vision Pro, they have all been *retroactively* renamed as super cores. I am writing this very story on a device that sports four super cores, but I didn’t even know that until I heard the news early Tuesday morning.\n\n- The M5 Pro and M5 Max chips also feature the debut of a brand-new core design. (I assume the efficiency cores in the base M5 were probably the same cores that Apple used in the M4.) This new core design is still focused on being power efficient, but it can offer high performance in multithreaded tasks. In the past, this core was referred to as an *efficiency* core, but Apple has decided that it’s now a *performance* core. In other words, Batman has become Superman and Robin has become Batman.\n\nHere’s the backstory: With every new generation of Apple’s Mac-series processors, I’ve gotten the impression from Apple execs that they’ve been a little frustrated with the perception that their “lesser” efficiency cores were weak sauce. I’ve lost count of the number of briefings and conversations I’ve had where they’ve had to go out of their way to point out that, actually, the lesser cores on an M-series chip are quite fast on their own, in addition to being very good at saving power!\n\nClearly they’ve had enough of that, so they’re changing how those cores are marketed to emphasize their performance, rather than their efficiency. Which is fine on its face, but by re-using an existing term of art, it’s going to be a bit confusing when it comes time to explain what’s going on. I wonder if Apple should’ve come up with two different names for these cores, rather than recycling one of them.\n\nLeaving the naming aside, a new performance-nee-efficiency core design is actually great news. Apple doesn’t iterate every aspect of its chips every time, but chooses different bits to upgrade—and the power-efficient cores got the big update with the high-end M5 generation. The “super” cores really are meant to be used for peak workloads, and a huge amount of the everyday life of a Mac doesn’t need to tap that power. Also, presumably these new cores will also crop up on the base M6 chips next year, making them appreciably better than the base M5.\n\nIn the end, I suspect this is entirely a marketing issue: Apple didn’t think the lesser of the two core types was getting its due, and I understand why. In a few years maybe none of us will flinch when we read about a chip with so many super cores and so many performance cores. Not today, though.\n\nOne last, tangential observation: Apple announced its new [Fusion Architecture](https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/) today as well, which allows the company to mix and match different “chiplets” in a single package. This is another esoteric chip thing (is there any other kind?) but it has real ramifications for the future of Apple’s chip designs. It means that Apple can be a bit more modular with its designs, building a standard CPU set (for the M5 Max and Pro) while offering two different GPU variants with 20 (Pro) and 40 (Max) cores. I’m also curious what this means for a future Ultra chip, assuming there will be one whenever the M5 Mac Studio is announced.\n\n\t**If you appreciate articles like this one, support us by [becoming a Six Colors subscriber](https://sixcolors.com/subscribe/). Subscribers get access to an exclusive podcast, members-only stories, and a special community.**",
+        "url": "https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Product"
+        ],
+        "published_at": "2026-03-04T13:42:46.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Interruption-Driven Development ",
+        "summary": "<think>The user wants me to summarize an article about \"Interruption-Driven Development\" in 100-200 words. Let me analyze the key points:\n\n1. The author wears headphones not to listen to music, but to signal they're busy and deter interruptions\n2. The author doesn't mind conversations with coworkers - they mind the interruption itself when focused on a task\n3. The author describes being in the middle of debugging/building mental models and getting interrupted, losing their place\n4. Working remotely helps with Slack interruptions, but meetings are still problematic\n5. As a lead, the author gets pulled into calls that aren't always necessary\n6. The cost of interruption falls entirely on the interrupted person, not the interrupter\n7. Managers feel productive with constant meetings/status updates, but developers lose actual building time\n8. Shortening meetings doesn't solve the problem - it's the number of interruptions that matters\n9. The author compares constant interruptions to being in a hospital where rest is prescribed but impossible to get\n\nThis is a personal essay/article about the cost of interruptions in software development, particularly from the perspective of a developer/lead. The tone is reflective and somewhat frustrated.\n\nLet me write a concise 100-200 word summary focusing on the key takeaways.\n</think>\n\n**Summary: Interruption-Driven Development**\n\nThe author, a software developer, explains why wearing headphones while working isn't about listening to music—it's a social signal to deter interruptions. While open to casual conversations, the author struggles with being interrupted mid-task, especially when debugging complex code or building mental models. These interruptions cause immediate loss of focus and require rebuilding lost context.\n\nRemote work helps somewhat by allowing Slack muting, but meetings remain a significant disruption. As a lead, the author frequently gets pulled into calls that aren't always necessary, often just to provide reassurance rather than solve problems. The author highlights a key asymmetry: interruption costs fall entirely on the interrupted person, while the interrupter often feels productive.\n\nDaily standups and status meetings make managers feel engaged, but they fragment developers' days into unproductive fragments. Reducing meeting duration doesn't solve the underlying issue—three meetings a day still mean three interruptions. The author compares this experience to hospitals, where rest is prescribed but impossible to obtain due to constant disturbances.",
+        "content": "I have a hard time listening to music while working. I know a lot of people do it, but whenever I need to focus on a problem, I have to hunt down the tab playing music and pause it. And yet I still wear my headphones. Not to listen to anything, but to signal to whoever is approaching my desk that I am working. It doesn't deter everyone, but it buys me the time I need to stay focused a little longer.\n\nI don't mind having a conversation with coworkers. What I mind is the interruption itself, especially when I'm in the middle of a task. Sometimes I'm debugging an issue in a legacy application, building a mental model of the workflow, reading a comment that describes an exception, following a function declaration, right when I'm on the verge of the next clue, I hear a voice: *\"Hey! What's going on? I haven't seen you in a while. What have you been up to?\"*\n\nThe conversation is never long. But when it's over, my thoughts are gone. Where was I? Right, the function declaration. But where was it being called? What was that exception the comment described? Where did I even see that comment? I have to retrace every step just to rebuild the mental state I was in before I can move forward again.\n\nWorking remotely helps, to a point. Interruptions via Slack can be muted until I'm ready to respond. But remote work isn't immune. You're still expected to be in meetings. As a lead, I'm frequently pulled into calls because \"everything is on fire.\" Often, my presence isn't to put out the fire, it's to hold someone's hand. An hour later, I can barely remember what I was working on.\n\nThe cost of interruption falls entirely on the person being interrupted. You lose your place, your focus, and eventually your ability to finish anything on time. For the person doing the interrupting, though, it's often a positive experience. The manager who constantly pulls the team into status updates feels productive. They're in the loop, they're present, they're on top of things. They schedule daily standups, attend every scrum ceremony, and expect developers to translate their work-in-progress into business-friendly language on demand.\n\nMeanwhile, the developer is spending their day sitting in calls, reassuring, explaining, and planning, but never actually building anything. When they push back, the manager doesn't cancel the meetings. Instead, he trims them from 30 minutes to 15. It feels like progress. But the length of the meeting was never the problem. Three meetings a day means three interruptions, regardless of how short they are.\n\nBeing constantly interrupted at work reminds me of being in a hospital. Doctors prescribe rest, but hospitals are among the worst places to actually get any. Before our kids were born, my wife spent close to a month in the hospital. I had a small corner of the room, a chair and a desk, where I'd work on my laptop by her side. Every 20 minutes, the door would swing open, a nurse would bustle in and out, and the door would be left wide open behind her.\n\nIt didn't matter that the doctor had ordered rest. Her sleep was interrupted every single time.\n\nThat's what interruption-driven development looks like in practice. The work requires uninterrupted effort to actually happen. You can have the right tools, the right team, the right intentions, and still produce nothing. The work environment itself is working against you. \n\nMy headphones might keep those eager to converse at bay. But what we really need is time to get work done without the constant interruption. It should be part of the software development lifecycle.",
+        "url": "https://idiallo.com/blog/interruption-driven-development?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 04 Mar 2026 12:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Something is afoot in the land of Qwen",
+        "summary": "<think>The user wants me to summarize an article about Qwen (Alibaba's AI model team) in 100-200 words. Let me identify the key points:\n\n1. Date: March 4th, 2026\n2. Main event: Junyang Lin, the lead researcher for Qwen, announced his resignation on Twitter/X\n3. Context: He was a key figure in developing Qwen's open-weight models and one of Alibaba's youngest P10 employees\n4. Possible cause: A re-org where a new researcher from Google's Gemini team was put in charge of Qwen\n5. Aftermath: Several other key Qwen team members also resigned including Binyuan Hui, Bowen Yu, and Kaixin Li\n6. Team sentiment: Qwen members expressed that despite fewer resources than competitors, Junyang's leadership was crucial to their success\n7. Junyang's response: He posted on WeChat saying \"Brothers of Qwen, continue as originally planned, no problem\"\n\nI need to write a concise summary in 100-200 words that captures these key points. The tone should be informative and neutral, summarizing the news without adding unnecessary commentary.\n\nLet me write this summary now.\n</think>\n\n**Summary**\n\nOn March 4th, 2026, Junyang Lin, the lead researcher behind Alibaba's Qwen AI models, announced his sudden resignation via Twitter, marking a significant shakeup for the company's AI division. Lin was instrumental in developing Qwen's open-weight models since 2024 and was among Alibaba's youngest P10 employees. The departure followed an internal reorganization where a new researcher from Google's Gemini team allegedly took leadership of Qwen. Multiple sources report that several other key team members also resigned, including Binyuan Hui (lead Qwen code development), Bowen Yu (lead post-training research), and Kaixin Li (core contributor to Qwen 3.5/VL/Coder). During an emergency company meeting, Alibaba's CEO addressed the situation, though Lin's future plans remained unclear. Despite the upheaval, Lin encouraged his former colleagues by posting, \"Brothers of Qwen, continue as originally planned, no problem.\"",
+        "content": "4th March 2026\n\nI’m behind on writing about Qwen 3.5, a truly remarkable family of open weight models released by Alibaba’s Qwen team over the past few weeks. I’m hoping that the 3.5 family doesn’t turn out to be Qwen’s swan song, seeing as that team has had some very high profile departures in the past 24 hours.\n\nIt all started with [this tweet](https://twitter.com/JustinLin610/status/2028865835373359513) from Junyang Lin ([@JustinLin610](https://twitter.com/JustinLin610)):\n\n> me stepping down. bye my beloved qwen.\n\nJunyang Lin was the lead researcher building Qwen, and was key to releasing their open weight models from 2024 onwards.\n\nAs far as I can tell a trigger for this resignation was a re-org within Alibaba where a new researcher hired from Google’s Gemini team was put in charge of Qwen, but I’ve not confirmed that detail.\n\nMore information is available in [this article from 36kr.com](https://www.36kr.com/p/3708425301749891). Here’s [Wikipedia on 36Kr](https://en.wikipedia.org/wiki/36Kr) confirming that it’s a credible media source established in 2010 with a good track record reporting on the Chinese technology industry.\n\nThe article is in Chinese—here are some quotes translated via Google Translate:\n\n> At approximately 1:00 PM Beijing time on March 4th, Tongyi Lab held an emergency All Hands meeting, where Alibaba Group CEO Wu Yongming frankly told Qianwen employees.\n\n> Twelve hours ago (at 0:11 AM Beijing time on March 4th), Lin Junyang, the technical lead for Alibaba’s Qwen Big Data Model, suddenly announced his resignation on X. Lin Junyang was a key figure in promoting Alibaba’s open-source AI models and one of Alibaba’s youngest P10 employees. Amidst the industry uproar, many members of Qwen were also unable to accept the sudden departure of their team’s key figure.\n\n> “Given far fewer resources than competitors, Junyang’s leadership is one of the core factors in achieving today’s results,” multiple Qianwen members told 36Kr. [...]\n\n> Regarding Lin Junyang’s whereabouts, no new conclusions were reached at the meeting. However, around 2 PM, Lin Junyang posted again on his WeChat Moments, stating, “Brothers of Qwen, continue as originally planned, no problem,” without explicitly confirming whether he would return. [...]\n\nThat piece also lists several other key members who have apparently resigned:\n\n> With Lin Junyang’s departure, several other Qwen members also announced their departure, including core leaders responsible for various sub-areas of Qwen models, such as:\n\n> Binyuan Hui: Lead Qwen code development, principal of the Qwen-Coder series models, responsible for the entire agent training process from pre-training to post-training, and recently involved in robotics research.\n\n> Bowen Yu: Lead Qwen post-training research, graduated from the University of Chinese Academy of Sciences, leading the development of the Qwen-Instruct series models.\n\n> Kaixin Li: Core contributor to Qwen 3.5/VL/Coder, PhD from the National University of Singapore.\n\n> Besides the aforementioned individuals, many young researchers also resigned on the same day.\n\nBased on the above it looks to me like everything is still very much up in the air. The presence of Alibaba’s CEO at the “emergency All Hands meeting” suggests that the company understands the significance of these resignations and may yet retain some of the departing talent.\n\n#### Qwen 3.5 is exceptional\n\nThis story hits particularly hard right now because the Qwen 3.5 models appear to be *exceptionally* good.\n\nI’ve not spent enough time with them yet but the scale of the new model family is impressive. They started with [Qwen3.5-397B-A17B on February 17th](https://simonwillison.net/2026/Feb/17/qwen35/)—an 807GB model—and then followed with [a flurry of smaller siblings](https://huggingface.co/collections/Qwen/qwen35) in 122B, 35B, 27B, 9B, 4B, 2B, 0.8B sizes.\n\nI’m hearing positive noises about the 27B and 35B models for coding tasks that still fit on a 32GB/64GB Mac, and I’ve tried the 9B, 4B and 2B models and found them to be notably effective considering their tiny sizes. That 2B model is just 4.57GB—or as small as 1.27GB quantized—and is a full reasoning and multi-modal (vision) model.\n\nIt would be a real tragedy if the Qwen team were to disband now, given their proven track record in continuing to find new ways to get high quality results out of smaller and smaller models.\n\nIf those core Qwen team members either start something new or join another research lab I’m excited to see what they do next.",
+        "url": "https://simonwillison.net/2026/Mar/4/qwen/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-03-04T15:50:03.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Thoughts and Observations on the MacBook Neo",
+        "summary": "<think>The user wants me to summarize an article about the MacBook Neo in 100-200 words. Let me identify the key points:\n\n1. The MacBook Neo is priced at $599, which is significant as Apple rarely ventures below $999\n2. For $100 more, you get Touch ID and double storage (512GB)\n3. Education pricing brings it down to $499, half the price of a base M5 MacBook Air\n4. Apple has previously only dabbled in the sub-$1,000 market through retailers selling older M1 MacBook Airs\n5. The article emphasizes that Apple finally figured out how to make a non-junk laptop at this price point\n6. A comparison was shown against a similarly priced HP laptop, which was described as inferior in screen, speakers, keyboard, and trackpad\n7. John Ternus noted that nearly half of Mac buyers are new, and price has been a barrier\n8. Steve Jobs' quote about not shipping junk is referenced - Apple now believes they can make a quality budget laptop\n\nI need to write a concise 100-200 word summary that captures these key points. Let me craft this carefully.\n</think>\n\n**Summary:**\n\nApple has introduced the MacBook Neo at $599, marking the company's first serious entry into the sub-$1,000 laptop market sold through its own stores. Previously, Apple only dabbled in this segment by offering older M1 MacBook Airs through retailers like Walmart. The Neo offers compelling value: for $699, buyers get Touch ID and 512GB storage. With education pricing at $499, it's half the cost of a base M5 MacBook Air.\n\nDuring the launch event, John Ternus highlighted that nearly half of Mac buyers are new to the platform, with price being the primary barrier. The article references Steve Jobs' famous \"we don't ship junk\" quote, suggesting Apple finally found a way to build quality budget laptops. A comparison with a similarly priced HP laptop showcased the Neo's superiority in screen quality, speakers, keyboard, and trackpad, indicating Apple intends to compete seriously in the budget market.",
+        "content": "*$599. Not a piece of junk.*\n\nThat’s *not* a marketing slogan from Apple for [the new MacBook Neo](https://www.apple.com/macbook-neo/). But it could be. And it *is* the underlying message of the product. For a few years now, Apple has [quietly dabbled with the sub-$1,000 laptop market](https://daringfireball.net/search/walmart+macbook+air+m1), by selling the base configuration of the M1 MacBook Air — a machine that [debuted](https://www.apple.com/newsroom/2020/11/introducing-the-next-generation-of-mac/) in November 2020 — at retailers like Walmart for under $700. But *dabbling* is the right word. Apple has never ventured under the magic $999 price point for a MacBook available in its own stores.\n\nAs of today, they’re not just in the sub-$1,000 laptop market, they’re going in hard. The MacBook Neo is a very compelling $600 laptop, and for just $100 more, you get a configuration with Touch ID and double the storage (512 GB instead of 256).\n\nYou can argue that all MacBooks should have Touch ID. My first answer to that is “$599”. My second answer is “education”. Touch ID doesn’t really make sense for laptops shared by kids in a school. And with Apple’s $100 education pricing discount, the base MacBook Neo, at $499, is *half the price* of the  base M5 MacBook Air ($1099 retail, $999 education). Half the price.\n\nI’m writing this from Apple’s hands-on “experience” in New York, amongst what I’d estimate as a few hundred members of the media. It’s a pretty big event, and a very big space inside some sort of empty warehouse on the western edge of Chelsea. Before playing the four-minute Neo introduction video (which you should watch — [it’s embedded in Apple’s Newsroom post](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/?videoid=45c8e3bf69354631f6ee78a782356dbf)), John Ternus took the stage to address the audience. He emphasized that the Mac user base continues to grow, because “nearly half of Mac buyers are new to the platform”. Ternus didn’t say the following aloud, but Apple clearly knows what has kept a *lot* of would-be switchers from switching, and it’s the price. The Mac Mini is great, but normal people only buy laptops, and aside from the aforementioned dabbling with the five-year-old M1 MacBook Air, Apple just hasn’t ventured under $999. “[We don’t ship junk](https://www.youtube.com/watch?v=U37Ds3RvyoM),” Steve Jobs said back in 2007. It’s not that Apple never noticed the demand for laptops in the $500–700 range. It’s that they didn’t see how to make one that wasn’t junk.\n\nNow they have. And the PC world should take note. One of my briefings today included a side-by-side comparison between a MacBook Neo and an HP 14-inch laptop “in the same price category”. It was something like [this one](https://www.hp.com/us-en/shop/pdp/hp-omnibook-5-flip-14-fp0057nr), with an Intel Core 5 chip, which costs $550. The HP’s screen sucks (very dim, way lower resolution), the speakers suck, the keyboard sucks, and the trackpad sucks. It’s a thick, heavy, plasticky piece of junk. I didn’t put my nose to it, but I wouldn’t be surprised if it smells bad.\n\nThe MacBook Neo looks and feels every bit like a MacBook. Solid aluminum. Good keyboard (no backlighting, but supposedly the same mechanism as in other post-2019 MacBooks — felt great in my quick testing). Good trackpad (no [Force Touch](https://support.apple.com/en-us/102309) — it actually physically clicks, but you can click anywhere, not just the bottom). Good bright display (500 nits max, same as the MacBook Air). Surprisingly good speakers, in a new side-firing configuration. Without even turning either laptop on, you can just see and feel that the MacBook Neo is a vastly superior device.\n\nAnd when you do turn them on, you see the vast difference in display quality and hear the vast difference in speaker quality. And you get MacOS, not Windows, which, even with Tahoe, remains the quintessential glass of ice water in hell for the computer industry.\n\nI came into today’s event experience expecting a starting price of $799 for the Neo — $300 less than the new $1,099 price for the base M5 MacBook Air (which, in defense of that price, starts with 512 GB storage). $599 is a fucking statement. Apple is coming after this market. I think they’re going to sell a zillion of these things, and “almost half” of new Mac buyers being new to the platform is going to become “more than half”. The MacBook Neo is not a footnote or hobby, or a pricing stunt to get people in the door before upselling them to a MacBook Air. It’s the first major new Mac aimed at the consumer market in the Apple Silicon era. It’s meant to make a dent — perhaps a minuscule [dent in the universe](https://www.businessinsider.com/steve-jobs-famous-quote-misunderstood-laurene-powell-2020-2), but a big dent in the Mac’s share of the overall PC market.\n\n## Miscellaneous Observations\n\nIt’s worth noting that the Neo is aptly named. It really is altogether new. In that way it’s the opposite of the five-year-old M1 MacBook Air that Apple had been selling through retailers like Walmart and Amazon. Rather than selling something old for a lower price, they’ve designed and engineered something new from the ground up to launch at a lower price. It’s an all-new trackpad. It’s a good but different display than the Air’s — slightly smaller (13.0 inches vs. 13.6) and supporting only the sRGB color gamut, not P3. *If you know the difference between sRGB and P3, the Neo is not the MacBook you want.* What Neo buyers are going to notice is that the display looks good and is just as bright as the Air’s — and it looks way better, way sharper, and way brighter than the criminally ugly displays on PC laptops in this price range.\n\nEven the Apple logo on the back of the display lid is different. Rather than make it polished and shiny, [it’s simply embossed](https://daringfireball.net/misc/2026/03/macbook-neo-apple-logo.jpeg). Save a few bucks here, a few bucks there, and you eventually grind your way to a new MacBook that deserves the name “MacBook” but starts at just $600.\n\nBut of course there are trade-offs. You can use Apple’s Compare page [to see the differences between the Neo and Air](https://www.apple.com/macbook-neo/compare/?modelList=MacBook-Neo-A18-Pro,MacBook-Air-M5,MacBook-Air-M1) (and, for kicks, the 2020 M1 Air that until now was still being sold at Walmart). Even better, over at 512 Pixels Stephen Hackett has [assembled a concise list of the differences between the MacBook Neo and MacBook Air](https://512pixels.net/2026/03/the-differences-between-the-macbook-neo-and-macbook-air/). All of these things matter, but none of these things are dealbreakers for a $500-700 MacBook. These trade-offs are extremely well-considered on Apple’s part.\n\nI’ll call out one item from Hackett’s 17-item list in particular:\n\n> One of the two USB-C ports [is limited](https://www.macrumors.com/2026/03/04/macbook-neo-features-two-different-usb-ports/) to USB 2.0 speeds of just\n> 480 Mb/s.\n\nOn the one hand, this stinks. It just does. The two ports look exactly the same — and neither is labeled in any way — but they’re different. But on the other hand, the Neo is the first product with an A-series chip that Apple has ever made that supports two USB ports.[1](#fn1-2026-03-04) It was, I am reliably informed by Apple product marketing folks, a significant engineering achievement to get a second USB port *at all* on the MacBook Neo while basing it on the A18 Pro SoC. And while the ports aren’t labeled, if you plug an external display into the “wrong” port, you’ll get an on-screen notification suggesting you plug it into the other port. That this second USB-C port is USB 2.0 is not great, but it is fine.\n\nOther notes:\n\n- I think the “fun-ness” of the Neo colors was overstated [in the rumor mill](https://www.bloomberg.com/news/newsletters/2026-02-15/tesla-carplay-delays-related-to-ios-26-and-fsd-apple-s-new-siri-delays-ios-27). But the “blush” color is definitely pink, “citrus” is definitely yellow, and “indigo” is definitely blue. No confusing any of them with shades of gray.\n\n- The keyboards are color-matched. At a glance it’s easy to think the keyboards are all white, but only on the silver Neo are the key caps actually white. The others are all slightly tinted to match the color of the case. Nice!\n\n- 8 GB of RAM is not a lot, but with Apple Silicon it really is enough for typical consumer productivity apps. (If they update the Neo annually and next year’s model gets the A19 Pro, it will move not to 16 GB of RAM but 12 GB.)\n\n- It’s an interesting coincidence that the base models for the Neo and iPhone 17e both cost $600. For $1,200 you can buy a new iPhone and a new MacBook for just $100 more than the price of the base model M5 MacBook Air. (And the iPhone 17e is the one with the faster CPU.)\n\n- With the Neo only offered in two configurations — $600 or $700 — and the M5 Air now starting at $1,100, Apple has no MacBooks in the range between $700 and $1,100.\n\n- To consider the spread of Apple’s market segmentation, and how the Neo expands it, think about the fact that on the premium side, [the 13-inch iPad Pro Magic Keyboard costs $350](https://www.apple.com/shop/product/mwr53ll/a/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m5-us-english-black). That’s a keyboard with a trackpad and a hinge. You can now buy a whole damn 13-inch MacBook Neo — which includes a keyboard, trackpad, and hinge, along with a display and speakers and a whole Macintosh computer — for just $250 more.",
+        "url": "https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Product"
+        ],
+        "published_at": "2026-03-04T20:40:11.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Maybe there’s a pattern here?",
+        "summary": "<think>The user wants me to summarize an article titled \"Maybe there's a pattern here?\" in 100-200 words. Let me analyze the key points:\n\n1. The article starts with a quote from Richard Gatling (1861) about inventing a machine gun that would reduce the need for large armies and thus reduce casualties.\n\n2. The main body of the article discusses Hermann Oberth's 1923 publication on space travel, which inspired the formation of the Verein für Raumschiffahrt (VfR) in 1927 - a German society dedicated to space travel.\n\n3. The VfR grew to several hundred members, conducted real rocket experiments, and developed increasingly powerful rockets (Mirak, Repulsor).\n\n4. However, they faced financial difficulties during the Great Depression and in 1932 approached the army for support. After a failed demonstration, the army offered contracts but the VfR rejected them.\n\n5. The army hired away talented members including 19-year-old Wernher von Braun.\n\n6. In 1933, after Hitler rose to power, the army offered to absorb the VfR with full military control and focus on weapons. The VfR leader refused, the organization declined, and was shut down by the Gestapo in 1934.\n\n7. Many members joined von Braun working for the military.\n\nThe title \"Maybe there's a pattern here?\" and the opening Gatling quote suggest this is about how civilian scientific/technological endeavors get co-opted by military interests - a pattern where peaceful innovation gets redirected toward warfare.\n\nI need to write a concise 100-200 word summary focusing on key points and main takeaways.\n</think>\n\n# Summary: Maybe There's a Pattern Here?\n\nThis article examines how civilian scientific endeavors often become co-opted by military interests, illustrated through the history of Germany's early rocketry movement. It opens with Richard Gatling's 1861 vision of a machine gun that would reduce battlefield casualties by eliminating the need for large armies—ironically, a weapon that would instead revolutionize warfare.\n\nThe core narrative traces Hermann Oberth's 1923 work on space travel, which inspired the Verein für Raumschiffahrt (VfR), a civilian society founded in 1927. Despite limited resources, VfR members built increasingly powerful rockets through the early 1930s. However, financial pressures during the Great Depression led them to seek military support. After rejecting an army contract, several key members, including young Wernher von Braun, were hired away.\n\nFollowing Hitler's 1933 rise, the military offered to absorb the VfR entirely under classified weapons development. When their leader refused, the organization collapsed and was disbanded by the Gestapo in 1934. The pattern emerges clearly: civilian innovation, when valuable enough, gets redirected toward military purposes—regardless of original intentions.",
+        "content": "![](https://dynomight.net/img/pattern/havre.jpg)\n    \n\n    \n\n  \n    \n\n    \n## 1.\n\n> It occurred to me that if I could invent a machine—a gun—which could by its rapidity of fire, enable one man to do as much battle duty as a hundred, that it would, to a large extent supersede the necessity of large armies, and consequently, exposure to battle and disease [would] be greatly diminished.\n\nRichard Gatling (1861)\n\n## 2.\n\nIn 1923, Hermann Oberth published *The Rocket to Planetary Spaces*, later expanded as [*Ways to Space Travel*](https://en.wikipedia.org/wiki/Wege_zur_Raumschiffahrt). This showed that it was possible to build machines that could leave Earth’s atmosphere and reach orbit. He described the general principles of multiple-stage liquid-fueled rockets, solar sails, and even ion drives. He proposed sending humans into space, building space stations and satellites, and travelling to other planets.\n\nThe idea of space travel became popular in Germany. Swept up by these ideas, in 1927, Johannes Winkler, Max Valier, and Willy Ley formed the [*Verein für Raumschiffahrt*](https://en.wikipedia.org/wiki/Verein_f%C3%BCr_Raumschiffahrt) (VfR) (Society for Space Travel) in Breslau (now Wrocław, Poland). This group rapidly grew to several hundred members. Several participated as advisors of Fritz Lang’s *The Woman in the Moon*, and the VfR even began publishing their own journal.\n\n![](https://dynomight.net/img/pattern/rakete.jpg)\n\nIn 1930, the VfR was granted permission to use an abandoned ammunition dump outside Berlin as a test site and began experimenting with real rockets. Over the next few years, they developed a series of increasingly powerful rockets, first the [Mirak](https://www.weebau.com/history/mirak.htm) line (which flew to a height of 18.3 m), then the [Repulsor](https://weebau.com/history/repulsor.htm) (>1 km). These people dreamed of space travel, and were building rockets themselves, funded by membership dues and a few donations. You can just do things.\n\nHowever, with the great depression and loss of public interest in rocketry, the VfR faced declining membership and financial problems. In 1932, they approached the army and arranged a demonstration launch. Though it failed, the army nevertheless offered a contract. After a tumultuous internal debate, the VfR rejected the contract. Nevertheless, the army hired away several of the most talented members, starting with a 19-year-old named Wernher von Braun.\n\nFollowing Hitler’s rise to power in January 1933, the army made an offer to absorb the entire VfR operation. They would work at modern facilities with ample funding, but under full military control, with all work classified and an explicit focus on weapons rather than space travel. The VfR’s leader, Rudolf Nebel, refused the offer, and the VfR continued to decline. Launches ceased. In 1934, the Gestapo finally shut the VfR down, and civilian research on rockets was restricted. Many VfR members followed von Braun to work for the military.\n\nOf the founding members, Max Valier was killed in an accident in May 1930. Johannes Winkler joined the SS and spent the war working on liquid-fuel engines for military aircraft. Willy Ley was horrified by the Nazi regime and in 1935 forged some documents and fled to the United States, where he was a popular science author, seemingly the only surviving thread of the spirit of Oberth’s 1923 book. By 1944, V-2 rockets were falling on London and Antwerp.\n\n## 3.\n\nNorth Americans think the Wright Brothers invented the airplane. Much of the world believes that credit belongs to Alberto Santos-Dumont, a Brazilian inventor working in Paris.\n\n![](https://dynomight.net/img/pattern/aviation.png)\n\nThough Santos-Dumont is often presented as an idealistic pacifist, this is hagiography. In his [1904 book on airships](https://www.gutenberg.org/ebooks/42344), he suggests warfare as the primary practical use, discussing applications in reconnaissance, destroying submarines, attacking ships, troop supply, and siege operations. As World War I began, he enlisted in the French army (as a chauffeur), but seeing planes used for increasing violence disturbed him. His health declined and he returned to Brazil.\n\nHis views on military uses of planes seemed to shift. Though planes contributed to the carnage in WWI, he hoped that they might advance peace by keeping European violence from reaching the American continents. Speaking at a conference in the US in late 1915 or early 1916, he [suggested](https://doi.org/10.1017/S1537781419000422):\n\n> Here in the new world we should all be friends. We should be able, in case of trouble, to intimidate any European power contemplating war against any one of us, not by guns, of which we have so few, but by the strength of our union. […] Only a fleet of great aeroplanes, flying 200 kilometers an hour, could patrol these long coasts.\n\nFollowing the war, he appealed to the League of Nations to ban the use of planes as weapons and even offered a prize of 10,000 francs for whoever wrote the best argument to that effect. When the Brazilian revolution broke out in 1932, he was horrified to see planes used in fighting near his home. He asked a friend:\n\n> Why did I make this invention which, instead of contributing to the love between men, turns into a cursed weapon of war?\n\nHe died shortly thereafter, perhaps by suicide. A hundred years later, banning the use of planes in war is inconceivable.\n\n## 4.\n\nGunpowder was invented many times in history. By the Chinese, yes, but also by the Greeks, the Hindus, the Arabs, the English and the Germans. Humanity had no other explosives until 1847 when Ascanio Sobrero created nitroglycerin by combining nitric and sulfuric acid with a fat extract called glycerin. Sobrero found it too volatile for use as an explosive and turned to medical uses. After a self-experiment, he reported that ingesting nitroglycerin led to “a most violent, pulsating headache accompanied by great weakness of the limbs”. (He also killed his dog.) Eventually this led to the use of nitroglycerin for heart disease.\n\nMany tried and failed to reliably ignite nitroglycerin. In 1863, Alfred Nobel finally succeeded by placing a tube of gunpowder with a traditional fuse inside the nitroglycerin. He put on a series of demonstrations blowing up enormous rocks. Certain that these explosives would transform mining and tunneling, he took out patents and started filling orders.\n\nThe substance remained lethally volatile. There were numerous fatal accidents around the world. In 1867, Nobel discovered that combining nitroglycerin with [diatomaceous earth](https://en.wikipedia.org/wiki/Diatomaceous_earth) produced a product that was slightly less powerful but vastly safer. His factories of “dynamite” (no relation) were soon producing thousands of tons a year. Nobel sent chemists to California where they started manufacturing dynamite in a plant in what is today Golden Gate Park. By 1874, he had founded dynamite companies in more than ten countries and he was enormously rich.\n\n![](https://dynomight.net/img/pattern/dynamite.png)\n\nIn 1876, Nobel met Bertha Kinsky, who would become Bertha von Suttner, a celebrated peace activist. (And winner of the 1905 Nobel Peace Prize). At their first meeting, she expressed concern about dynamite’s military potential. Nobel shocked her. No, he said, the problem was that dynamite was too *weak*. Instead, he wished to produce “a substance or invent a machine of such frightful efficacy for wholesale destruction that wars should thereby become altogether impossible”.\n\nIt’s easy to dismiss this as self-serving. But dynamite was used overwhelmingly for construction and mining. Nobel did not grow rich by selling weapons. He was disturbed by dynamite’s use in Chicago’s 1886 [Haymarket bombing](https://en.wikipedia.org/wiki/Haymarket_affair). After being repeatedly betrayed and swindled, he seemed to regard the world of money with a kind of disgust. At heart, he seemed to be more inventor than businessman.\n\nStill, the common story that Nobel was a closet pacifist is also hagiography. He showed little concern when both sides used dynamite in the 1870-1871 Franco-Prussian war. In his later years, he worked on developing munitions and co-invented [cordite](https://en.wikipedia.org/wiki/Cordite), remarking that they were “rather fiendish” but “so interesting as purely theoretical problems”.\n\nSimultaneously, he grew interested in peace. He repeatedly suggested that Europe try a sort of one-year cooling off period. He even hired a retired Turkish diplomat as a kind of peace advisor. Eventually, he concluded that peace required an international agreement to act against any aggressor.\n\nWhen Bertha’s 1889 book [*Lay Down Arms*](https://en.wikipedia.org/wiki/Die_Waffen_nieder%21) became a rallying cry, Nobel called it a masterpiece. But Nobel was skeptical. He made only small donations to her organization and refused to be listed as a sponsor of a pacifist congress. Instead, he continued to believe that peace would come through technological means, namely more powerful weapons. If explosives failed to achieve this, he told a friend, a solution could be found elsewhere:\n\n> A mere increase in the deadliness of armaments would not bring peace. The difficulty is that the action of explosives is too limited; to overcome this deficiency war must be made as deadly for all the civilians back home as for the troops on the front lines. […] War will instantly stop if the weapon is bacteriology.\n\n## 5.\n\n> I’m a soldier who was tested by fate in 1941, in the very first months of that war that was so frightening and fateful for our people. […]  On the battlefield, my comrades in arms and I were unable to defend ourselves. There was only one of the legendary Mosin rifles for three soldiers.\n\n> \n> […]\n\n> \n> After the war, I worked long and very hard, day and night, labored at the lathe until I created a model with better characteristics. […] But I cannot bear my spiritual agony and the question that repeats itself over and over: If my automatic deprived people of life, am I, Mikhail Kalashnikov, ninety-three years of age, son of a peasant woman, a Christian and of Orthodox faith, guilty of the deaths of people, even if of enemies?\n\n> \n> For twenty years already, we have been living in a different country. […] But evil is not subsiding. Good and evil live side by side, they conflict, and, what is most frightening, they make peace with each other in people’s hearts.\n\n[Mikhail Kalashnikov](https://harpers.org/archive/2014/05/automatic-for-the-people/) (2012)\n\n## 6.\n\nIn 1937 Leo Szilárd fled Nazi Germany, eventually ending up in New York where—with no formal position—he did experiments demonstrating that uranium could likely sustain a chain reaction of neutron emissions. He immediately realized that this meant it might be possible to create nuclear weapons. Horrified by what Hitler might do with such weapons, he enlisted Einstein to write the 1939 [Einstein–Szilárd letter](https://en.wikipedia.org/wiki/Einstein%E2%80%93Szilard_letter), which led to the creation of the Manhattan project. Szilárd himself worked for the project at the Metallurgical Laboratory at the University of Chicago.\n\nOn June 11, 1945, as the bomb approached completion, Szilárd co-signed the [Franck report](https://ahf.nuclearmuseum.org/ahf/key-documents/franck-report/):\n\n> Nuclear bombs cannot possibly remain a “secret weapon” at the exclusive disposal of this country, for more than a few years. The scientific facts on which their construction is based are well known to scientists of other countries. Unless an effective international control of nuclear explosives is instituted, a race of nuclear armaments is certain to ensue.\n\n> \n> […]\n\n> \n> We believe that these considerations make the use of nuclear bombs for an early, unannounced attack against Japan inadvisable. If the United States would be the first to release this new means of indiscriminate destruction upon mankind, she would sacrifice public support throughout the world, precipitate the race of armaments, and prejudice the possibility of reaching an international agreement on the future control of such weapons.\n\nOn July 16, 1945, the Trinity test achieved the first successful detonation of a nuclear weapon. The next day, he circulated the [Szilárd petition](https://ahf.nuclearmuseum.org/ahf/key-documents/szilard-petition/):\n\n> We, the undersigned scientists, have been working in the field of atomic power. Until recently we have had to fear that the United States might be attacked by atomic bombs during this war and that her only defense might lie in a counterattack by the same means. Today, with the defeat of Germany, this danger is averted and we feel impelled to say what follows:\n\n> \n> The war has to be brought speedily to a successful conclusion and attacks by atomic bombs may very well be an effective method of warfare. We feel, however, that such attacks on Japan could not be justified, at least not unless the terms which will be imposed after the war on Japan were made public in detail and Japan were given an opportunity to surrender.\n\n> \n> […]\n\n> \n> The development of atomic power will provide the nations with new means of destruction. The atomic bombs at our disposal represent only the first step in this direction, and there is almost no limit to the destructive power which will become available in the course of their future development. Thus a nation which sets the precedent of using these newly liberated forces of nature for purposes of destruction may have to bear the responsibility of opening the door to an era of devastation on an unimaginable scale.\n\n> \n> […]\n\n> \n> In view of the foregoing, we, the undersigned, respectfully petition: first, that you exercise your power as Commander-in-Chief, to rule that the United States shall not resort to the use of atomic bombs in this war unless the terms which will be imposed upon Japan have been made public in detail and Japan knowing these terms has refused to surrender; second, that in such an event the question whether or not to use atomic bombs be decided by you in the light of the consideration presented in this petition as well as all the other moral responsibilities which are involved.\n\nPresident Truman declined to adopt this recommendation.\n\n  \n\n  \n\n  \n\n    \n\n  \n      \n      \n\n      comments\n      \n\n      \n        [substack](https://dynomight.substack.com/p/pattern) / \n        [lemmy](https://lemmy.world/post/43855685)\n      \n      \n  \n  \n\n  \n      \n      \ncomments at\n      \n        [substack](https://dynomight.substack.com/p/pattern) or \n        [lemmy](https://lemmy.world/post/43855685).\n      \n      \n  \n  \n -->\n  \n    \n\n    \n\n    [The real data wall is billions of years of evolution](https://dynomight.net/data-wall/) · \n    \n          [AI](https://dynomight.net/#ai)\n    \n          [science](https://dynomight.net/#science)\n    \n    \n\n      \n    [Why didn't we get GPT-2 in 2005?](https://dynomight.net/gpt-2/) · \n    \n          [science](https://dynomight.net/#science)\n    \n          [economics](https://dynomight.net/#economics)\n    \n          [AI](https://dynomight.net/#ai)\n    \n    \n\n      \n    [Will the explainer post go extinct?](https://dynomight.net/explainers/) · \n    \n          [writing](https://dynomight.net/#writing)\n    \n          [AI](https://dynomight.net/#ai)\n    \n    \n\n      \n    [Y'all are over-complicating these AI-risk arguments](https://dynomight.net/ai-risk/) · \n    \n          [AI](https://dynomight.net/#ai)",
+        "url": "https://dynomight.net/pattern/",
+        "source": "DYNOMIGHT",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-04T00:00:00.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Package Managers Need to Cool Down",
+        "summary": "<think>The user wants me to summarize an article about package managers implementing \"dependency cooldowns\" as a security feature. Let me analyze the article:\n\n**Writing Type**: Technical article summary/blog post summary\n**Tone**: Semi-formal, informative\n**Audience**: Likely developers, security professionals, or tech-savvy readers\n**Structure**: The article discusses a security feature called \"dependency cooldowns\" across different package managers\n\nKey points to cover:\n1. What dependency cooldowns are - a security feature that delays installing new package versions\n2. Why they matter - prevents autonomous exploitation of malicious packages\n3. The request from Seth Larson for a globally-configurable exclude-newer-than feature\n4. Statistics - 8 out of 10 supply chain attacks had windows under a week\n5. Implementation across different ecosystems (JavaScript, Python, etc.)\n6. The rapid adoption rate\n\nLet me write a concise 100-200 word summary focusing on these key points.\n</think>\n\n# Summary: Package Managers Need to Cool Down Content\n\nPackage managers are increasingly implementing \"dependency cooldowns\"—security features that delay installing new package versions until they've been available for a minimum period. This gives security vendors and communities time to identify malicious packages before they reach end users.\n\nThe feature, requested by security researcher Seth Larson, aims to counter supply chain attacks where attackers compromise maintainer credentials, publish malicious versions, and exploit automated tooling to spread quickly. Research from William Woodruff found that eight of ten examined supply chain attacks had exploitation windows under one week, meaning a modest seven-day cooldown would have blocked most attacks.\n\nJavaScript package managers led rapid adoption: pnpm, Yarn, Bun, npm, and Deno all implemented variations within six months of each other. Python's uv added relative duration support in December 2025, while pip introduced `--uploaded-prior-to`. Implementation details vary—some use rolling durations versus absolute timestamps, some cover transitive dependencies, and most offer exemption lists for trusted packages.\n\nThis coordinated cross-ecosystem adoption represents an unprecedented level of cooperation among competing tools to improve supply chain security.",
+        "content": "This post was requested by [Seth Larson](https://sethmlarson.dev/), who asked if I could do a breakdown of dependency cooldowns across package managers. His framing: all tools should support a globally-configurable `exclude-newer-than=<relative duration>` like `7d`, to bring the response times for autonomous exploitation back into the realm of human intervention.\n\nWhen an attacker compromises a maintainer’s credentials or takes over a dormant package, they publish a malicious version and wait for automated tooling to pull it into thousands of projects before anyone notices. William Woodruff made the case for [dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns) in November 2025, then followed up with a [redux](https://blog.yossarian.net/2025/12/13/cooldowns-redux) a month later: don’t install a package version until it’s been on the registry for some minimum period, giving the community and security vendors time to flag problems before your build pulls them in. Of the ten supply chain attacks he examined, eight had windows of opportunity under a week, so even a modest cooldown of seven days would have blocked most of them from reaching end users.\n\nThe concept goes by different names depending on the tool (`cooldown`, `minimumReleaseAge`, `stabilityDays`, `exclude-newer`) and implementations vary in whether they use rolling durations or absolute timestamps, whether they cover transitive dependencies or just direct ones, and whether security updates are exempt. But the adoption over the past year has been remarkably fast.\n\n### JavaScript\n\nThe JavaScript ecosystem moved on this faster than anyone else, with [pnpm](https://pnpm.io/supply-chain-security) shipping `minimumReleaseAge` in version 10.16 in September 2025, covering both direct and transitive dependencies with a `minimumReleaseAgeExclude` list for packages you trust enough to skip. [Yarn](https://github.com/yarnpkg/berry/pull/6901) shipped `npmMinimalAgeGate` in version 4.10.0 the same month (also in minutes, with `npmPreapprovedPackages` for exemptions), then [Bun](https://bun.com/docs/runtime/bunfig) added `minimumReleaseAge` in version 1.3 in October 2025 via `bunfig.toml`. [npm](https://socket.dev/blog/npm-introduces-minimumreleaseage-and-bulk-oidc-configuration) took longer but shipped `min-release-age` in version 11.10.0 in February 2026. [Deno](https://github.com/denoland/deno/issues/30751) has `--minimum-dependency-age` for `deno update` and `deno outdated`. Five package managers in six months, which I can’t think of a precedent for in terms of coordinated feature adoption across competing tools.\n\n### Python\n\n[uv](https://docs.astral.sh/uv/concepts/resolution/) has had `--exclude-newer` for absolute timestamps since early on and added relative duration support (e.g. `1 week`, `30 days`) in version 0.9.17 in December 2025, along with per-package overrides via `exclude-newer-package`. pip shipped [`--uploaded-prior-to`](https://ichard26.github.io/blog/2026/01/whats-new-in-pip-26.0/) in version 26.0 in January 2026, though it only accepts absolute timestamps and there’s an [open issue](https://github.com/pypa/pip/issues/13674) about adding relative duration support.\n\n### Ruby\n\nBundler and RubyGems have no native cooldown support, but [gem.coop](https://gem-coop.github.io/gem.coop/updates/4/), a community-run gem server, launched a cooldowns beta that enforces a 48-hour delay on newly published gems served from a separate endpoint. Pushing the cooldown to the index level rather than the client is interesting because any Bundler user pointed at the gem.coop endpoint gets cooldowns without changing their tooling or workflow at all.\n\n### Rust, Go, PHP, .NET\n\nCargo has an [RFC in progress](https://github.com/rust-lang/rfcs/pull/3923) and the registry-side infrastructure for cooldowns is [stabilized in Cargo 1.94](https://doc.rust-lang.org/nightly/cargo/CHANGELOG.html#cargo-194-2026-03-05) (releasing March 5, 2026). Their approach sidesteps the exemption list problem entirely: instead of exempting packages from cooldowns, you explicitly opt in to a new version with `cargo update foo --precise 1.5.10`, which records the choice in your lockfile. No exclude list to remember to clean up later. In the meantime there’s also [cargo-cooldown](https://crates.io/crates/cargo-cooldown), a third-party wrapper that enforces a configurable cooldown window on developer machines as a proof-of-concept. Go has an [open proposal](https://github.com/golang/go/issues/76485) for `go get` and `go mod tidy`, Composer has [two](https://github.com/composer/composer/issues/12552) [open](https://github.com/composer/composer/issues/12633) issues, and NuGet has an [open issue](https://github.com/NuGet/Home/issues/14657) though .NET projects using Dependabot already get cooldowns on the update bot side since Dependabot [expanded NuGet support](https://github.blog/changelog/2025-07-29-dependabot-expanded-cooldown-and-package-manager-support/) in July 2025.\n\n### Dependency update tools\n\n[Renovate](https://docs.renovatebot.com/key-concepts/minimum-release-age/) has had `minimumReleaseAge` (originally called `stabilityDays`) for years, long before the rest of the ecosystem caught on, adding a “pending” status check to update branches until the configured time has passed. [Mend Renovate 42](https://www.mend.io/blog/secure-npm-ecosystem-with-mend-renovate/) went a step further and made a 3-day minimum release age the default for npm packages in their “best practices” config via the `security:minimumReleaseAgeNpm` preset, making cooldowns opt-out rather than opt-in for their users. [Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/dependabot-options-reference) shipped cooldowns in July 2025 with a `cooldown` block in `dependabot.yml` supporting `default-days` and per-semver-level overrides (`semver-major-days`, `semver-minor-days`, `semver-patch-days`), with security updates bypassing the cooldown. [Snyk](https://docs.snyk.io/scan-with-snyk/pull-requests/snyk-pull-or-merge-requests/upgrade-dependencies-with-automatic-prs-upgrade-prs/upgrade-open-source-dependencies-with-automatic-prs) takes the most aggressive stance with a built-in non-configurable 21-day cooldown on automatic upgrade PRs. [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) added a `--cooldown` parameter that accepts duration suffixes like `7d` or `12h`.\n\n### Checking your config\n\n[zizmor](https://docs.zizmor.sh/audits/) added a `dependabot-cooldown` audit rule in version 1.15.0 that flags Dependabot configs missing cooldown settings or with insufficient cooldown periods (default threshold: 7 days), with auto-fix support. [StepSecurity](https://www.stepsecurity.io/blog/introducing-the-npm-package-cooldown-check) offers a GitHub PR check that fails PRs introducing npm packages released within a configurable cooldown period. [OpenRewrite](https://docs.openrewrite.org/recipes/github/adddependabotcooldown) has an `AddDependabotCooldown` recipe for automatically adding cooldown sections to Dependabot config files. For GitHub Actions specifically, [pinact](https://github.com/suzuki-shunsuke/pinact) added a `--min-age` flag, and [prek](https://github.com/j178/prek) (a Rust reimplementation of pre-commit) added `--cooldown-days`.\n\n### Still waiting\n\nFor Go, Bundler, Composer, and pip, cooldown support is still in discussion or only partially landed, which means you’re relying on Dependabot or Renovate to enforce the delay. That covers automated updates, but nothing stops someone from running `bundle update` or `go get` locally and pulling in a version that’s been on the registry for ten minutes. I couldn’t find any cooldown discussion at all for Maven, Gradle, Swift Package Manager, Dart’s pub, or Elixir’s Hex, if you know of one, let me know and I’ll update this post.\n\nThe feature also goes by at least ten different configuration names across the tools that do support it (`cooldown`, `minimumReleaseAge`, `min-release-age`, `npmMinimalAgeGate`, `exclude-newer`, `stabilityDays`, `uploaded-prior-to`, `min-age`, `cooldown-days`, `minimum-dependency-age`), which makes writing about it almost as hard as configuring it across a polyglot project.\n\n### Language vs. system package managers\n\nOn npm, PyPI, and RubyGems, running `npm publish` or `gem push` makes a package installable worldwide in seconds, and if Dependabot or Renovate happens to run in that window, the malicious code lands in a project without a human ever seeing it. All of the supply chain attacks William examined exploit this property, where publishing and distribution are the same act and nothing stands between a compromised maintainer account and thousands of downstream projects.\n\nSystem package managers work differently because they separate those two things. When someone pushes a new version of an upstream library, it doesn’t appear in `apt install` or `brew install` until a distribution maintainer has reviewed the change, updated the package definition, and pushed it through a build pipeline. Fedora packages go through review and koji builds, Homebrew requires a pull request that passes CI and gets merged by a maintainer. A compromised upstream tarball still has to survive that process before it reaches anyone’s machine, and the people doing the reviews tend to notice when a patch adds an obfuscated postinstall script that curls a remote payload.\n\nDebian goes further. Even if a maintainer account is compromised, uploads land in unstable first, then automigrate to testing after 2 to 10 days depending on urgency and availability of package tests. Stable only gets updates through a separate release process. That’s effectively a built-in cooldown with human review at multiple stages.\n\nCooldowns on the language package manager side are trying to retrofit something like that review window onto ecosystems that never had one, giving security researchers a few days to flag a malicious publish before automated tooling pulls it into lockfiles. Asking Homebrew or apt to add the same feature would mean delaying security patches through a process that already has human gatekeepers, which costs more than it saves.\n\n### The timestamp problem\n\npip’s `--uploaded-prior-to` and npm’s older `--before` flag both take absolute timestamps, and the [discussion about adding relative duration support to pip](https://github.com/pypa/pip/issues/13674) reveals how these two modes serve different goals that happen to share implementation surface. An absolute timestamp pins your dependency resolution to a moment in time, so running the same install six months from now produces the same result, which is a reproducibility feature. A relative duration like `7 days` creates a sliding window that moves forward with you, so you always exclude recently published packages regardless of when you run the build, which is a security feature. uv’s `--exclude-newer` accepts both forms, and npm has both `--before` for absolute dates and `min-release-age` for relative durations. pnpm, Yarn, Bun, and Deno only accept relative durations.\n\nThe pip thread also gets into the surprisingly fiddly business of parsing duration strings. ISO 8601 durations (`P7D`) are unambiguous but nobody wants to type them, human-readable strings like `7 days` are friendly but need a parser that pip’s maintainers would rather not write and maintain, and variable-length calendar units like months and years require knowing which month you’re in to convert to a concrete number of days. uv went with ISO 8601 plus friendly strings but excluded months and years entirely, and pip’s maintainers are leaning toward just accepting a bare number of days, which covers nearly every real use case without dragging in leap year arithmetic.\n\nEven the question of what “seven days ago” means gets complicated when your CI server is in UTC, your developer laptop is in US Pacific time, and the registry timestamp uses whatever timezone PyPI’s servers happen to be configured with. A few hours of timezone drift can determine whether a package published six days and twenty-two hours ago passes the cooldown check or not.",
+        "url": "https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-03-04T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Anti-patterns: things to avoid - <think>The user wants me to summarize this article about anti-patterns in agentic engineer...",
+    "‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’ - <think>The user wants me to summarize an article about Apple's M5 Pro and M5 Max chip anno...",
+    "Interruption-Driven Development  - <think>The user wants me to summarize an article about \"Interruption-Driven Development\" i...",
+    "Something is afoot in the land of Qwen - <think>The user wants me to summarize an article about Qwen (Alibaba's AI model team) in 1...",
+    "★ Thoughts and Observations on the MacBook Neo - <think>The user wants me to summarize an article about the MacBook Neo in 100-200 words. L..."
+  ],
+  "wordcloud": [
+    {
+      "word": "key",
+      "count": 20
+    },
+    {
+      "word": "article",
+      "count": 18
+    },
+    {
+      "word": "summary",
+      "count": 18
+    },
+    {
+      "word": "cores",
+      "count": 17
+    },
+    {
+      "word": "code",
+      "count": 14
+    },
+    {
+      "word": "think",
+      "count": 14
+    },
+    {
+      "word": "apple",
+      "count": 13
+    },
+    {
+      "word": "points",
+      "count": 13
+    },
+    {
+      "word": "let",
+      "count": 12
+    },
+    {
+      "word": "author",
+      "count": 12
+    },
+    {
+      "word": "qwen",
+      "count": 12
+    },
+    {
+      "word": "security",
+      "count": 10
+    },
+    {
+      "word": "performance",
+      "count": 10
+    },
+    {
+      "word": "user",
+      "count": 9
+    },
+    {
+      "word": "words",
+      "count": 9
+    },
+    {
+      "word": "macbook",
+      "count": 9
+    },
+    {
+      "word": "summarize",
+      "count": 8
+    },
+    {
+      "word": "concise",
+      "count": 8
+    },
+    {
+      "word": "write",
+      "count": 8
+    },
+    {
+      "word": "interruptions",
+      "count": 8
+    },
+    {
+      "word": "managers",
+      "count": 8
+    },
+    {
+      "word": "members",
+      "count": 8
+    },
+    {
+      "word": "vfr",
+      "count": 8
+    },
+    {
+      "word": "package",
+      "count": 8
+    },
+    {
+      "word": "main",
+      "count": 7
+    },
+    {
+      "word": "work",
+      "count": 7
+    },
+    {
+      "word": "laptop",
+      "count": 7
+    },
+    {
+      "word": "wants",
+      "count": 7
+    },
+    {
+      "word": "pr",
+      "count": 7
+    },
+    {
+      "word": "efficiency",
+      "count": 7
+    },
+    {
+      "word": "development",
+      "count": 7
+    },
+    {
+      "word": "lead",
+      "count": 7
+    },
+    {
+      "word": "military",
+      "count": 7
+    },
+    {
+      "word": "models",
+      "count": 6
+    },
+    {
+      "word": "focusing",
+      "count": 6
+    },
+    {
+      "word": "feature",
+      "count": 6
+    },
+    {
+      "word": "pro",
+      "count": 6
+    },
+    {
+      "word": "meetings",
+      "count": 6
+    },
+    {
+      "word": "team",
+      "count": 6
+    },
+    {
+      "word": "pattern",
+      "count": 6
+    },
+    {
+      "word": "studio",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "neural",
+      "count": 5
+    },
+    {
+      "word": "networks",
+      "count": 5
+    },
+    {
+      "word": "working",
+      "count": 5
+    },
+    {
+      "word": "price",
+      "count": 5
+    },
+    {
+      "word": "cloudflare",
+      "count": 5
+    },
+    {
+      "word": "continuous",
+      "count": 5
+    },
+    {
+      "word": "without",
+      "count": 5
+    },
+    {
+      "word": "agentic",
+      "count": 5
+    },
+    {
+      "word": "engineering",
+      "count": 5
+    },
+    {
+      "word": "identify",
+      "count": 5
+    },
+    {
+      "word": "word",
+      "count": 5
+    },
+    {
+      "word": "called",
+      "count": 5
+    },
+    {
+      "word": "significant",
+      "count": 5
+    },
+    {
+      "word": "including",
+      "count": 5
+    },
+    {
+      "word": "alibaba's",
+      "count": 5
+    },
+    {
+      "word": "researcher",
+      "count": 5
+    },
+    {
+      "word": "neo",
+      "count": 5
+    },
+    {
+      "word": "army",
+      "count": 5
+    },
+    {
+      "word": "notes",
+      "count": 4
+    },
+    {
+      "word": "display",
+      "count": 4
+    },
+    {
+      "word": "cost",
+      "count": 4
+    },
+    {
+      "word": "found",
+      "count": 4
+    },
+    {
+      "word": "support",
+      "count": 4
+    },
+    {
+      "word": "users",
+      "count": 4
+    },
+    {
+      "word": "takeaways",
+      "count": 4
+    },
+    {
+      "word": "others",
+      "count": 4
+    },
+    {
+      "word": "review",
+      "count": 4
+    },
+    {
+      "word": "context",
+      "count": 4
+    },
+    {
+      "word": "implementation",
+      "count": 4
+    },
+    {
+      "word": "it's",
+      "count": 4
+    },
+    {
+      "word": "despite",
+      "count": 4
+    },
+    {
+      "word": "interrupted",
+      "count": 4
+    },
+    {
+      "word": "lin",
+      "count": 4
+    },
+    {
+      "word": "several",
+      "count": 4
+    },
+    {
+      "word": "down",
+      "count": 4
+    },
+    {
+      "word": "half",
+      "count": 4
+    },
+    {
+      "word": "quote",
+      "count": 4
+    },
+    {
+      "word": "maybe",
+      "count": 4
+    },
+    {
+      "word": "civilian",
+      "count": 4
+    },
+    {
+      "word": "dependency",
+      "count": 4
+    },
+    {
+      "word": "cooldowns",
+      "count": 4
+    },
+    {
+      "word": "supply",
+      "count": 4
+    },
+    {
+      "word": "chain",
+      "count": 4
+    },
+    {
+      "word": "attacks",
+      "count": 4
+    },
+    {
+      "word": "xdr",
+      "count": 3
+    },
+    {
+      "word": "chip",
+      "count": 3
+    },
+    {
+      "word": "logistic",
+      "count": 3
+    },
+    {
+      "word": "api",
+      "count": 3
+    },
+    {
+      "word": "comparison",
+      "count": 3
+    },
+    {
+      "word": "computer",
+      "count": 3
+    },
+    {
+      "word": "early",
+      "count": 3
+    },
+    {
+      "word": "manual",
+      "count": 3
+    },
+    {
+      "word": "update",
+      "count": 3
+    },
+    {
+      "word": "beyond",
+      "count": 3
+    },
+    {
+      "word": "counter",
+      "count": 3
+    },
+    {
+      "word": "never",
+      "count": 3
+    },
+    {
+      "word": "mind",
+      "count": 3
+    },
+    {
+      "word": "machine",
+      "count": 3
+    }
+  ]
+}
