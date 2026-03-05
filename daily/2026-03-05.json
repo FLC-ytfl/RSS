@@ -1,0 +1,847 @@
+{
+  "date": "2026-03-05",
+  "stats": {
+    "total_fetched": 271,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Book Review: Katabasis by R. F. Kuang ★★★★⯪",
+        "summary": "I'm a fan of R.F. Kuang's books - but this is the first which I've found laugh-out-loud funny. What if your University advisor died and the only way to graduate was to descend into hell and bring him back? In a terrible...",
+        "url": "https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Thu, 05 Mar 2026 12:34:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The mystery of the posted message that was dispatched before reaching the main message loop",
+        "summary": "Perhaps it's because you dispatched it. The post The mystery of the posted message that was dispatched before reaching the main message loop appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114",
+        "source": "The Old New Thing",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 05 Mar 2026 15:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Remembering the Michelangelo virus",
+        "summary": "Remember the Michelangelo virus? If you don’t remember, on March 6, 1992, Michelangelo was programmed to overwrite the first 100 sectors of a hard drive–not quite as destructive as formatting a drive, but to the average...",
+        "url": "https://dfarq.homeip.net/remembering-michelangelo/?utm_source=rss&utm_medium=rss&utm_campaign=remembering-michelangelo",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Thu, 05 Mar 2026 12:00:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How Automatic Return Routing solves IP overlap",
+        "summary": "Automatic Return Routing (ARR) solves the common enterprise challenge of overlapping private IP addresses by using stateful flow tracking instead of traditional routing tables. This userspace-driven approach ensures retu...",
+        "url": "https://blog.cloudflare.com/automatic-return-routing-ip-overlap/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Thu, 05 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A QUICker SASE client: re-building Proxy Mode",
+        "summary": "By transitioning the Cloudflare One Client to use QUIC streams for Proxy Mode, we eliminated the overhead of user-space TCP stacks, resulting in a 2x increase in throughput and significant latency reduction for end users...",
+        "url": "https://blog.cloudflare.com/faster-sase-proxy-mode-quic/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Thu, 05 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ending the \"silent drop\": how Dynamic Path MTU Discovery makes the Cloudflare One Client more resilient",
+        "summary": "The Cloudflare One Client now features the ability to actively probe and adjust packet sizes. This update eliminates the problems caused by tunnel layering and MTU differences, providing more stability and resiliency.",
+        "url": "https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud",
+          "Product"
+        ],
+        "published_at": "Thu, 05 Mar 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-05T22:20:45.234Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "AI And The Ship of Theseus",
+        "summary": "<think>The user wants me to summarize an article titled \"AI And The Ship of Theseus\" in 100-200 words. I need to focus on key points and main takeaways, keeping it concise and informative.\n\nLet me identify the main points:\n\n1. The article discusses how AI makes it cheaper to re-implement code, including porting libraries to different languages\n2. Example: AI ported a library with a different design approach\n3. Another example: chardet library was reimplemented from scratch using only API and test suite to enable relicensing from LGPL to MIT\n4. Original author (Mark Pilgrim) considers it a derived work; new maintainer considers it a new work\n5. JPlag validation shows the implementations are distinct\n6. The new implementation is faster, supports multiple cores, and has a different design\n7. The article explores consequences for GPL/copyleft software - copyright and friction enforce it, but AI makes rewriting trivial\n8. Author mentions re-implementing readline for similar GPL license reasons\n9. Potential legal uncertainty: AI-generated code might be considered public domain due to insufficient human input\n10. Vercel reimplemented bash with AI but got upset when someone reimplemented Next.js the same way\n11. The core question: what does it mean when code generation costs drop so much and we can reimplement from tests alone?\n\nThe article draws a parallel to the Ship of Theseus thought experiment - at what point is a reimplemented piece of code still the same software or something entirely new?\n\nLet me write a concise 100-200 word summary.\n</think>\n\n# Summary: AI And The Ship of Theseus\n\nThe article explores how AI is challenging traditional software licensing by making code reimplementation trivial. Using the chardet library as a key example, the author describes how its maintainer reimplemented the entire library from scratch using only the API and test suite, enabling a relicensing from LGPL to MIT. The original author, Mark Pilgrim, considers this a derived work subject to copyright, while the new maintainer views it as original code—validated by plagiarism-detection tools showing distinct implementations.\n\nThe author argues this trend threatens copyleft licenses like GPL, which rely on copyright friction to enforce their terms. With AI, rewriting proprietary or copyleft code becomes straightforward, potentially bypassing licensing restrictions. The article raises a provocative legal question: courts might deem AI-generated code public domain due to insufficient human authorship.\n\nThe author notes the hypocrisy of companies like Vercel, which reimplemented bash using AI tools but protested when others did the same to Next.js. As AI lowers the cost of code generation to near-zero, the article questions what this means for software ownership, licensing, and the future of development itself.",
+        "content": "written on March 05, 2026\n\n  \n\n  Because code gets cheaper and cheaper to write, this includes\nre-implementations.  I mentioned recently that I had an AI port one of my\nlibraries to another language and it ended up choosing a different\ndesign for that implementation.  In many ways, the functionality was the same,\nbut the path it took to get there was different.  The way that port worked was\nby going via the test suite.\n\nSomething related, but different, [happened with\nchardet](https://github.com/chardet/chardet/issues/327#issuecomment-4005195078).\nThe current maintainer reimplemented it from scratch by only pointing it to the\nAPI and the test suite.  The motivation: enabling relicensing from LGPL to MIT.\nI personally have a horse in the race here because I too wanted chardet to be\nunder a non-GPL license for many years.  So consider me a very biased person in\nthat regard.\n\nUnsurprisingly, that new implementation caused a stir.  In particular, Mark\nPilgrim, the original author of the library, objects to the new implementation\nand considers it a derived work.  The new maintainer, who has maintained it for\nthe last 12 years, considers it a new work and instructs his coding agent to do\nprecisely that.  According to author, validating with JPlag, the new\nimplementation is distinct.  If you actually consider how it works, that’s not\ntoo surprising.  It’s significantly faster than the original implementation,\nsupports multiple cores and uses a fundamentally different design.\n\nWhat I think is more interesting about this question is the consequences of\nwhere we are.  Copyleft code like the GPL heavily depends on copyrights and\nfriction to enforce it.  But because it’s fundamentally in the open, with or\nwithout tests, you can trivially rewrite it these days.  I myself have been\nintending to do this for a little while now with some other GPL libraries.  In\nparticular I started a re-implementation of readline a while ago for similar\nreasons, because of its GPL license.  There is an obvious moral question here,\nbut that isn’t necessarily what I’m interested in.  For all the GPL software\nthat might re-emerge as MIT software, so might be proprietary abandonware.\n\nFor me personally, what is more interesting is that we might not even be able\nto copyright these creations at all.  A court still might rule that all\nAI-generated code is in the public domain, because there was not enough human\ninput in it.  That’s quite possible, though probably not very likely.\n\nBut this all causes some interesting new developments we are not necessarily\nready for.  Vercel, for instance, happily [re-implemented\nbash](https://just-bash.dev/) with Clankers but [got visibly\nupset](https://x.com/cramforce/status/2027155457597669785) when someone\nre-implemented Next.js in the same way.\n\nThere are huge consequences to this.  When the cost of generating code goes down\nthat much, and we can re-implement it from test suites alone, what does that\nmean for the future of software?  Will we see a lot of software re-emerging\nunder more permissive licenses?  Will we see a lot of proprietary software\nre-emerging as open source?  Will we see a lot of software re-emerging as\nproprietary?\n\nIt’s a new world and we have very little idea of how to navigate it.  In the\ninterim we will have some fights about copyrights but I have the feeling very\nfew of those will go to court, because everyone involved will actually be\nsomewhat scared of setting a precedent.\n\nIn the GPL case, though, I think it warms up some old fights about copyleft vs\npermissive licenses that we have not seen in a long time.  It probably does not\nfeel great to have one’s work rewritten with a Clanker and one’s authorship\neradicated.  Unlike the [Ship of\nTheseus](https://en.wikipedia.org/wiki/Ship_of_Theseus), though, this seems more\nclear-cut: if you throw away all code and start from scratch, even if the end\nresult behaves the same, it’s a new ship.  It only continues to carry the name.\nWhich may be another argument for why authors should hold on to trademarks\nrather than rely on licenses and contract law.\n\nI personally think all of this is exciting.  I’m a strong supporter of putting\nthings in the open with as little license enforcement as possible.  I think\nsociety is better off when we share, and I consider the GPL to run against that\nspirit by restricting what can be done with it.  This development plays into my\nworldview.  I understand, though, that not everyone shares that view, and I\nexpect more fights over the emergence of slopforks as a result.  After all, it\ncombines two very heated topics, licensing and AI, in the worst possible way.\n\n  \n  This entry was tagged\n    \n      [ai](https://lucumr.pocoo.org/tags/ai/), \n      [licensing](https://lucumr.pocoo.org/tags/licensing/) and \n      [python](https://lucumr.pocoo.org/tags/python/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/3/5/theseus.md) / [view](https://lucumr.pocoo.org/2026/3/5/theseus.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-05T00:00:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "JJ LSP Follow Up",
+        "summary": "<think>The user wants me to summarize an article about JJ LSP Follow Up Content in 100-200 words. Let me analyze the article:\n\n1. **Writing Type**: This is a technical blog post/update about a software development tool (jj - a version control system) and its integration with LSP (Language Server Protocol).\n\n2. **Style**: Technical but accessible, enthusiastic tone (using words like \"Exciting!\").\n\n3. **Audience**: Developers interested in version control tools, LSP, and potentially Magit-style interfaces.\n\n4. **Key points to extract**:\n   - The article follows up on a previous post about Majjit LSP\n   - It's about implementing Magit-style UX for jj using LSP\n   - The upcoming LSP 3.18 has a new feature: Text Document Content Request\n   - This allows virtual documents (not on disk)\n   - This enables showing diffs as virtual files with semantic highlighting\n   - Features like \"check out commit\" as code actions\n   - \"Goto definition\" can jump from diff to real files\n   - This makes the implementation much less hacky\n\n5. **Structure for summary**:\n   - Brief intro about what this is about\n   - The new LSP 3.18 feature\n   - What this enables for jj\n   - Main benefits\n\nNow I need to write a 100-200 word summary that captures these key points concisely.\n</think>\n\n**Summary**\n\nThis article discusses implementing Magit-style version control functionality for jj (a VCS tool) using the LSP protocol. The author previously explored this concept in his Majjit LSP article but found the approach somewhat hacky. However, the upcoming LSP 3.18 version introduces Text Document Content Request, which allows servers to provide virtual documents that don't exist on disk. This feature makes the implementation significantly cleaner. Virtual diff views can now serve as proper LSP documents, enabling semantic token highlighting, code actions for operations like checking out commits, and goto definition functionality that navigates from diff views to actual files in the working tree. The author expresses enthusiasm about this development, noting that it transforms what was previously a workaround-heavy approach into a more elegant solution leveraging standard LSP capabilities.",
+        "content": "Mar 5, 2026\n        \n        \n          In [*Majjit LSP*](https://matklad.github.io/2024/12/13/majjit-lsp.html), I described an idea of implementing [Magit](https://magit.vc/) style UX for [jj](https://matklad.github.io/2026/03/05/jj-vcs.dev) once and for all,\n          leveraging LSP protocol.\n        \n\n        \n          I’ve learned today that the upcoming 3.18 version of LSP has a feature\n          to make this massively less hacky: [*Text Document Content Request*](https://microsoft.github.io/language-server-protocol/specifications/lsp/3.18/specification/#workspace_textDocumentContent)\n        \n\n        \n          LSP can now provide virtual documents, which aren’t actually\n          materialized on disk. So this:\n        \n\n        \n          ![](https://github.com/user-attachments/assets/f65cedf9-5fa8-4506-b8bb-2e55e1ee1913)\n        \n        \n          can now be such a virtual document, where highlighting is provided by\n          semantic tokens, things like “check out this commit” are code actions,\n          and “goto definition” jumps from the diff in the virtual file to a\n          real file in the working tree.\n        \n\n        Exciting!",
+        "url": "https://matklad.github.io/2026/03/05/jj-lsp-followup.html",
+        "source": "matklad",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-03-05T00:00:00.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
+        "summary": "<think>The user wants me to summarize this article in 100-200 words. Let me analyze the key points:\n\n1. The article discusses coding agents and their ability to create \"clean room\" implementations of code\n2. It uses the chardet Python library as a case study\n3. The library was originally created by Mark Pilgrim in 2006 under LGPL\n4. Dan Blanchard, the current maintainer, released version 7.0.0 as a \"ground-up, MIT-licensed rewrite\"\n5. Mark Pilgrim objected, stating this violates LGPL because Dan had extensive exposure to the original code\n6. This raises questions about whether coding agents can enable relicensing when there's prior exposure to the original code\n\nKey themes:\n- Clean room implementation concepts\n- Legal/ethical questions about coding agents and relicensing\n- LGPL license implications\n- The specific chardet controversy\n\nI need to summarize this concisely in 100-200 words, focusing on the key points and main takeaways.\n</think>\n\n**Summary**\n\nCoding agents are enabling new forms of \"clean room\" code implementation, raising complex legal and ethical questions about software relicensing. The chardet Python library case illustrates this tension: originally created by Mark Pilgrim under LGPL in 2006, the project was later maintained by Dan Blanchard, who released version 7.0.0 as a ground-up, MIT-licensed rewrite. Pilgrim objected, arguing that extensive prior exposure to the original code invalidates the \"clean room\" claim, regardless of whether coding agents were used to generate the new implementation. Blanchard acknowledged his deep familiarity with the codebase but argued the rewrite was sufficiently different. This controversy highlights the unresolved legal boundaries around using AI-assisted rewrites to change open-source licenses, particularly when the reimplementer had significant exposure to the original licensed material.",
+        "content": "5th March 2026\n\nOver the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code.\n\nThe most famous version of this pattern is when Compaq created a clean-room clone of the IBM BIOS back [in 1982](https://en.wikipedia.org/wiki/Compaq#Introduction_of_Compaq_Portable). They had one team of engineers reverse engineer the BIOS to create a specification, then handed that specification to another team to build a new ground-up version.\n\nThis process used to take multiple teams of engineers weeks or months to complete. Coding agents can do a version of this in hours—I experimented with a variant of this pattern against [JustHTML](https://simonwillison.net/2025/Dec/15/porting-justhtml/) back in December.\n\nThere are a *lot* of open questions about this, both ethically and legally. These appear to be coming to a head in the venerable [chardet](https://github.com/chardet/chardet) Python library.\n\n`chardet` was created by Mark Pilgrim [back in 2006](https://pypi.org/project/chardet/1.0/) and released under the LGPL. Mark retired from public internet life in 2011 and chardet’s maintenance was taken over by others, most notably Dan Blanchard who has been responsible for every release since [1.1 in July 2012](https://pypi.org/project/chardet/1.1/).\n\nTwo days ago Dan released [chardet 7.0.0](https://github.com/chardet/chardet/releases/tag/7.0.0) with the following note in the release notes:\n\n> Ground-up, MIT-licensed rewrite of chardet. Same package name, same public API — drop-in replacement for chardet 5.x/6.x. Just way faster and more accurate!\n\nYesterday Mark Pilgrim opened [#327: No right to relicense this project](https://github.com/chardet/chardet/issues/327):\n\n> [...] First off, I would like to thank the current maintainers and everyone who has contributed to and improved this project over the years. Truly a Free Software success story.\n\n> However, it has been brought to my attention that, in the release [7.0.0](https://github.com/chardet/chardet/releases/tag/7.0.0), the maintainers claim to have the right to “relicense” the project. They have no such right; doing so is an explicit violation of the LGPL. Licensed code, when modified, must be released under the same LGPL license. Their claim that it is a “complete rewrite” is irrelevant, since they had ample exposure to the originally licensed code (i.e. this is not a “clean room” implementation). Adding a fancy code generator into the mix does not somehow grant them any additional rights.\n\nDan’s [lengthy reply](https://github.com/chardet/chardet/issues/327#issuecomment-4005195078) included:\n\n> You’re right that I have had extensive exposure to the original codebase: I’ve been maintaining it for over a decade. A traditional clean-room approach involves a strict separation between people with knowledge of the original and people writing the new implementation, and that separation did not exist here.\n\n> However, the purpose of clean-room methodology is to ensure the resulting code is not a derivative work of the original. It is a means to an end, not the end itself. In this case, I can demonstrate that the end result is the same — the new code is structurally independent of the old code — through direct measurement rather than process guarantees alone.\n\nDan goes on to present results from the [JPlag](https://github.com/jplag/JPlag) tool—which describes itself as  “State-of-the-Art Source Code Plagiarism & Collusion Detection”—showing that the new 7.0.0 release has a max similarity of 1.29% with the previous release and 0.64% with the 1.1 version. Other release versions had similarities more in the 80-93% range.\n\nHe then shares critical details about his process, highlights mine:\n\n> For full transparency, here’s how the rewrite was conducted. I used the [superpowers](https://github.com/obra/superpowers) brainstorming skill to create a [design document](https://github.com/chardet/chardet/commit/f51f523506a73f89f0f9538fd31be458d007ab93) specifying the architecture and approach I wanted based on the following requirements I had for the rewrite [...]\n\n> **I then started in an empty repository with no access to the old source tree, and explicitly instructed Claude not to base anything on LGPL/GPL-licensed code**. I then reviewed, tested, and iterated on every piece of the result using Claude. [...]\n\n> I understand this is a new and uncomfortable area, and that using AI tools in the rewrite of a long-standing open source project raises legitimate questions. But the evidence here is clear: 7.0 is an independent work, not a derivative of the LGPL-licensed codebase. The MIT license applies to it legitimately.\n\nSince the rewrite was conducted using Claude Code there are a whole lot of interesting artifacts available in the repo. [2026-02-25-chardet-rewrite-plan.md](https://github.com/chardet/chardet/blob/925bccbc85d1b13292e7dc782254fd44cc1e7856/docs/plans/2026-02-25-chardet-rewrite-plan.md) is particularly detailed, stepping through each stage of the rewrite process in turn—starting with the tests, then fleshing out the planned replacement code.\n\nThere are several twists that make this case particularly hard to confidently resolve:\n\n- Dan has been immersed in chardet for over a decade, and has clearly been strongly influenced by the original codebase.\n\n- There is one example where Claude Code referenced parts of the codebase while it worked, as shown in [the plan](https://github.com/chardet/chardet/blob/925bccbc85d1b13292e7dc782254fd44cc1e7856/docs/plans/2026-02-25-chardet-rewrite-plan.md#task-3-encoding-registry)—it looked at [metadata/charsets.py](https://github.com/chardet/chardet/blob/f0676c0d6a4263827924b78a62957547fca40052/chardet/metadata/charsets.py), a file that lists charsets and their properties expressed as a dictionary of dataclasses.\n\n- More complicated: Claude itself was very likely trained on chardet as part of its enormous quantity of training data—though we have no way of confirming this for sure. Can a model trained on a codebase produce a morally or legally defensible clean-room implementation?\n\n- As discussed in [this issue from 2014](https://github.com/chardet/chardet/issues/36) (where Dan first openly contemplated a license change) Mark Pilgrim’s original code was a manual port from C to Python of Mozilla’s MPL-licensed character detection library.\n\n- How significant is the fact that the new release of chardet used the same PyPI package name as the old one? Would a fresh release under a new name have been more defensible?\n\nI have no idea how this one is going to play out. I’m personally leaning towards the idea that the rewrite is legitimate, but the arguments on both sides of this are entirely credible.\n\nI see this as a microcosm of the larger question around coding agents for fresh implementations of existing, mature code. This question is hitting the open source world first, but I expect it will soon start showing up in Compaq-like scenarios in the commercial world.\n\nOnce commercial companies see that their closely held IP is under threat I expect we’ll see some well-funded litigation.",
+        "url": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-03-05T16:49:33.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Package Manager Magic Files",
+        "summary": "<think>The user wants me to summarize an article about package manager configuration files. Let me analyze the content and create a concise 100-200 word summary.\n\nKey points from the article:\n1. Package managers have manifest and lockfiles, but also many other configuration files\n2. These files control registry URLs, auth tokens, proxy settings, cache behavior\n3. Examples include .npmrc, .yarnrc.yml, bunfig.toml, pip.conf, uv.toml, .bundle/config\n4. Security implications - these files can be attack vectors\n5. .npmrc can silently apply settings if included in published packages\n6. .yarnrc.yml's yarnPath can hijack the entire package manager\n7. Config files are often poorly documented and inconsistently named\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. Let me write a concise, informative summary.\n</think>\n\n# Package Manager Configuration Files: An Overview\n\nPackage managers extend beyond manifests and lockfiles, using numerous configuration files that control registry settings, authentication, installation behavior, and script execution. Files like `.npmrc` (npm/pnpm), `.yarnrc.yml` (Yarn), `bunfig.toml` (Bun), `pip.conf` (pip), and `.bundle/config` (Bundler) manage critical settings including registry URLs, auth tokens, proxy configurations, and dependency resolution strategies.\n\nThese configuration files present significant security considerations. An `.npmrc` included in a published package can silently apply settings to downstream installations. The `.yarnrc.yml` `yarnPath` setting is particularly risky—it points to a JavaScript file that executes as the package manager binary, enabling complete hijacking if malicious. Research from Snyk and Cider Security demonstrated these as viable attack vectors where script redirection occurs without modifying `package.json`.\n\nConfiguration files are often poorly documented, inconsistently named across ecosystems, and may be silently ignored when malformed—meaning broken configurations can persist undetected for months. Developers should audit their repositories for these files and understand their security implications.",
+        "content": "A follow-up to my post on [git’s magic files](https://nesbitt.io/2026/02/05/git-magic-files.html). Most package managers have a manifest and a lockfile, and most developers stop there. But across the ecosystems I track on [ecosyste.ms](https://ecosyste.ms/), package managers check for dozens of other files beyond the manifest and lockfile, controlling where packages come from, what gets published, how versions resolve, and what code runs during installation. These files tend to be poorly documented, inconsistently named, and useful once you know they exist.\n\n### Configuration\n\nRegistry URLs, auth tokens, proxy settings, cache behavior. Every package manager has a way to configure these, and they almost always live outside the manifest.\n\n[`.npmrc`](https://docs.npmjs.com/cli/v11/configuring-npm/npmrc) is an INI-format file that can live at the project root, in your home directory, or globally. npm and pnpm both read it. It controls the registry URL, auth tokens for private registries, proxy settings, and dozens of install behaviors like `legacy-peer-deps` and `engine-strict`. There’s a footgun here: if an `.npmrc` ends up inside a published package tarball, npm will silently apply those settings when someone installs your package in their project. Less well known are the `shell`, `script-shell`, and `git` settings, which point at arbitrary executables that npm will invoke during lifecycle scripts and git operations. [Research by Snyk and Cider Security](https://snyk.io/blog/exploring-npm-security-vulnerabilities/) showed these as viable attack vectors: a malicious `.npmrc` committed to a repository can redirect script execution without touching `package.json` at all.\n\n[`.yarnrc.yml`](https://yarnpkg.com/configuration/yarnrc) replaced the INI format of Yarn Classic’s `.yarnrc`. It configures which linker to use (PnP, pnpm-style, or traditional `node_modules`), registry auth, and the `pnpMode` setting that controls how strictly Yarn enforces its dependency resolution. The `yarnPath` setting is security-sensitive: it points to a JavaScript file that Yarn will execute as its own binary, so a malicious `.yarnrc.yml` can hijack the entire package manager.\n\n[`bunfig.toml`](https://bun.sh/docs/runtime/bunfig) is Bun’s config file, covering registry config, install behavior, and the test runner all in one TOML file.\n\n[`pip.conf`](https://pip.pypa.io/en/stable/topics/configuration/) on Unix and `pip.ini` on Windows, searched at `~/.config/pip/pip.conf`, `~/.pip/pip.conf`, and `/etc/pip.conf`. The `PIP_CONFIG_FILE` environment variable can override all of these or point to `/dev/null` to disable config entirely. Malformed config files are silently ignored rather than producing errors, so you can have broken configuration for months without realizing it.\n\n[`uv.toml`](https://docs.astral.sh/uv/concepts/configuration-files/) or the `[tool.uv]` section in `pyproject.toml`.\n\n[`.bundle/config`](https://bundler.io/man/bundle-config.1.html) stores Bundler’s per-project config, created by `bundle config set`. RubyGems has its own `.gemrc` file, which Bundler deliberately ignores because it calls `Gem::Installer` directly. The credentials file at `~/.gem/credentials` must have `0600` permissions or RubyGems refuses to read it.\n\n[`.cargo/config.toml`](https://doc.rust-lang.org/cargo/reference/config.html) is the most interesting of the bunch because it’s hierarchical: Cargo walks up the directory tree merging config files as it goes, so you can have workspace-level settings that individual crates inherit. It controls registries, proxy settings, build targets, and command aliases. A backwards-compatibility quirk means Cargo still reads `.cargo/config` without the `.toml` extension, and if both files exist, the extensionless one wins, which is an easy way to have a stale config file shadow your actual settings.\n\n[`.condarc`](https://docs.conda.io/projects/conda/en/stable/user-guide/configuration/use-condarc.html) is searched at six different paths from `/etc/conda/.condarc` through `~/.condarc` to `$CONDA_PREFIX/.condarc`, plus `.d/` directories at each level for drop-in fragments, and you can put one inside a specific conda environment to configure just that environment. Every setting also has a `CONDA_UPPER_SNAKE_CASE` environment variable equivalent.\n\n[`~/.m2/settings.xml`](https://maven.apache.org/settings.html) holds Maven’s repositories and credentials, plus `~/.m2/settings-security.xml` stores the master password used to decrypt encrypted passwords in the main settings file. Most developers don’t know `settings-security.xml` exists. `.mvn/maven.config` holds per-project default CLI arguments (since Maven 3.9.0, each arg must be on its own line), and `.mvn/jvm.config` sets JVM options.\n\n[`gradle.properties`](https://docs.gradle.org/current/userguide/build_environment.html) lives at both project and user level. Init scripts in `~/.gradle/init.d/` run before every build, which is how enterprises inject internal repository configurations across all projects.\n\n[`auth.json`](https://getcomposer.org/doc/articles/authentication-for-private-packages.md) keeps Composer credentials separate from `composer.json` (per-project or at `~/.composer/auth.json`) so you can gitignore it.\n\n[`nuget.config`](https://learn.microsoft.com/en-us/nuget/reference/nuget-config-file) is XML searched hierarchically from the project directory up to the drive root, then at the user level. Like pip, malformed XML is silently ignored.\n\n[`deno.json`](https://docs.deno.com/runtime/fundamentals/configuration/) is both configuration and import map, controlling formatting, linting, test config, lock file behavior, and dependency imports in a single file. If you have a separate `import_map.json`, Deno reads that too, though the trend is toward folding everything into `deno.json`.\n\n### Publishing\n\nWhat gets included or excluded when you publish a package. People accidentally ship secrets and accidentally omit files they need in roughly equal measure.\n\n[`.npmignore`](https://docs.npmjs.com/cli/v11/configuring-npm/package-json#files) works like `.gitignore` but for `npm pack` and `npm publish`. If it doesn’t exist, npm falls back to `.gitignore`. But if you create an `.npmignore`, it completely replaces `.gitignore` for packaging purposes, they are not merged. This means patterns you had in `.gitignore` to keep `.env` files or credentials out of version control no longer protect you from publishing them.\n`npm-shrinkwrap.json` is identical in format to `package-lock.json` but gets included inside published tarballs. It’s the only npm lock file that travels with a published package, intended for CLI tools and daemons that want locked transitive dependencies for their consumers rather than letting the consumer’s resolver pick versions.\n\n[`MANIFEST.in`](https://packaging.python.org/en/latest/guides/using-manifest-in/) controls what goes into a Python source distribution using directives like `include`, `exclude`, `recursive-include`, `graft`, and `prune`. It only matters for sdists, not wheels.\n\n`.helmignore` controls what gets excluded when packaging a Helm chart, following `.gitignore` syntax.\n\n### Workspaces\n\nMonorepo topology and inter-package relationships. The JavaScript ecosystem has the most options here, which probably says something about the JavaScript ecosystem.\n\n[`pnpm-workspace.yaml`](https://pnpm.io/pnpm-workspace_yaml) defines workspace membership with a `packages:` field. Where npm and Yarn put this in a `workspaces` field in `package.json`, pnpm requires a separate file.\n\n`lerna.json` handles versioning and publishing across workspace packages, though Lerna’s remaining value is mostly the publishing workflow (changelogs, version bumps). `nx.json` and `turbo.json` configure task pipelines and caching for Nx and Turborepo monorepo builds.\n\n[`go.work`](https://go.dev/ref/mod#workspaces) (added in Go 1.18) lists `use` directives pointing to local module directories so you can develop across multiple modules without `replace` directives scattered through your `go.mod` files. It generates a companion `go.work.sum` checksum file.\n\n`settings.gradle` / `settings.gradle.kts` declares all Gradle subprojects with `include` statements and is mandatory for multi-project builds. Maven uses `<modules>` in a parent `pom.xml`.\n\n### Overrides and resolution\n\nWhen a transitive dependency has a bug or a security vulnerability and you can’t wait for every package in the chain to release an update, override files let you force a specific version or patch a package in place. Most developers don’t know these mechanisms exist and spend hours working around dependency conflicts that a single config line would fix.\n\nIn the JavaScript ecosystem, npm has [`overrides`](https://docs.npmjs.com/cli/v11/configuring-npm/package-json#overrides), Yarn has [`resolutions`](https://yarnpkg.com/configuration/manifest#resolutions), and pnpm has [`pnpm.overrides`](https://pnpm.io/package_json#pnpmoverrides), all fields in `package.json` that force specific versions of transitive dependencies. Yarn Berry and pnpm also support patching dependencies in place: Yarn’s `patch:` protocol stores diff files in `.yarn/patches/`, and pnpm’s `pnpm.patchedDependencies` references diffs in a `patches/` directory, built into the workflow via `pnpm patch` and `pnpm patch-commit`.\n\n[`.pnpmfile.cjs`](https://pnpm.io/pnpmfile) goes further than any of these: the `readPackage` hook lets you programmatically rewrite any package’s `package.json` at install time, and `afterAllResolved` can modify the lockfile after resolution. It’s the nuclear option for dependency problems, living next to the lockfile and running before anything gets installed.\n\n[`constraints.txt`](https://pip.pypa.io/en/stable/user_guide/#constraints-files) is used via `pip install -c constraints.txt` to pin versions of packages without triggering their installation. It’s been available since pip 7.1, yet almost nobody uses it despite being exactly what large organizations need for base image management and reproducible environments. uv has `override-dependencies` in `[tool.uv]` for the same purpose with better ergonomics.\n\n[`Directory.Packages.props`](https://learn.microsoft.com/en-us/nuget/consume-packages/central-package-management) is worth knowing about if you work in .NET. NuGet’s Central Package Management (6.4+) lets you put a single file at the repo root that sets `<PackageVersion>` for all projects, so individual `.csproj` files use `<PackageReference>` without version numbers. It eliminates version drift across large solutions and is one of the better implementations of centralized version management I’ve seen. `Directory.Build.props` can inject shared package references into all projects too.\n\n[`gradle/libs.versions.toml`](https://docs.gradle.org/current/userguide/version_catalogs.html) is Gradle’s version catalog, with sections for `[versions]`, `[libraries]`, `[bundles]`, and `[plugins]`, referenced in build files as typed accessors like `libs.someLibrary`.\n\n`cabal.project` supports `constraints:` stanzas for pinning transitive Haskell deps, and `cabal.project.freeze` locks everything down.\n\n### Vendoring and integrity\n\nBeyond lockfiles, some package managers support vendoring all dependency source code into the repository and tracking its integrity.\n\n`.cargo-checksum.json` lives in each vendored crate directory after running [`cargo vendor`](https://doc.rust-lang.org/cargo/commands/cargo-vendor.html), containing the SHA256 of the original tarball and per-file checksums. If you need to patch vendored source (which you sometimes do for air-gapped builds), setting `\"files\": {}` in the checksum file disables integrity checking for that crate, which is the known workaround and also completely defeats the purpose of the checksums.\n\n[`GONOSUMCHECK` and `GONOSUMDB`](https://go.dev/ref/mod#private-modules) are Go environment variables that bypass the checksum database for private modules, which is how enterprises use Go modules without leaking internal module paths to Google’s infrastructure. Go’s `vendor/modules.txt` (generated by `go mod vendor`) lists vendored packages and their module versions, and the Go toolchain verifies it matches `go.mod`. If your repo has a `vendor/` directory and `go.mod` specifies Go 1.14+, vendoring is automatically enabled without any flag, which surprises people who have a stale vendor directory they forgot about.\n\n`.yarn/cache/` and `.pnp.cjs` make up Yarn Berry’s zero-install setup: compressed zip archives of every dependency and the Plug’n’Play loader mapping package names to zip locations, both committed to version control. After `git clone`, the project works without running `yarn install`, though your repository size will grow substantially.\n\n[`.terraform.lock.hcl`](https://developer.hashicorp.com/terraform/language/files/dependency-lock) records Terraform provider version locks with platform-specific hashes, which means a lock file generated on macOS may fail verification on Linux CI unless you’ve run `terraform providers lock` for multiple platforms.\n\n### Hooks and scripts\n\nLifecycle scripts that run during install, build, or publish. Supply chain attacks often hide here, but so does a lot of useful automation.\n\n[`.pnpmfile.cjs`](https://pnpm.io/pnpmfile) isn’t just for overrides. pnpm’s hooks API includes `readPackage` for rewriting manifests, `afterAllResolved` for modifying the resolved lockfile, and custom fetchers for alternative package fetching logic.\n\n`.yarn/plugins/` contains committed plugin files that hook into Yarn Berry’s lifecycle. `.yarn/sdks/` holds editor integration files generated by `@yarnpkg/sdks` to make PnP work with IDEs.\n\n`.mvn/extensions.xml` loads Maven extensions that hook into the build lifecycle before anything else runs. Gradle’s init scripts in `~/.gradle/init.d/` execute before every build and can inject repositories, apply plugins, or configure all projects. Cargo’s `build.rs` is a build script that runs before compilation, generating code, linking native libraries, or setting cfg flags. Go’s `//go:generate` directives in source files run via `go generate` for code generation, though they’re not part of the build itself.\n\nI’ll keep updating this post as I find more. If you know of package manager magic files I’ve missed or have corrections, reach out on [Mastodon](https://mastodon.social/@andrewnez) or submit a pull request on [GitHub](https://github.com/andrew/nesbitt.io).",
+        "url": "https://nesbitt.io/2026/03/05/package-manager-magic-files.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "2026-03-05T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
+        "summary": "<think>The user wants me to summarize an article titled \"Pluralistic: Blowtorching the frog (05 Mar 2026)\" about executive dysfunction. Looking at the content, this appears to be from Cory Doctorow's Pluralistic blog.\n\nLet me analyze what I can see:\n\n1. The article discusses a metaphor about a dangerous intersection (Ipsley Cross in the UK) where drivers and cyclists can see each other for a long time but still collide due to \"constant bearing, decreasing range\" - a phenomenon sailors understood causes ship collisions.\n\n2. The author connects this to climate emergency - where the severity isn't apparent until it's too late.\n\n3. The article is dated March 5, 2026 (which is a future date, suggesting this might be a creative/fictional piece or the date format is unusual).\n\n4. The title mentions \"executive dysfunction\" and \"blowtorching the frog\" - the latter refers to the metaphor of slowly heating a frog in water until it's too late to jump out.\n\n5. The article seems to be about how crises like climate change, like the intersection, create a false sense of security through gradual change that makes the collision (catastrophe) seem distant until it's unavoidable.\n\nThe summary should be 100-200 words, focusing on key points and main takeaways. I need to be concise but informative about the metaphorical argument being made.\n\nSince the article appears to be cut off in the provided content, I'll summarize based on what I can see - the intersection metaphor and its application to climate/existential crises.\n</think>\n\n# Summary\n\nThis article uses a dangerous UK road intersection as a metaphor for understanding why certain crises—like the climate emergency—prove so difficult to address before catastrophe strikes. The Ipsley Cross intersection creates an optical illusion called \"constant bearing, decreasing range,\" where drivers and cyclists can see each other for extended periods while simultaneously believing they won't collide. This phenomenon, long recognized by sailors as a cause of ship collisions, illustrates how gradual, incremental changes can mask impending disaster.\n\nThe author connects this to \"blowtorching the frog\"—the familiar metaphor about slowly heating water until it's too late to escape. Both scenarios share a dangerous quality: the threat is visible yet seems manageable until avoidance becomes impossible. The piece argues that this perceptual trap explains why existential threats like climate change fail to provoke sufficient urgency, even when the collision course is theoretically observable.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/05Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/05/executive-dysfunction/)\n\n## Today's links\n\n- [Blowtorching the frog](https://pluralistic.net/2026/03/05/executive-dysfunction/#crises-precipitate-change): If I must have enemies, let them be impatient ones.\n\n- [Hey look at this](https://pluralistic.net/2026/03/05/executive-dysfunction/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/05/executive-dysfunction/#retro): Bill Cosby v Waxy; Rodney King, 20 years on; Peter Watts v flesh-eating bacteria; American authoritarianism; Algebra II v Statistics for Citizenship; Ideas lying around; Banksy x Russian graffists; TSA v hand luggage; Hack your Sodastream; There were always enshittifiers.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/05/executive-dysfunction/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/05/executive-dysfunction/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/05/executive-dysfunction/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/05/executive-dysfunction/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/05/executive-dysfunction/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/blowtorch-frog.jpg?w=840&ssl=1)\n\n## Blowtorching the frog ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#crises-precipitate-change))\n\nBack in 2018, the Singletrack blog published a widely read article explaining the lethal trigonometry of a UK intersection where drivers kept hitting cyclists:\n\n[https://singletrackworld.com/2018/01/collision-course-why-this-type-of-road-junction-will-keep-killing-cyclists/](https://singletrackworld.com/2018/01/collision-course-why-this-type-of-road-junction-will-keep-killing-cyclists/)\n\nThere are lots of intersections that are dangerous for cyclists, of course, but what made Ipsley Cross so lethal was a kind of eldritch geometry that let the cyclist and the driver see each other a *long* time before the collision, while also providing the illusion that they were *not* going to collide, until an instant before the crash.\n\nThis intersection is an illustration of a phenomenon called \"constant bearing, decreasing range,\" which (the article notes) had long been understood by sailors as a reason that ships often collide. I'm not going to get into the trigonometry here (the Singletrack article does a great job of laying it out).\n\nI am, however, going to use this as a metaphor: there is a kind of collision that is almost always fatal because its severity isn't apparent until it is too late to avert the crash. Anyone who's been filled with existential horror at the looming climate emergency can certainly relate.\n\nThe metaphor isn't exact. \"Constant bearing, decreasing range\" is the result of an optical illusion that makes it seem like things are fine right up until they aren't. Our failure to come to grips with the climate emergency is (partly‡) caused by a different cognitive flaw: the fact that we struggle to perceive the absolute magnitude of a series of slow, small changes.\n\n‡The other part being the corrupting influence of corporate money in politics, obviously\n\nThis is the phenomenon that's invoked in the parable of \"boiling a frog.\" Supposedly, if you put a frog in a pot of water at a comfortable temperature and then slowly warm the water to boiling, the frog will happily swim about even as it is cooked alive. In this metaphor, the frog can only perceive *relative* changes, so all that it senses is that the water has gotten a *little* warmer, and a *small* change in temperature isn't anything to worry about, right? The fact that the *absolute* change to the water is lethal does not register for our (hypothetical) frog.\n\nNow, as it happens, frogs will *totally* leap clear of a pot of warming water when it reaches a certain temperature, irrespective of how slowly the temperature rises. But the metaphor persists, because while it does not describe the behavior of frogs in a gradually worsening situation, it *absolutely* describes how *humans* respond to small, adverse changes in our environment.\n\nTake moral compromises: most of us set out to be good people, but reality demands small compromises to our ethics. So we make a small ethical compromise, and then before long, circumstances demand another compromise, and then another, and another, and another. Taken *in toto*, these compromises represent a severe fall from our personal standards, but so long as they are dripped out in slow and small increments, too often we rationalize our way into them: each one is only a *small* compromise, after all:\n\n[https://pluralistic.net/2020/02/19/pluralist-19-feb-2020/#thinkdifferent](https://pluralistic.net/2020/02/19/pluralist-19-feb-2020/#thinkdifferent)\n\nBack to the climate emergency: for the first 25 years after NASA's James Hansen testified before Congress about \"global heating,\" the changes to our world were mostly incremental: droughts got a little worse, as did floods. We had a few more hurricanes. Ski seasons got shorter. Heat waves got longer. Taken individually, each of these changes was small enough for our collective consciousness to absorb as within the bounds of normalcy, or, at worst, just a *small* worsening. Sure, there *could* be a collision on the horizon, but it wasn't anything urgent enough to justify the massive effort of decarbonizing our energy and transportation:\n\n[https://locusmag.com/feature/cory-doctorow-the-swerve/](https://locusmag.com/feature/cory-doctorow-the-swerve/)\n\nIt's not that we're deliberately committing civilizational suicide, it's just that slow-moving problems are hard to confront, especially in a world replete with *fast-moving, urgent* problems.\n\nBut crises precipitate change:\n\n[https://www.youtube.com/watch?v=FrEdbKwivCI](https://www.youtube.com/watch?v=FrEdbKwivCI)\n\nBefore 2022, Europe was doing no better than the rest of the world when it came to confronting the climate emergency. Its energy mix was still dominated by fossil fuels, despite the increasing tempo of wildfires and floods and the rolling political crises touched off by waves of climate refugees. These were all dire and terrifying, but they were incremental, a drip-drip-drip of bad and worsening news.\n\nThen Putin invaded Ukraine, and the EU turned its back on Russian gas and oil. Overnight, Europe was plunged into an urgent energy crisis, confronted with the very real possibility that millions of Europeans would shortly find themselves shivering in the dark – and not just for a few nights, but for the long-foreseeable future.\n\nAt that moment, the slow-moving crisis of the climate became the Putin emergency. The fossil fuel industry – one of the most powerful and corrupting influences in Brussels and around the world – was sidelined. Europe raced to solarize. In three short years, the continent went from decades *behind* on its climate goals to a decade *ahead* on them:\n\n[https://pluralistic.net/2025/10/11/cyber-rights-now/#better-late-than-never](https://pluralistic.net/2025/10/11/cyber-rights-now/#better-late-than-never)\n\nPutin *could* have continued to stage minor incursions on Ukraine, none of them crossing any hard geopolitical red lines, and Europe would likely have continued to rationalize its way into continuing its reliance on Russia's hydrocarbon exports. But Putin lacked the patience to continue nibbling away at Ukraine. He tried to gobble it all down at once, and then *everything changed*.\n\nThere is a sense, then, in which Putin's impatient aggression was a feature, not a bug. But for Putin's lack of executive function, Ukraine might still be in danger of being devoured by Russia, but without Europe taking any meaningful steps to come to its aid – and Europe's solar transition would still be decades behind schedule.\n\nEnshittification is one of those drip-drip-drip phenomena, too. Platform bosses have a keen appreciation of how much value we deliver to one another – community, support, mutual aid, care – and they know that so long as we love each other more than we hate the people who own the platforms, we'll likely stay glued to them. Mark Zuckerberg is a master of \"twiddling\" the knobs on the back-ends of his platforms, announcing big, enshittifying changes, and then backing off on them to a level that's shittier than it used to be, but not as shitty as he'd threatened:\n\n[https://pluralistic.net/2023/02/19/twiddler/](https://pluralistic.net/2023/02/19/twiddler/)\n\nZuck is a colossal asshole, a man who founded his empire in a Harvard dorm room to nonconsensually rate the fuckability of his fellow undergrads, a man who knowingly abetted a genocide, a man who cheats at Settlers of Catan:\n\n[https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)\n\nBut despite all these disqualifying personality defects, Mark Zuckerberg has one virtue that puts him ahead of his social media competitor Elon Musk: Zuck has a rudimentary executive function, and so he is capable of backing down (sometimes, temporarily) from his shittiest ideas.\n\nContrast that with Musk's management of Twitter. Musk invaded Twitter the same year Putin invaded Ukraine, and embarked upon a string of absolutely unhinged and incontinent enshittificatory gambits that lacked any subtlety or discretion. Musk didn't boil the frog – he took one of his flamethrowers to it.\n\nMillions of people were motivated to hop out of Musk's Twitter pot. But millions more – including me – found ourselves mired there. It wasn't that we liked Musk's Twitter, but we had more reasons to stay than we had to go. For me, the fact that I'd amassed half a million followers since some old pals messaged me to say they'd started a new service called \"Twitter\" meant that leaving would come at a high price to my activism and my publishing career.\n\nBut Musk kept giving me reasons to reassess my decision to stay. Very early into the Musk regime, I asked my sysadmin Ken Snider to investigate setting up a Bluesky server that I could move to. I was already very active on Mastodon, which is designed to be impossible to enshittify the way Musk had done to Twitter, because you can always move from one Fediverse server to another if the management turns shitty:\n\n[https://pluralistic.net/2022/12/23/semipermeable-membranes/](https://pluralistic.net/2022/12/23/semipermeable-membranes/)\n\nBut for years, Bluesky's promise of federation remained just that – a promise. Technically, its architecture dangled the promise of multiple, independent Bluesky servers, but practically, there was no way to set this up:\n\n[https://pluralistic.net/2023/08/06/fool-me-twice-we-dont-get-fooled-again/](https://pluralistic.net/2023/08/06/fool-me-twice-we-dont-get-fooled-again/)\n\nBut – to Bluesky's credit – they eventually figured it out, and published the tools and instructions to set up your own Bluesky servers. Ken checked into it, and told me that it was all do-able, but not until a planned hardware upgrade to the Linux box he keeps in a colo cage in Toronto was complete. That upgrade happened a couple months ago, and yesterday, Ken let me know that he'd finished setting up a Bluesky server, just for me. So now I'm on Bluesky, at @doctorow.pluralistic.net:\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nI am on Bluesky, *the service*, but I am not a user of Bluesky, *the company*. That means that I'm able to interact with Bluesky users without clicking through Bluesky's abominable terms of service, through which you permanently surrender your right to sue the company (*even if you later quit Bluesky and join another server!*):\n\n[https://pluralistic.net/2025/08/15/dogs-breakfast/#by-clicking-this-you-agree-on-behalf-of-your-employer-to-release-me-from-all-obligations-and-waivers-arising-from-any-and-all-NON-NEGOTIATED-agreements](https://pluralistic.net/2025/08/15/dogs-breakfast/#by-clicking-this-you-agree-on-behalf-of-your-employer-to-release-me-from-all-obligations-and-waivers-arising-from-any-and-all-NON-NEGOTIATED-agreements)\n\nRemember: I knew and trusted the Twitter founders and I still got screwed. It's not enough for the people who run a service to be good people – they also have to take steps to insulate themselves (and their successors) from the kind of drip-drip-drip rationalizations that turn a series of small ethical waivers into a cumulative avalanche of pure wickedness:\n\n[https://pluralistic.net/2024/12/14/fire-exits/#graceful-failure-modes](https://pluralistic.net/2024/12/14/fire-exits/#graceful-failure-modes)\n\nBluesky's \"binding arbitration waiver\" does the exact opposite: rather than insulating Bluesky's management from their own future selves' impulse to do wrong, a binding arbitration waiver *permanently* insulates Bluesky from consequences if (when) they yield the temptation to harm their users.\n\nBut Bluesky's technical architecture offers a way to eat my cake and have it, too. By setting up a Bluesky (the service) account on a non-Bluesky (the company) server, I can join a social space that has lots of people I like, and lots of interesting technical innovations, like composable moderation, without submitting to the company's unacceptable terms of service:\n\n[https://bsky.social/about/blog/4-13-2023-moderation](https://bsky.social/about/blog/4-13-2023-moderation)\n\nIf Twitter was on the same slow enshittification drip-drip-drip of the pre-Musk years, I might have set up on Bluesky and stayed on Twitter. But thanks to Musk and his frog blowtorch, I'm able to make a break. For years now, I have posted this notice to Twitter nearly every day:\n\n> \n> Twitter gets worse every single day. Someday it will degrade beyond the point of usability. The Fediverse is our best hope for an enshittification-resistant alternative. I'm @pluralistic@mamot.fr.\n> \n\nToday, I am posting a modified version, which adds:\n\n> \n> If you'd like to follow me on Bluesky, I'm @doctorow.pluralistic.net. This is the last thread I will post to Twitter.\n> \n\nCrises precipitate change. All things being equal, the world would be a better place without Vladimir Putin or Elon Musk or Donald Trump in it. But these incontinent, impatient, terrible men do have a use: they transform slow-moving crises that are too gradual to galvanize action into emergencies that can't be ignored. Putin pushed the EU to break with fossil fuels. Musk pushed millions into federated social media. Trump is ushering in a post-American internet:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nIf you're reading this on Twitter, this is the long-promised notice that I'm done here. See you on the Fediverse, see you on Bluesky – see you in a world of enshittification-resistant social media.\n\nIt's been fun, until it wasn't.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- mctuscan heaven [https://www.tumblr.com/mcmansionhell/809937203073581056/mctuscan-heaven](https://www.tumblr.com/mcmansionhell/809937203073581056/mctuscan-heaven)\n\n- \nWhat's a Panama? [https://catvalente.substack.com/p/whats-a-panama](https://catvalente.substack.com/p/whats-a-panama)\n\n- \nThe AI Bubble Is An Information War [https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/)\n\n- \nThe Ticketmaster Monopoly Trial Starts [https://www.bigtechontrial.com/p/the-ticketmaster-monopoly-trial-starts](https://www.bigtechontrial.com/p/the-ticketmaster-monopoly-trial-starts)\n\n- \nHyperCard Changed Everything [https://www.youtube.com/watch?v=hxHkNToXga8](https://www.youtube.com/watch?v=hxHkNToXga8)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#retro))\n\n#20yrsago Waxy threatened with a lawsuit by Bill Cosby over “House of Cosbys” vids [https://waxy.org/2006/03/litigation_cosb/](https://waxy.org/2006/03/litigation_cosb/)\n\n#15yrsago Proposed TX law would criminalize TSA screening procedures [https://blog.tenthamendmentcenter.com/2011/03/texas-legislation-proposes-felony-charges-for-tsa-agents/](https://blog.tenthamendmentcenter.com/2011/03/texas-legislation-proposes-felony-charges-for-tsa-agents/)\n\n#15yrsago Rodney King: 20 years of citizen photojournalism [https://mediactive.com/2011/03/02/rodney-king-and-the-rise-of-the-citizen-photojournalist/](https://mediactive.com/2011/03/02/rodney-king-and-the-rise-of-the-citizen-photojournalist/)\n\n#15yrsago Mobile “bandwidth hogs” are just ahead of the curve [https://tech.slashdot.org/story/11/03/02/2027209/High-Bandwidth-Users-Are-Just-Early-Adopters](https://tech.slashdot.org/story/11/03/02/2027209/High-Bandwidth-Users-Are-Just-Early-Adopters)\n\n#15yrsago Peter Watts blogs from near-death experience with flesh-eating bacteria [https://www.rifters.com/crawl/?category_name=flesh-eating-fest-11](https://www.rifters.com/crawl/?category_name=flesh-eating-fest-11)\n\n#15yrsago How a HarperCollins library book looks after 26 checkouts (pretty good!) [https://www.youtube.com/watch?v=Je90XRRrruM](https://www.youtube.com/watch?v=Je90XRRrruM)\n\n#15yrsago Banksy bails out Russian graffiti artists [https://memex.craphound.com/2011/03/04/banksy-bails-out-russian-graffiti-artists/](https://memex.craphound.com/2011/03/04/banksy-bails-out-russian-graffiti-artists/)\n\n#15yrsago TSA wants hand-luggage fee to pay for extra screening due to checked luggage fees [https://web.archive.org/web/20110308142316/https://hosted.ap.org/dynamic/stories/U/US_TSA_BAGGAGE_FEES?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2011-03-03-16-50-03](https://web.archive.org/web/20110308142316/https://hosted.ap.org/dynamic/stories/U/US_TSA_BAGGAGE_FEES?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2011-03-03-16-50-03)\n\n#15yrsago US house prices fall to 1890s levels (where they usually are) [https://www.csmonitor.com/Business/Paper-Economy/2011/0303/Home-prices-falling-to-level-of-1890s](https://www.csmonitor.com/Business/Paper-Economy/2011/0303/Home-prices-falling-to-level-of-1890s)\n\n#10yrsago Whuffie would be a terrible currency [https://locusmag.com/feature/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/](https://locusmag.com/feature/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/)\n\n#10yrsago Ditch your overpriced Sodastream canisters in favor of refillable CO2 tanks [https://www.wired.com/2016/03/sodamod/](https://www.wired.com/2016/03/sodamod/)\n\n#10yrsago Why the First Amendment means that the FBI can’t force Apple to write and sign code [https://www.eff.org/files/2016/03/03/16cm10sp_eff_apple_v_fbi_amicus_court_stamped.pdf](https://www.eff.org/files/2016/03/03/16cm10sp_eff_apple_v_fbi_amicus_court_stamped.pdf)\n\n#10yrsago Apple vs FBI: The privacy disaster is inevitable, but we can prevent the catastrophe [https://www.theguardian.com/technology/2016/mar/04/privacy-apple-fbi-encryption-surveillance](https://www.theguardian.com/technology/2016/mar/04/privacy-apple-fbi-encryption-surveillance)\n\n#10yrsago The 2010 election was the most important one in American history [https://www.youtube.com/watch?v=fw41BDhI_K8](https://www.youtube.com/watch?v=fw41BDhI_K8)\n\n#10yrsago As Apple fights the FBI tooth and nail, Amazon drops Kindle encryption [https://web.archive.org/web/20160304055204/https://motherboard.vice.com/read/amazon-removes-device-encryption-fire-os-kindle-phones-and-tablets](https://web.archive.org/web/20160304055204/https://motherboard.vice.com/read/amazon-removes-device-encryption-fire-os-kindle-phones-and-tablets)\n\n#10yrsago Understanding American authoritarianism [https://web.archive.org/web/20160301224922/https://www.vox.com/2016/3/1/11127424/trump-authoritarianism](https://web.archive.org/web/20160301224922/https://www.vox.com/2016/3/1/11127424/trump-authoritarianism)\n\n#10yrsago Proposal: replace Algebra II and Calculus with “Statistics for Citizenship” [https://web.archive.org/web/20190310081625/https://slate.com/human-interest/2016/03/algebra-ii-has-to-go.html](https://web.archive.org/web/20190310081625/https://slate.com/human-interest/2016/03/algebra-ii-has-to-go.html)\n\n#10yrsago Panorama: the largest photo ever made of NYC [https://360gigapixels.com/nyc-skyline-photo-panorama/](https://360gigapixels.com/nyc-skyline-photo-panorama/)\n\n#1yrago Ideas Lying Around [https://pluralistic.net/2025/03/03/friedmanite/#oil-crisis-two-point-oh](https://pluralistic.net/2025/03/03/friedmanite/#oil-crisis-two-point-oh)\n\n#1yrago There Were Always Enshittifiers [https://pluralistic.net/2025/03/04/object-permanence/#picks-and-shovels](https://pluralistic.net/2025/03/04/object-permanence/#picks-and-shovels)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- San Francisco: Launch for Cindy Cohn's \"Privacy's Defender\" (City Lights), Mar 10\n\n[https://citylights.com/events/cindy-cohn-launch-party-for-privacys-defender/](https://citylights.com/events/cindy-cohn-launch-party-for-privacys-defender/)\n\n- \nBarcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nLondon: Resisting Big Tech Empires (LSBU)\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#recent))\n\n- Tanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n- \nThe Lost Cause\n\n[https://streets.mn/2026/03/02/book-club-the-lost-cause/](https://streets.mn/2026/03/02/book-club-the-lost-cause/)\n\n- \nShould Democrats Make A Nuremberg Caucus? (Make It Make Sense)\n\n[https://www.youtube.com/watch?v=MWxKrnNfrlo](https://www.youtube.com/watch?v=MWxKrnNfrlo)\n\n- \nMaking The Internet Suck Less (Thinking With Mitch Joel)\n\n[https://www.sixpixels.com/podcast/archives/making-the-internet-suck-less-with-cory-doctorow-twmj-1024/](https://www.sixpixels.com/podcast/archives/making-the-internet-suck-less-with-cory-doctorow-twmj-1024/)\n\n- \nPanopticon :3 (Trashfuture)\n\n[https://www.patreon.com/posts/panopticon-3-150395435](https://www.patreon.com/posts/panopticon-3-150395435)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/05/executive-dysfunction/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1066 words today, 43341 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/05/executive-dysfunction/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "Thu, 05 Mar 2026 19:31:30 +0000",
+        "reading_time": 19,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "AI And The Ship of Theseus - <think>The user wants me to summarize an article titled \"AI And The Ship of Theseus\" in 10...",
+    "JJ LSP Follow Up - <think>The user wants me to summarize an article about JJ LSP Follow Up Content in 100-200...",
+    "Can coding agents relicense open source through a “clean room” implementation of code? - <think>The user wants me to summarize this article in 100-200 words. Let me analyze the ke...",
+    "Package Manager Magic Files - <think>The user wants me to summarize an article about package manager configuration files...",
+    "Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction - <think>The user wants me to summarize an article titled \"Pluralistic: Blowtorching the fro..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 22
+    },
+    {
+      "word": "code",
+      "count": 17
+    },
+    {
+      "word": "files",
+      "count": 15
+    },
+    {
+      "word": "lsp",
+      "count": 13
+    },
+    {
+      "word": "ai",
+      "count": 11
+    },
+    {
+      "word": "think",
+      "count": 10
+    },
+    {
+      "word": "key",
+      "count": 10
+    },
+    {
+      "word": "points",
+      "count": 10
+    },
+    {
+      "word": "author",
+      "count": 10
+    },
+    {
+      "word": "summary",
+      "count": 10
+    },
+    {
+      "word": "like",
+      "count": 10
+    },
+    {
+      "word": "package",
+      "count": 9
+    },
+    {
+      "word": "main",
+      "count": 8
+    },
+    {
+      "word": "words",
+      "count": 8
+    },
+    {
+      "word": "summarize",
+      "count": 8
+    },
+    {
+      "word": "let",
+      "count": 7
+    },
+    {
+      "word": "library",
+      "count": 7
+    },
+    {
+      "word": "original",
+      "count": 7
+    },
+    {
+      "word": "implementation",
+      "count": 7
+    },
+    {
+      "word": "it's",
+      "count": 6
+    },
+    {
+      "word": "ship",
+      "count": 6
+    },
+    {
+      "word": "reimplemented",
+      "count": 6
+    },
+    {
+      "word": "lgpl",
+      "count": 6
+    },
+    {
+      "word": "pilgrim",
+      "count": 6
+    },
+    {
+      "word": "software",
+      "count": 6
+    },
+    {
+      "word": "jj",
+      "count": 6
+    },
+    {
+      "word": "content",
+      "count": 6
+    },
+    {
+      "word": "version",
+      "count": 6
+    },
+    {
+      "word": "coding",
+      "count": 6
+    },
+    {
+      "word": "agents",
+      "count": 6
+    },
+    {
+      "word": "configuration",
+      "count": 6
+    },
+    {
+      "word": "work",
+      "count": 5
+    },
+    {
+      "word": "user",
+      "count": 5
+    },
+    {
+      "word": "wants",
+      "count": 5
+    },
+    {
+      "word": "concise",
+      "count": 5
+    },
+    {
+      "word": "chardet",
+      "count": 5
+    },
+    {
+      "word": "relicensing",
+      "count": 5
+    },
+    {
+      "word": "mark",
+      "count": 5
+    },
+    {
+      "word": "legal",
+      "count": 5
+    },
+    {
+      "word": "control",
+      "count": 5
+    },
+    {
+      "word": "clean",
+      "count": 5
+    },
+    {
+      "word": "room",
+      "count": 5
+    },
+    {
+      "word": "manager",
+      "count": 5
+    },
+    {
+      "word": "settings",
+      "count": 5
+    },
+    {
+      "word": "security",
+      "count": 5
+    },
+    {
+      "word": "frog",
+      "count": 5
+    },
+    {
+      "word": "metaphor",
+      "count": 5
+    },
+    {
+      "word": "intersection",
+      "count": 5
+    },
+    {
+      "word": "climate",
+      "count": 5
+    },
+    {
+      "word": "message",
+      "count": 4
+    },
+    {
+      "word": "approach",
+      "count": 4
+    },
+    {
+      "word": "client",
+      "count": 4
+    },
+    {
+      "word": "proxy",
+      "count": 4
+    },
+    {
+      "word": "write",
+      "count": 4
+    },
+    {
+      "word": "theseus",
+      "count": 4
+    },
+    {
+      "word": "takeaways",
+      "count": 4
+    },
+    {
+      "word": "discusses",
+      "count": 4
+    },
+    {
+      "word": "different",
+      "count": 4
+    },
+    {
+      "word": "maintainer",
+      "count": 4
+    },
+    {
+      "word": "enabling",
+      "count": 4
+    },
+    {
+      "word": "questions",
+      "count": 4
+    },
+    {
+      "word": "analyze",
+      "count": 4
+    },
+    {
+      "word": "virtual",
+      "count": 4
+    },
+    {
+      "word": "exposure",
+      "count": 4
+    },
+    {
+      "word": "change",
+      "count": 4
+    },
+    {
+      "word": "npmrc",
+      "count": 4
+    },
+    {
+      "word": "yarnrc",
+      "count": 4
+    },
+    {
+      "word": "blowtorching",
+      "count": 4
+    },
+    {
+      "word": "dispatched",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "michelangelo",
+      "count": 3
+    },
+    {
+      "word": "routing",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "significant",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "informative",
+      "count": 3
+    },
+    {
+      "word": "example",
+      "count": 3
+    },
+    {
+      "word": "considers",
+      "count": 3
+    },
+    {
+      "word": "implementations",
+      "count": 3
+    },
+    {
+      "word": "gpl",
+      "count": 3
+    },
+    {
+      "word": "copyleft",
+      "count": 3
+    },
+    {
+      "word": "copyright",
+      "count": 3
+    },
+    {
+      "word": "due",
+      "count": 3
+    },
+    {
+      "word": "piece",
+      "count": 3
+    },
+    {
+      "word": "word",
+      "count": 3
+    },
+    {
+      "word": "licensing",
+      "count": 3
+    },
+    {
+      "word": "views",
+      "count": 3
+    },
+    {
+      "word": "tools",
+      "count": 3
+    },
+    {
+      "word": "development",
+      "count": 3
+    },
+    {
+      "word": "magit-style",
+      "count": 3
+    },
+    {
+      "word": "feature",
+      "count": 3
+    },
+    {
+      "word": "documents",
+      "count": 3
+    },
+    {
+      "word": "diff",
+      "count": 3
+    },
+    {
+      "word": "create",
+      "count": 3
+    },
+    {
+      "word": "dan",
+      "count": 3
+    },
+    {
+      "word": "blanchard",
+      "count": 3
+    },
+    {
+      "word": "rewrite",
+      "count": 3
+    },
+    {
+      "word": "implications",
+      "count": 3
+    },
+    {
+      "word": "focusing",
+      "count": 3
+    },
+    {
+      "word": "registry",
+      "count": 3
+    }
+  ]
+}
