@@ -1,0 +1,851 @@
+{
+  "date": "2026-03-10",
+  "stats": {
+    "total_fetched": 276,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Simplifying expressions in SymPy",
+        "summary": "The previous post looked at why Mathematica does not simplify the expression Sinh[ArcCosh[x]] the way you might think it should. This post will be a sort of Python analog of the previous post. SymPy is a Python library t...",
+        "url": "https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 10 Mar 2026 16:08:15 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "sinh( arccosh(x) )",
+        "summary": "I’ve written several posts about applying trig functions to inverse trig functions. I intended to write two posts, one about the three basic trig functions and one about their hyperbolic counterparts. But there’s more to...",
+        "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 10 Mar 2026 15:12:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Unstructured Data and the Joy of having Something Else think for you",
+        "summary": "I'm sure we have all met a person like this: People who have an AI habit use it by default. I have watched someone ask ChatGPT the weather for tomorrow rather than simply open the weather app. Another time, they asked AI...",
+        "url": "https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "Tue, 10 Mar 2026 12:34:59 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A snappy answer when asked about dressing casually at IBM",
+        "summary": "Oh, this old thing? The post A snappy answer when asked about dressing casually at IBM appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 10 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Beginning Of History",
+        "summary": "Hi! If you like this piece and want to support my work, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 185,000 wo...",
+        "url": "https://www.wheresyoured.at/the-beginning-of-history/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 10 Mar 2026 18:34:49 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "When the dotcom bubble burst",
+        "summary": "26 years ago, on March 10, 2000, the dotcom bubble reached its peak. The tech-heavy NASDAQ reached its peak that day at 5,048.62, before the bubble burst and stocks went tumbling. Pinpointing when the dotcom bubble burst...",
+        "url": "https://dfarq.homeip.net/when-the-dotcom-bubble-burst/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-dotcom-bubble-burst",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 10 Mar 2026 11:00:45 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Update to the Ghost theme that powers this site",
+        "summary": "I added a few modifications to the OSS Ghost theme that powers this site. You can get it here: https://gitlab.com/matdevdug/minimal-ghost-theme Added better image caption support. Added the cool Mastodon feature outlined...",
+        "url": "https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/",
+        "source": "matduggan.com",
+        "tags": [
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Tue, 10 Mar 2026 09:26:47 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 494",
+        "summary": "Since starting HIBP a dozen and a bit years ago, I've loaded an average of one breach every 4.7 days. That's 959 of them to date, but last week it was five in only two days. That's a few weeks' worth of",
+        "url": "https://www.troyhunt.com/weekly-update-494/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 10 Mar 2026 01:29:35 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Translating risk insights into actionable protection: leveling up security posture with Cloudflare and Mastercard",
+        "summary": "Cloudflare will be integrating Mastercard’s RiskRecon attack surface intelligence capabilities to help you eliminate Internet-facing blind spots while continuously monitoring and closing security gaps.",
+        "url": "https://blog.cloudflare.com/attack-surface-intelligence/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 10 Mar 2026 05:05:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Investigating multi-vector attacks in Log Explorer",
+        "summary": "Log Explorer customers can now identify and investigate multi-vector attacks. Log Explorer supports 14 additional Cloudflare datasets, enabling users to have a 360-degree view of their network.",
+        "url": "https://blog.cloudflare.com/investigating-multi-vector-attacks-in-log-explorer/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud"
+        ],
+        "published_at": "Tue, 10 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Building a security overview dashboard for actionable insights",
+        "summary": "Cloudflare's new Security Overview dashboard transforms overwhelming security data into prioritized, actionable insights, empowering defenders with contextual intelligence on vulnerabilities.",
+        "url": "https://blog.cloudflare.com/security-overview-dashboard/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Tue, 10 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Other"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Product"
+        ],
+        "published_at": "2026-03-10T22:17:43.876Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "HN Skins 0.4.0 - Black Bar Updates",
+        "summary": "<think>The user wants me to summarize an article about HN Skins 0.4.0 in 100-200 words. Let me identify the key points:\n\n1. HN Skins 0.4.0 is a minor update to a browser userscript\n2. It adds custom themes to Hacker News\n3. The update fixes an issue with the commemorative black bar\n4. The black bar appears when notable figures in tech/science pass away\n5. Some skins were obscuring this bar\n6. In dark themes, the bar is now rendered as lighter grey for contrast\n7. The fix was prompted by Tony Hoare's passing\n8. Screenshots are available\n9. Installation instructions are provided\n\nNow I need to write a concise summary in 100-200 words that captures these key points.\n</think>\n\n**Summary**\n\nHN Skins 0.4.0 is a minor update to a web browser userscript that provides custom themes for Hacker News. This release addresses an issue where certain skins could obscure the commemorative black bar that HN displays when notable technology or science figures pass away. The update ensures this tribute bar remains visible, with dark-themed skins now rendering it in a lighter grey shade to maintain proper contrast. The fix was motivated by Tony Hoare's passing, which revealed the rendering problem. Users can view screenshots demonstrating the bar's appearance across different skins and find installation instructions on the project's GitHub repository.",
+        "content": "By **Susam Pal** on 10 Mar 2026\n\n  HN Skins 0.4.0 is a minor update to HN Skins, a web browser\n  userscript that adds custom themes to Hacker News and lets you\n  browse HN with a variety of visual styles.  This release introduces\n  a small fix to preserve the commemorative black bar that\n  occasionally appears at the top of the page.\n\n  When a notable figure in technology or science passes away, Hacker\n  News places a thin black bar at the top of the page in tribute.\n  Previously some skins could obscure this element.  This update\n  ensures that the bar remains visible and clearly noticeable.  In\n  dark themed skins, the black bar is rendered as a lighter shade of\n  grey so that it maintains sufficient contrast and remains\n  conspicuous.\n\n  Today Hacker News has\n  [a story\n  about Tony Hoare passing away](https://news.ycombinator.com/item?id=47324054), which made me notice that the\n  commemorative black bar was not rendered properly with some skins.\n  This prompted me to investigate the issue and implement the fix\n  included in this release.\n\n  Screenshots showing how the bar appears with different skins are\n  available at\n  [susam.github.io/blob/img/hnskins/0.4.0/](https://susam.github.io/blob/img/hnskins/0.4.0/).\n\n  To install HN Skins,\n  visit [github.com/susam/hnskins](https://github.com/susam/hnskins#readme)\n  and follow the instructions there.",
+        "url": "https://susam.net/code/news/hnskins/0.4.0.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Tue, 10 Mar 2026 00:00:00 +0000",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I'm Not Lying, I'm Hallucinating ",
+        "summary": "<think>The user wants me to summarize an article titled \"I'm Not Lying, I'm Hallucinating Content\" in 100-200 words. Let me analyze the key points:\n\n1. Andrej Karpathy coined or popularized terms like \"vibe coding\" and revived \"hallucination\"\n2. \"Hallucination\" as a term existed since the 1970s, used to describe AI failures in text summarization\n3. Karpathy's use shifted the meaning from \"prediction error\" to something more like a dream/vision\n4. LLMs don't throw errors - they hallucinate\n5. When LLMs invent facts, they're not lying, they're hallucinating\n6. The author criticizes framing all LLM failures as a \"neurological disorder\"\n7. The author hopes models will learn to say \"I don't know\"\n8. The author jokes they'll use the term for themselves when caught in errors\n\nThe tone is somewhat humorous and critical. I need to summarize this concisely in 100-200 words while capturing the main points.\n\nLet me write a summary:\n</think>\n\n# Summary\n\nAndrej Karpathy has popularized terms like \"vibe coding\" and revived \"hallucination\" for AI contexts. While \"hallucination\" existed since the 1970s to describe AI summarization failures, Karpathy shifted its meaning from \"prediction error\" to something resembling a dream or vision. The author argues this reframing is problematic: when large language models invent facts, they're not lying—they're \"hallucinating.\" Every new model promises improvement yet continues hallucinating. The author criticizes how all failures are now framed as a kind of neurological disorder, avoiding accountability. They hope future models will simply admit \"I don't know\" instead. The author concludes with humor, adopting the term for themselves: if caught in an error, they're not lying, just hallucinating.",
+        "content": "Andrej Karpathy has a gift for coining terms that quickly go mainstream. When I heard \"vibe coding,\" it just made sense. It perfectly captured the experience of programming without really engaging with the code. You just vibe until the application does what you want.\n\nThen there's \"hallucination.\" He didn't exactly invent it. The term has existed since the 1970s. In one early instance, it was used to describe a text summarization program's failure to accurately summarize its source material. But Karpathy's revival of the term brought it back into the mainstream, and subtly shifted its meaning, from \"prediction error\" to something closer to a dream or a vision.\n\nNow, large language models don't throw errors. They hallucinate. When they invent facts or bend the truth, they're not lying. They're hallucinating. And with every new model that comes out and promises to stay clean off drugs, it still hallucinates.\n\nAn LLM can do no wrong when all its failures are framed as neurological disorder. For my part, I hope there's a real effort to teach these models to simply say \"I don't know.\" But in the meantime, I'll adopt the term for myself. If you ever suspect I'm lying, or catch me red-handed, just know that it's not my fault. [I'm just hallucinating](https://idiallo.com/blog/stopped-sleeping-started-hallucinating).",
+        "url": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 10 Mar 2026 20:43:30 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "LLMs are bad at vibing specifications",
+        "summary": "<think>The user wants me to summarize an article titled \"LLMs are bad at vibing specifications\" in 100-200 words. Let me analyze the key points:\n\n1. The author wrote about AI being a \"specification force multiplier\" for TLA+ users about a year ago\n2. 4% of GitHub TLA+ specs now contain \"Claude\" - showing interest in formal methods but also revealing issues\n3. The author examines a project that used AI to generate TLA+ and Alloy specs\n4. The Alloy spec provided doesn't compile - missing an import statement\n5. It uses Boolean incorrectly - should use subtyping instead\n6. The person didn't actually run the specs\n7. Even in TLA+, the author sees specs that won't model check properly\n8. The assertions don't actually enforce anything meaningful - they're tautologies\n9. The core issue: AI can generate syntactically correct code that doesn't actually verify the intended properties\n\nThe main takeaway: LLMs can produce specifications that look correct but fail to actually verify the properties they're meant to check. They \"vibe\" specifications without understanding the semantics.\n\nLet me write a concise summary in 100-200 words.\n</think>\n\n# Summary: LLMs Are Bad at Vibing Specifications\n\nThe author reflects on their prediction that AI would be a \"specification force multiplier\" for formal methods like TLA+ and Alloy. While 4% of GitHub TLA+ specs now reference Claude—indicating strong interest—beginners using AI to write formal specs face significant problems.\n\nAnalyzing an AI-generated Alloy specification, the author found it didn't compile (missing a required import) and used Boolean types incorrectly instead of proper subtyping. The spec's assertions were essentially tautologies that verified nothing meaningful.\n\nThe core issue is that LLMs can generate syntactically correct specifications that fail to actually verify intended properties. They \"vibe\" specifications—producing something that looks right—without understanding the semantics or ensuring the code actually enforces the desired constraints. This highlights a critical gap: while AI can lower barriers to formal methods entry, generated specifications require expert verification to ensure they actually work as intended.",
+        "content": "### No newsletter next week\n\nI'll be speaking at [InfoQ London](https://qconlondon.com/). But see below for a book giveaway!\n\n## LLMs are bad at vibing specifications\n\nAbout a year ago I wrote [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/), which argued that AI are a \"specification force multiplier\". That was written from the perspective an TLA+ expert using these tools. A full [4% of Github TLA+ specs](https://github.com/search?q=path%3A*.tla+NOT+is%3Afork+claude&type=code) now have the word \"Claude\" somewhere in them. This is interesting to me, because it suggests there was always an interest in formal methods, people just lacked the skills to do it.  \n\nIt's also interesting because it gives me a sense of what happens when beginners use AI to write formal specs. It's not good.\n\nAs a case study, we'll use [this project](https://github.com/myProjectsRavi/sentinel-protocol/tree/main/docs/formal/specs), which is kind of enough to have vibed out TLA+ and Alloy specs.\n\n### Looking at a project\n\n[Starting with the Alloy spec](https://github.com/myProjectsRavi/sentinel-protocol/blob/main/docs/formal/specs/threat-intel-mesh.als). Here it is in its entirety:\n\n`module ThreatIntelMesh\n\nsig Node {}\n\none sig LocalNode extends Node {}\n\nsig Snapshot {\n  owner: one Node,\n  signed: one Bool,\n  signatures: set Signature\n}\n\nsig Signature {}\n\nsig Policy {\n  allowUnsignedImport: one Bool\n}\n\npred canImport[p: Policy, s: Snapshot] {\n  (p.allowUnsignedImport = True) or (s.signed = True)\n}\n\nassert UnsignedImportMustBeDenied {\n  all p: Policy, s: Snapshot |\n    p.allowUnsignedImport = False and s.signed = False implies not canImport[p, s]\n}\n\nassert SignedImportMayBeAccepted {\n  all p: Policy, s: Snapshot |\n    s.signed = True implies canImport[p, s]\n}\n\ncheck UnsignedImportMustBeDenied for 5\ncheck SignedImportMayBeAccepted for 5\n`\n\nCouple of things to note here: first of all, this doesn't actually compile. It's using the [Boolean](https://alloy.readthedocs.io/en/latest/modules/boolean.html) standard module so needs `open util/boolean` to function. Second, Boolean is the wrong approach here; you're supposed to use subtyping. \n\n`sig Snapshot {\n  owner: one Node,\n- signed: one Bool,\n  signatures: set Signature\n}\n\n+ sig SignedSnapshot in Snapshot {}\n\npred canImport[p: Policy, s: Snapshot] {\n- s.signed = True\n+ s in SignedSnapshot\n}\n`\n\nSo we know the person did not actually run these specs. This is *somewhat* less of a problem in TLA+, which has an official MCP server that lets the agent run model checking. Even so, I regularly see specs that I'm pretty sure won't model check, with things like using `Reals` or assuming `NULL` is a built-in and not a user-defined constant.\n\nThe bigger problem with the spec is that `UnsignedImportMustBeDenied` and `SignedImportMayBeAccepted` *don't actually do anything*. `canImport` is defined as `P || Q`. `UnsignedImportMustBeDenied` checks that `!P && !Q => !canImport`. `SignedImportMayBeAccepted` checks that `P => canImport`. These are tautologically true! If they do anything at all, it is only checking that `canImport` was defined correctly. \n\nYou see the same thing in the [TLA+ specs](https://github.com/myProjectsRavi/sentinel-protocol/blob/main/docs/formal/specs/serialization-firewall.tla), too:\n\n`GadgetPayload ==\n  /\\ gadgetDetected' = TRUE\n  /\\ depth' \\in 0..(MaxDepth + 5)\n  /\\ UNCHANGED allowlistedFormat\n  /\\ decision' = \"block\"\n\nNoExploitAllowed == gadgetDetected => decision = \"block\"\n`\n\nThe AI is only writing \"obvious properties\", which fail for reasons like \"we missed a guard clause\" or \"we forgot to update a variable\". It does not seem to be good at writing \"subtle\" properties that fail due to concurrency, nondeterminism, or bad behavior separated by several steps. Obvious properties are useful for orienting yourself and ensuring the system behaves like you expect, but the actual value in using formal methods comes from the subtle properties. \n\n(This ties into [Strong and Weak Properties](https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/). LLM properties are weak, intended properties need to be strong.)\n\nThis is a problem I see in almost every FM spec written by AI. LLMs aren't doing one of the core features of a spec. Articles like [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html) and [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html) argue that LLMs will make formal methods go mainstream, but being easily able to write specifications doesn't help with correctness if the specs don't actually verify anything.\n\n### Is this a user error?\n\nI first got interested in LLMs and TLA+ from [The Coming AI Revolution in Distributed Systems](https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html). The author of that later [vibecoded a spec](https://github.com/zfhuang99/lamport-agent/blob/main/spec/CRAQ/CRAQ.tla) with a considerably more complex property:\n\n`NoStaleStrictRead ==\n  \\A i \\in 1..Len(eventLog) :\n    LET ev == eventLog[i] IN\n      ev.type = \"read\" =>\n        LET c == ev.chunk IN\n        LET v == ev.version IN\n        /\\ \\A j \\in 1..i :\n             LET evC == eventLog[j] IN\n               evC.type = \"commit\" /\\ evC.chunk = c => evC.version <= v\n`\n\nThis is a lot more complicated than the `(P => Q && P) => Q` properties I've seen! It could be because [the corresponding system already had a complete spec written in P](https://github.com/deepseek-ai/3FS/tree/main/specs/DataStorage). But it could also be that Cheng Huang is already an expert specifier, meaning he can get more out of an LLM than an ordinary developer can. I've also noticed that I can usually coax an LLM to do more interesting things than most of my clients can. Which is good for my current livelihood, but bad for the hope of LLMs making formal methods mainstream. If you need to know formal methods to get the LLM to do formal methods, is that really helping?\n\n(Yes, if it lowers the skill threshold-- means you can apply FM with 20 hours of practice instead of 80. But the jury's still out on how *much* it lowers the threshold. What if it only lowers it from 80 to 75?) \n\nOn the other hand, there also seem to be some properties that AI struggles with, even with explicit instructions. Last week a client and I tried to get Claude to generate a good [liveness](https://www.hillelwayne.com/post/safety-and-liveness/) or [action](https://www.hillelwayne.com/post/action-properties/) property instead of a standard obvious invariant, and it just couldn't. Training data issue? Something in the innate complexity of liveness? It's not clear yet. These properties are even more \"subtle\" than most invariants, so maybe that's it.\n\nOn the other other hand, this is all as of March 2026. Maybe this whole article will be laughably obsolete by June. \n\n### [Logic for Programmers](https://logicforprogrammers.com/) Giveaway\n\nLast week's giveaway raised a few issues. First, the New World copies were all taken before all of the emails went out, so a lot of people did not even get a chance to try for a book. Second, due to a Leanpub bug the Europe coupon scheduled for 10 AM UTC actually activated at 10 AM my time, which was early evening for Europe. Third, everybody in the APAC region got left out.\n\nSo, since I'm not doing a newsletter next week, let's have another giveaway:\n\n- [This coupon](https://leanpub.com/logic/c/E5A55F7B482C3) will go up 2026-03-16 at 11:00 UTC, which should be noon Central European Time, and be good for ten books (five for this giveaway, five to account for last week's bug).\n\n- [This coupon](https://leanpub.com/logic/c/ADC664C95B6D1) will go up 2026-03-17 at 04:00 UTC, which should be noon Beijing Time, and be good for five books.\n\n- [This coupon](https://leanpub.com/logic/c/U1250212A9070) will go up 2026-03-17 at 17:00 UTC, which should be noon Central US Time, and also be good for five books.\n\nI think that gives the best chance of everybody getting at least a chance of a book, while being resilient to timezone shenanigans due to travel / Leanpub dropping bugfixes / daylight savings / whatever. \n\n(No guarantees that later \"no newsletter\" weeks will have giveaways! This is a gimmick)",
+        "url": "https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/",
+        "source": "Computer Things",
+        "tags": [
+          "AI/ML",
+          "Algorithms"
+        ],
+        "published_at": "Tue, 10 Mar 2026 17:12:30 +0000",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Writing an LLM from scratch, part 32e -- Interventions: the learning rate",
+        "summary": "<think>The user wants me to summarize an article about learning rate in LLM training. Let me analyze the content:\n\n1. **Writing Type**: Technical blog post summary\n2. **Style**: Semi-formal, informative, concise\n3. **Audience**: People interested in machine learning, likely practitioners or students\n4. **Structure**: Need to capture the key points about learning rate, cosine cycling, and the author's exploration\n\nKey points from the article:\n- The author is training a GPT-2 small model from scratch\n- They're using AdamW optimizer with learning rate 0.0004 and weight decay 0.1 (copied from a book)\n- The author questions whether these are the right values\n- They want to understand what learning rate means and how to determine the correct value\n- They mention the Chinchilla paper's \"cosine cycle\" for learning rate\n- The article focuses on learning rate exploration (with weight decay to be covered later)\n- The article explains gradient descent basics with a single parameter example\n\nThe article appears to be part of a series, and this particular post is about exploring and understanding learning rate interventions.\n\nFor the summary, I need to:\n- Keep it 100-200 words\n- Focus on key points and main takeaways\n- Be concise and informative\n- Use primarily prose, minimal lists\n\nLet me write a summary that captures the essence of the article.\n</think>\n\nThe author explores learning rate optimization while training a GPT-2 small model from scratch, questioning whether the default values (0.0004 learning rate, 0.1 weight decay) from Sebastian Raschka's book are appropriate for their specific use case. They examine how learning rate functions in gradient descent, using a single-parameter example to illustrate how gradients guide parameter updates toward loss minimization. The author was introduced to the concept of \"cosine cycle\" learning rate schedules through the Chinchilla paper, which differed from traditional approaches they'd encountered. By investigating these concepts, they aim to make informed decisions about hyperparameter selection rather than blindly copying values from examples. This post focuses specifically on learning rate, with weight decay to be addressed in a follow-up article.",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    I'm still working on improving the test loss for a from-scratch GPT-2 small base model, trained on code based on\n[Sebastian Raschka](https://sebastianraschka.com/)'s book\n\"[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)\".\n\nIn my training code, I have this code to create the optimiser:\n\n`    optimizer = torch.optim.AdamW(\n        model.parameters(),\n        lr=0.0004, weight_decay=0.1\n    )\n`\n\nThe values in there -- `0.0004` for the learning rate, and `0.1` for the weight\ndecay -- were just copied from the tiny training run that we do in section 5.2 of\nthe book.\n\nWhat do those values actually mean, and are those really the right values for them?\n\nI felt I had a good handle on the learning rate, at least -- it's one of the first\nthings you learn when you start looking at machine learning of any kind -- but how would\nyou go about working out what the correct value for it was?\nOn top of that, when\nI was reading [the Chinchilla paper](https://arxiv.org/abs/2203.15556) a while back,\nI noticed they repeatedly referred to a \"cosine cycle\" for the learning rate, which didn't\nfit into anything I'd learned about before.\n\nThe weight decay was pretty much an unknown for me -- I know it is a parameter\ncontrolling the behaviour of the optimiser, but I don't know how it does that.\n\nIn this post I want to look into the learning rate, and these mysterious cosines;\nI'll write a follow-up about the weight decay later.\n\n    \n        \n### The learning rate: a refresher\n\nIf you're reading this blog, you almost certainly know what the learning rate is,\nbut let's go over it briefly to build a solid foundation.\n\nThe way it's normally explained, using simple gradient descent, goes something like this.  Let's assume that we're\ntraining a model with just one parameter, and it starts off set to −5.  We run some training data through, and get\na loss, let's say 44.44:\n\n![First loss point](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot1.png)\n\nWe don't know what shape our loss curve is (if we did, we might be able to find the\nlowest loss algebraically), but we do know the differential of the parameter versus\nthe loss at the point we've measured; it happens to be -13.  That is reasonably\nlarge and negative:\n\n![First loss point with gradient](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot2.png)\n\nWe use that information to say that we want to move in the direction of a larger\nvalue for our parameter -- that is, in our case where the gradient is negative, so\nwe have a downhill slope towards the right, we\nwant to increase the parameter to move rightwards on that chart, whereas if it\nwere positive (an uphill slope) we'd want to decrease the parameter to move leftwards.\n\nSimply subtracting the gradient from the parameter would lead to an update in the right\ndirection, but it would be a very large one in this case --\nwe'd move 13 units to the right -- so we multiply the gradient by a small positive number,\nthe learning rate (often written as a lower-case eta, like this: η), to move a small\ndistance in that direction.  Let's say η=0.3.  That means we want to update our\nparameter:\n\npnew=pold−gradient*η\n\n=−5−(−13×0.3)\n\n=−5−−3.9\n\n=−1.1\n\nSo now we run that through and get a new loss -- let's say it's 9.06 -- and a new gradient,\nwhich happens to be -5.2.\n\n![Two loss points with gradients](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot3.png)\n\nNow we can do another update, and our parameter will become 0.46, so we use that and\nwork out another loss and gradient, which come to 3.3816 and -2.08.\n\nLet's plot that one, but this time we'll draw back the veil and show the actual loss\ncurve.\n\n![Three loss points with gradients, showing loss function](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot4.png)\n\nNow, it's worth reiterating that while we're training this model we don't know what\nthat curve looks like -- we're just finding points on it, along with its gradient\nat those points, and using that information to work out which parameter value to explore next.\n\nBut it's pretty clear that as we continue, if the learning rate is set correctly, we'll\nget to the minimum eventually if the learning rate is the right kind of size, because --\ndue to the nice smooth U-shape of the curve, the gradient gets smaller the closer we get\nto the minimum [1](#fn-1).\n\nIt's also pretty clear that if the learning rate is smaller than an optimal value,\nin this simple case we will still find the right point, but it will take more steps because each one is\nsmaller:\n\n![Slow learning with a low learning rate](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot5.png)\n\nAnd, of course, if the learning rate is too high, we might never converge -- we'd\n\"bounce out of\" the dip, and wind up with a parameter value that endlessly cycles\nbetween increasingly smaller and increasingly larger values, zooming off to infinity:\n\n![No convergence with a too-high learning rate](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot6.png)\n\nOK, that's the basics.  Why might we want to change from something that seems so logical\nand simple?\n\n### When a fixed learning rate fails\n\nA few paragraphs back I said:\n\n> due to the nice smooth U-shape of the curve, the gradient gets smaller the closer we get\n> to the minimum\n\nWhat if it doesn't?  Imagine if we had something more like a V-shaped curve, like this:\n\n![A V-shaped loss curve](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot7.png)\n\nThe gradient does not decrease as we get closer to the minimum, and so while we're\nin the downward-sloping part, each update is exactly the same distance:\n\n![Two updates on a V-shaped learning curve](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot8.png)\n\nNow, eventually we'll jump over the minimum:\n\n![Crossing the minimum on a V-shaped learning curve](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot9.png)\n\nIn this example, I've used a gradient of −8.33 on the downward-sloping part of the\ncurve, and +8.33 on the upward-sloping part, so that means that our next\nupdate just bounces us back to where we were before!\n\n![Bounce-back on a V-shaped learning curve](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot10.png)\n\nBecause the gradient isn't decreasing the closer we get to the minimum, we wind\nup just oscillating around it.  That's not very helpful.\n\nThat's a slightly contrived example (though not entirely -- intuitively, with functions like ReLU\nor GELU in our real LLMs, it's easy to imagine crazy loss landscapes).  But\nit does show that perhaps we might want to add in our own \"artificial\" way to\ndecrease the size of the steps we take over the course of training our model rather than\njust relying on the gradients naturally flattening out for us.\n\nAnother way of looking at things is that as the model gets trained, we don't want\nbatches of very new-looking data to cause big updates, taking us away from what was\na good part of the loss landscape in terms of what we've seen so far.  For example,\nimagine you've been training an LLM on a bunch of documents, which have so far been in English.  Halfway through,\nit encounters a document in Byzantine Greek, the loss\nskyrockets, and you do a big update.  That would be a problem!  You might want it to learn a bit\nfrom it to push it slightly in a \"the world is multi-lingual\" direction, but you don't\nwant it to lose a big chunk of the value from its previous training.\n\nYou might also see a kind of connection to the way that people learn over the course of\ntheir lives -- for babies, everything is new and they \"update their parameters\" constantly\nas they try to understand the world.  Children are still pretty flexible, but as we\nget older we tend to update our beliefs less and less.  That's not always optimal, but\nas a heuristic it's pretty adaptive.\n\nAnyway, in general: for most training runs, we're going to want the learning rate to adjust\nover time.  Most of the time this will be by reducing it, though there can be cases\nfor increasing it again for periods.  The general case of doing this is called\n\"learning rate scheduling\".\n\n### Learning rate scheduling\n\nThere are a bunch of ways that people adjust the learning rate over the course\nof a train; here are a few that cropped up a lot while I was researching this.\n\n#### Step decay\n\nIf we want the learning rate to go down over time, and we know how many steps we're\ntraining for, we can just set it to (say) 0.0004 for the first quarter of our train, then\n0.0002 for the next, then 0.0001, then finish off with 0.00005, like this:\n\n![LR step decay](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_step_decay.png)\n\nThat can work pretty well!  But there is one obvious oddity -- the big step changes\nin learning rate mean that the exact placement of the drops and the training data\nbefore and after can matter.  Why are we treating the data and the state of the model\nimmediately before and immediately after so differently?  It would make more sense\nto have a smoother schedule.\n\nWhat functions decay smoothly like that?\n\n#### Exponential decay\n\nAn exponential curve does: let's say we just multiply the learning rate by a number\nthat is a little smaller than one every step, so that it drops smoothly like this:\n\n![LR exponential decay](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_exp_decay.png)\n\nBut there are lots of other curves like that, and one is particularly interesting:\n\n#### Cosine decay\n\nAs you change θ from 0 to π, the value of cosθ goes smoothly\nfrom 1 to −1, so it's easy enough to rescale that so that our learning rate follows\nthe same curve:\n\n![LR cosine decay](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_cosine_decay.png)\n\nThis is called a \"cosine annealing\" or \"cosine decay\" schedule, and was apparently inspired by the\nalgorithms used for simulated annealing (an optimisation algorithm that was in turn inspired\nby how the atomic structures form in metals as they cool -- another one for the list\nof things to look into in the future...)\n\nThat solves the mystery from earlier: the cosine that the Chinchilla paper was talking about was exactly\nthis.  As it turns out, the cosine decay scheduling curve is quite popular\nin deep learning, because it has what amounts to two well-defined phases -- an initial\nhigh learning rate where lots of exploration of the loss landscape can happen, followed\nby a smooth transition to something more like fine-tuning to optimise the location in\nwhatever part of the loss landscape we've wound up in.\n\n#### Cyclical schedules\n\nNow, all of the above are assuming that we want the learning rate to start high and\nfinish low, so that we can mimic the textbook gradient descent that we had at the\nstart of this post.\n\nIntuitively that feels nice, but on further thought, the important thing is really\nthat we have a low learning rate at the end of the train, so that we can find as\nclose a point as possible for the minimum at the part of the loss landscape we've\nfound ourselves in.\n\nBut perhaps there's a case for having both high and low periods\nduring the train, so that we don't get stuck in a local minimum -- something to\njolt us out of where we were every now and then? [2](#fn-2)\n\nWith a step function, that's easy: you could, for example, do this:\n\n![LR cyclic step](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_cyclic_step.png)\n\nWith an exponential, you could do something like this:\n\n![LR cyclic exp](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_cyclic_exp.png)\n\nWith cosine decay, of course, things are even easier, because the cosine function is\ninherently cyclical, so we can just do this:\n\n![LR cyclic cosine](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_cyclic_cosine.png)\n\nHowever, at least for our purposes, training an LLM using a\nChinchilla-optimal number of training tokens, it makes sense to be guided\nby what the authors of the Chinchilla paper did.  Appendix B says:\n\n> We find that setting the cosine cycle length too much longer than the\n> target number of training steps results in sub-optimally trained\n> models, as shown in Figure A1. As a result, we assume that an optimally trained model will have the\n> cosine cycle length correctly calibrated to the maximum number of steps, given the FLOP budget; we\n> follow this rule in our main analysis.\n\nSo, at this point, I think we have one important part of the intervention we want\nto make: we want to use a cosine learning rate scheduler, going from high near the\nstart of the training run, down to low at the end over one cycle.  Additionally,\nand also from appendix B in the paper:\n\n> we use a 10x learning rate decay in line with Rae et al.\n> (2021)\n\n...which means that if our learning rate starts at η, then we want it to\ndecay down to η/10 by the end.\n\nSo, we just need to work out an initial value for η, and let it rip, right?\n\nWell, not so fast...\n\n### Learning rate warmup\n\nWhen our model is uninitialised, right at the start of the train, gradients are going\nto be pretty wild.  It's going to be making random errors all of the time, and we'll\nbe making huge jumps across the loss landscape.  That sounds bad.\n\nAdditionally those kind of wild jumps can get the optimiser into a -- well, sub-optimal -- state.\nI haven't read enough about optimisers yet to have a solid handle on that, but that can wait --\nintuitively it makes some kind of sense that erratic gradient updates might confuse it.\n\nSo, it makes a certain amount of sense to start off with a low learning rate\nso that we don't do that, and then to increase it gradually to the peak, and only then\nto schedule the gradual cosine decay.  According to this (rather nice looking)\n[masterclass on LLM training](https://apxml.com/courses/how-to-build-a-large-language-model/chapter-17-optimization-algorithms-llms/learning-rate-scheduling-strategies),\nit's typical to do this over \"a few thousand steps or a small percentage (e.g., 1-10%) of the total training steps,\ndepending on the dataset size and batch size\",\nand we would just use a linear increase over that period:\n\nηt=ηpeak×twarmup_steps\n\nI think we should do that; a simple linear warmup\nat the start -- let's relatively arbitrarily say 5% of our training steps going up\nto our desired peak learning rate.  So our learning rate schedule should look\nsomething like this:\n\n![LR cosine after warmup](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_warmup_cosine.png)\n\n### The initial learning rate value\n\nSo far I've written a lot about how we vary the learning rate over time, and that's all\nbeen very useful.  But we still need to know what the value should be initially!  In\nsmaller-scale experiments you might just try a bunch of different numbers to see what\nworked well, but at more than US$30 per train, that's not practical here.\n\nUnfortunately it's really quite hard to find good suggestions published anywhere.  The GPT-2 paper is (as usual)\nreticent:\n\n> The learning rate of each model was manually tuned for the best perplexity on a 5%\n> held-out sample of WebText\n\n...and if you search for\n\"learning rate training llm\", you'll see lots of results for when people are fine-tuning\nexisting LLMs (2×10−4 comes up a lot), but almost nothing about when you're training one from scratch.\n\nI eventually came across this (long!) [post from Hugging Face](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook),\nwhich I definitely\nneed to spend time going through in the future, because it covers a *lot* of\nthe ground I've been going over in this post series.  But for this post, I think\nthe most relevant part is in the section \"[Scaling Laws for Hyperparameters](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#scaling-laws-for-hyperparameters)\",\nwhere they include a figure from [this DeepSeek paper](https://arxiv.org/abs/2401.02954).\nHere it is, with some of the (also relevant) surrounding text:\n\n![DeepSeek hyperparameter optimisation](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/deepseek-scaling-laws.png)\n\nIn our trains [we're using](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch#flops) something\nlike 5×1018 total FLOPs.  Now, they are specifically charting things in\nterms of non-embedding FLOPs, but I'm going to play a little fast and loose here and\nignore that, so reading off their chart, that looks like we should\nbe using about 1.4×10−3 as our learning rate.  We can double-check that\nagainst their formula, where C is the compute budget:\n\nηopt=0.3118×C−0.1250\n\n=0.3118×(5×1018)−0.1250\n\n=0.3118×0.004598632978267703\n\n=0.00143385376262387\n\nNice, a close match!\n\nHowever, it's definitely worth noting that we're using a simple\nGPT-2 architecture, and they are using something quite different -- RMSNorm instead\nof LayerNorm, SwiGLU as the activation function on the feed-forward networks, Rotary Position\nEmbedding rather than the fixed ones we're using, and so on.\n\nAs a sanity check: you can see that they also give a formula for the optimal batch size\nin terms of tokens.  For our FLOP budget, that comes in at 381,782, which is about 373\nof our 1,024-token sequences.  That is quite a lot higher than the 97-or-so\nsequences that we appeared to be optimal in our [earlier experiments](https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud).\nThat is a little concerning, though of course the 97 number came out of a very\nad-hoc bit of curve-fitting.\n\nFor now, I'm going to hope that that doesn't matter too much for the learning rate.  This may come back\nto bite me; if the results of a train with 1.4×10−3 are radically worse than\nthe existing rate of 4×10−4, I'll have to do a bit more investigation.\n\nSo, now I think we have all of the theoretical pieces in place to do a train.  Let's\nmove on to the practicalities.\n\n### The code\n\nWe started by looking at this:\n\n`    optimizer = torch.optim.AdamW(\n        model.parameters(),\n        lr=0.0004, weight_decay=0.1\n    )\n`\n\nWhat should we change -- disregarding the `weight_decay` until the next post?\n\nBased on the above, we want to do\na linear warmup of about 5% of our steps, going up to a learning rate of 1.4×10−3, followed\nby a cosine decay down to one tenth of that, 1.4×10−4.\n\nWhat does that look like in code?\n\n#### Basic learning rate scheduling\n\nThe relevant API for scheduling the learning rate in PyTorch is, logically enough,\nin the [`torch.optim.lr_scheduler`](https://docs.pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate)\nmodule, and there are a bunch of different scheduling classes.  You create your\noptimiser, then create a scheduler for the shape\nyou want, and then you can call `step` on the scheduler (after the `step` on the optimiser)\nto adjust the optimiser's learning rate over time.\n\nLet's make that more concrete;\none of the schedulers is [`LinearLR`](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.LinearLR.html#torch.optim.lr_scheduler.LinearLR),\nwhich is what we'll need for our linear warmup period.  It takes as its parameters:\n\n- `optimizer`, which is the optimiser we're applying it to.\n\n- `start_factor`, which the optimiser's learning rate is multiplied by to work out where\nwe want to start up.\n\n- `end_factor`, which is likewise applied to the optimiser's learning rate to work out\nthe value we're heading for.\n\n- `total_iters`, which is the number of steps over which it should go from the initial learning rate\nto the final one.\n\n- `last_epoch`, which lets the scheduler know how many steps into its schedule it currently\nis -- this defaults to `-1`, meaning it hasn't started yet.  This can be useful if\nyou're resuming from a checkpoint, but for our purposes we can ignore it.\n\nLet's say that we want to go from almost-zero to our optimiser's learning\nrate over 1,600 steps -- we'd create our scheduler like this:\n\n`    scheduler = torch.optim.lr_scheduler.LinearLR(\n        optimizer,\n        start_factor=0.00001,\n        end_factor=1.0,\n        total_iters=1600\n    )\n`\n\n...then in our training loop, after we've done the scaled step of the optimiser,\nwe'd also step the scheduler:\n\n`        scaler.step(optimizer)\n        scaler.update()\n        scheduler.step()\n`\n\nThis confused me a little bit the first time I saw it; after all, if the scheduler\nhasn't been \"triggered\" when we step the optimiser, how does the optimiser know what\nlearning rate to use?  Surely it would just use whatever it was initialised with?\n\nThe answer is that when you create the optimiser, it stores away the learning rate\nthat you give it in two places -- an \"initial learning rate\" and a \"current learning rate\".\nNext, when you create your scheduler, it uses the initial learning rate to work out the start and end values,\nand then sets the current one to the start value immediately.  Just by creating\na scheduler, you're changing the optimiser's current learning rate -- but not the\ninitial one, which is important, as we'll see in a moment.\n\nSo, we have a scheduler that handles our warmup period nicely.\nAnother scheduler that's relevant to our interests is the\n[CosineAnnealingLR](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.CosineAnnealingLR.html#torch.optim.lr_scheduler.CosineAnnealingLR).\nThis takes:\n\n- `optimizer`, which is the same as the `LinearLR`'s.\n\n- `T_max`, which is the number of steps before it reaches its minimum\n\n- `eta_min`, the minimum learning rate we want to get to.\n\n- `last_epoch`, again the same as the `LinearLR`'s.\n\nOn creation, this scheduler will read in the optimiser's initial learning rate -- note, not the\n*current* one -- and then the first\ntime it's stepped, it will set the current learning rate to that value, and then\nfor steps after that it will reduce it so that it follows a nice cosine decay, reaching\n`eta_min` after `T_max` steps.\n\nSo those two cover the two regimes that we want -- the warmup and then the cosine\ndecay.  But now we need to put them together; we want to do one and then the other.\n\n#### Chaining learning rate schedulers\n\nThere's a very useful class,\n[`SequentialLR`](https://docs.pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.SequentialLR.html#torch.optim.lr_scheduler.SequentialLR),\nwhich allows you to chain schedulers and tell it when each one takes over from the\nprevious one.\n\nLet's sketch out some code to use that to do a train with our new peak learning\nrate of 1.4×10−3, a warmup of 1,600 steps, followed by a cosine decay\nfor the next 32,000 steps to one tenth of the peak learning rate:\n\n`    peak_lr = 0.0014\n    warmup_period = 1600\n    decay_period = 32000\n    optimizer = torch.optim.AdamW(\n        model.parameters(),\n        lr=peak_lr, weight_decay=0.1\n    )\n    warmup_scheduler = torch.optim.lr_scheduler.LinearLR(\n        optimizer,\n        start_factor=0.00001,\n        end_factor=1.0,\n        total_iters=warmup_period\n    )\n    cosine_scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(\n        optimizer,\n        T_max=decay_period,\n        eta_min=peak_lr / 10\n    )\n    scheduler = torch.optim.lr_scheduler.SequentialLR(\n        optimizer,\n        schedulers=[warmup_scheduler, cosine_scheduler],\n        milestones=[warmup_period],\n    )\n\n    ...\n\n        # In the training loop\n        scaler.step(optimizer)\n        scaler.update()\n        scheduler.step()\n`\n\nThat actually works quite nicely!  I wrote a dummy training loop to plot the\ncurrent learning rate over a fake train using\n[code like the above](https://github.com/gpjt/ddp-base-model-from-scratch/blob/0d179c3815cca111ba50d5f7833f9269ad511f14/test_lr_schedulers.py),\nand got this:\n\n![LR schedule from PyTorch code](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_actual_schedule.png)\n\n...with the output confirming that the values were good at the \"milestone\" point, the\nstart and the end:\n\n`Initial learning rate:  1.4000000000000001e-08\nStep 1596 learning rate:  0.0013965000350000011\nStep 1597 learning rate:  0.001397375026250001\nStep 1598 learning rate:  0.0013982500175000012\nStep 1599 learning rate:  0.0013991250087500011\nStep 1600 learning rate:  0.0014\nStep 1601 learning rate:  0.00139999999696394\nStep 1602 learning rate:  0.0013999999878557604\nStep 1603 learning rate:  0.0013999999726754609\nStep 1604 learning rate:  0.0013999999514230418\nStep 33596 learning rate:  0.00014000004857695852\nStep 33597 learning rate:  0.00014000002732453932\nStep 33598 learning rate:  0.00014000001214423973\nStep 33599 learning rate:  0.00014000000303605992\n`\n\nI was initially a bit surprised by that, as at\nthe time I ran it, I didn't realise that there was that split between the initial\nand the current learning rates on the optimiser, so I thought that the cosine scheduler\nwould pick up whatever tiny starting value the warmup scheduler had overwritten the\noptimiser's learning rate with -- but that split saves the day.\n\nThat means that now we have the outline of how to schedule our learning rate.  But\nbefore we can put that into the code, we need to think about how it affects our checkpoints.\n\n#### Checkpoints\n\nJust like the scheduler and the optimiser, the learning rate scheduler -- or, indeed,\nour two schedulers here -- contain information about the state of the train.  That means\nthat if we recover from a checkpoint, we need to provide them with the information they\nneed.  If we just created them afresh, they'd start from the beginning -- for\nexample, if we restarted from step 20,000 in a train like the one above, we'd start\na new warmup from pretty much zero, and then start a fresh cosine decay.  That would be bad:\n\n![LR schedule with no scheduler checkpointing](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot_actual_schedule_no_checkpointing.png)\n\n(Dummy test code [here](https://github.com/gpjt/ddp-base-model-from-scratch/blob/8c9f15630d5253c3b4d21d3596a7091f23b8f48c/test_lr_schedulers.py).)\n\nNow, we could use the `last_epoch` parameter to initialize them with the correct\ncurrent global step.  But they have a state dict, like most other PyTorch objects, so\nthe simplest thing to do is just to write that to another checkpoint file:\n\n`torch.save(scheduler.state_dict(), checkpoint_dir / \"scheduler.pt\")\n`\n\n...and then load it likewise:\n\n`scheduler.load_state_dict(torch.load(checkpoint_dir / \"scheduler.pt\"))\n`\n\n(Dummy test code [here](https://github.com/gpjt/ddp-base-model-from-scratch/blob/b443fd9e0abed1a52731221a79ff30d6138822db/test_lr_schedulers.py).)\n\nConveniently, if you save the state dict of a `SequentialLR`, it will also include the\nstate of all of its component schedulers, and likewise if you reload it, it will load the\ncomponents' states back in too.\n\nThe one thing you have to be careful about is what they warn about in the PyTorch docs:\n\n> Initializing a scheduler overwrites its optimizer’s `param_group[\"lr\"]`s. When\n> restoring a checkpoint, initialize the scheduler before calling your optimizer's\n> `load_state_dict()` to avoid overwriting the loaded learning rates.\n\nLuckily enough, in our code as it stands, we create all of the things that are checkpointed\n-- the optimiser and the scaler so far, but shortly the scheduler as well -- before we load\nin the state dicts, so that drops out quite nicely.\n\nSo, we have some sketched-out code -- it's time to put it in place for the real training\nrun.\n\n#### The actual code\n\nI won't go through the details of the changes to my existing DDP training code, though you can\n[see the diff here](https://github.com/gpjt/ddp-base-model-from-scratch/commit/a1c2f428fb5579a121021d3b81948fc5f050b0f9) if you're interested.\n\nMuch of the complexity was due to keeping backward compatibility so that we don't\nhave to always use a learning rate scheduler; remember that in this mini-series,\nI'm trying making various changes (\"interventions\") to the training loop in isolation,\nseeing whether each one improves things.  So it's important to be able to easily\ntrain with or without learning rate scheduling; I did that with a flag `schedule_learning_rate`\nin the `train.json`\n\nImplementation-wise, initially I was thinking that it would\nbe easiest to always have a scheduler, and in the \"non-scheduled\" case to just set it to a linear one that didn't\nchange the value over the course of the train.  But in the end it turned out to be\neasier to use `scheduler == None` as being the switch to tell the training loop\nwhich \"mode\" it was in.\n\nThe placement of the code to create the schedulers was also a little tricky; the \"natural\"\nplace was just after the optimiser is created, like it is in the example code above.\nHowever, at that point, we don't know how many global steps we're going to have in the\ntrain, because we don't have the dataset -- which means that working out the numbers to\npass in to the schedulers for the warmup and decay steps would be impossible.  It turned out to be easiest to put it in the\nfunction `load_datasets_and_train`, just after the datasets are loaded, as at that\npoint we have all of the information we need.\n\nAnyway, that's the code done, so let's see what happens!\n\n### The training run, part 1: scheduling the learning rate\n\nI wanted to do two trains; one with the learning rate scheduling, and one with just\nthe new value for the learning rate, `0.0014` instead of `0.0004`.  I was expecting\nthe updated learning rate alone to be too high and to cause a very choppy train, but had\nhigh hopes for the train with the scheduling.  Here's how it did; the scheduled learning\nrate train first:\n\n`Training complete in 12,270.413 seconds\nTokens seen: 3,260,252,160\nThroughput: 265,700 tokens/second\nFinal train loss: 3.654\n`\n\nHere's what the training loss looked like over that:\n\n![Loss for training run with learning rate scheduling](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/loss-chart-lr-scheduling.png)\n\nQuite a few loss spikes early on in the train when the learning rate is at its peak,\nbut nothing unmanageable -- and, as you'd expect, things calmed down quite a lot\nlater on.\n\nI also charted the learning rate, to make sure it really was doing what I thought it was doing:\n\n![Learning rate for training run with learning rate scheduling](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/learning-rate-chart-lr-scheduling.png)\n\nSo, a pretty smooth train, and we definitely did the right learning rate scheduling.\nTime to [upload it to Hugging Face](https://huggingface.co/gpjt/8xa100m40-schedule-learning-rate), and see what the evals look like.\n\n### Evals for the scheduled learning rate:\n\nFirstly, the smoke test:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run test_smoke.py runs/8xa100m40-schedule-learning-rate/model.json runs/8xa100m40-schedule-learning-rate/checkpoints/best/model.safetensors\nEvery effort moves you closer to the fact they will not see or use their product if you are using a computer or notebook\n`\n\nReasonably coherent, at least, though it's not super-impressive.  On to the loss on\nour test set:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run test_loss.py datasets runs/8xa100m40-schedule-learning-rate/model.json runs/8xa100m40-schedule-learning-rate/checkpoints/best/model.safetensors\nFetching 4 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 4681.14it/s]\n100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3200/3200 [05:00<00:00, 10.66it/s]\nLoss against our test dataset: 3.602\n`\n\nThat's our best loss so far!  Let's put it into the table:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  8xa100m40-baseline\n  3.692\n  -\n\n  8xa100m40-gradient-clipping\n  3.678\n  0.014\n\n  8xa100m40-qkv-bias\n  3.669\n  0.023\n\n  8xa100m40-remove-dropout\n  3.641\n  0.051\n\n  8xa100m40-schedule-learning-rate\n  3.602\n  0.09\n\nSo, it definitely looked like it was worth it.  But was it the scheduling of the\nlearning rate that helped, or just the change from 0.0004 to 0.0014?\n\n### The training run, part 2: just updating the learning rate\n\nI kicked off a second run with no scheduling, just a learning rate of 0.0014, to see what would happen.  After\nabout an hour, I noticed that the loss chart had stopped updating.  The last point\nhad a maximum and minimum loss but no average -- but after that, nothing:\n\n![Loss for training run with learning rate updated](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/loss-chart-lr-update.png)\n\nHowever, the learning rate was still being charted, so the train was definitely running:\n\n![Learning rate for training run with learning rate updated](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/learning-rate-chart-lr-update.png)\n\nLooking at the checkpoint metadata showed what had happened.  At global step 1851,\nwe had this [3](#fn-3):\n\n`  \"min_train_loss\": 6.198999881744385,\n  \"max_train_loss\": 7.729835510253906,\n  \"avg_train_loss\": NaN,\n`\n\n...and at the next checkpoint at step 2468, we had this:\n\n`  \"min_train_loss\": NaN,\n  \"max_train_loss\": NaN,\n  \"avg_train_loss\": NaN,\n`\n\n...and the same for all checkpoints thereafter.\n\nClearly the parameters had gone off the rails -- exactly what we'd expect with\nan excessive learning rate:\n\n![No convergence with a too-high learning rate](https://www.gilesthomas.com/post-assets/llm-from-scratch-32e-interventions-learning-rate/plot6.png)\n\nThere was no point in continuing the train, as it was pretty much certainly unrecoverable,\nso I stopped it.  Out of interest, I downloaded the model, but I couldn't even\nrun the smoke test on it:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run test_smoke.py runs/8xa100m40-update-learning-rate/model.json runs/8xa100m40-update-learning-rate/checkpoints/latest/model.safetensors\n/pytorch/aten/src/ATen/native/cuda/TensorCompare.cu:112: _assert_async_cuda_kernel: block: [0,0,0], thread: [0,0,0] Assertion ``probability tensor contains either ``inf``, ``nan`` or element < 0`` failed.\n`\n\nSo it was pretty clear that just updating the learning rate to 0.0014 was actively harmful.\nNo need to upload that one to HF!  And time to wrap up this experiment.\n\n### Conclusion\n\nWhile this has been quite a long post, I've really only scratched the surface of\nhow learning rates are set.  If I were doing things in more detail, the best\nwould probably be to do a \"sweep\" over multiple values to try to at least approximate the\nbest possible rate for this model.\n\nThat would be pretty expensive for me, though, so I decided to stick with the DeepSeek\nnumber. It might not be ideal for the specific architecture that I'm using, given how\ndifferent that is to theirs, but given the results, it's a decent one compared to\nwhat I was using.  [4](#fn-4)\n\nSomething that I found interesting is that exactly how to schedule your learning\nrate is still an area being actively researched.  Even in my relatively minimal\nresearch, I came across three alternatives to the mainstream warmup-cosine decay pattern:\n\n- Per the Hugging Face paper, some people do warmup, then pause at a set level for\na while, then start the cosine decay (warmup-stable-decay).\n\n- DeepSeek use a relatively simple stepped function after a warmup. [5](#fn-5)\n\n- I came across a 2025 paper \"[Straight to Zero: Why Linearly Decaying the Learning Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)\"\nwhich says that a linear decay (after a warmup) outperforms cosine.\n\nI'm sure there are many more.  But for this train, I decided to stick to the\nmainstream, and the results were pretty good!  To reiterate, this has been the\nmost positive intervention so far:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  8xa100m40-baseline\n  3.692\n  -\n\n  8xa100m40-gradient-clipping\n  3.678\n  0.014\n\n  8xa100m40-qkv-bias\n  3.669\n  0.023\n\n  8xa100m40-remove-dropout\n  3.641\n  0.051\n\n  8xa100m40-schedule-learning-rate\n  3.602\n  0.09\n\nSo I'll stick with that, and move on to the next thing: what is the\n`weight_decay` parameter that we're passing in to the AdamW optimiser?\nTune in next time :-)",
+        "url": "https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Algorithms"
+        ],
+        "published_at": "Tue, 10 Mar 2026 23:55:00 +0000",
+        "reading_time": 27,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Just Use Postgres",
+        "summary": "<think>The user wants me to summarize an article about using PostgreSQL as a git hosting and deployment platform. Let me analyze the key points:\n\n1. The article is about gitgres - storing git repositories in PostgreSQL\n2. The author built omni_git - a PostgreSQL extension that implements git smart HTTP protocol\n3. When paired with omnigres, it turns git push into a deployment mechanism\n4. The database becomes the git host, build system, and production runtime\n5. Technical details about implementing the git protocol in SQL\n6. How pkt-line encoding works\n7. Using libgit2 for packfile handling via C functions\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write a summary that captures the essence of what the author built and why it's significant.\n</think>\n\n**Summary**\n\nThe article describes building omni_git, a PostgreSQL extension that implements the git smart HTTP protocol directly in the database. This allows PostgreSQL to function as a complete git hosting and deployment platform without requiring separate application servers, containers, or reverse proxies.\n\nThe author built on previous work (gitgres) by implementing the server-side pack protocol, enabling `git push` and `git clone` operations directly against the database. When combined with omnigres, this creates a Heroku-like deployment system where SQL files and applications travel from git objects in a table to running code within the same PostgreSQL instance.\n\nTechnically, the implementation involves pkt-line encoding in SQL, handling ref advertisements, and using libgit2's indexer via C functions to process packfiles without reimplementing the binary format in PL/pgSQL. The result is a unified system where the database serves as the git host, build system, and production runtime simultaneously.",
+        "content": "A couple of weeks ago I wrote about [storing git repositories in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html) and built [gitgres](https://github.com/andrew/gitgres) to prove it worked. Two tables, some PL/pgSQL, a libgit2 backend, and you could push to and clone from a database. The post ended with a missing piece: the server-side pack protocol, the part that lets a Postgres instance serve `git push` and `git clone` over HTTP without a separate application in front of it.\n\nI built that missing piece as [omni_git](https://github.com/andrew/omni_git), a Postgres extension that implements the git smart HTTP protocol inside the database and, when paired with [omnigres](https://omnigres.com/), turns `git push` into a deployment mechanism where your SQL files go from git objects in a table to running code in the same Postgres instance.\n\nThe end result is something like Heroku, except the entire platform is a single Postgres process. You `git push` a Flask app (or raw SQL, or both) to a Postgres remote, a trigger deploys it, and omnigres starts serving HTTP traffic from it – no reverse proxy, no container runtime, no separate application server. The database is the git host, the build system, and the production runtime.\n\n### The protocol in SQL\n\nThe git smart HTTP protocol is simpler than it looks from the outside. A client hits `/repo/info/refs?service=git-receive-pack` and gets back a list of refs with their OIDs, encoded in git’s [pkt-line format](https://git-scm.com/docs/protocol-common#_pkt_line_format): each line prefixed with a 4-character hex length. The client compares those refs against its own, figures out which objects the server is missing, packs them into a packfile, and POSTs it to `/repo/git-receive-pack` along with the ref updates it wants applied. Clone works the same way in reverse through `/repo/git-upload-pack`.\n\npkt-line encoding turned out to be straightforward in SQL, since a function that takes some bytes and prepends `lpad(to_hex(octet_length(data) + 4), 4, '0')` covers the whole format. The ref advertisement is a query against the refs table with a null byte separating the first ref’s name from the capability list, which was the first bug I hit: PL/pgSQL’s `convert_from` rejects null bytes in UTF-8 strings, so the lines have to be assembled as bytea before any text conversion happens.\n\nWhen a client pushes, the body is a stream of pkt-line commands (old OID, new OID, ref name) followed by a raw packfile. Parsing the commands is more SQL string slicing, but packfiles are a binary format with variable-length headers, zlib-compressed objects, and delta chains, and reimplementing that in PL/pgSQL would have been miserable. I wrote a small C function that hands the packfile bytes to libgit2’s indexer, iterates the unpacked objects, and inserts each one into the objects table via SPI. About 200 lines of C handles both unpacking and generation, and the SQL layer never has to think about the packfile format.\n\nFor clone, a `reachable_objects` function walks from the requested commits through their trees and parent commits, collecting every OID, and the C function packs them back into a packfile with zlib compression and a SHA1 trailer. There’s no delta compression, so the packfiles are larger than what a real git server would produce, but git clients accept them without complaint.\n\n### omnigres\n\nThe HTTP handlers need something to serve them, and [omnigres](https://omnigres.com/) is a project that turns Postgres into an application server by bundling extensions for HTTP serving (omni_httpd), HTTP client requests, Python execution, and a bunch of other things, all running inside the database process. omni_httpd has a routing system where you create a table with URL pattern and handler function columns, and it auto-discovers your routes, so wiring up the three git endpoints looks like this:\n\n```\ncreate table omni_git.router (like omni_httpd.urlpattern_router);\n\ninsert into omni_git.router (match, handler) values\n  (omni_httpd.urlpattern(pathname => '/:repo/info/refs'),\n   'omni_git.http_info_refs'::regproc),\n  (omni_httpd.urlpattern(pathname => '/:repo/git-receive-pack', method => 'POST'),\n   'omni_git.http_receive_pack'::regproc),\n  (omni_httpd.urlpattern(pathname => '/:repo/git-upload-pack', method => 'POST'),\n   'omni_git.http_upload_pack'::regproc);\n\n```\n\nomnigres picks up the table, matches incoming requests against the URL patterns, and calls the handler functions, each of which extracts the repo name from the path, looks it up in the repositories table, and delegates to the protocol functions. The `git-receive-pack` handler is about 20 lines of PL/pgSQL.\n\n### Deploy on push\n\nomni_git has a deploy trigger that fires when a ref is updated, walks the commit’s tree looking for files under a `deploy/` directory, and executes them: SQL migration files run in alphabetical order, Python files go through omni_python, and a seed file runs last for route registration and data setup.\n\n```\ninsert into omni_git.deploy_config (repo_id, branch)\nselect id, 'refs/heads/main' from repositories where name = 'myapp';\n\n```\n\nAfter that, `git push pg main` deploys your application. The trigger reads SQL files out of the git tree as bytea, converts to text, and passes them to `EXECUTE`, all in the same transaction as the ref update. “[Just use Postgres](https://amattn.com/p/just_use_postgres.html)” is usually advice about replacing Redis and Elasticsearch and RabbitMQ with one database you already run, but at some point I wanted to see how far the idea actually goes: Postgres as your git remote, your HTTP server, your deployment target, and your application runtime, with nothing else in the stack.\n\n### What actually works\n\nYou can `docker run` the image, push a repo, and clone it back, and I’ve tested it with small repos where it handles the happy path including multiple pushes with compare-and-swap ref updates. Large repos will be slow because the packfile generator skips delta compression, the deploy trigger hasn’t been exercised with real applications yet, there’s no authentication, the HTTP handlers only speak protocol v1, and I haven’t tested concurrent pushes to the same repo. omnigres itself is young, and running application code inside Postgres means a bad deploy can take down your database, which is a trade-off that probably needs more than a trigger and an `EXECUTE` to manage safely.\n\n### gitgres as a dependency\n\nomni_git started as a copy of [gitgres](https://github.com/andrew/gitgres) with extra code layered on top, which meant the core git functions existed in both repos. I expanded the gitgres extension to include its full SQL layer – tables, functions, materialized views – and added it as a git submodule of omni_git, so `CREATE EXTENSION omni_git CASCADE` pulls in gitgres automatically and omni_git only contains what’s actually new: protocol handling, HTTP transport, and the deploy system. About 380 lines of duplicated SQL disappeared.\n\n### The forbidden monolith\n\nWith omni_git the entire stack is one process. That sounds like a liability until you remember what Postgres already gives you for free when everything is in one database.\n\nStreaming replication means a standby server gets every git push, every deployed function, and every row of application state through the same WAL stream. You don’t need to synchronize a git mirror, replicate a deployment artifact store, and set up database replication as three separate problems – one `pg_basebackup` and a replication slot covers all of it. Point-in-time recovery works the same way: restore from a base backup and replay WAL to any moment, and you get the repository contents, the deployed code, and the application data all consistent with each other at that exact point in time. If a deploy breaks something at 3:47 PM, you can recover to 3:46 PM and have the old code running against the old data, no coordination required.\n\n`pg_dump` backs up the application code, its git history, and whatever state the code created, all at once. Foreign data wrappers can expose the git tables to other Postgres instances without copying anything. And because git objects and refs are just rows, they participate in Postgres’s MVCC, its vacuum process, its monitoring, its connection pooling – all the operational tooling that already exists for keeping a database healthy.\n\nNone of this is available when git repositories live on a filesystem. You get rsync, or you get a purpose-built replication layer like Gitaly, or you get object storage with its own consistency model. Every additional storage system is another thing to back up, another thing to monitor, another failure mode during recovery. The forbidden monolith collapses all of that into one system that already knows how to do it.\n\nI don’t know if anyone should run production systems this way, but “just use Postgres” deserves to know where its logical endpoint is.",
+        "url": "https://nesbitt.io/2026/03/10/just-use-postgres.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-03-10T10:00:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
+        "summary": "<think>The user wants me to summarize an article titled \"Pluralistic: Ad-tech is fascist tech (10 Mar 2026)\" in 100-200 words. I need to focus on key points and main takeaways.\n\nLet me analyze the article:\n\nThe article is from Cory Doctorow's Pluralistic blog (dated March 10, 2026 - which is clearly a satirical/futuristic date given we're currently in 2025). The main thesis is about \"ad-tech is fascist tech\" and discusses the \"enshittification hypothesis.\"\n\nKey points:\n1. A core tenet of the enshittification hypothesis is that terrible digital experiences result from foreseeable policy choices\n2. Google made a deliberate choice to switch from content-based ads to surveillance-based ads\n3. The article argues this was a gamble with two parts:\n   - Part 1: Advertisers would pay more for surveillance ads (the commonly discussed aspect)\n   - Part 2: Whether spying would cost Google anything - would they face fines, civil judgments, criminal charges?\n4. The article argues that the critical question is about penalties - if penalties are low, surveillance is profitable\n5. The article connects ad-tech to fascism (\"fascist tech\")\n\nThe article appears to be cut off mid-sentence, but I have enough to summarize the main points.\n\nI need to write a concise 100-200 word summary focusing on the key takeaways. The tone should be informative and neutral, summarizing Doctorow's argument.\n\nSince this is a summary task, I'll use prose format primarily, keeping it concise and informative.\n</think>\n\n# Summary\n\nThis article argues that surveillance advertising—commonly called \"ad-tech\"—is fundamentally \"fascist tech\" because it relies on mass surveillance and manipulation. The author, Cory Doctorow, connects this to his \"enshittification hypothesis,\" which posits that today's harmful digital experiences result from deliberate, foreseeable policy choices that created an environment where the worst ideas are most profitable.\n\nThe article examines Google's transition from content-based ads (which targeted ads based on webpage content and search terms) to surveillance-based ads (which compile detailed dossiers on users' searches, emails, purchases, and physical movements). While content-based ads generated billions, Google gambled that surveillance ads would generate more.\n\nThe author emphasizes that this gamble had two components: whether advertisers would pay more for surveillance targeting (widely discussed), and whether Google would face meaningful consequences for privacy violations—fines, civil judgments, or criminal charges. The critical argument is that surveillance advertising remains profitable only when penalties are insufficient to offset the gains, making it a policy choice rather than an inevitable technological development.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/10Mar2026a.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/10/ice-tech/)\n\n## Today's links\n\n- [Ad-tech is fascist tech](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes): Surveillance advertising is just surveillance.\n\n- [Hey look at this](https://pluralistic.net/2026/03/10/ice-tech/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/10/ice-tech/#retro): Washpo v Bernie; Activists v Saif Gadaffi's London mansion; Spacefaring v contract language; Tuna-can tiffin pail; France v encryption.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/10/ice-tech/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/10/ice-tech/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/10/ice-tech/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/10/ice-tech/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/10/ice-tech/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ad-tech-blowback.jpg?w=840&ssl=1)\n\n## Ad-tech is fascist tech ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#foreseeable-outcomes))\n\nA core tenet of the enshittification hypothesis is that all the terrible stuff we're subjected to in our digital lives today is the result of foreseeable (and foreseen) policy choices, which created the enshittogenic policy environment in which the worst people's worst ideas make the most money:\n\n[https://pluralistic.net/2025/09/10/say-their-names/#object-permanence](https://pluralistic.net/2025/09/10/say-their-names/#object-permanence)\n\nTake commercial surveillance. Google didn't *have* to switch from content-based ads (which chose ads based on your search terms and the contents of webpages) to surveillance-based ads (which used dossiers on your searches, emails, purchases and physical movements to target ads to you, personally). The content-based ads made Google *billions*, but the company made a gamble that surveillance-based ads would make them *more* money.\n\nThat gamble had two parts: the first was that advertisers would pay more for surveillance ads. This is the part we all focus on – the collusion between people who want to sell us stuff and companies willing to spy on us to help them do it.\n\nBut the other half of the bet is *far* more important: namely, whether spying on us would *cost* Google anything. Would they face fines? Would users collect massive civil judgments over these privacy violations? Would Google face *criminal* charges? These are the *critical* questions, because even if advertisers are willing to pay a premium for surveillance ads, it only makes sense to collect that premium if the excess profit it represents is larger than the anticipated penalties for committing surveillance crimes.\n\nWhat's more, advertisers and Google execs all work for their shareholders, in a psychotic \"market system\" in which the myth of \"fiduciary duty\" is said to *require* companies to hurt us right up to the point where the harms they inflict on the world cost them more than the additional profits those harms deliver:\n\n[https://pluralistic.net/2024/09/18/falsifiability/#figleaves-not-rubrics](https://pluralistic.net/2024/09/18/falsifiability/#figleaves-not-rubrics)\n\nBut the policymakers who ultimately determine whether the fines, judgments and criminal penalties outstrip the profits from spying – they work for *us*. They draw their paychecks from the public purse in exchange for safeguarding *our* interests, and they have manifestly failed at this.\n\nWhy did Google decide to start spying on us? For the same reason your dog licks its balls: because they *could*. The last consumer privacy law to make it out of the US Congress was a 1988 bill that banned video-store clerks from disclosing your VHS rentals:\n\n[https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism](https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism)\n\nAnd yes, the EU *did* pass a comprehensive consumer privacy law, but then abdicated any duty to *enforce* the GDPR, because US Big Tech companies pretend to be Irish, and Ireland is a crime-haven that lets the tax-evaders who maintain the fiction of a Dublin HQ break any EU law they find inconvenient:\n\n[https://pluralistic.net/2025/12/01/erin-go-blagged/#big-tech-omerta](https://pluralistic.net/2025/12/01/erin-go-blagged/#big-tech-omerta)\n\nThe most important question for Google wasn't \"Will advertisers pay more for surveillance targeting?\" It was \"Will lawmakers clobber us for spying on the whole internet?\" And the answer to that second question was a resounding *no*.\n\nWhy did policymakers fail us? It's not much of a mystery, I'm afraid. Policymakers failed us because cops and spies *hate* privacy laws and lobby like hell against them. Cops and spies love commercial surveillance, because the private sector's massive surveillance dossiers are an off-the-books trove of warrantless surveillance data that the government can't legally collect. What's more, even if the spying was legal, buying private sector surveillance data is *much* cheaper than creating a public sector surveillance apparatus to collect the same info:\n\n[https://pluralistic.net/2023/08/16/the-second-best-time-is-now/#the-point-of-a-system-is-what-it-does](https://pluralistic.net/2023/08/16/the-second-best-time-is-now/#the-point-of-a-system-is-what-it-does)\n\nThe harms of mass commercial surveillance were never hard to foresee. 20 years ago, *Radar* magazine commissioned a story from me about \"the day Google turned evil,\" and I turned in \"Scroogled,\" which was widely shared and reprinted:\n\n[https://web.archive.org/web/20070920193501/https://radaronline.com/from-the-magazine/2007/09/google_fiction_evil_dangerous_surveillance_control_1.php/](https://web.archive.org/web/20070920193501/https://radaronline.com/from-the-magazine/2007/09/google_fiction_evil_dangerous_surveillance_control_1.php/)\n\n*Radar* is long gone, though it's back in the news now, thanks to the revelation that it was financed via Jeffrey Epstein as part of his plan to both control and loot magazines and newspapers:\n\n[https://www.reddit.com/r/Epstein/comments/142bufo/radar_magazine_lines_up_financing_published_2004/](https://www.reddit.com/r/Epstein/comments/142bufo/radar_magazine_lines_up_financing_published_2004/)\n\nBut the premise of \"Scroogled\" lives on. 20 years ago, I wrote a story in which the bloated, paranoid, lawless DHS raided ad-tech databases of behavioral data in order to target people for secret arrests, extraordinary rendition, and torture.\n\nIt took a minute, but today, the DHS is paying data-brokers and ad-tech giants like Google for commercial surveillance data that it is using to feed the systems that automatically decide who will be kidnapped, rendered and tortured by ICE:\n\n[https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/](https://www.theregister.com/2026/01/27/ice_data_advertising_tech_firms/)\n\nI want to be clear here: I'm not claiming *any* prescience – quite the reverse in fact. My point is that *it just wasn't very hard to see what would happen if we let the surveillance advertising industry run wild.* Our lawmakers were warned. They did nothing. They exposed us to this risk, which was both foreseeable *and* foreseen.\n\nNor did the ICE/ad-tech alliance drop out of the sky. The fascist mobilization of ad-tech data for a racist pogrom is the latest installment in a series of extremely visible, worsening weaponizations of commercial surveillance. Just last year, I testified before Biden's CFPB at hearings on a rule to kill the data-broker industry, where we heard from the Pentagon about ad-tech targeting of American military personnel with gambling problems with location-based ads that reached them in their barracks:\n\n[https://pluralistic.net/2025/02/20/privacy-first-second-third/#malvertising](https://pluralistic.net/2025/02/20/privacy-first-second-third/#malvertising)\n\nBiden's CFPB passed the data broker-killing rule, but Trump and DOGE nuked it before it went into effect. Trump officials didn't offer any rationale for this, despite the fact that the testimony in that hearing included a rep from the AARP who described how data brokers let advertisers target seniors with signs of dementia (a core Trump voter bloc). I don't know for sure, but I have a sneaking suspicion that the Stephen Miller wing of the Trump coalition wanted data brokers intact so that they could use them to round up and imprison/torture/murder/enslave non-white people and Trump's political enemies.\n\nDespite this eminently foreseeable outcome of the ad-tech industry, many perfectly nice people who made extremely nice salaries working in ad-tech are rather alarmed by this turn of events:\n\n[https://quoteinvestigator.com/2017/11/30/salary/](https://quoteinvestigator.com/2017/11/30/salary/)\n\nOn Adxchanger.com, ad-tech exec David Nyurenberg writes, \"The Privacy ‘Zealots’ Were Right: Ad Tech’s Infrastructure Was Always A Risk\":\n\n[https://www.adexchanger.com/data-driven-thinking/the-privacy-zealots-were-right-ad-techs-infrastructure-was-always-a-risk/](https://www.adexchanger.com/data-driven-thinking/the-privacy-zealots-were-right-ad-techs-infrastructure-was-always-a-risk/)\n\nNyurenberg opens with a very important point – not only is ad-tech dangerous, it's also *just not very good at selling stuff*. The claims for the efficacy of surveillance advertising are grossly overblown, and used to bilk advertisers out of high premiums for a defective product:\n\n[https://truthset.com/the-state-of-data-accuracy-form/](https://truthset.com/the-state-of-data-accuracy-form/)\n\nThere's another point that Nyurenberg doesn't make, but which is every bit as important: many of ad-tech's fiercest critics have abetted ad-tech's rise by engaging in \"criti-hype\" (repeating hype claims as criticism):\n\n[https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/](https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/)\n\nThe \"surveillance capitalism\" critics who repeated tech's self-serving mumbo-jumbo about \"hacking our dopamine loops\" helped ad-tech cast itself in the role of mind-controlling evil sorcerers, which greatly benefited these self-styled Cyber-Rasputins when they pitched their ads to credulous advertisers:\n\n[https://pluralistic.net/HowToDestroySurveillanceCapitalism](https://pluralistic.net/HowToDestroySurveillanceCapitalism)\n\nNyurenberg points to European privacy activists like Johnny Ryan and Max Schrems, who have chased American surveillance advertising companies out of the Irish courts and into other EU territories and even Europe's federal court, pointing out that these two (and many others!) have long warned the world about the way that this data would be weaponized. Johnny Ryan famously called ad-tech's \"realtime bidding\" system, \"the largest data breach ever recorded\":\n\n[https://committees.parliament.uk/writtenevidence/453/html/](https://committees.parliament.uk/writtenevidence/453/html/)\n\nRyan is referring to the fact that you don't even have to buy an ad to amass vast databases of surveillance data about internet users. When you land on a webpage, every one of the little boxes where an ad will eventually show up gets its own high-speed auction in which your private data is dangled before anyone with an ad-tech account, who gets to bid on the right to shove an ad into your eyeballs. The losers of that auction are supposed to delete all your private data that they get to see through this process, but obviously they *do not*.\n\nAnd Max Schrems has hollered from the mountaintops for years about the inevitability of authoritarian governments helping themselves to ad-tech data in order to suppress dissent and terrorize their political opposition:\n\n[https://www.bipc.com/european-high-court-finds-eu-us-privacy-shield-invalid](https://www.bipc.com/european-high-court-finds-eu-us-privacy-shield-invalid)\n\nNyurenberg says his friends in ad-tech are really upset that these (eminently foreseeable) outcomes have come to pass, but (he says), ad-tech bosses claim they have no choice but to collaborate with the Trump regime. After all, we've seen what Trump does to companies that don't agree to help him commit crimes:\n\n[https://apnews.com/article/anthropic-trump-pentagon-hegseth-ai-104c6c39306f1adeea3b637d2c1c601b](https://apnews.com/article/anthropic-trump-pentagon-hegseth-ai-104c6c39306f1adeea3b637d2c1c601b)\n\nNyurenberg closes by upbraiding his ad-tech peers for refusing to engage with their critics during the decades in which it would have been possible to do something to prevent this outcome. Ad-tech insiders dismissed privacy activists as unrealistic extremists who wanted to end advertising itself and accused ad-tech execs of *wanting* to create a repressive state system of surveillance. In reality, critics were just pointing out the entirely foreseeable repressive state surveillance that ad-tech would end up enabling.\n\nI'm quite pleased to see Nyurenberg calling for a reckoning among his colleagues, but I think there's plenty of blame to spread around. Sure, the ad-tech industry built this fascist dragnet – but a series of governments around the world *let them do it*. There was nothing inevitable about mass commercial surveillance. It doesn't even work very well! Mass commercial surveillance is the public-private partnership from hell, where cops and spies shielded ad-tech companies from regulation in exchange for those ad-tech companies selling cops and spies unlimited access to their databases.\n\nOur policymakers are supposed to work for *us*. They failed us. Don't let anyone tell you that the greed and depravity of ad-tech are the sole causes of Trump's use of ad-tech to decide who to kidnap and send to a Salvadoran slave-labor camp. Policymakers should have known. They *did* know. They had every chance to stop this. They did not.\n\n(*Image: [Jakub Hałun](https://commons.wikimedia.org/wiki/File:Times_Square,_New_York_City,_20231006_1916_2338.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); [Myotus](https://commons.wikimedia.org/wiki/File:Vandal_dome_style_security_camera_in_parking_garage.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en); [Lewis Clarke](https://commons.wikimedia.org/wiki/File:Tiverton_,_CCTV_Camera_-_geograph.org.uk_-_7103690.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en); modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- A Wild Day as Trump DOJ Settles with Live Nation/Ticketmaster, State Enforcers Balk [https://www.bigtechontrial.com/p/a-wild-day-as-trump-doj-settles-with](https://www.bigtechontrial.com/p/a-wild-day-as-trump-doj-settles-with)\n\n- \nWaging war for the lulz [https://www.garbageday.email/p/waging-war-for-the-lulz](https://www.garbageday.email/p/waging-war-for-the-lulz)\n\n- \nLive Nation Settlement Spurs Chaos in Court [https://prospect.org/2026/03/09/live-nation-settlement-spurs-chaos-in-court/](https://prospect.org/2026/03/09/live-nation-settlement-spurs-chaos-in-court/)\n\n- \nWikilinker [https://whitelabel.org/2026/03/09/wikilinker/](https://whitelabel.org/2026/03/09/wikilinker/)\n\n- \nCentrists: Better Things Aren’t Possible [https://prospect.org/2026/03/10/centrists-better-things-arent-possible-democrats-south-carolina-third-way/](https://prospect.org/2026/03/10/centrists-better-things-arent-possible-democrats-south-carolina-third-way/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#retro))\n\n#20yrsago Toronto transit fans to Commission: withdraw anagram map lawsuit threat [https://web.archive.org/web/20060407230329/http://www.ttcrider.ca/anagram.php](https://web.archive.org/web/20060407230329/http://www.ttcrider.ca/anagram.php)\n\n#15yrsago BBC newsteam kidnapped, hooded and beaten by Gadaffi’s forces [https://www.bbc.com/news/world-africa-12695077](https://www.bbc.com/news/world-africa-12695077)\n\n#15yrsago Activists seize Saif Gadaffi’s London mansion [https://web.archive.org/web/20110310091023/https://london.indymedia.org/articles/7766](https://web.archive.org/web/20110310091023/https://london.indymedia.org/articles/7766)\n\n#10yrsago Spacefaring and contractual obligations: who’s with me? [https://memex.craphound.com/2016/03/09/spacefaring-and-contractual-obligations-whos-with-me/](https://memex.craphound.com/2016/03/09/spacefaring-and-contractual-obligations-whos-with-me/)\n\n#10yrsago Home Depot might pay up to $0.34 in compensation for each of the 53 million credit cards it leaked [https://web.archive.org/web/20160310041148/https://www.csoonline.com/article/3041994/security/home-depot-will-pay-up-to-195-million-for-massive-2014-data-breach.html](https://web.archive.org/web/20160310041148/https://www.csoonline.com/article/3041994/security/home-depot-will-pay-up-to-195-million-for-massive-2014-data-breach.html)\n\n#10yrsago How to make a tiffin lunch pail from used tuna fish cans [https://www.instructables.com/Tiffin-Box-from-Tuna-Cans/](https://www.instructables.com/Tiffin-Box-from-Tuna-Cans/)\n\n#10yrsago “Water Bar” celebrates the wonder and fragility of tap water [https://www.minnpost.com/cityscape/2016/03/world-s-first-full-fledged-water-bar-about-open-minneapolis/](https://www.minnpost.com/cityscape/2016/03/world-s-first-full-fledged-water-bar-about-open-minneapolis/)\n\n#10yrsago French Parliament votes to imprison tech execs for refusal to decrypt [https://arstechnica.com/tech-policy/2016/03/france-votes-to-penalise-companies-for-refusing-to-decrypt-devices-messages/](https://arstechnica.com/tech-policy/2016/03/france-votes-to-penalise-companies-for-refusing-to-decrypt-devices-messages/)\n\n#10yrsago Anti-censorship coalition urges Virginia governor to veto “Beloved” bill [https://ncac.org/incident/coalition-to-virginia-governor-veto-the-beloved-bill](https://ncac.org/incident/coalition-to-virginia-governor-veto-the-beloved-bill)\n\n#10yrsago Washington Post: 16 negative stories about Bernie Sanders in 16 hours [https://www.commondreams.org/views/2016/03/08/washington-post-ran-16-negative-stories-bernie-sanders-16-hours](https://www.commondreams.org/views/2016/03/08/washington-post-ran-16-negative-stories-bernie-sanders-16-hours)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- San Francisco: Launch for Cindy Cohn's \"Privacy's Defender\" (City Lights), Mar 10\n\n[https://citylights.com/events/cindy-cohn-launch-party-for-privacys-defender/](https://citylights.com/events/cindy-cohn-launch-party-for-privacys-defender/)\n\n- \nBarcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nLondon: Resisting Big Tech Empires (LSBU)\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#recent))\n\n- Chicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n- \nThe Lost Cause\n\n[https://streets.mn/2026/03/02/book-club-the-lost-cause/](https://streets.mn/2026/03/02/book-club-the-lost-cause/)\n\n- \nShould Democrats Make A Nuremberg Caucus? (Make It Make Sense)\n\n[https://www.youtube.com/watch?v=MWxKrnNfrlo](https://www.youtube.com/watch?v=MWxKrnNfrlo)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/10/ice-tech/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1038 words today, 46380 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/10/ice-tech/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 10 Mar 2026 15:23:43 +0000",
+        "reading_time": 17,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "HN Skins 0.4.0 - Black Bar Updates - <think>The user wants me to summarize an article about HN Skins 0.4.0 in 100-200 words. Le...",
+    "I'm Not Lying, I'm Hallucinating  - <think>The user wants me to summarize an article titled \"I'm Not Lying, I'm Hallucinating...",
+    "LLMs are bad at vibing specifications - <think>The user wants me to summarize an article titled \"LLMs are bad at vibing specificat...",
+    "Writing an LLM from scratch, part 32e -- Interventions: the learning rate - <think>The user wants me to summarize an article about learning rate in LLM training. Let...",
+    "Just Use Postgres - <think>The user wants me to summarize an article about using PostgreSQL as a git hosting a..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 22
+    },
+    {
+      "word": "author",
+      "count": 20
+    },
+    {
+      "word": "summary",
+      "count": 15
+    },
+    {
+      "word": "think",
+      "count": 14
+    },
+    {
+      "word": "learning",
+      "count": 14
+    },
+    {
+      "word": "git",
+      "count": 14
+    },
+    {
+      "word": "points",
+      "count": 13
+    },
+    {
+      "word": "rate",
+      "count": 13
+    },
+    {
+      "word": "key",
+      "count": 12
+    },
+    {
+      "word": "ai",
+      "count": 11
+    },
+    {
+      "word": "words",
+      "count": 10
+    },
+    {
+      "word": "let",
+      "count": 10
+    },
+    {
+      "word": "summarize",
+      "count": 9
+    },
+    {
+      "word": "write",
+      "count": 8
+    },
+    {
+      "word": "skins",
+      "count": 8
+    },
+    {
+      "word": "they're",
+      "count": 8
+    },
+    {
+      "word": "specifications",
+      "count": 8
+    },
+    {
+      "word": "ads",
+      "count": 8
+    },
+    {
+      "word": "post",
+      "count": 7
+    },
+    {
+      "word": "bar",
+      "count": 7
+    },
+    {
+      "word": "concise",
+      "count": 7
+    },
+    {
+      "word": "llms",
+      "count": 7
+    },
+    {
+      "word": "main",
+      "count": 7
+    },
+    {
+      "word": "actually",
+      "count": 7
+    },
+    {
+      "word": "surveillance",
+      "count": 7
+    },
+    {
+      "word": "functions",
+      "count": 6
+    },
+    {
+      "word": "like",
+      "count": 6
+    },
+    {
+      "word": "update",
+      "count": 6
+    },
+    {
+      "word": "user",
+      "count": 6
+    },
+    {
+      "word": "wants",
+      "count": 6
+    },
+    {
+      "word": "tech",
+      "count": 6
+    },
+    {
+      "word": "hallucinating",
+      "count": 6
+    },
+    {
+      "word": "tla",
+      "count": 6
+    },
+    {
+      "word": "specs",
+      "count": 6
+    },
+    {
+      "word": "postgresql",
+      "count": 6
+    },
+    {
+      "word": "i'm",
+      "count": 5
+    },
+    {
+      "word": "work",
+      "count": 5
+    },
+    {
+      "word": "security",
+      "count": 5
+    },
+    {
+      "word": "hn",
+      "count": 5
+    },
+    {
+      "word": "lying",
+      "count": 5
+    },
+    {
+      "word": "analyze",
+      "count": 5
+    },
+    {
+      "word": "informative",
+      "count": 5
+    },
+    {
+      "word": "whether",
+      "count": 5
+    },
+    {
+      "word": "ad-tech",
+      "count": 5
+    },
+    {
+      "word": "fascist",
+      "count": 5
+    },
+    {
+      "word": "intended",
+      "count": 4
+    },
+    {
+      "word": "something",
+      "count": 4
+    },
+    {
+      "word": "want",
+      "count": 4
+    },
+    {
+      "word": "bubble",
+      "count": 4
+    },
+    {
+      "word": "since",
+      "count": 4
+    },
+    {
+      "word": "users",
+      "count": 4
+    },
+    {
+      "word": "black",
+      "count": 4
+    },
+    {
+      "word": "issue",
+      "count": 4
+    },
+    {
+      "word": "vibe",
+      "count": 4
+    },
+    {
+      "word": "hallucination",
+      "count": 4
+    },
+    {
+      "word": "failures",
+      "count": 4
+    },
+    {
+      "word": "don't",
+      "count": 4
+    },
+    {
+      "word": "critical",
+      "count": 4
+    },
+    {
+      "word": "argues",
+      "count": 4
+    },
+    {
+      "word": "model",
+      "count": 4
+    },
+    {
+      "word": "formal",
+      "count": 4
+    },
+    {
+      "word": "generate",
+      "count": 4
+    },
+    {
+      "word": "alloy",
+      "count": 4
+    },
+    {
+      "word": "correct",
+      "count": 4
+    },
+    {
+      "word": "without",
+      "count": 4
+    },
+    {
+      "word": "part",
+      "count": 4
+    },
+    {
+      "word": "weight",
+      "count": 4
+    },
+    {
+      "word": "decay",
+      "count": 4
+    },
+    {
+      "word": "takeaways",
+      "count": 4
+    },
+    {
+      "word": "deployment",
+      "count": 4
+    },
+    {
+      "word": "protocol",
+      "count": 4
+    },
+    {
+      "word": "database",
+      "count": 4
+    },
+    {
+      "word": "system",
+      "count": 4
+    },
+    {
+      "word": "google",
+      "count": 4
+    },
+    {
+      "word": "previous",
+      "count": 3
+    },
+    {
+      "word": "trig",
+      "count": 3
+    },
+    {
+      "word": "rather",
+      "count": 3
+    },
+    {
+      "word": "asked",
+      "count": 3
+    },
+    {
+      "word": "thing",
+      "count": 3
+    },
+    {
+      "word": "dotcom",
+      "count": 3
+    },
+    {
+      "word": "burst",
+      "count": 3
+    },
+    {
+      "word": "ago",
+      "count": 3
+    },
+    {
+      "word": "added",
+      "count": 3
+    },
+    {
+      "word": "insights",
+      "count": 3
+    },
+    {
+      "word": "actionable",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "log",
+      "count": 3
+    },
+    {
+      "word": "explorer",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "smart",
+      "count": 3
+    },
+    {
+      "word": "themes",
+      "count": 3
+    },
+    {
+      "word": "appears",
+      "count": 3
+    },
+    {
+      "word": "captures",
+      "count": 3
+    },
+    {
+      "word": "github",
+      "count": 3
+    },
+    {
+      "word": "titled",
+      "count": 3
+    },
+    {
+      "word": "content",
+      "count": 3
+    },
+    {
+      "word": "karpathy",
+      "count": 3
+    },
+    {
+      "word": "terms",
+      "count": 3
+    },
+    {
+      "word": "term",
+      "count": 3
+    },
+    {
+      "word": "prediction",
+      "count": 3
+    }
+  ]
+}
