@@ -1,0 +1,847 @@
+{
+  "date": "2026-03-11",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 26,
+    "long_articles": 4
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting John Carmack",
+        "summary": "<blockquote cite=\"https://twitter.com/ID_AA_Carmack/status/1405932642005041153\"><p>It is hard for less experienced developers to appreciate how rarely architecting for future requirements / applications turns out net-pos...",
+        "url": "https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "2026-03-11T14:47:09.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "From the DF Archive: ‘And Oranges’",
+        "summary": "Mark Pilgrim’s reappearance on Daring Fireball this week prompted me to revisit this essay I wrote 20 years ago. Holds up pretty well, I think. This bit, in particular, seems particular apt w/r/t Tahoe: I’m deeply suspic...",
+        "url": "https://daringfireball.net/2006/06/and_oranges",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T19:02:11.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+        "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryk...",
+        "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security"
+        ],
+        "published_at": "Wed, 11 Mar 2026 16:20:13 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft Patch Tuesday, March 2026 Edition",
+        "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-da...",
+        "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Wed, 11 Mar 2026 00:32:51 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How do compilers ensure that large stack allocations do not skip over the guard page?",
+        "summary": "Don't take steps that are too large. The post How do compilers ensure that large stack allocations do not skip over the guard page? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Wed, 11 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Amiga 600: The Amiga no one wanted",
+        "summary": "The Amiga 600 was one of the last Amigas, and it became a symbol of everything wrong with Commodore and the product line. Retro enthusiasts like it today because of its small size, so it’s the perfect retro Amiga for The...",
+        "url": "https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=amiga-600-the-amiga-no-one-wanted",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Hardware",
+          "Other"
+        ],
+        "published_at": "Wed, 11 Mar 2026 11:00:23 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Slashing agent token costs by 98% with RFC 9457-compliant error responses",
+        "summary": "Cloudflare now returns RFC 9457-compliant structured Markdown and JSON error payloads to AI agents, replacing heavyweight HTML pages with machine-readable instructions. This reduces token usage by over 98%, turning britt...",
+        "url": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 11 Mar 2026 13:05:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AI Security for Apps is now generally available",
+        "summary": "Cloudflare AI Security for Apps is now generally available, providing a security layer to discover and protect AI-powered applications, regardless of the model or hosting provider. We are also making AI discovery free fo...",
+        "url": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Wed, 11 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I don't know if I like working at higher levels of abstraction",
+        "summary": "AI tools push us to higher abstraction. I'm not sure I like what that costs us.",
+        "url": "https://xeiaso.net/blog/2026/ai-abstraction/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "Wed, 11 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I’m glad the Anthropic fight is happening now",
+        "summary": "“Preface to the highest stakes negotiations in history.”",
+        "url": "https://www.dwarkesh.com/p/dow-anthropic",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML",
+          "Other"
+        ],
+        "published_at": "Wed, 11 Mar 2026 18:55:20 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other",
+          "Product"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Startup"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-11T22:18:32.297Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "The Server Older than my Kids! ",
+        "summary": "<think>The user wants me to summarize this article in 100-200 words. Let me identify the key points:\n\n1. The author runs a blog on two servers - one for PHP/logic/database, one for static files\n2. Years ago, an article went viral on Hacker News and Reddit, crashing the server\n3. The author learned from this and set up a CDN-like system but downgraded back to simple setup\n4. In 2018, another viral article with millions of requests was handled fine\n5. The server is 7 years old and still running Ubuntu 18.04\n6. The author was hesitant to upgrade due to undocumented customizations\n7. Manual processes like SFTP/SCP for file uploads were used\n8. The author finally created a provisioning script using AI\n9. Now has a new server running Ubuntu 24.04 with automated setup\n10. Still has 9-year-old and 11-year-old servers running other applications\n\nMain takeaways:\n- Experience with traffic spikes taught important lessons about server architecture\n- Documentation and automation are crucial\n- Even simple setups can be robust with proper configuration\n- AI can help with provisioning scripts\n- Emotional attachment to long-running servers\n\nNow I'll write a concise 100-200 word summary.\n</think>\n\nThe author runs a blog on two servers—one for the PHP application and database, and another for static files. Years ago, when an article went viral on Hacker News and Reddit, the server crashed repeatedly, requiring manual restarts. The author learned that serving 17 assets per page was overloading the server, so they experimented with a CDN-like setup but ultimately simplified back to a two-server configuration, which has handled traffic spikes reliably ever since—including millions of requests during a viral article in 2018.\n\nDespite the server running Ubuntu 18.04 for seven years, the author delayed upgrading due to undocumented customizations and manual processes like SFTP file uploads. Recently, they used AI to create a provisioning script that automates server setup with configurable values. This now allows quick deployment to Ubuntu 24.04, with plans to migrate to future LTS versions using the same script. The author also built a web interface for content uploads, which they'll share on GitHub.\n\nDespite emotional attachment to the aging hardware, they're proceeding with the upgrade while noting that 9-year-old and 11-year-old servers still run critical applications.",
+        "content": "This blog runs on two servers. One is the main PHP blog engine that handles the logic and the database, while the other serves all static files. Many years ago, an article I wrote reached the top position on both Hacker News and Reddit. My server couldn't [handle the traffic](https://idiallo.com/blog/handling-1-million-web-request). I literally had a terminal window open, monitoring the CPU and restarting the server every couple of minutes. But I learned a lot from it.\n\nThe page receiving all the traffic had a total of 17 assets. So in addition to the database getting hammered, my server was spending most of its time serving images, CSS and JavaScript files. So I decided to set up additional servers to act as a sort of CDN to spread the load. I added multiple servers around the world and used MaxMindDB to determine a user's location to [serve files from the closest server](https://idiallo.com/blog/creating-your-own-cdn-with-nginx). But it was overkill for a small blog like mine. I quickly downgraded back to just one server for the application and one for static files.\n\nEver since I set up this configuration, my server never failed due to a traffic spike. In fact, in 2018, right after I upgraded the servers to Ubuntu 18.04, one of my articles went viral like nothing [I had seen before](https://idiallo.com/blog/when-a-machine-fired-me). Millions of requests hammered my server. The machine handled the traffic just fine.\n\nIt's been 7 years now. I've procrastinated long enough. An upgrade was long overdue. What kept me from upgrading to Ubuntu 24.04 LTS was that I had customized the server heavily over the years, and never documented any of it. Provisioning a new server means setting up accounts, dealing with permissions, and transferring files. All of this should have been straightforward with a formal process. Instead, uploading blog post assets has been a very manual affair. I only partially completed the upload interface, so I've been using SFTP and SCP from time to time to upload files.\n\nIt's only now that I've finally created a provisioning script for my asset server. I mostly used AI to generate it, then used a configuration file to set values such as email, username, SSH keys, and so on. With the click of a button, and 30 minutes of waiting for DNS to update, I now have a brand new server running Ubuntu 24.04, serving my files via Nginx. Yes, next months Ubuntu 26.04 LTS comes out, and I can migrate it by running the same script.\n\nI also built an interface for uploading content without relying on SFTP or SSH, which I'll be publishing on GitHub soon.\n\nIt's been 7 years running this server. It's older than my kids. Somehow, I feel a pang of emotion thinking about turning it off. I'll do it tonight...\n\nBut while I'm at it, I need to do something about the 9-year-old and 11-year-old servers that still run some crucial applications.\n\n![My older servers need upgrading](https://cdn.idiallo.com/images/assets/daily/98/old_servers.jpg)",
+        "url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Wed, 11 Mar 2026 01:38:25 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "git-pkgs/actions",
+        "summary": "<think>The user wants me to summarize an article about git-pkgs/actions in 100-200 words. Let me identify the key points:\n\n1. git-pkgs was previously a local terminal tool for querying dependency history, scanning vulnerabilities, and checking licenses\n2. git-pkgs/actions is a set of reusable GitHub Actions that automate this process\n3. The setup action downloads the binary and initializes the database\n4. Key actions include:\n   - diff: Posts comments on PRs about dependency changes\n   - vulns: Syncs with OSV database, can fail builds based on severity\n   - licenses: Allows or denies specific licenses\n   - sbom: Generates CycloneDX or SPDX Software Bill of Materials\n5. All actions are composite (shell scripts, no Node.js or Docker)\n6. Example workflow provided\n\nI need to write a concise 100-200 word summary focusing on the main takeaways.\n</think>\n\n# Summary: git-pkgs/actions\n\ngit-pkgs/actions introduces a set of reusable GitHub Actions that transform git-pkgs from a local terminal tool into an automated CI solution for dependency management. Previously, integrating git-pkgs into CI required manually downloading binaries, initializing databases, and configuring checks.\n\nThe new actions simplify this with a `setup` action that handles binary downloads and database initialization. The `diff` action posts comments on pull requests listing added, removed, or changed dependencies, updating the same comment on subsequent pushes. The `vulns` action syncs against the OSV database and can fail builds based on severity thresholds, with optional SARIF output for GitHub Advanced Security integration.\n\nThe `licenses` action supports allow or deny lists for controlling acceptable licenses during PR review. The `sbom` action generates CycloneDX or SPDX Software Bill of Materials, uploading them as workflow artifacts or attaching them to releases.\n\nAll actions are implemented as shell scripts without Node.js or Docker dependencies, enhancing security and performance. A complete example workflow demonstrates combining these actions to automate dependency checking in CI pipelines.",
+        "content": "Until now [git-pkgs](https://github.com/git-pkgs/git-pkgs) has been a local tool, you run it in your terminal to query dependency history, scan for vulnerabilities, check licenses. Getting it into CI meant downloading the binary yourself, initializing the database, and wiring up whatever checks you wanted by hand.\n\n[git-pkgs/actions](https://github.com/git-pkgs/actions) is a set of reusable GitHub Actions that handle all of that. A `setup` action downloads the binary and initializes the database, and the rest build on top of it. A dependency diff on pull requests is three lines of YAML:\n\n```\nsteps:\n  - uses: actions/checkout@v4\n    with:\n      fetch-depth: 0\n\n  - uses: git-pkgs/actions/setup@v1\n  - uses: git-pkgs/actions/diff@v1\n\n```\n\nThat posts a comment on the PR listing every dependency that was added, removed, or changed, and updates the same comment on subsequent pushes rather than creating a new one.\n\n### Vulnerabilities\n\nThe `vulns` action syncs against the [OSV database](https://osv.dev/) and can fail the build above a severity threshold:\n\n```\n- uses: git-pkgs/actions/vulns@v1\n  with:\n    severity: \"high\"\n\n```\n\nWithout `severity` it reports findings but doesn’t block, which is a reasonable way to start before making it a hard gate. Setting `sarif: \"true\"` uploads results to GitHub Advanced Security so vulnerability alerts show up alongside CodeQL in the Security tab.\n\n### Licenses\n\n```\n- uses: git-pkgs/actions/licenses@v1\n  with:\n    allow: \"MIT,Apache-2.0,BSD-2-Clause,BSD-3-Clause,ISC\"\n\n```\n\nAn allow list permits only those licenses and rejects everything else. You can use a deny list instead if you only want to block a few specific licenses like GPL-3.0 or AGPL-3.0 while accepting the rest. Either way, the “can we use this license” conversation happens at PR time rather than after something ships.\n\n### SBOMs\n\n```\n- uses: git-pkgs/actions/sbom@v1\n  with:\n    format: \"cyclonedx\"\n\n```\n\nGenerates a [CycloneDX](https://cyclonedx.org/) or [SPDX](https://spdx.dev/) Software Bill of Materials and uploads it as a workflow artifact. You can also disable the upload and attach the file to a GitHub release instead, which is what I do for git-pkgs itself.\n\n### All together\n\n```\nname: Dependencies\non: pull_request\n\npermissions:\n  contents: read\n  pull-requests: write\n\njobs:\n  check:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n        with:\n          fetch-depth: 0\n\n      - uses: git-pkgs/actions/setup@v1\n      - uses: git-pkgs/actions/diff@v1\n      - uses: git-pkgs/actions/vulns@v1\n        with:\n          severity: \"high\"\n      - uses: git-pkgs/actions/licenses@v1\n        with:\n          deny: \"GPL-3.0-only,AGPL-3.0-only\"\n\n```\n\nThe `setup` action runs `git-pkgs init` once and the other steps share the same database. All the actions are composite – shell scripts, no Node.js or Docker – and the repo passes [zizmor](https://github.com/zizmorcore/zizmor) in pedantic mode with inputs going through environment variables, action refs pinned by SHA, and credentials not persisted.\n\nThere’s a lot git-pkgs can do that doesn’t have an action yet: integrity drift detection, outdated dependency reports, enforcing package policy through notes. I’m curious what would actually be useful in practice, so if you have ideas or want something specific, open an issue on the [actions repo](https://github.com/git-pkgs/actions/issues) or find me on [Mastodon](https://mastodon.social/@andrewnez).",
+        "url": "https://nesbitt.io/2026/03/11/git-pkgs-actions.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Database",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-11T10:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Where did you think the training data was coming from? ",
+        "summary": "<think>The user wants me to summarize an article about data privacy concerns with technology devices, particularly focusing on how companies like Meta, Microsoft, Google, and Apple collect user data through their devices and services.\n\nLet me analyze the key points:\n1. The article starts by discussing Meta's smart glasses sending data to Facebook servers\n2. It draws parallels to Mark Zuckerberg taping his laptop camera/microphone\n3. Discusses Windows 10/11 requiring online accounts and data collection\n4. Mentions Microsoft licensing agreements that require data transmission\n5. Discusses Chromebook's mandatory Google account and data collection\n6. Notes Apple's privacy claims vs. reality (Siri lawsuit)\n7. Tesla employees sharing private videos\n\nThe user wants 100-200 words, focusing on key points and main takeaways. I need to be concise but informative.\n\nLet me write a summary that captures the main themes:\n- The article explores how major tech companies collect user data through devices\n- Even privacy-conscious CEOs (like Zuckerberg) don't trust their own devices\n- Terms of service agreements legally require users to consent to data collection\n- Companies like Microsoft, Google, Apple, and Tesla have all faced privacy concerns\n- The author argues we've become cynical about privacy invasion\n\nI'll write this in a straightforward, informative style.\n</think>\n\n# Summary: Where Did You Think the Training Data Was Coming From?\n\nThis article examines how major tech companies collect user data through their devices, challenging assumptions about privacy. The author reflects on Meta's smart glasses feeding data to Facebook servers, noting that skepticism about such practices has become warranted. When Mark Zuckerberg himself covers his laptop's camera and microphone, it raises concerns about what ordinary users should do to protect their privacy.\n\nThe article highlights how modern operating systems like Windows 10/11 require online accounts, with Microsoft explicitly stating they use user data to develop AI models. Users technically consent to data transmission through licensing agreements they rarely read. Similarly, Chromebooks mandate Google accounts, and Google's business model revolves entirely around data collection for advertising and AI training.\n\nEven Apple, which markets itself as privacy-focused, faced a $95 million settlement over Siri recording conversations without consent. Tesla employees were also found sharing sensitive videos recorded inside customers' private homes. The author argues that none of this is secret—it's all buried in terms of service agreements, suggesting users have essentially agreed to constant data collection without realizing it.",
+        "content": "When the news broke that Meta's smart glasses were feeding data directly into [their Facebook servers](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything), I wondered what all the fuss was about. Who thought AI glasses used to secretly record people would be private? Then again, I've grown [cynical over the years](https://idiallo.com/blog/why-am-i-paranoid).\n\nThe camera on your laptop is pointed at you right now. When activated, it can record everything you do. When Zuckerberg posted a selfie with his laptop visible in the background, people were quick to notice that both the webcam and the microphone had black tape over them. If the CEO of one of the largest tech companies in the world doesn't trust his own device, what are the rest of us supposed to do?\n\n![Zuckerberg taped laptop](https://cdn.idiallo.com/images/assets/629/zuck.jpg)\n\nOn my Windows 7 machine, I could at least assume the default behavior wasn't to secretly spy on me. With good security hygiene, my computer would stay safe. For Windows 10 and beyond, that assumption may no longer hold. Microsoft's incentives have shifted. They now require users to create an online account, which comes with pages of terms to agree to, and they are in the business of [collecting data](https://www.microsoft.com/en-us/privacy/privacystatement#mainhowweusepersonaldatamodule).\n\n> As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models.\n\nThat's your local data being uploaded to their servers for their benefit. Under their licensing agreement (because you don't buy Windows, you only *license* it) you are contractually required to allow certain information to be sent back to Microsoft:\n\n> By accepting this agreement or using the software, you agree to all of these terms, and consent to the transmission of certain information during activation and during your use of the software as per the privacy statement described in Section 3. If you do not accept and comply with these terms, you may not use the software or its features.\n\nThe data transmitted includes telemetry, personalization, AI improvement, and advertising features.\n\nOn a Chromebook, there was never an option to use the device without a Google account. Google is in the advertising business, and reading their terms of service, even partially, it all revolves around data collection. Your data is used to build a profile both for advertising and AI training.\n\nNone of this is a secret. It's public information, buried in those terms of service agreements we blindly click through. Even Apple, which touts itself as privacy-first in every ad, was caught using user data [without consent](https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/). Tesla employees were found sharing videos recorded inside customers' [private homes](https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/).\n\nWhile some treat the Ray-Ban glasses story as an isolated incident, here is Yann LeCun, Meta's former chief AI scientist, describing [transfer learning](https://www.youtube.com/watch?v=SGSOCuByo24&&t=3431) using billions of user images:\n\n> We do this at Facebook in production, right? We train large convolutional nets to predict hashtags that people type on Instagram, and we train on literally billions of images. Then we chop off the last layer and fine-tune on whatever task we want. That works really well.\n\nThat was seven years ago, and he was talking about pictures and videos people upload to Instagram. When you put your data on someone else's server, all you can do is trust that they use it as intended. Privacy policies are kept deliberately vague for exactly this reason. Today, Meta calls itself AI-first, meaning it's collecting even more to train its models.\n\nMeta's incentive to collect data exceeds even that of Google or Microsoft. Advertising is their primary revenue source. Last year, it accounted for 98% of their forecasted [$189 billion in revenue](https://www.trefis.com/data/companies/META/no-login-required/CGDqaanj/Meta-Platforms-Revenues-How-Does-META-Make-Money-).\n\nYes, Meta glasses record you in moments you expect to be private, and their workers process those videos at their discretion. We shouldn't expect privacy from a camera or a microphone, or any internet-connected device, that we don't control. That's the reality we have to accept.\n\nAI is not a magical technology that simply happens to know a great deal about us. It is trained on a pipeline of people's information: video, audio, text. That's how it works. If you buy the device, it will monitor you.",
+        "url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "Wed, 11 Mar 2026 12:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026)",
+        "summary": "<think>The user wants me to summarize this article in 100-200 words. Let me analyze the content provided.\n\nThe article is titled \"AI 'journalists' prove that media bosses don't give a shit\" dated March 11, 2026 from Pluralistic.net.\n\nLooking at the content, it appears to be about Ed Zitron, a journalist who does \"stunt journalism.\" The article mentions:\n1. Ed Zitron is described as a fantastic journalist who can turn analysis of AI companies' balance sheets into informed critiques\n2. In 2024, Ed bought Amazon's bestselling laptop (a cheap $238 Acer Aspire with outdated specs) and wrote about the experience\n3. The machine was underpowered and filled with bloatware/ad garbage\n4. The article seems to be cut off at the end (\"Normally the 'digita...\")\n\nThe article appears to be making a point about how media bosses don't care about certain issues, and Ed Zitron's journalism highlights this. The title suggests AI \"journalists\" are being used as a way for media bosses to avoid real journalism or cut costs.\n\nHowever, I notice the article is truncated - it ends mid-sentence. The full article would likely continue to make its point about AI in journalism and media bosses' priorities.\n\nGiven the truncated nature, I'll summarize what I can gather from the content available, focusing on Ed Zitron's stunt journalism and the implied critique of media industry practices.\n\nThe summary should be 100-200 words, concise and informative, focusing on key points and main takeaways.\n</think>\n\n**Summary:**\n\nThis article from Pluralistic (March 11, 2026) examines Ed Zitron's \"stunt journalism\" to critique media industry failures. Zitron, known for exposing AI companies' financial practices, demonstrated the disconnect between tech industry promises and reality by purchasing Amazon's bestselling laptop—a $238 Acer Aspire with outdated components and excessive bloatware. While tech-savvy users would immediately fix such a machine, the average buyer lacks the knowledge to do so and suffers the consequences daily.\n\nThe article suggests this experiment exemplifies how media bosses prioritize cost-cutting and automation over genuine journalism. By using AI-generated content and ignoring real investigative work, media companies demonstrate they don't value quality reporting or their readers' actual experiences. Zitron's stunt journalism serves as a mirror, revealing how out-of-touch both tech companies and media leadership have become from everyday users' realities.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/11Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/)\n\n## Today's links\n\n- [AI \"journalists\" prove that media bosses don't give a shit](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#autoplay-videos): In case there was ever any doubt.\n\n- [Hey look at this](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#retro): Eggflation x excuseflation; Haunted Mansion stretch portraits; \"Lost Souls\"; Time Magazine x the first Worldcon; Obama v Freedom of Information Act; Ragequitting jihadi doxxes ISIS; OSI v DRM in standards.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ai-journalism.jpg?w=840&ssl=1)\n\n## AI \"journalists\" prove that media bosses don't give a shit ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#autoplay-videos))\n\nEd Zitron's a fantastic journalist, capable of turning a close read of AI companies' balance-sheets into an incandescent, exquisitely informed, eye-wateringly profane rant:\n\n[https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/)\n\nThat's \"Ed, the financial sleuth.\" But Ed has another persona, one we don't get nearly enough of, which I delight in: \"Ed the stunt journalist.\" For example, in 2024, Ed bought Amazon's bestselling laptop, \"a $238 Acer Aspire 1 with a four-year-old Celeron N4500 Processor, 4GB of DDR4 RAM, and 128GB of slow eMMC storage\" and wrote about the experience of using the internet with this popular, terrible machine:\n\n[https://www.wheresyoured.at/never-forgive-them/](https://www.wheresyoured.at/never-forgive-them/)\n\nIt sucked, of course, but it sucked in a way that the median tech-informed web user has never experienced. Not only was this machine dramatically underpowered, but its defaults were set to accept all manner of CPU-consuming, screen-filling ad garbage and bloatware. If you or I had this machine, we would immediately hunt down all those settings and nuke them from orbit, but the kind of person who buys a $238 Acer Aspire from Amazon is unlikely to know how to do any of that and will suffer through it every day, forever.\n\nNormally the \"digital divide\" refers to *access* to technology, but as access becomes less and less of an issue, the real divide is between people who know how to defend themselves from the cruel indifference of technology designers and people who are helpless before their enshittificatory gambits.\n\nZitron's stunt stuck with me because it's so simple and so apt. Every tech designer should be forced to use a stock configuration Acer Aspire 1 for a minimum of three hours/day, just as every aviation CEO should be required to fly basic coach at least one out of three flights (and one of two long-haul flights).\n\nTo that, I will add: every news executive should be forced to consume the news in a stock browser with no adblock, no accessibility plugins, no Reader View, none of the add-ons that make reading the web bearable:\n\n[https://pluralistic.net/2026/03/07/reader-mode/#personal-disenshittification](https://pluralistic.net/2026/03/07/reader-mode/#personal-disenshittification)\n\nBut in all honesty, I fear this would not make much of a difference, because I suspect that the people who oversee the design of modern news sites *don't care about the news at all*. They don't read the news, they don't consume the news. They *hate* the news. They view the news as a necessary evil within a wider gambit to deploy adware, malware, pop-ups, and auto-play video.\n\nRawdogging a Yahoo News article means fighting through a forest of pop-ups, pop-unders, autoplay video, interrupters, consent screens, modal dialogs, modeless dialogs – a blizzard of news-obscuring crapware that oozes contempt for the material it befogs. Irrespective of the words and icons displayed in these DOM objects, they all carry the same message: \"The news on this page *does not matter*.\"\n\nThe owners of news services view the news as a necessary evil. They aren't a news organization: they are an annoying pop-up and cookie-setting factory with an inconvenient, vestigial news entity attached to it. News exists on sufferance, and if it was possible to do away with it altogether, the owners would.\n\nThat turns out to be the defining characteristic of work that is turned over to AI. Think of the rapid replacement of customer service call centers with AI. Long before companies shifted their customer service to AI chatbots, they shifted the work to overseas call centers where workers were prohibited from diverging from a script that made it all but impossible to resolve your problems:\n\n[https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice](https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice)\n\nThese companies didn't want to do customer service in the first place, so they sent the work to India. Then, once it became possible to replace Indian call center workers who weren't allowed to solve your problems with chatbots that *couldn't* resolve your problems, they fired the Indian call center workers and replaced them with chatbots. Ironically, many of these chatbots turn out to be call center workers *pretending* to be chatbots (as the Indian tech joke goes, \"AI stands for 'Absent Indians'\"):\n\n[https://pluralistic.net/2024/01/29/pay-no-attention/#to-the-little-man-behind-the-curtain](https://pluralistic.net/2024/01/29/pay-no-attention/#to-the-little-man-behind-the-curtain)\n\n\"We used an AI to do this\" is increasingly a way of saying, \"We didn't want to do this in the first place and we don't care if it's done well.\" That's why DOGE replaced the call center reps at US Customs and Immigration with a chatbot that tells you to read a PDF and then disconnects the call:\n\n[https://pluralistic.net/2026/02/06/doge-ball/#n-600](https://pluralistic.net/2026/02/06/doge-ball/#n-600)\n\nThe Trump administration doesn't want to hear from immigrants who are trying to file their bewildering paperwork correctly. Incorrect immigration paperwork is a feature, not a bug, since it can be refined into a pretext to kidnap someone, imprison them in a gulag long enough to line the pockets of a Beltway Bandit with a no-bid contract to operate an onshore black site, and then deport them to a country they have no connection with, generating a fat payout for another Beltway Bandit with the no-bid contract to fly kidnapped migrants to distant hellholes.\n\nIf the purpose of a customer service department is to tell people to go fuck themselves, then a chatbot is obviously the most efficient way of delivering the service. It's not just that a chatbot charges less to tell people to go fuck themselves than a human being – the chatbot itself *means* \"go fuck yourself.\" A chatbot is basically a \"go fuck yourself\" emoji. Perhaps this is why every AI icon looks like a butthole:\n\n[https://velvetshark.com/ai-company-logos-that-look-like-buttholes](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)\n\nSo it's no surprise that media bosses are so enthusiastic about replacing writers with chatbots. They *hate* the news and want it to go away. Outsourcing the writing to AI is just another way of devaluing it, adjacent to the existing enshittification that sees the news buried in popups, autoplays, consent dialogs, interrupters and the eleventy-million horrors that a stock browser with default settings will shove into your eyeballs on behalf of any webpage that demands them:\n\n[https://pluralistic.net/2024/05/07/treacherous-computing/#rewilding-the-internet](https://pluralistic.net/2024/05/07/treacherous-computing/#rewilding-the-internet)\n\nRemember that summer reading list that Hearst distributed to newspapers around the country, which turned out to be stuffed with \"hallucinated\" titles? At first, the internet delighted in dunking on Marco Buscaglia, the writer whose byline the list ran under. But as 404 Media's Jason Koebler unearthed, Buscaglia had been set up to fail, tasked with writing most of a 64-page insert that would have normally been the work of *dozens* of writers, editors and fact checkers, all on his own:\n\n[https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/](https://www.404media.co/chicago-sun-times-prints-ai-generated-summer-reading-list-with-books-that-dont-exist/)\n\nWhen Hearst hires one freelancer to do the work of dozens, they are saying, \"We do not give a shit about the quality of this work.\" It is literally impossible for any writer to produce something *good* under those conditions. The purpose of Hearst's syndicated summer guide was to bulk out the newspapers that had been stripmined by their corporate owners, slimmed down to a handful of pages that are mostly ads and wire-service copy. The mere fact that this supplement was handed to a single freelancer blares \"Go fuck yourself\" long before you clap eyes on the actual words printed on the pages.\n\nThe capital class is in the grips of a bizarre form of AI psychosis: the fantasy of a world without people, where any fool idea that pops into a boss's head can be turned into a product without having to negotiate its creation with skilled workers who might point out that your idea is pretty fucking *stupid*:\n\n[https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)\n\nFor these AI boosters, the point isn't to create an AI that can do the work as well as a person – it's to condition the world to accept the lower-quality work that will come from a chatbot. Rather than reading a summer reading list of *actual books*, perhaps you could be satisfied with a summer reading list of *hallucinated books* that are at least statistically probable book-shaped imaginaries?\n\nThe bosses dreaming up use-cases for AI start from a posture of profound and proud ignorance of how workers who do useful things operate. They ask themselves, \"If I was a ______, how would I do the job?\" and then they ask an AI to do that, and declare the job done. They produce utility-shaped statistical artifacts, not utilities.\n\nTake Grammarly, a company that offers statistical inferences about likely errors in your text. Grammar checkers aren't a terrible idea on their face, and I've heard from many people who struggle to express themselves in writing (either because of their communications style, or because they don't speak English as a first language) for whom apps like Grammarly are useful.\n\nBut Grammarly has just rolled out an AI tool that is so obviously contemptuous of writing that they might as well have called it \"Go fuck yourself, by Grammarly.\" The new product is called \"Expert Review,\" and it promises to give you writing advice \"inspired\" by writers whose writing they have ingested. I am one of these virtual \"writing teachers\" you can pay Grammarly for:\n\n[https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)\n\nThis is not how writing advice works. When I teach the Clarion Science Fiction and Fantasy Writers' workshop, my job isn't to train the students to produce work that is strongly statistically correlated with the sentence structure and word choices in my own writing. My job – the job of *any* writing teacher – is to try and understand the *student's* writing style and artistic intent, and to provide advice for developing that style to express that intent.\n\nWhat Grammarly is offering isn't writing advice, it's *stylometry*, a computational linguistics technique for evaluating the likelihood that two candidate texts were written by the same person. Stylometry is a very cool discipline (as is adversarial stylometry, a set of techniques to obscure the authorship of a text):\n\n[https://en.wikipedia.org/wiki/Stylometry](https://en.wikipedia.org/wiki/Stylometry)\n\nBut *stylometry has nothing to do with teaching someone how to write*. Even if you want to write a pastiche in the style of some writer you admire (or want to send up), word choices and sentence structure are only incidental to capturing that writer's style. To reduce \"style\" to \"stylometry\" is to commit the cardinal sin of technical analysis: namely, incinerating all the squishy qualitative aspects that can't be readily fed into a model and doing math on the resulting dubious quantitative residue:\n\n[https://locusmag.com/feature/cory-doctorow-qualia/](https://locusmag.com/feature/cory-doctorow-qualia/)\n\nIf you wanted to teach a chatbot to *teach* writing like a writer, you would – at a minimum – have to train that chatbot on the *instruction* that writer gives, not the material that writer has published. Nor can you infer how a writer would speak to a student by producing a statistical model of the finished work that writer has published. \"Published work\" has only an incidental relationship to \"pedagogical communication.\"\n\nCritics of Grammarly are mostly focused on the effrontery of using writers' names without their permission. But I'm not bothered by that, honestly. So long as no one is being tricked into thinking that I endorsed a product or service, you don't need my permission to say that I inspired it (even if I think it's shit).\n\nWhat I find absolutely offensive about Grammarly is *not* that they took my name in vain, but rather, that they reduced the complex, important business of teaching writing to a statistical exercise in nudging your work into a word frequency distribution that hews closely to the average of some writer's published corpus. *This* is Grammarly's fraud: not telling people that they're being \"taught by Cory Doctorow,\" but rather, telling people that they are being \"taught\" *anything*.\n\nReducing \"teaching writing\" to \"statistical comparisons with another writer's published work\" is another way of saying \"go fuck yourself\" – not to the writers whose identities that Grammarly has hijacked, but to the customers they are tricking into using this terrible, substandard, damaging product.\n\nPreying on aspiring writers is a grift as old as the publishing industry. The world is full of dirtbag \"story doctors,\" vanity presses, fake literary agents and other flimflam artists who exploit people's natural desire to be understood to steal from them:\n\n[https://writerbeware.blog/](https://writerbeware.blog/)\n\nGrammarly is yet another company for whom \"AI\" is just a way to lower quality in the hopes of lowering expectations. For Grammarly, helping writers with their prose is an irritating adjunct to the company's main business of separating marks from their money.\n\nIn business theory, the perfect firm is one that charges infinity for its products and pays zero for its inputs (you know, \"scholarly publishing\"). For bosses, AI is a way to shift their firm towards this ideal.\n\nIn this regard, AI is connected to the long tradition of capitalist innovation, in which new production efficiencies are used to increase quantity at the expense of quality. This has been true since the Luddite uprising, in which skilled technical workers who cared deeply about the textiles they produced using complex machines railed against a new kind of machine that produced manifestly *lower quality* fabric in much higher volumes:\n\n[https://pluralistic.net/2023/09/26/enochs-hammer/#thats-fronkonsteen](https://pluralistic.net/2023/09/26/enochs-hammer/#thats-fronkonsteen)\n\nIt's not hard to find credible, skilled people who have stories about using AI to make their work better. Elsewhere, I've called these people \"centaurs\" – human beings who are assisted by machines. These people are embracing the socialist mode of automation: they are using automation to improve *quality*, not *quantity*.\n\nWhenever you hear a skilled practitioner talk about how they are able to hand off a time-consuming, low-value, low-judgment task to a model so they can focus on the part that means the most to them, you are talking to a centaur. Of course, it's possible for skilled practitioners to produce bad work – some of my favorite writers have published some very bad books indeed – but that isn't a function of automation, that's just human fallibility.\n\nA reverse centaur (a person conscripted to act as a peripheral to a machine) is trapped by the capitalist mode of automation: quantity over quality. Machines work faster and longer than humans, and the faster and harder a human can be made to work, the closer the firm can come to the ideal of paying zero for its inputs.\n\nA reverse centaur works for a machine that is set to run at the absolute limit of its human peripheral's capability and endurance. A reverse centaur is expected to produce with the mechanical regularity of a machine, catching every mistake the machine makes. A reverse centaur is the machine's accountability sink and moral crumple-zone:\n\n[https://estsjournal.org/index.php/ests/article/view/260](https://estsjournal.org/index.php/ests/article/view/260)\n\nAI is a normal technology, just another set of automation tools that have some uses for some users. The thing that makes AI signify \"go fuck yourself\" isn't some intrinsic factor of large language models or transformers. It's the capitalist mode of automation, increasing quantity at the expense of quality. Automation doesn't *have* to be a way to reduce expectations in the hopes of selling worse things for more money – but without some form of external constraint (unions, regulation, competition), that is inevitably how companies will wield *any* automation, including and especially AI.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Assassination markets are legal now but Trump doesn’t have to worry [https://protos.com/assassination-markets-are-legal-now-but-trump-doesnt-have-to-worry/](https://protos.com/assassination-markets-are-legal-now-but-trump-doesnt-have-to-worry/)\n\n- \nYou Are Being Lied to About Algorithms [https://www.usermag.co/p/you-are-being-lied-to-about-algorithms](https://www.usermag.co/p/you-are-being-lied-to-about-algorithms)\n\n- \nStates’ trial against Live Nation could move forward as soon as next week [https://www.theverge.com/policy/892353/live-nation-ticketmaster-doj-states-settlement](https://www.theverge.com/policy/892353/live-nation-ticketmaster-doj-states-settlement)\n\n- \nNeuromancer / Count Zero / Mona Lisa Overdrive [https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive](https://macintoshgarden.org/apps/neuromancer-count-zero-mona-lisa-overdrive)\n\n- \nJudge Slams Secret DOJ-Live Nation Settlement Process as \"Mind-boggling\" [https://www.bigtechontrial.com/p/judge-slams-secret-doj-live-nation](https://www.bigtechontrial.com/p/judge-slams-secret-doj-live-nation)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#retro))\n\n#15yrsago History of the Disney Haunted Mansion’s stretching portraits [https://longforgottenhauntedmansion.blogspot.com/2011/03/many-faces-ofthe-other-stretching.html](https://longforgottenhauntedmansion.blogspot.com/2011/03/many-faces-ofthe-other-stretching.html)\n\n#15yrsago Readers Against DRM (logo) [https://web.archive.org/web/20110311213843/https://readersbillofrights.info/RAD](https://web.archive.org/web/20110311213843/https://readersbillofrights.info/RAD)\n\n#15yrsago Lost Souls: Audio adaptation of a classic vampire novel [https://memex.craphound.com/2011/03/10/lost-souls-audio-adaptation-of-a-classic-vampire-novel/](https://memex.craphound.com/2011/03/10/lost-souls-audio-adaptation-of-a-classic-vampire-novel/)\n\n#15yrsago Time‘s appraisal of the first WorldCon [https://web.archive.org/web/20080906184034/https://time.com/time/magazine/article/0,9171,761661-1,00.html](https://web.archive.org/web/20080906184034/https://time.com/time/magazine/article/0,9171,761661-1,00.html)\n\n#15yrsago Insipid thrift-store landscapes improved with monsters [https://imgur.com/involuntary-collaborations-i-buy-other-peoples-landscape-paintings-yard-sales-goodwill-put-monsters-them-r-pics-2780-march-11-2011-Oujbl](https://imgur.com/involuntary-collaborations-i-buy-other-peoples-landscape-paintings-yard-sales-goodwill-put-monsters-them-r-pics-2780-march-11-2011-Oujbl)\n\n#15yrsago Fight 8-track piracy with this 1976 record sleeve [https://www.flickr.com/photos/supraterra/5516574440/in/pool-41894168726@N01](https://www.flickr.com/photos/supraterra/5516574440/in/pool-41894168726@N01)\n\n#15yrsago Michigan Republicans create “financial martial law”; appointees to replace elected local officials [https://web.archive.org/web/20120409124750/http://www.dailytribune.com/articles/2011/03/10/news/doc4d78d0d4d764d009636769.txt](https://web.archive.org/web/20120409124750/http://www.dailytribune.com/articles/2011/03/10/news/doc4d78d0d4d764d009636769.txt)\n\n#10yrsago Lawsuit reveals Obama’s DoJ sabotaged Freedom of Information Act transparency [https://web.archive.org/web/20160309183758/https://news.vice.com/article/it-took-a-foia-lawsuit-to-uncover-how-the-obama-administration-killed-foia-reform](https://web.archive.org/web/20160309183758/https://news.vice.com/article/it-took-a-foia-lawsuit-to-uncover-how-the-obama-administration-killed-foia-reform)\n\n#10yrsago If the FBI can force decryption backdoors, why not backdoors to turn on your phone’s camera? [https://www.theguardian.com/technology/2016/mar/10/apple-fbi-could-force-us-to-turn-on-iphone-cameras-microphones](https://www.theguardian.com/technology/2016/mar/10/apple-fbi-could-force-us-to-turn-on-iphone-cameras-microphones)\n\n#10yrsago Disgruntled IS defector dumps full details of tens of thousands of jihadis [https://web.archive.org/web/20160330061315/https://news.sky.com/story/1656777/is-documents-identify-thousands-of-jihadis](https://web.archive.org/web/20160330061315/https://news.sky.com/story/1656777/is-documents-identify-thousands-of-jihadis)\n\n#10yrsago Using distributed code-signatures to make it much harder to order secret backdoors [https://arstechnica.com/information-technology/2016/03/cothority-to-apple-lets-make-secret-backdoors-impossible/](https://arstechnica.com/information-technology/2016/03/cothority-to-apple-lets-make-secret-backdoors-impossible/)\n\n#10yrsago Open Source Initiative says standards aren’t open unless they protect security researchers and interoperability [https://web.archive.org/web/20190822053758/https://www.eff.org/deeplinks/2016/03/-are-only-open-if-they-protect-security-and-interoperability](https://web.archive.org/web/20190822053758/https://www.eff.org/deeplinks/2016/03/-are-only-open-if-they-protect-security-and-interoperability)\n\n#1yrago Eggflation is excuseflation [https://pluralistic.net/2025/03/10/demand-and-supply/#keep-cal-maine-and-carry-on](https://pluralistic.net/2025/03/10/demand-and-supply/#keep-cal-maine-and-carry-on)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Barcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nLondon: Resisting Big Tech Empires (LSBU)\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#recent))\n\n- Launch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n- \nThe Lost Cause\n\n[https://streets.mn/2026/03/02/book-club-the-lost-cause/](https://streets.mn/2026/03/02/book-club-the-lost-cause/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1031 words today, 47410 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Security"
+        ],
+        "published_at": "Wed, 11 Mar 2026 19:11:59 +0000",
+        "reading_time": 21,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "The Server Older than my Kids!  - <think>The user wants me to summarize this article in 100-200 words. Let me identify the k...",
+    "git-pkgs/actions - <think>The user wants me to summarize an article about git-pkgs/actions in 100-200 words....",
+    "Where did you think the training data was coming from?  - <think>The user wants me to summarize an article about data privacy concerns with technolo...",
+    "Pluralistic: AI \"journalists\" prove that media bosses don't give a shit (11 Mar 2026) - <think>The user wants me to summarize this article in 100-200 words. Let me analyze the co..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 20
+    },
+    {
+      "word": "ai",
+      "count": 16
+    },
+    {
+      "word": "data",
+      "count": 16
+    },
+    {
+      "word": "actions",
+      "count": 12
+    },
+    {
+      "word": "think",
+      "count": 11
+    },
+    {
+      "word": "author",
+      "count": 11
+    },
+    {
+      "word": "media",
+      "count": 10
+    },
+    {
+      "word": "like",
+      "count": 9
+    },
+    {
+      "word": "server",
+      "count": 9
+    },
+    {
+      "word": "user",
+      "count": 9
+    },
+    {
+      "word": "git-pkgs",
+      "count": 8
+    },
+    {
+      "word": "journalism",
+      "count": 8
+    },
+    {
+      "word": "don't",
+      "count": 7
+    },
+    {
+      "word": "servers",
+      "count": 7
+    },
+    {
+      "word": "summary",
+      "count": 7
+    },
+    {
+      "word": "microsoft",
+      "count": 6
+    },
+    {
+      "word": "security",
+      "count": 6
+    },
+    {
+      "word": "users",
+      "count": 6
+    },
+    {
+      "word": "words",
+      "count": 6
+    },
+    {
+      "word": "key",
+      "count": 6
+    },
+    {
+      "word": "database",
+      "count": 6
+    },
+    {
+      "word": "setup",
+      "count": 6
+    },
+    {
+      "word": "action",
+      "count": 6
+    },
+    {
+      "word": "privacy",
+      "count": 6
+    },
+    {
+      "word": "companies",
+      "count": 6
+    },
+    {
+      "word": "ed",
+      "count": 6
+    },
+    {
+      "word": "years",
+      "count": 5
+    },
+    {
+      "word": "wants",
+      "count": 5
+    },
+    {
+      "word": "summarize",
+      "count": 5
+    },
+    {
+      "word": "let",
+      "count": 5
+    },
+    {
+      "word": "points",
+      "count": 5
+    },
+    {
+      "word": "main",
+      "count": 5
+    },
+    {
+      "word": "content",
+      "count": 5
+    },
+    {
+      "word": "licenses",
+      "count": 5
+    },
+    {
+      "word": "focusing",
+      "count": 5
+    },
+    {
+      "word": "devices",
+      "count": 5
+    },
+    {
+      "word": "collection",
+      "count": 5
+    },
+    {
+      "word": "bosses",
+      "count": 5
+    },
+    {
+      "word": "applications",
+      "count": 4
+    },
+    {
+      "word": "amiga",
+      "count": 4
+    },
+    {
+      "word": "viral",
+      "count": 4
+    },
+    {
+      "word": "running",
+      "count": 4
+    },
+    {
+      "word": "ubuntu",
+      "count": 4
+    },
+    {
+      "word": "year-old",
+      "count": 4
+    },
+    {
+      "word": "takeaways",
+      "count": 4
+    },
+    {
+      "word": "write",
+      "count": 4
+    },
+    {
+      "word": "concise",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "dependency",
+      "count": 4
+    },
+    {
+      "word": "google",
+      "count": 4
+    },
+    {
+      "word": "agreements",
+      "count": 4
+    },
+    {
+      "word": "tech",
+      "count": 4
+    },
+    {
+      "word": "stunt",
+      "count": 4
+    },
+    {
+      "word": "zitron's",
+      "count": 4
+    },
+    {
+      "word": "mark",
+      "count": 3
+    },
+    {
+      "word": "ago",
+      "count": 3
+    },
+    {
+      "word": "based",
+      "count": 3
+    },
+    {
+      "word": "news",
+      "count": 3
+    },
+    {
+      "word": "march",
+      "count": 3
+    },
+    {
+      "word": "windows",
+      "count": 3
+    },
+    {
+      "word": "software",
+      "count": 3
+    },
+    {
+      "word": "large",
+      "count": 3
+    },
+    {
+      "word": "page",
+      "count": 3
+    },
+    {
+      "word": "costs",
+      "count": 3
+    },
+    {
+      "word": "available",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "learned",
+      "count": 3
+    },
+    {
+      "word": "smart",
+      "count": 3
+    },
+    {
+      "word": "set",
+      "count": 3
+    },
+    {
+      "word": "requests",
+      "count": 3
+    },
+    {
+      "word": "manual",
+      "count": 3
+    },
+    {
+      "word": "uploads",
+      "count": 3
+    },
+    {
+      "word": "provisioning",
+      "count": 3
+    },
+    {
+      "word": "script",
+      "count": 3
+    },
+    {
+      "word": "scripts",
+      "count": 3
+    },
+    {
+      "word": "i'll",
+      "count": 3
+    },
+    {
+      "word": "workflow",
+      "count": 3
+    },
+    {
+      "word": "ci",
+      "count": 3
+    },
+    {
+      "word": "without",
+      "count": 3
+    },
+    {
+      "word": "training",
+      "count": 3
+    },
+    {
+      "word": "concerns",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "collect",
+      "count": 3
+    },
+    {
+      "word": "zuckerberg",
+      "count": 3
+    },
+    {
+      "word": "laptop",
+      "count": 3
+    },
+    {
+      "word": "accounts",
+      "count": 3
+    },
+    {
+      "word": "require",
+      "count": 3
+    },
+    {
+      "word": "tesla",
+      "count": 3
+    },
+    {
+      "word": "informative",
+      "count": 3
+    },
+    {
+      "word": "consent",
+      "count": 3
+    },
+    {
+      "word": "become",
+      "count": 3
+    },
+    {
+      "word": "practices",
+      "count": 3
+    },
+    {
+      "word": "pluralistic",
+      "count": 3
+    },
+    {
+      "word": "zitron",
+      "count": 3
+    },
+    {
+      "word": "industry",
+      "count": 3
+    },
+    {
+      "word": "carmack",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "rarely",
+      "count": 2
+    },
+    {
+      "word": "future",
+      "count": 2
+    }
+  ]
+}
