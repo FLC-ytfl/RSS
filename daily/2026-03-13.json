@@ -1,0 +1,890 @@
+{
+  "date": "2026-03-13",
+  "stats": {
+    "total_fetched": 283,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 19,
+    "long_articles": 11
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Typesetting sheet music with AI",
+        "summary": "Lilypond is a TeX-like typesetting language for sheet music. I’ve had good results asking AI to generate Lilypond code, which is surprising given the obscurity of the language. There can’t be that much publicly available...",
+        "url": "https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 13 Mar 2026 15:15:50 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Accents",
+        "summary": "Mahdi Bchatnia: Accents is an app that lets you use the iMac/MacBook Neo accent colors on any Mac. It’s a fun idea from Apple to have default accent colors that are, by default, exclusive to specific Mac hardware. But wh...",
+        "url": "https://mahdi.jp/apps/accents",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "2026-03-13T00:18:06.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An odd font rendering bug in Firefox and Safari",
+        "summary": "First up, you should go and watch The Importance of Being Earnest with Ncuti Gatwa. It is a brilliant set of performances and a joy to see. While perusing the programme on the National Theatre website I stumbled upon a l...",
+        "url": "https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Fri, 13 Mar 2026 12:34:09 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Windows stack limit checking retrospective: MIPS",
+        "summary": "Optimizing out the unnecessary probes comes with its own complexity. The post Windows stack limit checking retrospective: MIPS appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Fri, 13 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Everything's Casino",
+        "summary": "Everything's Casino On the evening of February 28, 2026, American B-2 bombers lifted off from Whiteman Air Force Base in Missouri. By the time they reached Iranian airspace, Tomahawk missiles were already in flight from...",
+        "url": "https://www.joanwestenberg.com/everythings-casino/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 13 Mar 2026 02:38:03 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Premium: The Hater's Guide To The SaaSpocalypse",
+        "summary": "Soundtrack: The Dillinger Escape Plan — Black Bubblegum To understand the AI bubble, you need to understand the context in which it sits, and that larger context is the end of the hyper-growth era in software that I call...",
+        "url": "https://www.wheresyoured.at/hatersguide-saas/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Mobile"
+        ],
+        "published_at": "Fri, 13 Mar 2026 16:53:23 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft’s 1986 IPO",
+        "summary": "On March 13, 1986, Microsoft shook up the financial world, and to some degree, we are still feeling the reverberations from that 40 years later. That was the day of Microsoft’s very successful IPO. The hunt for the next...",
+        "url": "https://dfarq.homeip.net/microsofts-1986-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-1986-ipo",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Startup"
+        ],
+        "published_at": "Fri, 13 Mar 2026 11:00:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Btw: Software, turnkey, beheerd, as a service",
+        "summary": "De belastingdienst is van plan om de BTW uit te besteden aan een Amerikaans bedrijf, wat echt waanzinnig is. Op 19 maart is er een commissievergadering in de Tweede Kamer hierover, en ik hoop van harte dat men bij zinnen...",
+        "url": "https://berthub.eu/articles/posts/software-turnkey-as-a-service/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 13 Mar 2026 12:43:53 +0100",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute",
+        "summary": "Plus, why an H100 is worth more today than 3 years ago",
+        "url": "https://www.dwarkesh.com/p/dylan-patel",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Fri, 13 Mar 2026 16:00:42 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "This Week on The Analog Antiquarian",
+        "summary": "Chapter 15: The Trial of Galileo",
+        "url": "https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 13 Mar 2026 17:33:40 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "From legacy architecture to Cloudflare One",
+        "summary": "Learn how Cloudflare and CDW de-risk SASE migrations with a blueprint that treats legacy debt as an application modernization project.",
+        "url": "https://blog.cloudflare.com/legacy-to-agile-sase/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud",
+          "Systems",
+          "DevOps",
+          "Security"
+        ],
+        "published_at": "Fri, 13 Mar 2026 05:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Product"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other",
+          "Startup"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other",
+          "Product"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Startup"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-13T22:19:28.322Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "summary": "<think>The user wants me to summarize an article about Claude models (Opus 4.6 and Sonnet 4.6) now having 1M context available generally. The key points are:\n\n1. March 13, 2026 announcement\n2. 1M context window now generally available for both Opus 4.6 and Sonnet 4.6\n3. No long-context premium - standard pricing applies across the full 1M window\n4. This is notable because OpenAI and Gemini charge more for longer contexts (Gemini 3.1 Pro at 200K tokens, GPT-5.4 at 272K tokens)\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write this summary:\n</think>\n\n**Summary:**\n\nOn March 13, 2026, Anthropic announced that 1M context windows are now generally available for both Claude Opus 4.6 and Sonnet 4.6 models. This represents a significant expansion in the models' ability to process and analyze extremely large amounts of text in a single conversation.\n\nThe most notable aspect of this release is the pricing structure. Unlike competitors, Anthropic applies standard pricing across the entire 1M context window with no long-context premium. This contrasts sharply with OpenAI and Google's approaches—both GPT-5.4 and Gemini 3.1 Pro charge higher rates when prompts exceed their respective limits (272,000 and 200,000 tokens).\n\nThis move positions Claude as a more cost-effective option for applications requiring extensive context processing, such as analyzing lengthy documents, codebases, or conducting research across large datasets.",
+        "content": "13th March 2026 - Link Blog\n\n**[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)**. Here's what surprised me:\n\n> Standard pricing now applies across the full 1M window for both models, with no long-context premium.\n\nOpenAI and Gemini both [charge more](https://www.llm-prices.com/#sel=gemini-3-1-pro-preview-200k%2Cgpt-5.4-272k%2Cgemini-3-1-pro-preview%2Cgpt-5.4) for prompts where the token count goes above a certain point - 200,000 for Gemini 3.1 Pro and 272,000 for GPT-5.4.\n\nPosted [13th March 2026](https://simonwillison.net/2026/Mar/13/) at 6:29 pm",
+        "url": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-03-13T18:29:13.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Craig Mod",
+        "summary": "<think>The user wants me to summarize an article by Craig Mod in 100-200 words. Let me analyze the content:\n\nThe article is from Craig Mod's \"Software Bonkers\" essay, dated March 13, 2026. The main points are:\n\n1. Craig Mod found that existing accounting software didn't meet his needs\n2. After years of frustration, he built his own custom accounting software\n3. It took him about five days to build\n4. Key features:\n   - Blazing fast\n   - Entirely local\n   - Handles multiple currencies with historical conversion rates\n   - Can ingest any CSV\n   - Knows US and Japan tax requirements\n   - Formats expenses and medical bills for accountants\n   - Learns from past tax returns\n   - Handles 1099s, K1s, PDFs from hospitals\n   - Reconciles international wire transfers with FX rate variations\n   - Learns from manual categorizations\n   - Allows spot checks and direct interaction with Claude AI for anomalies\n   - Results in ongoing feature improvements\n\n5. He describes it as \"organic and pliable\" and \"perfectly shaped to my hand\"\n6. Uses a metaphor of \"bushwhacking with a lightsaber\"\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write this summary:\n</think>\n\n**Summary**\n\nAfter years of frustration with off-the-shelf accounting software that failed to meet his complex needs, Craig Mod spent five days building his own custom solution. The result, he claims, is the best accounting software he's ever used. His custom tool is entirely local, blazing fast, and handles multiple currencies with historical conversion rates. It ingests various file formats including CSVs, 1099s, K1s, and PDFs from hospitals, automatically categorizing and organizing them according to US and Japan tax requirements. The software reconciles international wire transfers while accounting for FX rate variations and transfer timing. Most notably, it learns from his manual categorizations and integrates with Claude AI to brainstorm solutions for data anomalies, often triggering new feature improvements. Mod describes the software as organic and perfectly shaped to his needs, comparing the experience to \"bushwhacking with a lightsaber.\" The piece highlights how bespoke tools, built for specific workflows, often outperform generic solutions.",
+        "content": "13th March 2026\n\n> Simply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down last week and started to build my own. It took me about five days. I am now using the best piece of accounting software I’ve ever used. It’s blazing fast. Entirely local. Handles multiple currencies and pulls daily (historical) conversion rates. It’s able to ingest any CSV I throw at it and represent it in my dashboard as needed. It knows US and Japan tax requirements, and formats my expenses and medical bills appropriately for my accountants. I feed it past returns to learn from. I dump 1099s and K1s and PDFs from hospitals into it, and it categorizes and organizes and packages them all as needed. It reconciles international wire transfers, taking into account small variations in FX rates and time for the transfers to complete. It learns as I categorize expenses and categorizes automatically going forward. It’s easy to do spot checks on data. If I find an anomaly, I can talk directly to Claude and have us brainstorm a batched solution, often saving me from having to manually modify hundreds of entries. And often resulting in a new, small, feature tweak. The software feels organic and pliable in a form perfectly shaped to my hand, able to conform to any hunk of data I throw at it. It feels like bushwhacking with a lightsaber.\n\n— [Craig Mod](https://craigmod.com/essays/software_bonkers/), Software Bonkers",
+        "url": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-03-13T17:14:29.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Restoring an Xserve G5: When Apple built real servers",
+        "summary": "<think>The user wants me to summarize an article about restoring an Apple Xserve G5 server. Let me analyze the article:\n\n**Writing Type**: Blog article summary - technical/computing content\n**Tone**: Semi-formal, enthusiast tech writing\n**Audience**: Tech enthusiasts, Apple historians, server enthusiasts\n**Length**: 100-200 words as specified\n**Structure**: Summary format - key points only, concise\n\nKey points from the article:\n1. The author acquired an Apple Xserve G5 (PowerPC era, 2004)\n2. It suffered from Capacitor Plague in its Delta power supply\n3. The PSU needed recapping with 13 electrolytic capacitors\n4. The process involved soldering work with SMD components\n5. The server had been used for gene-sequencing (came with CDs)\n6. The drive trays have non-standard connectors and were dusty\n7. The author references a detailed video of the restoration process\n\nI need to condense this into 100-200 words while keeping it informative and capturing the main points. Let me write a concise summary.\n</think>\n\n**Summary:**\n\nThe author acquired a 2004 Apple Xserve G5, a PowerPC-era server that represents Apple's peak in server hardware design. This particular unit suffered from the infamous Capacitor Plague affecting Delta power supplies from that era, requiring a complete PSU recap with 13 electrolytic capacitors. The restoration involved delicate soldering work, particularly challenging with surface-mount components near the capacitor legs. After reassembly, the PSU successfully delivered 12V, though with minor coil whine. The server had clearly seen heavy use, originally running gene-sequencing software based on accompanying materials. Beyond the PSU, the Xserve featured proprietary hot-swap drive trays with non-standard connectors, which were clogged with dust. The author notes this G5 model as the most interesting Xserve generation, bridging Apple's G4 beginnings and later Intel Xeon iterations. A detailed video covers the full restoration process, including PSU recap and OS X Server 10.3 installation.",
+        "content": "Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, [RackMac3,1](https://everymac.com/systems/apple/xserve/specs/xserve_g5_2.0.html), which was built when Apple at the top—and bottom—of it's PowerPC era.\n\n![Xserve G5 on Jeff's desk](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-hero.jpeg)This isn't the first Xserve—that honor belongs to the G4[1](#fn:1). And it wasn't the last—there were a few generations of Intel Xeon-powered RackMacs that followed. But in my opinion, it was the most interesting.\n\nUnfortunately, being manufactured in 2004, this Mac's Delta power supply suffers from the [Capacitor Plague](https://en.wikipedia.org/wiki/Capacitor_plague). The PSU tends to run hot, and some of the capacitors weren't even 105°C-rated, so they tend to wear out, especially if the Xserve was running high-end workloads.\n\nThe one I have ran gene-sequencing software, judging by the pile of CDs that came with it. Between that and the dust I had to blast out of it, I'm guessing it's seen some use!\n\nThis blog post is more about the overall Xserve experience, but if you want to see in detail how I restored the Xserve's PSU, installed Mac OS X Server 10.3, and how it runs, check out today's video:\n\n*\n\n## Restoring the PSU\n\nThe first order of business was recapping the PSU, and luckily [The House of Moth](https://thehouseofmoth.com/recapping-an-xserve-g5-power-supply-part-1-preparations/) maintains a guide for the process. I got in touch and was able to snag a pre-sorted kit of the right electrolytic capacitors for the job (13 total).\n\n![Xserve G5 PSU - Jeff Geerling recapping soldering iron](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-psu-recap-soldering.jpeg)The video has the whole process, but the PSU has a number of small SMD (Surface Mount Device) components on the underside—usually right in the mix with the legs of the through-hole-soldered capacitors. That meant my trusty [Hakko FR-301](https://amzn.to/40xDkfg) with it's default tip was hard to use in a couple spots[2](#fn:2).\n\nI had to go back and forth between flowing in fresh solder, wicking a little away, cleaning up the solder on a couple nearby components, and sucking out the holes for the capacitor legs on four or five joints.\n\nAll's well that ends well, and I could measure 12V after reassembling the PSU. There's a little coil whine, but I'm not sure if that's normal or not. It's certainly masked by the fans on the system, once they're powered up :)\n\n## SATA HDD Trays and an interesting lock\n\nBesides the non-standard PSU, the Xserve used a non-standard connector for the hot-swap hard drive trays. The drive trays themselves hold up well, but the wires inside seem a little delicate. And the few ventilation holes under the drive handles seemed to be clogged with dust—so I give these drive trays a C- for overall function.\n\n![Xserve G5 SATA SSD in proprietary HDD tray](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-ssd-in-sata-hdd-tray.jpeg)I first tried a [120 GB Inland Professional SSD](https://amzn.to/4rsrMEW), but it wasn't recognized by Mac OS X Server 10.3's Install CD Disk Utility. So I tried a [240 GB Inland Platinum drive](https://www.microcenter.com/product/645077/inland-platinum-256gb-ssd-3d-tlc-nand-sata-iii-6gb-s-25-internal-solid-state-drive) (both were SATA-III), and that worked!\n\nWhile I was installing Mac OS X Server, I took a peek around the rest of the chassis. Most things were standard—or at least as standard as you see on Apple hardware—but the drive/system lock mechanism was certainly quirky:\n\n![Xserve G5 locking mechanism and front panel connections](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-lock-mechanism.jpg)Apple made a heavy knurled hex key for the system lock, and when you turned it, a long rod with a worm gear would lock in the drive trays. Partway down the rod, there were two white cylinders—these pass over either optical or magnetic sensors, which tell the system when the lock is active (which lights up a lock LED on the front as well).\n\n## Power Consumption and Noise\n\nAlso during installation, I checked how much power the Xserve was gobbling. Turned off, around 9W (which is honestly not terrible, for the era). Turned on, before booting up fully, around 199W (which is a lot).\n\n![Xserve G5 power consumption - 200W](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-200w-power-consumption.jpeg)After booting, it would settle in around 140W at idle. I know there's [CHUD Tools](https://www.betalogue.com/2004/01/03/trying-chuds-nap-feature-on-my-power-mac-g4-mdd/) (Computer Hardware Understanding Development), which installs a System Preference pane to disable one of the CPUs entirely, but I haven't checked if that works on the Xserve G5.\n\n![Xserve G5 power consumption - 200W](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-dual-g5-cpu-2ghz.jpeg)I think if you run one of these things, you just have to get over the power consumption; the fans alone are likely 20W-40W of that total!\n\nThe other thing you'll have to get used to—if you're not used to server hardware—is the noise:\n\n![Xserve G5 noise - 60 dBa](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-noise-60dba.jpeg)Honestly the fans aren't as loud as other 1U servers I've used. Even networking gear can get up to the 70-80 dBa range. The fans in the Xserve seem tuned well enough, and I was surprised when I noticed there's no fan blowing air [under* the motherboard](https://thehouseofmoth.com/a-little-known-fact-about-the-power-mac-g5-and-what-to-do-with-this-information/)[3](#fn:3).\n\nThe G5 was the pinnacle of Apple's PowerPC chips. Unfortunately it was also the hottest chip Apple used, as [IBM had trouble shrinking process nodes for more efficiency](https://www.eweek.com/apple/3ghz-powerpc-g5-eludes-ibm/). This was the direct motivation for their [move to Intel](https://en.wikipedia.org/wiki/Mac_transition_to_Intel_processors), which not only allowed Apple to hit 3 GHz clock speeds, it gave them a path forward for faster laptops.\n\n## The Mac OS X Server Experience\n\nAfter 15 minutes or so (SSDs are *so* much faster than hard drives on this system), Mac OS X Server 10.3 was installed.\n\nWhile I was using the system, I saw different wavy patterns in the VGA output (I was using a 1080p HP monitor with VGA input).\n\nI know old, tired capacitors can lead to artifacts on the display, with analog tech like VGA or composite output... and it looks like there's a good number of surface-mount caps on the other side of this ATI PCI-X VGA card:\n\n![Xserve G5 ATI PCI Graphics Card](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-ati-pci-graphics.jpeg)The pattern got less annoying (or I just got used to it), and I started testing out the built-in server apps Apple shipped with [10.3 Server](https://macintoshgarden.org/apps/mac-os-x-server-103-unlimited-clients-edition).\n\n![Xserve G5 running Mac OS X 10.3 Server Monitor App](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-mac-os-x-server-monitor.jpg)The monitoring apps and GUI for managing services like Apache, NTP, File Sharing, etc. were straightforward, and refreshingly simple.\n\nApparently managing the services *behind* these apps was frustrating if you were used to the control you'd get on, say, Linux. But I can imagine many school district admins loving the push-button simplicity of spinning up a local webserver, or clicking one button to launch [QuickTime Streaming Server](https://en.wikipedia.org/wiki/QuickTime_Streaming_Server).\n\n## Remote Access and an actual Purpose\n\nBesides wanting to see what the Xserve was like, I do have a use for this Xserve G5—at least I hope.\n\nIt came with a full rackmount kit, so I dutifully installed it in my rack:\n\n![Xserve G5 installed in Rack](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-in-rack.jpeg)It is not a good rackmount kit.\n\nThe enclosure *is* the rackmount, which is as annoying as it sounds. You have to hold the entire enclosure in place while you screw in the front screws, then slide some braces and extra brackets in the back, for a 4-post rack install.\n\nAnd heaven forbid the enclosure is not square—that makes the installation even more difficult[4](#fn:4).\n\nBut my purpose for this Xserve involves one of the most unique ports on any Mac made since the 80s:\n\n![Xserve G5 ports on rear - 9-pin Serial, FireWire 800, and USB](https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/xserve-g5-ports-fw800-serial-usb.jpeg)That's a full DB9 serial port, used on this Mac as a Console port. I *think* it's possible to use the port like a regular 'ol serial port in macOS, but if that's not the case, I might try a PowerPC-specific version of Linux.\n\nMy goal is to get a GPS signal in through serial, so I can consume both the NMEA sentence (which delivers time/datestamps), *and* PPS (a precise signal to mark the beginning of each second).\n\nIf the clock line works like I *think* it should, I might be able to build the world's most accurate Mac time server!\n\nThere might be ways to do it better on modern Macs, but any good timing infrastructure on modern macOS seems tucked away behind private APIs :(",
+        "url": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 13 Mar 2026 09:00:00 -0500",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing",
+        "summary": "<think>The user wants me to summarize an article about sports programming's dominance in ad-supported TV viewing. I need to condense this into 100-200 words while focusing on key points and main takeaways.\n\nLet me identify the key information:\n1. Sports accounts for 29.2% of all ad-supported TV viewing (ages 25-54) in Q4\n2. Without sports: broadcast 9.8%, cable 18%, streaming 43%\n3. Adults 18-49: 63.8% ad-supported viewing, 36.2% ad-free\n4. Streaming is the largest venue for ad-supported TV at 66.7%\n5. FAST channels are only 18.9% of ad-supported streaming\n6. The bulk comes from YouTube, Hulu, Prime Video, Peacock, Paramount+\n7. This was from Nielsen's Q4 2025 report\n\nI need to write a concise, informative summary in 100-200 words. The article is in English, so I'll write in English with proper formatting.\n</think>\n\n**Summary**\n\nSports programming dominates ad-supported television, accounting for 29.2% of all viewing among adults 25-54 during the fourth quarter of 2025, according to new Nielsen data. This figure encompasses broadcast, cable, and streaming platforms, highlighting the significant value networks place on sports rights.\n\nWhen excluding sports, streaming leads with 43% of non-sports viewing, followed by cable at 18% and broadcast at just 9.8%. Overall, 63.8% of viewing among adults 18-49 occurs on ad-supported platforms, with streaming accounting for 66.7% of that audience—far outpacing broadcast and cable combined.\n\nDespite growing attention, FAST (Free Ad-Supported Streaming TV) channels represent only 18.9% of ad-supported streaming content. The majority comes from platforms like YouTube, Hulu, Prime Video, Peacock, and Paramount+.\n\nThese findings align with recent upfront pitches from major media and streaming companies, including Netflix's NFL partnership, YouTube's live NFL game, and Disney's emphasis on the upcoming ESPN app rollout.",
+        "content": "While the rise of [sports](https://deadline.com/tag/sports/) programming in recent years has been well-documented, new figures from [Nielsen](https://deadline.com/tag/nielsen/) illustrate the extent of its dominance.\n\n\tThe measurement firm said sports accounted for 29.2% of all [advertising](https://deadline.com/tag/advertising/)-supported TV viewing by people 25 to 54 years old during the fourth quarter. The stat, spanning broadcast, cable and [streaming](https://deadline.com/tag/streaming/), stat was part of a report on viewership trends in the fourth quarter of 2025, released Thursday in the runup to upfronts.\n\n\tLooking at the rest of the pie without sports, broadcast accounted for just 9.8%, with cable coming in at 18%. Streaming drew by far the largest tune-in, with 43% of all non-sports viewing, a reflection of the overall growth of advertising on streaming services like Netflix, Prime Video, Disney+, HBO Max and others.\n\n\t\n\n\tAmong adults aged 18 to 49, 63.8% of overall viewing was ad-supported, with 36.2% ad-free. Streaming is by far the largest venue for ad-supported TV viewing, at 66.7%, with broadcast and cable splitting the remainder fairly evenly. [FAST channels](https://deadline.com/tag/fast-channels/), though much talked-about in recent years, account for a relatively small portion of overall ad-supported programming on streaming, at 18.9%. The bulk of advertising viewing is from what Nielsen labels “other ad supported” platforms, a group including YouTube, Hulu, Prime Video, Peacock, and Paramount+.\n\n\t\t\t\n### \n\t\t\tWatch on Deadline\t\t\n\n\t\n\t\t\n\t\n\n\tThe findings, especially about sports, are consistent with the most recent upfront pitches by media and streaming companies. Last year, Netflix hosted NFL Commissioner Roger Goodell at its event in New York, YouTube announced its own live NFL game, and Amazon and NBCUniversal touted their new agreements with the NBA. Disney heavily emphasized sports, plugging the mid-2025 rollout of the newly fortified ESPN app, which blends linear feeds with streaming and ESPN+ content.\n\n\tNielsen’s report captures an analysis of its national TV panel data, augmented by streaming platform ratings, from September 29 to December 28 of last year.",
+        "url": "https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-13T16:55:46.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today",
+        "summary": "<think>The user wants me to summarize an article about Anthropic CEO Dario Amodei's predictions regarding AI-generated code. I need to:\n1. Identify the key points\n2. Keep it between 100-200 words\n3. Make it concise and informative\n4. Focus on main takeaways\n\nLet me extract the key information:\n- Dario Amodei, Anthropic CEO, made predictions at a Council on Foreign Relations event\n- He predicts AI will write 90% of code in 3-6 months\n- He predicts AI will write essentially all code in 12 months\n- Software developers will still have roles initially (providing design features and conditions)\n- He believes this will eventually happen in every industry\n- Amodei formerly worked at OpenAI, founded Anthropic in 2021\n- Anthropic has received funding from Google and Amazon\n\nNow I'll write a concise summary in 100-200 words.\n</think>\n\nAnthropic CEO Dario Amodei predicts AI will write 90% of code within 3-6 months and essentially all code within a year. Speaking at a Council on Foreign Relations event, Amodei said developers will still play a role in the near term by providing design features and conditions to guide AI systems. However, he believes AI will eventually handle all tasks humans can perform across every industry. Amodei, who cofounded Anthropic in 2021 after leaving OpenAI, leads an AI startup that has received billions in funding from Google and Amazon.",
+        "content": "![Dario Amodei speaking at the World Economic Forum.](https://i.insider.com/67d39847b8b41a9673faa2b7?width=700)\n                    \n\n                \n                  \n                        \n                          \n                          \n                            \n                              \n                                    \n                  \n                          \n                            \"And then in twelve months, we may be in a world where AI is writing essentially all of the code,\" Anthropic CEO Dario Amodei said at a Council on Foreign Relations event on Monday.\n                            \n                                  [\n                              Halil Sagirkaya/Anadolu via Getty Images    ](https://www.gettyimages.com/detail/news-photo/anthropic-ceo-dario-amodei-attends-the-55th-annual-meeting-news-photo/2194823703)\n                                        \n                          \n                        \n                  \n            \n    \n    \n    \n              \n      \n      \n              \n              \n              \n              \n                \n                    - Dario Amodei, the CEO and cofounder of Anthropic, said AI could be coding most software soon.\n\n                    - AI could be \"writing essentially all of the code\" in 12 months, Amodei said.\n\n                    - He said he expected AI to have a similar impact \"in every industry.\"\n\n                \n\n              \n              \n      \n            \n            \n            \n            \n            \n            \n                [Dario Amodei](https://www.businessinsider.com/anthropic-ceo-says-ai-risks-are-being-overlooked-2025-2), the CEO of the AI startup [Anthropic](https://www.businessinsider.com/anthropic-claude-computer-use-ai-explainer-2024-10), said on Monday that AI, and not software developers, could be writing all of the code in our software in a year.\n\n\"I think we will be there in three to six months, where AI is writing 90% of the code. And then, in 12 months, we may be in a world where AI is writing essentially all of the code,\" Amodei said at a Council of Foreign Relations event on Monday.\n\nAmodei said software developers would still have a role to play in the near term. This is because humans will have to feed the AI models with design features and conditions, he said.\n\n\"But on the other hand, I think that eventually all those little islands will get picked off by AI systems. And then, we will eventually reach the point where the AIs can do everything that humans can. And I think that will happen in every industry,\" Amodei said.\n\nAmodei, who used to work at [OpenAI](https://www.businessinsider.com/history-of-openai-company-chatgpt-elon-musk-founded-2022-12), cofounded Anthropic in 2021. The company has received [billions of dollars in funding](https://www.businessinsider.com/amazon-investment-anthropic-worth-14-billion-2025-2) from tech giants such as Google and Amazon.\n\n              \n            \n              \n            This isn't the first time Amodei has spoken publicly about the seismic impact AI could have on the world.\n\nLast month, Amodei said in an interview with The New York Times that people still weren't recognizing the [effect AI could have](https://www.businessinsider.com/anthropic-ceo-says-ai-risks-are-being-overlooked-2025-2) on their lives and livelihoods.\n\n\"I think people will wake up to both the risks and the benefits to a much more extreme extent than they will before over the next two years,\" Amodei said in an interview on the Times' \"Hard Fork\" podcast that aired on February 28.\n\nRepresentatives for Amodei at Anthropic didn't respond to a request for comment from Business Insider.\n\nTo be sure, Amodei isn't the only one who has recognized AI's ability to displace [software developers](https://www.businessinsider.com/career-ladder-software-engineers-collapsing-ai-google-meta-coding-2025-2).\n\n[Garry Tan](https://www.businessinsider.com/how-vc-garry-tan-quietly-grown-influence-clubhouse-star-musk-2021-3), the president and CEO of the startup incubator [Y Combinator](https://www.businessinsider.com/inside-y-combinator-growth-spurt-51-startup-founders-biggest-changes-2021-8), said in an X post on March 5 that one-quarter of the founders in the company's 2025 winter batch were relying heavily on AI to code their software.\n\n\"For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. That's not a typo,\" Tan wrote.\n\nThe managing director of the International Monetary Fund, [Kristalina Georgieva](https://www.businessinsider.com/imf-chief-ai-revolution-striking-job-market-like-a-tsunami-2024-5), said last year that she expected AI to impact about [40% of global jobs](https://www.businessinsider.com/ai-affect-about-40-percent-global-jobs-imf-2024-1).\n\n\"Roughly half the exposed jobs may benefit from AI integration, enhancing productivity. For the other half, AI applications may execute key tasks currently performed by humans, which could lower labor demand, leading to lower wages and reduced hiring,\" Georgieva wrote in a blog post in January 2024.\n\n\"In the most extreme cases,\" she added, \"some of these jobs may disappear.\"\n\n            \n            \n            \n            \n            \n            \n            \n            \n            \n    \n    \n    \n    \n      \n\n    \n      \n\n    \n      \n      \n        \n    \n    \n          \n          \n          \n          \n            \n                \n                - \n                  [Anthropic](https://www.businessinsider.com/category/anthropic)\n                \n      \n                - \n                  [AI](https://www.businessinsider.com/category/ai)\n                \n\n          \n            \n\n          \n    \n    \n            \n              \n              \n              \n                  \n                    \n## \n                      Read next",
+        "url": "https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Startup",
+          "Product"
+        ],
+        "published_at": "2026-03-13T16:31:54.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘Grief and the AI Split’",
+        "summary": "<think>The user wants me to summarize an article titled \"Grief and the AI Split\" in 100-200 words. I need to focus on key points and main takeaways, keeping it concise and informative.\n\nLet me analyze the article:\n\nThe author is discussing how AI-assisted coding is creating a divide among developers. Some developers (like James Randall and Nolan Lawson) are mourning what they see as a loss - the craft, the struggle, the sense of discovery and creation. They feel something valuable is being compressed or lost.\n\nThe author, however, has a different perspective. He explains that he got into programming not for the elegance of code but for the results - he wanted to make things happen. He started with BASIC on a Commodore 64 at age 7, then moved to assembly because BASIC was too slow for what he wanted to accomplish.\n\nThe key points are:\n1. AI coding tools are revealing a split among developers that was always present but invisible when everyone worked the same way\n2. Some developers are mourning the loss of craft, struggle, and discovery in programming\n3. The author sees things differently - he's always been focused on results rather than the elegance of the process\n4. The author suggests this split says something about what kind of developer you've been all along\n\nThe article references other pieces by James Randall and Nolan Lawson about mourning the craft of coding.\n\nI need to summarize this in 100-200 words, keeping it concise and informative.\n</think>\n\n**Summary:**\n\nAI-assisted coding is exposing a fundamental divide among developers that was always present but previously invisible. While some developers mourn what they see as a loss—the craft, struggle, and discovery that made programming meaningful—others embrace these tools as natural extensions of their work.\n\nThe author explains that he always programmed for results, not elegance. He learned BASIC on a Commodore 64 at age 7 to make things happen on screen, then moved to assembly when BASIC proved too slow. Reading reactions from developers mourning the \"compression\" of discovery and the loss of holding code \"like clay,\" he recognizes these as legitimate feelings but realizes he was mourning something different.\n\nThe author suggests this split reveals what kind of developer each person has always been—those who valued the process versus those focused on outcomes. AI tools haven't created this divide; they've simply made visible differences that existed all along.",
+        "content": "[  ](https://blog.lmorchard.com/2026/03/13/w11/)\n            \n            \n              [2026](https://blog.lmorchard.com/2026/)\n              •\n              [March](https://blog.lmorchard.com/2026/03/)\n              •\n              11\n            \n            \n              [  ](https://blog.lmorchard.com/2026/02/20/w08/)\n            \n          \n          \n          \n        \n\n        **TL;DR**: AI-assisted coding is revealing a split among developers that was always there but invisible when we all worked the same way. I've felt the grief too—but mine resolved differently than I expected, and I think that says something about what kind of developer I've been all along.\n\n![Silhouette of trees during sunset](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/lucian-Y4XF74XQhi0-unsplash-dithered.png)\n\nPhoto by [Lucian](https://unsplash.com/@luciandachman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/silhouette-of-trees-during-sunset-Y4XF74XQhi0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\n\nA few months ago, I wrote about [how making computers do things is fun](https://blog.lmorchard.com/2025/12/19/computer-fun/). The gist: I've never been in it for the elegance of code. I've been in it for the result. I learned BASIC on a Commodore 64 at age 7 not because BASIC was beautiful (it wasn't) but because I wanted to make things happen on screen. Then I learned 6502 assembly because BASIC was too slow for what I wanted to *do*.\n\nThat post was my attempt to explain why AI coding tools felt like a natural fit for me. But since then, I've been reading other people's reactions to this moment, and I want to come back to it.\n\n## The Mourning\n\nJames Randall wrote [a piece that hit a nerve](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/). He's been programming since age 7 in the 1980s, like me. But his experience of this moment is subtly different from mine:\n\n> The wonder is harder to access. The sense of discovery, of figuring something out through sheer persistence and ingenuity — that’s been compressed. Not eliminated, but compressed. And something is lost in the compression, even if something is gained.\n\nNolan Lawson put it more starkly in \"[We Mourn Our Craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)\":\n\n> We’ll miss the feeling of holding code in our hands and molding it like clay in the caress of a master sculptor. We’ll miss the sleepless wrangling of some odd bug that eventually relents to the debugger at 2 AM. We’ll miss creating something we feel proud of, something true and right and good. We’ll miss the satisfaction of the artist’s signature at the bottom of the oil painting, the GitHub repo saying “I made this.”\n\nThese are real feelings about real losses. I'm not here to argue otherwise. But reading these posts, I kept having this nagging sense that we were mourning different things.\n\n## The Split\n\nHere's what I think is happening: AI-assisted coding is exposing a divide among developers that was always there but maybe less visible.\n\nBefore AI, both camps were doing the same thing every day. Writing code by hand. Using the same editors, the same languages, the same pull request workflows. The craft-lovers and the make-it-go people sat next to each other, shipped the same products, looked indistinguishable. The *motivation* behind the work was invisible because the *process* was identical.\n\nNow there's a fork in the road. You can let the machine write the code and focus on directing what gets built, or you can insist on hand-crafting it. And suddenly the reason you got into this in the first place becomes visible, because the two camps are making different choices at that fork.\n\nI wrote about this split before in terms of [my college math and CS classes](https://blog.lmorchard.com/2025/12/19/computer-fun/): some of us loved proofs and theorems for their own sake, some of us only clicked with the material when we could apply it to something. I tended to do better in classes focused on application and did not-so-well in pure math classes. (I still want to take another crack at Calculus someday, but that's a different story.)\n\n## My Grief Was Different\n\nI want to be clear: I've felt grief too. I've gone through a real adjustment period over the past 18-24 months.\n\nI was afraid I wouldn't be able to understand the new tools. But, it seems I have. I was worried I wouldn't understand the output, that I'd lose my ability to judge whether the code was actually right. But it turns out decades of reading and reviewing code doesn't evaporate. I can still tell when something's wrong and I still have taste.\n\nI was afraid the puzzle-solving was over. But it wasn't. It just moved up a level. Which, when I think about it, is exactly what's happened at every other transition in my career. I went from placing bytes in memory on a C64 to writing functions to designing systems. The puzzle got more abstract each time, but it never stopped being a puzzle. Now the puzzle is architecture, composition, directing the assistant. It's different. It's still satisfying to me, anyway.\n\nSo most of my fears got tested against reality and thankfully didn't hold up. But some grief stuck.\n\n## The Grief That Sticks\n\nI grieve for the web I've known. Not for writing HTML by hand, but I grieve for the open web as an ecosystem. It's threatened in ways that have nothing to do with whether I personally type code or not. [AI training on the commons](https://blog.lmorchard.com/2024/03/11/dance-for-the-bots/), the further consolidation of who gets to shape how people experience the internet. That's a real loss, and it doesn't go away because I'm personally more productive.\n\nI grieve for [the career landscape shifting under me](https://blog.lmorchard.com/2025/05/20/minimum-viable-human-career/). Webdev's been my thing for over three decades. But, it's not a hot field anymore, whether folks like it or not: mobile apps took some big bites, but AI engineering is really ruling the roost now. I've been worried whether I could make that shift. I think I have been, but the anxiety is genuine, and I don't think it's finished.\n\nHere's what I notice about my grief: none of it is about missing the act of writing code. It's about the world *around* the code changing. The ecosystem, the economy, the culture. I think that's a different kind of loss than what Randall and Lawson are describing. Theirs is about the craft itself. Mine is about the context and the reasons why we're doing any of this.\n\n## Neither Side Is Wrong\n\nKevin Lawver wrote [a response to Lawson](https://lawver.net/2026/02/nostalgia-is-an-anchor/) that I mostly agree with. He argues for redirecting craft and passion rather than clinging to how things were. But I'd go further than framing it as nostalgia vs. pragmatism. (And you know [I've got plenty of nostalgia](https://blog.lmorchard.com/tag/retrocomputing/), but that doesn't pay my mortgage.)\n\nI think recognizing which *kind* of grief you're feeling is the actually useful thing here. If you're mourning the loss of the craft itself—the texture of writing code, the satisfaction of an elegant solution—that's real, and no amount of \"just adapt\" addresses it. You might need to find that satisfaction somewhere else, or accept that work is going to feel different. Frankly, we've been lucky there's been a livelihood in *craft* up to now.\n\nIf you're mourning the context—the changing web, the shifting career landscape, the uncertainty—that's real too, but it's more actionable. You can learn new tools. You can push for the web you want, even if it's [a small web](https://hackaday.com/2024/09/10/a-look-at-the-small-web-part-1/). You can grieve and adapt at the same time.\n\nI've been trying to do a lot of both. I'm not entirely sure how it's going. I do really feel for what [Nolan Lawson said here](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/):\n\n> I don’t celebrate the new world, but I also don’t resist it. The sun rises, the sun sets, I orbit helplessly around it, and my protests can’t stop it. It doesn’t care; it continues its arc across the sky regardless, moving but unmoved.\n\nBut, you know, I'd be lying if I said it didn't excite me a bit, amidst the grief & terror.\n\n## Make Computer Do Thing\n\nI started programming in the 80s. Every language I've learned since then has been a means to an end. That is, a new way to make computers do things I wanted them to do. AI-assisted coding feels like the latest in that progression. Not a discontinuity per se, just another rung on the ladder.\n\nBut I'm trying to hold that lightly. Because the ladder itself is changing, the building it's leaning against is changing, and I'd be lying if I said I knew exactly where it's going.\n\nWhat I do know is this: I still get the same hit of satisfaction when something I thought up and built actually works. The code got there differently than it used to, but the moment it runs and does the thing? That hasn't changed in my over 40 years at it.",
+        "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "2026-03-13T14:21:54.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘Software Bonkers’",
+        "summary": "<think>The user wants me to summarize this article in 100-200 words. Let me identify the key points:\n\n1. The author is passionate about software and has strong opinions about how it should work (fast, knowable, sane)\n2. They discovered Claude Code a year ago and used it to build various projects\n3. They rebuilt Twitter with specific rules (7-day posts, limited posts, 1-bit images, no algorithm)\n4. They built their own membership platform instead of using Patreon/Substack\n5. They built tools for their livestreams and video archive\n6. Most recently, they built custom accounting software for their complex financial situation (multiple accounts, currencies, international work)\n\nThe tone is personal, enthusiastic, and informative. I should capture the key takeaways about:\n- How AI coding tools enabled someone to build their dream software\n- The specific examples of what they built\n- The philosophy behind building custom tools\n\nI need to keep it between 100-200 words, concise but informative.\n</think>\n\n# Summary: Software Bonkers\n\nThe author, an opinionated but not expert coder, discovered that AI coding tools like Claude Code finally enabled them to build software they've always envisioned. A year ago, they used Claude Code to recreate Twitter with their ideal rules: posts expire in 7 days unless kept alive through replies, strict posting limits, 1-bit images, and a chronological timeline. The result was a thriving community.\n\nRather than using platforms like Patreon or Substack, they built a custom membership site atop Memberful, continuously adding features. Recent additions include tools that auto-generate chapters from livestream Q&As and index years of video archives for searchable playback.\n\nThe author's latest achievement is custom accounting software designed for their complex situation: multiple bank accounts across countries, constant currency juggling, and diverse income sources from writing, media work, and book sales. This project represents the culmination of their software philosophy—building tools that precisely fit their needs rather than accepting platform constraints.",
+        "content": "I’m software bonkers: I can’t stop thinking about software. And I can’t stop building software.\n\nI’ve always been opinionated about how software should work. Mainly, it should be [fast](https://craigmod.com/essays/fast_software/). The bounds of it should be “knowable.” The contract you have with it should be “sane” (i.e., you just own it). But I’m busy, and I’m an OK-but-not-great coder. So all of these software opinions largely stayed locked in my noggin. Then, a year ago, Claude Code appeared.\n\n[My first Claude Code project](https://craigmod.com/roden/102/#the-good-place) was to rebuild Twitter as I always thought it should be:\n\n- All posts disappear in 7 days\n\nBut you can keep a post ”alive” by replying to it\n\n- You can only post 2 times a day\n\n- You can reply 20 times a day (discussions are encouraged!)\n\n- All images appear in 1-bit black and white until clicked on (at which point they transition to color or full-spectrum grayscale)\n\n- The timeline is non-algorithmic, just simple reverse chronological ordering\n\nSurprise! It’s really lovely. And members from my [membership program](https://craigmod.com/membership) have used it this past year to form a community the likes of Ye Internet of Yore. We share nice, inspiring things, and are nice and inspiring to one another.\n\nMy membership program is called [SPECIAL PROJECTS](https://craigmod.com/membership/). I don’t use Patreon or Substack, I built my own platform atop Memberful. Why pay a company a monthly fee to be hamstrung by how they think your program should look or be run? Each month, for the last few years, I’ve added new functions to the members’ site. Most recently, using Claude Code I built a tool to auto-generate granular chapters for my members-only livestream Q&As. And then I built a tool to index the forty hours or so of video I’ve amassed these last few years, allowing members to search the archive. When they click a question, the precise playback moment pops up in the video from which it’s pulled. It’s sort of amazing and is exactly the sort of thing I would have thought of a year ago, but never built.\n\nWith Claude, I’ve built a host of software like this. Mostly small tools for myself — programs that instantly append copy buffers to text files (I keep a running file of nice things people write to me called `notapieceofshit.txt`) or quickly perform live currency conversions. Small utilities that I use multiple times a day and hundreds of times a year.\n\n**But it’s been this last week, in a heated tax season jag, that I’ve gone most bonkers: I’ve built the accounting software I’ve always craved.**\n\nMy situation is pretty unique. I’m dealing with multiple bank accounts in multiple countries. Constantly juggling currencies. Money moves between accounts locally and internationally. I freelance as a writer for clients around the world. I do media work — TV and radio. I make money from [book sales](https://craigmod.com/books/things_become_other_things/) paid by Random House via my New York agent, and I make money from book sales sold directly from [my Shopify store](https://shop.specialprojects.jp/). I run that membership program I mentioned, which generates a big chunk of my income. I have public and private investments. I have expenses that are paid by wires (everything is done by bank wire in Japan), and others paid by credit cards. I need to reconcile book sales by country for my Japanese accountant since I’m technically an exporter, making and shipping books from here.\n\nSimply put: It’s a big mess, and no off-the-shelf accounting software does what I need. So after years of pain, I finally sat down last week and started to build my own. It took me about five days. I am now using the best piece of accounting software I’ve ever used. It’s blazing fast. Entirely local. Handles multiple currencies and pulls daily (historical) conversion rates. It’s able to ingest any CSV I throw at it and represent it in my dashboard as needed. It knows US and Japan tax requirements, and formats my expenses and medical bills appropriately for my accountants. I feed it past returns to learn from. I dump 1099s and K1s and PDFs from hospitals into it, and it categorizes and organizes and packages them all as needed. It reconciles international wire transfers, taking into account small variations in FX rates and time for the transfers to complete. It learns as I categorize expenses and categorizes automatically going forward. It’s easy to do spot checks on data. If I find an anomaly, I can talk directly to Claude and have us brainstorm a batched solution, often saving me from having to manually modify hundreds of entries. And often resulting in a new, small, feature tweak. The software feels organic and pliable in a form perfectly shaped to my hand, able to conform to any hunk of data I throw at it. It feels like bushwhacking with a lightsaber.\n\nIt’s built in Python with Flask and SQLite and is, fundamentally, quite simple in pieces, but supremely powerful as a whole. (The magic of software is often how simple things are pieced together, more than whole hog reinventions.) I own the thing — the data, the program. There is no subscription. If I turn off Claude Code, it will keep working just fine. (And if I need to fix something, I can spin up Claude for a few bucks.)\n\nMost miraculously: For the first time in my life, I have a dashboard that gives me a true, holistic view, of everything financial happening in my life and business. I’ve named my glorious contraption `TaxBot2000`. It is astounding. Let me repeat: *I built this in five days*.\n\nIt’s not perfect, and it’s not done, but it is already better than what I had been using for the last decade. Until now, I’ve leaned heavily on Quicken — closed-source subscription software that often fails to connect to accounts with two-factor-authentication, silently losing chunks of financial data. Previously, I’ve mixed Quicken with Google Sheets, using a stack of Google Scripts to move information back and forth between currencies and formats and countries. I’ve used Japanese accounting software to export Japanese bank accounts and credit cards, and then reconfigure and import them into Quicken as converted accounts. Anyway, complicated and weird and a bit quirky: my situation. For TaxBot2000? No problem. I don’t think I’ll open Quicken again.\n\nYes: I’m certainly an anomaly. In that I’m a big ’ole dork with a strong, lifelong love of technology and a degree in computer science, who is compulsively opinionated about software. TaxBot2000 would be mostly useless to many of you. It’s all custom to my particular situation, which basically nobody else in the world shares. Software for N of 1. Damn useful to me. My mania to build comes from a place of money trauma. Growing up without a buffer, I’ve always operated from a mindset of extreme scarcity. So this software is that, too — a transmutation of scarcity pathology into a honkin’ dashboard of financial truths, at both the 30,000-foot and micron levels.\n\nI feel a strange lightness. I keep thinking of features, views, other things I want to demystify. My finances were always somewhat opaque — until now.\n\nWhat does this mean for the future of software? I don’t know. (Nobody does.) Maybe we really should be shorting a bunch of SaaS companies. (Don’t worry, a host of new ones will take their place.) I’m canceling my Quicken subscription. It’s only going to get easier to build things like TaxBot2000. We’re still in the dorks-only phase of model-assisted programming, but I can imagine soon-to-arrive interfaces where you just drag and drop components while narrating your desires with your voice, the models able to perform the “brainstorming,” “planning,” and “work” — operations that can take ten minutes or longer today — in mere seconds tomorrow. There will be a fluidity to software in the future. Version numbers will be pointless. We’ll all have our own versions. Claude Code be our partner in production. As you imagine new features, Claude produces them. Why would we lock ourselves into someone else’s proprietary binary? Control over our data, and control over how we view and engage with it, feels like it will be utterly non-negotiable going forward. We owe all of these capabilities to the generosity of the open source community.\n\nIt’s strange times. Anyway, I’m mad for software right now. Bonkers. I can’t stop thinking about things to make, things to make *better*. And then I go and make them. There’s an energy around all this that is — truly — epochal. If you’re not playing with models like Claude, you should probably take a peek. It’s the time of building.",
+        "url": "https://craigmod.com/essays/software_bonkers/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Database",
+          "Security",
+          "Product"
+        ],
+        "published_at": "2026-03-13T14:54:52.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+        "summary": "<think>The user wants me to summarize an article about Shopify's performance improvements to their Liquid template engine. Let me analyze the key points:\n\n1. **Main Achievement**: 53% faster parse+render and 61% fewer allocations in the Liquid template engine\n2. **Who**: Tobias Lütke (Shopify CEO) made the improvements\n3. **Method**: Used Andrej Karpathy's \"autoresearch\" system - a coding agent that ran ~120 automated experiments\n4. **Specific Optimizations**:\n   - Replaced StringScanner with String#byteindex (~40% faster, 12% reduction in parse time)\n   - Pure-byte parse_tag_token (eliminated costly StringScanner resets)\n   - Cached small integer to_s (pre-computed frozen strings for 0-999)\n5. **Context**: 974 unit tests enabled this work, 20-year-old codebase\n6. **Broader Implications**: CEOs can code, coding agents help high-interruption roles work productively with code\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write this summary now.\n</think>\n\nShopify's Liquid template engine received a major performance boost—53% faster parse+render times and 61% fewer allocations—thanks to CEO Tobias Lütke's two-day coding sprint. The improvements came from leveraging Andrej Karpathy's \"autoresearch\" system, where a coding agent ran approximately 120 automated experiments that yielded 93 commits.\n\nKey optimizations included replacing StringScanner with the faster `String#byteindex` method, eliminating costly StringScanner resets during tag parsing, and caching pre-computed frozen strings for small integers. The project benefited from Liquid's extensive test suite of 974 unit tests, which enabled safe experimentation.\n\nThis achievement highlights how coding agents can make performance optimization more accessible, even for executives with demanding schedules. The case demonstrates that CEOs can still contribute meaningfully to technical projects when given the right tools, and that established codebases retain significant optimization potential despite years of refinement by hundreds of contributors.",
+        "content": "13th March 2026 - Link Blog\n\n**[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://github.com/Shopify/liquid/pull/2056)** ([via](https://x.com/tobi/status/2032212531846971413)) PR from Shopify CEO Tobias Lütke against Liquid, Shopify's open source Ruby template engine that was somewhat inspired by Django when Tobi first created it [back in 2005](https://simonwillison.net/2005/Nov/6/liquid/).\n\nTobi found dozens of new performance micro-optimizations using a variant of [autoresearch](https://github.com/karpathy/autoresearch), Andrej Karpathy's new system for having a coding agent run hundreds of semi-autonomous experiments to find new effective techniques for training [nanochat](https://github.com/karpathy/nanochat).\n\nTobi's implementation started two days ago with this [autoresearch.md](https://github.com/Shopify/liquid/blob/2543fdc1a101f555db208fb0deeb2e3bf1ae9e36/auto/autoresearch.md) prompt file and an [autoresearch.sh](https://github.com/Shopify/liquid/blob/2543fdc1a101f555db208fb0deeb2e3bf1ae9e36/auto/autoresearch.sh) script for the agent to run to execute the test suite and report on benchmark scores.\n\nThe PR now lists [93 commits](https://github.com/Shopify/liquid/pull/2056/commits) from around 120 automated experiments. The PR description lists what worked in detail - some examples:\n\n> \n> - **Replaced StringScanner tokenizer with `String#byteindex`.** Single-byte `byteindex` searching is ~40% faster than regex-based `skip_until`. This alone reduced parse time by ~12%.\n\n> - **Pure-byte `parse_tag_token`.** Eliminated the costly `StringScanner#string=` reset that was called for every `{% %}` token (878 times). Manual byte scanning for tag name + markup extraction is faster than resetting and re-scanning via StringScanner. [...]\n\n> - **Cached small integer `to_s`.** Pre-computed frozen strings for 0-999 avoid 267 `Integer#to_s` allocations per render.\n\n> \n\nThis all added up to a 53% improvement on benchmarks - truly impressive for a codebase that's been tweaked by hundreds of contributors over 20 years.\n\nI think this illustrates a number of interesting ideas:\n\n- Having a robust test suite - in this case 974 unit tests - is a *massive unlock* for working with coding agents. This kind of research effort would not be possible without first having a tried and tested suite of tests.\n\n- The autoresearch pattern - where an agent brainstorms a multitude of potential improvements and then experiments with them one at a time - is really effective.\n\n- If you provide an agent with a benchmarking script \"make it faster\" becomes an actionable goal.\n\n- CEOs can code again! Tobi has always been more hands-on than most, but this is a much more significant contribution than anyone would expect from the leader of a company with 7,500+ employees. I've seen this pattern play out a lot over the past few months: coding agents make it feasible for people in high-interruption roles to productively work with code again.\n\nHere's Tobi's [GitHub contribution graph](https://github.com/tobi) for the past year, showing a significant uptick following that [November 2025 inflection point](https://simonwillison.net/tags/november-2025-inflection/) when coding agents got really good.\n\n![](https://static.simonwillison.net/static/2026/tobi-contribs.jpg)\n\nHe used [Pi](https://github.com/badlogic/pi-mono) as the coding agent and released a new [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) plugin in collaboration with David Cortés, which maintains state in an `autoresearch.jsonl` file [like this one](https://github.com/Shopify/liquid/blob/3182b7c1b3758b0f5fe2d0fcc71a48bbcb11c946/autoresearch.jsonl).",
+        "url": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Algorithms",
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-13T03:44:34.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "It's Work that taught me how to think ",
+        "summary": "<think>The user wants me to summarize an article titled \"It's Work that taught me how to think\" in 100-200 words. Let me analyze the key points:\n\n1. The author started college CS class, excited but quickly became disillusioned\n2. The professor showed them how to actually build something (Snake game on a calculator)\n3. Students only cared about grades and what would be on tests\n4. The incentive structure was misaligned - learning was incidental\n5. The author dropped out due to financial reasons and lack of genuine learning\n6. They took a job in a furniture store warehouse\n7. The receipt retrieval process was inefficient and took hours\n8. The author decided to fix this problem by:\n   - Scanning receipts\n   - Using OCR and VBScript to rename files by order number\n   - Writing Excel macros\n9. This was their first real programming experience - learning by doing\n\nThe main takeaway: Formal education failed to teach them how to think and program, but real-world work problems motivated genuine learning through hands-on experience.\n\nThe article was cut off mid-sentence (\"I had a w\"), but the key points are clear.\n\nNow I need to write a 100-200 word summary that captures these key points. The summary should be concise, informative, and focus on the main takeaways.\n</think>\n\n**Summary:**\n\nThe author recounts their disillusionment with computer science education, where students cared more about grades than genuine learning. Despite an enthusiastic professor demonstrating how to actually build software, students fixated on test relevance. Frustrated by misaligned incentives and a C++ course that taught little about programming, the author dropped out due to financial constraints.\n\nWorking in a furniture store warehouse, the author encountered an inefficient manual process for retrieving receipts—taking hours whenever accountants needed documentation. Instead of accepting this inefficiency, they took initiative: they scanned receipts, used a pirated OCR application, and wrote VBScript to automatically rename files by order number. They also created Excel macros to streamline the workflow.\n\nThis hands-on problem-solving became their first real programming education. The article argues that formal education failed to teach them how to think, but real work provided meaningful challenges that motivated genuine learning through practical application.",
+        "content": "On the first day of my college CS class, the professor walked in holding a Texas Instruments calculator above his head like Steve Jobs unveiling the first iPhone. The students sighed. They had expected computer science to involve little math. The professor told us he had helped build that calculator in the eighties, then spent a few minutes talking about his career and the process behind it.\n\nThen he plugged the device into his computer, opened a terminal on the projector, and pushed some code onto it. A couple of minutes later, he unplugged the cable, powered on the calculator, and sure enough, Snake was running on it. A student raised his hand. The professor leaned forward, eager for the first question of the semester.\n\n> \"Um... is this going to be on the test?\"\n\nWhile the professor was showing us what it actually means to build something, to push code onto hardware and watch it come alive, his students were already thinking about the grade. About the exit. The experience meant nothing unless it converted into points.\n\nThat was college for me. Everyone was chasing a passing grade to get to the next class. Learning was mostly incidental. The professors tried, but our incentives were completely misaligned. Talk of higher education becoming obsolete was already in the air, especially in CS. As enthusiastic as I had been when I started, that enthusiasm got chipped away one class at a time until the whole thing felt mechanical. Something I just had to get through.\n\nI dropped out shortly after the C++ class, which had taught me almost nothing about programming anyway. I was broke and could only pay for so many courses out of pocket. So I took my skills, such as they were, to a furniture store warehouse. My day job.\n\nWhen customers bought furniture, we pulled their merchandise from the back and loaded it into their trucks. They signed a receipt, we kept a copy, and those copies went into boxes labeled by month and date. At the end of the year, the boxes went onto a pallet, the pallet got shrink-wrapped, and a forklift tucked it away in a high storage compartment.\n\nWhenever an accountant called requesting a signed copy, usually because a customer was disputing a charge, the whole process ran in reverse. Someone licensed on the forklift had to retrieve the pallet, we cut the shrink-wrap, found the right box, and sifted through hundreds of receipts until we found the one we needed. The process took hours.\n\nOne day I decided enough was enough. After my shift, I grabbed the day's signed receipts and fed them into a scanner. For each one, I created two images: a full copy and a cropped version showing just the top of the receipt where the order number was printed. I found a pirated OCR application, then used VBScript and a lot of Googling to write a script that read the order number and renamed each image file to match it.\n\nI also wrote my first Excel macros, in Visual Basic this time, which wasn't so different. When everything was wired together, I had a working system. Each evening, I would enter the day's order numbers, scan the receipts, and let the script match them up with a preview attached. When the OCR failed to read a number, the file was renamed \"unknown\" with an incrementing number so I could verify those manually.\n\nFrom then on, when an accountant called, I could find and email them the receipt in under a minute, without ever leaving my desk.\n\nWhen I left that warehouse, I was ready to call myself a programmer. That one month building that system taught me more than two years of school ever had. But the education didn't stop there.\n\nYears later, now considering myself an experienced developer, a manager handed me what looked like a giant power strip. It had a dozen outlets, and was built for stress-testing set-top boxes in a datacenter. \"Can you set this up?\" he asked.\n\nA few years earlier, I would have panicked. I would have gone looking for someone who already knew the answer, or waited until the problem solved itself. But something had changed in me since the warehouse. Unfamiliar problems no longer felt like a barrier. They felt like the first receipt I ever fed into a scanner. It was just something to pull apart until it made sense.\n\nI had never worked with hardware. I had no idea where to start. But I didn't need to know where to start. I just needed to start. I brought the device to my desk and inspected every inch of it. I wasn't looking for the answer exactly. Instead, I was looking for the first question. And I found one: an RJ45 port on one end. Not exactly the programming interface you'd expect, but it was there for a reason.\n\nI looked up the model number of the device, downloaded the manual, and before long I was connected via Telnet, sending commands and reading output in the terminal. Problem solved. Not because I knew anything about hardware going in, but because I had learned to spend time with unfamiliar problems.\n\nNone of this was in the syllabus. Nobody graded me on it. There was no partial credit for getting halfway there. \n\nThat's the difference between school and work. School optimizes for the test, like that student who couldn't look past the grade to see what was actually being shown to him. School teaches you the shape of a problem and gives you a method to solve it. Work, on the other hand, doesn't care about the test. Work hands you something broken, or inefficient, or completely unfamiliar, and simply waits.\n\nOften, there are no right answers at work. You just have to build your own solution that satisfies the requirement. You figure things out, not because you memorized the right answer, but because you thought your way through it. Then something changes in how you approach every problem after that. You don't flinch at the next problem. You understand that facing unfamiliar problems is the job.",
+        "url": "https://idiallo.com/blog/work-taught-me-how-to-think?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "Fri, 13 Mar 2026 12:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
+        "summary": "<think>The user wants me to summarize an article titled \"Pluralistic: Three more AI psychoses (12 Mar 2026)\" in 100-200 words. Let me analyze the content provided.\n\nLooking at the article, it's from a blog called Pluralistic by Cory Doctorow. The main section is about \"AI psychoses\" - a term the author is using to describe delusions that are induced, reinforced, or magnified by AI chatbots.\n\nKey points from the article:\n1. The term \"AI psychosis\" is useful but will likely be deprecated because it's a) useful b) easily colloquialized c) adjacent to medical issues, which some find stigmatizing\n2. The term describes people who have delusions possibly induced and definitely reinforced by chatbots\n3. This is alarming, especially in extreme cases resulting in injury or death\n4. It's on a continuum with existing phenomena - paranoid delusions aren't new\n5. Example: Morgellons Disease - a psychosomatic belief about wires growing in the body, which causes people to pick at their skin\n6. Morgellons emerged in the 2000s but the name references a 17th-century case\n\nThe article seems to be cut off (it ends with \"Morgell\"), but I have enough to summarize the main points.\n\nI need to write a concise 100-200 word summary focusing on key points and main takeaways. The summary should be informative and capture the essence of what the article is discussing.\n\nLet me write this in a professional, informative tone.\n</think>\n\n**Summary: Three More AI Psychoses**\n\nThe article explores \"AI psychosis,\" a term describing delusions induced, reinforced, or magnified by chatbot interactions. While alarming, particularly in cases resulting in injury or death, the author argues this phenomenon exists on a continuum with existing psychological conditions. The term will likely be deprecated due to concerns about medical metaphor stigmatization, but remains useful for discussing these very real pathologies.\n\nThe article draws parallels to historical delusions like Morgellons Disease, a psychosomatic condition where sufferers believe wires are growing under their skin, leading them to cause severe self-harm. Though Morgellons emerged prominently in the 2000s, similar delusions date back centuries, as evidenced by 17th-century case reports. This historical context suggests AI psychosis, while new in its technological catalyst, represents an extension of human psychological vulnerabilities rather than an entirely unprecedented phenomenon.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/12Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/12/normal-technology/)\n\n## Today's links\n\n- [Three more AI psychoses](https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism): Everybody calm down.\n\n- [Hey look at this](https://pluralistic.net/2026/03/12/normal-technology/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/12/normal-technology/#retro): \"Jules, Penny and the Rooster\"; Superinjunction; Harper Lee's kids v cheap paperbacks; 3D printed cat battle-armor; Black sf.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/12/normal-technology/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/12/normal-technology/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/12/normal-technology/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/12/normal-technology/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/12/normal-technology/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/3-ai-psychoses.jpg?w=840&ssl=1)\n\n## Three more AI psychoses ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism))\n\n\"AI psychosis\" is one of those terms that is incredibly useful and also almost certainly going to be deprecated in smart circles in short order because it is: a) useful; b) easily colloquialized to describe related phenomena; and c) adjacent to medical issues, and there's a group of people who feel very strongly any metaphor that implicates human health is intrinsically stigmatizing and must be replaced with an awkward, lengthy phrase that no one can remember and only insiders understand.\n\nSo while we still can, let us revel in this useful term to talk about some very real pathologies in our world.\n\nFormally, \"AI psychosis\" describes people who have delusions that are possibly induced, and definitely reinforced and magnified, by a chatbot. AI psychosis is clearly alarming for people whose loved ones fall prey to it, and it has been the subject of much press and popular attention, especially in the extreme cases where it has resulted in injury or death.\n\nIt's possible for AI psychosis to be both a new and alarming phenomenon and also to be on a continuum with existing phenomena. Paranoid delusions aren't new, of course. Take \"Morgellons Disease,\" a psychosomatic belief that you have wires growing in your body, which causes sufferers to pick at their skin to the point of creating suppurating wounds. Morgellons emerged in the 2000s, but the name refers to a 17th-century case-report of a patient who suffered from a similar delusion:\n\n[https://en.wikipedia.org/wiki/A_Letter_to_a_Friend](https://en.wikipedia.org/wiki/A_Letter_to_a_Friend)\n\nMorgellons is *both* a 400 year old phenomenon and an internet pathology. How can that be? Because the internet makes it easier for people with sparsely distributed traits to locate one another, which is why the internet era is characterized by the coherence of people with formerly fringe characteristics into organized blocs, for better (gender minorities, #MeToo) and worse (Nazis).\n\nMorgellons is rare, but if you suffer from it, it's easy for you to locate virtually *every* other person in the world with the same delusion and for all of you to reinforce and egg on your delusional beliefs.\n\nMorgellons isn't the only delusion that the internet reinforces, of course. \"Gang stalking delusion\" is a belief in a shadowy gang of sadistic tormentors who sneak hidden messages into song lyrics and public signage and innuendo in overheard snatches of other people's conversations. It is an incredibly damaging delusion that ruins people's lives.\n\nGang stalking delusion isn't new, either – as with Morgellons, there are historical accounts of it going back centuries. But the internet supercharged gang stalking delusion by making it easy for GSD sufferers to find one another and reinforce one another's beliefs, helping each other spin elaborate explanations for why the relatives, therapists, and friends who try to help them are actually in on the conspiracy. The result is that GSD sufferers end up ever more isolated from people who are trying mightily to save them, and more connected to people who drive them to self-harm.\n\nEnter chatbots. Ready access to eager-to-please LLMs at every hour of the day or night means that you don't even have to find a forum full of people with the same delusion as you, nor do you have to wait for a reply to your anguished message. The LLM is always there, ready to fire back a \"yes-and\" improv-style response that drives you deeper and deeper into delusion:\n\n[https://pluralistic.net/2025/09/17/automating-gang-stalking-delusion/](https://pluralistic.net/2025/09/17/automating-gang-stalking-delusion/)\n\nIt's possible that there are delusions that are even more rare than GSD or Morgellons that AI is surfacing. Imagine if you were prone to fleeting delusional beliefs (and whomst amongst us hasn't experienced the bedrock certainty that we put something down *right here*, only to find it somewhere else and not have any idea how that happened?). Under normal circumstances, these cognitive misfires might be fleeting moments of discomfort, quickly forgotten. But if you are already habituated to asking a chatbot to explain things you don't understand, it might well yes-and you into an internally consistent, entirely wrong belief – that is, a delusion.\n\nThink of how often you noticed \"42\" after reading *Hitchhiker's Guide to the Galaxy*, or how many times \"6-7\" crops up once you've experienced a baseline of exposure to adolescents. Now imagine that an obsequious tale-spinner was sitting at your elbow, helpfully noting these coincidences and fitting them into a folie-a-deux mystery play that projected a grand, paranoid narrative onto the world. Every bit of confirming evidence is lovingly cataloged, all disconfirming evidence is discounted or ignored. It's fully automated luxury QAnon – a self-baking conspiracy that harnesses an AI in service to driving you deeper and deeper into madness:\n\nThat's the original \"AI psychosis\" that the term was coined to describe. As Sam Cole notes in her excellent \"How to Talk to Someone Experiencing 'AI Psychosis,'\" mental health practitioners are not entirely comfortable with the \"psychosis\" label:\n\n[https://www.404media.co/ai-psychosis-help-gemini-chatgpt-claude-chatbot-delusions/](https://www.404media.co/ai-psychosis-help-gemini-chatgpt-claude-chatbot-delusions/)\n\n\"Psychosis\" here is best understood as an *analogy*, not a diagnosis, and, as already noted, there is a large cohort of very persistent people who make it their business to eradicate analogies that make reference to medical or health-related phenomena. But these analogies are very hard to kill, because they do useful work in connecting unfamiliar, novel phenomena with things we already understand.\n\nIt's true that these analogies *can* be stigmatizing, but they *needn't* be. As someone with an autoimmune disorder, I am not bothered by people who describe ICE as an autoimmune disorder in which antibodies attack the host, threatening its very life. I am capable of understanding \"autoimmune disorder\" as referring to both a literal, medical phenomenon; *and* a figurative, political one. I have never found myself confusing one for the other.\n\n\"AI psychosis\" is one of those very useful analogies, and you can tell, because \"AI psychosis\" has found even *more* metaphorical uses, describing *other* bad beliefs about AI. Today, I want to talk about three of these AI psychoses, and how they relate to one another: the investor AI delusion, the boss AI delusion, and the critic AI delusion.\n\nLet's start with the investors' delusion. AI started as an investment project from the usual suspects: venture capitalists, private wealth funds, and tech monopolists with large cash reserves and ready access to loans during the cheap credit bubble. These entities are accustomed to making large, long-shot bets, and they were extremely motivated to find new markets to grow into and take over.\n\nGrowing companies *need* to keep growing, but not because they have \"the ideology of a tumor.\" Growing companies' imperative to keep growing isn't ideological at all – it's material. Growth companies' stock trade at a high multiple of their \"price to earnings ratio\" (PE ratio), which means that they can use their stock like money when buying other companies and hiring key employees.\n\nBut once those companies' growth slows down, investors revalue those shares at a much lower PE multiplier, which makes individual executives at the company (who are primarily paid in stock) *personally* much poorer, prompting their departure, while simultaneously kneecapping the company's ability to grow through acquisition and hiring, because a company with a falling share price has to buy things with cash, not stock. Companies can make more of their own stock on demand, simply by typing zeroes into a spreadsheet – but they can only get cash by convincing a customer, creditor or investor to part with some of their own:\n\n[https://pluralistic.net/2025/03/06/privacy-last/#exceptionally-american](https://pluralistic.net/2025/03/06/privacy-last/#exceptionally-american)\n\nTech companies have absurdly large market shares – think of Google's 90% search dominance – and so they've spent 15+ years coming up with increasingly absurd gambits to convince investors that they will continue to grow by capturing *other* markets. At first, these companies claimed that they were on the verge of eating one another's lunches (Google would destroy Facebook with G+; Facebook would do the same to Youtube with the \"pivot to video\").\n\nThis has a real advantage in that one need not speculate about the potential value of Facebook's market – you only have to look at Facebook's quarterly reports. But the downside is that Facebook has its own ideas about whether Google is going to absorb its market, and they are prone to forcefully make the case that this won't happen.\n\nAfter a few tumultuous years, tech giants switched to promoting growth via speculative new markets – metaverse, web3, crypto, blockchain, etc. Speculative new markets are *speculative*, and the weakness of that is that no one can say how big those markets might be. But that's also the *strength* of those markets, because if no one can say how big those markets might be, then who's to say that they won't be *very* big indeed?\n\nThere's a different advantage to confining your concerns to imaginary things: imaginary things don't exist, so they don't contest your public statements about them, nor do they make demands on you. Think of how the right concerns itself with imaginary children (unborn babies, children in Wayfair furniture; children in nonexistent pizza parlor basements, children undergoing gender confirmation surgery). These are very convenient children to advocate for, since, unlike real children (hungry children, children killed in the Gaza genocide, children whose parents have been kidnapped by ICE, children whom Matt Goetz and Donald Trump trafficked for sex, children in cages at the US border, trans kids driven to self-harm and suicide after being denied care), nonexistent children don't want anything from you and they never make public pronouncements about whether you have their best interests at heart.\n\nBut as the AI project has required larger and larger sums to keep the wheels spinning, the usual suspects have started to run out of money, and now AI hustlers are increasingly looking to tap *public* markets for capital. They want you to invest your pension savings in their growth narrative machine, and they're relying on the fact that you don't understand the technology to trick you into handing over your money.\n\nThere's a name for this: it's called the \"Byzantine premium\" – that's the premium that an investment opportunity attracts by being so complicated and weird that investors don't understand it, making them easy to trick:\n\n[https://pluralistic.net/2022/03/13/the-byzantine-premium/](https://pluralistic.net/2022/03/13/the-byzantine-premium/)\n\nAI is a terrible economic phenomenon. It has lost more money than any other project in human history – $600-700b and counting, with *trillions* more demanded by the likes of OpenAI's Sam Altman. AI's core assets – data centers and GPUs – last 2-3 years, though AI bosses insist on depreciating them over five years, which is unequivocal accounting fraud, a way to obscure the losses the companies are incurring. But it doesn't actually matter whether the assets need to be replaced every two years, every three years, or every five years, because all the AI companies *combined* are claiming no more than $60b/year in revenue (that number is grossly inflated). You can't reach the $700b break-even point at $60b/year in two years, three years, *or* five years.\n\nNow, some exceptionally valuable technologies *have* attained profitability after an extraordinarily long period in which they lost money, like the web itself. But these turnaround stories all share a common trait: they had good \"unit economics. Every new web user reduced the amount of money the web industry was losing. Every time a user logged onto the web, they made the industry more profitable. Every generation of web technology was more profitable than the last.\n\nContrast this with AI: every user – paid or unpaid – that an AI company signs up costs them money. Every time that user logs into a chatbot or enters a prompt, the company loses more money. The more a user uses an AI product, the more money that product loses. And each generation of AI tech loses more money than the generation that preceded it.\n\nTo make AI look like a good investment, AI bosses and their pitchmen have to come up with a story that somehow addresses this phenomenon. Part of that story relies on the Byzantine premium: \"Sure, you don't understand AI, but why would all these smart people commit hundreds of billions of dollars to AI if they weren't confident that they would make a lot of money from it?\" In other words, \"A pile of shit *this big* must have a pony underneath it *somewhere*!\"\n\nThis is a great narrative trick, because it turns losing money into a virtue. If you've convinced a mark that the upside of the project is a multiple of the capital committed to it, then the more money you're losing, the better the investment seems.\n\nSo this is the first AI psychosis: the idea that we should bet the world's economy on these highly combustible GPUs and data centers with terrible unit economics and no path to break-even, much less profitability.\n\nInvestors' AI psychosis is cross-fertilized by our second form of AI psychosis, which is the *bosses'* AI psychosis: bosses' bottomless passion for firing workers and replacing them with automation.\n\nBosses are easy marks for anything that lets them fire workers. After all, the ideal firm is one that charges infinity for its outputs (hence the market's passion for monopolies) and pays nothing for its inputs (e.g. \"academic publishing\").\n\nThis means that the fact that a chatbot can't do your job isn't nearly as important as the fact that an AI salesman can convince your boss to fire you and replace you with a chatbot that *can't* do your job. Bosses keep replacing humans with defective chatbots, with *catastrophic* consequences, like Amazon's cloud service crashing:\n\n[https://www.techradar.com/pro/recent-aws-outages-blamed-on-ai-tools-at-least-two-incidents-took-down-amazon-services](https://www.techradar.com/pro/recent-aws-outages-blamed-on-ai-tools-at-least-two-incidents-took-down-amazon-services)\n\nBosses are haunted by the ego-shattering knowledge that they aren't in the driver's seat: if the boss doesn't show up for work, everything continues to operate just fine. If the *workers* all stay home, the business grinds to a halt. In their secret hearts, bosses know that they're not in the driver's seat – they're in the back seat, playing with a Fisher Price steering wheel. AI dangles the possibility of wiring that toy steering wheel directly into the drive-train, so that the company's products go directly from the boss's imagination to the public without the boss having to ask people who know how to *do things* to execute their cockamamie schemes:\n\n[https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)\n\nThis is a powerfully erotic proposition for bosses, the realization of the libidinal fantasy in which sky-high CEO salaries can be justified by the fact that everything that happens in the company is truly, directly attributable to the boss. Like the delusional person who can be led deeper and deeper into a fantasy world by a chatbot, a boss's delusion that they are worth thousands of times more than their workers makes them easy prey for a chatbot *salesman* that pushes them deeper and deeper into that delusion, until they bet the whole company on it.\n\nNow we come to the third and final novel AI psychosis, the *critics'* psychosis, that AI is an abnormally terrible *technology*. This is a species of \"criti-hype,\" which is when critics repeat the hyped-up claims of the companies they're targeting, but as criticism (think of all the people who believed and uncritically amplified the ad-tech industry's self-serving claims of being able to control our minds by \"hacking our dopamine loops\"):\n\n[https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/](https://peoples-things.ghost.io/youre-doing-it-wrong-notes-on-criticism-and-technology-hype/)\n\nAI is a *normal* technology. The people who made it, and the circumstances under which it was made, are normal. Its uses and abuses are normal. That doesn't make it *good*, but it does make it *unexceptional*:\n\n[https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal](https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal)\n\nThe *exceptional* part of AI isn't the technology, it's the *bubble*. There's nothing about AI *per se* that makes it exceptionally prone to devouring our natural resources, or endangering our jobs, or abetting war crimes. That's all because of the *bubble*, and the bubble relies on the idea that AI is *exceptional*, not normal. Repeating and amplifying claims about AI's exceptionalism *helps* the AI companies, because they rely on exceptionalism to keep the capital flowing and the bubble inflating.\n\nAI is a normal technology. It's normal for a technology to be invented by unlikable and immoral people and institutions. Not every technology is invented by a shitty person, but shitty people and institutions are well represented (and possibly disproportionately represented) in the history of technology. Charles Babbage invented the idea of general purpose computers as a way of improving labor control on slave plantations:\n\n[https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)\n\nAda Lovelace wasn't interested in making slavery more efficient, but neither was she driven by pure scientific inquiry. She invented programming to help her bet on the horses (it didn't work):\n\n[https://en.wikipedia.org/wiki/Ada_Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)\n\nThe silicon transistor was co-invented by William Shockley, one of history's great pieces of shit, a eugenicist who was so committed to exterminating all non-white people that he never managed to ship a commercial product:\n\n[https://pluralistic.net/2021/10/24/the-traitorous-eight-and-the-battle-of-germanium-valley/](https://pluralistic.net/2021/10/24/the-traitorous-eight-and-the-battle-of-germanium-valley/)\n\nIBM built the tabulators for Auschwitz. HP were the Pentagon's go-to contractors for any tech project that was so dirty no one else would touch it. We only got Unix because Bell Labs committed so many antitrust violations that they weren't allowed to productize it themselves.\n\nIt's not exceptional for AI companies to have terrible, piece-of-shit founders. It's not exceptional for these companies to participate in war crimes. It's not exceptional for these founders to want to pauperize workers. It's not exceptional for these companies to lie about their products, bankrupt naive investors through stock swindles, and pitch themselves to investors as a way for capital to win the class war.\n\n*None of this means that AI companies are good*, it just means that they are not *exceptional*. And because they aren't exceptional, the same dynamics that govern other technologies apply to AI companies' products. Their utility is a function of what they *do*, not who made them or how they were sold. The *utility* of AI products is based on whether people find ways to use them that make them happy – not whether the people who made those technologies are good people, or whether the funding for the technology was fraudulent, or whether other people use the technology to harm others.\n\nAutomation comes in two flavors: there's automation that produces things *more quickly* (and hence more cheaply), and there's automation that makes *better* things. Generally, capital prefers to use automation to increase the pace at which things are made, while workers prefer to use automation to improve the quality of the things they make.\n\nThink of a hobbyist who pines for an automated soldering machine. That hobbyist longs to make board-level repairs and modifications that require precision that humans struggle to match. The hobbyist is a centaur, using a machine to help achieve human goals.\n\nNow think of a factory owner who invests in an assembly line of the same machines: that boss wants to fire a bunch of workers and make the survivors of the purge take up the slack. The boss want to achieve *corporate* goals, to \"sweat the assets,\" making maximum use of the soldering machines. The pace at which the line runs is set to be the maximum that the workers can match. The workers on the line are \"reverse centaurs\" – humans who are pressed into service as peripherals for machines, at a pace that is constantly at the very limit of their endurance.\n\nReverse centaurs are trapped in capital's automation plan – to make everything faster and cheaper. But that's the result of *bosses*. It's not the result of *technology*.\n\nThis is not to say that technology is apolitical. Only a fool would imagine that there are no politics embedded in technology. But you'd be a far greater fool if you asserted that the politics of a technology were *simple*, *clear*, and *immutable*.\n\nNor is this to say that when workers get to decide when and how to use technology, we will always make wise decisions. Perhaps the hobbyist who opts for an automated soldering machine will lose out on the opportunity to refine their hand-eye coordination in ways that will have many other benefits to their practice.\n\nOr perhaps attempting to improve their hand-eye coordination to that point will wreck so many projects that they grow discouraged and give up altogether. Others' choices that seem unwise to you might have perfectly good explanations that aren't visible from your perspective. Ultimately, the world is a better place where workers get to decide which parts of their jobs they want to automate and which parts they want to lean into.\n\nThis is an extremely *normal* technological situation: for a new technology to be promoted and productized by shitty people who have grandiose goals that would be apocalyptic should they ever come to pass – and for some people to find uses of that technology that are nevertheless beneficial to them and their communities.\n\nThe belief that AI is an exceptionally bad *technology* (as opposed to an exceptionally bad *economic bubble*) drives AI critics into their own absurd *culs-de-sac*.\n\nThere are many, many skilled and reliable practitioners of technical and creative trades who've found extremely reasonable, normal ways in which AI has automated some part of their job. They aren't hyperventilating about how AI has changed everything forever and the world is about to end. They're not mistaking AI for god, or a therapist.\n\nThey're just treating AI like a normal technology, like a plugin. Programmers' tools have acquired useful automation plugins at regular intervals for decades – syntax checkers, advanced debuggers, automated wireframe utilities. For many programmers – including several of my acquaintance, whom I know to be both thoughtful and skilled – AI is another plugin, one they find useful enough to be modestly enthusiastic about.\n\nIt is *nuts* to deny the experiences these people are having. They're not vibe-coding mission-critical AWS modules. They're not generating tech debt at scale:\n\n[https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes)\n\nThey're just adding another automation tool to a highly automated practice, and using it when it makes sense. Perhaps they won't always choose wisely, but that's normal too. There's plenty of ways that pre-AI automation tools for software development led programmers astray. A skilled, centaur-configured programmer learns from experience which automation tools they should trust, and under which circumstances, and guides themselves accordingly.\n\nIt's only the belief that AI is *exceptional* – exceptionally wicked, but exceptional nevertheless – that leads critics to decide that they are a better judge of whether a skilled worker should or should not use certain automation tools, and to make that judgment not based on the quality of the work in question, but on the moral character of the tool itself.\n\nAI is just normal. The bubble is what drives the environmental costs. If the only LLMs were a couple big data-centers at Sandia National Labs, no one would be particularly exercised about the water and energy demands they represented. Big scientific endeavors – from NASA launches to the large Hadron Collider – often come with immense material and energy needs. The bubble causes massive, wasteful, duplicative efforts that chase diminishing returns through farcical scale.\n\nNor are AI bros exceptional. The stock swindlers who've blown $700b (and counting) on AI aren't cyber-Svengalis with the power to cloud investors' minds. They're just running the same con that tech has been running ever since its returns started to taper off and survival became a matter of ginning up enthusiasm for speculative new ventures.\n\nThat doesn't mean those people aren't awful shits. *Fuck those people*. It just means that they're *normal* awful shits. We don't have to burnish their reputations by elevating them to the status of archdemons who taint everything they touch with unwashable sin. Sam Altman isn't Lex Luthor. He's just a conman:\n\n[https://open.substack.com/pub/garymarcus/p/breaking-sam-altmans-greed-and-dishonesty?r=8tdk6&amp;utm_medium=ios](https://open.substack.com/pub/garymarcus/p/breaking-sam-altmans-greed-and-dishonesty?r=8tdk6&amp;utm_medium=ios)\n\nThe fact that these bros are just normal assholes means that we don't have to treat everything they do as a sin. Scraping the entirety of human knowledge to make something new out of it isn't \"stealing.\" Depending on why you're doing it, it can be *archiving*, or *making a search engine*:\n\n[https://pluralistic.net/2023/09/17/how-to-think-about-scraping/](https://pluralistic.net/2023/09/17/how-to-think-about-scraping/)\n\nToo many AI critics have started from the undeniable fact that these guys are odious creeps who boast about wanting to ruin the lives of workers and then worked backwards to find the sin. The sin isn't performing mathematical analysis on all the books ever written. That's actually kind of awesome. It's the kind of thing Aaron Swartz used to do – like when he ingested every law review article ever published and used it to trace the way that oil companies' donations to law schools resulted in profs writing articles about why Big Oil can't be held liable for trashing the planet:\n\n[https://web.archive.org/web/20111129181943/https://www.stanfordlawreview.org/print/article/punitive-damages-remunerated-research-and-legal-profession](https://web.archive.org/web/20111129181943/https://www.stanfordlawreview.org/print/article/punitive-damages-remunerated-research-and-legal-profession)\n\nAI bros' sin isn't making copies of published works. Hammering servers with badly behaved crawlers *is* a dick move and fuck them for doing it. But if these jerks made well-behaved scrapers that placed no abnormal demand on servers, it's not like their critics would say, \"Oh, I guess it's fine, then.\"\n\nAI bros' sin is running an economy-destroying, planet-wrecking stock swindle whose raison d'etre is pauperizing every worker and transferring 100% of the dying world's wealth to a small cadre of morbidly wealthy, eminently guillotineable plutes. Making plugins? That's not exceptional. It's just normal.\n\nThe fact that something is normal doesn't make it good. There's a lot of normal things that I'd like to throw into the Sun. But we don't do ourselves any favors when we amplify our enemies' self-aggrandizing narratives by accusing them of being exceptional, even when we mean \"exceptionally evil.\" They're normal assholes.\n\nFuck 'em.\n\n(*Image: [ZeptoBars](https://commons.wikimedia.org/wiki/File:Microchip-24lcs52-HD.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en), modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- E is for…. Enshittification [https://www.evanshunt.com/enshittification/](https://www.evanshunt.com/enshittification/)\n\n- \nCalicornication: Postcards of Giant Produce (1909) [https://publicdomainreview.org/collection/giant-produce-postcards/](https://publicdomainreview.org/collection/giant-produce-postcards/)\n\n- \nOrganized Money: Why Your Lamp Sucks [https://prospect.org/2026/03/11/organized-money-lamps-lighting-mid-century-modeline-history/](https://prospect.org/2026/03/11/organized-money-lamps-lighting-mid-century-modeline-history/)\n\n- \nThe Live Nation settlement has industry insiders baffled [https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states](https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states)\n\n- \nPublic speakerphone use is officially out of control  [https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/](https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#retro))\n\n#15yrsago Notorious financier gets a “super-injunction” prohibiting the press from revealing that he is a banker [https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/8373535/Sir-Fred-Goodwin-former-RBS-chief-obtains-super-injunction.html](https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/8373535/Sir-Fred-Goodwin-former-RBS-chief-obtains-super-injunction.html)\n\n#10yrsago Shortly after her death, Harper Lee’s heirs kill cheap paperback edition of To Kill a Mockingbird [https://newrepublic.com/article/131400/mass-market-edition-kill-mockingbird-dead](https://newrepublic.com/article/131400/mass-market-edition-kill-mockingbird-dead)\n\n#10yrsago Web security company breached, client list (including KKK) dumped, hackers mock inept security [https://arstechnica.com/information-technology/2016/03/after-an-easy-breach-hackers-leave-tips-when-running-a-security-company/](https://arstechnica.com/information-technology/2016/03/after-an-easy-breach-hackers-leave-tips-when-running-a-security-company/)\n\n#10yrsago Microsoft spams corporate users with messages denigrating their IT departments [https://web.archive.org/web/20160309195537/https://www.infoworld.com/article/3042397/microsoft-windows/admins-beware-domain-attached-pcs-are-sprouting-get-windows-10-ads.html](https://web.archive.org/web/20160309195537/https://www.infoworld.com/article/3042397/microsoft-windows/admins-beware-domain-attached-pcs-are-sprouting-get-windows-10-ads.html)\n\n#10yrsago Cycle and Recycle: gorgeous photos of the European recycling process [https://www.wired.com/2016/03/paul-bulteel-cycle-recyle-europe-recycles-tons-of-waste-and-its-pretty-gorgeous/](https://www.wired.com/2016/03/paul-bulteel-cycle-recyle-europe-recycles-tons-of-waste-and-its-pretty-gorgeous/)\n\n#10yrsago Fellowships for “Robin Hood” hackers to help poor people get access to the law [https://web.archive.org/web/20160304221459/https://labs.robinhood.org/fellowship/](https://web.archive.org/web/20160304221459/https://labs.robinhood.org/fellowship/)\n\n#10yrsago 3D printed battle-armor for cats [https://web.archive.org/web/20160311224139/http://sinkhacks.com/making-3d-printed-cat-armor/](https://web.archive.org/web/20160311224139/http://sinkhacks.com/making-3d-printed-cat-armor/)\n\n#10yrsago Great moments in the history of black science fiction [https://web.archive.org/web/20160308034421/http://www.fantasticstoriesoftheimagination.com/a-crash-course-in-the-history-of-black-science-fiction/](https://web.archive.org/web/20160308034421/http://www.fantasticstoriesoftheimagination.com/a-crash-course-in-the-history-of-black-science-fiction/)\n\n#1yrago Daniel Pinkwater's \"Jules, Penny and the Rooster\" [https://pluralistic.net/2025/03/11/klong-you-are-a-pickle-2/#martian-space-potato](https://pluralistic.net/2025/03/11/klong-you-are-a-pickle-2/#martian-space-potato)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Barcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nLondon: Resisting Big Tech Empires (LSBU)\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#recent))\n\n- Launch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n- \nThe Lost Cause\n\n[https://streets.mn/2026/03/02/book-club-the-lost-cause/](https://streets.mn/2026/03/02/book-club-the-lost-cause/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/12/normal-technology/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1081 words today, 48461 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/12/normal-technology/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Systems",
+          "Startup",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 13 Mar 2026 02:17:20 +0000",
+        "reading_time": 30,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Forge",
+        "summary": "<think>The user wants me to summarize an article about a CLI tool called \"forge\" that provides a unified interface for different Git forges (GitHub, GitLab, Bitbucket, Gitea/Forgejo).\n\nLet me identify the key points:\n1. The author observes a pattern: package registries and lockfile formats have the same problem across ecosystems\n2. Git forges have the same issue - different CLIs (gh, glab, tea, Bitbucket tools) with different syntax, flags, and API coverage\n3. The author is building a unified CLI called \"forge\" that works across all forges\n4. It automatically detects forge type from git remote\n5. Commands work uniformly across all forge types\n6. Covers repos, issues, PRs, releases, branches, CI, labels, milestones, deploy keys, secrets, comments\n7. Has raw API access via \"forge api\" command\n8. Unified authentication system\n\nI need to summarize this in 100-200 words, keeping it concise and informative. Let me write a summary that captures the main points.\n</think>\n\n**Summary**\n\nThe article discusses a common problem in open source infrastructure: different platforms that serve similar purposes but use incompatible interfaces. The author observed this with package registries (different APIs and metadata formats) and lockfile formats, and now sees it in Git forges—GitHub with `gh`, GitLab with `glab`, Bitbucket with unofficial tools, and Gitea/Forgejo with `tea`. Each handles repos, issues, PRs, releases, and CI, but with different syntax and authentication flows.\n\nThe author is building `forge`, a unified CLI that provides consistent commands across all forges. It automatically detects the forge type from git remotes and offers standardized commands for repos, issues, PRs, releases, branches, CI, labels, milestones, deploy keys, secrets, and comments. For unsupported operations, it provides raw API access via `forge api`. Authentication is handled through a single `forge auth login` command that works across all platforms. The goal is to create one interface that serves both humans on the command line and AI coding agents needing programmatic access.",
+        "content": "I keep ending up in the same place. With [Libraries.io](https://libraries.io/) and [ecosyste.ms](https://ecosyste.ms/) it was package registries that all do the same thing with different APIs and different metadata formats. With [git-pkgs](https://github.com/git-pkgs/git-pkgs) it was lockfile formats. The pattern is always the same: open source infrastructure that does roughly the same job across ecosystems, but with enough differences in the details to make working across all of them painful. So you build a common interface and absorb the differences.\n\nGit forges are the same kind of problem. GitHub has `gh`, GitLab has `glab`, Bitbucket has various unofficial options, and Gitea/Forgejo has `tea`. They all manage repos, issues, pull requests, releases, and CI, with completely different syntax, different flag conventions, and different ideas about which API endpoints deserve a command and which don’t.\n\nI’ve been building something that needs to talk to all of these forges, a project I’m not quite ready to announce yet, and the idea of wrapping four different CLIs with four different output formats and four different authentication flows was not appealing. I wanted one interface that worked the same way everywhere, for humans on the command line and for AI coding agents that need to interact with forges programmatically.\n\nI started with `tea`, the Gitea/Forgejo CLI, which covers the basics but is missing commands for things the API supports perfectly well: CI pipelines, deploy keys, secrets, milestones. I began adding what I needed, then realized I’d rather build the tool I actually wanted than patch one that only covered a quarter of the problem.\n\n### CLI\n\nAll four of the existing CLIs are written in Go, which made the review straightforward. I read through `gh`, `glab`, `tea`, and the Bitbucket tools, looked at how each one mapped API concepts to commands, and built [forge](https://github.com/git-pkgs/forge) as a single combined version that detects which forge a given domain is running automatically.\n\n```\nforge repo view\nforge issue list --state open\nforge pr create --title \"Fix bug\" --head fix-branch\nforge release list\nforge ci list\nforge branch list\nforge label list\n\n```\n\nThese commands work the same way whether the remote points at github.com, a self-hosted GitLab, or a Forgejo instance. The CLI figures out the forge type from the git remote, or you can set it with `--forge-type` or a `.forge` file in the repo root. It covers repos, issues, pull requests, releases, branches, CI pipelines, labels, milestones, deploy keys, secrets, and comments, and for anything not wrapped in a named command there’s `forge api` for raw authenticated requests:\n\n```\nforge api repos/{owner}/{repo}\n\n```\n\nAuthentication works through `forge auth login`, which can be interactive or scripted:\n\n```\nforge auth login                          # asks for domain + token\nforge auth login --domain gitea.example.com --token abc123 --type gitea\n\n```\n\nTokens resolve from CLI flags, environment variables (`FORGE_TOKEN`, `GITHUB_TOKEN`, `GITLAB_TOKEN`, and so on), or a config file, so existing tokens from `gh` and `glab` just work. All commands support `--output json` for scripting and piping.\n\n### Go module\n\nForge is also a Go module with the same unified interface available programmatically:\n\n```\nclient := forges.NewClient(\n    forges.WithToken(\"github.com\", os.Getenv(\"GITHUB_TOKEN\")),\n    forges.WithToken(\"gitlab.com\", os.Getenv(\"GITLAB_TOKEN\")),\n)\n\nrepo, _ := client.FetchRepository(ctx, \"https://github.com/octocat/hello-world\")\n\nf, _ := client.ForgeFor(\"github.com\")\nissues, _ := f.Issues().List(ctx, \"octocat\", \"hello-world\", forges.ListIssueOpts{State: \"open\"})\n\n```\n\nEach forge backend implements a common interface with services for repositories, issues, pull requests, releases, CI, and the rest, so you can write code that works against any forge without conditional logic per provider. It fills a similar role to what [ecosyste-ms/repos](https://github.com/ecosyste-ms/repos) does as a web service, except it runs locally and authenticates with your own tokens. That programmatic interface is going to be useful for future integrations with [git-pkgs](https://github.com/git-pkgs/git-pkgs), where having a consistent way to query repositories, releases, and CI status across forges matters quite a bit.\n\nI suspect more people than usual are going to need something like this soon. AI coding agents are starting to interact with forges directly, opening issues and creating pull requests and triggering CI, and most of them are hardcoded to GitHub’s API. Having a single interface that works the same way against a Forgejo instance as it does against github.com makes the agent code simpler and the forge choice less of a lock-in decision.",
+        "url": "https://nesbitt.io/2026/03/13/forge.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "DevOps",
+          "Other"
+        ],
+        "published_at": "2026-03-13T10:00:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "1M context is now generally available for Opus 4.6 and Sonnet 4.6 - <think>The user wants me to summarize an article about Claude models (Opus 4.6 and Sonnet...",
+    "Quoting Craig Mod - <think>The user wants me to summarize an article by Craig Mod in 100-200 words. Let me ana...",
+    "Restoring an Xserve G5: When Apple built real servers - <think>The user wants me to summarize an article about restoring an Apple Xserve G5 server...",
+    "Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing - <think>The user wants me to summarize an article about sports programming's dominance in a...",
+    "Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today - <think>The user wants me to summarize an article about Anthropic CEO Dario Amodei's predic..."
+  ],
+  "wordcloud": [
+    {
+      "word": "ai",
+      "count": 28
+    },
+    {
+      "word": "article",
+      "count": 27
+    },
+    {
+      "word": "think",
+      "count": 26
+    },
+    {
+      "word": "summary",
+      "count": 25
+    },
+    {
+      "word": "author",
+      "count": 24
+    },
+    {
+      "word": "key",
+      "count": 23
+    },
+    {
+      "word": "points",
+      "count": 22
+    },
+    {
+      "word": "software",
+      "count": 20
+    },
+    {
+      "word": "words",
+      "count": 18
+    },
+    {
+      "word": "summarize",
+      "count": 17
+    },
+    {
+      "word": "let",
+      "count": 16
+    },
+    {
+      "word": "main",
+      "count": 15
+    },
+    {
+      "word": "code",
+      "count": 14
+    },
+    {
+      "word": "work",
+      "count": 14
+    },
+    {
+      "word": "concise",
+      "count": 14
+    },
+    {
+      "word": "informative",
+      "count": 14
+    },
+    {
+      "word": "write",
+      "count": 14
+    },
+    {
+      "word": "tools",
+      "count": 13
+    },
+    {
+      "word": "coding",
+      "count": 12
+    },
+    {
+      "word": "user",
+      "count": 11
+    },
+    {
+      "word": "wants",
+      "count": 11
+    },
+    {
+      "word": "context",
+      "count": 10
+    },
+    {
+      "word": "across",
+      "count": 10
+    },
+    {
+      "word": "ad-supported",
+      "count": 10
+    },
+    {
+      "word": "forge",
+      "count": 10
+    },
+    {
+      "word": "takeaways",
+      "count": 9
+    },
+    {
+      "word": "anthropic",
+      "count": 9
+    },
+    {
+      "word": "accounting",
+      "count": 9
+    },
+    {
+      "word": "streaming",
+      "count": 9
+    },
+    {
+      "word": "developers",
+      "count": 9
+    },
+    {
+      "word": "claude",
+      "count": 8
+    },
+    {
+      "word": "process",
+      "count": 8
+    },
+    {
+      "word": "built",
+      "count": 8
+    },
+    {
+      "word": "programming",
+      "count": 8
+    },
+    {
+      "word": "different",
+      "count": 8
+    },
+    {
+      "word": "analyze",
+      "count": 7
+    },
+    {
+      "word": "custom",
+      "count": 7
+    },
+    {
+      "word": "server",
+      "count": 7
+    },
+    {
+      "word": "sports",
+      "count": 7
+    },
+    {
+      "word": "viewing",
+      "count": 7
+    },
+    {
+      "word": "apple",
+      "count": 6
+    },
+    {
+      "word": "years",
+      "count": 6
+    },
+    {
+      "word": "build",
+      "count": 6
+    },
+    {
+      "word": "xserve",
+      "count": 6
+    },
+    {
+      "word": "video",
+      "count": 6
+    },
+    {
+      "word": "platforms",
+      "count": 6
+    },
+    {
+      "word": "like",
+      "count": 6
+    },
+    {
+      "word": "ceo",
+      "count": 6
+    },
+    {
+      "word": "amodei",
+      "count": 6
+    },
+    {
+      "word": "term",
+      "count": 6
+    },
+    {
+      "word": "always",
+      "count": 6
+    },
+    {
+      "word": "learning",
+      "count": 6
+    },
+    {
+      "word": "delusions",
+      "count": 6
+    },
+    {
+      "word": "results",
+      "count": 5
+    },
+    {
+      "word": "available",
+      "count": 5
+    },
+    {
+      "word": "specific",
+      "count": 5
+    },
+    {
+      "word": "focusing",
+      "count": 5
+    },
+    {
+      "word": "craig",
+      "count": 5
+    },
+    {
+      "word": "mod",
+      "count": 5
+    },
+    {
+      "word": "fast",
+      "count": 5
+    },
+    {
+      "word": "formats",
+      "count": 5
+    },
+    {
+      "word": "improvements",
+      "count": 5
+    },
+    {
+      "word": "building",
+      "count": 5
+    },
+    {
+      "word": "real",
+      "count": 5
+    },
+    {
+      "word": "psu",
+      "count": 5
+    },
+    {
+      "word": "tv",
+      "count": 5
+    },
+    {
+      "word": "among",
+      "count": 5
+    },
+    {
+      "word": "split",
+      "count": 5
+    },
+    {
+      "word": "mourning",
+      "count": 5
+    },
+    {
+      "word": "faster",
+      "count": 5
+    },
+    {
+      "word": "parse",
+      "count": 5
+    },
+    {
+      "word": "it's",
+      "count": 5
+    },
+    {
+      "word": "git",
+      "count": 5
+    },
+    {
+      "word": "forges",
+      "count": 5
+    },
+    {
+      "word": "api",
+      "count": 5
+    },
+    {
+      "word": "march",
+      "count": 4
+    },
+    {
+      "word": "financial",
+      "count": 4
+    },
+    {
+      "word": "generally",
+      "count": 4
+    },
+    {
+      "word": "opus",
+      "count": 4
+    },
+    {
+      "word": "sonnet",
+      "count": 4
+    },
+    {
+      "word": "openai",
+      "count": 4
+    },
+    {
+      "word": "represents",
+      "count": 4
+    },
+    {
+      "word": "content",
+      "count": 4
+    },
+    {
+      "word": "needs",
+      "count": 4
+    },
+    {
+      "word": "features",
+      "count": 4
+    },
+    {
+      "word": "handles",
+      "count": 4
+    },
+    {
+      "word": "multiple",
+      "count": 4
+    },
+    {
+      "word": "historical",
+      "count": 4
+    },
+    {
+      "word": "automatically",
+      "count": 4
+    },
+    {
+      "word": "writing",
+      "count": 4
+    },
+    {
+      "word": "keeping",
+      "count": 4
+    },
+    {
+      "word": "accounts",
+      "count": 4
+    },
+    {
+      "word": "identify",
+      "count": 4
+    },
+    {
+      "word": "broadcast",
+      "count": 4
+    },
+    {
+      "word": "cable",
+      "count": 4
+    },
+    {
+      "word": "dario",
+      "count": 4
+    },
+    {
+      "word": "loss",
+      "count": 4
+    },
+    {
+      "word": "craft",
+      "count": 4
+    },
+    {
+      "word": "discovery",
+      "count": 4
+    },
+    {
+      "word": "something",
+      "count": 4
+    }
+  ]
+}
