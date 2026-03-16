@@ -1,0 +1,870 @@
+{
+  "date": "2026-03-16",
+  "stats": {
+    "total_fetched": 275,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!",
+        "summary": "Hallo allemaal, Vorige maand mailde ik over wat verbeteringen, waaronder dat als kamerstukken verwijzen naar andere kamerstukken, OpenTK daar nu klikbare links van maakt. Hier is een boel fanmail over binnengekomen. Het...",
+        "url": "https://berthub.eu/articles/posts/updates-opentk-maart-2026/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 16 Mar 2026 20:40:09 +0100",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "‘The Last Quiet Thing’",
+        "summary": "Another crackerjack essay on design and attention from Terry Godier. (Note that the Casio in the essay not only shows the actual time, but has functional buttons.) ★",
+        "url": "https://www.terrygodier.com/the-last-quiet-thing",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product"
+        ],
+        "published_at": "2026-03-16T17:58:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Some updates to ActivityBot",
+        "summary": "I couple of years ago, I developed ActivityBot - the simplest way to build Mastodon Bots. It is a single PHP file which can run an entire ActivityPub server and it is less than 80KB. It works! You can follow @openbenches...",
+        "url": "https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 16 Mar 2026 12:34:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Windows stack limit checking retrospective: PowerPC",
+        "summary": "Doing the math backwards. The post Windows stack limit checking retrospective: PowerPC appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 16 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Atari 2600 Pac-Man went on sale March 16, 1982",
+        "summary": "On March 16, 1982, sales of the eagerly anticipated Pac-Man conversion for the Atari 2600 started. The game was supposed to launch April 3, 1982. But some retailers started selling the game early. This wouldn’t happen to...",
+        "url": "https://dfarq.homeip.net/atari-2600-pac-man-went-on-sale-march-16-1982/?utm_source=rss&utm_medium=rss&utm_campaign=atari-2600-pac-man-went-on-sale-march-16-1982",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 16 Mar 2026 11:00:28 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why I Love FreeBSD",
+        "summary": "A personal reflection on my first encounter with FreeBSD in 2002, how it shaped the way I design and run systems, and why its philosophy, stability, and community still matter to me more than twenty years later.",
+        "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+        "source": "IT Notes",
+        "tags": [
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Mon, 16 Mar 2026 08:10:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Standing up for the open Internet: why we appealed Italy’s \"Piracy Shield\" fine",
+        "summary": "Cloudflare is appealing a €14 million fine from Italian regulators over \"Piracy Shield,\" a system that forces providers to block content without oversight. We are challenging this framework to protect the Internet from d...",
+        "url": "https://blog.cloudflare.com/standing-up-for-the-open-internet/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "Cloud",
+          "Mobile"
+        ],
+        "published_at": "Mon, 16 Mar 2026 19:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-16T22:23:12.111Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting A member of Anthropic’s alignment-science team",
+        "summary": "<think>The user wants me to summarize an article in 100-200 words. Let me analyze what's being asked:\n\n1. **Writing Type**: This is a summary of an article/quotation\n2. **Style**: Concise, informative, professional\n3. **Audience**: General readers interested in AI alignment and policy\n4. **Structure**: Brief summary covering key points\n\nLooking at the content:\n- The article is a quotation from a member of Anthropic's alignment-science team\n- The date is 16th March 2026\n- The quote discusses the purpose of \"the blackmail exercise\"\n- The exercise was designed to create something tangible to show policymakers\n- Goal: Make misalignment risk \"visceral\" and salient for people who hadn't thought about it before\n- The quotation is from The New Yorker, collected by Simon Willison\n\nKey points to include:\n- The blackmail exercise was an alignment experiment\n- Purpose: Create visceral, concrete examples of AI misalignment risk\n- Target audience: Policymakers unfamiliar with AI alignment concerns\n- The goal was to make abstract risks feel real and urgent\n\nLet me write a concise summary in 100-200 words.\n</think>\n\n# Summary\n\nThis article features a quotation from a member of Anthropic's alignment-science team, explaining the purpose behind what appears to be a \"blackmail exercise\" designed to demonstrate AI misalignment risks. The exercise aimed to create tangible, visceral results that could effectively communicate the dangers of AI misalignment to policymakers who had never considered these risks before. By developing concrete, relatable examples, the team sought to make abstract alignment concerns feel immediate and salient to people outside the technical community. The quotation highlights a strategic effort to bridge the gap between complex AI safety concepts and public understanding, recognizing that effective policy requires making theoretical risks feel real and urgent. This approach reflects Anthropic's broader commitment to engaging proactively with policymakers on AI safety issues.",
+        "content": "16th March 2026\n\n> The point of [the blackmail exercise](https://simonwillison.net/2025/Jun/20/agentic-misalignment/) was to have something to describe to policymakers—results that are visceral enough to land with people, and make misalignment risk actually salient in practice for people who had never thought about it before.\n\n— [A member of Anthropic’s alignment-science team](https://www.newyorker.com/news/annals-of-inquiry/the-pentagon-went-to-war-with-anthropic-whats-really-at-stake?_sp=9a6e0ff7-2bfd-46f8-a9e1-3941ef2003b5.1773495048769), as told to Gideon Lewis-Kraus\n\nPosted [16th March 2026](https://simonwillison.net/2026/Mar/16/) at 9:38 pm\n\n## Recent articles\n\n  \n    - [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/) - 14th March 2026\n\n  \n    - [Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/) - 9th March 2026\n\n  \n    - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - 5th March 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [16th March 2026](https://simonwillison.net/2026/Mar/16/).\n\n    \n        [\n            ai\n            1911\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            generative-ai\n            1694\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1660\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            anthropic\n            265\n        ](https://simonwillison.net/tags/anthropic/)\n    \n        [\n            claude\n            261\n        ](https://simonwillison.net/tags/claude/)\n    \n        [\n            ai-ethics\n            279\n        ](https://simonwillison.net/tags/ai-ethics/)",
+        "url": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-03-16T21:38:55.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator",
+        "summary": "<think>The user wants me to summarize this article about Apple's camera indicator lights in 100-200 words. Let me analyze the key points:\n\n1. The article discusses the security of camera indicators on Apple devices\n2. There are two types: dedicated hardware lights (like in MacBook Pro/Air) and on-display indicators (like in iPhones and MacBook Neo)\n3. The author initially thought hardware indicators were more secure\n4. Apple published information explaining that the MacBook Neo's on-screen indicator runs in a \"secure exclave\" - a dedicated, isolated part of the A18 Pro chip\n5. This makes it nearly as secure as hardware indicators - even kernel-level exploits can't bypass it\n6. The mic indicator also benefits from this same security architecture\n\nThe key takeaway is that software-based indicators aren't necessarily less secure than hardware ones when properly implemented with secure hardware enclaves.\n\nI need to write a concise summary in 100-200 words that captures these main points.\n</think>\n\n**Summary:**\n\nApple's MacBook Neo features an on-screen camera indicator rather than a dedicated hardware light, which might seem less secure. However, Apple's Platform Security Guide reveals that the Neo's indicator runs in a \"secure exclave\"—an isolated portion of the A18 Pro chip operating on a separate realtime operating system. This architecture prevents even kernel-level or root-privileged malware from activating the camera without the indicator appearing. While hardware indicators connect directly to camera circuitry, making them inherently secure, Apple's implementation renders the on-screen indicator nearly equivalent in security by bypassing the main operating system entirely. The same secure architecture protects the microphone indicator as well, providing broader protection than cameras-only hardware indicators. This challenges the assumption that hardware indicators are always more secure than software-rendered ones.",
+        "content": "Some camera-equipped Apple devices have dedicated camera indicator lights. E.g. recent MacBook Pros and MacBook Airs have them in the notch, next to the camera itself. The Studio Display has one in the bezel, next to its camera. Other devices — like iPhones and, now, the MacBook Neo — render a green indicator dot on the device’s display. One might presume that the dedicated indicator lights are significantly more secure than the rendered-on-display indicators. I myself made this presumption in the initial version of [my MacBook Neo review](https://daringfireball.net/2026/03/the_macbook_neo) last week. This presumption is, I believe, wrong.\n\nLater last week Apple published, and [I linked to](https://daringfireball.net/linked/2026/03/12/macbook-neo-on-screen-camera-indicator), a [small update in their Platform Security Guide](https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1), which states:\n\n> MacBook Neo combines system software and dedicated silicon\n> elements within A18 Pro to provide additional security for the\n> camera feed. The architecture is designed to prevent any untrusted\n> software — even with root or kernel privileges in macOS — from\n> engaging the camera without also visibly lighting the on-screen\n> camera indicator light.\n\nThe reason it’s tempting to think that a dedicated camera indicator light is more secure than an on-display indicator is the notion that hardware is more secure than software. With hardware, a dedicated hardware indicator light can be connected to the camera hardware such that if the camera is accessed, the light must turn on, with no way for software running on the device, no matter its privileges, to change that. With an indicator light that is rendered on the display, it’s not foolish to worry that malicious software, with sufficient privileges, could draw over the pixels on the display where the camera indicator is rendered, disguising that the camera is in use.\n\nIf this were implemented simplistically, that concern would be completely valid. But Apple’s implementation of this is far from simplistic. [Friend of the site](https://daringfireball.net/search/Guilherme+Rambo) and renowned developer and low-level-OS spelunker [Guilherme Rambo](https://www.rambo.codes/) texted me a note, which, with his permission, I’ll quote:\n\n> Tidbit: the software-based camera indicator light in the MacBook\n> Neo runs in the secure exclave¹ part of the chip, so it is almost\n> as secure as the hardware indicator light. What that means in\n> practice is that even a kernel-level exploit would not be able to\n> turn on the camera without the light appearing on screen. It runs\n> in a privileged environment separate from the kernel and blits the\n> light directly onto the screen hardware. All of that applies to\n> the mic indicator as well, which is a bonus compared to the\n> camera-only hardware indicator.\n\n> \n> ¹ Exclaves run on a completely isolated realtime operating system\n> that communicates with the kernel and userspace using a very\n> limited API surface. Not to be confused with Secure Enclave,\n> that’s a different thing.\n\n(That’s right, his text message had a footnote. Like I said, he’s a friend of the site.)\n\n*Exclave* was the word I needed. Once I read that, it came back to me, and I recalled [Random Augustine’s “On Apple Exclaves”](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194), which I [linked to almost exactly one year ago](https://daringfireball.net/linked/2025/03/19/on-apple-exclaves) and described as “a splendidly nerdy but very approachable overview of the evolution of Apple’s XNU kernel over the last decade”. As Augustine documents, secure exclaves are something Apple had been building toward for a decade, but which only became enabled with the M4 and A18 generations of Apple Silicon.\n\nIf you’re curious, I encourage you to read (or re-read) [Augustine’s “On Apple Exclaves”](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194), which should disabuse you of any concerns that these on-display camera indicators on the MacBook Neo and recent iPhone models are anything less than *very* secure designs.",
+        "url": "https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-03-16T17:27:58.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Guilherme Rambo",
+        "summary": "<think>The user wants me to summarize an article about a security feature in the MacBook Neo. Let me analyze the key points:\n\n1. This is about a software-based camera indicator light in the MacBook Neo\n2. It runs in a \"secure exclave\" part of the chip\n3. It's almost as secure as a hardware indicator light\n4. Even a kernel-level exploit can't turn on the camera without the light appearing\n5. It runs in a privileged environment separate from the kernel\n6. It blits the light directly onto screen hardware\n\nThe article is dated March 16th, 2026 - this appears to be a fictional future date, likely from a science fiction or speculative piece.\n\nI need to summarize this in 100-200 words, keeping it concise and informative while focusing on key points and main takeaways.\n\nLet me write a summary that captures the essential information about this security feature.\n</think>\n\n# Summary: MacBook Neo Camera Security Feature\n\nThe MacBook Neo introduces an innovative software-based camera indicator light that achieves security nearly equivalent to a hardware solution. This feature operates within a secure exclave—a specialized, isolated region of the chip that remains separate from the kernel. \n\nThe key innovation is that the indicator light is rendered directly onto screen hardware through this protected environment. This architecture ensures that even if a hacker achieves kernel-level access—typically the highest level of system control—they cannot activate the camera without the indicator light simultaneously appearing on screen.\n\nThis design addresses a significant privacy concern: the possibility of unauthorized camera access without user awareness. By isolating the indicator mechanism from the main operating system, Apple has created a robust safeguard against sophisticated exploits that might otherwise bypass traditional software-based indicators. The secure exclave approach represents a meaningful advancement in hardware-level privacy protection.",
+        "content": "16th March 2026\n\n> Tidbit: the software-based camera indicator light in the MacBook Neo runs in the secure exclave¹ part of the chip, so it is almost as secure as the hardware indicator light. What that means in practice is that even a kernel-level exploit would not be able to turn on the camera without the light appearing on screen. It runs in a privileged environment separate from the kernel and blits the light directly onto the screen hardware.\n\n— [Guilherme Rambo](https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator), in a text message to John Gruber",
+        "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Security"
+        ],
+        "published_at": "2026-03-16T20:34:13.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Coding agents for data analysis",
+        "summary": "<think>The user wants me to summarize an article about a workshop on \"Coding agents for data analysis\" presented at NICAR 2026. Let me identify the key points:\n\n1. This is a handout for a 3-hour workshop at NICAR 2026\n2. It's aimed at data journalists\n3. The focus is on using AI coding tools (Claude Code and OpenAI Codex) for data analysis tasks\n4. The table of contents covers various topics from setup to specific applications\n5. The workshop used GitHub Codespaces and OpenAI Codex\n6. The cost was minimal ($23 in tokens)\n7. The exercises used Python, SQLite, and Datasette\n8. A highlight was creating interactive visualizations using Datasette and Claude Code\n9. The material is applicable beyond journalism to anyone working with data\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write this summary:\n</think>\n\n**Summary: Coding Agents for Data Analysis**\n\nThis article shares materials from a NICAR 2026 workshop teaching data journalists how to use AI coding agents like Claude Code and OpenAI Codex for data analysis tasks. The three-hour session covered setup, database querying, data exploration, cleaning, visualization creation, and web scraping.\n\nThe workshop used GitHub Codespaces and OpenAI Codex for easy distribution of budget-restricted API keys, with attendees spending only $23 total. Exercises employed Python, SQLite, and Datasette.\n\nA notable highlight involved running Datasette to serve static content, then using Claude Code to create interactive visualizations—including a heat map of San Francisco tree locations using Leaflet. The handout is designed to be useful for non-attendees, and its techniques apply broadly to anyone analyzing data, not just journalists.",
+        "content": "16th March 2026 - Link Blog\n\n**[Coding agents for data analysis](https://simonw.github.io/nicar-2026-coding-agents/)**. Here's the handout I prepared for my NICAR 2026 workshop \"Coding agents for data analysis\" - a three hour session aimed at data journalists demonstrating ways that tools like Claude Code and OpenAI Codex can be used to explore, analyze and clean data.\n\nHere's the table of contents:\n\n> \n> - [Coding agents](https://simonw.github.io/nicar-2026-coding-agents/coding-agents.html)\n\n> - [Warmup: ChatGPT and Claude](https://simonw.github.io/nicar-2026-coding-agents/warmup.html)\n\n> - [Setup Claude Code and Codex](https://simonw.github.io/nicar-2026-coding-agents/setup.html)\n\n> - [Asking questions against a database](https://simonw.github.io/nicar-2026-coding-agents/asking-questions.html)\n\n> - [Exploring data with agents](https://simonw.github.io/nicar-2026-coding-agents/exploring-data.html)\n\n> - [Cleaning data: decoding neighborhood codes](https://simonw.github.io/nicar-2026-coding-agents/cleaning-trees.html)\n\n> - [Creating visualizations with agents](https://simonw.github.io/nicar-2026-coding-agents/visualizations.html)\n\n> - [Scraping data with agents](https://simonw.github.io/nicar-2026-coding-agents/scraping.html)\n\n> \n\nI ran the workshop using GitHub Codespaces and OpenAI Codex, since it was easy (and inexpensive) to distribute a budget-restricted API key for Codex that attendees could use during the class. Participants ended up burning $23 of Codex tokens.\n\nThe exercises all used Python and SQLite and some of them used Datasette.\n\nOne highlight of the workshop was when we started [running Datasette](https://simonw.github.io/nicar-2026-coding-agents/visualizations.html#javascript-visualizations) such that it served static content from a `viz/` folder, then had Claude Code start vibe coding new interactive visualizations directly in that folder. Here's a heat map it created for my trees database using Leaflet and [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat), [source code here](https://gist.github.com/simonw/985ae2a6a3cd3df3fd375eb58dabea0f).\n\n= 80 THEN 1.0\" (query is truncated). A status message reads \"Loaded 1,000 rows and plotted 1,000 points as heat map.\" Below is a Leaflet/OpenStreetMap interactive map of San Francisco showing a heat map overlay of tree locations, with blue/green clusters concentrated in areas like the Richmond District, Sunset District, and other neighborhoods. Map includes zoom controls and a \"Leaflet | © OpenStreetMap contributors\" attribution.\" src=\"https://static.simonwillison.net/static/2026/tree-sql-map.jpg\">\n\nI designed the handout to also be useful for people who weren't able to attend the session in person. As is usually the case, material aimed at data journalists is equally applicable to anyone else with data to explore.",
+        "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-03-16T20:12:32.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Introduces AirPods Max 2",
+        "summary": "<think>The user wants me to summarize this Apple press release about AirPods Max 2 in 100-200 words. Let me identify the key points:\n\n1. Apple announced AirPods Max 2\n2. Powered by H2 chip\n3. Better ANC (1.5x more effective)\n4. Enhanced sound quality\n5. New features: Adaptive Audio, Conversation Awareness, Voice Isolation, Live Translation\n6. Creative features for creators: studio-quality audio recording, camera remote\n7. Colors: midnight, starlight, orange, purple, blue\n8. Available to order March 25, availability early next month\n9. Quote from Eric Treski about ANC and sound quality\n\nI need to write a concise 100-200 word summary focusing on the key points and main takeaways. The format should be a professional summary, not a press release. I'll use prose primarily with minimal lists if needed.\n</think>\n\n# Summary: Apple Introduces AirPods Max 2\n\nApple has unveiled AirPods Max 2, the next generation of its premium over-ear headphones. Powered by the H2 chip, the new model delivers significantly improved Active Noise Cancellation—up to 1.5x more effective than its predecessor—alongside enhanced sound quality and several intelligent features.\n\nNew capabilities include Adaptive Audio, Conversation Awareness, Voice Isolation, and Live Translation, all making their debut on the AirPods Max line. The headphones also target creative professionals with studio-quality audio recording and camera remote features.\n\nAirPods Max 2 will be available in five colors: midnight, starlight, orange, purple, and blue. Orders begin March 25, with general availability following early next month. According to Apple's Eric Treski, the combination of H2 processing and Personalized Spatial Audio creates a \"profoundly immersive\" listening experience.",
+        "content": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n                    \n                    \n                        PRESS RELEASE\n                    \n                    \n                        March 16, 2026\n                    \n                    \n                \n\n        \n                \n                \n                \n                    \n## \n                        \n    \n        Apple introduces AirPods Max 2\n    \n\n                    \n\n                \n            \n\n        \n                \n                \n                    Powered by H2, AirPods Max are better than ever with more effective ANC, enhanced sound quality, and new features like Adaptive Audio and Live Translation\n                \n            \n\n        \n            \n    \n    \n    \n    \n    \n\n        \n\n    \n\n    \n    \n    \n\n  \n    \n    \n    \n    \n      \n        \n             \n              \n              \n                AirPods Max 2 bring even better ANC, elevated sound quality, and intelligent features to the iconic over-ear design.\n              \n            \n            \n            \n            \n            [](https://www.apple.com/newsroom/images/2026/03/apple-introduces-airpods-max-2/article/Apple-AirPods-Max-2-color-lineup.zip)\n          \n      \n    \n  \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 CUPERTINO, CALIFORNIA Apple today announced [AirPods Max 2](https://www.apple.com/airpods-max/), bringing even better Active Noise Cancellation (ANC), elevated sound quality, and intelligent features to the iconic over-ear design. Powered by H2, features like Adaptive Audio, Conversation Awareness, Voice Isolation, and Live Translation come to AirPods Max for the first time. The new AirPods Max also unlock creative possibilities for podcasters, musicians, and content creators, with useful features like studio-quality audio recording and camera remote.\n\n                 \n             \n                 AirPods Max 2 will be available to order starting March 25 in midnight, starlight, orange, purple, and blue, with availability beginning early next month.\n\n                 \n             \n                 “With the incredible performance of H2, AirPods Max are upgraded with up to 1.5x more effective ANC for the ultimate all-day listening experience,” said Eric Treski, Apple’s director of Audio Product Marketing. “The sound quality is remarkably clean, rich, and acoustically detailed — and when combined with capabilities like Personalized Spatial Audio, AirPods Max 2 deliver a profoundly immersive experience.”\n\n                 \n             \n                 \n## **Active Noise Cancellation Gets Even Better**\n\n                 \n             \n                 Thanks to H2 and new computational audio algorithms, AirPods Max 2 deliver ANC that’s up to 1.5x more effective than the previous generation. This reduces even more noise — like airplane engines or commuter trains — so users can fully immerse themselves in music, work, or phone calls.\n\n                 \n             \n                 With a new digital signal processing algorithm optimized for H2 and the microphone array on AirPods Max, Transparency sounds even more natural so users can stay aware of their environment and those around them.\n\n                 \n             \n         \n \n\n    \n    \n    \n\n    \n        \n        \n        \n        \n            \n                \n                         \n                            \n                            \n                                AirPods Max 2 deliver ANC that’s up to 1.5x more effective than the previous generation, thanks to H2 and new computational audio algorithms.\n                            \n                        \n                        \n                        \n                        \n                        [](https://www.apple.com/newsroom/images/2026/03/apple-introduces-airpods-max-2/article/Apple-AirPods-Max-2-Active-Noise-Cancellation.zip)\n                    \n            \n        \n    \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 \n## **Highest-Fidelity Listening Experience**\n\n                 \n             \n                 AirPods Max 2 feature a new high dynamic range amplifier for even cleaner audio while maintaining the incredible sound signature of AirPods Max. Spatial Audio content sounds better than ever, with improved localization of instruments, more accurate and consistent bass response, and more natural-sounding mids and highs.\n\n                 \n             \n                 For the highest-quality audio across music, movies, and games, the new AirPods Max support 24-bit, 48 kHz lossless audio when connected with the included USB-C cable. Lossless audio and ultra-low latency audio enable music creators to fully utilize AirPods Max throughout their entire professional workflow on Logic Pro and other music creation apps. Using the USB-C cable, AirPods Max are the only headphones that let musicians both create and mix in Personalized Spatial Audio with head tracking.1\n\n                 \n             \n                 Reduced wireless audio latency also makes gaming even better. For those using AirPods Max 2 and playing in Game Mode, iOS, macOS, and iPadOS games feel even more responsive and immersive.\n\n                 \n             \n         \n \n\n    \n    \n    \n\n  \n    \n    \n    \n    \n      \n        \n             \n              \n              \n                AirPods Max 2 feature a new high dynamic range amplifier for even cleaner audio while maintaining the incredible sound signature of AirPods Max.\n              \n            \n            \n            \n            \n            [](https://www.apple.com/newsroom/images/2026/03/apple-introduces-airpods-max-2/article/Apple-AirPods-Max-2-lifestyle.zip)\n          \n      \n    \n  \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 \n## **Intelligent Features Come to AirPods Max**\n\n                 \n             \n                 H2 ushers in an array of features that make AirPods Max 2 even more intelligent and convenient.\n\n                 \n             \n                 \n- **Adaptive Audio **adjusts the levels of ANC and Transparency in response to the environment automatically to optimize the audio experience.2\n\n                 \n             \n                 \n- **Conversation Awareness** helps lower content volume and reduce background noise when a user starts speaking to someone nearby.2\n\n                 \n             \n                 \n- **Live Translation**, powered by Apple Intelligence,3 helps users communicate across languages in person.4\n\n                 \n             \n                 \n- **Voice Isolation** uses advanced computational audio powered by H2 to prioritize the voice during calls, while blocking out ambient noise.2\n\n                 \n             \n                 \n- With **camera remote**, users can capture content at a distance by pressing the Digital Crown to take a photo and start or stop video recording while using the Camera app or compatible third-party camera apps on iPhone or iPad.\n\n                 \n             \n                 \n- **Studio-quality audio recording** allows interviewers, podcasters, singers, and other creators to record their content with higher-quality audio and more natural vocal texture.5\n\n                 \n             \n                 \n- **Loud Sound Reduction** helps users prevent exposure to loud environmental noise while preserving the sound signature of what they’re listening to.\n\n                 \n             \n                 \n- **Personalized Volume** automatically fine-tunes the listening experience for users based on their preferences over time.2\n\n                 \n             \n                 \n- **Siri Interactions** allow users to conveniently and privately respond to Siri announcements by simply nodding their head yes or gently shaking their head no.\n\n                 \n             \n                 \n## **AirPods Max 2 and the Environment**\n\n                 \n             \n                 Apple 2030 is the company’s ambitious plan to be carbon neutral across its entire footprint by the end of this decade by reducing product emissions from their three biggest sources: materials, electricity, and transportation. AirPods Max 2 are made with 100 percent recycled rare earth elements in all magnets, 100 percent recycled polyester in the ear cushion, and 100 percent recycled gold plating and tin solder in all Apple-designed printed circuit boards. The paper packaging is 100 percent fiber-based and can be easily recycled.6\n\n                 \n             \n         \n \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 \n                 \n             \n                 \n- Customers in the U.S. and more than 30 other countries and regions can order AirPods Max 2 starting Wednesday, March 25, on [apple.com/store](https://www.apple.com/store) and in the Apple Store app. They will arrive to customers, and will be in Apple Store locations, beginning early next month.\n\n                 \n             \n                 \n- AirPods Max 2 start at **$549** (U.S.).\n\n                 \n             \n                 \n- AppleCare delivers exceptional service and support, with flexible options for Apple users. Customers can choose AppleCare+ to cover their new headphones, or in the U.S., AppleCare One to protect multiple products in one simple plan. Both plans include coverage for accidents like drops and spills, theft and loss protection on eligible products, battery replacement service, and 24/7 support from Apple Experts. For more information, visit [apple.com/applecare](https://www.apple.com/applecare/).\n\n                 \n             \n                 \n- New subscribers may get Apple Music free for three months with the purchase of AirPods Max 2. See [apple.com/promo](https://www.apple.com/promo/) for details.\n\n                 \n             \n                 \n- Live Translation may not be available in all regions or languages. For feature and language availability and system requirements, visit [support.apple.com/en-us/121115](https://support.apple.com/en-us/121115).\n\n                 \n             \n         \n \n\n    \n    \n    \n\n    \n    \n        \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n\n    \n    \n    \n\n    \n    \n    \n            \n- AirPods Max users can create and mix in Personalized Spatial Audio when using Logic Pro for Mac. iPhone with TrueDepth camera is required to create a personal profile for Spatial Audio, which will sync across Apple devices running the latest operating system software, including iOS, iPadOS, macOS, and tvOS.\n\n- Available on AirPods Max 2 with the latest firmware when paired with compatible devices with the latest operating system software.\n\n- Apple Intelligence is available in beta with support for these languages: English, Danish, Dutch, French, German, Italian, Norwegian, Portuguese, Spanish, Swedish, Turkish, Vietnamese, Chinese (simplified), Chinese (traditional), Japanese, and Korean. Some features may not be available in all regions or languages. For feature and language availability and system requirements, see [support.apple.com/en-us/121115](https://support.apple.com/en-us/121115).\n\n- Live Translation with AirPods works on AirPods 4 with Active Noise Cancellation, AirPods Pro 2 and later, and AirPods Max 2 with the latest firmware when paired with an Apple Intelligence-enabled iPhone running iOS 26 and later. Supports Chinese (simplified), Chinese (traditional), English (UK, U.S.), French (France), German, Italian, Japanese, Korean, Portuguese (Brazil), and Spanish (Spain). Some features may not be available in all regions or languages. For more information, see [Feature Availability](https://www.apple.com/ios/feature-availability/).\n\n- Studio-quality audio recording may not be available in all regions, and availability may vary due to local laws and regulations.\n\n- Breakdown of U.S. retail packaging by weight. Adhesives, inks, and coatings are excluded from calculations.\n\n        \n\n    \n    \n    \n\n    \n\n\t\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t\n\t\t\n\n            Stay up to date with the latest articles from Apple Newsroom.",
+        "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Product",
+          "Mobile"
+        ],
+        "published_at": "2026-03-16T17:57:39.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Shower Thought: Git Teleportation ",
+        "summary": "<think>The user wants me to summarize an article titled \"Shower Thought: Git Teleportation\" in 100-200 words. I need to focus on the key points and main takeaways while keeping it concise and informative.\n\nLet me analyze the article:\n- It's a creative/satirical piece that combines science fiction teleportation concepts with Git version control workflows\n- The author discusses the philosophical debate about teleportation: does it disassemble/reassemble or scan/kill/replicate?\n- The main concept is \"Diff Teleportation\" - applying Git commands to the teleportation process\n- Key Git commands mentioned: git checkout -b, git suspend, git add, git commit, git stash, git push, git branch -D, git unsuspend\n- The beam command has flags like -s (subject), -d (destination), -o (output), -D (destroy)\n- The process involves creating a branch for the mission, suspending master, exploring, then merging back and cleaning up\n- There's a philosophical conclusion about whether the person who returns is the same person who left\n\nFor the summary, I should capture:\n1. The creative premise (Git as teleportation mechanism)\n2. The philosophical underpinnings (teleportation identity debate)\n3. The technical implementation (the Git workflow applied)\n4. The main takeaway/conclusion\n\nI need to write this in 100-200 words, keeping it concise and informative.\n</think>\n\n# Summary: Shower Thought: Git Teleportation\n\nThis article presents a creative \"shower thought\" that reimagines teleportation through Git version control workflows. The author addresses the classic sci-fi philosophical debate: when you teleport, are you disassembled and reassembled, or scanned, killed, and replicated as a copy?\n\nThe proposed solution, \"Diff Teleportation,\" applies Git commands to the teleportation process. A astronaut steps onto a teleportation device, triggering commands like `git checkout -b` to create a mission branch and `beam -s kirk -d planet-xyz` to transport them. The \"master branch\" is suspended during the mission to simplify future merging.\n\nAfter exploration, the traveler returns—not as their original self, but as new data that gets merged back into master. Unwanted additions can be cleaned up before the final merge. The process concludes with branch deletion and master resumption.\n\nThe clever analogy suggests that identity itself might work like version control: we're constantly changing, with new experiences merged into who we are, raising questions about whether we ever truly remain the same person.",
+        "content": "In many sci-fi shows, spaceships have a teleportation mechanism on board. They can teleport from inside their ship to somewhere on a planet. This way, the ship can remain in orbit while its crew explores the surface.\n\nBut then people started asking: how does the teleportation device actually work? When a subject stands on the device and activates it, does it disassemble all the atoms of the person and reconstruct them at the destination? Or does it scan the person, kill them, and then replicate them at the destination?\n\nThis debate has been on going for as long as I can remember. Since teleportation machines exist only in fiction, we can never get a true answer. Only the one that resonates the most.\n\nSo, that's why I thought of Diff Teleportation. Basically, this is a Git workflow applied to teleportation. When you step onto a device, we run the command:\n\n```\n$> git checkout -b kirk-teleport-mission-123\n$> beam -s kirk -d planet-xyz -o kirk-planet-xyz    # beam is a vibe-coded teleportation command\n\n```\n\nThen, the machine will have to suspend activity on the master branch. This will make merging the branch much simpler in the future.\n\n```\n# sci-fi git command\n$> git suspend master\n\n```\n\nNow, the person that has been teleported can explore the planet and go about mission 123. While they are doing their job, let's see what flags are supported in `beam`:\n\n```\n$> beam -h\nUsage: beam [OPTION]... [FILE]...\nBeam a file to a destination\n\n    -s, --subject               subject to beam\n    -d, --destination       destination to beam a subject\n    -o, --output                name of the file at the destination\n    -D, --Destroy               destroy a subject\n\n```\n\nWhen the mission is completed, they can be teleported back. Well, not the whole person, otherwise we end up with a clone.\n\n```\n$> beam -s kirk-planet-xyz -d ss-ent-v3 -o kirk-temp\n\n```\n\nWe could analyze the new data and remove any unwanted additions. For example, we could clean up any contamination at this point. But for the sake of time, I'll explore that another day. As an exercise, run `git diff` for your own curiosity. For now, all we are interested in is the information that the teleportee has gathered from the planet, which we will merge back into master.\n\n```\n$> git add src/neurons\n$> git commit -m \"add mission 123 exploration\"\n$> git stash\n$> git stash drop   # Hopefully you've analyzed it.\n$> git push origin kirk-teleport-mission-123\n\n```\n\nI imagine in science fiction, there is an automated way for PR reviews that is more reliable than an LLM. Once that process is completed, we can merge to master and run some cleanup code in the build pipeline.\n\n```\n$> git branch -D kirk-teleport-mission-123\n$> beam -s kirk-planet-xyz -D\n$> beam -s kirk-temp -D\n$> git unsuspend master\n\n```\n\nSomewhere down on planet XYZ, a clone stepped onto the teleportation device. He saw a beam of light scan his body from head to toe. Then, for a moment, he wondered if the teleportation had worked. But right before he stepped off, the command `beam -s kirk-planet-xyz -D` ran, and he was pulverized.\n\nBack in the spaceship, a brand-new clone named `kirk-temp` appeared at the teleportation station. He was quickly sanitized, diff'd, and reviewed. But before he could gather his thoughts, the command `beam -s kirk-temp -D` ran, and he was pulverized.\n\nNot a second later, the original subject was reanimated, with brand-new information about \"his\" exploration on planet XYZ.\n\nTeleportation is an achievable technology. We just have to come to terms with the fact that at least two clones are killed for every successful teleportation session. In fact, if we are a bit more daring, we might not even need to suspend the first subject. We can create multiple clones, or agents, and have them all explore different things. When their task is complete, we can wrestle a bit with merge conflict, run a couple `beam -D` commands, and the original subject is blessed with new knowledge.\n\nOK, I'm getting out of this shower.",
+        "url": "https://idiallo.com/byte-size/git-teleportation?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 16 Mar 2026 00:23:04 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Loyalty Oath Crusade ",
+        "summary": "<think>The user wants me to summarize an article titled \"The Loyalty Oath Crusade\" in 100-200 words. Let me analyze the content:\n\nThe article discusses Chapter 11 of *Catch-22* where military captains create absurd bureaucratic requirements for basic tasks like getting food in the mess hall. The key points are:\n\n1. Absurd security rules: Reciting the pledge of allegiance to enter, twice to get food, singing the national anthem for condiments, loyalty oaths for other condiments\n2. Everyone follows along without questioning - just because others do\n3. The real purpose isn't loyalty - it's punishing one person\n4. This delays missions and slows the war effort\n5. The system unravels when Major __ de Coverley simply says \"Gimme eat\" and refuses to comply\n6. The article draws a parallel to workplace culture where we follow bloated processes without questioning\n7. The lesson: someone needs to speak up, even if it's primitive and direct\n\nThis is a thoughtful article using literature to illustrate a point about organizational behavior and bureaucracy. I need to summarize it concisely while capturing both the literary analysis and the modern workplace application.\n\nLet me write a 100-200 word summary that captures these key points.\n</think>\n\n**Summary: The Loyalty Oath Crusade**\n\nIn *Catch-22* Chapter 11, military captains impose absurd requirements for basic tasks—reciting the pledge of allegiance to enter the mess hall, singing the national anthem for ketchup, signing loyalty oaths for condiments. Everyone follows along without questioning, even though the process is ridiculous and slows the entire war effort. The real goal isn't loyalty—it's punishing one individual.\n\nThe system collapses when Major __ de Coverley enters, ignores the ceremonies, and simply demands \"Gimme eat.\" His directness breaks the spell, dismantling the entire process.\n\nThe article draws a parallel to modern workplaces where employees follow bloated processes uncritically, assuming \"Google does it, so we should too.\" The takeaway: meaningful change requires someone to speak up, even awkwardly. A primitive \"Gimme eat\" captures what everyone feels but is afraid to say. Progress happens when someone breaks the silence and questions the absurdity.",
+        "content": "In chapter 11 of *Catch-22*, two captains create a complex set of rules to ensure security in the military. Among them are some absurd requirements just to get food in the mess hall.\n\nEveryone knows the process is ridiculous, but they go along with it anyway. To enter the mess hall, you have to recite the pledge of allegiance. To be served food, you have to recite it twice. If you want salt, pepper, and ketchup, you have to sing the Star-Spangled Banner. Other condiments require signing a loyalty oath.\n\nNo one questions the process. Everyone follows along because the person before them did. The group behind this keeps escalating the requirements in their Loyalty Oath Crusade, but their goal has nothing to do with ensuring soldiers are loyal. They are simply trying to punish a single person.\n\nThis is delaying missions, creating unnecessary process, and slowing down the entire war effort. So how does the Loyalty Oath Crusade finally unravel? It takes one person speaking up. Major __ de Coverley walks in and sees all the commotion. People signing loyalty oath cards, singing the national anthem for ketchup, reciting the pledge of allegiance just to sit down.\n\n> He started forward in a straight line, and the wall of officers before him parted like the Red Sea. Glancing neither left nor right, he strode indomitably up to the steam counter and, in a clear, full-bodied voice that was gruff with age and resonant with ancient eminence and authority, said:\n\n> \n> \"Gimme eat.\"\n\n> \n> Instead of eat, Corporal Snark gave Major __ de Coverley a loyalty oath to sign. Major __ de Coverley swept it away with mighty displeasure the moment he recognized what it was, his good eye flaring up blindingly with fiery disdain and his enormous old corrugated face darkening in mountainous wrath.\n\n> \n> 'Gimme eat, I said,' he ordered loudly in harsh tones that rumbled ominously through the silent tent like claps of distant thunder.\n\n> \n> Corporal Snark turned pale and began to tremble. He glanced toward Milo pleadingly for guidance. For several terrible seconds there was not a sound. Then Milo nodded.\n> 'Give him eat,' he said.\n\nAnd just like that, the spell was broken. The entire process fell apart, the Loyalty Oath Crusade dismantled in a single stroke.\n\nI think of this whenever I see a bloated process that has become embedded in work culture. We perform our ceremonies, our loyalty oath pledges, without ever questioning them.\n\n\"They do it at Google, so we must do the same.\" Never questioning whether it's the right [process for us](https://idiallo.com/blog/youre-not-going-to-turn-into-google-eventually). Nothing changes because it feels like pushing back means going against the culture. But what does it actually take to make a change? You have to speak up.\n\nSpeak up when you think the processes don't make sense. Even if it comes out as an animalistic grunt. \"Gimme eat\" is as primitive as it gets, yet it conveys exactly what everyone else is feeling.\n\nWhen a company grows to the point where you can't fit every employee in a single room, these unusual processes start to take shape. They usually begin with good intentions, you need process to manage a large group of people. But [process breeds ritual](https://idiallo.com/blog/when-process-get-in-the-way). And those rituals may help one team while being completely detrimental to another. Individual voices start to disappear, replaced by metrics and managers summarizing the gist of things.\n\nIn an interview, Frank Herbert, author of *Dune*, was asked about the Bene Gesserit use of the Voice to control others. By modulating their tone, the Bene Gesserit can bend others to their will. Readers pointed out that this seemed unrealistic. Frank had a simple answer: it's not unheard of for people to use their voice to control others.\n\nIf you want to avoid that fate, don't let your voice disappear. Your voice is one of the most powerful tools you have.",
+        "url": "https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "Mon, 16 Mar 2026 12:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "How coding agents work",
+        "summary": "<think>The user wants me to summarize the article \"How coding agents work\" in 100-200 words, focusing on key points and main takeaways. Let me analyze the content:\n\n1. **Main topic**: How coding agents work under the hood\n2. **Core definition**: A coding agent is software that acts as a harness for an LLM, extending its capabilities with invisible prompts and callable tools\n3. **Key components explained**:\n   - LLMs: Machine learning models that complete text/token sequences\n   - Examples: GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro, Qwen3.5-35B-A3B\n   - Tokens: Text converted to integer sequences (not actual words)\n   - Prompts: Input to LLM\n   - Completions/responses: Output from LLM\n   - Multimodal LLMs: Can accept images, converted to tokens too\n   - Chat templated prompts: Simulated conversations rather than simple completion\n\nThe article seems to be cut off at the end, but I have enough content to summarize the key points.\n\nI need to:\n- Keep it 100-200 words\n- Focus on key points and main takeaways\n- Keep it concise and informative\n- Use appropriate structure\n\nLet me write a summary that captures the essence of how coding agents work.\n</think>\n\n# Summary: How Coding Agents Work\n\nCoding agents are software tools that harness Large Language Models (LLMs) like GPT-5.4 or Claude Opus 4.6 to extend their capabilities through invisible prompts and callable tools.\n\nAt their core, LLMs are machine learning models that complete text sequences by predicting the next tokens—integer representations of text chunks. Providers charge based on token usage, and models have context window limitations. Modern LLMs are often multimodal, accepting images that are also converted into token sequences for processing.\n\nUnlike early completion-engine models, current systems use chat templated prompts that simulate conversations. The format \"user: [query] assistant:\" allows natural interactions where the LLM provides appropriate responses. Since LLMs are stateless, the software interface must maintain conversation history to simulate ongoing dialogue.\n\nUnderstanding these mechanics helps developers effectively leverage coding agents by recognizing their underlying token-based processing, prompt structures, and the software harness that coordinates interactions.",
+        "content": "As with any tool, understanding how [coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/) work under the hood can help you make better decisions about how to apply them.\n\nA coding agent is a piece of software that acts as a **harness** for an LLM, extending that LLM with additional capabilities that are powered by invisible prompts and implemented as callable tools.\n\n## Large Language Models\n\nAt the heart of any coding agent is a Large Language Model, or LLM. These have names like GPT-5.4 or Claude Opus 4.6 or Gemini 3.1 Pro or Qwen3.5-35B-A3B.\n\nAn LLM is a machine learning model that can complete a sentence of text. Give the model the phrase \"the cat sat on the \" and it will (almost certainly) suggest \"mat\" as the next word in the sentence.\n\nAs these models get larger and train on increasing amounts of data, they can complete more complex sentences - like \"a python function to download a file from a URL is def download_file(url): \".\n\nLLMs don't actually work directly with words - they work with tokens. A sequence of text is converted into a sequence of integer tokens, so \"the cat sat on the \" becomes `[3086, 9059, 10139, 402, 290, 220]`. This is worth understanding because LLM providers charge based on the number of tokens processed, and are limited in how many tokens they can consider at a time.\n\nYou can experiment with the OpenAI tokenizer to see how this works at [platform.openai.com/tokenizer](https://platform.openai.com/tokenizer).\n\nThe input to an LLM is called the **prompt**. The text returned by an LLM is called the **completion**, or sometimes the **response**.\n\nMany models today are **multimodal**, which means they can accept more than just text as input.  **Vision LLMs** (vLLMs) can accept images as part of the input, which means you can feed them sketches or photos or screenshots. A common misconception is that these are run through a separate process for OCR or image analysis, but these inputs are actually turned into yet more token integers which are processed in the same way as text.\n\n## Chat templated prompts\n\nThe first LLMs worked as completion engines - users were expected to provide a prompt which could then be completed by the model, such as the two examples shown above.\n\nThis wasn't particularly user-friendly so models mostly switched to using **chat templated prompts** instead, which represent communication with the model as a simulated conversation.\n\nThis is actually just a form of completion prompt with a special format that looks something like this.\n\n`user: write a python function to download a file from a URL\nassistant:\n`\nThe natural completion for this prompt is for the assistant (represented by the LLM) to answer the user's question with some Python code.\n\nLLMs are stateless: every time they execute a prompt they start from the same blank slate. \n\nTo maintain the simulation of a conversation, the software that talks to the model needs to maintain its own state and replay the entire existing conversation every time the user enters a new chat prompt:\n\n`user: write a python function to download a file from a URL\nassistant: def download_url(url):\n    return urllib.request.urlopen(url).read()\nuser: use the requests library instead\nassistant:\n`\nSince providers charge for both input and output tokens, this means that as a conversation gets longer, each prompt becomes more expensive since the number of input tokens grows every time.\n\n## Token caching\n\nMost model providers offset this somewhat through a cheaper rate for **cached input tokens** - common token prefixes that have been processed within a short time period can be charged at a lower rate as the underlying infrastructure can cache and then reuse many of the expensive calculations used to process that input.\n\nCoding agents are designed with this optimization in mind - they avoid modifying earlier conversation content to ensure the cache is used as efficiently as possible.\n\nThe defining feature of an LLM **agent** is that agents can call **tools**. But what is a tool?\n\nA tool is a function that the agent harness makes available to the LLM.\n\nAt the level of the prompt itself, that looks something like this:\n\n`system: If you need to access the weather, end your turn with <tool>get_weather(city_name)</tool>\nuser: what's the weather in San Francisco?\nassistant:\n`\nHere the assistant might respond with the following text:\n\n`<tool>get_weather(\"San Francisco\")</tool>\n`\nThe model harness software then extracts that function call request from the response - probably with a regular expression - and executes the tool.\n\nIt then returns the result to the model, with a constructed prompt that looks something like this:\n\n`system: If you need to access the weather, end your turn with <tool>get_weather(city_name)</tool>\nuser: what's the weather in San Francisco?\nassistant: <tool>get_weather(\"San Francisco\")</tool>\nuser: <tool-result>61°, Partly cloudy</tool-result>\nassistant:\n`\nThe LLM can now use that tool result to help generate an answer to the user's question.\n\nMost coding agents define a dozen or more tools for the agent to call. The most powerful of these allow for code execution - a `Bash()` tool for executing terminal commands, or a `Python()` tool for running Python code, for example.\n\n## The system prompt\n\nIn the previous example I included an initial message marked \"system\" which informed the LLM about the available tool and how to call it.\n\nCoding agents usually start every conversation with a system prompt like this, which is not shown to the user but provides instructions telling the model how it should behave.\n\nThese system prompts can be hundreds of lines long. Here's [the system prompt for OpenAI Codex](https://github.com/openai/codex/blob/rust-v0.114.0/codex-rs/core/templates/model_instructions/gpt-5.2-codex_instructions_template.md) as-of March 2026, which is a useful clear example of the kind of instructions that make these coding agents work.\n\n## Reasoning\n\nOne of the big new advances in 2025 was the introduction of **reasoning** to the frontier model families.\n\nReasoning, sometimes presented as **thinking** in the UI, is when a model spends additional time generating text that talks through the problem and its potential solutions before presenting a reply to the user.\n\nThis can look similar to a person thinking out loud, and has a similar effect. Crucially it allows models to spend more time (and more tokens) working on a problem in order to hopefully get a better result.\n\nReasoning is particularly useful for debugging issues in code as it gives the model an opportunity to navigate more complex code paths, mixing in tool calls and using the reasoning phase to follow function calls back to the potential source of an issue.\n\nMany coding agents include options for dialing up or down the reasoning effort level, encouraging models to spend more time chewing on harder problems.\n\nBelieve it or not, that's most of what it takes to build a coding agent!\n\nIf you want to develop a deeper understanding of how these things work, a useful exercise is to try building your own agent from scratch. A simple tool loop can be achieved with a few dozen lines of code on top of an existing LLM API.\n\nA *good* tool loop is a great deal more work than that, but the fundamental mechanics are surprisingly straightforward.",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "2026-03-16T14:01:41.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Tools vs uses (16 Mar 2026)",
+        "summary": "<think>The user wants me to summarize an article titled \"Pluralistic: Tools vs uses (16 Mar 2026)\" in 100-200 words. Let me analyze the content provided.\n\nLooking at the article, it appears to be from Cory Doctorow's Pluralistic newsletter. The main section is titled \"Tools vs uses\" and discusses legal loopholes, specifically focusing on how lawmakers insert provisions that benefit their donors.\n\nKey points I can extract:\n1. The article discusses legal loopholes as tools that can be used for different purposes\n2. It gives examples of lawmakers inserting specific amendments that benefit their donors\n3. Trump's 2017 tax bill is mentioned, with hand-scrawled amendments\n4. Senator Ron Johnson's amendment benefited Uline owners and Diane Hendricks\n5. The article seems to be making a point about the relationship between political donations and legislative outcomes\n\nThe article appears to be cut off (it ends with \"in 1999, a Congressional staffer named Mitch Glazier secured a last-minu\"), but I can work with what I have.\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write a summary that captures the essence of what the article is discussing - the relationship between political power, donations, and legislative loopholes.\n</think>\n\n**Summary: Tools vs Uses**\n\nThis article explores how legal loopholes function as tools that can be wielded for various purposes, challenging the common assumption that they merely result from drafting errors. The piece highlights how lawmakers strategically insert specific amendments to benefit their donors, using Trump's 2017 tax bill as a primary example. Senator Ron Johnson's last-minute amendment created massive deductions for pass-through entities, generating over $500 million in benefits for just three constituents who had collectively donated $20 million to his campaign. The article reveals that the Trump tax bill produced windfalls exceeding $1 billion for merely 82 households—all of whom had lavishly donated to the lawmakers who crafted these targeted provisions. The discussion suggests that these aren't accidental gaps in legislation but deliberate mechanisms of political influence, where the tools of governance are shaped by financial incentives rather than public interest.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/16Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/16/whittle-a-webserver/)\n\n## Today's links\n\n- [Tools vs uses](https://pluralistic.net/2026/03/16/whittle-a-webserver/#mere-ornaments): Don't fall for it.\n\n- [Hey look at this](https://pluralistic.net/2026/03/16/whittle-a-webserver/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/16/whittle-a-webserver/#retro): Amazon coders x Amazon warehouse workers; Bruces's ETECH speech; Steven King x unions; Tax-free S&P 500 companies; Make Pop Rocks; \"Ain't Misbehavin'\"; \"Car Hacker's Handbook\"; Pirates in Iceland.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/16/whittle-a-webserver/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/16/whittle-a-webserver/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/16/whittle-a-webserver/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/16/whittle-a-webserver/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/16/whittle-a-webserver/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/tools-vs-uses.jpg?w=840&ssl=1)\n\n## Tools vs uses ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#mere-ornaments))\n\nWhen you think of a legal loophole, you probably imagine a drafting error (or perhaps a sneaky insertion) that creates an advantage for a specific person or group of people.\n\nFor example: Trump's 2017 \"Big Beautiful Tax Cut\" bill passed after its 479 pages were *covered* in hand-scrawled amendments and additions, which were not read or reviewed by lawmakers prior to voting:\n\n[https://www.usatoday.com/story/news/2017/12/02/handwriting-wall-and-page-senate-passes-tax-bill/915957001/](https://www.usatoday.com/story/news/2017/12/02/handwriting-wall-and-page-senate-passes-tax-bill/915957001/)\n\nBut one change that *was* widely known was Senator Ron Johnson's last-minute amendment to create deductions for \"pass through entities.\" Johnson announced that he would block the bill if his amendment didn't go through. That amendment made three of Johnson's constituents *at least half a billion dollars*: Uline owners Dick and Liz Uihlein and roofing tycoon Diane Hendricks (who collectively donated $20m to Johnson's campaign).\n\nAll told, the Trump tax bill generated windfalls worth more than $1b for just 82 households, all of whom donated lavishly to the lawmakers who inserted incredibly specific amendments that benefited them, personally:\n\n[https://pluralistic.net/2021/08/11/the-canada-variant/#shitty-man-of-history-theory](https://pluralistic.net/2021/08/11/the-canada-variant/#shitty-man-of-history-theory)\n\nHere's another example: in 1999, a Congressional staffer named Mitch Glazier secured a last-minute, one-line amendment to the Satellite Home Viewer Improvement Act that took away musicians' ability to claim back the rights to their sound recordings after 35 years through a process called \"Termination of Transfer\":\n\n[https://en.wikipedia.org/wiki/Mitch_Glazier#Work_for_hire](https://en.wikipedia.org/wiki/Mitch_Glazier#Work_for_hire)\n\nThis amendment whacked one group of musicians particularly hard: the Black \"heritage acts\" who had been coerced into signing *unbelievably shitty* contracts in the 1950s, 60s and 70s, who were increasingly using termination to get those rights back. For these beloved musicians, termination meant the difference between going hungry and buying a couple extra bags of groceries every month (if this sounds familiar, it might be because you read about it in my 2024 novel *The Bezzle*):\n\n[https://us.macmillan.com/books/9781250865892/thebezzle/](https://us.macmillan.com/books/9781250865892/thebezzle/)\n\nGlazier's treachery was so outrageous that Congress actually convened a special session to repeal his amendment, and Glazier slunk out of Congress forever…so that he could take a job at $1.3m/year as CEO of the Recording Industry Association of America, where he squats to this day, insisting that he is fighting for musicians' rights:\n\n[https://projects.propublica.org/nonprofits/organizations/131669037](https://projects.propublica.org/nonprofits/organizations/131669037)\n\nThese are the traditional loopholes – obscure codicils in legislation that allow their beneficiaries to enrich themselves at others' expense. But there's another, equally pernicious kind of loophole that gets far less attention: a loophole that *neutralizes* a beneficial part of a law, *taking away* a right that the law seems to confer.\n\nI have spent most of my adult life fighting against one of these rights-confiscating reverse loopholes: the \"exemptions\" clause to Section 1201 of the Digital Millennium Copyright Act (DMCA 1201), which might just be the most dangerous technology law on the books:\n\n[https://pluralistic.net/2026/01/14/sole-and-despotic/#world-turned-upside-down](https://pluralistic.net/2026/01/14/sole-and-despotic/#world-turned-upside-down)\n\nUnder DMCA 1201, it's a felony – punishable by a 5-year sentence and a $500k fine – to bypass an \"access control\" for a copyrighted work. This means that altering the software (that is, \"a copyrighted work\") in a device you own – a car, a tractor, a hearing aid, a smart speaker, a printer, a phone, a console, etc, etc – is a crime, *even if your alteration does not break any other laws*.\n\nFor example: there is no law requiring you to buy your printer ink from the company that sold you your printer. However, the cartel of companies that control the inkjet market all use software that is designed to block generic ink. You *could* turn this code off, but that would be a felony under Section 1201 of the DMCA, which means that, in practice, it's a felony to put generic ink in your printer. Jay Freeman calls it \"felony contempt of business model.\"\n\nWhen the DMCA was being debated, lawmakers faced fierce criticism over this clause, so they inserted a \"safety valve\" into the law that was supposed to prevent the kind of abuse that allows printer companies to force you to pay $10,000/gallon for ink.\n\nThat escape valve is called the \"triennial exemptions process.\" Every three years, the US Copyright Office invites submissions for \"exemptions\" to DMCA 1201. They've granted lots of these – the right to circumvent access controls on video games for preservation purposes, on DVDs for film criticism, and on various kinds of electronics for repair.\n\nThis process may strike you as a little cumbersome – do you really have to wait up to three years to pay a lawyer to beg the government for the right to make a legal use of your own property? But this is a reverse loophole, and that means that this isn't merely cumbersome, it's *farcical*.\n\nYou see, the exemptions that the Copyright Office grants through the triennial process aren't *tools* exemptions, they're *use* exemptions. That means that when the Copyright Office grants an exemption giving you the right to jailbreak your car so that you can make sense of the manufacturer's diagnostic codes and turn your \"check engine\" light into a specific, actionable diagnosis.\n\n*You* have that right. Your *mechanic* does *not* have that right. *You* have the right to jailbreak your car and fix it.\n\nBut it's worse than that: your right to jailbreak your car does not mean that anyone else gets the right to make a *tool* that allows you to make that *use*. You have a *use* exemption, but there is no *tool* exemption. That means that *you*, personally, must reverse-engineer the firmware in your car, identify a fault in the code, and leverage that to *personally* write software to turn the diagnostic codes into diagnoses. You are not allowed to talk to anyone else about this. You're not allowed to publish your findings. You're certainly not allowed to share the tool you create with anyone else.\n\nThis is true of *all* the exemptions the Copyright Office grants. If you're a film professor who's been given the right to jailbreak DVDs, you are expected to write your own DVD decrypting software, without help from anyone else, and if you manage it, you can't tell anyone else how you did it. If you're an iPhone owner who's been granted the right to jailbreak your phone and install a different app store, then *you*, personally, must identify a vulnerability in iOS and develop it into an exploit that you are only allowed to use on your own devices. Every other iPhone owner has to do the same thing.\n\nDMCA 1201 has been copy-pasted into law-books all over the world. In Europe, it came in through Article 6 of the 2001 EU Copyright Directive (EUCD6). When Norway implemented this law, lawmakers included a bunch of use exemptions in a bid to placate the fierce opposition they faced. One of these exemptions allowed blind people to jailbreak ebooks so they could be used with Braille printers, screen readers, and other assistive devices.\n\nIn 2003, I traveled to Oslo to debate the minister responsible for the bill. He proudly trumpeted this exemption, so I started asking him questions about it:\n\n> \n> How do blind people get the software that jailbreaks their ebooks so they can make use of this exemption? Am I allowed to give them that tool?\n\n>   No, the minister said, you're not allowed to do that, that would be a crime.\n\n>   Is the Norwegian government allowed to give them that tool? No. How about a blind rights advocacy group? No, not them either. A university computer science department? Nope. A commercial vendor? Certainly not.\n\n>   No, the minister explained, under his law, a blind person would be expected to personally reverse-engineer a program like Adobe E-Reader, in hopes of discovering a defect that they could exploit by writing a program to extract the ebook text.\n\n>   Oh, I said. But if a blind person did manage to do this, could they supply that tool to other blind people?\n\n>   Well, no, the minister said. Each and every blind person must personally – without any help from anyone else – figure out how to reverse-engineer the ebook program, and then individually author their own alternative reader program that worked with the text of their ebooks.\n> \n\n[https://pluralistic.net/2024/10/28/mcbroken/#my-milkshake-brings-all-the-lawyers-to-the-yard](https://pluralistic.net/2024/10/28/mcbroken/#my-milkshake-brings-all-the-lawyers-to-the-yard)\n\nI don't know for sure how many blind Norwegians have managed to take advantage of this use exemptions, but I'm pretty certain it's zero.\n\nCanada's anticircumvention law was passed in 2012 through Bill C-11, the Copyright Modernization Act. Like EUCD6, C-11 has all the defects of America's anticircumvention law. In 2024, Parliament passed a national Right to Repair law (Bill C-244) and a national Interoperability law (Bill C-294). Both of them grant *use* exemptions to Bill C-11 – they allow Canadians to jailbreak their devices to fix them or extend their functionality with interoperable code and hardware. But *neither* bill has a *tools* exemption, which means that they are *useless*, since they only grant Canadians the individual, personal right to jailbreak, but they don't allow Canadian businesses or tinkerers or user groups to make the tools that Canadians need to exercise the use rights that Parliament so generously granted:\n\n[https://pluralistic.net/2024/11/15/radical-extremists/#sex-pest](https://pluralistic.net/2024/11/15/radical-extremists/#sex-pest)\n\nReverse loopholes are incredibly wicked. They exist solely to muddy the waters, to trick people into thinking that problems have been solved while those problems continue to fester. Hardly a week goes without my hearing from someone who's happened upon the use exemptions built into anticircumvention laws around the world and have come to the reasonable conclusion that if a law gives you the right to do something, it must also give other people the right to *help you* do it.\n\nLawmakers who pass these reverse loopholes know what they're doing. They're chaffing the policy airspace, ramming through unpopular legislation under cover of a blizzard of misleading legalese.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Being a Luddite Is Cool and All, but Have You Seen the Hilarious Tapestries These New Looms Are Making? [https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making](https://www.mcsweeneys.net/articles/being-a-luddite-is-cool-and-all-but-have-you-seen-the-hilarious-tapestries-these-new-looms-are-making)\n\n- \nThey Didn’t Want to Have C-Sections. A Judge Would Decide How They Gave Birth. [https://www.propublica.org/article/florida-court-ordered-c-sections?utm_source=sailthru&amp;utm_medium=email&amp;utm_campaign=weekly-newsletter](https://www.propublica.org/article/florida-court-ordered-c-sections?utm_source=sailthru&amp;utm_medium=email&amp;utm_campaign=weekly-newsletter)\n\n- \nF-Droid says Google’s Android developer verification plan is an ‘existential’ threat to alternative app stores [https://thenewstack.io/f-droid-says-googles-android-developer-verification-plan-is-an-existential-threat-to-alternative-app-stores/](https://thenewstack.io/f-droid-says-googles-android-developer-verification-plan-is-an-existential-threat-to-alternative-app-stores/)\n\n- \nMeta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026 [https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)\n\n- \nThe Removed DOGE Deposition Videos Have Already Been Backed Up Across the Internet [https://www.404media.co/the-removed-doge-deposition-videos-have-already-been-backed-up-across-the-internet/](https://www.404media.co/the-removed-doge-deposition-videos-have-already-been-backed-up-across-the-internet/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#retro))\n\n#20yrsago Full text of Bruce Sterling’s ETECH speech from last week [https://web.archive.org/web/20060406025248/http://www.viridiandesign.org/2006/03/viridian-note-00459-emerging.html](https://web.archive.org/web/20060406025248/http://www.viridiandesign.org/2006/03/viridian-note-00459-emerging.html)\n\n#20yrsago HOWTO build a glowing throne out of 4k AOL CDs [https://web.archive.org/web/20060408174929/https://stupidco.com/aol_throne_intro.html](https://web.archive.org/web/20060408174929/https://stupidco.com/aol_throne_intro.html)\n\n#20yrsago How Sweden’s “Pirate Bay” site resists the MPAA [https://web.archive.org/web/20060423222220/https://www.wired.com/news/technology/1,70358-0.html](https://web.archive.org/web/20060423222220/https://www.wired.com/news/technology/1,70358-0.html)\n\n#15yrsago Stephen King sticks up for unions [https://www.youtube.com/watch?v=x1vW1zPmnKQ](https://www.youtube.com/watch?v=x1vW1zPmnKQ)\n\n#15yrsago Largest Wisconsin protests ever: 85,000+ people in Madison’s streets [https://web.archive.org/web/20110319152841/http://www.huffingtonpost.com/2011/03/12/wisconsin-protesters-refu_n_834927.html](https://web.archive.org/web/20110319152841/http://www.huffingtonpost.com/2011/03/12/wisconsin-protesters-refu_n_834927.html)\n\n#15yrsago Why Borders failed [https://www.quora.com/Borders-Books/Why-is-Barnes-Noble-performing-well-as-a-business-while-Borders-has-filed-for-bankruptcy/answer/Mark-Evans-9](https://www.quora.com/Borders-Books/Why-is-Barnes-Noble-performing-well-as-a-business-while-Borders-has-filed-for-bankruptcy/answer/Mark-Evans-9)\n\n#15yrsago HOWTO make Pop Rocks [https://www.instructables.com/Pop-Rocks/](https://www.instructables.com/Pop-Rocks/)\n\n#15yrsago Ain’t Misbehavin’: subject index to democratic parenting [https://memex.craphound.com/2011/03/14/aint-misbehavin-subject-index-to-democratic-parenting/](https://memex.craphound.com/2011/03/14/aint-misbehavin-subject-index-to-democratic-parenting/)\n\n#10yrsago 50 reasons the TPP is terrible beyond belief [https://www.michaelgeist.ca/2016/03/the-trouble-with-the-tpp-day-50-the-case-against-ratifying-the-trans-pacific-partnership/](https://www.michaelgeist.ca/2016/03/the-trouble-with-the-tpp-day-50-the-case-against-ratifying-the-trans-pacific-partnership/)\n\n#10yrsago More high-profile resignations at Breitbart, after abused reporter thrown under Trump’s bus [https://www.buzzfeednews.com/article/rosiegray/michelle-fields-ben-shapiro-resign-from-breitbart#.vlbZ4YxLe](https://www.buzzfeednews.com/article/rosiegray/michelle-fields-ben-shapiro-resign-from-breitbart#.vlbZ4YxLe)\n\n#10yrsago If Iceland held its elections today, the Pirate Party would win [https://torrentfreak.com/pirate-party-to-dominate-icelan-parliament-survey-finds-160314/](https://torrentfreak.com/pirate-party-to-dominate-icelan-parliament-survey-finds-160314/)\n\n#10yrsago The Car Hacker’s Handbook: a Guide for Penetration Testers [https://memex.craphound.com/2016/03/14/the-car-hackers-handbook-a-guide-for-penetration-testers/](https://memex.craphound.com/2016/03/14/the-car-hackers-handbook-a-guide-for-penetration-testers/)\n\n#10yrsago USA uses TPP-like trade-court to kill massive Indian solar project [https://web.archive.org/web/20160314085012/http://theantimedia.org/preview-of-the-tpp-america-just-blocked-a-massive-solar-project-in-india/](https://web.archive.org/web/20160314085012/http://theantimedia.org/preview-of-the-tpp-america-just-blocked-a-massive-solar-project-in-india/)\n\n#10yrsago These 27 profitable S&P 500 companies paid no tax last year [https://www.usatoday.com/story/money/markets/2016/03/07/27-giant-profitable-companies-paid-no-taxes/81399094/](https://www.usatoday.com/story/money/markets/2016/03/07/27-giant-profitable-companies-paid-no-taxes/81399094/)\n\n#10yrsago Family: police high-fived after tasering our handcuffed relative to death [https://web.archive.org/web/20160312165903/https://www.ajc.com/news/news/crime-law/family-of-victim-in-coweta-county-taser-death-seek/nqhcm/](https://web.archive.org/web/20160312165903/https://www.ajc.com/news/news/crime-law/family-of-victim-in-coweta-county-taser-death-seek/nqhcm/)\n\n#1yrago The future of Amazon coders is the present of Amazon warehouse workers [https://pluralistic.net/2025/03/13/electronic-whipping/#youre-next](https://pluralistic.net/2025/03/13/electronic-whipping/#youre-next)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Barcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill) Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nLondon: Resisting Big Tech Empires (LSBU)\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/16/whittle-a-webserver/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America ( words today, total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/16/whittle-a-webserver/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Mon, 16 Mar 2026 13:53:43 +0000",
+        "reading_time": 17,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting A member of Anthropic’s alignment-science team - <think>The user wants me to summarize an article in 100-200 words. Let me analyze what's b...",
+    "★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator - <think>The user wants me to summarize this article about Apple's camera indicator lights i...",
+    "Quoting Guilherme Rambo - <think>The user wants me to summarize an article about a security feature in the MacBook N...",
+    "Coding agents for data analysis - <think>The user wants me to summarize an article about a workshop on \"Coding agents for da...",
+    "Apple Introduces AirPods Max 2 - <think>The user wants me to summarize this Apple press release about AirPods Max 2 in 100-..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 28
+    },
+    {
+      "word": "summary",
+      "count": 23
+    },
+    {
+      "word": "key",
+      "count": 21
+    },
+    {
+      "word": "git",
+      "count": 19
+    },
+    {
+      "word": "think",
+      "count": 18
+    },
+    {
+      "word": "points",
+      "count": 18
+    },
+    {
+      "word": "words",
+      "count": 16
+    },
+    {
+      "word": "let",
+      "count": 15
+    },
+    {
+      "word": "secure",
+      "count": 15
+    },
+    {
+      "word": "indicator",
+      "count": 15
+    },
+    {
+      "word": "summarize",
+      "count": 14
+    },
+    {
+      "word": "camera",
+      "count": 14
+    },
+    {
+      "word": "main",
+      "count": 14
+    },
+    {
+      "word": "hardware",
+      "count": 13
+    },
+    {
+      "word": "coding",
+      "count": 13
+    },
+    {
+      "word": "teleportation",
+      "count": 13
+    },
+    {
+      "word": "user",
+      "count": 11
+    },
+    {
+      "word": "agents",
+      "count": 11
+    },
+    {
+      "word": "data",
+      "count": 11
+    },
+    {
+      "word": "tools",
+      "count": 11
+    },
+    {
+      "word": "concise",
+      "count": 10
+    },
+    {
+      "word": "work",
+      "count": 9
+    },
+    {
+      "word": "wants",
+      "count": 9
+    },
+    {
+      "word": "ai",
+      "count": 9
+    },
+    {
+      "word": "write",
+      "count": 9
+    },
+    {
+      "word": "apple",
+      "count": 9
+    },
+    {
+      "word": "macbook",
+      "count": 9
+    },
+    {
+      "word": "security",
+      "count": 9
+    },
+    {
+      "word": "indicators",
+      "count": 9
+    },
+    {
+      "word": "without",
+      "count": 8
+    },
+    {
+      "word": "like",
+      "count": 8
+    },
+    {
+      "word": "light",
+      "count": 8
+    },
+    {
+      "word": "system",
+      "count": 7
+    },
+    {
+      "word": "content",
+      "count": 7
+    },
+    {
+      "word": "analyze",
+      "count": 7
+    },
+    {
+      "word": "informative",
+      "count": 7
+    },
+    {
+      "word": "neo",
+      "count": 7
+    },
+    {
+      "word": "takeaways",
+      "count": 7
+    },
+    {
+      "word": "airpods",
+      "count": 7
+    },
+    {
+      "word": "max",
+      "count": 7
+    },
+    {
+      "word": "loyalty",
+      "count": 7
+    },
+    {
+      "word": "march",
+      "count": 6
+    },
+    {
+      "word": "discusses",
+      "count": 6
+    },
+    {
+      "word": "create",
+      "count": 6
+    },
+    {
+      "word": "thought",
+      "count": 6
+    },
+    {
+      "word": "features",
+      "count": 6
+    },
+    {
+      "word": "chip",
+      "count": 6
+    },
+    {
+      "word": "captures",
+      "count": 6
+    },
+    {
+      "word": "it's",
+      "count": 6
+    },
+    {
+      "word": "focusing",
+      "count": 6
+    },
+    {
+      "word": "analysis",
+      "count": 6
+    },
+    {
+      "word": "claude",
+      "count": 6
+    },
+    {
+      "word": "process",
+      "count": 6
+    },
+    {
+      "word": "llms",
+      "count": 6
+    },
+    {
+      "word": "quotation",
+      "count": 5
+    },
+    {
+      "word": "exercise",
+      "count": 5
+    },
+    {
+      "word": "apple's",
+      "count": 5
+    },
+    {
+      "word": "exclave",
+      "count": 5
+    },
+    {
+      "word": "workshop",
+      "count": 5
+    },
+    {
+      "word": "audio",
+      "count": 5
+    },
+    {
+      "word": "creative",
+      "count": 5
+    },
+    {
+      "word": "branch",
+      "count": 5
+    },
+    {
+      "word": "prompts",
+      "count": 5
+    },
+    {
+      "word": "models",
+      "count": 5
+    },
+    {
+      "word": "design",
+      "count": 4
+    },
+    {
+      "word": "early",
+      "count": 4
+    },
+    {
+      "word": "team",
+      "count": 4
+    },
+    {
+      "word": "alignment",
+      "count": 4
+    },
+    {
+      "word": "purpose",
+      "count": 4
+    },
+    {
+      "word": "policymakers",
+      "count": 4
+    },
+    {
+      "word": "misalignment",
+      "count": 4
+    },
+    {
+      "word": "examples",
+      "count": 4
+    },
+    {
+      "word": "risks",
+      "count": 4
+    },
+    {
+      "word": "real",
+      "count": 4
+    },
+    {
+      "word": "appears",
+      "count": 4
+    },
+    {
+      "word": "making",
+      "count": 4
+    },
+    {
+      "word": "on-screen",
+      "count": 4
+    },
+    {
+      "word": "pro",
+      "count": 4
+    },
+    {
+      "word": "runs",
+      "count": 4
+    },
+    {
+      "word": "kernel-level",
+      "count": 4
+    },
+    {
+      "word": "architecture",
+      "count": 4
+    },
+    {
+      "word": "software-based",
+      "count": 4
+    },
+    {
+      "word": "operating",
+      "count": 4
+    },
+    {
+      "word": "feature",
+      "count": 4
+    },
+    {
+      "word": "control",
+      "count": 4
+    },
+    {
+      "word": "code",
+      "count": 4
+    },
+    {
+      "word": "openai",
+      "count": 4
+    },
+    {
+      "word": "codex",
+      "count": 4
+    },
+    {
+      "word": "tasks",
+      "count": 4
+    },
+    {
+      "word": "tokens",
+      "count": 4
+    },
+    {
+      "word": "datasette",
+      "count": 4
+    },
+    {
+      "word": "shower",
+      "count": 4
+    },
+    {
+      "word": "titled",
+      "count": 4
+    },
+    {
+      "word": "philosophical",
+      "count": 4
+    },
+    {
+      "word": "commands",
+      "count": 4
+    },
+    {
+      "word": "master",
+      "count": 4
+    },
+    {
+      "word": "person",
+      "count": 4
+    },
+    {
+      "word": "software",
+      "count": 4
+    },
+    {
+      "word": "llm",
+      "count": 4
+    },
+    {
+      "word": "text",
+      "count": 4
+    }
+  ]
+}
