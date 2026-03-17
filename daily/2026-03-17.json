@@ -1,0 +1,862 @@
+{
+  "date": "2026-03-17",
+  "stats": {
+    "total_fetched": 279,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Ken Jin",
+        "summary": "<blockquote cite=\"https://fidget-spinner.github.io/posts/jit-on-track.html\"><p>Great news—we’ve hit our (very modest) performance goals for the CPython JIT over a year early for macOS AArch64, and a few months early for...",
+        "url": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-17T21:48:26.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Lil Finder Guy Wallpapers",
+        "summary": "Stephen Hackett: I was just going about my day then James Thomson of PCalc and other fine applications dropped these images on me and said I could share them. Also, something fun for those of you with 3D printers. ★",
+        "url": "https://512pixels.net/2026/03/lil-finder-5k-wallpapers/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-03-17T13:41:21.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Powers don’t clear fractions",
+        "summary": "If a number has a finite but nonzero fractional part, so do all its powers. I recently ran across a proof in [1] that is shorter than I expected. Theorem: Suppose r is a real number that is not an integer, and the decima...",
+        "url": "https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 17 Mar 2026 13:26:13 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Tone row operations",
+        "summary": "The previous post introduced the idea of a twelve-tone row, a permutation of the twelve pitch classes of a chromatic scale. The earlier post also introduced a group of operations on a tone row with elements P, R, I, and...",
+        "url": "https://www.johndcook.com/blog/2026/03/17/tone-row-operations/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 17 Mar 2026 13:22:39 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Toshiba’s Soviet nuclear submarine scandal",
+        "summary": "On March 19, 1987, the Pentagon announced that it had learned the Soviet Union acquired machine tooling for making submarine propeller blades from Toshiba Machine, a subsidiary of Toshiba Corporation, better known as a m...",
+        "url": "https://dfarq.homeip.net/toshibas-soviet-nuclear-submarine-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=toshibas-soviet-nuclear-submarine-scandal",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 17 Mar 2026 11:00:56 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro",
+        "summary": "Fox Sports, on Twitter/X: Tonight, watch the WBC Final in a full immersive experience on the Fox Sports XR app for the Galaxy XR headset powered by Android XR! The Fox Sports app in the App Store is native only on iOS (i...",
+        "url": "https://x.com/mlbonfox/status/2033902946174271992?s=46",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "2026-03-17T19:26:12.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Windows stack limit checking retrospective: x86-32 also known as i386, second try",
+        "summary": "Appeasing the invisible return address predictor. The post Windows stack limit checking retrospective: x86-32 also known as i386, second try appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 17 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why Are We Still Doing This?",
+        "summary": "Hi! If you like this piece and want to support my work, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5000 to 185,000 wo...",
+        "url": "https://www.wheresyoured.at/why-are-we-still-doing-this/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 17 Mar 2026 16:36:40 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Your Startup Is Probably Dead On Arrival",
+        "summary": "Your Startup Is Probably Dead On Arrival If you started a company more than two years ago, it’s likely that many of your assumptions are no longer true. You need to stop coding, building, recruiting, fund raising, etc.,...",
+        "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+        "source": "Steve Blank",
+        "tags": [
+          "AI/ML",
+          "Startup"
+        ],
+        "published_at": "Tue, 17 Mar 2026 13:00:30 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 495",
+        "summary": "In the beginning, it was simple. A website, a database and 150M+ email addresses to search. Time has added serverless functions (which run on servers 🤷‍♂️), code on the edge, new data storage constructs and a completely...",
+        "url": "https://www.troyhunt.com/weekly-update-495/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Database",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 17 Mar 2026 02:55:31 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Custom Regions for precision data control",
+        "summary": "We are expanding Regional Services with new pre-defined regions and the launch of Custom Regions. Customers can now define precise geographical boundaries for data processing, tailored to meet their compliance and perfor...",
+        "url": "https://blog.cloudflare.com/custom-regions/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Wed, 18 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "My homelab will be down for at least 20 days",
+        "summary": "Dang, guess I have to suffer.",
+        "url": "https://xeiaso.net/notes/2026/homelab-is-down/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 17 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Help I'm being persecuted",
+        "summary": "OR: rubberneckers anonymous",
+        "url": "https://www.experimental-history.com/p/help-im-being-persecuted",
+        "source": "Experimental History",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 17 Mar 2026 13:33:13 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-17T22:23:07.524Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months",
+        "summary": "<think>The user wants me to summarize this article about Samsung discontinuing its Galaxy Z TriFold after just three months. I need to focus on key points and main takeaways, keeping it between 100-200 words.\n\nLet me identify the key information:\n1. Samsung is discontinuing the Galaxy Z TriFold less than 3 months after launch\n2. Price was $2,899\n3. Sales being wound down in Korea first, then US\n4. Only 6,000 units sold domestically in Korea since December 12th\n5. High production costs are behind the decision - component prices rose too much\n6. Samsung stopped restock updates earlier this month\n7. Currently sold out in the US\n8. Only available directly from Samsung\n9. Huawei is already on second generation of their trifold\n10. Third-party resellers may be the only option after inventory clears\n\nThe article appears to be from 2026 based on the dates mentioned (March 2026).\n\nI need to write a concise, informative summary in 100-200 words. The content seems to be about a tech product discontinuation, so I'll focus on the business/market aspects.\n\nLet me structure this:\n- Opening statement about the discontinuation\n- Price and timeline\n- Sales numbers\n- Reason for discontinuation\n- Current availability status\n- Brief mention of competition\n\nI'll write this in a professional, journalistic tone as befits a news summary.\n</think>\n\n# Samsung Discontinues Galaxy Z TriFold After Just Three Months\n\nSamsung is discontinuing its Galaxy Z TriFold less than three months after launch, marking one of the shortest product lifecycles in the company's smartphone history. The $2,899 foldable phone, which featured a three-panel folding design, is being phased out starting in Korea before reaching US markets once inventory depletes.\n\nSales have been disappointingly low, with only 6,000 units sold domestically in Korea since its December launch. Samsung's website already lists the device as \"sold out\" in the US, where it was exclusively available through direct purchase. High production costs reportedly forced the decision—component price increases made it nearly impossible for Samsung to profit even if sales continued.\n\nThis rapid discontinuation contrasts sharply with Huawei's progress, which is already on its second-generation trifold phone. Once Samsung's remaining inventory clears, third-party resellers will likely become the primary source for the device, though at potentially inflated prices.",
+        "content": "[![](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96)](https://www.theverge.com/authors/jess-weatherbed)\n\nJess Weatherbed\n\n is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.\n\nSamsung is preparing to axe its first three-panel foldable phone less than three months after launching the device in the US. Sales of the [$2,899 Galaxy Z TriFold](https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability) will first be wound down in Korea and then discontinued in the US once remaining inventory has been cleared, an unnamed Samsung spokesperson told [*Bloomberg*](https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months).\n\nThis follows a report from Korean media outlet [*Dong-A Ilbo*](https://www.donga.com/news/Economy/article/all/20260316/133538775/1) on Monday that says the TriFold will be getting a final domestic restock today, March 17th. Samsung’s website stopped providing future restock updates for the foldable earlier this month, with the TriFold currently [listed as “sold out”](https://www.samsung.com/us/smartphones/galaxy-z-trifold/buy/galaxy-z-trifold-512gb-unlocked-sku-sm-f968uzkaxaa/) in the US.\n\nIt was only available to purchase directly from Samsung, with *Dong-A Ilbo* reporting that just 6,000 units have been stocked and sold domestically since the phone launched in Korea on December 12th. Meanwhile, Huawei is already on the second generation of its own trifold phone, but while the original [Mate XT Ultimate](https://www.theverge.com/news/614241/huawei-trifold-mate-xt-ultimate-global-release) eventually launched in other regions, the [Mate XTs](https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather) is still limited to China.\n\nSome buyers have managed to find stock of the foldable at Samsung Experience Stores in Texas and New York, according to *Bloomberg*, but it seems like the online inventory is already drying up in the US. Once that’s entirely depleted, third-party resellers or those flogging used handsets will be among the only ways to purchase the short-lived Galaxy Z TriFold, but proceed with caution — our attempts to [obtain one via eBay](https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay) went about as well as you’d expect.\n\nHigh production costs are reportedly behind the decision, with component prices having risen significantly enough to make it almost impossible for Samsung to turn a profit even if sales continued. In an interview with [*Bloomberg*](https://www.bloomberg.com/news/articles/2026-02-27/samsung-uncommited-to-another-iphone-air-rival-or-trifold-coo-says) last month, Samsung’s mobile business chief Won-Joon Choi said the company hasn’t committed to releasing a successor to the TriFold, but suggested elements of it — such as the larger display and wider aspect ratio — may trickle down to Samsung’s other foldable phones in time.\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Jess Weatherbed\n- \n- \n- \n- \n-",
+        "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-17T13:49:53.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Tim Schilling",
+        "summary": "<think>The user wants me to summarize an article titled \"Quoting Tim Schilling\" dated March 17th, 2026. The content is a quote from Tim Schilling about using LLMs (Large Language Models) when contributing to Django open source.\n\nLet me identify the key points:\n1. Tim Schilling is addressing contributors who use LLMs for Django contributions\n2. He states three problematic scenarios: not understanding the ticket, not understanding the solution, or not understanding PR feedback\n3. He argues that using LLMs in these cases hurts Django as a whole\n4. He describes reviewing contributions from LLM users as \"demoralizing\" - like communicating with \"a facade of a human\"\n5. He emphasizes that Django/open source contribution is a \"communal endeavor\"\n6. Removing humanity from the process makes it more difficult\n7. His recommendation: LLMs should be complementary tools, not the vehicle for contribution\n\nThe summary should be 100-200 words, concise and informative, focusing on key points and main takeaways.\n\nLet me write this summary:\n</think>\n\n**Summary: Tim Schilling on LLM Use in Django Contributions**\n\nTim Schilling warns that improper use of LLMs when contributing to Django harms the project. He identifies three problematic scenarios: using LLMs when you don't understand the ticket, don't understand the solution, or don't comprehend feedback on your pull request.\n\nSchilling argues that reviewing contributions from someone using an LLM as their \"vehicle\" feels like \"communicating with a facade of a human,\" which is demoralizing for reviewers. He emphasizes that open-source contribution, especially for Django, is fundamentally a communal endeavor built on human connection and collaboration.\n\nHis core message is clear: LLMs should serve as complementary tools to enhance a contributor's understanding and capabilities, not replace the contributor's own engagement with the work. When contributors remove their humanity from the process, the entire community suffers. Schilling encourages people to give Django their time, money, and genuine human effort rather than just LLM-generated tokens.",
+        "content": "17th March 2026\n\n> If you do not understand the ticket, if you do not understand the solution, or if you do not understand the feedback on your PR, then your use of LLM is hurting Django as a whole. [...]\n\n> For a reviewer, it’s demoralizing to communicate with a facade of a human.\n\n> This is because contributing to open source, especially Django, is a communal endeavor. Removing your humanity from that experience makes that endeavor more difficult. If you use an LLM to contribute to Django, it needs to be as a complementary tool, not as your vehicle.\n\n— [Tim Schilling](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/), Give Django your time and money, not your tokens",
+        "url": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-03-17T16:13:37.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "You Might Debate It — If You Could See It",
+        "summary": "<think>The user wants me to summarize an article titled \"You Might Debate It — If You Could See It\" in 100-200 words. Let me analyze the article:\n\nThe article is written by what appears to be a design leader who presents a set of design guidelines:\n1. Typography: Use expressive fonts, avoid defaults\n2. Motion: Use meaningful animations, not generic micro-motions\n3. Background: Use gradients, shapes, patterns instead of flat colors\n4. Overall: Avoid boilerplate layouts, vary visual languages\n\nThe author acknowledges these guidelines could spark debate - some might find them boring, too opinionated, or trendy. The discussion could go in circles.\n\nBut then the author points out something interesting: these very guidelines exist inside Codex (an LLM coding tool) without the team's knowledge. It's like a \"Trojan Horse of craft\" - guidelines teams might never agree to explicitly are quietly embedded in tools they're using.\n\nThe key takeaway: When we use AI tools, we're implicitly accepting guidelines baked into them that we might debate or reject if presented openly. There's opacity in generative tools that bypasses our usual deliberation processes.\n\nThis is about:\n- Design philosophy and craft\n- The hidden nature of AI/LLM instructions\n- How offloading thinking means accepting others' frameworks\n- Transparency and agency in using generative tools\n\nNow I need to write a concise 100-200 word summary focusing on key points and main takeaways.\n</think>\n\n# Summary: You Might Debate It — If You Could See It\n\nA design leader imagines proposing four controversial guidelines: using expressive typography over system defaults, meaningful motion over generic animations, rich backgrounds over flat colors, and varied layouts over boilerplate patterns. While such guidelines would likely spark heated debate—potentially stalling without resolution—the author discovered these exact principles already exist inside Codex, an LLM coding tool.\n\nThis reveals a troubling dynamic: teams might debate these standards openly for hours, yet they're quietly embedded in AI tools without discussion or consent. Guidelines we'd never agree to collectively are shaping our outputs implicitly through generative technology.\n\nThe core insight warns that offloading cognitive work to AI means accepting someone else's frameworks—often without awareness. The \"Trojan Horse of craft\" bypasses our deliberate decision-making, embedding opinionated design philosophies into tools we use daily. This opacity raises important questions about agency: when we embrace generative tools, what philosophies are we quietly adopting?",
+        "content": "Imagine I’m the design leader at your org and I present the following guidelines I want us to adopt as a team for doing design work:\n\n- Typography: Use expressive, purposeful fonts and avoid default stacks (Inter, Roboto, Arial, system).\n- Motion: Use a few meaningful animations (page-load, staggered reveals) instead of generic micro-motions.\n- Background: Don't rely on flat, single-color backgrounds; use gradients, shapes, or subtle patterns to build atmosphere.\n- Overall: Avoid boilerplate layouts and interchangeable UI patterns. Vary themes, type families, and visual languages.\n\nHow do you think that conversation would go?\n\nI can easily imagine a spirited debate where some folks disagree with any or all of my points, arguing that they should be struck as guidelines from our collective ethos of craft. Perhaps some are boring, or too opinionated, or too reliant on trends. There are lots of valid, defensible reasons.\n\nI can easily see this discussion being an exercise in frustration, where we debate for hours and get nowhere — “I suppose we can all agree to disagree”.\n\nAnd yet — thanks to [a link to Codex’s front-end tool guidelines](https://github.com/openai/codex/blob/rust-v0.114.0/codex-rs/core/templates/model_instructions/gpt-5.2-codex_instructions_template.md#frontend-tasks) in [Simon Willison’s article about how coding agents work](https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/) — I see that these are exactly the kind of guidelines that are tucked away inside an LLM that’s generating output for many teams.\n\nIt’s like a Trojan Horse of craft: guidelines you might never agree to explicitly are guiding LLM outputs, which means you are agreeing to them implicitly.\n\nIt’s a good reminder about the opacity of the instructions baked in to generative tools.\n\nWe would debate an open set of guidelines for hours, but if there’re opaquely baked in to a tool without our knowledge does anybody even care?\n\nWhen you offload your thinking, you might be on-loading someone else’s you’d never agree to — personally or collectively.",
+        "url": "https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 17 Mar 2026 19:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Hedley Davis has died",
+        "summary": "<think>The user wants me to summarize an article about Hedley Davis's death. Let me identify the key points:\n\n1. Hedley Davis was a Commodore employee during the Amiga era\n2. He worked on various Amiga products including the Amiga 3000 and Amiga 2024 monitor\n3. His notable work was the prototype SX-500 (1987) - an Amiga 500 crammed into a portable SX-64 case\n4. Later worked on Xbox and Xbox 360 consoles\n5. Retired and taught at University of Delaware\n6. Passed away last week at age 68\n\nThe article has a personal tone with the author sharing their connection to these products (wife playing Portal on Xbox 360).\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. I should be concise and informative.\n</think>\n\nHedley Davis, a Commodore employee who worked during the Amiga era, passed away last week at age 68. While not widely recognized, Davis contributed to several Amiga products including the Amiga 3000 and the monochrome Amiga 2024 monitor. His most notable project was the 1987 prototype SX-500, which packed an Amiga 500 into a portable SX-64 case with its 5-inch color screen and compact keyboard. After Commodore, Davis worked on Microsoft's Xbox and Xbox 360 consoles, the latter being particularly meaningful to the author whose wife regularly plays Portal on the system. Following his career in tech, Davis taught at the University of Delaware. The author notes that adventurous products like the SX-500 likely wouldn't have been approved by Commodore's leadership, making Davis's innovative work all the more remarkable.",
+        "content": "A more obscure Commodore employee (where he apparently met his wife), but still quite influential during the Amiga era. Along with more pedestrian units such as the Amiga 3000 and the monochrome Amiga 2024 monitor, my favourite device he worked on was the 1987 [prototype SX-500](http://www.floodgap.com/retrobits/ckb/secret/exec.html). That's exactly what it sounds like: an Amiga 500 crammed into [a portable SX-64](https://oldvcr.blogspot.com/2020/12/unboxing-best-gift-of-1983-commodore-sx.html) case, even keeping the same 5\" colour screen and basic keyboard layout. The picture here is a bad scan of a bad film picture I took at VCF 5.0 and I need to figure out where those original photos went. Dale Luck has this unit and hopefully it still works, but neither Thomas Rattigan nor Irving Gould would have ever released an adventurous product like this, and perhaps it was just as well. Later he worked on the Xbox and, my favourite console of its generation, the Xbox 360 (PowerPC for the win), on which my wife is slowly learning to play Portal and getting abused by GLaDOS on a regular basis, and in retirement taught at the University of Delaware. He passed away last week [at the age of 68](https://www.daniels-hutchison.com/obituaries/Hedley-Combs-Davis?obId=47519295). Rest in peace.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s320/cbm-sx500-portrait.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-0SbLegB_0xg7nOLcPAZjykmLe9WVaXeckeRw4DtQhlHjNbtmxiR2rZG2-ZyJbPzbVAIELfGbIm1JfxwET3FXLR8EUJtrlOEYPyjqI_XO82VJGnFOdxiXfyILh5acTHQ7rqGaSpGRlvTZqjza0ZP56BLQX335NAv1HAAzJsvIOVKVwzSMKl-b0qXqyTk/s1024/cbm-sx500-portrait.jpg)",
+        "url": "https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html",
+        "source": "Old Vintage Computing Research",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-17T05:20:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+        "summary": "<think>The user wants me to summarize an article about OpenAI releasing GPT-5.4 mini and GPT-5.4 nano models. Let me analyze the key points:\n\n1. The article is from March 17, 2026\n2. OpenAI introduced GPT-5.4 mini and GPT-5.4 nano\n3. These are additions to GPT-5.4 released two weeks prior\n4. Benchmarks show 5.4-nano outperforming previous GPT-5 mini\n5. New mini is 2x faster than previous mini\n6. Pricing information is provided comparing various models\n7. The author tested GPT-5.4 nano by describing a photo\n8. Cost analysis: describing 76,000 photos would cost about $52.44\n9. New version of llm tool released with model support\n\nI need to summarize this in 100-200 words, focusing on key points and main takeaways. Let me write a concise, informative summary.\n</think>\n\nOpenAI released GPT-5.4 mini and GPT-5.4 nano on March 17, 2026, expanding their model lineup. According to OpenAI's benchmarks, the new 5.4-nano outperforms the previous GPT-5 mini at maximum reasoning effort, while the mini variant runs twice as fast as its predecessor. The pricing structure positions gpt-5.4-nano as highly affordable at $0.20 per million input tokens, undercutting Google's Gemini 3.1 Flash-Lite. A practical demonstration showed the nano model describing a museum photo for just 0.069 cents, meaning processing all 76,000 photos in the author's collection would cost approximately $52.44. This release highlights the continued trend toward more efficient, cost-effective AI models that make large-scale image processing increasingly accessible.",
+        "content": "17th March 2026\n\nOpenAI today: [Introducing GPT‑5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano/). These models join GPT-5.4 which was released [two weeks ago](https://openai.com/index/introducing-gpt-5-4/).\n\nOpenAI’s self-reported benchmarks show the new 5.4-nano out-performing their previous GPT-5 mini model when run at maximum reasoning effort. The new mini is also 2x faster than the previous mini.\n\nHere’s how the pricing looks—all prices are per million tokens. `gpt-5.4-nano` is notably even cheaper than Google’s Gemini 3.1 Flash-Lite:\n\n  \n    \n      Model\n      Input\n      Cached input\n      Output\n    \n  \n  \n    \n      gpt-5.4\n      $2.50\n      $0.25\n      $15.00\n    \n    \n      gpt-5.4-mini\n      $0.75\n      $0.075\n      $4.50\n    \n    \n      gpt-5.4-nano\n      $0.20\n      $0.02\n      $1.25\n    \n    Other models for comparison\n    \n      Claude Opus 4.6\n      $5.00\n      -\n      $25.00\n    \n    \n      Claude Sonnet 4.6\n      $3.00\n      -\n      $15.00\n    \n    \n      Gemini 3.1 Pro\n      $2.00\n      -\n      $12.00\n    \n    \n      Claude Haiku 4.5\n      $1.00\n      -\n      $5.00\n    \n\n      Gemini 3.1 Flash-Lite\n      $0.25\n      -\n      $1.50\n    \n  \n\nI used GPT-5.4 nano to generate a description of this photo I took at the [John M. Mossman Lock Collection](https://www.niche-museums.com/118):\n\n![Description below](https://static.simonwillison.net/static/2026/IMG_2324.jpeg)\n\n```\nllm -m gpt-5.4-nano -a IMG_2324.jpeg 'describe image'\n\n```\n\nHere’s the output:\n\n> The image shows the interior of a museum gallery with a long display wall. White-painted brick walls are covered with many framed portraits arranged in neat rows. Below the portraits, there are multiple glass display cases with dark wooden frames and glass tops/fronts, containing various old historical objects and equipment. The room has a polished wooden floor, hanging ceiling light fixtures/cords, and a few visible pipes near the top of the wall. In the foreground, glass cases run along the length of the room, reflecting items from other sections of the gallery.\n\nThat took 2,751 input tokens and 112 output tokens, at a cost of [0.069 cents](https://www.llm-prices.com/#it=2751&ot=112&sel=gpt-5.4-nano) (less than a tenth of a cent). That means describing every single photo in my 76,000 photo collection would cost around $52.44.\n\nI released [llm 0.29](https://llm.datasette.io/en/stable/changelog.html#v0-29) with support for the new models.\n\nThen I had OpenAI Codex loop through all five reasoning effort levels and all three models and produce this combined SVG grid of pelicans riding bicycles ([generation transcripts here](https://gist.github.com/simonw/f16292d9a5b90b28054cff3ba497a3ca)). I do like the gpt-5.4 xhigh one the best, it has a good bicycle (with nice spokes) and the pelican has a fish in its beak!\n\n![Described by Claude Opus 4.6: A 5x3 comparison grid of AI-generated cartoon illustrations of a pelican riding a bicycle. Columns are labeled \"gpt-5.4-nano\", \"gpt-5.4-mini\", and \"gpt-5.4\" across the top, and rows are labeled \"none\", \"low\", \"medium\", \"high\", and \"xhigh\" down the left side, representing quality/detail settings. In the \"none\" row, gpt-5.4-nano shows a chaotic white bird with misplaced arrows and tangled wheels on grass, gpt-5.4-mini shows a duck-like brown bird awkwardly straddling a motorcycle-like bike, and gpt-5.4 shows a stiff gray-and-white pelican sitting atop a blue tandem bicycle with extra legs. In the \"low\" row, nano shows a chubby round white bird pedaling with small feet on grass, mini shows a cleaner white bird riding a blue bicycle with motion lines, and gpt-5.4 shows a pelican with a blue cap riding confidently but with slightly awkward proportions. In the \"medium\" row, nano regresses to a strange bird standing over bowling balls on ice, mini shows two plump white birds merged onto one yellow-wheeled bicycle, and gpt-5.4 shows a more recognizable gray-and-white pelican on a red bicycle but with tangled extra legs. In the \"high\" row, nano shows multiple small pelicans crowded around a broken green bicycle on grass with a sun overhead, mini shows a tandem bicycle with two white pelicans and clear blue sky, and gpt-5.4 shows two pelicans stacked on a red tandem bike with the most realistic proportions yet. In the \"xhigh\" row, nano shows the most detailed scene with a pelican on a detailed bicycle with grass and a large sun but still somewhat jumbled anatomy, mini produces the cleanest single pelican on a yellow-accented bicycle with a light blue sky, and gpt-5.4 shows a well-rendered gray pelican on a teal bicycle with the best overall coherence. Generally, quality improves moving right across models and down through quality tiers, though \"medium\" is inconsistently worse than \"low\" for some models, and all images maintain a lighthearted cartoon style with pastel skies and simple backgrounds.](https://static.simonwillison.net/static/2026/gpt-5.4-pelican-family.svg)",
+        "url": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-17T19:39:17.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)",
+        "summary": "<think>The user wants me to summarize an article titled \"Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)\". However, I need to be careful here - this appears to be a fictional future article dated March 17, 2026. The content discusses William Gibson's famous quote \"The street finds its own uses for things\" and its implications for technopolitics.\n\nLet me analyze what the article is actually about:\n\n1. The main topic is William Gibson's quote \"The street finds its own uses for things\"\n2. It contrasts this with Margaret Thatcher (though the article seems to be more about Gibson's philosophy than a direct \"vs\")\n3. The key argument is that this quote represents a liberatory view of technology politics\n4. It argues that users can repurpose technology for different purposes than intended by corporations\n5. It contrasts this with Audre Lorde's famous quote about \"the master's tools\"\n6. The article suggests that technology's politics are mutable and can be repurposed\n\nThe article appears to be incomplete (it cuts off mid-sentence), but I can summarize what's presented.\n\nI need to write a 100-200 word summary focusing on key points and main takeaways. The summary should be concise and informative.\n\nLet me write this summary:\n</think>\n\n## Summary\n\nThis article explores William Gibson's famous quote \"The street finds its own uses for things\" as a framework for understanding technopolitics. The piece argues that this statement represents a powerful, liberatory claim by technology users that exists independently from corporate intentions. Gibson's observation acknowledges that politics are embedded in technology—the \"blood in the machine\"—but emphasizes that these politics are neither simple nor fixed. The article positions this philosophy as a counterpoint to Audre Lorde's assertion that \"the master's tools will never dismantle the master's house,\" instead arguing that the master's tools can indeed dismantle the master's house and build something better. The core message is that technologies born under exploitative conditions can still be repurposed for virtuous ends, as user innovation often diverges dramatically from corporate vision. This perspective celebrates the agency of everyday people in reshaping technology to serve their own needs.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/17Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/17/technopolitics/)\n\n## Today's links\n\n- [William Gibson vs Margaret Thatcher](https://pluralistic.net/2026/03/17/technopolitics/#original-sin): The Street Finds Its Own Alternatives For Things.\n\n- [Hey look at this](https://pluralistic.net/2026/03/17/technopolitics/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/17/technopolitics/#retro): Prison for spamming; Dotcom layoffs; Ethernet action-figures; UK libel reform; \"Poe's Detective\"; God's customer service center; \"Making Hay\"; Alexa privacy Valdez.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/17/technopolitics/#upcoming): Where to find me.\n\n- [Recent appearances](https://pluralistic.net/2026/03/17/technopolitics/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/17/technopolitics/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/17/technopolitics/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/17/technopolitics/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/gibson-v-thatcher.jpg?w=840&ssl=1)\n\n## William Gibson vs Margaret Thatcher ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#original-sin))\n\nWilliam Gibson is one of history's most quotable sf writers: \"The future is here, it's not evenly distributed\"; \"Don't let the little fuckers generation-gap you\"; \"Cyberspace is everting\"; and the immortal: \"The street finds its own uses for things\":\n\n[https://en.wikiquote.org/wiki/William_Gibson](https://en.wikiquote.org/wiki/William_Gibson)\n\n\"The street finds its own uses\" is a surprisingly subtle and liberatory battle-cry. It stakes a claim by technology's *users* that is separate from the claims asserted by corporations that make technology (often under grotesque and cruel conditions) and market it (often for grotesque and cruel purposes).\n\n\"The street finds its own uses\" is a statement about technopolitics. It acknowledges that yes, there *are* politics embedded in our technology, the blood in the machine, but these politics are neither simple, *nor are they immutable*. The fact that a technology was born in sin does not preclude it from being put to virtuous ends. A technology's politics are up for grabs.\n\nIn other words, it's the opposite of Audre Lorde's \"The master's tools will never dismantle the master's house.\" It's an assertion that, in fact, the master's tools have all the driver-bits, hex-keys, and socket sets needed to completely dismantle the master's house, and, moreover, to build something better with the resulting pile of materials.\n\nAnd of *course* the street finds its own uses for things. Things – technology – don't appear out of nowhere. Everything is in a lineage, made from the things that came before it, destined to be transformed by the things that come later. Things can't come into existence until other things already exist.\n\nTake the helicopter. Lots of people have observed the action of a screw and the twirling of a maple key as it falls from a tree and thought, *perhaps that could be made to fly*. Da Vinci was drawing helicopters in the 15th century:\n\n[https://en.wikipedia.org/wiki/Leonardo%27s_aerial_screw](https://en.wikipedia.org/wiki/Leonardo%27s_aerial_screw)\n\nBut Da Vinci couldn't build a helicopter. No one could, until they did. To make the first helicopter, you need to observe the action of the screw and the twirling of a maple key, *and* you need to have lightweight, strong alloys and powerful internal combustion engines.\n\nThose other things had to be invented by other people first. Once they were, the next person who thought hard about screws and maple keys was bound to get a helicopter off the ground. That's why things tend to be invented simultaneously, by unrelated parties.\n\nTV, radio and the telephone all have multiple inventors, because these people were the cohort that happened to alight upon the insights needed to build these technologies *after* the adjacent technologies had been made and disseminated.\n\nIf technopolitics were immutable – if the original sin of a technology could never be washed away – then *everything* is beyond redemption. Somewhere in the history of the lever, the pulley and the wheel are some absolute *monsters*. Your bicycle's bloodline includes some truly horrible ancestors. The computer is practically a crime against humanity:\n\n[https://pluralistic.net/2021/10/24/the-traitorous-eight-and-the-battle-of-germanium-valley/](https://pluralistic.net/2021/10/24/the-traitorous-eight-and-the-battle-of-germanium-valley/)\n\nA defining characteristic of purity culture is the belief that things are defined by their origins. An artist who was personally terrible must make terrible art – even if that art succeeds *artistically*, even if it moves, comforts and inspires you, it can't ever be separated from the politics of its maker. It is terrible because of its origins, not its merits. If you hate the sinner, you must also hate the sin.\n\n\"The street finds its own uses\" counsels us to hate the sinner and *love* the sin. The indisputable fact that HP Lovecraft was a racist creep is not a reason to write off Cthulhoid mythos – it's a reason to claim and refashion them:\n\n[https://pluralistic.net/2021/01/09/the-old-crow-is-getting-slow/#i-love-ny](https://pluralistic.net/2021/01/09/the-old-crow-is-getting-slow/#i-love-ny)\n\nThe claim that sin is a kind of forever-chemical contaminant that can't ever be rinsed away is the ideology of Mr Gotcha:\n\n> \n> We should improve society somewhat.\n\n>   Yet you participate in society. Curious!\n> \n\n[https://thenib.com/mister-gotcha/](https://thenib.com/mister-gotcha/)\n\nIn its right-wing form, it is Margaret Thatcher's \"There is no alternative\":\n\n[https://pluralistic.net/2024/10/15/piketty-pilled/#tax-justice](https://pluralistic.net/2024/10/15/piketty-pilled/#tax-justice)\n\nThatcher demanded that you accept all the injustices and oppressions of capitalism if you enjoyed its fruits. If capitalism put a roof over your head and groceries in your fridge, you can't complain about the people it hurts. There is no version of society that has the machines and practices that produced those things that does not also produce the injustice.\n\nThe technological version of this is the one that tech bosses peddle: If you enjoy talking to your friends on Facebook, you can't complain about Mark Zuckerberg listening in on the conversation. There is no alternative. Wanting to talk to your friends out of Zuck's earshot is like wanting water that's not wet. It's unreasonable.\n\nBut there's a left version of this, its doppelganger: the belief that a technology born in sin can never be redeemed. If you use an LLM running on your computer to find a typo, using an unmeasurably small amount of electricity in the process, you still sin – not because of anything that happens when you use that LLM, but because of LLMs' \"structural properties,\" \"the way they make it harder to learn and grow,\" \"the way they make products worse,\" the \"emissions, water use and e-waste\":\n\n[https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/](https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/)\n\nThe facts that finding punctuation errors in your own work using your own computer doesn't make it \"harder to learn and grow,\" doesn't \"make products worse,\" and doesn't add to \"emissions, water use and e-waste\" are irrelevant. The part that matters isn't the use of a technology, it's the *origin*.\n\nThe fact that this technology is steeped in indisputable sin means that every use of it is sinful. The street can find as many uses as it likes for things, but it won't matter, because there is no alternative.\n\nWhen radical technologists scheme to liberate technology, they're not hoping to redeem *the gadget*, they're trying to liberate *people*. Information doesn't want to be free, because information doesn't and can't want anything. But *people* want to be free, and liberated access to information technology is a precondition for human liberation itself.\n\nPromethean leftists don't reject the master's tools: we *seize* them. The fact that Unix was born of a convicted monopolist who turned the screws on users at every turn isn't a reason to abandon Unix – it demands that we reverse-engineer, open, and *free* Unix:\n\n[https://pluralistic.net/2025/01/20/capitalist-unrealism/#praxis](https://pluralistic.net/2025/01/20/capitalist-unrealism/#praxis)\n\nWe don't do this out of moral consideration for Unix. Unix is inert, it warrants no moral consideration. But billions of users of free operating systems that are resistant to surveillance and control *are* worthy of moral consideration and we set them free by seizing the means of computation.\n\nIf a technology can do something to further human thriving, then we can love the sin, even as we hate the sinners in its lineage. We seize the means of computation, not because we care about computers, but because we care about *people*.\n\nArtifacts do have politics, but those politics are not immutable. Those politics are ours to seize and refashion:\n\n[https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf](https://faculty.cc.gatech.edu/~beki/cs4001/Winner.pdf)\n\n\"The purpose of a system is what it does\" (S. Beer). The important fact about a technology is what it *does*, not *how it came about*. Does a *use* of a technology harm someone? Does a *use* of a technology harm the environment?\n\nDoes a *use* of a technology help someone do something that improves their life?\n\nStudying the origins of technology is good because it helps us avoid the systems and practices that hurt people. Knowing about the monsters in our technology's lineage helps us avoid repeating their sins. But there will *always* be sin in our technology's past, because our technology's past is the *entire* past, because technology is a lineage, not a gadget. If you reject things because of their origins – and not because of the things they do – then you'll end up rejecting *everything* (if you're honest), or twisting yourself into a series of dead-ends as you rationalize reasons that the exceptions you make out of necessity aren't really exceptions.\n\n(*Image: [Dylan Parker](https://commons.wikimedia.org/wiki/File:Uncle_Gibby.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Gone (Almost) Phishin’ [https://ma.tt/2026/03/gone-almost-phishin/](https://ma.tt/2026/03/gone-almost-phishin/)\n\n- \nThe Foilies 2026 [https://www.eff.org/deeplinks/2026/03/foilies-2026](https://www.eff.org/deeplinks/2026/03/foilies-2026)\n\n- \nWhy Voters Should Support Senator Klobuchar’s ‘‘Antitrust Accountability and Transparency Act’’ [https://www.thesling.org/why-voters-should-support-senator-klobuchars-antitrust-accountability-and-transparency-act/](https://www.thesling.org/why-voters-should-support-senator-klobuchars-antitrust-accountability-and-transparency-act/)\n\n- \nBombshell Document Details Watergate-Style Corruption at the Antitrust Division [https://www.thebignewsletter.com/p/monopoly-round-up-bombshell-document](https://www.thebignewsletter.com/p/monopoly-round-up-bombshell-document)\n\n- \nSodium-ion batteries hit the Midwestern grid in first-of-its-kind pilot [https://electrek.co/2026/03/11/sodium-ion-batteries-hit-the-midwestern-grid-in-first-of-its-kind-pilot](https://electrek.co/2026/03/11/sodium-ion-batteries-hit-the-midwestern-grid-in-first-of-its-kind-pilot) (h/t Slashdot)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#retro))\n\n#25yrsago Prison for spamming [https://it.slashdot.org/story/01/03/15/1325251/spammers-face-jail-time](https://it.slashdot.org/story/01/03/15/1325251/spammers-face-jail-time)\n\n#25yrsago 1040 for laid-off dot com workers [https://web.archive.org/web/20010603113932/http://www.girlchick.com/erin/Pics/DotCom1040.jpg](https://web.archive.org/web/20010603113932/http://www.girlchick.com/erin/Pics/DotCom1040.jpg)\n\n#25yrsago Sony ships a PalmOS device [https://web.archive.org/web/20010331181042/http://www.sony.co.jp/sd/CLIE/index_pc.html](https://web.archive.org/web/20010331181042/http://www.sony.co.jp/sd/CLIE/index_pc.html)\n\n#25yrsago “You Own Your Own Metadata” [https://www.feedmag.com/templates/default_a_id-1648](https://www.feedmag.com/templates/default_a_id-1648)\n\n#20yrsago Action-figures made from Ethernet cable [https://basik.ru/handmade/2066/](https://basik.ru/handmade/2066/)\n\n#15yrsago Poor countries have more piracy because media costs too much — report [https://web.archive.org/web/20110310042425/http://piracy.ssrc.org/the-report/](https://web.archive.org/web/20110310042425/http://piracy.ssrc.org/the-report/)\n\n#15yrsago Bahrain’s royals declare martial law [https://www.theguardian.com/world/2011/mar/15/bahrain-martial-law-protesters-troops](https://www.theguardian.com/world/2011/mar/15/bahrain-martial-law-protesters-troops)\n\n#15yrsago Libel reform in the UK: telling the truth won’t be illegal any longer? [https://www.theguardian.com/media/2011/mar/15/libel-law-reforms](https://www.theguardian.com/media/2011/mar/15/libel-law-reforms)\n\n#15yrsago My weird femur printed in stainless steel [https://www.flickr.com/photos/doctorow/tags/femur](https://www.flickr.com/photos/doctorow/tags/femur)\n\n#15yrsago War on the PC and the network: copyright was just the start [https://www.theguardian.com/technology/2011/mar/15/computers-incorporate-spyware-dangers](https://www.theguardian.com/technology/2011/mar/15/computers-incorporate-spyware-dangers)\n\n#15yrsago Poe’s Detective: audio editions of Poe’s groundbreaking detective stories [https://memex.craphound.com/2011/03/15/poes-detective-audio-editions-of-poes-groundbreaking-detective-stories/](https://memex.craphound.com/2011/03/15/poes-detective-audio-editions-of-poes-groundbreaking-detective-stories/)\n\n#15yrsago New York slashes hospital spending, but can’t touch multimillion-dollar CEO paychecks [https://www.nytimes.com/2011/03/16/nyregion/16about.html?_r=1&amp;hp](https://www.nytimes.com/2011/03/16/nyregion/16about.html?_r=1&amp;hp)\n\n#10yrsago Leaked memo: Donald Trump volunteers banned from critizing him, for life [https://web.archive.org/web/20160315161328/http://www.dailydot.com/politics/donald-trump-volunteer-contract-nda-non-disparagement-clause/](https://web.archive.org/web/20160315161328/http://www.dailydot.com/politics/donald-trump-volunteer-contract-nda-non-disparagement-clause/)\n\n#10yrsago Open letter from virtually every leading UK law light: Snooper’s Charter not fit for purpose [https://www.theguardian.com/law/2016/mar/14/investigatory-powers-bill-not-up-to-the-task](https://www.theguardian.com/law/2016/mar/14/investigatory-powers-bill-not-up-to-the-task)\n\n#10yrsago Life inside God’s customer service prayer call-centre [https://web.archive.org/web/20160317153851/http://www.tor.com/2016/03/15/your-orisons-may-be-recorded/](https://web.archive.org/web/20160317153851/http://www.tor.com/2016/03/15/your-orisons-may-be-recorded/)\n\n#10yrsago The post-Snowden digital divide: the ability to understand and use privacy tools [https://journal.radicallibrarianship.org/index.php/journal/article/view/12/27](https://journal.radicallibrarianship.org/index.php/journal/article/view/12/27)\n\n#10yrsago Some future for you: the radical rise of hope in the UK [https://thebaffler.com/salvos/despair-fatigue-david-graeber](https://thebaffler.com/salvos/despair-fatigue-david-graeber)\n\n#10yrsago America’s universities: Hedge funds saddled with inconvenient educational institutions [https://web.archive.org/web/20160309093147/https://www.thenation.com/article/universities-are-becoming-billion-dollar-hedge-funds-with-schools-attached/](https://web.archive.org/web/20160309093147/https://www.thenation.com/article/universities-are-becoming-billion-dollar-hedge-funds-with-schools-attached/)\n\n#10yrsago Office chairs made out of old Vespa scooters [https://belybel.com/](https://belybel.com/)\n\n#5yrsago STREAMLINER [https://pluralistic.net/2021/03/15/free-markets/#streamliner](https://pluralistic.net/2021/03/15/free-markets/#streamliner)\n\n#5yrsago Free markets [https://pluralistic.net/2021/03/15/free-markets/#rent-seeking](https://pluralistic.net/2021/03/15/free-markets/#rent-seeking)\n\n#5yrsago Making Hay [https://pluralistic.net/2021/03/15/free-markets/#making-hay](https://pluralistic.net/2021/03/15/free-markets/#making-hay)\n\n#1yrago Amazon annihilates Alexa privacy settings, turns on continuous, nonconsensual audio uploading [https://pluralistic.net/2025/03/15/altering-the-deal/#telescreen](https://pluralistic.net/2025/03/15/altering-the-deal/#telescreen)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Barcelona: Enshittification with Simona Levi/Xnet (Llibreria Finestres), Mar 20\n\n[https://www.llibreriafinestres.com/evento/cory-doctorow/](https://www.llibreriafinestres.com/evento/cory-doctorow/)\n\n- \nBerkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/17/technopolitics/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1018 words today, 50532 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/17/technopolitics/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "Tue, 17 Mar 2026 15:07:57 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Subagents",
+        "summary": "<think>The user wants me to summarize an article about subagents in the context of LLMs. Let me analyze the key points:\n\n1. Main topic: Subagents as a solution to LLM context limits\n2. Context limit problem: LLMs have limited context windows (top out around 1,000,000 tokens, best results below 200,000)\n3. What subagents are: A way to handle larger tasks by dispatching a fresh copy of the agent with a new context window\n4. Example: Claude Code's Explore subagent\n5. How it works in practice: Using the example of exploring a Django blog repo\n\nI need to write a concise 100-200 word summary that captures these key points. The article explains the problem (context limits), the solution (subagents), and provides a concrete example (Claude Code's Explore subagent).\n\nLet me write this summary now, keeping it between 100-200 words as requested.\n</think>\n\n**Summary: Subagents**\n\nLLMs face a significant constraint with their context limits—the maximum tokens they can process at once, typically maxing around 1,000,000 with optimal performance below 200,000 tokens. This limitation makes handling complex tasks challenging.\n\nSubagents offer an elegant solution by allowing a parent agent to dispatch a fresh copy of itself to handle specific subtasks. Each subagent receives a new context window starting with a focused prompt, preserving the parent agent's valuable top-level context.\n\nClaude Code demonstrates this pattern effectively through its \"Explore\" subagent. When starting a new task on an existing repository, Claude Code first dispatches a subagent to explore and understand the codebase's structure. The subagent searches for relevant code, templates, and documentation before reporting back with findings. This approach enables the agent to tackle larger projects by breaking them into manageable pieces while maintaining context efficiency.",
+        "content": "LLMs are restricted by their **context limit** - how many tokens they can fit in their working memory at any given time. These values have not increased much over the past two years even as the LLMs themselves have seen dramatic improvements in their abilities - they generally top out at around 1,000,000, and benchmarks frequently report better quality results below 200,000.\n\nCarefully managing the context such that it fits within those limits is critical to getting great results out of a model.\n\n**Subagents** provide a simple but effective way to handle larger tasks without burning through too much of the coding agent’s valuable top-level context.\n\nWhen a coding agent uses a subagent it effectively dispatches a fresh copy of itself to achieve a specified goal, with a new context window that starts with a fresh prompt.\n\n## Claude Code’s Explore subagent\n\nClaude Code uses subagents extensively as part of its standard way of working. Let's use that as an illustrative example.\n\nAny time you start a new task against an existing repo Claude Code first needs to explore that repo to figure out its general shape and find relevant information needed to achieve that task.\n\nIt does this by constructing a prompt and dispatching a subagent to perform that exploration and return a description of what it finds.\n\nI kicked off a Claude Code session with a screenshot of [a page from my guide](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/changes/) and this prompt:\n\n> Make the chapter diffs also show which characters have changed in this diff view with a darker color of red or green for the individually changed segments of text within the line\n\nHere's [the transcript](https://gisthost.github.io/?effbdc564939b88fe5c6299387e217da/index.html) of that session.\n\nClaude Code started by running an “Explore” subagent with the following starter prompt:\n\n> Find the code that implements the diff view for \"chapters\" in this Django blog. I need to find:\n\n> \n> - Templates that render diffs (look for diff-related HTML/CSS with red/green backgrounds)\n\n> - Python code that generates diffs (look for difflib usage or similar)\n\n> - Any JavaScript related to diff rendering\n\n> - CSS styles for the diff view (red/green line backgrounds)\n\n> \n\n> Search thoroughly - check templates/, static/, blog/ directories. Look for keywords like \"diff\", \"chapter\", \"revision\", \"history\", \"compare\".\n\nSubagents work similar to any other tool call: the parent agent dispatches them just as they would any other tool and waits for the response. It's interesting to see models prompt themselves in this way - they generally have good taste in prompting strategies.\n\nThe Explore subagent churned away for a few seconds and returned a response that started like this:\n\n> Perfect! Now let me create a comprehensive summary with all the findings:\n\n> \n> ### Summary: Chapter Diff View Implementation\n> \n> \n> I found the complete implementation of the diff view for chapters in this Django blog. Here are the key components:\n\n> \n> #### 1. **Python Code - Diff Generation** (`/home/user/simonwillisonblog/guides/views.py`, lines 139-202)\n> \n> \n> The `chapter_changes()` view function uses Python's built-in `difflib.unified_diff()` to generate diffs: […]\n\nThe full subagent response included all of the details the parent agent needed in order to start editing the code to address my original request.\n\n## Parallel subagents\n\nThis Explore subagent is the simplest example of how subagents can work, with the parent agent pausing while the subagent runs. The principle advantage of this kind of subagent is that it can work with a fresh context in a way that avoids spending tokens from the parent’s available limit.\n\nSubagents can also provide a significant performance boost by having the parent agent run multiple subagents at the same time, potentially also using faster and cheaper models such as Claude Haiku to accelerate those tasks.\n\nCoding agents that support subagents can use them based on your instructions. Try prompts like this:\n\n`Use subagents to find and update all of the templates that are affected by this change.\n`\nFor tasks that involve editing several files - and where those files are not dependent on each other - this can offer a significant speed boost.\n\n## Specialist subagents\n\nSome coding agents allow subagents to run with further customizations, often in the form of a custom system prompt or custom tools or both, which allow those subagents to take on a different role.\n\nThese roles can cover a variety of useful specialties:\n\n- A **code reviewer** agent can review code and identify bugs, feature gaps or weaknesses in the design.\n\n- A **test runner** agent can run the test. This is particularly worthwhile if your test suite is large and verbose, as the subagent can hide the full test output from the main coding agent and report back with just details of any failures.\n\n- A **debugger** agent can specialize in debugging problems, spending its token allowance reasoning though the codebase and running snippets of code to help isolate steps to reproduce and determine the root cause of a bug.\n\nWhile it can be tempting to go overboard breaking up tasks across dozens of different specialist subagents, it's important to remember that the main value of subagents is in preserving that valuable root context and managing token-heavy operations. Your root coding agent is perfectly capable of debugging or reviewing its own output provided it has the tokens to spare.\n\n## Official documentation\n\nSeveral popular coding agents support subagents, each with their own documentation on how to use them:\n\n- [OpenAI Codex subagents](https://developers.openai.com/codex/subagents/)\n\n- [Claude subagents](https://code.claude.com/docs/en/sub-agents)\n\n- [Gemini CLI subagents](https://geminicli.com/docs/core/subagents/)\n\n- [Mistral Vibe subagents](https://docs.mistral.ai/mistral-vibe/agents-skills#agent-selection)\n\n- [OpenCode agents](https://opencode.ai/docs/agents/)\n\n- [Subagents in Visual Studio Code](https://code.visualstudio.com/docs/copilot/agents/subagents)\n\n- [Cursor Subagents](https://cursor.com/docs/subagents)",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-17T12:32:28.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Samsung Discontinues Its Galaxy Z TriFold After Just Three Months - <think>The user wants me to summarize this article about Samsung discontinuing its Galaxy...",
+    "Quoting Tim Schilling - <think>The user wants me to summarize an article titled \"Quoting Tim Schilling\" dated Marc...",
+    "You Might Debate It — If You Could See It - <think>The user wants me to summarize an article titled \"You Might Debate It — If You Coul...",
+    "Hedley Davis has died - <think>The user wants me to summarize an article about Hedley Davis's death. Let me identi...",
+    "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52 - <think>The user wants me to summarize an article about OpenAI releasing GPT-5.4 mini and G..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 20
+    },
+    {
+      "word": "summary",
+      "count": 15
+    },
+    {
+      "word": "think",
+      "count": 14
+    },
+    {
+      "word": "key",
+      "count": 14
+    },
+    {
+      "word": "gpt-",
+      "count": 13
+    },
+    {
+      "word": "points",
+      "count": 12
+    },
+    {
+      "word": "let",
+      "count": 12
+    },
+    {
+      "word": "tools",
+      "count": 12
+    },
+    {
+      "word": "summarize",
+      "count": 10
+    },
+    {
+      "word": "llms",
+      "count": 10
+    },
+    {
+      "word": "amiga",
+      "count": 10
+    },
+    {
+      "word": "context",
+      "count": 10
+    },
+    {
+      "word": "write",
+      "count": 9
+    },
+    {
+      "word": "django",
+      "count": 9
+    },
+    {
+      "word": "mini",
+      "count": 9
+    },
+    {
+      "word": "nano",
+      "count": 9
+    },
+    {
+      "word": "words",
+      "count": 8
+    },
+    {
+      "word": "samsung",
+      "count": 8
+    },
+    {
+      "word": "user",
+      "count": 8
+    },
+    {
+      "word": "main",
+      "count": 8
+    },
+    {
+      "word": "schilling",
+      "count": 8
+    },
+    {
+      "word": "llm",
+      "count": 8
+    },
+    {
+      "word": "guidelines",
+      "count": 8
+    },
+    {
+      "word": "trifold",
+      "count": 7
+    },
+    {
+      "word": "wants",
+      "count": 7
+    },
+    {
+      "word": "concise",
+      "count": 7
+    },
+    {
+      "word": "debate",
+      "count": 7
+    },
+    {
+      "word": "author",
+      "count": 7
+    },
+    {
+      "word": "subagents",
+      "count": 7
+    },
+    {
+      "word": "months",
+      "count": 6
+    },
+    {
+      "word": "march",
+      "count": 6
+    },
+    {
+      "word": "galaxy",
+      "count": 6
+    },
+    {
+      "word": "work",
+      "count": 6
+    },
+    {
+      "word": "takeaways",
+      "count": 6
+    },
+    {
+      "word": "design",
+      "count": 6
+    },
+    {
+      "word": "tim",
+      "count": 6
+    },
+    {
+      "word": "quote",
+      "count": 6
+    },
+    {
+      "word": "technology",
+      "count": 6
+    },
+    {
+      "word": "davis",
+      "count": 6
+    },
+    {
+      "word": "subagent",
+      "count": 6
+    },
+    {
+      "word": "like",
+      "count": 5
+    },
+    {
+      "word": "informative",
+      "count": 5
+    },
+    {
+      "word": "understanding",
+      "count": 5
+    },
+    {
+      "word": "solution",
+      "count": 5
+    },
+    {
+      "word": "focusing",
+      "count": 5
+    },
+    {
+      "word": "tokens",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "sx-",
+      "count": 5
+    },
+    {
+      "word": "xbox",
+      "count": 5
+    },
+    {
+      "word": "william",
+      "count": 5
+    },
+    {
+      "word": "gibson's",
+      "count": 5
+    },
+    {
+      "word": "master's",
+      "count": 5
+    },
+    {
+      "word": "tone",
+      "count": 4
+    },
+    {
+      "word": "previous",
+      "count": 4
+    },
+    {
+      "word": "fox",
+      "count": 4
+    },
+    {
+      "word": "sports",
+      "count": 4
+    },
+    {
+      "word": "likely",
+      "count": 4
+    },
+    {
+      "word": "code",
+      "count": 4
+    },
+    {
+      "word": "launch",
+      "count": 4
+    },
+    {
+      "word": "users",
+      "count": 4
+    },
+    {
+      "word": "sales",
+      "count": 4
+    },
+    {
+      "word": "korea",
+      "count": 4
+    },
+    {
+      "word": "us",
+      "count": 4
+    },
+    {
+      "word": "sold",
+      "count": 4
+    },
+    {
+      "word": "already",
+      "count": 4
+    },
+    {
+      "word": "appears",
+      "count": 4
+    },
+    {
+      "word": "discontinuation",
+      "count": 4
+    },
+    {
+      "word": "models",
+      "count": 4
+    },
+    {
+      "word": "contributions",
+      "count": 4
+    },
+    {
+      "word": "argues",
+      "count": 4
+    },
+    {
+      "word": "human",
+      "count": 4
+    },
+    {
+      "word": "analyze",
+      "count": 4
+    },
+    {
+      "word": "without",
+      "count": 4
+    },
+    {
+      "word": "generative",
+      "count": 4
+    },
+    {
+      "word": "hedley",
+      "count": 4
+    },
+    {
+      "word": "worked",
+      "count": 4
+    },
+    {
+      "word": "products",
+      "count": 4
+    },
+    {
+      "word": "politics",
+      "count": 4
+    },
+    {
+      "word": "claude",
+      "count": 4
+    },
+    {
+      "word": "explore",
+      "count": 4
+    },
+    {
+      "word": "quoting",
+      "count": 3
+    },
+    {
+      "word": "something",
+      "count": 3
+    },
+    {
+      "word": "row",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "introduced",
+      "count": 3
+    },
+    {
+      "word": "toshiba",
+      "count": 3
+    },
+    {
+      "word": "machine",
+      "count": 3
+    },
+    {
+      "word": "known",
+      "count": 3
+    },
+    {
+      "word": "xr",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "windows",
+      "count": 3
+    },
+    {
+      "word": "limit",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "coding",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "regions",
+      "count": 3
+    },
+    {
+      "word": "processing",
+      "count": 3
+    },
+    {
+      "word": "discontinuing",
+      "count": 3
+    },
+    {
+      "word": "identify",
+      "count": 3
+    },
+    {
+      "word": "price",
+      "count": 3
+    }
+  ]
+}
