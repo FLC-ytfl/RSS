@@ -1,0 +1,847 @@
+{
+  "date": "2026-03-23",
+  "stats": {
+    "total_fetched": 276,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’",
+        "summary": "Here’s a post from 2015, linking to Rene Ritchie, then still at iMore, explaining how iMore found itself serving ever worse (and more reader hostile) ads. Not much has changed regarding the state of web advertising in a...",
+        "url": "https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "2026-03-23T18:09:32.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The HTML Review: Issue 05",
+        "summary": "What a lovely thing to drop amidst my recent consternation over the state of web design. To paraphrase Richard III: A horse, a horse! My kingdom for native app developers with the conviction of the artist-developers in T...",
+        "url": "https://thehtml.review/05/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-03-23T17:40:05.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Set intersection and difference at the command line",
+        "summary": "A few years ago I wrote about comm, a utility that lets you do set theory at the command line. It’s a really useful little program, but it has two drawbacks: the syntax is hard to remember, and the input files must be so...",
+        "url": "https://www.johndcook.com/blog/2026/03/23/intersection-difference/",
+        "source": "John D. Cook",
+        "tags": [
+          "Algorithms",
+          "Systems"
+        ],
+        "published_at": "Mon, 23 Mar 2026 11:39:47 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Starlette 1.0 skill",
+        "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/starlette-1-skill#readme\">Starlette 1.0 skill</a></p> <p>See <a href=\"https://simonwillison.net/2026/Mar/22/starlette/\">Experimenting wi...",
+        "url": "https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-03-23T00:05:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
+        "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Ir...",
+        "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security"
+        ],
+        "published_at": "Mon, 23 Mar 2026 15:43:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Gasoline Prices Around the World",
+        "summary": "I love a single-purpose website like this. (I had no idea gas was so expensive in Hong Kong.) ★",
+        "url": "https://www.globalpetrolprices.com/gasoline_prices/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "2026-03-23T20:48:18.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How can I make sure the anti-malware software doesn’t terminate my custom service?",
+        "summary": "You'll have to ask nicely. The post How can I make sure the anti-malware software doesn’t terminate my custom service? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157",
+        "source": "The Old New Thing",
+        "tags": [
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Mon, 23 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What came after 486?",
+        "summary": "CPUs didn’t have brand names, besides the manufacturer, until the 1990s. They had part numbers and clock speeds. Frequently we shortened the part numbers. The 486’s full part number was 80486. The courts wouldn’t let Int...",
+        "url": "https://dfarq.homeip.net/what-came-after-486/?utm_source=rss&utm_medium=rss&utm_campaign=what-came-after-486",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Hardware",
+          "Other"
+        ],
+        "published_at": "Mon, 23 Mar 2026 11:00:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Markdown Ate The World",
+        "summary": "I have always enjoyed the act of typing words and seeing them come up on screen. While my favorite word processor of all time might be WordPerfect (here), I've used almost all of them. These programs were what sold me on...",
+        "url": "https://matduggan.com/markdown-ate-the-world/",
+        "source": "matduggan.com",
+        "tags": [
+          "Web Dev",
+          "Other"
+        ],
+        "published_at": "Mon, 23 Mar 2026 12:14:44 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Inside Gen 13: how we built our most powerful server yet",
+        "summary": "Cloudflare's Gen 13 servers introduce AMD EPYC™ Turin 9965 processors and a transition to 100 GbE networking to meet growing traffic demands. In this technical deep dive, we explain the engineering rationale behind each...",
+        "url": "https://blog.cloudflare.com/gen13-config/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Hardware",
+          "Cloud",
+          "Systems"
+        ],
+        "published_at": "Mon, 23 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance",
+        "summary": "Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high-core-count AMD EPYC ™ Turin CPUs, we traded large L3 cache for raw compute density. By running o...",
+        "url": "https://blog.cloudflare.com/gen13-launch/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Hardware",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Mon, 23 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hitachi Ltd, Part I",
+        "summary": "Kabushikigaisha Hitachi Seisaku-sho",
+        "url": "https://www.abortretry.fail/p/hitachi-ltd-part-i",
+        "source": "Abort Retry Fail",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 23 Mar 2026 00:14:27 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "AI/ML",
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev",
+          "Algorithms"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Other"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "DevOps"
+        ],
+        "published_at": "2026-03-23T22:21:42.883Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting David Abram",
+        "summary": "\n\n# Summary: Quoting David Abram\n\nDavid Abram reflects on years of software development experience, arguing that the hardest parts of the job have never been typing code. Instead, the true challenges lie in understanding complex systems, debugging mysterious issues, designing scalable architectures, and making strategic decisions that prevent future problems.\n\nWhile LLMs can assist with code suggestions, boilerplate, and occasionally serve as a sounding board, Abram emphasizes their fundamental limitations: they don't truly understand systems, lack persistent context, and cannot determine why a decision is right or wrong. Most critically, they cannot make choices.\n\nThe core message is that the real value in software development comes from knowing what should exist and why—decisions that remain uniquely human responsibilities. Abram concludes that technology hasn't taken anyone's craft; developers have simply surrendered it by focusing on tasks machines can handle rather than the judgment and understanding that makes them valuable.",
+        "content": "23rd March 2026\n\n> I have been doing this for years, and the hardest parts of the job were never about typing out code. I have always struggled most with understanding systems, debugging things that made no sense, designing architectures that wouldn't collapse under heavy load, and making decisions that would save months of pain later.\n\n> None of these problems can be solved LLMs. They can suggest code, help with boilerplate, sometimes can act as a sounding board. But they don't understand the system, they don't carry context in their \"minds\", and they certianly don't know why a decision is right or wrong.\n\n> And the most importantly, they don't choose. That part is still yours. The real work of software development, the part that makes someone valuable, is knowing what should exist in the first place, and why.\n\n— [David Abram](https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/), The machine didn't take your craft. You gave it up.",
+        "url": "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-23T18:56:18.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Beats now have notes",
+        "summary": "\n\n**Summary:**\n\nIn February 2026, Simon Willison introduced \"beats\" to his blog—a feature that aggregates content from external sources and displays it alongside regular posts on his homepage, search results, and archive pages. These beats often outnumber his traditional blog posts. However, they lacked context, appearing as thin links without explanation. Willison has now added the ability to annotate beats with notes, providing richer context for each piece of linked content. The updated display shows beats with descriptive annotations explaining their purpose, as demonstrated on his March 22, 2026 archive page. Additionally, he has updated the site's Atom feed to include any beats that have notes attached, ensuring readers can access this enhanced context through their preferred feed reader.",
+        "content": "23rd March 2026\n\nLast month I [added a feature I call beats](https://simonwillison.net/2026/Feb/20/beats/) to this blog, pulling in some of my other content from [external sources](https://simonwillison.net/elsewhere/) and including it on the homepage, search and various archive pages on the site.\n\nOn any given day these frequently outnumber my regular posts. They were looking a little bit thin and were lacking any form of explanation beyond a link, so I've added the ability to annotate them with a \"note\" which now shows up as part of their display.\n\nHere's what that looks like [for the content I published yesterday](https://simonwillison.net/2026/Mar/22/):\n\n![Screenshot of part of my blog homepage showing four \"beats\" entries from March 22, 2026, each tagged as RESEARCH or TOOL, with titles like \"PCGamer Article Performance Audit\" and \"DNS Lookup\", now annotated with short descriptive notes explaining the context behind each linked item.](https://static.simonwillison.net/static/2026/beats-notes.jpg)\n\nI've also updated the [/atom/everything/](https://simonwillison.net/atom/everything/) Atom feed to include any beats that I've attached notes to.",
+        "url": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-03-23T02:13:13.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WWDC 2026: June 8–12",
+        "summary": "\n\n**Summary: WWDC 2026 Returns June 8-12**\n\nApple's Worldwide Developers Conference will take place June 8-12, 2026, featuring a hybrid format with online accessibility worldwide and an in-person celebration at Apple Park on opening day. The event will highlight AI advancements and new software updates across Apple platforms, along with innovative developer tools and frameworks.\n\nDevelopers can expect the traditional Keynote and Platforms State of the Union on June 8, followed by over 100 video sessions throughout the week. Interactive labs and appointments will provide direct access to Apple engineers and designers for hands-on exploration of new announcements.\n\nThe conference will be accessible via the Apple Developer app, website, YouTube channel, and Bilibili for Chinese developers. Susan Prescott emphasized that WWDC represents a vital opportunity for Apple's global developer community to connect, collaborate, and celebrate innovation together.",
+        "content": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n                    \n                    \n                        PRESS RELEASE\n                    \n                    \n                        March 23, 2026\n                    \n                    \n                \n\n        \n                \n                \n                \n                    \n## \n                        \n    \n        Apple’s Worldwide Developers Conference returns the week of June 8\n    \n\n                    \n\n                \n            \n\n        \n                \n                \n                    Available online around the world, the conference will showcase the latest Apple software and technologies\n                \n            \n\n        \n            \n    \n    \n    \n    \n    \n\n        \n\n    \n\n    \n    \n    \n\n  \n    \n    \n    \n    \n      \n        \n            \n             \n              \n            \n            \n            \n            [](https://www.apple.com/newsroom/images/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/article/Apple-WWDC26-event-branding.zip)\n          \n      \n    \n  \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 **CUPERTINO, CALIFORNIA** Apple today announced it will host its annual Worldwide Developers Conference (WWDC) online from June 8-12, bringing developers together from around the world for a week of connection, exploration, and innovation. In addition to the online experience, developers and students will also have the opportunity to celebrate in person during a special event at Apple Park on June 8.\n\n                 \n             \n                 WWDC26 will spotlight incredible updates for Apple platforms, including AI advancements and exciting new software and developer tools. As part of the company’s ongoing commitment to supporting developers, WWDC will also provide unique access to Apple engineers and designers, and insight into new tools, frameworks, and features.\n\n                 \n             \n                 WWDC kicks off with the Keynote and Platforms State of the Union on Monday, June 8. The conference continues online all week with over 100 video sessions and interactive group labs and appointments, where developers can connect directly with Apple engineers and designers to explore the latest announcements. The conference will take place on the [Apple Developer app](https://apps.apple.com/us/app/apple-developer/id640199958), [website](https://developer.apple.com/), and [YouTube channel](https://www.youtube.com/@AppleDeveloper/); and on the [Apple Developer bilibili channel](https://space.bilibili.com/429911174) in China.\n\n                 \n             \n                 “WWDC is one of the most exciting times for us at Apple because it’s a chance for our incredible global developer community to come together for an electrifying week that celebrates technology, innovation, and collaboration,” said Susan Prescott, Apple’s vice president of Worldwide Developer Relations. “We can’t wait to see many of you online and in person for what is sure to be one of our best WWDC events yet.”\n\n                 \n             \n                 The special in-person event at Apple Park on June 8 will offer developers and students the opportunity to watch the Keynote and the Platforms State of the Union, meet with Apple engineers and designers, take part in special labs and activities, and connect with the worldwide developer community. Space will be limited; details on how to submit a request to attend can be found on the [Apple Developer website](https://developer.apple.com/).\n\n                 \n             \n                 Apple is proud to support student developers through the Swift Student Challenge, one of many Apple programs that uplift the next generation of entrepreneurs, coders, and designers. This year’s winning students will be notified on Thursday, March 26, and will be eligible to request to attend the special event at Apple Park. In addition, 50 Distinguished Winners will be recognized for their outstanding submissions and invited to Cupertino for a three-day experience.\n\n                 \n             \n                 Apple will share additional conference information in advance of WWDC through the [Apple Developer app](https://apps.apple.com/us/app/apple-developer/id640199958), [website](https://developer.apple.com/), and [YouTube channel](https://www.youtube.com/@AppleDeveloper/). Developers can also follow the conference worldwide on [LinkedIn](https://www.linkedin.com/showcase/appledeveloper/posts/?feedView=all) and [WeChat](https://mp.weixin.qq.com/s/slhQ1RBYUpJ71gwEUlwSTg), and on [bilibili](https://space.bilibili.com/429911174) in China.\n\n                 \n             \n         \n \n\n    \n    \n    \n\n    \n    \n        \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n\n    \n    \n    \n\n    \n\n\t\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t\n\t\t\n\n            Stay up to date with the latest articles from Apple Newsroom.",
+        "url": "https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "2026-03-23T18:20:04.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Pancake Discussion",
+        "summary": "\n\n**Summary: The Pancake Discussion**\n\nThis article uses pancake-making as a metaphor for social media discourse. The author describes pancakes as quick, easy, and messy—requiring minimal thought but leaving a significant cleanup. Similarly, online discussions have become flat and uniform, with takes that all look alike.\n\nThe author argues that topics like AI and politics have become overly polarized, drowning out nuanced perspectives. Short, quick reactions dominate while thoughtful arguments struggle to be heard. The ease of posting brief takedowns has replaced substantive discourse.\n\nThe author contrasts this with blogging, which allows for varying depths of engagement—from quick posts to extensively researched pieces. Blogs can offer arguments with \"different shapes\" rather than the uniform disc of a pancake.\n\nThe piece closes with interest in the AT Protocol as a potential solution, suggesting hope for platforms that support more varied and substantive discussions beyond the character-limited, homogenized content that dominates current social networks.",
+        "content": "**Pancakes are not my favorite thing to make.** They require me to make a messy, gloppy mixture of wheat, milk, and eggs. They come out imperfectly every time. And when you’re done with them, you’ve created a bunch of heavy, saggy discs. (However, not floppy disks.)\n\nBut they can be made quickly, and by the thousands. There’s a reason why greasy spoons the world over specialize in pancakes: Anyone can make them, and they can do so quickly, without too much thought.\n\nBut they leave a hell of a mess behind. (Especially after the syrup gets involved. God, the syrup. There’s so much of it, and little of it actually gets sopped up by the bread discs you made yourself.)\n\nSure, you can automate the process—I hear there are frozen pancakes, in case you like your frisbees to melt into food—but nothing is quite like making pancakes yourself.\n\nJust one problem. When everyone does it, all pancakes look the same, they’re greasy, eating them makes you tired and bloated, and it’s hard not to want to grab a yogurt or something instead.\n\nMy wife loves them though, so I make them frequently.\n\n![MiniPancakes.jpg](https://proxy.tedium.co/9TGXi2J0wo4ILV9oKrJ3aXewpOY=/800x534/filters:quality(80)/uploads/MiniPancakes.jpg)So many hot take … er ’cakes. (photos via [DepositPhotos.com](https://depositphotos.com/))\n### When Everything Feels Flat\n\nThis is a pretty good metaphor for why some describe the discussion on social networks as being flat at times. AI is the natural example of this: It’s either love it or hate it. (And don’t take that to mean I want a bunch of pro-AI content in my feed. It’s very possible to argue against AI really well, as [Ed Zitron](https://www.wheresyoured.at/) frequently does in some of the longest blog posts I’ve ever seen.)\n\nPolitics are another, and that often leads to the most polarized takes dominating the discussion. Nuanced takes are hard to come by, and if you do make one, it’s most certainly going be drowned out by every other pancake in the stack.\n\nEvery take has a beginning and end, and then you throw another one on the griddle. Most end up a little burnt. Occasionally one slides off the pan, as a work of art.\n\nBut most of the time, pancakes fall over themselves, one flat discussion point after another. It’s easier to spit out a ten-word takedown of someone’s bad take than to offer real nuance as a discussion point.\n\nWhich is why I love blogs. Rather than offering up little discs of information that can be created quickly and digested slowly, you can spend as long or as short a time as you want on them. You can put a mere 30 minutes into them; you can put in 30 days. You can do as much or as little research as you want, and you can lay out an argument with a far different shape than your average pancake.\n\nIn many ways, that’s kind of why I’m keeping an eye on the AT Protocol, which is just starting to get good. That will help to make room for more colors and shapes than the 300ish characters you see on Bluesky.\n\n![KagiSmallWebExample.png](https://proxy.tedium.co/yz2XfftFKfuAhsAH_GizTvVINYs=/915x607/filters:quality(80)/uploads/KagiSmallWebExample.png)An example of Kagi Small Web, highlighting the work of [Alex Leighton](https://alexleighton.com/posts/2026-03-18-the-frustrating-web.html).\n### Pancakes: Not The Only Thing On The Menu\n\n**Recently, I’ve found myself** clicking through Kagi’s [Small Web](https://kagi.com/smallweb/) interface. It’s effectively the same concept as Stumbleupon, except more focused on helping you find interesting voices and actual blogs.\n\nI was excited when I found it.\n\nThey lead to the kinds of posts that social media would never let go viral on their own but are nonetheless super-interesting. A few examples I found with a little searching:\n\n- **[This piece by Max Mautner](https://maxmautner.com/2026/03/17/why-i-do-not-drive.html)** on his decision to not own a car.\n- **This project by Bogdan Buduroiu** to go on an “[AI lent](https://buduroiu.com/blog/announcing-ai-lent/),” where he goes 40 days without using AI to code.\n- **A tale about how Brad Frost,** a web designer, [used AI to redesign his website](https://bradfrost.com/blog/post/i-redesigned-my-website-without-touching-my-keyboard-all-while-painting-a-mural/)*while* working on a mural in his bathroom, not touching his keyboard at all.\n- **A post from [Nathan Vass](https://www.nathanvass.com/blog/the-swagger-i-love-thoughts-on-my-fellow-operators),** a bus driver/writer/director who loves driving a bus as much as he does shooting a film.\n- **A list of [bespoke shoemakers](https://www.permanentstyle.com/2026/03/the-shoemakers-i-have-known.html)** from Permanent Style, a men’s fashion blog. I don’t care about shoes or men’s fashion, but I do care about bespoke shoemakers.\n\nThere are gaps. I did not see a lot of women or much in the way of Black culture in these posts, for example. (I did spot a post titled “[6 Ways to Make the Cheese World More Inclusive](https://www.cheeseprofessor.com/blog/cheese-world-inclusive-diversity),” but that’s only after I narrowed in on food.) Many authors kind of looked like me—a middle-aged white dude who has been blogging half his life. That’s super-unfortunate, and I wonder if the push towards social platforms has meant that blogs have lost some of their diversity as folks have moved elsewhere. (But it could also be an effect of its sourcing: Kagi built its initial lists from a number of Hacker News threads, among other places. Fortunately, anyone can add to it [via its GitHub page](https://github.com/kagisearch/smallweb).)\n\nAnd while it doesn’t put it front and center like Google does, Kagi is not afraid of AI, and it’s clear that the skepticism about it that permeates some social media platforms doesn’t necessarily extend to the blogs.\n\nBut Kagi essentially revived blog discovery by bringing back an old idea in a new way. I hope it becomes huge.\n\n### Eating Fewer Pancakes\n\n**I can tell that the interest** in a more primitive form of communication is coming back. My RSS subscriber count recently passed my newsletter subscriber count for the first time—in part because someone put me on a list somewhere and that list went viral.\n\nThat’s honestly the kind of thing I’ve been waiting to happen for a long time. I wrote a post about why I wanted blogging to come back [seven freaking years ago](https://tedium.co/2019/01/01/2019-independent-blogging-trends/).\n\nBut strangely, I find myself struggling to post as much as I used to.\n\nI’ve been trying to figure out why blogging, a medium I absolutely adore and that I’ve dedicated much of my adult life to, has felt so tough to do over the last six months or so. I think the answer, as far as I see it, is that my loosey-goosey experiment in writing when I feel like it has failed.\n\nIt’s not that I don’t feel like it. It’s that it’s too easy to let every other pancake fall on top of the thing I actually care about. The result is a lopsided plate that often feels too overwhelmed to do the thing I originally set out to do.\n\nWith that in mind, it is my hope that I can re-commit to this thing I love by making a pledge I hope to stick to: Tuesday and Thursday evenings, twice a week, starting in April. That’s where Tedium started in 2015, and that’s where it should end back up. If I have something ready to go, I’m going to have to sit on it for a couple of days. If I don’t, I’m going to have to live with that pressure. I’m the kind of guy who works best with a deadline. My problem is that, by removing that deadline, I find it easier to let other things dominate.\n\nAnd that might mean that I post less on other platforms, where I’m just filling up on pancakes anyway. I’ll still post on Bluesky and Mastodon, but it needs to not be the first place I look in the morning.\n\nMaybe I can click through Kagi’s Small Web thing for inspiration instead. As far as I can tell, it’s serving up more than pancakes.\n\n##### Pancake-Free Links\n\n**The new SNL UK** could have been embarrassing, but considering it is a rare example of a U.S. comedy phenomenon hitting British shores (rather than the other way around), I found it solid. [This review](https://www.theguardian.com/culture/2026/mar/22/saturday-night-live-uk-review-it-didnt-fail-and-it-could-have-been-a-lot-worse) sums it up for me.\n\n**It’s not often** that a new video of Steve Jobs surfaces, but [this one](https://www.youtube.com/watch?v=EoM2Y2KO6kU)—from 1999, around the launch of the original iBook, is nice because it captures a version of Jobs not talking to the public, but his team.\n\n**Marc Andreessen,** a man who could have stopped working in 1998, claims that he doesn’t get introspective. [That explains a lot](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie).\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/03/23/social-media-flat-discussion/)! And back at it soon—thanks again!\n\nAnd thanks to our pals at [la machine](https://la-machine.fr/?utm_source=newsletter&utm_medium=email&utm_campaign=tedium), a device that is very much not a pancake.",
+        "url": "https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-23T13:17:36.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
+        "summary": "\n\n# Summary: Understaffing as a Form of Enshittification\n\nThis article explores how understaffing represents a systematic extraction of value from workers, patients, and shoppers toward investors. The author explains that enshittification occurs when companies can freely shift value, a process digital tools have amplified through \"twiddling\"—using surveillance data to adjust prices and wages at granular levels based on what users will accept.\n\nThis mechanism allows businesses to extract more from vulnerable stakeholders while reserving fair treatment for those with alternatives who might leave. However, the author notes this practice predates digitization; businesses have long exploited their position when consequences are absent, citing overpriced airport water as a pre-digital example.\n\nThe piece argues that understaffing functions similarly: companies reduce labor costs by maintaining minimal staffing, degrading service quality while increasing profits for shareholders. This systematic value transfer exploits both workers, who bear increased workloads, and customers, who receive diminished experiences—demonstrating how enshittification extends beyond digital platforms into fundamental business operations.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/23Mar2026a.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/23/nobodys-home/)\n\n## Today's links\n\n- [Understaffing as a form of enshittification](https://pluralistic.net/2026/03/23/nobodys-home/#squeeze-that-hog): A way to shift value from workers, patients and shoppers to investors.\n\n- [Hey look at this](https://pluralistic.net/2026/03/23/nobodys-home/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/23/nobodys-home/#retro): Marvel v \"superhero\"; What's a photocopier?; \"Up Against It\"; \"Medusa's Web\"; AI can't do your job; Coping with plenty; \"The Shakedown\"; Chickenized reverse-centaurs; France v iTunes; Copyfight discipline; Mystery lobbyists; \"Where the Axe is Buried\"; Free/open microprocessor; Folk models of computer security; Bug-eyed steampunk mask; Academics embracing Wikipedia.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/23/nobodys-home/#upcoming): Berkeley, Montreal, London, Berlin, Hay-on-Wye.\n\n- [Recent appearances](https://pluralistic.net/2026/03/23/nobodys-home/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/23/nobodys-home/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/23/nobodys-home/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/23/nobodys-home/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/undrstaffing.jpg?w=840&ssl=1)\n\n## Understaffing as a form of enshittification ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#squeeze-that-hog))\n\nAt root, enshittification can only take place when companies can move value around. Digital tools make it easier than ever to do this, for example, by changing prices on a per-user, per-session basis, using commercial surveillance data to predict the highest price or lowest wage a user will accept:\n\n[https://pluralistic.net/2023/02/19/twiddler/](https://pluralistic.net/2023/02/19/twiddler/)\n\nDigital \"twiddling\" represents a powerful system of pumps for moving value around, taking it away from users and giving it to business customers, then taking it from businesses and giving it to users, and then, ultimately, harvesting all the value for the company's shareholders and executives.\n\nTwiddling is powerful because it's fine-grained, allowing businesses to extract more from their most vulnerable customers and workers, while reserving more equitable treatment for more empowered stakeholders who might otherwise take their business elsewhere.\n\nBut long before digitization made twiddling possible, businesses that found themselves in a position to make things worse for their customers and workers without facing consequences were accustomed to doing so. Think of the airport shop that sells water for $10/bottle: that's a ripoff whether you're in coach-minus or flying first class, and it's made possible by the TSA checkpoint that makes shopping elsewhere a time-consuming impossibility.\n\nThe airport shop is the only game in town – a \"monopolist\" in economics jargon. When a business has something you really want (or even better, something you *need*) and it's hard (or impossible) for you to get it elsewhere, they can take value away from you and harvest it for themselves.\n\nThe most obvious forms of monopoly extraction are high prices and low wages. Dollar stores are notorious for this, using their market power to procure extremely small packages of common goods in \"cheater sizes\" that have high per-unit costs (e.g. the cost per ounce for soap), while still having a low price tag (the cost per (small) bottle of soap). These stores are situated in food deserts, which they create by boxing in community grocers and heavily discounting their wares until the real grocers go out of business. They're also situated in *work* deserts, because driving regular grocers out of business destroys the competition for labor, too. That means they can pay low wages and charge high prices and make a hell of a lot of money, which is why there are so many fucking dollar stores:\n\n[https://pluralistic.net/2023/03/27/walmarts-jackals/#cheater-sizes](https://pluralistic.net/2023/03/27/walmarts-jackals/#cheater-sizes)\n\nThat's the most obvious form of value harvesting, but it's not the only one. There are other costs that businesses can impose on their customers and workers. Think of CVS, the pharmacy monopolist that uses its vertical integration with bizarre, poorly understood middlemen like \"pharmacy benefit managers\" to drive independent pharmacies out of business:\n\n[https://pluralistic.net/2024/09/23/shield-of-boringness/#some-men-rob-you-with-a-fountain-pen](https://pluralistic.net/2024/09/23/shield-of-boringness/#some-men-rob-you-with-a-fountain-pen)\n\nIf you've been to a CVS store recently, you have doubtless experienced a powerful form of value-shifting: *understaffing*. CVS (and the other massive chains in the cartel, like Walgreens) have giant stores with just one or two employees on the floor, often just a cashier and a pharmacist.\n\nThis makes them easy pickings for shoplifters, so all their merchandise is locked up in cabinets and when you want to buy something, you have to find the lone employee and get them to unlock the case for you. This is CVS trading your time for their wage-bill.\n\nThen, you're expected to check out your own purchases – shifting labor from workers on CVS's payroll to you – with badly maintained machines that often misfire and require you to wait again for that lone employee to come and override them.\n\nMeanwhile, that employee is absorbing a gigantic amount of frustration and abuse from customers who are paying high prices and enduring long waits – another cost that CVS shifts from their shareholders to someone else (workers, in this case).\n\nFinally, CVS demands that publicly funded police respond to the inevitable shoplifting and other security problems created by running a big-box store with a skeleton crew, shifting costs from the business to *everyone* in the local tax-base.\n\nIn \"Not Enough Workers For the Job,\" *The American Prospect's* Robin Kaiser-Schatzlein looks at the systemic trend towards understaffing that has swept across every sector of the US economy over the past five years:\n\n[https://prospect.org/2026/03/19/understaff-workplace-business-covid-cvs-pharmacies-hotels-grocery-stores/](https://prospect.org/2026/03/19/understaff-workplace-business-covid-cvs-pharmacies-hotels-grocery-stores/)\n\nKaiser-Schatzlein lays the blame for many of life's frustrations at the feet of this business trend: \"long lines, messy grocery aisles, organized theft, high hotel costs, frequent flight cancellations, deadly medication errors at pharmacies, increased use of medical restraints in nursing homes, and, more generally, a palpable and rising dissatisfaction with work.\"\n\nAs you can see from that list, understaffing affects everyone, from people with the wherewithal to buy a plane ticket to vulnerable elderly people who are literally tied to their beds or drugged into stupors for the last years of their lives.\n\nThere's academic work to support the idea that understaffing is on the rise, like a 2024 Kennedy School survey of 14,000 workers where a majority said that their workplaces are \"always\" or \"often\" understaffed. A 2023 study in the *Journal of Public Health Management and Practice* found that public health institutions need to hire *80%* more workers to be adequately staffed. New York's Mt Sinai hospitals paid a $2m fine in 2024 for understaffing its ERs, as well as oncology and labor units. Another study blames understaffing for the rise of use of antipsychotic \"chemical handcuffs\" in nursing homes:\n\n[https://pubmed.ncbi.nlm.nih.gov/35926573/](https://pubmed.ncbi.nlm.nih.gov/35926573/)\n\nThe hits keep coming: the DoT Inspector General says that 77% of air traffic control is understaffed, with NYC ATC staffed at 54% of the correct level. In Texas, county jails have had to reduce their capacity due to understaffing (they have enough beds, but not enough turnkeys). Understaffing is behind much of the unprecedented union surge, with workers at Starbucks, railroads and elsewhere becoming labor militants due to understaffing. 83% of white-collar millennials say they're doing extra work to make up for vacant positions in their organizations. As Starbucks union organizers can attest, workers need unions if they want to have a hope of forcing their bosses to adequately staff their jobsites, so it's not surprising that understaffing has emerged at a time when union density is at rock bottom.\n\nKaiser-Schatzlein quotes the Kennedy School's Daniel Schneider, who identifies understaffing as a deliberate business strategy. Businesses don't hire enough workers because that makes them more profitable. It's not because \"no one wants to work anymore\" (though doubtless repeating that fairy tale helps shift the blame for long lines and poor service from real, greedy bosses to imaginary, greedy workers).\n\nPrivate equity firms lead the charge here, \"rolling up\" multiple, competing businesses in a sector and then cutting staffing across all of them. Putting all the businesses in a given sector and region under common ownership means that when these businesses hack away at staffing levels, workers and customers have nowhere else to go. This is especially pernicious at nursing homes, where PE companies drastically reduce headcount, putting staff and patients alike at risk:\n\n[https://www.npr.org/sections/health-shots/2023/01/31/1139783599/new-york-nursing-home-owners-drained-cash?ft=nprml&amp;f=853198417](https://www.npr.org/sections/health-shots/2023/01/31/1139783599/new-york-nursing-home-owners-drained-cash?ft=nprml&amp;f=853198417)\n\nPrivate equity has just about declared victory in its decades-long war on community pharmacies, consolidating pharmacy ownership nationwide into just a few chains that are the poster-children for understaffing. These ghost-ships aren't just frustrating places to shop – they're a danger to their communities. As Kaiser-Schatzlein reports, Ohio fined CVS in 2021 for boarding up the walk-up pharmacies in its stores and forcing customers to use the drive-through, because there was only a single pharmacist on duty.\n\nWithout help, the lone pharmacist was unable to process deliveries, so CVS pharmacies' floors were littered with unopened parcels. Patients had to wait *over a month* to get their prescriptions filled. CVS refused to hire additional staff to process the backlog, and the on-duty staff worked under declining conditions, as the undermaintained air conditioning quit and indoor temperatures soared. Unsurprisingly, these stores had massive staff turnover, which also hampered their efficiency.\n\nUnderstaffing in pharmacies leads to serious medication errors, which are proliferating across the US, killing hundreds of thousands of Americans every year. The errors are incredible, like the woman who died after getting chemotherapy drugs instead of antidepressants:\n\n[https://www.nytimes.com/2020/01/31/health/pharmacists-medication-errors.html](https://www.nytimes.com/2020/01/31/health/pharmacists-medication-errors.html)\n\nPharmacists at chain stores like CVS are at elevated risk for kidney stones because they don't have time for bathroom breaks, so they adopt a practice of not drinking water during their shifts. One CVS pharmacist told Texas regulators, \"I am a danger to the public working for CVS.\"\n\nAs ever, covid provides the ideal excuse for shifting value from customers and workers to shareholders. Today's high prices never came down after the \"greedflation\" that bosses boasted about to shareholders, even as they told customers that it was because of \"supply chain shocks\":\n\n[https://pluralistic.net/2023/03/11/price-over-volume/#pepsi-pricing-power](https://pluralistic.net/2023/03/11/price-over-volume/#pepsi-pricing-power)\n\nLikewise, staffing levels never came back from the covid skeleton crews that we all learned to deal with in the days of widespread acute illness and social distancing. Kaiser-Schatzlein spoke to hotel workers like Jianci Liang, a housekeeper at Boston's Hilton Park Plaza, who described a post-pandemic jobsite with 20 fewer housekeepers: \"I sleep with pain, I wake up with pain, I go to work with pain.\" The Bureau of Labor says that hotel staffing levels are down 16% nationwide.\n\nPrices (and profits) are up, though. Hotels are posting record profits and paying record executive salaries, wrung from facilities where the pools are closed and room cleanings happen on alternate days.\n\nWorkers absorb the cost of understaffing in their bodies and their psyches. It's not just physical exhaustion, it's also the abuse that is directly correlated with lower staffing levels. Frustrated customers vent their anger at grocery workers, flight attendants and other front-line workers.\n\nI can't help but see a connection here to the AI bubble, which is fueled by the fantasy of a world without people:\n\n[https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)\n\nThe billionaire solipsists who have directed hundreds of billions of dollars in AI investment like to rhapsodize about a future where a boss's ideas are turned into products and services without having to be funneled through workers:\n\n[https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism](https://pluralistic.net/2026/03/12/normal-technology/#bubble-exceptionalism)\n\nThat's why AI has taken over customer service – the multi-hour waits for a customer service rep were always a way of shifting value from customers and workers to shareholders. Businesses *could* increase staffing at their call centers. Businesses *could* offer better products and services and reduce the number of people who need customer service. By refusing to do either, they make *you* wait on the line until you are suffused with murderous rage, and then expect their workers to deal with your anger. Turning the whole thing over to AI makes perfect sense – your problems won't be solved, and they don't have to pay the chatbot at all when you get angry at it:\n\n[https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice](https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice)\n\n\"We did this with AI\" has become a synonym for \"We don't care if this is done well\":\n\n[https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#autoplay-videos](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/#autoplay-videos)\n\n\"We don't care if this is done well\" could well be the motto of the understaffing craze. The technical insights that sparked today's AI investment bubble could have happened at any time, but the ensuing investment tsunami is a product of a world dominated by large firms that are \"too big to care\" about the quality of their products – *or* their jobs.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Our algorithmic future – Utopia or Armageddon? [https://b2fxxx.blogspot.com/2026/03/our-algorithmic-future-utopia-or.html](https://b2fxxx.blogspot.com/2026/03/our-algorithmic-future-utopia-or.html)\n\n- \nThe Market Definition Trap [https://lpeproject.org/blog/the-market-definition-trap/](https://lpeproject.org/blog/the-market-definition-trap/)\n\n- \nOn Spec 2026: New Canadian Literature of the Fantastic [https://www.kickstarter.com/projects/edwardwillett/on-spec-2026-new-canadian-literature-of-the-fantastic](https://www.kickstarter.com/projects/edwardwillett/on-spec-2026-new-canadian-literature-of-the-fantastic)\n\n- \nDay 7: Ticketmaster's \"Velvet Hammer\" [https://www.bigtechontrial.com/p/day-7-ticketmasters-velvet-hammer](https://www.bigtechontrial.com/p/day-7-ticketmasters-velvet-hammer)\n\n- \nFrom Race to the Bottom to Worker Power on the Road [https://economicpopulist.substack.com/p/from-race-to-the-bottom-to-worker](https://economicpopulist.substack.com/p/from-race-to-the-bottom-to-worker)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#retro))\n\n#20yrsago Marvel Comics: stealing our language [https://memex.craphound.com/2006/03/18/marvel-comics-stealing-our-language/](https://memex.craphound.com/2006/03/18/marvel-comics-stealing-our-language/)\n\n#20yrsago MPAA/RIAA/BSA: No breaking DRM, even if it’s killing you (literally!) [https://blog.citp.princeton.edu/2006/03/08/riaa-says-future-drm-might-threaten-critical-infrastructure-and-potentially-endanger-liv/](https://blog.citp.princeton.edu/2006/03/08/riaa-says-future-drm-might-threaten-critical-infrastructure-and-potentially-endanger-liv/)\n\n#20yrsago Coping with plenty – stuff gets cheaper, space gets pricier [https://www.theguardian.com/business/2006/feb/28/retail.shopping](https://www.theguardian.com/business/2006/feb/28/retail.shopping)\n\n#20yrsago France will let Microsoft play iTunes [http://news.bbc.co.uk/2/hi/technology/4828296.stm](http://news.bbc.co.uk/2/hi/technology/4828296.stm)\n\n#20yrsago A new discipline to describe the copyfight [https://web.archive.org/web/20060422010702/https://www.nyu.edu/classes/siva/archives/002930.html](https://web.archive.org/web/20060422010702/https://www.nyu.edu/classes/siva/archives/002930.html)\n\n#20yrsago Right-wing think-tank hates DRM [https://www.cato.org/policy-analysis/circumventing-competition-perverse-consequences-digital-millennium-copyright-act#](https://www.cato.org/policy-analysis/circumventing-competition-perverse-consequences-digital-millennium-copyright-act#)\n\n#20yrsago Reasons to take math in high school [https://web.archive.org/web/20060610134055/http://www.acm.org/ubiquity/views/v7i11_math.html](https://web.archive.org/web/20060610134055/http://www.acm.org/ubiquity/views/v7i11_math.html)\n\n#20yrsago Sun ships free and open microprocessor [https://web.archive.org/web/20060221112756/http://opensparc.sunsource.net/nonav/index.html](https://web.archive.org/web/20060221112756/http://opensparc.sunsource.net/nonav/index.html)\n\n#20yrsago Octavia Butler scholarship will send people of color to Clarion [https://web.archive.org/web/20060406161412/https://carlbrandon.org/butlerscholarship/](https://web.archive.org/web/20060406161412/https://carlbrandon.org/butlerscholarship/)\n\n#20yrsago Online sexual material is obscene if any community in US objects [https://web.archive.org/web/20060505232346/http://www.justicemag.com/daily/item/2590.html](https://web.archive.org/web/20060505232346/http://www.justicemag.com/daily/item/2590.html)\n\n#15yrsago Folk models of home computer security: what we think our PCs are doing [https://rickwash.com/papers/rwash-homesec-soups10-final.pdf](https://rickwash.com/papers/rwash-homesec-soups10-final.pdf)\n\n#15yrsago Fixers’ Collective: people learning to make broken stuff work again [https://www.csmonitor.com/The-Culture/Arts/2011/0321/The-art-of-the-fix-it](https://www.csmonitor.com/The-Culture/Arts/2011/0321/The-art-of-the-fix-it)\n\n#15yrsago Bug-eyed monster steampunk mask [https://bob-basset.livejournal.com/158400.html](https://bob-basset.livejournal.com/158400.html)\n\n#15yrsago Scholars to stop pretending they don’t use Wikipedia; will work out best practices instead [https://www.bbc.com/news/education-12809944](https://www.bbc.com/news/education-12809944)\n\n#15yrsago Electronic publishing Bingo card from John Scalzi [https://whatever.scalzi.com/2011/03/20/the-electronic-publishing-bingo-card/](https://whatever.scalzi.com/2011/03/20/the-electronic-publishing-bingo-card/)\n\n#15yrsago RIP, Mike Glicksohn, Hugo-winning science fiction fan [https://file770.com/mike-glicksohn-1946-2011/](https://file770.com/mike-glicksohn-1946-2011/)\n\n#15yrsago Anti-labor ads celebrate workers taking paycuts and CEOs getting millions [https://www.cogdis.me/2011/03/is-this-what-they-really-want.html](https://www.cogdis.me/2011/03/is-this-what-they-really-want.html)\n\n#15yrsago Reluctant witness refuses to admit he knows what a photocopier is [https://www.cleveland.com/metro/2011/03/identifying_photocopy_machine.html](https://www.cleveland.com/metro/2011/03/identifying_photocopy_machine.html)\n\n#15yrsago Tim Wu in the Guardian [https://www.theguardian.com/technology/2011/mar/17/the-master-switch-tim-wu-internet](https://www.theguardian.com/technology/2011/mar/17/the-master-switch-tim-wu-internet)\n\n#15yrsago Up Against It: smart, whiz-bang space opera pits astro-bureaucrats against rogue AIs [https://memex.craphound.com/2011/03/18/up-against-it-smart-whiz-bang-space-opera-pits-astro-bureaucrats-against-rogue-ais/](https://memex.craphound.com/2011/03/18/up-against-it-smart-whiz-bang-space-opera-pits-astro-bureaucrats-against-rogue-ais/)\n\n#10yrsago Howto: start a fire with a lemon [https://www.youtube.com/watch?v=Bv2vT665bGI](https://www.youtube.com/watch?v=Bv2vT665bGI)\n\n#10yrsago First order of business for hard-right government: canceling Croatia’s answer to The Daily Show [https://balkaninsight.com/2016/03/17/satiric-show-pulled-from-croatian-tv-for-intolerance-03-17-2016/bi/all-balkan-countries/](https://balkaninsight.com/2016/03/17/satiric-show-pulled-from-croatian-tv-for-intolerance-03-17-2016/bi/all-balkan-countries/)\n\n#10yrsago FBI issues car-hacking warning, tells drivers to keep their cars’ patch-levels current [https://www.wired.com/2016/03/fbi-warns-car-hacking-real-risk/](https://www.wired.com/2016/03/fbi-warns-car-hacking-real-risk/)\n\n#10yrsago BART’s twitter manager drops truth-bombs, world cheers [https://gizmodo.com/i-would-like-to-buy-a-drink-for-the-poor-soul-who-ran-t-1765477706](https://gizmodo.com/i-would-like-to-buy-a-drink-for-the-poor-soul-who-ran-t-1765477706)\n\n#10yrsago Chelsea Manning gets the US Army to cough up its “insider threat” training docs [https://www.theguardian.com/commentisfree/2016/mar/18/government-persecuting-whistleblowers-insider-threat-chelsea-manning](https://www.theguardian.com/commentisfree/2016/mar/18/government-persecuting-whistleblowers-insider-threat-chelsea-manning)\n\n#10yrsago Apple engineers quietly discuss refusing to create the FBI’s backdoor [https://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html](https://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html)\n\n#10yrsago Russia moots ban on discussions about VPNs, reverse proxies, and other anti-censorship techniques [https://torrentfreak.com/copyright-holders-want-site-block-circumvention-advice-banned-160319/](https://torrentfreak.com/copyright-holders-want-site-block-circumvention-advice-banned-160319/)\n\n#10yrsago Medusa’s Web: Tim Powers is the Philip K Dick of our age [https://memex.craphound.com/2016/03/18/medusas-web-tim-powers-is-the-philip-k-dick-of-our-age/](https://memex.craphound.com/2016/03/18/medusas-web-tim-powers-is-the-philip-k-dick-of-our-age/)\n\n#10yrsago Meet the Commercial Energy Working Group, a lobby group that won’t say who it lobbies for [https://web.archive.org/web/20160320150011/https://theintercept.com/2016/03/20/mysterious-powerful-lobbying-group-wont-even-say-who-its-lobbying-for/](https://web.archive.org/web/20160320150011/https://theintercept.com/2016/03/20/mysterious-powerful-lobbying-group-wont-even-say-who-its-lobbying-for/)\n\n#5yrsago Support Amazon workers today [https://pluralistic.net/2021/03/20/against-amazon-union-busting/#what-rhymes-with-bezos](https://pluralistic.net/2021/03/20/against-amazon-union-busting/#what-rhymes-with-bezos)\n\n#5yrsago Department of Truth [https://pluralistic.net/2021/03/20/against-amazon-union-busting/#dot](https://pluralistic.net/2021/03/20/against-amazon-union-busting/#dot)\n\n#5yrsago The political possibility of cities [https://pluralistic.net/2021/03/21/ex-urbe/#arcology-politics](https://pluralistic.net/2021/03/21/ex-urbe/#arcology-politics)\n\n#5yrsago Aviation bailout cost $666k/job [https://pluralistic.net/2021/03/18/news-worthy/#aa](https://pluralistic.net/2021/03/18/news-worthy/#aa)\n\n#5yrsago Impunity for NYPD cops who brutalized BLM protesters [https://pluralistic.net/2021/03/18/news-worthy/#nypd-black-and-blue](https://pluralistic.net/2021/03/18/news-worthy/#nypd-black-and-blue)\n\n#5yrsago Help news, not news-barons [https://pluralistic.net/2021/03/18/news-worthy/#big-news](https://pluralistic.net/2021/03/18/news-worthy/#big-news)\n\n#5yrsago Announcing \"The Shakedown\" [https://pluralistic.net/2021/03/19/the-shakedown/#monopsony](https://pluralistic.net/2021/03/19/the-shakedown/#monopsony)\n\n#5yrsago Chickenized reverse-centaurs [https://pluralistic.net/2021/03/19/the-shakedown/#weird-flex](https://pluralistic.net/2021/03/19/the-shakedown/#weird-flex)\n\n#1yrago You can't save an institution by betraying its mission [https://pluralistic.net/2025/03/19/selling-out/#destroy-the-village-to-save-it](https://pluralistic.net/2025/03/19/selling-out/#destroy-the-village-to-save-it)\n\n#1yrago AI can't do your job [https://pluralistic.net/2025/03/18/asbestos-in-the-walls/#government-by-spicy-autocomplete](https://pluralistic.net/2025/03/18/asbestos-in-the-walls/#government-by-spicy-autocomplete)\n\n#1yrago Ray Nayler's \"Where the Axe Is Buried\" [https://pluralistic.net/2025/03/20/birchpunk/#cyberspace-is-everting](https://pluralistic.net/2025/03/20/birchpunk/#cyberspace-is-everting)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Berkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/23/nobodys-home/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America (1034 words today, 54661 total)**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/22/nobodys-home/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 23 Mar 2026 05:54:55 +0000",
+        "reading_time": 20,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting David Abram - # Summary: Quoting David Abram David Abram reflects on years of software development exper...",
+    "Beats now have notes - **Summary:** In February 2026, Simon Willison introduced \"beats\" to his blog—a feature tha...",
+    "WWDC 2026: June 8–12 - **Summary: WWDC 2026 Returns June 8-12** Apple's Worldwide Developers Conference will take...",
+    "The Pancake Discussion - **Summary: The Pancake Discussion** This article uses pancake-making as a metaphor for soc...",
+    "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026) - # Summary: Understaffing as a Form of Enshittification This article explores how understaf..."
+  ],
+  "wordcloud": [
+    {
+      "word": "beats",
+      "count": 6
+    },
+    {
+      "word": "developers",
+      "count": 5
+    },
+    {
+      "word": "software",
+      "count": 5
+    },
+    {
+      "word": "abram",
+      "count": 5
+    },
+    {
+      "word": "summary",
+      "count": 5
+    },
+    {
+      "word": "author",
+      "count": 5
+    },
+    {
+      "word": "part",
+      "count": 4
+    },
+    {
+      "word": "gen",
+      "count": 4
+    },
+    {
+      "word": "context",
+      "count": 4
+    },
+    {
+      "word": "value",
+      "count": 4
+    },
+    {
+      "word": "notes",
+      "count": 4
+    },
+    {
+      "word": "june",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "platforms",
+      "count": 4
+    },
+    {
+      "word": "understaffing",
+      "count": 4
+    },
+    {
+      "word": "enshittification",
+      "count": 4
+    },
+    {
+      "word": "archive",
+      "count": 3
+    },
+    {
+      "word": "state",
+      "count": 3
+    },
+    {
+      "word": "thing",
+      "count": 3
+    },
+    {
+      "word": "starlette",
+      "count": 3
+    },
+    {
+      "word": "skill",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "systems",
+      "count": 3
+    },
+    {
+      "word": "service",
+      "count": 3
+    },
+    {
+      "word": "servers",
+      "count": 3
+    },
+    {
+      "word": "cache",
+      "count": 3
+    },
+    {
+      "word": "compute",
+      "count": 3
+    },
+    {
+      "word": "beyond",
+      "count": 3
+    },
+    {
+      "word": "david",
+      "count": 3
+    },
+    {
+      "word": "content",
+      "count": 3
+    },
+    {
+      "word": "posts",
+      "count": 3
+    },
+    {
+      "word": "piece",
+      "count": 3
+    },
+    {
+      "word": "wwdc",
+      "count": 3
+    },
+    {
+      "word": "developer",
+      "count": 3
+    },
+    {
+      "word": "pancake",
+      "count": 3
+    },
+    {
+      "word": "quick",
+      "count": 3
+    },
+    {
+      "word": "ago",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "imore",
+      "count": 2
+    },
+    {
+      "word": "explaining",
+      "count": 2
+    },
+    {
+      "word": "reader",
+      "count": 2
+    },
+    {
+      "word": "web",
+      "count": 2
+    },
+    {
+      "word": "horse",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "set",
+      "count": 2
+    },
+    {
+      "word": "command",
+      "count": 2
+    },
+    {
+      "word": "line",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "research",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "https",
+      "count": 2
+    },
+    {
+      "word": "mar",
+      "count": 2
+    },
+    {
+      "word": "iran",
+      "count": 2
+    },
+    {
+      "word": "prices",
+      "count": 2
+    },
+    {
+      "word": "world",
+      "count": 2
+    },
+    {
+      "word": "website",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "sure",
+      "count": 2
+    },
+    {
+      "word": "anti-malware",
+      "count": 2
+    },
+    {
+      "word": "doesn",
+      "count": 2
+    },
+    {
+      "word": "terminate",
+      "count": 2
+    },
+    {
+      "word": "custom",
+      "count": 2
+    },
+    {
+      "word": "cpus",
+      "count": 2
+    },
+    {
+      "word": "numbers",
+      "count": 2
+    },
+    {
+      "word": "typing",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "amd",
+      "count": 2
+    },
+    {
+      "word": "epyc",
+      "count": 2
+    },
+    {
+      "word": "turin",
+      "count": 2
+    },
+    {
+      "word": "cloudflare",
+      "count": 2
+    },
+    {
+      "word": "cores",
+      "count": 2
+    },
+    {
+      "word": "hitachi",
+      "count": 2
+    },
+    {
+      "word": "returns",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "quoting",
+      "count": 2
+    },
+    {
+      "word": "development",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "understanding",
+      "count": 2
+    },
+    {
+      "word": "decisions",
+      "count": 2
+    },
+    {
+      "word": "fundamental",
+      "count": 2
+    },
+    {
+      "word": "cannot",
+      "count": 2
+    },
+    {
+      "word": "rather",
+      "count": 2
+    },
+    {
+      "word": "willison",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "traditional",
+      "count": 2
+    },
+    {
+      "word": "however",
+      "count": 2
+    },
+    {
+      "word": "updated",
+      "count": 2
+    },
+    {
+      "word": "feed",
+      "count": 2
+    },
+    {
+      "word": "access",
+      "count": 2
+    },
+    {
+      "word": "apple's",
+      "count": 2
+    },
+    {
+      "word": "worldwide",
+      "count": 2
+    },
+    {
+      "word": "conference",
+      "count": 2
+    },
+    {
+      "word": "online",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    }
+  ]
+}
