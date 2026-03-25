@@ -1,0 +1,870 @@
+{
+  "date": "2026-03-25",
+  "stats": {
+    "total_fetched": 274,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "OpenAI Is Closing Sora",
+        "summary": "Sora, on Twitter/X: We’re saying goodbye to the Sora app. To everyone who created with Sora, shared it, and built community around it: thank you. What you made with Sora mattered, and we know this news is disappointing....",
+        "url": "https://x.com/soraofficialapp/status/2036546752535470382",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-03-25T00:49:07.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Which Design Doc Did a Human Write?",
+        "summary": "I created three design docs for the same open-source web app: I spent 16 hours writing one of the design docs completely by hand. I generated one using Claude Opus 4.6 (medium effort). I generated one using GPT-5.4 (high...",
+        "url": "https://refactoringenglish.com/blog/ai-vs-human-design-doc/",
+        "source": "Refactoring English",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 25 Mar 2026 00:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Steve Ballmer, Microsoft executive and NBA owner",
+        "summary": "Steven Anthony Ballmer, born March 24, 1956, served as chief executive officer of Microsoft from 2000 to 2014. Today he is the owner of the Los Angeles Clippers of the National Basketball Association (NBA). Steve Ballmer...",
+        "url": "https://dfarq.homeip.net/steve-ballmer-microsoft-executive-and-nba-owner/?utm_source=rss&utm_medium=rss&utm_campaign=steve-ballmer-microsoft-executive-and-nba-owner",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 25 Mar 2026 11:00:51 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?",
+        "summary": "The dialog box lets you change how it waits. The post How can I change a dialog box’s message loop to do a <CODE>Msg­Wait­For­Multiple­Objects</CODE> instead of <CODE>Get­Message</CODE>? appeared first on The Old New Thi...",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 25 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Algorithms",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Product",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev",
+          "Algorithms"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other",
+          "Startup"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "DevOps"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Startup",
+          "Other"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev",
+          "Startup"
+        ],
+        "published_at": "2026-03-25T22:25:42.951Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Thoughts on slowing the fuck down",
+        "summary": "\n\n# Summary: Thoughts on Slowing the Fuck Down\n\nMario Zechner, creator of the Pi agent framework used by OpenClaw, critiques current trends in agentic engineering, arguing that developers have sacrificed discipline and agency for raw speed in code production. His central concern is that agent mistakes compound much faster than human errors—while humans naturally bottleneck their own output, agent armies produce code without limit, accumulating \"tiny harmless booboos\" into an unmanageable codebase before anyone notices.\n\nThe article introduces the concept of \"cognitive debt\"—when code evolves faster than developers can reason about it. Mario recommends setting daily limits on AI-generated code, taking time to evaluate what truly needs building, and writing architecture, APIs, and other defining system elements by hand.\n\nThe author agrees that while manual writing may not be the complete solution, the software industry urgently needs to recalibrate the balance between speed and mental thoroughness, now that typing is no longer the bottleneck.",
+        "content": "25th March 2026 - Link Blog\n\n**[Thoughts on slowing the fuck down](https://news.ycombinator.com/item?id=47517539)**. Mario Zechner created the [Pi agent framework](https://github.com/badlogic/pi-mono) used by OpenClaw, giving considerable credibility to his opinions on current trends in agentic engineering. He's not impressed:\n\n> We have basically given up all discipline and agency for a sort of addiction, where your highest goal is to produce the largest amount of code in the shortest amount of time. Consequences be damned.\n\nAgents and humans both make mistakes, but agent mistakes accumulate much faster:\n\n> A human is a bottleneck. A human cannot shit out 20,000 lines of code in a few hours. Even if the human creates such booboos at high frequency, there's only so many booboos the human can introduce in a codebase per day. [...]\n\n> With an orchestrated army of agents, there is no bottleneck, no human pain. These tiny little harmless booboos suddenly compound at a rate that's unsustainable. You have removed yourself from the loop, so you don't even know that all the innocent booboos have formed a monster of a codebase. You only feel the pain when it's too late. [...]\n\n> You have zero fucking idea what's going on because you delegated all your agency to your agents. You let them run free, and they are merchants of complexity.\n\nI think Mario is exactly right about this. Agents let us move *so much faster*, but this speed also means that changes which we would normally have considered over the course of weeks are landing in a matter of hours.\n\nIt's so easy to let the codebase evolve outside of our abilities to reason clearly about it. [Cognitive debt](https://simonwillison.net/tags/cognitive-debt/) is real.\n\nMario recommends slowing down:\n\n> Give yourself time to think about what you're actually building and why. Give yourself an opportunity to say, fuck no, we don't need this. Set yourself limits on how much code you let the clanker generate per day, in line with your ability to actually review the code.\n\n> Anything that defines the gestalt of your system, that is architecture, API, and so on, write it by hand. [...]\n\nI'm not convinced writing by hand is the best way to address this, but it's absolutely the case that we need the discipline to find a new balance of speed v.s. mental thoroughness now that typing out the code is no longer anywhere close to being the bottleneck on writing software.",
+        "url": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-03-25T21:47:17.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-llm 0.1a1",
+        "summary": "\n\nI notice that the article content for \"datasette-llm 0.1a1\" by Simon Willison wasn't included in your request—only the header information was provided. Based on the title and the author, I can tell you that:\n\n**Simon Willison** is a well-known technologist and creator of **Datasette**, an open-source tool for exploring and publishing data. The \"datasette-llm\" mentioned in the title likely refers to an integration between Datasette and Large Language Models (LLMs).\n\n**What I can infer:**\n- This appears to be an **alpha release** (0.1a1) of a new tool\n- It was posted on **March 25, 2026**\n- It's likely related to combining Datasette's data exploration capabilities with LLM functionality\n- Simon Willison frequently publishes detailed technical posts about his projects\n\n**To provide an accurate 100-200 word summary, I would need the full article content.** Could you please paste the complete article text? This would allow me to extract the key points, features, and main takeaways as you requested.",
+        "content": "This is a **beat** by Simon Willison, posted on [25th March 2026](https://simonwillison.net/2026/Mar/25/).\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-25T21:24:31.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "LiteLLM Hack: Were You One of the 47,000?",
+        "summary": "\n\n# LiteLLM Hack: 47,000 Affected Users\n\nA significant supply-chain attack targeted the LiteLLM Python library in March 2026. Malicious versions 1.82.7 and 1.82.8 were uploaded to PyPI and remained available for just 46 minutes before being removed. Despite the brief window, researcher Daniel Hnyk discovered that these compromised packages were downloaded approximately 47,000 times during that period.\n\nThe attack's impact extended beyond direct downloads. Analysis revealed that 2,337 packages depend on LiteLLM, and alarmingly, 88% of these did not pin their dependencies in a manner that would have prevented the malicious versions from being installed.\n\nThis incident highlights the vulnerability of software supply chains when developers don't specify exact package versions. Even short-lived malicious packages can affect a massive number of users. The recommended mitigation involves pinning dependencies to specific, verified versions rather than using version ranges that could pull in compromised releases.",
+        "content": "25th March 2026 - Link Blog\n\n**[LiteLLM Hack: Were You One of the 47,000?](https://futuresearch.ai/blog/litellm-hack-were-you-one-of-the-47000/)** ([via](https://twitter.com/hnykda/status/2036834100342825369)) Daniel Hnyk used the [BigQuery PyPI dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=pypi) to determine how many downloads there were of [the exploited LiteLLM packages](https://simonwillison.net/2026/Mar/24/malicious-litellm/) during the 46 minute period they were live on PyPI. The answer was 46,996 across the two compromised release versions (1.82.7 and 1.82.8).\n\nThey also identified 2,337 packages that depended on LiteLLM - 88% of which did not pin versions in a way that would have avoided the exploited version.\n\nPosted [25th March 2026](https://simonwillison.net/2026/Mar/25/) at 5:21 pm\n\n## Recent articles\n\n  \n    - [Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/) - 22nd March 2026\n\n  \n    - [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/) - 21st March 2026\n\n  \n    - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) - 19th March 2026\n\n  \n\n \n\nThis is a **link post** by Simon Willison, posted on [25th March 2026](https://simonwillison.net/2026/Mar/25/).\n\n    \n        [\n            packaging\n            46\n        ](https://simonwillison.net/tags/packaging/)\n    \n        [\n            pypi\n            45\n        ](https://simonwillison.net/tags/pypi/)\n    \n        [\n            python\n            1238\n        ](https://simonwillison.net/tags/python/)\n    \n        [\n            security\n            584\n        ](https://simonwillison.net/tags/security/)\n    \n        [\n            supply-chain\n            13\n        ](https://simonwillison.net/tags/supply-chain/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Security",
+          "Cloud",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-25T17:21:04.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Improved Analytics in App Store Connect",
+        "summary": "\n\n# Summary: App Store Connect Analytics Update\n\nApple announced the most significant update to App Store Connect Analytics since its launch, introducing over 100 new metrics focused on monetization and subscription performance. The update enables developers to better track In-App Purchases and offers.\n\nKey new features include cohort capabilities that analyze user behavior based on shared attributes like download date, source, and offer timing, allowing developers to compare performance across regions or user segments. Two new peer group benchmarks—download-to-paid conversion and proceeds per download—help developers measure their performance against competitors while using differential privacy to protect individual data.\n\nThe update also adds two new subscription reports accessible through the Analytics Reports API, expanded filtering with up to seven simultaneous filters, and a comprehensive new Analytics guide to help developers build data-driven strategies. These enhancements aim to provide deeper insights into app performance and user acquisition while maintaining strong privacy protections.",
+        "content": "March 25, 2026\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t![](https://devimages-cdn.apple.com/wwdc-services/articles/images/EDB4AFA0-7888-44A8-9004-78F906E586AB/2048.jpeg)\n\nAnalytics in App Store Connect receives its biggest update since its launch, including a refreshed user experience that makes it easier to measure the performance of your apps and games. Updates include:\n\n- More than 100 new metrics. Now you can access monetization and subscription data in Analytics to better understand the performance of your In-App Purchases and offers.\n\n- New cohort capabilities. Analyze user behavior based on common attributes — such as download date, download source, offer start date, and more — to measure how a particular group of users performs over time. For example, if you’ve expanded your app to a new region, you can monitor how long it takes users in that region to make a purchase compared to other more established regions. Cohort data is aggregated to ensure user privacy.\n\n- New peer group benchmarks. Discover how you stack up to peers with two new monetization benchmarks: download-to-paid conversion and proceeds per download. Benchmarks incorporate differential privacy techniques to protect individual developer performance while also providing meaningful and actionable insights.\n\n- Two new subscription reports. Export these via the Analytics Reports API to perform offline analysis and integrate Analytics into your own data systems.\n\n- Additional filters. Apply up to seven filters to your selected metrics at once allowing you to drill down further and uncover additional insights.\n\n- App Store Analytics Guide. This new guide in App Store Connect Help enables you to develop a data-driven strategy and understand App Store tools and features you can use to grow your business.\n\n[Learn about measuring performance with Analytics](http://developer.apple.com/app-store-connect/analytics/)\n\n[Read the new Analytics guide](https://developer.apple.com/help/app-store-connect-analytics/)",
+        "url": "https://developer.apple.com/news/?id=hh6v4b55",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-03-25T19:16:27.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘A List of Chain Restaurants Whose Names Contain Unusual Structures’",
+        "summary": "\n\n**Summary:**\n\nThis humorous article ranks chain restaurants by how appealing it would be to dine in structures with their names, from most to least appetizing. White Castle leads as \"a meal fit for a king,\" followed by Taco Villa's fancy setting. Waffle House and IHOP represent the ordinary \"house\" concept, while Texas Roadhouse evokes traditional roadhouse dining. Taco Cabana brings tropical vibes, though the author prefers drinks over food there.\n\nThe list turns less appealing with Pizza Hut (a basic hut), Shake Shack (sounds dirty), and the Cheesecake Factory and Old Spaghetti Factory (grimy industrial settings). Spaghetti Warehouse and Golden Corral continue the downward trend, with a joke about avoiding \"cow pies.\" Pita Pit and Buca di Beppo (\"Beppo's Pit\") rank last—a hole in the ground is deemed the least appealing place for a meal. The article highlights the quirky naming conventions of American chain restaurants through playful commentary.",
+        "content": "Obviously, words like “restaurant” or “grill” do not qualify as unusual.\n\n\t\t\t\n\t\t\t\t\t\t\n\t\t\tWednesday, March 18th, 2026\n\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n#### A list of chain restaurants whose names contain unusual structures, presented in decreasing order of how appealing it would be to eat in such a structure:\n\n- **Castle (as in [White Castle](https://en.wikipedia.org/wiki/White_Castle_(restaurant))):** A meal fit for a king! Apparently, “Fit for a king” was actually the slogan of [Royal Castle](https://en.wikipedia.org/wiki/Royal_Castle_(restaurant_chain)), a White Castle knock-off that has been almost defunct for decades.\n\n- **Villa (as in [Taco Villa](https://en.wikipedia.org/wiki/Taco_Villa)):** A villa isn’t quite a castle, but it’s still a very fancy place to eat.\n\n- **House (as in [Waffle House](https://en.wikipedia.org/wiki/Waffle_House) and [International House of Pancakes](https://en.wikipedia.org/wiki/IHOP)):** Two different breakfast chains using “house” in their name is strange, but eating in a house is certainly normal enough. \n\n- **Roadhouse (as in [Texas Roadhouse](https://en.wikipedia.org/wiki/IHOP)):** A [roadhouse](https://en.wikipedia.org/wiki/Roadhouse_(premises)) has always been a place where you could eat a meal, so this is fine too. I’m quite tickled at the idea of asking for a room for the night at Texas Roadhouse though.\n\n- **Cabana (as in [Taco Cabana](https://en.wikipedia.org/wiki/Taco_Cabana)):** If I’m in a cabana, I think I’d prefer a tropical beverage over a meal, but it’ll do.\n\n- **Hut (as in [Pizza Hut](https://en.wikipedia.org/wiki/Pizza_Hut)):** A hut is basically just a cabana that’s not near the beach. It’s not a particular appealing place to eat a meal, even if it’s a [Classic](https://onefoottsunami.com/2026/03/16/makin-it-retro).\n\n- **Shack (as in [Shake Shack](https://en.wikipedia.org/wiki/Shake_Shack) and [Harold’s Chicken Shack](https://en.wikipedia.org/wiki/Harold%27s_Chicken_Shack)):** To me, a shack seems worse than a hut. It just sounds dirtier.\n\n- **Factory (as in [Cheesecake Factory](https://en.wikipedia.org/wiki/The_Cheesecake_Factory) and [The Old Spaghetti Factory](https://en.wikipedia.org/wiki/The_Old_Spaghetti_Factory)):** Unless it’s cranking out computer chips, a factory is liable to be grimy and unclean. Must it really be old, too?\n\n- **Warehouse (as in [Spaghetti Warehouse](https://en.wikipedia.org/wiki/Spaghetti_Warehouse)):** Two different spaghetti-focused chains with weird buildings in their names! This was initially my pick for least appetizing place to eat, but I found worse.\n\n- **Corral (as in [Golden Corral](https://en.wikipedia.org/wiki/Golden_Corral)):** Don’t eat the cow pies.\n\n- **Pit (as in [Pita Pit](https://en.wikipedia.org/wiki/Pita_Pit) and [Buca di Beppo](https://en.wikipedia.org/wiki/Buca_di_Beppo), which translates to “Beppo’s Pit”):** A pit is pretty much just a hole in the ground, with some bracing that qualifies it as a structure. Surely this is the worst place to sit down for a meal.",
+        "url": "https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-25T19:50:07.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Claude Can Now Take Control of Your Mac",
+        "summary": "\n\n**Summary:**\n\nAnthropic has introduced a new computer use capability for Claude, allowing the AI assistant to take control of your Mac to complete tasks autonomously. Available in Claude Cowork and Claude Code for Pro and Max subscribers, this feature enables Claude to point, click, navigate your screen, open files, use browsers, and run development tools without setup. Claude prioritizes precise tools like service connectors before resorting to direct screen control, and always requests explicit permission before accessing applications or taking actions.\n\nThe feature integrates with Dispatch, a recently released tool that lets users assign tasks to Claude from their phone and continue working on their desktop. Built-in safeguards, including automatic scanning for prompt injection attempts, help minimize risks. However, Anthropic acknowledges this capability is still early-stage technology that can make mistakes. The company recommends starting with trusted applications and avoiding sensitive data. Users can stop Claude at any point during operations.",
+        "content": "In Claude Cowork and Claude Code, you can now enable Claude to use your computer to complete tasks. When Claude doesn’t have access to the tools it needs, it will point, click, and navigate what’s on your screen to perform the task itself. It can open files, use the browser, and run dev tools automatically — with no setup required. \n\nThis feature is now available in research preview for Claude Pro and Max subscribers. It works especially well with [Dispatch](https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork), which lets you assign Claude tasks from your phone.\n\n## How Claude uses your computer\n\nClaude will reach for the most precise tool first, starting with connectors to services like Slack or Google Calendar. When there isn’t a connector, Claude can directly control your browser, mouse, keyboard, and screen to complete tasks. It will scroll, click to open, and explore as needed, always asking for your explicit permission first. \n\nWe’ve built this capability with safeguards that minimize risk, including prompt injection. When Claude uses your computer, our system will automatically scan activations within the model to detect for such activity. You also have the ability to stop Claude at any point, and Claude will always request permission before accessing new applications.\n\n![](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69c0acb66ca028e43998d824_Cowork-Dispatch-Blog-Permissions.png)\n\nComputer use is still early compared to Claude’s ability to code or interact with text. Claude can make mistakes, and while we continue to improve our safeguards, threats are constantly evolving. We recommend starting with the apps you trust and not working with sensitive data. Some apps are off-limits by default for this reason. You can learn more about safety best practices [here](https://support.claude.com/en/articles/14128542).\n\n## Message Claude from anywhere\n\nLast week, we released [Dispatch](https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork): a new feature in Claude Cowork (and now available in Claude Code) that lets you have one continuous conversation with Claude from your phone or your desktop. You can assign Claude a task on your phone, turn your attention to something else, then open up the finished work on your computer.\n\n![](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/69c0acc3f9e37117f1f547a8_Cowork-Dispatch-Blog-Code-Session.png)\n\nWith Dispatch, you can tell Claude to automatically check your emails every morning or pull some metrics every week, or spin up a Claude Cowork or Claude Code session for a report or a pull request. \n\nClaude’s new computer use capability makes Dispatch even more helpful. Now, Claude can use your computer on your behalf while you’re away. For example, to create a morning briefing while you’re on the train; make changes in your IDE, run tests, and put up a PR; or keep your 3D printing project moving according to your initial plan.\n\n## Getting started\n\nClaude’s computer use capability in Claude Cowork and Claude Code is in research preview. It won’t always work perfectly: complex tasks sometimes need a second try, and working through your screen is slower than using a direct integration. We're sharing it early because we want to learn where it works and where it falls short—just like we did with Claude Cowork.\n\nIt is available now for Claude Pro and Claude Max subscribers. For now, computer use is supported on macOS only, and you'll need to enable it in the desktop app settings. You’ll also need to make sure your desktop app is awake and running. From there, you can pair it with the mobile app and try handing off a task from your phone.",
+        "url": "https://claude.com/blog/dispatch-and-computer-use",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "2026-03-25T01:09:10.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Wander 0.3.0",
+        "summary": "\n\n**Summary: Wander 0.3.0 Release**\n\nWander 0.3.0 is the latest release of a decentralized, self-hosted web console that allows visitors to explore community-recommended websites. This release focuses on fixing two significant bugs introduced in version 0.2.0. First, the Console dialog failed to load on consoles without an `ignore` list—a feature that defines URLs to exclude from recommendation discovery. Second, the `<iframe>` element couldn't load websites requiring same-origin context to load their own resources. Both issues have been resolved. The update also includes minor improvements: preventing horizontal scrolling on small devices and reducing duplicate recommendations appearing close together. Wander enables independent website owners to create a community-driven discovery platform. Users can try the console at susam.net/wander/ or explore the project at codeberg.org/susam/wander.",
+        "content": "By **Susam Pal** on 25 Mar 2026\n\n  Wander 0.3.0 is the third release of Wander, a small, decentralised,\n  self-hosted web console that lets visitors to your website explore\n  interesting websites and pages recommended by a community of\n  independent website owners.  To try it, go\n  to [susam.net/wander/](https://susam.net/wander/).\n\n  This release brings small but important bug fixes.  The previous\n  release, [version 0.2.0](https://susam.net/code/news/wander/0.2.0.html) introduced a number\n  of new features.  Unfortunately, two of them caused issues for some\n  users.  A new feature in the previous release was\n  the `ignore` list feature.  The `ignore` list\n  defines console URLs and page URLs that the console never uses while\n  discovering page recommendations.  While this feature works fine,\n  due to a bug in the implementation, the **Console**\n  dialog fails to load in consoles that do not define\n  any `ignore` list.  This has now been fixed.\n\n  There was another issue due to which the `<iframe>`\n  that displays discovered websites and pages could not load certain\n  websites.  In particular, any website that relied on same-origin\n  context to load its own resources failed to load in the console.\n  This has been fixed as well.  Please see\n  [codeberg.org/susam/wander/issues/7](https://codeberg.org/susam/wander/issues/7)\n  for a detailed discussion on this issue.\n\n  Apart from these two important fixes, there are a few other minor\n  fixes too pertaining to preventing horizontal scrolling in small\n  devices and preventing duplicate recommendations from appearing too\n  close to each other.  Please\n  see [CHANGES.md](https://codeberg.org/susam/wander/src/branch/main/CHANGES.md)\n  for a detailed changelog.\n\n  To learn more about Wander, how it works and how to set it up,\n  please read the project README at\n  [codeberg.org/susam/wander](https://codeberg.org/susam/wander#readme).\n  To try it out right now, go to [susam.net/wander/](https://susam.net/wander/%7B%7B%20index%20%20%7D%7D).",
+        "url": "https://susam.net/code/news/wander/0.3.0.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 25 Mar 2026 00:00:00 +0000",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "iOS 26.4",
+        "summary": "\n\n# Summary: iOS 26.4 Update\n\niOS 26.4 is now available for download, bringing several new features to Apple users despite lacking the anticipated Siri enhancements. The update introduces Playlist Playground in Apple Music, allowing users to create playlists through text-based prompts by describing a mood, idea, or feeling, with the feature automatically generating 25-song collections complete with custom titles. Apple Music also gains a \"Concerts Near You\" feature that partners with Ticketmaster to show local shows and tour dates for followed artists, along with redesigned album and playlist interfaces featuring full-page artwork. The update adds eight new emoji characters including a trombone, treasure chest, and Sasquatch, plus new skin tone modifiers for specific emoji. Additional improvements include the ability to add songs to multiple playlists simultaneously, offline music recognition in Control Center, and changes to Family Sharing that allow adult members to use separate payment methods for purchases. The Playlist Playground feature is currently limited to the United States.",
+        "content": "The latest version of [iOS 26](https://www.macrumors.com/roundup/ios-26/), iOS 26.4, is now available for download. The update doesn't have the [Siri](https://www.macrumors.com/guide/siri/) feature set we were hoping for, but there are quite a few new additions like new emoji and an AI music feature.\n\n![ios 26 4 yellow](https://images.macrumors.com/t/oiEcAA8f0FpWY0badWxee5gLPHY=/400x0/article-new/2026/02/ios-26-4-yellow.jpg?lossy)\n\n## Playlist Playground\n\n[Apple Music](https://www.macrumors.com/guide/apple-music/) has a new Playlist Playground feature that lets users create a playlist with a text-based prompt.\n\n![ios 26 4 playlist playground](https://images.macrumors.com/t/mrU5oarhAdtyvNj2Yihg9TSpfSw=/400x0/article-new/2026/02/ios-26-4-playlist-playground.jpg?lossy)\nIn the ‌Apple Music‌ app, there's an option to type in an idea and get automatic song suggestions for a playlist. Apple has some pre-set suggestions that include \"morning coffee music,\" \"hip-hop party songs,\" and \"disco songs that defined the 1970s,\" but you can type in any idea, mood, or feeling.\n\nFrom there, the Playlist Playground feature will automatically generate a list of 25 songs, along with a custom title. Playlists that you create can be customized further with additional text prompts, and you can select a cover and a description.\n\nPlaylist Playground is limited to the United States.\n\n## New Emoji\n\niOS 26.4 adds eight new emoji characters, including trombone, treasure chest, distorted face, hairy creature (Sasquatch), fight cloud, orca, landslide, and ballet dancer.\n\n![Latest iOS 26](https://images.macrumors.com/t/Z8HSWgjLQLGuyGXJI0Sh_ZaFkQg=/400x0/article-new/2026/03/Latest-iOS-26.4-Beta-Adds-New-Emoji-Characters-Feature.jpg?lossy)\nThere are also new skin tone modifiers for people wrestling and dancers with bunny ears.\n\n## Apple Music\n\n‌Apple Music‌ features a \"Concerts Near You\" feature that helps you find shows in your area and tour dates for artists that you're a fan of. Apple is partnering with companies like Ticketmaster to provide local concert info.\n\n![ios 26 4 apple music](https://images.macrumors.com/t/xW1D4s3Ld56tKu6EEaXX1I8si88=/400x0/article-new/2026/02/ios-26-4-apple-music.jpg?lossy)\nApple has redesigned albums and playlists, adding full-page artwork.\n\nA song can be added to multiple playlists at the same time in the ‌Apple Music‌ app. In the add to playlist interface, there is a list button, and tapping it allows you to select multiple playlists at the same time.\n\n![ios 26 4 multiple playlists](https://images.macrumors.com/t/g4tI1fo-Az8VCpwTuK9qR4zrrA0=/400x0/article-new/2026/02/ios-26-4-multiple-playlists.jpg?lossy)\n\n## Offline Music Recognition\n\nIn Control Center, the song recognition feature is now able to identify songs without an internet connection, providing results when you're back online.\n\n## Purchase Sharing Changes\n\nAdult members in a Family Sharing group can now use separate payment methods for purchases, rather than having to share a single payment method.\n\n![ios 26 4 purchase sharing](https://images.macrumors.com/t/1Vn7S8Ym0T6Yn1fOjDHQuQc0Kzo=/400x0/article-new/2026/03/ios-26-4-purchase-sharing.jpg?lossy)\n\n## Apple Podcasts\n\nWith iOS 26.4, Apple added [video podcast capabilities](https://www.macrumors.com/2026/02/16/ios-26-4-video-podcasts-apple/) to the [Apple Podcasts](https://www.macrumors.com/guide/apple-podcasts/) app. The feature uses HTTP Live Streaming (HLS) to provide podcast creators with \"unprecedented control and monetization opportunities\" while also providing a high-quality viewing experience.\n\n![apple podcasts video](https://images.macrumors.com/t/Fc_9uCTAquQNv9Z7GggNyOxceAY=/400x0/article-new/2026/02/apple-podcasts-video.jpg?lossy)\nThe iOS 26.4 Podcasts app will let users switch between watching and listening to shows, with videos able to be downloaded for offline viewing. HLS ensures smooth playback regardless of network connection, so videos will work on Wi-Fi or cellular. Apple says that the new video episodes will integrate with existing ‌Apple Podcasts‌ features, including personalized recommendations and editorial suggestions in the New and Category sections.\n\n## Stolen Device Protection\n\nStolen Device Protection is [now enabled by default](https://www.macrumors.com/2026/02/16/ios-26-4-stolen-device-protection/) for all iPhone users, rather than being an opt-in feature.\n\n![ios 26 4 stolen device protection](https://images.macrumors.com/t/7H_yarlAzt6A0i9_4_Q4hTMzGBQ=/400x0/article-new/2026/02/ios-26-4-stolen-device-protection.jpg?lossy)\nApple implemented Stolen Device Protection in iOS 17.3 after reports about a new iPhone theft method. Thieves would spy on an intended victim to learn their passcode, then steal the target's iPhone. With the passcode, criminals were able to empty bank accounts, access passwords, and turn off [Find My](https://www.macrumors.com/guide/find-my/).\n\nStolen Device Protection requires additional authentication through [Face ID](https://www.macrumors.com/guide/mask-face-id/) or [Touch ID](https://www.macrumors.com/guide/touch-id/) to access certain iPhone features like the Passwords app, Lost mode in ‌Find My‌, Safari purchases, and more. Some features are disabled entirely without authentication, while others have a one-hour security delay.\n\n## Messages App\n\nThere are new animations in the Messages app for actions like launching a new conversation.\n\n## Apple Account Unified Design\n\nIn the [App Store](https://www.macrumors.com/guide/app-store/), ‌Apple Music‌, and other apps that have user settings, there is a new unified Apple Account hub that replaces the existing profile feature.\n\n![ios 26 4 apple account hub](https://images.macrumors.com/t/ooVxvKE3OdL-5c14wuObHxYo0l8=/400x0/article-new/2026/02/ios-26-4-apple-account-hub.jpg?lossy)\nIt offers largely the same functionality as the prior profile settings for each app, but there is a new unified design.\n\nThe ‌App Store‌ merges apps and purchase history, and has a dedicated section for app updates. It now takes two taps to get to app updates rather than having them available at the bottom of the profile page.\n\nThe ‌App Store‌'s navigation bar also no longer features Search as a separate button, and the search bar itself is at the top when tapped rather than the bottom.\n\nThere is a new Ambient Music widget for the Home and Lock Screen. It supports playing different built-in ambient music options for sleep, productivity, wellbeing, and more.\n\n![ios 26 4 ambient music widget](https://images.macrumors.com/t/guk2Gf2RvaoWPPzhksQQCu6as5I=/400x0/article-new/2026/02/ios-26-4-ambient-music-widget.jpg?lossy)\n\n## Wallpaper and Watch Face Gallery\n\nThe Wallpaper Gallery has an updated design that allows Wallpapers from each category like Weather, Astronomy, Emoji, Colors and More to be downloaded to the iPhone.\n\n![ios 26 4 wallpaper gallery](https://images.macrumors.com/t/qq5rY0J8KDJkHbpKS79e3nKIaV0=/400x0/article-new/2026/02/ios-26-4-wallpaper-gallery.jpg?lossy)\nThe Watch Face Gallery in the Apple Watch app also features the same design change.\n\n## Captions\n\nSubtitle and caption customization settings are available from the captions icon when viewing media, which makes them easier to access and change.\n\n## Freeform Creator Studio\n\nFreeform Creator Studio is live in iOS 26.4, allowing Creator Studio subscribers to access new Freeform features. Creator Studio for Freeform adds a dedicated Content Hub that houses the Freeform shape options.\n\n![ios 26 4 freeform creator studio](https://images.macrumors.com/t/PTrs7lmVlqZ92nBXbHckL8743ME=/400x0/article-new/2026/02/ios-26-4-freeform-creator-studio.jpg?lossy)\nCreator Studio users will be able to access free, high-quality content like graphics, photos, and illustrations that are not available to non-subscribers, plus there are AI capabilities for creating and editing images.\n\nWhen Creator Studio launched, Apple said the premium content and features in Freeform would be coming to the Apple Creator Studio subscription later this year.\n\nFreeform also has a new icon.\n\n## Reminders\n\nThe Reminders app has a new \"Urgent\" section. Reminders that have Urgent toggled on during creation will show up here. Urgent ensures that reminders have an accompanying alarm so you get a clear warning when a reminder is due.\n\n![ios 26 4 reminders app](https://images.macrumors.com/t/b9pC4kMMuxGpdXQjNthC99VdeQ0=/400x0/article-new/2026/02/ios-26-4-reminders-app.jpg?lossy)\nReminders can also be marked as urgent from the Quick Toolbar or by touching and holding.\n\n## iCloud Web Settings\n\nIn the [iCloud](https://www.macrumors.com/guide/icloud/) section of the Settings app, there's now an \"iCloud.com\" option if you scroll all the way to the bottom of the interface. It replaces the simple \"Access ‌iCloud‌ Data on the Web\" toggle that was previously available.\n\n![ios 26 4 icloud web](https://images.macrumors.com/t/Q-KoIGpww3xndwGIG7aDk4E30yQ=/400x0/article-new/2026/02/ios-26-4-icloud-web.jpg?lossy)\nThe setting includes a new \"Allow Search\" toggle that lets trusted Apple devices provide search results to iCloud.com.\n\n## Health App\n\niOS 26.4 includes a new Average Bedtime metric for the sleep section of the Health app, providing a better idea of how bedtime can impact sleep quality.\n\n![ios 26 4 average bedtime](https://images.macrumors.com/t/qkhjnehTtdHLTdzexTKlXrQs2H0=/400x0/article-new/2026/02/ios-26-4-average-bedtime.jpg?lossy)\n\nApple also updated the Vitals section of the Health app in the U.S., and now includes blood oxygen level on the line graph overview that's available each day. In iOS 26.3 and earlier versions of ‌iOS 26‌, there was a section for the blood oxygen level, but the graph did not include a blood oxygen measurement.\n\n![ios 26 4 vitals app blood oxygen](https://images.macrumors.com/t/izXvvZWA8GnMJ3wJp0qtLcWZ8qY=/400x0/article-new/2026/02/ios-26-4-vitals-app-blood-oxygen.jpg?lossy)\n\n## Reduce Motion and Bright Effects\n\nThere's a new Reduce Bright Effects option that minimizes bright flashes when tapping on interface elements like buttons. The Reduce Motion setting also more reliably reduces the animations of Liquid Glass for those who prefer less movement.\n\n## Camera\n\nIn the Settings section of the Camera app, there is a new \"Audio Zoom\" option. The feature causes recorded audio to focus on the subject when the camera is zoomed while recording a video. It can be turned on or off, depending on the audio settings you prefer.\n\n![ios 26 4 audio zoom](https://images.macrumors.com/t/60XzIndNdJwWQE4bjcRF_cmCdM0=/400x0/article-new/2026/02/ios-26-4-audio-zoom.jpg?lossy)\n\n## CarPlay\n\nWith iOS 26.4, AI services like Claude, Gemini, and ChatGPT are accessible through the [CarPlay](https://www.macrumors.com/roundup/carplay/) system for the first time.\n\nThe new integration lets ‌CarPlay‌ users access voice-based apps like ChatGPT to ask questions hands-free, but the apps will not be able to control vehicle or iPhone functions. There also won't be a wake word option to activate a third-party app, so users will still need to open the app to use the chatbot. After an app is launched, the customizable voice control screen will give users vehicle-optimized chatbot experiences.\n\nThird-party apps need to implement support for the feature, so it may take some time for the functionality to be available.\n\nWe also found mentions of [Apple TV support for CarPlay](https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/) during the beta period, indicating that Apple will eventually allow users to watch [Apple TV](https://www.macrumors.com/roundup/apple-tv/) content through their car's dashboard when the vehicle is not in motion.\n\n![Apple CarPlay iOS 26 Tight Crop](https://images.macrumors.com/t/SG5lXWy9gl7elnwF54-OYMf5NCk=/400x0/article-new/2026/02/Apple-CarPlay-iOS-26-Tight-Crop.jpg?lossy)\n\nAt WWDC 2025, Apple said that it [would add support](https://www.macrumors.com/2026/02/16/ios-26-4-carplay-video-apple-tv/) for AirPlaying video content to a ‌CarPlay‌ display.\n\n## Hotspot Data\n\nApple moved the location of hotspot data usage. Rather than having data usage metrics tucked away under Cellular, you'll see how much data you've used right in the Personal Hotspot section.\n\n![ios 26 4 hotspot data usage](https://images.macrumors.com/t/Lz08QslKyWJrGGKW5TTo86v-lPw=/400x0/article-new/2026/02/ios-26-4-hotspot-data-usage.jpg?lossy)\n\n## Live Captions\n\nChinese (Taiwan) is a new language option for Live Captions in the Accessibility section.\n\n![ios 26 4 live captions](https://images.macrumors.com/t/_74GeS_9psJfFgO2wvnRpIN6XxE=/400x0/article-new/2026/02/ios-26-4-live-captions.jpg?lossy)\n\n## Passcode Settings\n\nIn the ‌Face ID‌ and Passcode section of the Settings app, when you enter a passcode to access your options, the text is now center aligned instead of left aligned.\n\n![ios 26 4 passcode](https://images.macrumors.com/t/ZInFXoZyaLGm3ppDM7K17GT6MH4=/400x0/article-new/2026/02/ios-26-4-passcode.jpg?lossy)\n\n## Shortcuts\n\nApple added a Set Charge Limit action to the Shortcuts app. It sets a battery charge limit for the iPhone.\n\n![ios 26 4 shortcuts charge limit](https://images.macrumors.com/t/w7WwwIp5CxbO4Lvoob4jN357fDk=/400x0/article-new/2026/02/ios-26-4-shortcuts-charge-limit.jpg?lossy)\n\n## Keyboard Bug Fix\n\niOS 26.4 offers improved keyboard accuracy when typing quickly, addressing a bug in iOS that caused some characters to be missed when a user was typing rapidly. The missed characters could impact how autocorrect worked, causing the feature to be unable to predict what the user meant to type.\n\n![ios 26 4 keyboard](https://images.macrumors.com/t/LmPOXDUU4jij2W3uFaIz75N1C90=/400x0/article-new/2026/03/ios-26-4-keyboard.jpg?lossy)\n\n## Carrier Updates\n\nThe iOS 26.4 beta has a Voice Over New Radio (VoNR) feature [for Telus iPhone users](https://www.iphoneincanada.ca/2026/02/18/telus-iphones-are-finally-getting-vonr-why-your-5g-calls-are-about-to-change/). The feature lets compatible devices remain on the 5G Standalone network during voice calls instead of 4G LTE.\n\n## Security Updates\n\niOS 26.4 fixes more than [35 security vulnerabilities](https://support.apple.com/en-us/126792) impacting everything from Safari to Messages, and multiple underlying services.\n\nThere were no actively exploited vulnerabilities that Apple encountered, but it is still a good idea to update to iOS 26.4 to get the latest patches.\n\nNow that Apple has publicized the vulnerabilities, they might be taken advantage of by bad actors.\n\n## How to Get iOS 26.4\n\nYou can install iOS 26.4 by opening up the Settings app, tapping into the General section, and navigating to Software Update.\n\n## Compatibility\n\niOS 26.4 runs on all iPhones that support ‌iOS 26‌, which includes the iPhone 11 and later.\n\n## What's Coming Next\n\nWe could get the first beta of iOS 26.5 as soon as this week now that iOS 26.4 is publicly available.",
+        "url": "https://www.macrumors.com/guide/ios-26-4-features/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "2026-03-25T00:40:01.000Z",
+        "reading_time": 11,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Top 10 Biggest Conspiracies in Open Source",
+        "summary": "\n\n# Summary\n\nThis satirical article presents ten absurd conspiracy theories about popular open source tools, treating paranoid speculation as established fact. The piece claims that Dependabot is actually a surveillance program collecting data on company engineering practices to sell to recruiters, calibrated to overwhelm developers without triggering disabling. It alleges that Dockerfile's bash-like-but-broken syntax intentionally creates billable consulting work, with training firms later joining the CNCF to block simplification efforts. The left-pad incident is reframed as a coordinated crypto wash trading operation requiring npm downtime. Each conspiracy is presented with fabricated insider quotes and implausible complexity theories about simple tools. The article humorously satirizes how mundane open source decisions could be recontextualized as deliberate schemes, highlighting how easily seemingly innocent tools might be seen as part of larger agendas if viewed through a sufficiently paranoid lens.",
+        "content": "### 10. Dependabot is a surveillance program\n\nGitHub’s Dependabot builds a real-time map of which companies use which software, how quickly they respond to security advisories, and how their internal code review processes work. The pull requests are a side effect of the data collection, and the actual product is the response-time dataset, which correlates strongly with engineering team health and is quietly sold to recruiters through a subsidiary that nobody has been able to identify by name.\n\nThe noise volume is calibrated to a specific threshold: just enough PRs to desensitize reviewers to automated contributions, but not so many that they disable it entirely, which is why the PR descriptions are always slightly too long and the changelogs are always included in full even though nobody has ever read one. A former GitHub employee who asked not to be named described the calibration process as “A/B testing, but the B stands for burnout.”\n\n### 9. The Dockerfile syntax is deliberately broken\n\nThe Dockerfile syntax is almost-but-not-quite bash, and the usual explanation is that it was a pragmatic early design decision that became too entrenched to fix. But fixing it would have been a single breaking change in a tool that was already shipping breaking changes every few months in 2013 and 2014, and nobody proposed it, not once, across thousands of GitHub issues, which is unusual for a developer community that will file an issue about a misaligned help flag.\n\nThe syntax stayed broken because the broken syntax is what generates the consulting revenue. Every Dockerfile that fails because a developer wrote it like a shell script is a billable hour for someone, and the companies that built their businesses on Docker training and migration services were, by 2015, among Docker Inc’s largest enterprise customers and most vocal community advocates. A former Docker developer relations employee, who asked not to be named, described the relationship as “they paid us to keep the product just hard enough that people would pay them to explain it.” Three of those consulting firms later became founding members of the Cloud Native Computing Foundation (#4), where they now sit on the technical oversight committee that reviews proposals to simplify container tooling, and where no such proposal has ever passed.\n\nOne of Docker’s original engineers now works at Google on Kubernetes configuration, which is either a coincidence or a promotion.\n\n### 8. left-pad was removed as part of a crypto liquidity operation\n\nAzer Koçulu did not unpublish left-pad from npm because of a trademark dispute with Kik. The cover story was coordinated between npm Inc, Koçulu, and a group that the SEC would later describe in an unrelated filing as “participants in early decentralized finance operations.”\n\nAn Ethereum mining syndicate needed npm’s CDN to go down for approximately 2.5 hours to mask a transaction pattern during a large wash trade on a now-defunct exchange, and they identified left-pad as the single point of failure with the largest blast radius relative to its size: eleven lines of code, 2.5 million weekly downloads, no direct replacement. The Kik naming dispute was already in progress and provided plausible cover. Koçulu was compensated in ETH. The mass panic, the think pieces about dependency management, the creation of `String.prototype.padStart` in ES2017 were all downstream effects of a liquidity event that treated the JavaScript ecosystem as collateral damage.\n\nThe number eleven comes up a lot in this story. Eleven lines of code. The outage lasted from 11:09 AM to 1:09 PM Eastern, which is an eleven on both ends. The wallet Koçulu was paid from had, at the time of the transaction, a balance of 11,011 ETH. Probably meaningless.\n\n### 7. node_modules is a distributed ledger\n\nThe average `node_modules` directory contains 247 megabytes of data for a project that uses eleven direct dependencies. The accepted explanation is that JavaScript has a culture of small, single-purpose packages and that transitive dependencies accumulate quickly, but this has never satisfactorily accounted for the scale, because even after deduplication and tree-shaking, the directory is still orders of magnitude larger than equivalent dependency trees in other ecosystems.\n\nThe actual explanation is that node_modules is a shard of a distributed ledger that has been running continuously since 2012. The packages are real and they do what they claim to do, but the disk space is the product. Every `npm install` writes a fragment of a hash chain into the local filesystem, distributed across `README.md` files, `LICENSE` files, and the whitespace in `package.json` that nobody has ever questioned because JSON allows it. A former npm Inc engineer, speaking on condition of anonymity, described the system as “blockchain without the brand damage.”\n\nThe ledger’s purpose has not been conclusively identified, but the transaction volume correlates with npm registry traffic at a coefficient of 0.97, and the fragments, when reassembled in install order, form a Merkle tree whose root hash changes exactly once every eleven minutes. A since-deleted Hacker News comment from a throwaway account that posted once and never again claimed that the hash was being used as a global clock by a system that could not rely on NTP, which would explain why npm’s registry uptime is treated as critical infrastructure by organizations that do not appear to use JavaScript. The Dependabot response-time dataset (#10) would show which organizations are monitoring npm availability most aggressively, but that data isn’t public.\n\n### 6. The Rust borrow checker is a loyalty mechanism\n\nThe original RFC for the borrow checker includes a section on “developer experience contours” that was removed before public review but survives in a Wayback Machine snapshot from 2014 that has since been excluded from the index. The section describes a frustration curve tuned so that completing a project produces a measurable neurochemical reward, similar to what researchers have observed in subjects completing difficult puzzles under time pressure, and it cites two papers on intermittent reinforcement schedules in game design.\n\nRust developers are disproportionately enthusiastic about their language compared to users of other systems languages, and they describe the compiler in terms normally reserved for mentors or therapists, evangelising not just the language but the specific experience of struggling with it, which are textbook indicators of a bonding response to controlled adversity. The so-called Rust evangelism strike force is treated as a joke, but the median time between a blog post mentioning performance issues in any language and the first “rewrite it in Rust” comment is eleven minutes, which is faster than most people read. Eleven minutes again. See left-pad (#8).\n\n### 5. Jia Tan was a committee\n\n“Jia Tan” was an operational identity shared by a rotating team of between four and seven people over a two-year period, and the evidence has been sitting in the public git log since the post-incident analysis, consistently misread as the work of a single actor.\n\nPlotting the commit times on a 24-hour clock reveals three distinct clusters corresponding to working hours in UTC+8, UTC+1, and UTC-5, which are not timezone confusion but shift changes. The coding style varies subtly across these clusters: one contributor favoured longer variable names, another used more aggressive loop unrolling, and a third had a distinctive habit of aligning comments to column 40. The mailing list persona that pressured the original xz maintainer into accepting help was not the same operator who wrote the backdoor code, and the “thank you for your contribution” messages came from a fourth participant whose English contained Americanisms inconsistent with the other communications. A security researcher who was among the first to analyse the commits told me, off the record, that they had identified at least five distinct authorship signatures but were advised by their employer’s legal team not to publish the analysis.\n\nThe UTC-5 cluster is interesting because it overlaps with the working hours of several CNCF member organizations (#4), though drawing conclusions from timezone data alone would be irresponsible.\n\n### 4. Kubernetes was a jobs program\n\nIn late 2014, Google’s internal economics team produced a model predicting a significant contraction in infrastructure engineering roles as cloud adoption simplified deployment pipelines, showing that if companies could deploy applications with a single `docker run` command, the demand for operations engineers would fall by 40% within five years. The politically acceptable solution was to open source an internal system complex enough to require dedicated teams but useful enough that companies would feel obligated to adopt it, creating approximately 350,000 jobs globally between 2015 and 2023.\n\nThe original Borg system was relatively straightforward, and the complexity was added during the extraction process, where features were decomposed into separate concepts (pods, services, deployments, statefulsets, daemonsets, ingresses, custom resource definitions) not because the domain required it but because each additional concept represented approximately 0.3 FTEs of ongoing maintenance. YAML was chosen specifically because it is easy to get wrong, guaranteeing a steady stream of Stack Overflow questions and a permanent need for institutional knowledge. The Cloud Native Computing Foundation was established with a governance structure requiring consensus among vendors with competing interests, which functionally prevents any proposal to reduce complexity from reaching a vote.\n\nOne of the two engineers from the Dockerfile bet (#9) joined the Kubernetes configuration team in 2015. A former colleague described the move as “going from lighting one fire to managing the fire department,” though they declined to clarify whether the fire department’s job was to put fires out or keep them burning at a controlled rate.\n\n### 3. Git was not written in two weeks\n\nGit was extracted from a classified distributed version control system developed by the Finnish Defence Forces’ signals intelligence division in the late 1990s for coordinating firmware updates across submarine communications equipment, which accounts for its obsession with integrity hashing (submarine firmware cannot be re-deployed if corrupted), its distributed-first architecture (submarines have intermittent connectivity), and its notoriously hostile user interface (military systems are not designed for developer experience).\n\nTorvalds, who completed his mandatory Finnish military service in 1990, maintained contacts within the defence establishment, and the “two-week development sprint” in April 2005 was a declassification and rebranding process managed by a three-person team working under a memorandum of understanding between the Finnish Ministry of Defence and the OSDL. No human being has ever fully understood `git rebase --onto`, the man pages read like translated technical Finnish, and the index file format uses a binary encoding scheme with no precedent in civilian version control that closely resembles the update manifest format used in NATO STANAG 4586 compliant systems.\n\nA Freedom of Information request filed with the Finnish Ministry of Defence in 2019 for records related to “distributed version control” was returned with eleven pages fully redacted. The cover letter was signed by a P. Silvia in the Ministry’s correspondence division, a name that does not appear in any Finnish government staff directory, and which the Ministry’s switchboard claims has no associated mailbox or extension. The letter stated that the material was exempt under national security provisions and that no further correspondence on the matter would be acknowledged. Eleven pages. That number again.\n\n### 2. The core-js maintainer discovered something\n\nDenis Pushkarev, the sole maintainer of core-js, a JavaScript polyfill library installed approximately 26 million times per week, was sentenced to 18 months in a Russian prison in 2020 for a hit-and-run incident, which is the public record and is not in dispute.\n\nWhat the public record does not reflect is that Pushkarev had, in the months before his arrest, begun investigating anomalies in npm’s install telemetry. Because core-js is included as a transitive dependency in a significant percentage of all JavaScript projects, he had a unique vantage point on global install patterns, and he noticed that a small but consistent fraction of installs were originating from IP ranges that resolved to government facilities in multiple countries, requesting specific version ranges that had never been published. He documented these findings in a series of GitHub issues that were deleted within hours of posting and then added funding appeals to the core-js postinstall script, which most people interpreted as a maintainer asking for money but which actually contained encoded metadata about the anomalous traffic patterns in the donation links, addressed not to the JavaScript community but to a specific security researcher at a European university whose name appears in the npm access logs during the same period.\n\nThe version ranges being requested were for core-js 4.0, which has never been released. Someone, or something, was resolving dependencies against a registry that doesn’t exist, or one that exists and isn’t public. The response-time dataset from Dependabot (#10) would show whether these ghost installs correlate with the anomalous traffic Pushkarev found, but that dataset isn’t public either, and the one person who requested it through a GDPR subject access request received a reply from a law firm in Reston, Virginia, which is the same city where the fiscal sponsors from #1 maintain their registered agent, though I want to be clear that I am not drawing a connection between these two facts.\n\nThe hit-and-run conviction was real, and the timing was coincidental in the way that inconvenient things are sometimes coincidental.\n\n### 1. There are only 14 maintainers\n\nEvery open source project with more than 10,000 GitHub stars is maintained by the same 14 people, who operate approximately 3,000 GitHub accounts across all major ecosystems. The conference speakers, the podcast guests, the people who show up in “Humans of Open Source” interviews are personas managed by a team that has been running continuously since 2008, funded by DARPA through a research program classified under the umbrella of economic infrastructure modelling.\n\nThe 14 were originally selected from a pool of computer science PhD candidates who scored in the top percentile on a battery of tests measuring context-switching ability, tolerance for interrupted sleep, and what the program documentation refers to as “parasocial durability,” which is the capacity to maintain fictional interpersonal relationships at scale without identity bleed. Maintainer burnout follows a suspiciously regular annual cycle, peaking in late November and resolving in January, which corresponds not to any natural human rhythm but to the program’s fiscal year and mandatory leave policy, and the speed with which critical vulnerabilities are patched in some projects and ignored in others makes more sense when you understand that the 14 have to triage across all of them simultaneously.\n\nThe annual “open source maintainer burnout” discourse, the blog posts, the Mastodon threads, the conference talks with titles like “Sustainable Open Source: A Personal Journey,” is synthesized by a language model fine-tuned on five years of Hacker News comments and seeded with biometric data from the 14 to maintain voice consistency. It generates enough ambient guilt in the developer population to sustain a baseline level of corporate open source funding, which is laundered back into the program’s operating budget through a chain of fiscal sponsors that, if you follow the paperwork, all share a registered agent in Reston, Virginia.\n\nA since-deleted blog post from 2019, cached by Google but no longer indexed, described the experience of attending a European open source conference and recognizing the same person presenting under two different names in two different rooms on the same day. The author posted a retraction the following week, stating that they had been mistaken and that the two presenters were different people who happened to look similar, a retraction that reads like it was written by someone who did not write their original post. The author’s GitHub profile now says they are raising goats in Portugal, which is what open source maintainers’ GitHub profiles always say when they stop posting.\n\nThe Jia Tan committee (#5) operated from three timezone clusters. The 14 would need at least that many to maintain global coverage. The Dependabot response-time data (#10) would reveal whether maintainer activity patterns across thousands of projects cluster into exactly 14 signatures. The node_modules ledger (#7) updates every eleven minutes, which is exactly the refresh interval you’d design if you needed 14 people to synchronize across timezones without a central server. The ghost installs that Pushkarev discovered (#2) could have been the 14’s private registry, used to coordinate dependency versions across their 3,000 accounts without leaving a trace in the public index. And the Finnish military version control system (#3) would have been designed for exactly this kind of operation: a small team maintaining critical infrastructure across distributed nodes with intermittent connectivity.\n\nYou have mass-followed at least three of the 14 on GitHub and mass-starred their work, and you may have thanked one of them in a conference hallway for contributions to a project you use in production, without knowing that the person standing in front of you maintains nine hundred other projects under different names and was running on four hours of sleep because someone on the other side of the world filed a CVE against one of their Rust crates at 3am.\n\nI’m not saying any of this is true. I’m saying the commit timestamps are public, the FOIA response is on file, the Reston address is in the corporate registry, and the number eleven keeps showing up in places where it has no business being. I’m not connecting these dots for you. I’m just pointing out that the dots are there, and that they are arranged in a shape, and that the shape is interesting. Do your own research.",
+        "url": "https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-03-25T10:00:00.000Z",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: The cost of doing business (25 Mar 2026)",
+        "summary": "\n\n## Summary\n\nThis article examines how laws become ineffective when they're too difficult to enforce—a concept the author calls \"administrability.\" The key insight is that a law's practical impact depends less on what it prohibits and more on whether authorities can actually detect violations and stop them.\n\nThe author introduces \"fact-intensivity\" as a major barrier to enforcement. When determining whether someone has broken the law requires answering complex, fact-heavy questions, enforcement becomes costly, time-consuming, and often impossible. The article specifically criticizes \"market definition\" in antitrust law as a denial-of-service attack on competition enforcement—making it so procedurally burdensome that regulators cannot effectively challenge monopolies.\n\nUsing examples like US indictments of unreachable foreign hackers, the piece illustrates that laws without realistic enforcement mechanisms become merely symbolic. The author argues that policymakers must prioritize administrability, ensuring rules can be practically enforced rather than just appearing on paper. Without this focus, well-intentioned regulations become meaningless, allowing harmful behavior to continue unchallenged.",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/25Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/25/fact-intensive/)\n\n## Today's links\n\n- [The cost of doing business](https://pluralistic.net/2026/03/25/fact-intensive/#market-definition): \"Market definition\" is a denial-of-service attack on antitrust law.\n\n- [Hey look at this](https://pluralistic.net/2026/03/25/fact-intensive/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/25/fact-intensive/#retro): Union Pacific v model railroads; Warners v Potter fans; NYT's trademark trolling; Why Rebecca Black mashups suck; Jabba the peep; Grenfell costs v tenants.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/25/fact-intensive/#upcoming): Berkeley, Montreal, London, Berlin, Hay-on-Wye.\n\n- [Recent appearances](https://pluralistic.net/2026/03/25/fact-intensive/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/25/fact-intensive/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/25/fact-intensive/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/25/fact-intensive/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/cost-of-doing-business.jpg?w=840&ssl=1)\n\n## The cost of doing business ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#market-definition))\n\nThe most important part of any law, rule or policy isn't what it permits or prohibits – it's whether you can *enforce* the law at all.\n\nAfter all, as odious as a law that forbids people from thinking mean thoughts about Trump would be, it would also be completely unenforceable, and would ultimately just not be very important, except as a symbol of Trump's evil.\n\nThis property is called \"administrability,\" meaning, \"the degree to which an authority can *administer* the policy.\" There are many dimensions to administrability, including \"Is it even possible to detect whether this policy has been violated?\" In that same vein, there're questions like, \"If you discover someone has violated this policy, will you be able to stop them from continuing to do so?\" For example, the US routinely indicts North Korean hackers, but unless those hackers visit a place that the US can inveigle into arresting and extraditing them, it's a mostly symbolic gesture:\n\n[https://www.justice.gov/usao-cdca/pr/3-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyber-attacks-and](https://www.justice.gov/usao-cdca/pr/3-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyber-attacks-and)\n\nOne undertheorized aspect of administrability is \"fact-intensivity\"; that is, are there difficult, fact-intensive questions that need to be answered in order to determine whether someone has violated this policy?\n\nThink of probate law: probate is often a lengthy and expensive process, especially if the deceased is \"intestate\" (has no will). To probate an estate, all the deceased's assets have to be cataloged and assessed, claims of heirs and inheritors have to be evaluated, etc, etc.\n\nPeople spend a lot of time and money creating wills and family trusts largely to answer these questions when they're easiest to resolve (when you're still alive and can clearly express your preferences), because it's even more expensive and time-consuming to answer these questions when you're not around anymore to weigh in on them.\n\nAs complex and time-consuming as managing your estate can be, there's nothing wrong in theory with having a complicated, careful process in place for dealing with it. Taking care of your loved ones and disposing of your assets is something that's worth getting right, and people have all kinds of highly individual preferences for this that requires a lot of flexibility in the system. Making a system that's very customizable but also robust against fraud (or even honest mistakes) requires a *lot* of administrative superstructure to hold it all together.\n\nAnd besides, probate isn't something we have to do very often. After all, most of us will only die one or fewer times. It's not like we have to figure this stuff out every day. It's the kind of thing you can do every couple of decades, over several hours, spread out over weeks.\n\n*Frequency*, then, is the enemy of *fact-intensivity*. If you had to do probate-level form-filling to buy a cup of coffee or pay your electricity bill, that would be *nuts*. For one thing, it would be full employment for lawyers – and it would cost so much that by the time you got to the cafe or the gas-pump, you'd be too broke to actually complete the transaction.\n\nThis comes up a lot in discussions of tech policy, because once you computerize something, you can start to do it *very quickly*, which means that policies that added, say, a 1% admin overhead to a task before it was digitized can add up to a 1,000% overhead once it's digitized.\n\nThe best example of this is copyright: copyright is the most fact-intensive doctrine you deal with on a day to day basis. Technically, *conclusively* determining whether you have the right to forward an email could take a lawyer a whole day. Sure, *most* email forwarding is \"fair use\" (that is, it fits into one of copyright's \"limitations and exceptions\"), but any decent IP law prof could come up with ten email forwarding hypotheticals in ten minutes that could occupy a whole fourth-year IP law class for an entire semester.\n\nOne of the reasons copyright is so fact-intensive is that it was designed to be invoked infrequently. We're talking about a legal regime that was designed to answer questions about book and music publishing (and then adapted for other kinds of media), and even the most prolific publisher or label is going to deal with double-digits' worth of new works per season.\n\nMeanwhile, the people working at that same publisher are likely forwarding hundreds, if not *thousands* of emails per *day*. If the publisher's copyright lawyers had to review every one of those forwards, they would never publish another book. They would go bankrupt.\n\nObviously, that's not how things work.\n\nWhy not, though?\n\nWell, mostly because we just pretend copyright law isn't there. To the extent that we do acknowledge the potential for copyright liability from everyday activities that no one ever asks a lawyer to sign off on, we manage that liability through shitty, one-sided contracts. You have undoubtably clicked on dozens of agreements this year wherein you warranted that nothing you were doing violated copyright law (a neat trick, given that you probably have *no idea* whether any of the activities you routinely engage in could violate copyright) and further, you indemnified someone else for \"all costs arising from any claims\" associated with your activity.\n\nThat's an *unbelievably* shitty, one-sided clause for you to have \"agreed\" to, since \"any claims\" includes *claims with no merit* and \"all costs\" includes \"money we paid someone who brought a bullshit claim to just go away.\"\n\nIn other words, you routinely click through these nonsense \"agreements\" where you promise to give *every cent you have* to anyone who wants it, if the company that made you click through that bullshit decides to promise some deranged rando a million bucks to settle their wild accusation that you violated their copyrights.\n\nFor complicated reasons, we're not all drowning in copyright lawsuits all the time, but if someone *really* wanted to fuck you up and they had deep enough pockets, they could use the fact that you're a giant, routine copyright infringer (just like everyone else) to *wreck* your life for *years*.\n\nSo obviously, it would have been better if we'd done some major refactoring of copyright law once the internet came along. My preferred fix? Carve out activities unrelated to the media industry's supply chain from copyright *altogether*:\n\n[https://pluralistic.net/2023/10/21/the-internets-original-sin/](https://pluralistic.net/2023/10/21/the-internets-original-sin/)\n\nCopyright isn't the only fact-intensive doctrine that's challenged by the cadence of digital life. The internet lets us do a *lot* of things, *very* quickly, meaning that even small factual questions pile up beyond any reasonable capacity to resolve them.\n\nTake the debate over content moderation and hate speech. Hate speech and harassment online are serious problems and they disproportionately affect people who are getting the shitty end of the stick in the offline world, too. The legacy platforms obviously don't give a damn about these people, either.\n\nSo it's tempting to attempt to use policy to solve this real problem. Even if the US wasn't being run by a trollocracy, this would probably be a nonstarter in America, because hate speech is protected by the First Amendment, and purely speech-based harassment is hard to punish without falling afoul of 1A.\n\nBut other countries – notably the EU – are having a go at it. I think this is a doomed effort – but not because hate speech isn't a serious problem! Rather, because hate speech regulations are *very* fact intensive, and hate speech is *very* common. Frequency is the enemy of fact-intensivity.\n\nSay the EU creates a rule requiring platforms to take reasonable measures to prevent hate speech. This requires\n\n- arriving at a common definition of hate speech;\n\n- \nadjudicating whether a given user's speech rises to that definition; and\n\n- \ndetermining whether the platform's technical measures were \"reasonable.\"\n\nThis is the work of months, if not *years*. And hate speech happens hundreds of times *per minute* on the big platforms. It's just not an administrable policy.\n\nNow, just because policy isn't administrable, it doesn't follow that there's nothing to be done. There's other ways to give relief to the targets of harassment and hate speech. To get to those ways, we have to ask ourselves *why* people who are tormented by trolls stay on the platforms that expose them to abuse.\n\nThere are plenty of extremely wrong explanations for this floating around. One is that Mark Zuckerberg and Elon Musk are Cyber-Rasputins who can hypnotize us into using their platforms even if we don't like them, by \"hacking our dopamine loops.\" This is a very silly explanation: everyone who's ever claimed to have perfected mind-control was a liar and/or deluded:\n\n[https://pluralistic.net/HowToDestroySurveillanceCapitalism](https://pluralistic.net/HowToDestroySurveillanceCapitalism)\n\nAnother is that people are lying (possibly to themselves) when they say they don't like being harassed on legacy social media platforms. This theory – from neoclassical econ –  is called \"revealed preferences,\" and it holds that people whose actions go against their stated preferences are \"revealing a preference\" for the thing they're doing.\n\nThis is the sort of thing you end up believing in if you incur the kind of neurological injury that arises from pursuing an economics degree, which causes you to be incapable of reasoning about (or even perceiving) power. \"Revealed preferences\" tells you that if someone sells their kidney to pay the rent, they have a \"revealed preference\" for having one kidney.\n\nThankfully, there's a much simpler explanation for people's continued use of platforms where they are subject to abuse and harassment. It's this: the only thing worse than being a member of a disfavored minority who is subject to abuse and harassment is being a member of a disfavored minority who is subject to abuse and harassment *who is also isolated from your community*.\n\nLeaving Facebook or Twitter means leaving behind the people who comfort and support you when you are subject to abuse. The more abuse and discrimination you face, the more that support matters, and the harder it is to leave that community behind. You love your community more than you hate Zuck or Musk, so you stay, because as much as you love them, it's transcendentally difficult to coordinate a mass departure for somewhere else. This is called the \"collective action problem\" and it's a regressive tax on the most abused platform users and communities.\n\n*This* is a problem we *can* solve with policy! We can mandate that platforms support interoperability, so that when you leave a legacy platform like Twitter or Facebook for a modern platform like Mastodon or Bluesky, the messages addressed to you on the legacy platform are forwarded to your new home. That way you can have the people you love without the platform you hate.\n\nThis is a very administrable policy. The main lift is figuring out the nuts and bolts of interoperability, and while that's a big technical project, it's the kind of thing you only have to do once or twice. Then, if a platform fails in its duty to forward your messages after you leave, it's very easy for a regulator to determine whether it's violating the rules – they just have to send a message to your old account and see if it shows up for your new account:\n\n[https://pluralistic.net/2022/12/19/better-failure/#let-my-tweeters-go](https://pluralistic.net/2022/12/19/better-failure/#let-my-tweeters-go)\n\nA hate speech policy is hard to administer because it requires resolving a bunch of fact-intensive questions. A \"right to exit\" policy replaces all those fact-intensive questions with a bright line policy (\"if you don't forward your former users' messages, you are guilty\"), which can be administered at high speed.\n\nWhenever a fact-intensive policy that regulates an infrequent activity fails because the activity becomes more frequent, you have two choices: you can either slow down the activity, or you can replace the fact-intensive questions with bright-line tests that can be resolved much more quickly.\n\nBut more often, we fail to do either, and everything goes very badly indeed.\n\nThat's more or less what's happened with \"merger scrutiny,\" the part of antitrust law that lets competition regulators (or competitors) block or put conditions on mergers that involve large firms.\n\nIn these merger scrutiny cases, plaintiffs who challenge a merger are expected to resolve a bunch of *extremely* fact-intensive questions. Fail to resolve any of these questions and the merger goes ahead.\n\nThe most pernicious fact-intensive question that arises in antitrust cases is \"market definition.\" That's pretty much what it sounds like: \"What market is this company doing business in?\" If you can prove that the companies in a proposed merger are in the same market, then it's a lot easier to prove that allowing the merger would reduce competition.\n\nThe problem is that \"market\" is a very slippery concept. As Tim Wu describes in his excellent book *The Age of Extraction*, \"market definition\" creates a near-infinite amount of wiggle-room:\n\n[https://www.wired.com/story/tim-wu-age-of-extraction/](https://www.wired.com/story/tim-wu-age-of-extraction/)\n\nWhen Wu was serving in the Obama FTC, he had a front-row seat for Google's acquisition of Waze. Now, obviously these companies are direct competitors, but the Obama administration wanted the merger to go through (it was dominated by people who thought monopolies are efficient and didn't want to do their jobs). So these officials decided that Google Maps' market was \"finding out where you are\" and that Waze's market was \"getting you somewhere.\" It was really that stupid.\n\nWriting for the *Law and Political Economy* project, Hal Singer explains how the fact-intensive nature of the \"market definition\" question makes it virtually impossible to prevent market concentration and abuse of dominance:\n\n[https://lpeproject.org/blog/the-market-definition-trap/](https://lpeproject.org/blog/the-market-definition-trap/)\n\nFrom Livenation/Ticketmaster to Paramount/Warner Brothers, the \"market definition trap\" leaves the public virtually defenseless before efforts to reorganize the economy into extractive, rapacious cartels.\n\nIn a recent interview with the Do Not Pass Go podcast, Paul Crampton (Canada's recently retired top competition judge) talks about the tsunami of mergers that Canada's Competition Bureau is expected to oversee:\n\n[https://www.donotpassgo.ca/p/inside-canadas-competition-court](https://www.donotpassgo.ca/p/inside-canadas-competition-court)\n\nFact-intensive market definition questions can't possibly be resolved at the pace of mergers. That's because companies' preferred growth strategy is combining, rather than competing. There's plenty of political problems with merging Paramount and Warner, but there's also a huge *economic* problem, because these companies are direct competitors who will soon operate as a single firm.\n\nThe M&A industry has staged a denial of service attack on its regulators, accelerating the pace of mergers involving large firms far beyond the ability of a regulator to resolve the fact-intensive questions these mergers raise. They've flooded the zone, and after the mergers go through and the companies start abusing their customers, workers and competitors, these same market definition questions bedevil any attempt to rein in this abuse of dominance.\n\nSinger makes some excellent suggestions for legal reforms to resolve this, moving some of the fact-intensive questions to bright-line ones, such as \"whether the challenged conduct injured workers, consumers, or some other counterparty.\"\n\nThis is the right approach. As we plan for a future in which legislatures recognize the enormous harms that monopolization inflicted on our societies, we need to come up with more bright-line rules for antimonopoly rules. These will lack some of the subtlety that fact-intensive treatment affords, but you can't do fact-intensive adjudication for high frequency activities. So maybe we say that no company can acquire or merge with another company more than once in 18 months, or that companies that share more than 10% of their customers can't merge.\n\nSome \"good\" mergers will fail these tests, but that's the price we pay. If you want to move mergers from a rare occurrence to an everyday, you're going to have to accept a loss of nuance in the rules for these mergers. The alternative is the ugly, self-destructive mess we have today.\n\n(*Image: [Harrison Keely](https://commons.wikimedia.org/wiki/File:The_Clay_County_Courthouse_courtroom_in_2007.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en); [DocteurCosmos](https://commons.wikimedia.org/wiki/File:Playground_slide_close-up.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en); modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- \"Gooning Towards the Führer\" as policy coordination [https://www.programmablemutter.com/p/gooning-towards-the-fuhrer-as-policy](https://www.programmablemutter.com/p/gooning-towards-the-fuhrer-as-policy)\n\n- \nThe one thing everyone gets wrong about feminism [https://www.theguardian.com/world/2026/mar/15/feminism-isnt-dead-rebecca-solnit](https://www.theguardian.com/world/2026/mar/15/feminism-isnt-dead-rebecca-solnit)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#retro))\n\n#25yrsago Warner Bros v Potter fandom [https://web.archive.org/web/20010331091849/http://www.potterwar.org.uk/home/index.html](https://web.archive.org/web/20010331091849/http://www.potterwar.org.uk/home/index.html)\n\n#20yrsago Rant transcript from Game Developers’ Conference [https://web.archive.org/web/20060404230422/http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html](https://web.archive.org/web/20060404230422/http://crystaltips.typepad.com/wonderland/2006/03/gdc_game_develo.html)\n\n#20yrsago Union Pacific threatens to sue painters, model railroaders over trademark [https://web.archive.org/web/20060413085045/https://www.trains.com/community/forum/topic.asp?page=-1&amp;TOPIC_ID=60666&amp;REPLY_ID=681783#681783](https://web.archive.org/web/20060413085045/https://www.trains.com/community/forum/topic.asp?page=-1&amp;TOPIC_ID=60666&amp;REPLY_ID=681783#681783)\n\n#20yrsago US frequent flier programs deliver less and less [https://www.nytimes.com/2006/03/21/business/still-loyal-to-your-airline-you-must-be-looney-tunes.html](https://www.nytimes.com/2006/03/21/business/still-loyal-to-your-airline-you-must-be-looney-tunes.html)\n\n#20yrsago Mother Jones on IP overkill [https://www.motherjones.com/politics/2006/03/intellectual-property-run-amok/](https://www.motherjones.com/politics/2006/03/intellectual-property-run-amok/)\n\n#20yrsago Comic advises women to call anti-abortion Senator to make their choices [https://web.archive.org/web/20060321230542/http://minimumsecurity.net/toons2006/6034.htm](https://web.archive.org/web/20060321230542/http://minimumsecurity.net/toons2006/6034.htm)\n\n#20yrsago HOWTO become an early riser [https://stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/](https://stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/)\n\n#15yrsago Trademark thought experiment: when should intermediaries be cops? (Barista vs. Barbie) [https://memex.craphound.com/2011/03/23/trademark-thought-experiment-when-should-intermediaries-be-cops-barista-vs-barbie/](https://memex.craphound.com/2011/03/23/trademark-thought-experiment-when-should-intermediaries-be-cops-barista-vs-barbie/)\n\n#15yrsago New York Times advances weird, self-destructive trademark theory to prop up its paywall [https://memex.craphound.com/2011/03/23/new-york-times-advances-weird-self-destructive-trademark-theory-to-prop-up-its-paywall/](https://memex.craphound.com/2011/03/23/new-york-times-advances-weird-self-destructive-trademark-theory-to-prop-up-its-paywall/)\n\n#15yrsago LSE economists: file sharing isn’t killing music industry, but copyright enforcement will [https://arstechnica.com/tech-policy/2011/03/is-file-sharing-the-global-future/](https://arstechnica.com/tech-policy/2011/03/is-file-sharing-the-global-future/)\n\n#15yrsago Anti-union group: send us secret, unlimited donations so we can bring transparency to politics! [https://web.archive.org/web/20110325141411/https://www.wmc.org/MediaOutlet/display.cfm?ID=2485](https://web.archive.org/web/20110325141411/https://www.wmc.org/MediaOutlet/display.cfm?ID=2485)\n\n#15yrsago Why Rebecca Black fascinates us, and why the mashups suck [https://www.happyrobot.net/words/pony.asp?id=10233](https://www.happyrobot.net/words/pony.asp?id=10233)\n\n#15yrsago Understanding the SSL security breach, preparing for the next one [https://www.eff.org/deeplinks/2011/03/iranian-hackers-obtain-fraudulent-https](https://www.eff.org/deeplinks/2011/03/iranian-hackers-obtain-fraudulent-https)\n\n#10yrsago Airlines celebrate record profits, having killed bereavement fares [https://www.latimes.com/business/la-fi-lazarus-20160322-column.html](https://www.latimes.com/business/la-fi-lazarus-20160322-column.html)\n\n#10yrsago Bake: homemade Jabba the Hutt peeps [https://www.starwars.com/news/jabba-the-hutt-marshmallow-treats](https://www.starwars.com/news/jabba-the-hutt-marshmallow-treats)\n\n#5yrsago Tories pass Grenfell costs onto tenants [https://pluralistic.net/2021/03/23/parliament-of-landlords/#slow-motion-arson](https://pluralistic.net/2021/03/23/parliament-of-landlords/#slow-motion-arson)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Berkeley: Bioneers keynote, Mar 27\n\n[https://conference.bioneers.org/](https://conference.bioneers.org/)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/25/fact-intensive/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/25/fact-intensive/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 25 Mar 2026 07:08:48 +0000",
+        "reading_time": 21,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Thoughts on slowing the fuck down - # Summary: Thoughts on Slowing the Fuck Down Mario Zechner, creator of the Pi agent framew...",
+    "datasette-llm 0.1a1 - I notice that the article content for \"datasette-llm 0.1a1\" by Simon Willison wasn't inclu...",
+    "LiteLLM Hack: Were You One of the 47,000? - # LiteLLM Hack: 47,000 Affected Users A significant supply-chain attack targeted the LiteL...",
+    "Improved Analytics in App Store Connect - # Summary: App Store Connect Analytics Update Apple announced the most significant update...",
+    "‘A List of Chain Restaurants Whose Names Contain Unusual Structures’ - **Summary:** This humorous article ranks chain restaurants by how appealing it would be to..."
+  ],
+  "wordcloud": [
+    {
+      "word": "article",
+      "count": 10
+    },
+    {
+      "word": "claude",
+      "count": 9
+    },
+    {
+      "word": "code",
+      "count": 9
+    },
+    {
+      "word": "summary",
+      "count": 9
+    },
+    {
+      "word": "users",
+      "count": 8
+    },
+    {
+      "word": "developers",
+      "count": 8
+    },
+    {
+      "word": "update",
+      "count": 8
+    },
+    {
+      "word": "app",
+      "count": 6
+    },
+    {
+      "word": "without",
+      "count": 6
+    },
+    {
+      "word": "author",
+      "count": 6
+    },
+    {
+      "word": "feature",
+      "count": 6
+    },
+    {
+      "word": "wander",
+      "count": 6
+    },
+    {
+      "word": "sora",
+      "count": 5
+    },
+    {
+      "word": "data",
+      "count": 5
+    },
+    {
+      "word": "analytics",
+      "count": 5
+    },
+    {
+      "word": "tools",
+      "count": 5
+    },
+    {
+      "word": "dialog",
+      "count": 4
+    },
+    {
+      "word": "message",
+      "count": 4
+    },
+    {
+      "word": "complete",
+      "count": 4
+    },
+    {
+      "word": "release",
+      "count": 4
+    },
+    {
+      "word": "litellm",
+      "count": 4
+    },
+    {
+      "word": "versions",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "performance",
+      "count": 4
+    },
+    {
+      "word": "source",
+      "count": 4
+    },
+    {
+      "word": "allowing",
+      "count": 4
+    },
+    {
+      "word": "control",
+      "count": 4
+    },
+    {
+      "word": "open",
+      "count": 4
+    },
+    {
+      "word": "enforcement",
+      "count": 4
+    },
+    {
+      "word": "design",
+      "count": 3
+    },
+    {
+      "word": "writing",
+      "count": 3
+    },
+    {
+      "word": "ballmer",
+      "count": 3
+    },
+    {
+      "word": "march",
+      "count": 3
+    },
+    {
+      "word": "change",
+      "count": 3
+    },
+    {
+      "word": "box",
+      "count": 3
+    },
+    {
+      "word": "multiple",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "agent",
+      "count": 3
+    },
+    {
+      "word": "introduces",
+      "count": 3
+    },
+    {
+      "word": "concept",
+      "count": 3
+    },
+    {
+      "word": "datasette-llm",
+      "count": 3
+    },
+    {
+      "word": "simon",
+      "count": 3
+    },
+    {
+      "word": "willison",
+      "count": 3
+    },
+    {
+      "word": "tool",
+      "count": 3
+    },
+    {
+      "word": "key",
+      "count": 3
+    },
+    {
+      "word": "features",
+      "count": 3
+    },
+    {
+      "word": "significant",
+      "count": 3
+    },
+    {
+      "word": "malicious",
+      "count": 3
+    },
+    {
+      "word": "available",
+      "count": 3
+    },
+    {
+      "word": "packages",
+      "count": 3
+    },
+    {
+      "word": "store",
+      "count": 3
+    },
+    {
+      "word": "connect",
+      "count": 3
+    },
+    {
+      "word": "enables",
+      "count": 3
+    },
+    {
+      "word": "user",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "download",
+      "count": 3
+    },
+    {
+      "word": "help",
+      "count": 3
+    },
+    {
+      "word": "list",
+      "count": 3
+    },
+    {
+      "word": "chain",
+      "count": 3
+    },
+    {
+      "word": "restaurants",
+      "count": 3
+    },
+    {
+      "word": "appealing",
+      "count": 3
+    },
+    {
+      "word": "continue",
+      "count": 3
+    },
+    {
+      "word": "console",
+      "count": 3
+    },
+    {
+      "word": "load",
+      "count": 3
+    },
+    {
+      "word": "ios",
+      "count": 3
+    },
+    {
+      "word": "playlist",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "become",
+      "count": 3
+    },
+    {
+      "word": "created",
+      "count": 2
+    },
+    {
+      "word": "shared",
+      "count": 2
+    },
+    {
+      "word": "human",
+      "count": 2
+    },
+    {
+      "word": "docs",
+      "count": 2
+    },
+    {
+      "word": "open-source",
+      "count": 2
+    },
+    {
+      "word": "web",
+      "count": 2
+    },
+    {
+      "word": "hand",
+      "count": 2
+    },
+    {
+      "word": "generated",
+      "count": 2
+    },
+    {
+      "word": "steve",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "executive",
+      "count": 2
+    },
+    {
+      "word": "nba",
+      "count": 2
+    },
+    {
+      "word": "owner",
+      "count": 2
+    },
+    {
+      "word": "loop",
+      "count": 2
+    },
+    {
+      "word": "msg",
+      "count": 2
+    },
+    {
+      "word": "wait",
+      "count": 2
+    },
+    {
+      "word": "objects",
+      "count": 2
+    },
+    {
+      "word": "instead",
+      "count": 2
+    },
+    {
+      "word": "lets",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "beyond",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "thoughts",
+      "count": 2
+    },
+    {
+      "word": "slowing",
+      "count": 2
+    },
+    {
+      "word": "fuck",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "mario",
+      "count": 2
+    },
+    {
+      "word": "creator",
+      "count": 2
+    },
+    {
+      "word": "engineering",
+      "count": 2
+    },
+    {
+      "word": "speed",
+      "count": 2
+    },
+    {
+      "word": "mistakes",
+      "count": 2
+    }
+  ]
+}
