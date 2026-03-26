@@ -1,0 +1,757 @@
+{
+  "date": "2026-03-26",
+  "stats": {
+    "total_fetched": 281,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Lebesgue constants",
+        "summary": "I alluded to Lebesgue constants in the previous post without giving them a name. There I said that the bound on order n interpolation error has the form where h is the spacing between interpolation points and δ is the er...",
+        "url": "https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 26 Mar 2026 20:05:06 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How much precision can you squeeze out of a table?",
+        "summary": "Richard Feynman said that almost everything becomes interesting if you look into it deeply enough. Looking up numbers in a table is certainly not interesting, but it becomes more interesting when you dig into how well yo...",
+        "url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 26 Mar 2026 14:33:37 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "SQLAlchemy 2 In Practice - Chapter 2 - Database Tables",
+        "summary": "This is the second chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my work, I encourage you to buy this book, either directly from my store or on Amazon. Thank you! This chapter provides an overview...",
+        "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables",
+        "source": "Miguel Grinberg's Blog",
+        "tags": [
+          "Database",
+          "Systems"
+        ],
+        "published_at": "Thu, 26 Mar 2026 12:30:03 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Apple Charging Situation",
+        "summary": "Speaking of power adapters, this information guide from Rands in Repose is both useful and enlightening. ★",
+        "url": "https://randsinrepose.com/guides/apple-charging-guide.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "2026-03-26T20:20:49.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’",
+        "summary": "Well, at least we know who taught her to talk like that. ★",
+        "url": "https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "2026-03-26T18:10:22.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Adding human.json to WordPress",
+        "summary": "Every few years, someone reinvents FOAF. The idea behind Friend-Of-A-Friend is that You can say \"I, Alice, know and trust Bob\". Bob can say \"I know and trust Alice. I also know and trust Carl.\" That social graph can be n...",
+        "url": "https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Thu, 26 Mar 2026 12:34:52 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?",
+        "summary": "Because it opted out. The post Why doesn’t <CODE>WM_<WBR>ENTER­IDLE</CODE> work if the dialog box is a <CODE>Message­Box</CODE>? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 26 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Melissa virus of 1999",
+        "summary": "The Melissa virus was a mass-mailing macro virus from March 1999. It was one of the more notorious computer viruses of the 1990s, and reportedly the author named it for a dancer he met in a Florida nightclub. Authorities...",
+        "url": "https://dfarq.homeip.net/the-melissa-virus-of-1999/?utm_source=rss&utm_medium=rss&utm_campaign=the-melissa-virus-of-1999",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 26 Mar 2026 11:00:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I Can't See Apple's Vision",
+        "summary": "Companies, as they grow to become multi-billion-dollar entities, somehow lose their vision. They insert lots of layers of middle management between the people running the company and the people doing the work. They no lo...",
+        "url": "https://matduggan.com/i-cant-see-apples-vision/",
+        "source": "matduggan.com",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Thu, 26 Mar 2026 11:54:18 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A one-line Kubernetes fix that saved 600 hours a year",
+        "summary": "When we investigated why our Atlantis instance took 30 minutes to restart, we discovered a bottleneck in how Kubernetes handles volume permissions. By adjusting the fsGroupChangePolicy, we reduced restart times to 30 sec...",
+        "url": "https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Thu, 26 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-26T22:17:57.485Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quantization from the ground up",
+        "summary": "26th March 2026 - Link Blog\n\n**[Quantization from the ground up](https://ngrok.com/blog/quantization)**. Sam Rose continues [his streak](https://simonwillison.net/tags/sam-rose/) of publishing spectac",
+        "content": "26th March 2026 - Link Blog\n\n**[Quantization from the ground up](https://ngrok.com/blog/quantization)**. Sam Rose continues [his streak](https://simonwillison.net/tags/sam-rose/) of publishing spectacularly informative interactive essays, this time explaining how quantization of Large Language Models works (which he says might be \"[the best post I've ever made](https://twitter.com/samwhoo/status/2036845101561835968)\".)\n\nAlso included is the best visual explanation I've ever seen of how floating point numbers are represented using binary digits.\n\n![](https://static.simonwillison.net/static/2026/float.jpg)\n\nI hadn't heard about **outlier values** in quantization - rare float values that exist outside of the normal tiny-value distribution - but apparently they're very important:\n\n> Why do these outliers exist? [...] tl;dr: no one conclusively knows, but a small fraction of these outliers are *very* important to model quality. Removing even a *single* \"super weight,\" as Apple calls them, can cause the model to output complete gibberish.\n\n> Given their importance, real-world quantization schemes sometimes do extra work to preserve these outliers. They might do this by not quantizing them at all, or by saving their location and value into a separate table, then removing them so that their block isn't destroyed.\n\nPlus there's a section on [How much does quantization affect model accuracy?](https://ngrok.com/blog/quantization#how-much-does-quantization-affect-model-accuracy). Sam explains the concepts of **perplexity** and ** KL divergence ** and then uses the [llama.cpp perplexity tool](https://github.com/ggml-org/llama.cpp/tree/master/tools/perplexity) and a run of the GPQA benchmark to show how different quantization levels affect Qwen 3.5 9B.\n\nHis conclusion:\n\n> It looks like 16-bit to 8-bit carries almost no quality penalty. 16-bit to 4-bit is more noticeable, but it's certainly not a quarter as good as the original. Closer to 90%, depending on how you want to measure it.",
+        "url": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-03-26T16:21:09.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4",
+        "summary": "[iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/)\n\nGood rundown of everything new and changed, as usual, from Juli Clover at MacRumors. This has been a noticeable change for me:\n\n> The Ap",
+        "content": "[iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/)\n\nGood rundown of everything new and changed, as usual, from Juli Clover at MacRumors. This has been a noticeable change for me:\n\n> The App Store merges apps and purchase history, and has a\n> dedicated section for app updates. It now takes two taps to get to\n> app updates rather than having them available at the bottom of the\n> profile page.\n\nAt first the extra tap irked me, but it really does make more sense for Updates to have its own section. I update apps manually, because I like reading release notes from developers who take the time to document changes, and I also like reading “Bug fixes and performance improvements” over and over and over again from developers who do not.\n\n★ *Tuesday, 24 March 2026*\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-593949-1']);\n  _gaq.push (['_gat._anonymizeIp']);\n  _gaq.push(['_trackPageview']);\n  (function() {\n\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n -->\n\n(function () {\n\tvar ma = document.createElement('script');\n\tma.type = 'text/javascript';\n\tma.src = '/mint/?js';\n\tma.async = true;\n\tvar s = document.getElementsByTagName('script')[0];\n\ts.parentNode.insertBefore(ma, s);\n})();\n\n-->",
+        "url": "https://daringfireball.net/linked/2026/03/24/ios-264",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-26T19:35:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed",
+        "summary": "[OpenAI](https://variety.com/t/openai/) said it will discontinue [Sora](https://variety.com/t/sora/), the generative-AI video creation app it launched last year, without providing a reason for the dec",
+        "content": "[OpenAI](https://variety.com/t/openai/) said it will discontinue [Sora](https://variety.com/t/sora/), the generative-AI video creation app it launched last year, without providing a reason for the decision.\n\n\t“We’re saying goodbye to Sora. To everyone who created with Sora, shared it, and built community around it: thank you. What you made with Sora mattered, and we know this news is disappointing,” OpenAI’s Sora team said in a [statement](https://x.com/soraofficialapp/status/2036532795984715896) Tuesday. \n\n\tThe statement added, “We’ll share more soon, including timelines for the app and API and details on preserving your work.” OpenAI didn’t respond to requests for additional info.\n\n\t\n\n\t\t\t\n### \n\t\t\tPopular on Variety\t\t\n\n\t\n\t\t\n\t\n\n\tThe announcement comes just three months after [Disney inked a groundbreaking deal with OpenAI](https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/). Under the [three-year licensing agreement](https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/), Sora would have been able to generate user-prompted videos from a set of more than 200 masked, animated or creature characters from [Disney](https://variety.com/t/disney/), Marvel, Pixar and Star Wars. Sora and ChatGPT Images were to generate “fan-inspired” videos with Disney’s licensed characters in early 2026 — with Disney+ adding a curated selections of Sora-generated videos.\n\n\tDisney has now ended its partnership with OpenAI, which included plans for the media conglomerate to take a $1 billion stake in the artificial-intelligence company led by CEO Sam Altman.\n\n\tA Disney rep said in a statement to *Variety*: “As the nascent AI field advances rapidly, we respect OpenAI’s decision to exit the video generation business and to shift its priorities elsewhere. We appreciate the constructive collaboration between our teams and what we learned from it, and we will continue to engage with AI platforms to find new ways to meet fans where they are while responsibly embracing new technologies that respect IP and the rights of creators.”\n\n\t\n\n\tThe second iteration of OpenAI’s Sora, which launched in late September 2025, generated stunningly realistic-looking videos — and raised alarms in Hollywood given the Sora 2 opt-out model requiring IP owners to proactively flag that [they wanted their copyrighted works excluded from the system](https://variety.com/2025/film/news/caa-openai-sora-2-harmful-intellectual-property-1236543954/). In November, Japanese content trade group [CODA, whose members include animation house Studio Ghibli, issued a letter to OpenAI](https://variety.com/2025/digital/news/studio-ghibli-openai-sora2-japanese-trade-group-coda-letter-1236568751/) demanding the AI company stop using their content to train Sora 2.\n\n\tOpenAI had provided a preview of Sora, which uses a text-to-video model, in February 2024 before releasing the first public version of it in December of that year. The stand-alone Sora app was released in September 2025. With the shutdown of the Sora app, ChatGPT also will no longer generate video based on text prompts.\n\n\t“Turn your ideas into videos with hyperreal motion and sound,” OpenAI’s Sora page says. “Cast yourself and your friends in videos as characters.”\n\n\tOther generative-AI video platforms will remain in service — some of which Disney and other Hollywood studios have accused of copyright infringement.\n\n\tShortly before it announced the pact with OpenAI, [Disney sent Google a cease-and-desist demand](https://variety.com/2025/digital/news/disney-google-ai-copyright-infringement-cease-and-desist-letter-1236606429/), alleging the internet giant was engaging in copyright infringement on a “massive scale” using AI models and services to “commercially exploit and distribute” infringing images and videos. ([Google subsequently removed AI-generated videos](https://variety.com/2025/film/news/google-removes-ai-videos-disney-characters-cease-desist-1236608015/) of intellectual property identified by Disney.)\n\n\tThat came after Disney had earlier in 2025 sent cease-and-desist letters to Meta and [Character.AI](https://variety.com/2025/digital/news/disney-character-ai-cease-desist-letter-remove-characters-1236536217/), as well as lawsuits Disney filed together with NBCUniversal and Warner Bros. Discovery against [AI companies Midjourney](https://variety.com/2025/film/news/midjourney-disney-ai-training-lawsuit-1236481167/) and [Minimax alleging copyright infringement](https://variety.com/2025/digital/news/disney-warner-bros-discovery-nbcu-lawsuit-minimax-chinese-ai-company-1236520395/).\n\n\tMore recently, China’s ByteDance incurred a spate of legal threats from studios including Disney, Paramount, [Warner Bros.](https://variety.com/2026/film/news/warner-bros-bytedance-ai-batman-superman-game-of-thrones-1236665979/), [Sony](https://variety.com/2026/film/news/sony-seedance-protest-1236666951/) and [Netflix](https://variety.com/2026/tv/news/netflix-bytedance-immediate-litigation-seedance-ai-1236666084/) with its Seedance 2.0 AI system. In response, [ByteDance promised to implement additional safeguards](https://variety.com/2026/film/news/paramount-disney-bytedance-cease-and-desist-seedance-ai-infringement-ip-1236663663/) “as we work to prevent the unauthorized use of intellectual property and likeness by users.”",
+        "url": "https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-03-26T19:26:38.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’",
+        "summary": "[\n                            \n                                ![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)\n                              \n         ",
+        "content": "[\n                            \n                                ![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)\n                              \n                              \n                              \n                              \n\n  \n                        ](https://www.businessinsider.com/author/katie-notopoulos)\n                      \n                        \n                           Senior Correspondent covering technology and culture\n                                \n                            \n                            \n                                \n                                \n                            \n                          \n                            \n                            \n                    \n                    \n\n      \n\n  \n    \n    \n    \n    \n      \n            \n            \n            \n            \n                  \n                      \n                        \n                        ![Sora app on Apple App Store](https://i.insider.com/69c40a285b58f1f0f9337120?width=700)\n                      \n\n                  \n                    \n                          \n                            \n                            \n                              \n                                \n                                      \n                    \n                            \n                              Sora was too good for this world. Now it's gone. \n                              \n                                Samuel Boivin/NurPhoto via Getty Images          \n                            \n                          \n                    \n            \n    \n    \n    \n              \n      \n      \n              \n              \n              \n              \n                \n                    - Goodbye, [Sora](https://www.businessinsider.com/openai-discontinues-sora-video-app-amid-robotics-shift-compute-limitations-2026-3)!\n\n                    - I loved you at first — it was so much fun making silly videos of my friends.\n\n                    - After a few days, I got bored and moved on. Apparently so did everyone else.\n\n                \n\n              \n              \n              \n              \n              \n              \n      \n            \n      \n        \n                  \n                      Goodnight, sweet Sora. You were a wonderful tool for trolling my friends, but you burned too bright (and used too much compute) to stay around in this harsh world.\n\nFor a brief moment, I [absolutely loved Sora](https://www.businessinsider.com/sora-ai-video-social-media-openai-2025-10). I loved making silly videos of my friends and me. I loved that I could use my friend's face to put them in ridiculous situations, like falling over while roller-skating at their desk, experiencing gastric distress, or singing in a ska band.\n\nI was addicted to making these, churning them out, often starting a new one while waiting for the previous one to render, and sometimes hitting the hourly limit that OpenAI had to impose after some people (oops) were burning through all that free compute. I drained my phone battery by midday.\n\n                    \n                    \n                    \n                      \n                  \n                    \n                    \n                    ![a video from sora of me and sam altman rollerskatong](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg xmlns='http://www.w3.org/2000/svg' width='1' height='1'/%3E)\n                  \n\n                    \n                    \n                          \n                            A Sora-generated video of Sam Altman and me (in skinny jeans) rollerskating. \n                            \n                    \n                    \n                    Sora 2\n                    \n                    \n                          \n                        \n                    \n                  But a few days after its initial launch, the small handful of my friends and colleagues who had any interest in joining had already joined. None of my normal friends who didn't work in tech or media had any interest in this at all and found it fairly unpleasant.\n\nAlso, I couldn't help notice that on the feed of videos, there seemed to be very few women using the app, or at least allowing others to make videos featuring their likenesses. That makes sense; women's experience on the internet has rightfully informed them that it would be a very bad idea to allow strangers to make videos with your face. What I discovered was that Sora had a [pervert problem](https://www.businessinsider.com/sora-video-openai-fetish-content-my-face-problem-2025-10): Although nudity or sexual content was banned, people were making non-nude fetish content like feet videos with random women's likenesses.\n\n                    \n                  \n                    \n                  Now, OpenAI announced on Tuesday that it will be shutting down Sora, its stand-alone video generation app, and its [deal with Disney is dead](https://www.businessinsider.com/disney-openai-deal-breakup-test-ceo-josh-damaro-short-form-2026-3). An OpenAI spokesperson told Business Insider that the company is focusing its resources on other parts of the business. It seems that Sora was one of the \"[side quests](https://www.businessinsider.com/openai-kills-sora-app-ai-compute-crunch-forces-hard-choices-2026-3)\" that was a distraction and a drain on compute.\n\n## Sora became a bore-a\n\nEventually, my [friends all seemed to get bored with the app](https://www.businessinsider.com/sora-app-ai-video-openai-sam-altman-bored-why-2025-11). As I do at most parties, I stuck around longer than everyone else, but eventually I, too, found that the novelty had worn off. I rarely opened the app after the second week.\n\nThis was, I imagine, a problem: making videos of yourself is fun, but watching videos that strangers make of themselves is not fun. The idea of a social feed of AI-generated videos is simply not something that people are interested in. Around the same time, Meta also tried this with an app of AI videos, and it was even more boring.\n\nThe last few years have taught us that humans — myself included — have a nearly endless capacity to watch an algorithmic feed of vertical short-form videos. However, it seems clear that this only applies to human-made content: videos of people putting on makeup, dancing in their kitchens, lip-syncing, debating, whatever. A social feed of AI video simply doesn't work.\n\nI am not sure that OpenAI was truly trying to create a successful social video feed; it seems more likely that this was a small experimental effort that ran its course and they're moving on.\n\nI'll miss Sora in the way I miss something like [ChatRoulette](https://www.businessinsider.com/what-to-make-of-chatroulette-2010-2) or BeReal: It was really fun for a short time, and then not at all, and I have zero desire to ever revisit.\n\nRest in peace, Sora — and thanks for the stupid memories.\n\n                  \n                  \n                  \n    \n    \n    \n    \n      \n\n    \n      \n\n    \n      \n      \n        \n    \n    \n          \n          \n          \n          \n            \n                \n                - \n                  [OpenAI](https://www.businessinsider.com/category/openai)\n                \n      \n                - \n                  [Sam Altman](https://www.businessinsider.com/category/sam-altman)\n                \n      \n                - \n                  [ChatGPT](https://www.businessinsider.com/category/chat-gpt)\n                \n\n                - \n                  More \n            \n          \n                \n\n          \n                  \n                  - \n                    [AI](https://www.businessinsider.com/category/ai)\n                  \n        \n                  - \n                    [Artificial Intelligence](https://www.businessinsider.com/category/artificial-intelligence)\n                  \n  \n\n          \n    \n    \n            \n              \n              \n              \n                  \n                    \n## \n                      Read next",
+        "url": "https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-26T17:24:53.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks",
+        "summary": "macOS Tahoe 26.4 includes a new slow charger indicator that tells MacBook users when their charging setup isn't delivering full power.\n\n![macos slow charger warning%402x](https://images.macrumors.com/",
+        "content": "macOS Tahoe 26.4 includes a new slow charger indicator that tells MacBook users when their charging setup isn't delivering full power.\n\n![macos slow charger warning%402x](https://images.macrumors.com/t/GSCVTORHFrZ10S6-Bmr8Epy_sgk=/400x0/article-new/2026/03/macos-slow-charger-warning%402x.jpg?lossy)\nAs described in an updated [Apple support document](https://support.apple.com/en-us/102397), a \"Slow Charger\" label now appears in orange text in the battery status menu and above the Battery Level graph in Battery settings. The indicator is accompanied by an info button for more details.\n\nApple says that to charge more quickly, users should use a power adapter and cable that deliver at least the [minimum wattage recommended for their MacBook model](https://support.apple.com/en-us/109509).\n\nThe feature is similar to one Apple [added to iPhone with iOS 18](https://www.macrumors.com/2024/06/11/ios-18-slow-charger-battery-settings/), where periods of slow charging appear as an orange bar in the Battery section of the Settings app.\n\nThe slow charger indicator is one of two battery-related changes in macOS 26.4. The update also adds a [Charge Limit feature](https://www.macrumors.com/2026/02/16/mac-charge-limit-macos-tahoe-26-4/) that lets MacBook users set a maximum charge level anywhere from 80 to 100 percent, with the aim of preserving long-term battery health.\n\nmacOS Tahoe 26.4 is available now via System Settings ➝ General ➝ Software Update.\n\n## Popular Stories\n\n### [iOS 26.4 Adds Two New Features to CarPlay](https://www.macrumors.com/2026/03/24/ios-26-4-adds-two-carplay-features/)\n\niOS 26.4 was released today, and it includes a couple of new features for CarPlay: an Ambient Music widget and support for voice-based chatbot apps.\nTo update your iPhone 11 or newer to iOS 26.4, open the Settings app and tap on General → Software Update. CarPlay will automatically offer the new features so long as the iPhone connected to your vehicle is running iOS 26.4 or later....\n\n### [Apple Unveils 'Apple Business' All-in-One Platform](https://www.macrumors.com/2026/03/24/apple-unveils-apple-business/)\n\nApple today announced Apple Business, a new all-in-one platform that unifies device management, productivity tools, and customer outreach features.\nThe service is designed to be a consolidated replacement for several of Apple's existing business-focused offerings, including Apple Business Essentials, Apple Business Manager, and Apple Business Connect. It provides organizations with a single...\n\n### [Apple Releases New Firmware for AirPods Pro 3, AirPods Pro 2 and AirPods 4](https://www.macrumors.com/2026/03/24/apple-releases-airpods-firmware-8b39/)\n\nTuesday March 24, 2026 12:31 pm PDT by [Juli Clover](https://www.macrumors.com/author/juli-clover/)\n\nApple today released new firmware for the AirPods Pro 2, AirPods Pro 3, and the AirPods 4. The firmware has a version number of 8B39, up from 8B34 on the AirPods Pro 3, 8B28 on the AirPods Pro 2, and 8B21 on the AirPods 4. \nThere is no word on what's included in the firmware, but Apple has a support document with limited notes. Most updates are limited to bug fixes and performance...",
+        "url": "https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-26T17:13:41.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Yankees Almost Signed Another P.E.D. Cheater",
+        "summary": "“George isn’t here anymore, so I can tell the truth, right?” Bonds said.\n\nThe “George” to whom Bonds was referring was, of course, George Steinbrenner, the legendary Yankees owner from 1973-2010.\n\nAcc",
+        "content": "“George isn’t here anymore, so I can tell the truth, right?” Bonds said.\n\nThe “George” to whom Bonds was referring was, of course, George Steinbrenner, the legendary Yankees owner from 1973-2010.\n\nAccording to Bonds, who was a free agent following seven seasons with the Pirates and two National League MVP Awards, Steinbrenner called him during that offseason with an offer to join the Bronx Bombers on the largest contract in baseball history.\n\n“Well, I would’ve been a Yankees [player],” Bonds said, “but Steinbrenner got on the phone and they called us and they told me, ‘Barry, we’re gonna give you the money -- [make you] the highest-paid player … but you have to sign the contract by 2:00 this afternoon.'”\n\nOne thing you don’t do is give Bonds an ultimatum.\n\n“And I said, ‘Excuse me?’” Bonds said. “And I just hung the phone up.”\n\nGiants franchise history would have been a lot different if Bonds, who grew up in the Bay Area and whose father, Bobby, played for San Francisco from 1968-74, had not hung up on “The Boss.” Bonds went on to win five more MVP Awards with San Francisco, and he hit 586 homers while in a Giants uniform.\n\n“I went to go get lunch and Dennis Gilbert, my agent, said, ‘Do you know what you just did?!’” Bonds said. “And I’m like, ‘Do you know what he just said?!’\n\n“… By the time I walked down the street to go get lunch, I just said, ‘Lemme just think about this.’ The Giants called me, and I said, ‘I’m going home.’”\n\nThe Giants and their fans, though, are happy it worked out so that Bonds ended up launching homers into McCovey Cove instead.",
+        "url": "https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-03-26T15:19:55.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The New York Yankees Have the Best Record in Baseball",
+        "summary": "[Cast in a starring role](https://www.mlb.com/news/yankees-set-for-netflix-opening-day-broadcast) for Major League Baseball’s opener on Netflix Wednesday, the Yankees looked every bit ready for prime ",
+        "content": "[Cast in a starring role](https://www.mlb.com/news/yankees-set-for-netflix-opening-day-broadcast) for Major League Baseball’s opener on Netflix Wednesday, the Yankees looked every bit ready for prime time. Their offense came at the Giants in waves, building an early lead that allowed Max Fried to cruise in a [7-0 victory](https://www.mlb.com/gameday/yankees-vs-giants/2026/03/25/823244/final/box) on Opening Night at Oracle Park.\n\n-   [Yankees single-game tickets for 2026 are on sale now!](https://www.mlb.com/yankees/tickets/single-game-tickets?affiliateId=mlbcom_article-inline-link_nyy)\n\n“This team led the Majors in runs scored [849] last year, and we have a lot of the same guys back,” Fried said. “One through nine, we can beat you. We obviously have the best player in the world [Aaron Judge] hitting for us, but we also have a lot of really good guys able to support him.”\n\nFollowing a [pregame spectacle](https://www.mlb.com/yankees/video/yankees-introduced-on-opening-night) that featured dancers, a patriotic smoke display, a pair of yellow Ford Crown Victoria taxis parked in front of the visiting dugout and a cable car on the home side, the Yankees took over the show.\n\n“You want to get that first win, first hits,” manager Aaron Boone said. “You want to get into that normal rhythm of the season, which takes a little bit of time. Obviously, it was a great way to start things.”\n\nTrent Grisham’s two-run triple highlighted a five-run second inning as the Yankees pounced on right-hander Logan Webb. Ryan McMahon added a two-run single in the frame as the Bombers secured their fifth consecutive Opening Day win (2022-present).\n\n“I think guys were just going up there, doing what the game asked them to do and take their knocks,” McMahon said. “We put a bunch of balls in play, found a couple of holes and ended up putting up a good number.”\n\nJosé Caballero, Giancarlo Stanton and Jazz Chisholm Jr. also drove in runs facing Webb, who surrendered seven runs (six earned) over five innings.\n\n“On a night when we didn’t hit the ball out of the ballpark, we had a lot of good pressurized at-bats,” Boone said. “We can beat you in a lot of different ways.”\n\n“I wanted to go for it,” Caballero said. “I thought it was a little higher than what it showed, but at least it was close.”\n\nOtherwise, the display wasn’t out of character for the Yanks, who remodeled their lineup mostly in this fashion from the Trade Deadline forward.\n\n“We have faith in all the guys here, from top to bottom, all the way to the end of the bench and the back of the bullpen,” Grisham said.\n\nFried filled the role of Yankees ace last season, but because of the timing of Gerrit Cole’s injury, he did not receive the honor of an Opening Day start.\n\n[That changed this year](https://www.mlb.com/yankees/news/max-fried-named-yankees-2026-opening-day-starter). Fried admitted he was “searching” throughout an erratic first inning that began with a four-pitch walk to leadoff hitter Luis Arraez.\n\nThe run support helped Fried settle in, beginning his second season in New York on a strong note. He became the first Yankee since David Cone (1996) to toss at least 6 1/3 scoreless innings on Opening Day.\n\n“I’ll definitely take it,” Fried said. “It wasn’t the sharpest, but at the end of the day, we won the game. I got deep into the game. You take it and you move on.”\n\nSaid Boone: “That’s what an ace looks like when he’s grinding. He set the tone for us.”\n\nPerhaps the only thing that didn’t go the Yankees’ way: playing in a Bay Area series that represents a homecoming for the Linden, Calif., product, Judge [struck out in his first four at-bats](https://www.mlb.com/yankees/news/aaron-judge-strikeouts-vs-giants-2026-opening-day) and finished 0-for-5, becoming the first reigning Most Valuable Player to fan four times in his team’s first game of a season.\n\nBut therein lay a silver lining – if the Yankees are putting up seven runs while Judge takes an 0-fer, imagine how they can perform when he’s clicking.\n\n“We’ve got a lot to prove,” Boone said. “We’re confident in our ability to have good at-bats and put up runs, but we’re one game into this thing. We’ve still got a long ways to go.”",
+        "url": "https://www.mlb.com/yankees/news/max-fried-yankees-shut-out-giants-on-opening-night-2026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-26T15:05:49.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Engineers do get promoted for writing simple code",
+        "summary": "It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t f",
+        "content": "It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t fire you. There’s a related take that [“nobody gets promoted for simplicity”](https://news.ycombinator.com/item?id=47246110): in other words, engineers who deliver overcomplicated crap will be promoted, because their work looks more impressive to non-technical managers.\n\nThere’s a grain of truth in this, of course. As I’ve said before, one mark of an elegant solution is that it makes the problem look easy (like how pro skiers make terrifying slopes look doable). However, I worry that some engineers take this too far. It’s actually a really bad idea to over-complicate your own work. **Simple software engineering does get rewarded, and on balance will take you further in your career.**\n\n### Non-technical managers are not stupid\n\nThe main reason for this is exactly the cynical point above: **most managers are non-technical and cannot judge the difficulty of technical work**. Of course, in the absence of anything better, managers will treat visible complexity as a mark of difficulty. But they usually do have something better to go on: actual *results*. \n\nCompare two new engineers: one who writes easy-looking simple code, and one who writes hard-looking complex code. When they’re each assigned a task, the simple engineer will quickly solve it and move onto the next thing. The complex engineer will take longer to solve it, encounter more bugs, and generally be busier. At this point, their manager might prefer the complex engineer. But what about the next task, or the task after that? Pretty soon the simple engineer will outstrip the complex one. In a year’s time, the simple engineer will have a much longer list of successful projects, and a reputation for delivering with minimal fuss. Managers pay *a lot* of attention to engineers with a reputation like that.\n\nOf course, the complex engineer might try a variety of clever tricks to avoid their fate. One common strategy is to hand off the complex work to other engineers to maintain, so the original engineer never has to suffer the consequences of their own design. Alternatively, the complex engineer might try and argue that they’ve been given the hardest problems, so of course each problem has taken longer[1](#fn-1).\n\nI don’t think these tricks fool most managers. For one, if you’re constantly handing your bad work off to other engineers, they will complain about you, and multiple independent complaints add up quickly. Non-technical managers are also typically primed to think that engineers are overcomplicating their work anyway. Your manager might initially nod along, but they’ll go away and quietly run it by their own trusted engineers.\n\n### Simple work means you can ship projects\n\nMost managers do not care about the engineering, they care about the *feature*. Software engineers who can ship features smoothly will be rewarded, and being able to write simple code is a strong predictor of being able to ship.\n\nDoes writing simple code really help you ship? You might think that simple code is harder to write than complicated code (which is true), and that therefore it’s easier to rapidly deliver something overcomplicated to “ship a feature”. I haven’t seen this be true in practice. The ability to write simple code is usually **the ability to understand the system well enough to see where a new change most neatly fits**. This is *hard*, but it doesn’t take a long time - if you’re familiar with the system, you’ll often see at a glance where the elegant place to slot in a new feature is. So good engineers can often deliver simple code at least as quick as complicated code. And of course, complicated code is slow to actually get working, harder to change, and so on. All of those things make it more awkward to ship[2](#fn-2).\n\nWhen managers are talking to each other, they’ll sometimes make a kind of backhanded compliment about an engineer: “they’re *so* smart, but…“. Typically the “but” here is “but they don’t have any business sense”, or “but they get too wrapped up in technical problems”, or anything that means “but they can’t ship”. Engineers who love to write complicated code get described like this a lot.\n\n### Final thoughts\n\n“You should write complicated code to avoid being replaced” is an example of a kind of mistake that many smart people make: obsessing over [second-order effects](https://fs.blog/second-order-thinking/) and forgetting first-order effects. Second-order effects - the way some actions can cause downstream consequences that are the opposite of their original goals - are fun to think about. But they are usually swamped by first-order effects. Yes, doing bad work can make you more difficult to replace, in some ways. But that’s outweighed by the negative consequences from the fact that *you are doing bad work*.\n\nIt’s often a smart political tactic to make your work sound slightly more complicated than it really is. Otherwise you risk falling into the “you made it look easy, therefore we didn’t need to pay you so much” trap. But it’s foolish to actually do unnecessarily complicated work. Software is hard enough as it is.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https://www.seangoedecke.com/simple-work-gets-rewarded/&t=Engineers%20do%20get%20promoted%20for%20writing%20simple%20code).\n\nHere's a preview of a related post that shares tags with this one.\n\n> Big tech engineers need big egos\n\nIt’s a [common position](https://matthogg.fyi/a-unified-theory-of-ego-empathy-and-humility-at-work/) among software engineers that big egos have no place in tech. This is understandable - we’ve all worked with some insufferably overconfident engineers who needed their egos checked - but I don’t think it’s correct. In fact, I don’t know if it’s possible to survive as a software engineer in a large tech company without some kind of big ego.\n[Continue reading...](https://seangoedecke.com/big-tech-needs-big-egos/)",
+        "url": "https://seangoedecke.com/simple-work-gets-rewarded/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Security",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Thu, 26 Mar 2026 00:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It",
+        "summary": "Wednesday, March 25, 2026",
+        "content": "Wednesday, March 25, 2026",
+        "url": "https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-03-26T19:08:25.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quantization from the ground up - 26th March 2026 - Link Blog **[Quantization from the ground up](https://ngrok.com/blog/qua...",
+    "You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4 - [iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/) Good rundown of everything...",
+    "Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed - [OpenAI](https://variety.com/t/openai/) said it will discontinue [Sora](https://variety.co...",
+    "Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’ - [ ![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C...",
+    "MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks - macOS Tahoe 26.4 includes a new slow charger indicator that tells MacBook users when their..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "work",
+      "count": 6
+    },
+    {
+      "word": "code",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "know",
+      "count": 4
+    },
+    {
+      "word": "box",
+      "count": 4
+    },
+    {
+      "word": "sora",
+      "count": 4
+    },
+    {
+      "word": "yankees",
+      "count": 4
+    },
+    {
+      "word": "interesting",
+      "count": 3
+    },
+    {
+      "word": "chapter",
+      "count": 3
+    },
+    {
+      "word": "trust",
+      "count": 3
+    },
+    {
+      "word": "virus",
+      "count": 3
+    },
+    {
+      "word": "march",
+      "count": 3
+    },
+    {
+      "word": "quantization",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "macrumors",
+      "count": 3
+    },
+    {
+      "word": "openai",
+      "count": 3
+    },
+    {
+      "word": "macos",
+      "count": 3
+    },
+    {
+      "word": "slow",
+      "count": 3
+    },
+    {
+      "word": "charger",
+      "count": 3
+    },
+    {
+      "word": "george",
+      "count": 3
+    },
+    {
+      "word": "lebesgue",
+      "count": 2
+    },
+    {
+      "word": "constants",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "without",
+      "count": 2
+    },
+    {
+      "word": "interpolation",
+      "count": 2
+    },
+    {
+      "word": "table",
+      "count": 2
+    },
+    {
+      "word": "almost",
+      "count": 2
+    },
+    {
+      "word": "everything",
+      "count": 2
+    },
+    {
+      "word": "becomes",
+      "count": 2
+    },
+    {
+      "word": "sqlalchemy",
+      "count": 2
+    },
+    {
+      "word": "practice",
+      "count": 2
+    },
+    {
+      "word": "book",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "store",
+      "count": 2
+    },
+    {
+      "word": "charging",
+      "count": 2
+    },
+    {
+      "word": "power",
+      "count": 2
+    },
+    {
+      "word": "guide",
+      "count": 2
+    },
+    {
+      "word": "alice",
+      "count": 2
+    },
+    {
+      "word": "bob",
+      "count": 2
+    },
+    {
+      "word": "doesn",
+      "count": 2
+    },
+    {
+      "word": "wm",
+      "count": 2
+    },
+    {
+      "word": "enter",
+      "count": 2
+    },
+    {
+      "word": "idle",
+      "count": 2
+    },
+    {
+      "word": "dialog",
+      "count": 2
+    },
+    {
+      "word": "message",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "melissa",
+      "count": 2
+    },
+    {
+      "word": "vision",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "kubernetes",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "restart",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "truth",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "ground",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "ios",
+      "count": 2
+    },
+    {
+      "word": "variety",
+      "count": 2
+    },
+    {
+      "word": "svg",
+      "count": 2
+    },
+    {
+      "word": "indicator",
+      "count": 2
+    },
+    {
+      "word": "bonds",
+      "count": 2
+    },
+    {
+      "word": "baseball",
+      "count": 2
+    },
+    {
+      "word": "wednesday",
+      "count": 2
+    },
+    {
+      "word": "engineers",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    }
+  ]
+}
