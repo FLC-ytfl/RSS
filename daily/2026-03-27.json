@@ -1,0 +1,682 @@
+{
+  "date": "2026-03-27",
+  "stats": {
+    "total_fetched": 279,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "An AI Odyssey, Part 3: Lost Needle in the Haystack",
+        "summary": "While shopping on a major e-commerce site, I wanted to get an answer to an obscure question about a certain product. Not finding the answer immediately on the product page, I thought I’d try clicking the AI shopping assi...",
+        "url": "https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 27 Mar 2026 16:06:18 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Computing sine and cosine of complex arguments with only real functions",
+        "summary": "Suppose you have a calculator or math library that only handles real arguments but you need to evaluate sin(3 + 4i). What do you do? If you’re using Python, for example, and you don’t have NumPy installed, you can use th...",
+        "url": "https://www.johndcook.com/blog/2026/03/27/complex-argument/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 27 Mar 2026 11:33:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Premium: How Much Of The AI Bubble Is Real?",
+        "summary": "I’m turning 40 in a month or so, and at 40 years young, I’m old enough to remember as far back as December 11 2025, when Disney and OpenAI “reached an agreement” to “bring beloved characters from across Disney’s brands t...",
+        "url": "https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Fri, 27 Mar 2026 17:21:30 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AMD K5 CPU: Not quite what AMD hoped",
+        "summary": "The K5 is AMD’s first x86 processor to be developed entirely in-house. Introduced March 27, 1996, its primary competition was Intel’s Pentium microprocessor. The K5 was an ambitious design, closer to a Pentium Pro intern...",
+        "url": "https://dfarq.homeip.net/amd-k5-cpu-not-quite-what-amd-hoped/?utm_source=rss&utm_medium=rss&utm_campaign=amd-k5-cpu-not-quite-what-amd-hoped",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Mobile"
+        ],
+        "published_at": "Fri, 27 Mar 2026 11:00:39 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "“Good Taste” Is Just Experience",
+        "summary": "What people call \"good taste\" is really just experience earned through reps. Stop making it sound innate.",
+        "url": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/",
+        "source": "Terrible Software",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 27 Mar 2026 19:35:32 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Age of the Amplifier",
+        "summary": "As we’ve noted more than a few times before, for most of the 20th century AT&T’s Bell Labs was the premier industrial research lab in the US.",
+        "url": "https://www.construction-physics.com/p/the-age-of-the-amplifier",
+        "source": "Construction Physics",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Fri, 27 Mar 2026 12:00:44 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "This Week on The Analog Antiquarian",
+        "summary": "Epilogue: Infinity Embraced",
+        "url": "https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 27 Mar 2026 17:23:28 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "System shock",
+        "summary": "A story of a 25-year-old font coming back with a vengeance. (New version of an essay originally posted in October 2015. 1,100 words.)",
+        "url": "https://aresluna.org/system-shock",
+        "source": "Aresluna",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-03-27T15:02:13.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "UX books not written by white men",
+        "summary": "A crowdsourced list of UX books",
+        "url": "https://aresluna.org/ux-books-not-written-by-white-men",
+        "source": "Aresluna",
+        "tags": [
+          "Product"
+        ],
+        "published_at": "2026-03-27T15:02:13.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams ",
+        "summary": "Workflows are now visualized via step diagrams in the dashboard. Here’s how we translate your TypeScript code into a visual representation of the workflow.",
+        "url": "https://blog.cloudflare.com/workflow-diagrams/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Algorithms"
+        ],
+        "published_at": "Fri, 27 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-27T22:21:17.809Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+        "summary": "27th March 2026 - Link Blog\n\n**[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)**. Bit of a hyperbolic framing but this looks like another c",
+        "content": "27th March 2026 - Link Blog\n\n**[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)**. Bit of a hyperbolic framing but this looks like another case study of **vibe porting**, this time spinning up a new custom Go implementation of the [JSONata](https://jsonata.org/) JSON expression language - similar in focus to jq, and heavily associated with the [Node-RED](https://nodered.org/) platform.\n\nAs with other vibe-porting projects the key enabling factor was JSONata's existing test suite, which helped build the first working Go version in 7 hours and $400 of token spend.\n\nThe Reco team then used a shadow deployment for a week to run the new and old versions in parallel to confirm the new implementation exactly matched the behavior of the old one.",
+        "url": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "DevOps"
+        ],
+        "published_at": "2026-03-27T00:35:01.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Bring back MiniDV with this Raspberry Pi FireWire HAT",
+        "summary": "In my last post, I showed you to use [FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm us",
+        "content": "In my last post, I showed you to use [FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm using a new [FireWire HAT](https://equip-1.c-e.group/) and a [PiSugar3 Plus](https://amzn.to/4dKtuyg) battery to make a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV cameras.\n\n![Firehat on Raspberry Pi recording video from Canon GL1 over FireWire](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-raspberry-pi-recording-from-firewire.jpeg)The alternative is an old used MRU like [Sony's HVR-MRC1](https://pro.sony/s3/cms-static-content/operation-manual/3290149121.pdf), which runs around $300 on eBay[1](#fn:1).\n\nIn addition to a direct camera connection, this setup can be used to archive MiniDV tapes to the Pi with `dvgrab`, or even with other FireWire devices like audio interfaces and hard drives. After Apple [dropped FireWire support in macOS Tahoe](https://9to5mac.com/2025/07/07/macos-tahoe-reports-of-firewires-death-are-not-greatly-exaggerated/), some users were left in a lurch.\n\n## Video\n\nThis blog post is a companion to today's video, where I test recording to tape and to the Pi using two different setups, and even test how the 'old' NLE editing workflow used to work when I started my YouTube channel in 2006:\n\n*\n\nDon't like watching videos? I don't blame you—read on!\n\n## Hardware\n\n![Firehat on Raspberry Pi recording video from Canon GL1 over FireWire](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-pi-5-with-canon-gl1.jpeg)The hardware I used in my final setup (pictured above) includes:\n\n- Raspberry Pi 5 (I used a 4GB model, but any amount of RAM should suffice)\n- [Computer Equipment Group's Firehat](https://equip-1.c-e.group/)\n- [PiSugar 3 Plus 5000mAh Pi Battery](https://amzn.to/4dKtuyg)\n- Apple FireWire cable (4 pin to 6 pin)\n- Canon GL1 miniDV Camcorder\n\nThe Firehat model I'm using is a prototype (thanks to Twin CD for sending it!). As such, it has a requisite number of bodge wires :)\n\n![Firehat bodged PCB traces from VIA VT6315N FireWire controller chip](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-raspberry-pi-via-VT6315N-bodge-pcb.jpeg)It will be sold either as a standalone Pi HAT (the 'Firehat'), or integrated into a small standalone device paired with a Radxa Rock 2F ('equip-1'), at least if their [equip-1 / Firehat Crowd Supply campaign](https://www.crowdsupply.com/computer-equipment-group/equip-1) is successful,\n\n![Firehat with PiSugar 3 Plus Battery](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-raspberry-pi-mru-pisugar-battery-5000mah.jpeg)To make my setup portable, I added on a PiSugar 3 Plus (pictured above), which uses pogo pins to mate to the bottom of the Pi 5, providing power and I2C communication for battery status and configuration.\n\nIn my testing, the included 5000 mAh battery gets between 2-4 hours of runtime, depending on whether you're recording the whole time, and what kind of storage media you're using (this setup has built-in WiFi, so you could record direct to a NAS!). I got over 3 hours recording straight to a 64GB Raspberry Pi microSD card.\n\n## Software\n\nThe Firehat uses the Pi's GPIO to accept input through three buttons, and the I2C bus and more GPIO pins to sound a buzzer for button feedback, and LED for recording and other status indication, and a small OLED display to show recording time, the device's IP address, storage information, and battery life (if using a PiSugar).\n\nBecause Pi OS doesn't come with Linux's FireWire support enabled, you'll have to recompile the Linux kernel first, then install and run the Firehat software to get it fully operational:\n\n- [Enable FireWire support on the Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) following my guide\n- [Install the Firehat software](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/805) (under 'Equip-1 Setup')\n- (Optionally) [Enable the Firehat software at boot](https://github.com/computerequipmentgroup/equip-1/issues/5)\n\nAssuming you've set everything up correctly, when you reboot your Pi, you should see the default interface (with 'NO CAM' displayed if you don't have a camera plugged in and powered on):\n\n![Firehat running on Raspberry Pi 5 with NO CAM on screen](https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/firehat-pi-5-no-cam-running.jpeg)If you create new recordings, they're saved under your default user account's home folder in a `captures` directory. From there, you can copy the files over to a USB drive, or copy them over WiFi to another computer.\n\nOn my Mac I used [Transmit's](https://panic.com/transmit/) SFTP capabilities to log into the Pi and copy down files. You could also use `scp` or `rsync` if you like.\n\n## Alternatives\n\nAs mentioned in my [earlier post](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/), you could buy a standard [Mini PCIe HAT](https://amzn.to/47U0vFj) for the Pi, and install this [StarTech Mini PCIe FireWire adapter in it](https://amzn.to/4lRrQeU). That setup was first demonstrated by Redditor toqer and labelled the [Open MRU](https://www.reddit.com/r/tapeless/comments/1n3aqsk/open_mru_raspberry_pi_5_based_mrucapture_device/) in the r/tapeless subreddit.\n\nFor all the details, I [documented my own Open MRU setup on GitHub](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/752#issuecomment-3993043500). Without any GPIO-enabled buttons, controlling `dvgrab` is a little more involved—I had to start and stop recordings via `dvgrab` on the command line.\n\nThe Open MRU build uses the TI XIO2213A controller, versus the VIA VT6315N in the Firehat. People have tested other FireWire controllers on the Pi in the past, but these are the only two I've confirmed* work with the Pi 5 so far.\n\n## Other FireWire devices and the 2029 deadline\n\nI haven't had a chance to test other FireWire devices yet, or FireWire networking (though a 400 Mbps network connection is less than half the speed of the Pi's built-in Ethernet!).\n\nBut I've heard from a few people still running FireWire audio interfaces, or wanting to interface with old Macs via their built-in FireWire ports, so if *you've* tested any non-camera IEEE 1394 devices, please share your experience in the comments.\n\nThis setup should continue working with the latest versions of Linux and Pi OS [until at least 2029](https://ieee1394.docs.kernel.org/en/latest/#maintenance-schedule), but the future for FireWire in the Linux kernel after that is less clear.\n\nThe equip-1 and Firehat should be available through [this Crowd Supply page](https://www.crowdsupply.com/computer-equipment-group/equip-1). Fingers crossed they can get to production and ship soon!",
+        "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Product"
+        ],
+        "published_at": "Fri, 27 Mar 2026 09:00:00 -0500",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Richard Fontana",
+        "summary": "27th March 2026\n\n> FWIW, IANDBL, TINLA, etc., I don’t currently see any basis for concluding that chardet 7.0.0 is required to be released under the LGPL. AFAIK no one including Mark Pilgrim has ident",
+        "content": "27th March 2026\n\n> FWIW, IANDBL, TINLA, etc., I don’t currently see any basis for concluding that chardet 7.0.0 is required to be released under the LGPL. AFAIK no one including Mark Pilgrim has identified persistence of copyrightable expressive material from earlier versions in 7.0.0 nor has anyone articulated some viable alternate theory of license violation. [...]\n\n— [Richard Fontana](https://github.com/chardet/chardet/issues/334#issuecomment-4098524555), LGPLv3 co-author, weighing in on the [chardet relicensing situation](https://simonwillison.net/2026/Mar/5/chardet/)",
+        "url": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-03-27T21:11:17.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Discontinues the Mac Pro With No Plans to Bring It Back",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?quality=82&strip=all&w=1600)\n\t\n\nIt’s the end of an era: Apple has confirmed to *9to5Mac* that the Mac Pro is being discontinu",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?quality=82&strip=all&w=1600)\n\t\n\nIt’s the end of an era: Apple has confirmed to *9to5Mac* that the Mac Pro is being discontinued. It has been removed from Apple’s website as of Thursday afternoon. The [“buy” page](https://www.apple.com/us/shop/goto/buy_mac/mac_pro) on Apple’s website for the Mac Pro now redirects to [the Mac’s homepage](https://www.apple.com/mac/), where all references have been removed. \n\nApple has also confirmed to *9to5Mac* that it has no plans to offer future Mac Pro hardware.\n\n## Mac Studio is the future\n\nThe Mac Pro has lived many lives over the years. Apple released the current Mac Pro industrial design in 2019 alongside the Pro Display XDR (which was also [discontinued](https://9to5mac.com/2026/03/03/apple-discontinues-the-pro-display-xdr/) earlier this month). That version of the Mac Pro was powered by Intel, and Apple refreshed it with the M2 Ultra chip in June 2023. It has gone without an update since then, languishing at its $6,999 price point even as Apple debuted the M3 Ultra chip in the [Mac Studio](https://amzn.to/4rT7wgd) last year.\n\nWith that in mind, the Mac Studio is clearly set up to be the ‘pro’ desktop Mac of the future in Apple’s lineup. The Mac Studio can be configured with the M3 Ultra chip and a 32-core CPU and an 80-core GPU, paired with 256GB of unified memory and 16TB of SSD storage.\n\nWith the discontinuation of Mac Pro today, Apple now sells three desktop Macs:\n\n- [24-inch iMac with M4](https://amzn.to/4tcRrTv)\n\n- [Mac mini with M4 and M4 Pro](https://amzn.to/4v9k7Pc)\n\n- [Mac Studio with M4 Max and M3 Ultra](https://amzn.to/4rT7wgd)\n\nAnd three laptops:\n\n- [MacBook Neo](https://amzn.to/4tbIs58)\n\n- [MacBook Air](https://amzn.to/4rUTkDe)\n\n- [MacBook Pro](https://amzn.to/4lQk5r2)\n\nTo me, this is the strongest Mac lineup in years, and perhaps the strongest Mac lineup *ever*. This is especially true with the recent addition of the MacBook Neo in the entry-level spot. There are options spanning dramatically different price points, configurations, and form factors.\n\nFurthermore, with the release of macOS Tahoe 26.2 last year, Apple added a new low-latency feature that lets you use [RDMA over Thunderbolt 5](https://developer.apple.com/documentation/technotes/tn3205-low-latency-communication-with-rdma-over-thunderbolt?changes=l_5) to connect multiple Macs together. This gives Mac users at the ultra-high-end of the market another way to scale performance. At the time, many [speculated](https://9to5mac.com/2025/11/19/a-cluster-of-mac-studios-is-just-one-reason-we-no-longer-need-a-mac-pro/) this feature could be another nail in the Mac Pro’s coffin. \n\nUltimately, Apple needed to make a decision to either update the Mac Pro or discontinue it. Continuing to sell it with the M2 Ultra at such a high price was a disservice to Mac shoppers. I think Apple made the right call by discontinuing it and prioritizing the Mac Studio going forward.\n\nOf course, there will undoubtedly be some Mac Pro loyalists disappointed by today’s news. But the writing has been on the wall for a while.\n\n**My favorite iPhone accessories:**\n\n- [Anker Nano USB-C wall charger with built-in screen](https://geni.us/5wyeNX)\n\n- [CardPointers: Maximize credit card rewards (exclusively save 30%)](https://bit.ly/46oUrDo)\n\n- [Charge all your Apple gear at the same time](https://geni.us/ZMqISC)\n\n- [Bring wireless CarPlay to any car](https://geni.us/6gum)\n\n- [USB-C cable that shows how fast you’re charging](https://geni.us/gIre)\n\n**Follow Chance**: [Threads](https://www.threads.net/@ChanceHMiller), [Bluesky](https://bsky.app/profile/chancemiller.me), [Instagram](https://www.instagram.com/chancehmiller/), and [Mastodon](https://mastodon.social/@ChanceHMiller). \n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/750x150-1.jpg?quality=82&strip=all)](https://amzn.to/4rDvqMk)",
+        "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-27T00:56:39.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sharing a Name ",
+        "summary": "My bank card never arrived. I called the bank and, after being redirected through several departments, was assured that it had been mailed. Then we argued a bit about what \"7 to 10 business days\" mean",
+        "content": "My bank card never arrived. I called the bank and, after being redirected through several departments, was assured that it had been mailed. Then we argued a bit about what \"7 to 10 business days\" meant, we were already on day 14. We ended the call by agreeing to disagree.\n\nEventually, I did get my card. But it wasn't the mailman who delivered it. Instead, it was my neighbor from two streets down. On the envelope, my address had been crossed out, and the word \"incorrect\" was handwritten beside it. Why? Because the mailman had done it. You see, I had just moved into the apartment complex, and my name looked familiar to him. Of course he knew who Ibrahima Diallo was, he had been delivering his mail for years. So he corrected it.\n\nIn the US, both my first and last name are uncommon (or so I thought). They're often a source of confusion when my Starbucks order gets called out. As it turns out, one of my neighbors shares the exact same name. And on top of that, he uses the same West African spelling: *Ibrahima*. The mailman, trying to be helpful, had redirected my mail to what he thought was the right address.\n\nMy neighbor and I laughed about it. Then I immediately cancelled the card and requested a new one...\n\nSome years ago, I dated a woman from Bulgaria. She grew up in a small city where everyone knew each other. In their town, there was a single Black family. You probably know where this is going, but pretend you don't and follow along.\n\nIt was so unusual to have an outsider in this town that the man and his family became local fixtures. Wherever they went, people stopped to take pictures with them. They were like minor celebrities. So naturally, when she pulled out a photo from her childhood, there he was, posing cheerfully with the neighbors.\n\nShe turned the photo over to read the names written on the back. She stopped. She burst out laughing. I looked at the name. I can't read Cyrillic, but I know exactly how to spell my name in Bulgarian. His name read: *Ibrahima Diallo*.\n\nWhen I was hired at AT&T many years ago, there was a week of confusion at first. I didn't receive my welcome kit. My manager swore that he had carefully selected my name, and sent it to my Texas address... \n\nAs you may have guessed, I do not have a Texas address. I lived in Los Angeles and the company where we worked in person was in Los Angeles. Somewhere in Texas, a long time employee must have been confused with this new welcome kit showing up in the mail.\n\nBack when [I was featured on the BBC](https://www.bbc.com/news/technology-53180073), a wave of people reached out. Even though my picture was prominently displayed in the article, several people emailed me as if they already knew me, picking up conversations we had apparently started at work, signing off with \"see you tomorrow.\" According to my inbox, I had met quite a few people in London. The only problem was, well, I've never been to London.\n\nAs it turned out, my neighbor's uncle had called him to say that some journalists were trying to reach his nephew through him. You'll never guess the uncle's name. Yes, it's Ibrahima Diallo.\n\nI eventually met this uncle. We had a long conversation and discovered that he knew my father from back home. In fact, he had gone to school with one of my uncles and spoke fondly of him, saying he was a brilliant student. What's my uncle's name, you ask? Of course it's Ibrahima Diallo.\n\nGrowing up, I assumed my name was uniquely mine. But as I've made my way through the world, I've found that I share it with a surprisingly large number of people.\n\nI already snagged *ibrahimdiallo.com*. I'm keeping an eye on *ibrahimadiallo.com*, hoping it expires this June so I can claim that one too. If it does become available, I'll gather an army of Ibrahimas, and we will... Well, I'm not entirely sure what we'll do yet. But it will definitely be fun.\n\nAnyway, that's a story about my name.\n\n*A postscript worth mentioning:* Both of my older brothers share the same first and last name as each other. You can imagine the fun they have. This is what happens in West African families when you name your children after their grandparents, and the grandparents happen to share the same name. One brother does have a middle name, intended as a differentiator. But middle names are rarely included in US mailing addresses, so that doesn't help much either.",
+        "url": "https://idiallo.com/blog/sharing-a-name?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 27 Mar 2026 12:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Vibe coding SwiftUI apps is a lot of fun",
+        "summary": "27th March 2026\n\nI have a new laptop—a 128GB M5 MacBook Pro, which early impressions show to be *very* capable for running good local LLMs. I got frustrated with Activity Monitor and decided to vibe c",
+        "content": "27th March 2026\n\nI have a new laptop—a 128GB M5 MacBook Pro, which early impressions show to be *very* capable for running good local LLMs. I got frustrated with Activity Monitor and decided to vibe code up some alternative tools for monitoring performance and I’m very happy with the results.\n\nThis is my second experiment with vibe coding macOS apps—the first was [this presentation app a few weeks ago](https://simonwillison.net/2026/Feb/25/present/).\n\nIt turns out Claude Opus 4.6 and GPT-5.4 are both very competent at SwiftUI—and a full SwiftUI app can fit in a single text file, which means I can use them to spin something up without even opening Xcode.\n\nI’ve built two apps so far: Bandwidther shows me what apps are using network bandwidth and Gpuer to show me what’s going on with the GPU. At Claude’s suggestion both of these are now menu bar icons that open a panel full of information.\n\n#### Bandwidther\n\nI built this app first, because I wanted to see what Dropbox was doing. It looks like this:\n\n[![Screenshot of Bandwidther macOS app showing two columns: left side displays overall download/upload speeds, a bandwidth graph over the last 60 seconds, cumulative totals, internet and LAN connection counts, and internet destinations; right side shows per-process bandwidth usage sorted by rate with processes like nsurlsessiond, apsd, rapportd, mDNSResponder, Dropbox, and others listed with their individual download/upload speeds and progress bars.](https://github.com/simonw/bandwidther/raw/main/screenshot.png)](https://github.com/simonw/bandwidther/raw/main/screenshot.png)\n\nI’ve shared [the full transcript](https://gisthost.github.io/?6e06d4724c64c10d1fc3fbe19d9c8575/index.html) I used to build the first version of the app. My prompts were pretty minimal:\n\n> Show me how much network bandwidth is in use from this machine to the internet as opposed to local LAN\n\n(My initial curiosity was to see if Dropbox was transferring files via the LAN from my old computer or was downloading from the internet.)\n\n> mkdir /tmp/bandwidther and write a native Swift UI app in there that shows me these details on a live ongoing basis\n\nThis got me the first version, which proved to me this was worth pursuing further.\n\n> git init and git commit what you have so far\n\nSince I was about to start adding new features.\n\n> Now suggest features we could add to that app, the goal is to provide as much detail as possible concerning network usage including by different apps\n\nThe nice thing about having Claude suggest features is that it has a much better idea for what’s possible than I do.\n\nWe had a bit of back and forth fixing some bugs, then I sent a few more prompts to get to the two column layout shown above:\n\n> add Per-Process Bandwidth, relaunch the app once that is done\n\n> now add the reverse DNS feature but make sure original IP addresses are still visible too, albeit in smaller typeface\n\n> redesign the app so that it is wider, I want two columns—the per-process one on the left and the rest on the right\n\n> OK make it a task bar icon thing, when I click the icon I want the app to appear, the icon itself should be a neat minimal little thing\n\nThe source code and build instructions are available in [simonw/bandwidther](https://github.com/simonw/bandwidther).\n\n#### Gpuer\n\nWhile I was building Bandwidther in one session I had another session running to build a similar tool for seeing what the GPU was doing. Here’s what I ended up with:\n\n[![Screenshot of the Gpuer app on macOS showing memory usage for an Apple M5 Max with 40 GPU cores. Left panel: a large orange \"38 GB Available\" readout showing usage of 128.0 GB unified memory, \"Room for ~18 more large apps before pressure\", a warning banner reading \"1.5 GB pushed to disk — system was under pressure recently\", a horizontal segmented bar chart labeled \"Where your memory is going\" with green, blue, and grey segments and a legend, an explanatory note about GPU unified memory, a GPU Utilization section showing 0%, and a History graph showing Available and GPU Utilization over time as line charts. Right panel: a Memory Footprint list sorted by Memory, showing process names with horizontal pink/purple usage bars and CPU percentage labels beside each entry, covering processes including Dropbox, WebKit, Virtualization, node, Claude Helper, Safari, LM Studio, WindowServer, Finder, and others.](https://github.com/simonw/gpuer/raw/main/screenshot.png)](https://github.com/simonw/gpuer/raw/main/screenshot.png)\n\nHere’s [the transcript](https://gisthost.github.io/?71ffe216ceca8d7da59a07c478d17529). This one took even less prompting because I could use the in-progress Bandwidther as an example:\n\n> I want to know how much RAM and GPU this computer is using, which is hard because stuff on the GPU and RAM does not seem to show up in Activity Monitor\n\nThis collected information using `system_profiler` and `memory_pressure` and gave me [an answer](https://gisthost.github.io/?71ffe216ceca8d7da59a07c478d17529/page-001.html#msg-2026-03-24T22-13-26-614Z)—more importantly it showed me this was possible, so I said:\n\n> Look at /tmp/bandwidther and then create a similar app in /tmp/gpuer which shows the information from above on an ongoing basis, or maybe does it better\n\nAfter a few more changes to the Bandwidther app I told it to catch up:\n\n> Now take a look at recent changes in /tmp/bandwidther—that app now uses a sys tray icon, imitate that\n\nThis remains one of my favorite tricks for using coding agents: having them [recombine elements](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#recombining-things-from-your-hoard) from other projects.\n\nThe code for Gpuer can be found in [simonw/gpuer](https://github.com/simonw/gpuer) on GitHub.\n\n#### You shouldn’t trust these apps\n\nThese two apps are classic vibe coding: I don’t know Swift and I hardly glanced at the code they were writing.\n\nMore importantly though, I have very little experience with macOS internals such as the values these tools are measuring. I am completely unqualified to evaluate if the numbers and charts being spat out by these tools are credible or accurate!\n\nI’ve added warnings to both GitHub repositories to that effect.\n\nThis morning I caught Gpuer reporting that I had just 5GB of memory left when that clearly wasn’t the case (according to Activity Monitor). I [pasted a screenshot into Claude Code](https://gisthost.github.io/?9ae12fff0fecc9a4482c9b02e8599c70/page-001.html#msg-2026-03-27T19-35-35-866Z) and it [adjusted the calculations](https://github.com/simonw/gpuer/commit/a3cd655f5ccb274d3561e4cbfcc771b0bb7e256a) and the new numbers *look* right, but I’m still not confident that it’s reporting things correctly.\n\nI only shared them on GitHub because I think they’re interesting as an example of what Claude can do with SwiftUI.\n\nDespite my lack of confidence in the apps themselves, I did learn some useful things from these projects:\n\n- A SwiftUI app can get a whole lot done with a single file of code—here’s [GpuerApp.swift](https://github.com/simonw/gpuer/blob/main/GpuerApp.swift) (880 lines) and [BandwidtherApp.swift](https://github.com/simonw/bandwidther/blob/main/BandwidtherApp.swift) (1063 lines).\n\n- Wrapping various terminal commands in a neat UI with Swift is easily achieved.\n\n- Claude has surprisingly good design taste when it comes to SwiftUI applications.\n\n- Turning an app into a menu bar app is just a few lines of extra code as well.\n\n- You don’t need to open Xcode to build this kind of application!\n\nThese two apps took very little time to build and have convinced me that building macOS apps in SwiftUI is a new capability I should consider for future projects.",
+        "url": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-27T20:59:53.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Apple Giveth, Apple Taketh Away",
+        "summary": "## The Good News First\n\nJust this week [I wrote about a hidden `defaults` preference](https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe) you can set to turn o",
+        "content": "## The Good News First\n\nJust this week [I wrote about a hidden `defaults` preference](https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe) you can set to turn off most of the insipid menu item icons in most of Apple’s first-party apps in MacOS 26 Tahoe. I bemoaned the fact that Safari — generally an exemplar of what makes a great Mac app a great Mac app — generally ignored this setting, leaving most of its menu item icons in place. I am delighted to report that that’s fixed in MacOS 26.4. With the preference set to hide these icons, Safari now only shows a handful.\n\nHere’s a link to [the screenshot of the old before/after](https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after.png), taken on MacOS 26.3.2. Boo hiss. Here’s the new before/after, taken on MacOS 26.4:\n\n[\n  ![Screenshot of Safari's File menu on MacOS 26.3 Tahoe, before and after changing the hidden `NSMenuEnableActionImages` preference. In the before screenshot, every menu item has an icon. In the after image, the only items with an icon are New Empty Tab Group, New Tab Group with 2 Tabs, Delete Tab Group, Add to Dock…, and Import From Browser.](https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after-26.4.png)](https://daringfireball.net/misc/2026/03/safari-tahoe-file-menu-before-after-26.4.png)\n\nIn Tahoe 26.3 (and presumably, earlier versions of Tahoe), 16 of 19 menu items in Safari’s File menu still showed an icon with this setting enabled. In 26.4, only 5 of 19 do.[1](#fn1-2026-03-27) The rest of Safari’s other menus have been updated similarly, and look so much better for it.\n\nIt’s interesting to me that Safari was updated to support this hidden preference in 26.4. I take it as a sign that there’s a contingent within Apple (or least within the Safari team) that dislikes these menu item icons enough to notice that Safari wasn’t previously recognizing this preference setting. (And I further take it as a sign that within Apple’s engineering ranks, the existence of this `defaults` setting is widely known.) Keep hope alive.\n\n## Now the Bad News\n\nAnother recent Tahoe-related tip I’ve been writing about was using a device management profile to block the prompts in System Settings → General → Software Update to “upgrade” from MacOS 15 Sequoia to 26 Tahoe. I first wrote about it [a month ago](https://daringfireball.net/linked/2026/02/27/how-to-block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator), linking to [a post from Rob Griffiths](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/). I then wrote about it again, [just this week](https://daringfireball.net/linked/2026/03/26/mr-macintosh-imazing-profile-editor-tahoe), linking to [a YouTube video from Mr. Macintosh](https://www.youtube.com/watch?v=uRg1pW8TSYk).\n\nEver since this technique started making the rounds, there was widespread commentary that it was taking advantage of a bug, not a feature, in MacOS 15 Sequoia. The 90-day “deferral” period to block the Tahoe update prompts was supposed to be from the date the Tahoe major release (26.0) was released, not from the most recent minor release. Welp, with this week’s release of MacOS 15.7.5, this bug is fixed, and Tahoe shows up in the Software Update panel in System Settings even if you have one of these device management profiles installed. Alas.\n\nAll is not lost, however. The same video from Mr. Macintosh shows a second, slightly less elegant way to banish all signs of Tahoe in Software Update ([just after the 9:00 mark](https://youtu.be/uRg1pW8TSYk?t=546)). The trick is to register your Mac for the MacOS Sequoia Public Beta updates (or the developer betas). This [blocks all signs of Tahoe](https://daringfireball.net/misc/2026/03/sequoia-software-update-with-public-betas.png). You don’t actually have to install any future betas of Sequoia (at the moment, there are none available). Just make sure you have Automatic Updates disabled too. I’d rather risk inadvertently installing a public beta of 15.8 Sequoia than inadvertently “upgrading” to Tahoe.",
+        "url": "https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-27T20:46:14.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Using Perfetto in ZJIT",
+        "summary": "*Originally published on [Rails At Scale](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/).*\n\nLook! A trace of slow events in a benchmark! Hover over the image to see it get bigger.\n\n  ![]",
+        "content": "*Originally published on [Rails At Scale](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/).*\n\nLook! A trace of slow events in a benchmark! Hover over the image to see it get bigger.\n\n  ![](https://bernsteinbear.com/assets/img/perfetto-demo.png)\n\n  \nA sneak preview of what the trace looks like.\n\nNow read on to see what the slow events are and how we got this pretty picture.\n\n## The rules\n\nThe first rule of just-in-time compilers is: you stay in JIT code. The second\nrule of JIT is: you STAY in JIT code!\n\nWhen control leaves the compiled code to run in the interpreter—what the ZJIT\nteam calls either a “side-exit” or a “deopt”, depending on who you talk\nto—things slow down. In a well-tuned system, this should happen pretty\nrarely. Right now, because we’re still bringing up the compiler and runtime\nsystem, it happens more than we would like.\n\nWe’re reducing the number of exits over time.\n\n## Lies, damned lies, and statistics\n\nWe can track our side-exit reduction progress with `--zjit-stats`, which,\non process exit, prints out a tidy summary of the counters for all of the bad\nstuff we track. It’s got side-exits. It’s got calls to C code. It’s got calls\nto slow-path runtime helpers. It’s got everything.\n\nHere is a chopped-up sample of stats output for the Lobsters benchmark,\nwhich is a large Rails app:\n\n```\n$ WARMUP_ITRS=0 MIN_BENCH_ITRS=20 MIN_BENCH_TIME=0 ruby --zjit-stats benchmarks/lobsters/benchmark.rb\n...\n***ZJIT: Printing ZJIT statistics on exit***\n...\nTop-20 side exit reasons (100.0% of total 12,549,876):\n                   guard_type_failure: 6,020,734 (48.0%)\n                  guard_shape_failure: 5,556,147 (44.3%)\n  block_param_proxy_not_iseq_or_ifunc:   445,358 ( 3.5%)\n                   unhandled_hir_insn:   215,168 ( 1.7%)\n                        compile_error:   181,474 ( 1.4%)\n...\ncompiled_iseq_count:                               5,581\nfailed_iseq_count:                                     2\ncompile_time:                                    1,443ms\n...\nguard_type_count:                            133,425,094\nguard_type_exit_ratio:                              4.5%\nguard_shape_count:                            49,386,694\nguard_shape_exit_ratio:                            11.3%\n...\ncode_region_bytes:                            31,571,968\nside_exit_size_ratio:                              33.1%\nzjit_alloc_bytes:                             19,329,659\ntotal_mem_bytes:                              50,901,627\n...\nratio_in_zjit:                                     82.8%\n$\n\n```\n\n(I’ve cut out significant chunks of the stats output and replaced them with\n`...` because it’s overwhelming the first time you see it.)\n\nThe first thing you might note is that the thing I just described as terrible\nfor performance is happening *over twelve million times*. The second thing you\nmight notice is that despite this, we’re staying in JIT code seemingly a high\npercentage of the time. Or are we? Is 80% high? Is a 4.5% class guard miss\nratio high? What about 11% for shapes? It’s hard to say.\n\nThe counters are great because they’re *quick* and they’re reasonably stable\nproxies for performance. There’s no substitute for painstaking measurements on\na quiet machine but if the counter for Bad Slow Thing goes down (and others do\nnot go up), we’re probably doing a good job.\n\nBut they’re not great for building intuition. For intuition, we want more\ntangible feeling numbers. We want to see things.\n\n## Building intuition\n\nThe third thing is that you might ask yourself “self, where are these exits\ncoming from?” Unfortunately, counters cannot tell you that. For that, we\nwant stack traces. This lets us know where in the guest (Ruby) code triggers\nan exit.\n\nIdeally also we would want some notion of time: we would want to know not just\nwhere these events happen but also when. Are the exits happening early, at\napplication boot? At warmup? Even during what should be steady state\napplication time? Hard to say.\n\nSo we need more tools. Thankfully, [Perfetto](https://perfetto.dev/) exists.\nPerfetto is a system for visualizing and analyzing traces and profiles that your\napplication generates. It has both a web UI and a command-line UI.\n\nWe can emit traces for Perfetto and visualize them there.\n\n## A look at Perfetto\n\nTake a look at this [sample ZJIT Perfetto\ntrace](https://ui.perfetto.dev/#!/?url=https://bernsteinbear.comassets/misc/perfetto-36885.fxt)\ngenerated by running Ruby with `--zjit-trace-exits`[1](#fn:sampled). What do you see?\n\nI see a couple arrows on the left. Arrows indicate “instant” point-in-time\nevents. Then I see a mess of purple to the right of that until the end of the\ntrace.\n\nHover over an arrow. Find out that each arrow is a side-exit. Scream silently.\n\nBut it’s a friendly arrow. It tells you what the side-exit reason is. If you\nclick it, it even tells you the stack trace in the pop-up panel on the bottom.\nIf we click a couple of them, maybe we can learn more.\n\nWe can also zoom by mousing over the track, holding Ctrl, and scrolling. That\nwill get us look closer. But there are so many…\n\nFortunately, Perfetto also provides a SQL interface to the traces. We can write\na query to aggregate all of the side exit events from the `slice` table and\nline them up with the topmost method from the backtrace arguments in the `args`\ntable:\n\n```\nSELECT\n  s.name AS reason,\n  a.display_value AS method,\n  COUNT(*) AS count\nFROM slice s\nJOIN args a ON a.arg_set_id = s.arg_set_id AND a.key = '0'\nGROUP BY s.name, a.display_value\nORDER BY count DESC\n\n```\n\nThis pulls up a query box at the bottom showing us that there are a couple big\nhotspots:\n\n  ![](https://bernsteinbear.com/assets/img/perfetto-method-query.png)\n\n  \nQuery results showing in columns left to right: reason for side-exit, method\nthat exited, and count. The top three are above 1k but it quickly falls off\nafter that.\n\nIt even has a helpful option to export the results Markdown table so I can\npaste (an edited version) into this blog post:\n\n  \n    \n      \n        reason\n        method\n        count\n      \n    \n    \n      \n        GuardShape(ShapeId(2475))\n        ActiveModel::AttributeRegistration::ClassMethods#attribute_types\n        5119\n      \n      \n        GuardShape(ShapeId(2099268))\n        ActiveRecord::ConnectionAdapters::AbstractAdapter#extended_type_map_key\n        2295\n      \n      \n        GuardType(FalseClass)\n        ActiveModel::Type::Value#cast\n        1025\n      \n      \n        GuardShape(ShapeId(2099698))\n        ActiveRecord::Associations#association_instance_get\n        904\n      \n      \n        BlockParamProxyNotIseqOrIfunc\n        ActiveRecord::AttributeMethods::Read#_read_attribute\n        902\n      \n      \n        GuardShape(ShapeId(526450))\n        Rack::Request::Env#get_header\n        636\n      \n      \n        GuardType(Class[class_exact*:Class@VALUE(0x128c60100)])\n        ActiveRecord::Base._reflections\n        622\n      \n      \n        GuardType(ObjectSubclass[class_exact:Story])\n        ActiveRecord::Associations#association\n        565\n      \n      \n        GuardShape(ShapeId(2098982))\n        ActiveRecord::Reflection::AssociationReflection#polymorphic?\n        510\n      \n      \n        GuardType(StringSubclass[class_exact:ActiveSupport::SafeBuffer])\n        ActionView::OutputBuffer#<<\n        500\n      \n      \n        GuardShape(ShapeId(2475))\n        ActiveRecord::AttributeMethods::PrimaryKey::ClassMethods#primary_key\n        492\n      \n      \n        GuardType(ObjectSubclass[class_exact:ActiveModel::Type::String])\n        ActiveModel::Type::Value#deserialize\n        442\n      \n      \n        GuardShape(ShapeId(2098982))\n        ActiveRecord::Reflection::AssociationReflection#deprecated?\n        376\n      \n      \n        GuardType(ObjectSubclass[class_exact:Bundler::Dependency])\n        Gem::Dependency#matches_spec?\n        355\n      \n      \n        UnhandledHIRInvokeBuiltin\n        Time#initialize\n        346\n      \n    \n  \n\nLooks like we should figure out why we’re having shape misses so much and that will\nclear up a lot of exits. (Hint: it’s because once we make our first guess about\nwhat we think the object shape will be, we don’t re-assess… **yet**.)\n\nThis has been a taste of Perfetto. There’s probably a lot more to explore.\nPlease join the [ZJIT Zulip](https://zjit.zulipchat.com/) and let us know if you have any cool\ntracing or exploring tricks.\n\nNow I’ll explain how you too can use Perfetto from your system. Adding support\nto ZJIT was pretty straightforward.\n\n## Implementation\n\nThe first thing is that you’ll need some way to get trace data out of your\nsystem. We write to a file with a well-known location\n(`/tmp/perfetto-PID.fxt`), but you could do any number of things. Perhaps you\ncan stream events over a socket to another process, or to a server that\naggregates them, or store them internally and expose a webserver that serves\nthem over the internet, or… anything, really.\n\nOnce you have that, you need a couple lines of code to emit the data. Perfetto\naccepts a number of formats. For example, in his [excellent blog post](https://thume.ca/2023/12/02/tracing-methods/),\nTristan Hume opens with such a simple snippet of code for logging Chromium\nTrace JSON-formatted events (lightly modified by me):\n\n```\nevent_name = ...\ntimestamp = ...\nduration = ...\nf = open('trace.json','a')\nf.print(\"[\")\n\n# ... emit some events here ...\n\n# Log a single event\nf.print('{\"name\": \"%s\", \"ts\": %d, \"dur\": %d, \"cat\": \"hi\", \"ph\": \"X\", \"pid\": 1, \"tid\": 1, \"args\": {}},\\n' %\n  (event_name, timestamp, duration))\n\n# ... emit some events here ...\n\n# ... at process exit, close the file ...\nf.print(\"]\") # this closing ] isn't actually required\nf.close()\n\n```\n\nThis snippet is great. It shows, end-to-end, writing a stream of one event. It\nis a *complete* (X) event, as opposed to either:\n\n  - two discrete timestamped *begin* (B) and *end* (E) events that book-end\nsomething, or\n\n  - an *instant* (i) event that has no duration, or\n\n  - a couple other event types in the [Chromium Trace Event Format doc](https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview)\n\nIt was enough to get me started. Since it’s JSON, and we have a lot of side\nexits, the trace quickly ballooned to 8GB large for a several second benchmark.\nNot great. Now, part of this is our fault—we should side exit less—and part\nof it is just the verbosity of JSON.\n\nThankfully, Perfetto ingests more compact binary formats, such as the [Fuchsia\ntrace format](https://fuchsia.dev/fuchsia-src/reference/tracing/trace-format).\nIn addition to being more compact, FXT even supports string interning. After\nmodifying the tracer to emit FXT, we ended with closer to 100MB for the same\nbenchmark.\n\nWe can reduce further by *sampling*—not writing every exit to the trace, but\ninstead every *K* exits (for some (probably prime) K). This is why we provide\nthe `--zjit-trace-exits-sample-rate=K` option.\n\nCheck out the [trace writer](https://github.com/ruby/ruby/blob/eb8051185122d4b7bc9c6a6df694a85f34ced681/zjit/src/stats.rs#L988) implementation from the point this article\nwas written.\n\n## Tracing more things\n\nWe could trace:\n\n  - When methods get compiled\n\n  - How big the generated code is\n\n  - How long each compile phase takes\n\n  - When (and where) invalidation events happen\n\n  - When (and where) allocations happen from JITed code\n\n  - Garbage collection events\n\n  - and more!\n\n## Conclusion\n\nVisualizations are awesome. Get your data in the right format so you can ask\nthe right questions easily. Thanks for Perfetto!\n\nAlso, looks like visualizations are now available in Perfetto canary. Time to\ngo make some fun histograms…",
+        "url": "https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss",
+        "source": "Max Bernstein's Blog",
+        "tags": [
+          "Database",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Fri, 27 Mar 2026 00:00:00 +0000",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Endgame for the Open Web",
+        "summary": "You must imagine Sam Altman holding a knife to Tim Berners-Lee's throat.\n\nIt's not a pleasant image. Sir Tim is, rightly, revered as the genial father of the World Wide Web. But, all the signs are poi",
+        "content": "You must imagine Sam Altman holding a knife to Tim Berners-Lee's throat.\n\nIt's not a pleasant image. Sir Tim is, rightly, revered as the genial father of the World Wide Web. But, all the signs are pointing to the fact that we might be in endgame for \"open\" as we've known it on the Internet over the last few decades.\n\nThe open web is something extraordinary: anybody can use whatever tools they have, to create content following publicly documented specifications, published using completely free and open platforms, and then share that work with anyone, anywhere in the world, without asking for permission from anyone. *Think about how radical that is*.\n\nNow, from content to code, communities to culture, we can see example after example of that open web under attack. Every single aspect of the radical architecture I just described is threatened, by those who have profited most from that exact system.\n\nToday, the good people who act as thoughtful stewards of the web infrastructure are still showing the same generosity of spirit that has created opportunity for billions of people and connected society in ways too vast to count while —not incidentally— also creating trillions of dollars of value and countless jobs around the world. But the increasingly-extremist tycoons of Big Tech have decided that that's not good enough.\n\nNow, the centibillionaires have begun their final assault on the last, best parts of what's still open, and likely won't rest until they've either brought all of the independent and noncommercial parts of the Internet under their control, or destroyed them. Whether or not they succeed is going to be decided by decisions that we all make as a community in the coming months. Even though there have *always* been threats to openness on the web, the stakes have never been higher than they are this time.\n\nRight now, too many of the players in the open ecosystem are still carrying on with business as usual, even though those tactics have been failing to stop big tech for years. I don't say this lightly: it looks to me like 2026 is the year that decides whether the open web as we know it will survive at all, and we have to fight like the threat is existential. Because it is.\n\n## What does the attack look like?\n\nCalling this threat \"existential\" is a strong statement, so we should back that up with evidence. The point I want to make here is that this is a *lot broader* than just one or two isolated examples of trying to win in one market. What we are seeing is the application of the same market-crushing techniques that were used to displace entire industries with the rise of social media and the gig economy, now being deployed across the very open internet infrastructure that made the modern internet possible.\n\nThe big tech financiers and venture capitalists who are enabling these attacks are intimately familiar with these platforms, so they know the power and influence that they have — and are deeply experienced at dismantling any systems that have cultural or political power that they can't control. And since they have virtually infinite resources, they're able to carry out these campaigns simultaneously on as many fronts as they need to. The result is an overwhelming wave of threats. It's not a coordinated conspiracy, because it doesn't *need* to be; they just all have the same end goals in mind.\n\nSome examples:\n\n- Publishers who still share their content openly, either completely free for their audience, as advertising-supported content, or with a limited amount of content available until they ask for some form of payment, are being absolutely hammered by ill-behaved AI bots. These bots are scouring their sites for every available bit of content, scraping all of it up to feed their LLMs, and then making summaries of that content available to users — typically without consent or compensation. The deal was always simple: search engines had permission to crawl sites because they were going to be sending users *to* those sites. If they're hitting your site [half a million times](https://digiday.com/media/in-graphic-detail-the-state-of-ai-referral-traffic-in-2025/) for every one user they send to your site, all they're giving you is higher costs.\n\n- LLM-based AI platforms that have trained their AI models on this content gathered without consent typically have almost no links back to the original source content, and either bury or omit credits to the original site; as a result, publishers in categories like tech media have seen their traffic crater by [over 50%](https://growtika.com/blog/tech-media-collapse), with some publishers seeing drops of *over 90%*.\n\n- As publishers see the danger from AI bots expand, they retreat to putting more and more content behind either password protection or payment walls or both, leaving the only publicly-accessible content to be AI-generated slop; open resources like research work, scientific analysis, and fair use of content all suffer as a result of people responding to the bad actors, since legitimate uses of open content are no longer possible. We're seeing this already as publishers block archival sites like [the Internet Archive](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/), even though we've already seen examples where the Internet Archive was the *only* accurate record of content that was disappeared by authoritarians in the current administration.\n\n- Open APIs, a building block of how developers build new experiences for users, and for how researchers understand people's behavior online, are rapidly being locked down due to abuse from LLMs, as well as the extremist CEOs not wanting anyone to understand what's happening on their platforms. The clamping down doesn't just affect coders — the people who were best poised to help monitor and translate what's been happening on platforms like Twitter have seen their work under siege, with [over 60% of research projects on the platform stalled or abandoned](https://arxiv.org/abs/2404.07340) just since Musk shut down their open API access.\n\n- Independent media based on open formats, like podcasts, are also under siege as platforms like Apple's podcasts [move to closed infrastructure](https://www.anildash.com/2026/02/28/apple-video-podcast-power/) which means that content creators are now required to work with Apple's approved partners. Meanwhile, others like Spotify and Netflix leverage their dominant positions in the market to coerce creators to abandon open podcasts entirely, in favor of proprietary formats that require listeners to be on those platforms — locking in both creators and their audiences so they are stuck as they begin the enshittification process. The net result will be podcasts moving from being an open format that isn't controlled by either any one company or any manipulative algorithms, to just another closed social platform monetized by surveillance-based advertising.\n\n- Open source software projects, which power the vast majority of the internet's infrastructure, are now [beleaguered by constant slop code submissions](https://leaddev.com/software-quality/open-source-has-a-big-ai-slop-problem) being made by automated AI code agents. These submissions attempt to look like legitimate open source code contributions, and end up overwhelming the largely-underpaid, mostly-volunteer maintainers of open source projects. Dozens of the most popular open source projects have either greatly limited, or even *entirely closed* their projects to community-based submissions from new contributors as a result. In addition to slowing down and disrupting the open source ecosystem's collaboration model, there's also collateral damage with the destruction of one of the best paths for new coders to establish their credentials, build relationships, and learn to be part of the coding community.\n\n- The most vital open content platforms, like Wikipedia, are [under direct attack from bad-faith campaigns](https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales). Elon Musk has created Grokipedia to directly undermine Wikipedia with [extremist hate content and conspiracist nonsense](https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison), by siphoning off traffic, revenues, and contributors from the site. All of this happens while launching spurious attacks on the credibility of the content on Wikipedia, which have led to such radical rhetoric around the site that gatherings of Wikipedia editors now face interruptions from [armed attackers](https://gothamist.com/news/gunman-storms-stage-at-wikipedia-conference-in-manhattan-no-injuries-reported). Meanwhile, Wikipedia's human traffic has [dropped significantly](https://anildash.com/2026/01/15/wikipedia-at-25/) as AI platforms trained on its content answer users' questions without ever sending them to the site — a pattern that threatens the volunteer contributions and donations that keep it alive.\n\n- The open standards and specifications that underpin the Internet as we know it have always succeeded solely on the basis of there being a shared set of norms and values that make them work. In this way, they're like laws — only as strong as the society that agrees they ought to be enforced. A simple text file called `robots.txt` functioned for *decades* to describe the way that tools like search engines ought to behave when accessing content on websites, but now it is [effectively dead](https://www.plagiarismtoday.com/2025/12/17/the-death-of-robots-txt/) as Big AI companies unilaterally decided to ignore more than a generation of precedent, and do whatever they want with the entirety of the web, [completely without consent](https://www.anildash.com/2025/05/27/internet-of-consent/). Similarly, long-running efforts like Creative Commons and other community-driven attempts at creating shared declarations or definitions for content use are increasingly just ignored.\n\n- Open source software licenses, which used to be a bedrock of the software community because they provide a consistent way of encoding a set of principles in the form of a legal contract, are now treated as a minor obstacle which can be [trivially overcome](https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/) using LLMs. This means that it's possible to clone code and turn community-driven projects into commercial products without even having to credit the people who invented the original work, let alone compensating them or asking for consent. Many of these efforts are especially egregious because the *reason* the tools are able to perform this task is because they were trained on this open source code in the first place.\n\n## The human cost\n\nThe threat to the open web is far more profound than just some platforms that are under siege. The most egregious harm is the way that the generosity and grace of the people who keep the web open is being abused and exploited. Those people who maintain open source software? They're hardly getting rich — that's thankless, costly work, which they often choose *instead* of cashing in at some startup. Similarly, volunteering for Wikipedia is hardly profitable. Defining super-technical open standards takes time and patience, sometimes over a period of years, and there's no fortune or fame in it.\n\nCreators who fight hard to stay independent are often choosing to make less money, to go without winning awards or the other trappings of big media, just in order to maintain control and authority over their content, and because they think it's the right way to connect with an audience. Publishers who've survived through year after year of attacks from tech platforms get rewarded by… getting to do it again the next year. Tim Berners-Lee is no billionaire, but none of those guys with the hundreds of billions of dollars would have all of their riches without him. And the thanks he gets from them is that they're trying to kill the beautiful gift that he gave to the world, and replace it with a tedious, extortive slop mall.\n\nSo, we're in endgame now. They see their chance to run the playbook again, and do to Wikipedians what Uber did to cab drivers, to get users addicted to closed apps like they are to social media, to force podcasters to chase an algorithm like kids on TikTok.  If everyone across the open internet can gather together, and see that we're all in one fight together, and push back with the same ferocity with which we're being attacked, then we do have a shot at stopping them.\n\nAt one time, it was considered impossibly unlikely that anybody would ever create open technologies that would ever succeed in being useful for people, let alone that they would become a daily part of enabling billions of people to connect and communicate and make their lives better. So I don't think it's any more unlikely that the same communities can summon that kind of spirit again, and beat back the wealthiest people in the world, to ensure that the next generation gets to have these same amazing resources to rely on for decades to come.\n\n## Taking action\n\nAlright, if it’s not hopeless, what are the concrete things we can do? The first thing is to **directly support organizations in the fight**. Either those that are at risk, or those that are protecting those at risk. You can give directly to [support the Internet Archive](https://archive.org/donate), or [volunteer to help them out](https://archive.org/about/volunteer-positions). Wikipedia [welcomes your donation](https://donate.wikimedia.org/) or [your community participation](https://wikimediafoundation.org/participate/). The Electronic Frontier Foundation is fighting for better policy and to defend your rights on virtually all of these issues, and [could use your support](https://www.eff.org/anil) or [provides a list of ways](https://www.eff.org/about/opportunities/volunteer) to volunteer or take action. The Mozilla Foundation can also [use your donations](https://www.mozillafoundation.org/en/donate/) and is [driving change](https://www.mozillafoundation.org/en/join-us/). (And full disclosure — I’m involved in pretty much all of these organizations in some capacity, ranging from volunteer to advisor to board member. That’s because I’m trying to make sure my deeds match my words!) These are the people whom I've seen, with my own eyes, stay the hand of those who would hold the knife to the necks of the open web's defenders.\n\nBeyond just what these organizations do, though, we can *remember how much the open web matters*. I know from my time on the board of [Stack Overflow](https://stackoverflow.com/) that we got to see the rise of an incredibly generous community built around sharing information openly, under open licenses. There are very few platforms in history that helped more people have more economic mobility than the number of people who got good-paying jobs as coders as a result of the information on that site. And then we got to see the toll that extractive LLMs had when they took advantage of that community without any consideration for the impact it would have when they trained models on the generosity of that site's members without reciprocating in kind.\n\nThe good of the web only exists because of the openness of the web. They can't just keep on taking and taking without expecting people to finally draw a line and saying \"enough\". And interestingly, opportunities might exist where the tycoons least expect it. I saw [Mike Masnick's recent piece](https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/) where he argued that one of the things that might enable a resurgence of the open web might be... AI. It would seem counterintuitive to anyone who's read everything I've shared here to imagine that anything good could come of these same technologies that have caused so much harm.\n\nBut ultimately what matters is **power**. It is precisely *because* technologies like LLMs have powers that the authoritarians have rushed to try to take them over and wield them as effectively as they can. I don't think that platforms owned and operated by those bad actors can be the tools that disrupt their agenda. I do think it might be possible that the creative communities that built the web in the first place could use their same innovative spirit to build what could be, for lack of a better term, called \"[good AI](https://www.anildash.com/2025/05/02/what-would-good-ai-look-like)\". I think, if given the choice, people will pick home-cooked, locally-grown, heart-felt digital meals over factory-farmed fast food technology every time.",
+        "url": "https://anildash.com/2026/03/27/endgame-open-web/",
+        "source": "Anil Dash",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Startup"
+        ],
+        "published_at": "2026-03-27T00:00:00.000Z",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "An Intention Upgrade",
+        "summary": "**A mere six days** before the 50th anniversary of Apple, the company quietly did something it has clearly wanted to do for a long time.\n\n[It killed the Mac Pro](https://9to5mac.com/2026/03/26/apple-d",
+        "content": "**A mere six days** before the 50th anniversary of Apple, the company quietly did something it has clearly wanted to do for a long time.\n\n[It killed the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/), a device with a lineage that dates back decades. While it has only been a Mac Pro since 2006, its real roots probably lie in the PowerMac G3 Blue & White, the first new tower produced since Steve Jobs’ return to Apple.\n\nThat device combined upgradeability with design chops, using a provocative metal-plus-plastic design to create a visual language that was all Apple’s. The most recent Mac Pro, and pretty much every Mac Pro since 2006, has been surrounded in metal. But that was the machine that set the stage for what this top-level Mac was supposed to be: A highly upgradeable screamer.\n\nAgain, there is no reason Apple needed to make this decision now. It could have just kept selling the M2 Ultra Mac Pro for a few more years. (Hey, it did it [with the trash can](https://www.vice.com/en/article/who-kept-buying-the-mac-pro-everyone-hated/).) But the decision to do so just before an important anniversary in its history? That’s sending a message.\n\nThe message is simple: We’re not about PCIe ports, we’re about buy-once, upgrade-never devices. Every other device in Apple’s lineup, barring a storage upgrade forced out of the Mac Mini and Mac Studio by clever hardware hackers, has avoided upgrades. And it’s done so for a long time.\n\nThe last laptop to offer upgradeable RAM was the 2012 MacBook Pro. It’s been about five years since Apple has offered an iMac or Mac Mini capable of aftermarket RAM upgrades. It’s not like the company was hiding it from us. This is what Apple is: A company that asks you to buy the most powerful machine you can afford up front, and then do it again in five to seven years.\n\n![MacProTop.jpg](https://proxy.tedium.co/CWNnrRK9Af_NYZXOIssu3wStg3I=/999x750/filters:quality(80)/uploads/MacProTop.jpg)For a device Apple clearly didn’t like, it sure looks nice. ([Sam Grozyan/Unsplash](https://unsplash.com/photos/black-and-white-ceramic-mug-2RHNTp6KqEg))Apple is not a company afraid of symbolism in the choices it makes. The original iMac famously eschewed legacy ports and floppy drives in favor of next-generation peripheral paradigms. The company dropped USB-A from its laptops when it was the most widely used port in the world. (Still is, honestly.) And Apple infamously [avoided putting a fan](https://lowendmac.com/2014/inside-the-original-macintosh/) in the earliest Macintosh units when those devices certainly could have used them.\n\nI think the message Apple sends with this move is that a Mac is not the computer you buy if you want to open up the machine. Nor is it the machine you buy if you need ultra-specialized technology built by somebody else. Through slow decision-making and the minimization of key features desired by ultra-high-end professionals (i.e. [external](https://support.apple.com/en-us/102363) or third-party GPUs, and before that, any support for Nvidia GPUs at all), the company self-selected its audience. For a while, Apple sort of let this community live by essentially ignoring the Hackintosh community, essentially avoiding becoming a Nintendo-style heavy, going after its own enthusiast base. (On that Nvidia point, the bitterness is so strong that the company [tried to avoid using them](https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-skips-nvidias-gpus-for-its-ai-models-uses-thousands-of-google-tpus-instead) for Apple Intelligence. Maybe Tim has let this beef go too far?)\n\nMeanwhile, it tried solving the problems that plagued portions of that user base in different ways. It continued improving Thunderbolt until it got to the point where it was good enough for most use cases that don’t involve graphics but might have involved a PCIe slot. It built the Mac Studio, a small-meets-fast take on a machine that Apple has periodically tried to build at various points over the past quarter-century. (The G4 Cube was obviously where Apple wanted to go, but the miniaturization just wasn’t there.)\n\nLast year, I explained that Canva’s decision to [make its Affinity graphics software free](https://tedium.co/2025/10/30/canva-affinity-free-loss-leader-strategy/) was a move to neutralize the power users. For large companies, [power users](https://tedium.co/2021/01/27/power-users-history/) carry a stigma of sorts. They complain a lot. They want more specific things. And they have high expectations that are often more technical in nature.\n\nApple marks a lot of its products as “pro,” sure, but it has never wanted to be in the power user business. Sure, it might offer AppleScript or Automator, but it doesn’t expect 90% of people to even know what those are, let alone use them.\n\nThe downside for actual power users is that there are no real alternatives to the quite-impressive ARM architecture the company has built over the past decade. I spotted a few people in the vintage Apple community suggesting that ARM chips just aren’t good enough for professional tasks, but that’s pure cope. They just want the giant device with no compromises because of the power-user message it sends.\n\nBut Apple is a company that expects you to compromise. In 2012, when I bought my first MacBook Pro, the compromise was “you can either get the thinner machine with the nicer screen and no upgradeable RAM, or the old machine that’s a lot thicker and still has those RAM slots.” The MacBook Neo is a bet that you are willing to compromise on RAM and a backlit keyboard; the MacBook Air is a bet that you’re willing to compromise on having a fan in your laptop. Even the Mac Studio, which until recently allowed you to spec it with half a terabyte of RAM, was a bet that you’re willing to compromise a lot of money and internal upgradeability for a machine that screams.\n\nThere’s nothing wrong with you if you don’t want to compromise, if your favorite parts of Apple were the parts that you could jailbreak or Hackintosh your way around. But with the decision to retire the Mac Pro, a device that Apple has only half-heartedly sold for the past 15 years, Apple is making explicit what has been obvious for decades: It is not the power user company.\n\nSure, you can harness powerful things with Macs or iPhones or iPads. But this company would rather you think of your computers like appliances that serve a purpose and eventually get replaced. Don’t like that? Plenty of other ecosystems can serve you. I hear Linux is getting pretty good these days.\n\nThat’s the message that will carry Apple into the next 50 years.\n\n##### Non-Apple Links\n\n**Cool thing worth checking out:** [Offprint](https://offprint.app/), a new blogging platform built around the AT protocol, aims to be something of an open-standards version of Beehiiv or Substack. Give it a looksee.\n\n**I’ve been thinking a lot about Matthew Sweet lately.** The standard-bearer of all things power pop in the era just before Fountains of Wayne showed up has been out of commission for more than a year after suffering a serious stroke. He must have known that I was thinking about him with concern, because he [shared an update](https://www.gofundme.com/f/support-matthew-sweets-stroke-recovery) on his GoFundMe page this week. He’s not doing well, but he is sticking in there, honest but still hopeful. “With this disability, there is a deep sadness. It can hit me in the night, in the morning, really anytime,” he wrote. “It is hard to express.” As a listener, it can be tough to listen to some of his songs, like “[Sick of Myself](https://www.youtube.com/watch?v=sNfocDNZWY8),” and now see how they carry themselves the light of his current situation. (If you haven’t donated, maybe consider it?)\n\n**ARM’s [homegrown AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu),** while intended for data centers, makes my nerdy heart feel things. Maybe this is the starting point of an ARM ecosystem for power users?\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/03/27/apple-mac-pro-discontinued-anniversary/)! And free tip: Now is a good time to get a 2019 Mac Pro and install Linux on it. It’s still a beast. (Skip the wheels though.)\n\nAnd thanks to our pals at [la machine](https://la-machine.fr/?utm_source=newsletter&utm_medium=email&utm_campaign=tedium), a device for power users.",
+        "url": "https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Hardware",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-03-27T15:56:07.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "We Rewrote JSONata with AI in a Day, Saved $500K/Year - 27th March 2026 - Link Blog **[We Rewrote JSONata with AI in a Day, Saved $500K/Year](http...",
+    "Bring back MiniDV with this Raspberry Pi FireWire HAT - In my last post, I showed you to use [FireWire on a Raspberry Pi](https://www.jeffgeerling...",
+    "Quoting Richard Fontana - 27th March 2026 > FWIW, IANDBL, TINLA, etc., I don’t currently see any basis for concludin...",
+    "Apple Discontinues the Mac Pro With No Plans to Bring It Back - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?quality=82&stri...",
+    "Sharing a Name  - My bank card never arrived. I called the bank and, after being redirected through several..."
+  ],
+  "wordcloud": [
+    {
+      "word": "ai",
+      "count": 6
+    },
+    {
+      "word": "th",
+      "count": 6
+    },
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "mac",
+      "count": 6
+    },
+    {
+      "word": "pro",
+      "count": 5
+    },
+    {
+      "word": "good",
+      "count": 5
+    },
+    {
+      "word": "apple",
+      "count": 5
+    },
+    {
+      "word": "march",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "real",
+      "count": 3
+    },
+    {
+      "word": "bring",
+      "count": 3
+    },
+    {
+      "word": "amd",
+      "count": 3
+    },
+    {
+      "word": "taste",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "shopping",
+      "count": 2
+    },
+    {
+      "word": "wanted",
+      "count": 2
+    },
+    {
+      "word": "answer",
+      "count": 2
+    },
+    {
+      "word": "product",
+      "count": 2
+    },
+    {
+      "word": "arguments",
+      "count": 2
+    },
+    {
+      "word": "don",
+      "count": 2
+    },
+    {
+      "word": "disney",
+      "count": 2
+    },
+    {
+      "word": "pentium",
+      "count": 2
+    },
+    {
+      "word": "experience",
+      "count": 2
+    },
+    {
+      "word": "us",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "originally",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "ux",
+      "count": 2
+    },
+    {
+      "word": "books",
+      "count": 2
+    },
+    {
+      "word": "turn",
+      "count": 2
+    },
+    {
+      "word": "workflows",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "visual",
+      "count": 2
+    },
+    {
+      "word": "diagrams",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "rewrote",
+      "count": 2
+    },
+    {
+      "word": "jsonata",
+      "count": 2
+    },
+    {
+      "word": "day",
+      "count": 2
+    },
+    {
+      "word": "saved",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "bit",
+      "count": 2
+    },
+    {
+      "word": "raspberry",
+      "count": 2
+    },
+    {
+      "word": "pi",
+      "count": 2
+    },
+    {
+      "word": "firewire",
+      "count": 2
+    },
+    {
+      "word": "show",
+      "count": 2
+    },
+    {
+      "word": "bank",
+      "count": 2
+    },
+    {
+      "word": "days",
+      "count": 2
+    },
+    {
+      "word": "vibe",
+      "count": 2
+    },
+    {
+      "word": "image",
+      "count": 2
+    },
+    {
+      "word": "web",
+      "count": 2
+    },
+    {
+      "word": "tim",
+      "count": 2
+    }
+  ]
+}
