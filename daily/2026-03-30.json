@@ -1,0 +1,705 @@
+{
+  "date": "2026-03-30",
+  "stats": {
+    "total_fetched": 277,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "datasette-llm 0.1a3",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a3\">datasette-llm 0.1a3</a></p> <p>Adds the ability to configure <a href=\"https://github.com/datasette/datasette-llm/tree/0...",
+        "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-03-30T19:48:43.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Macs of Unusual Size",
+        "summary": "Scott Knaster: The Big Mac is about 22 times the size of the little Mac. ★",
+        "url": "https://scottknaster.substack.com/p/macs-of-unusual-size",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T16:24:40.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "llm-mrchatterbox 0.1",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-mrchatterbox/releases/tag/0.1\">llm-mrchatterbox 0.1</a></p> <p>See <a href=\"https://simonwillison.net/2026/Mar/30/mr-chatterbox/\">Mr. Chatterbox is a (w...",
+        "url": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-03-30T02:20:46.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Gig Review: Vitamin String Quartet at The Barbican ★★★★★",
+        "summary": "There is no such thing as the Vitamin String Quartet. They're an ever-changing line-up of musicians who have found an excellent schtick; modern songs played like classical music. Somehow they've parlayed that into over 3...",
+        "url": "https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 30 Mar 2026 11:34:35 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Notes on going solo: celebrating 6 years of Studio Self",
+        "summary": "Since roughly // broadly 2020, I’ve been running a solo-powered minor empire. I have no employees, and my only office is my home office, filled as it is with cat hair and various comic books. My business is: me, a laptop...",
+        "url": "https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Mon, 30 Mar 2026 05:55:34 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What happened to Procomm Plus",
+        "summary": "Procomm Plus was the ultimate terminal emulator of the late 1980s and early 1990s. It was a product of Datastorm, a small software company based in Columbia, Mo., a college town about halfway between St. Louis and Kansas...",
+        "url": "https://dfarq.homeip.net/what-happened-to-procomm-plus/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-procomm-plus",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Mon, 30 Mar 2026 11:00:15 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare Client-Side Security: smarter detection, now open to everyone",
+        "summary": "We are opening our advanced Client-Side Security tools to all users, featuring a new cascading AI detection system. By combining graph neural networks and LLMs, we've reduced false positives by up to 200x while catching...",
+        "url": "https://blog.cloudflare.com/client-side-security-open-to-everyone/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Mon, 30 Mar 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A question about the maximimum number of values in a registry key raises questions about the question",
+        "summary": "Why is this even a question? The post A question about the maximimum number of values in a registry key raises questions about the question appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175",
+        "source": "The Old New Thing",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 30 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API",
+        "summary": "For a hobby project built in my spare time to provide a simple community service, Have I Been Pwned sure has, well, \"escalated\". Today, we support hundreds of thousands of website visitors each day, tens of millions of A...",
+        "url": "https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "Mon, 30 Mar 2026 18:42:30 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Small note about AI 'GPUs'",
+        "summary": "They are graphical processing units that can't process graphics.",
+        "url": "https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "Mon, 30 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Webs Digital Locks have Never had a Stronger Opponent",
+        "summary": "We are in a renaissance era of reverse engineering. Defenders are going to be on the back foot until we figure out some way to cope with LLM's.",
+        "url": "https://blog.pixelmelt.dev/the-webs-digital-locks/",
+        "source": "Cats with power tools",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Mon, 30 Mar 2026 17:18:09 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-30T22:24:42.559Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Georgi Gerganov",
+        "summary": "30th March 2026\n\n> Note that the main issues that people currently unknowingly face with local models mostly revolve around the harness and some intricacies around model chat templates and prompt cons",
+        "content": "30th March 2026\n\n> Note that the main issues that people currently unknowingly face with local models mostly revolve around the harness and some intricacies around model chat templates and prompt construction. Sometimes there are even pure inference bugs. From typing the task in the client to the actual result, there is a long chain of components that atm are not only fragile - are also developed by different parties. So it's difficult to consolidate the entire stack and you have to keep in mind that what you are currently observing is with very high probability still broken in some subtle way along that chain.\n\n— [Georgi Gerganov](https://twitter.com/ggerganov/status/2038674698809102599), explaining why it's hard to find local models that work well with coding agents",
+        "url": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-30T21:31:02.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "[Sponsor] Material Security",
+        "summary": "## Stop email attacks, protect sensitive data, and simplify your security operations\n\nMaterial Security provides unified protection for Google Workspace and Microsoft 365, combining threat detection a",
+        "content": "## Stop email attacks, protect sensitive data, and simplify your security operations\n\nMaterial Security provides unified protection for Google Workspace and Microsoft 365, combining threat detection and response across email, files, and accounts. With a single platform, you get stronger defenses, clearer visibility, and simpler operations—all without the complexity of legacy tools.\n\n**With Material Security you can: **\n1. Detect and remediate advanced threats like phishing, BEC, and account takeovers that slip past traditional email gateways or Microsoft/Google-native defenses.\n\n2. Gain complete visibility into where sensitive data lives and how it’s being shared across inboxes and Google Drive.\n\n3. Eliminate quarantines, noisy alerts, and repetitive manual tasks while providing your team with real-time insights into account risk, file exposure, and attack activity.",
+        "url": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-03-30T21:23:19.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘The Brand Age’",
+        "summary": "![The Brand Age](https://s.turbifycdn.com/aah/paulgraham/the-brand-age-1.gif)March 2026In the early 1970s disaster struck the Swiss watch industry. Now\npeople call it the quartz crisis, but in fact it",
+        "content": "![The Brand Age](https://s.turbifycdn.com/aah/paulgraham/the-brand-age-1.gif)March 2026In the early 1970s disaster struck the Swiss watch industry. Now\npeople call it the quartz crisis, but in fact it was a compound of\nthree separate disasters that all happened at about the same time.\n\nThe first was competition from Japan. The Swiss had been watching\nthe Japanese in the rear view mirror all through the 1960s, and\nthey'd been improving at an alarming rate. But even so the Swiss\nwere surprised in 1968 when the Japanese swept all the top spots\nfor mechanical watches at the Geneva Observatory trials.\n\nThe Swiss knew what was coming. For years the Japanese had been\nable to make cheaper watches. Now they could make better ones too.\n\nTo make matters worse, Swiss watches were about to become much more\nexpensive. The Bretton Woods agreement, which since 1945 had fixed\nthe exchange rates of most of the world's currencies, had set the\nSwiss Franc at an artificially low rate of .228 USD. When Bretton\nWoods collapsed in 1973, the Franc shot upward. By 1978 it reached\n.625 USD, meaning Swiss watches were now 2.7 times as expensive for\nAmericans to buy. \n\n[[1](#f1n)]The combined effect of foreign competition and the loss of their\nprotective exchange rate would have decimated the Swiss watch\nindustry even if it hadn't been for quartz movements. But quartz\nmovements were the final blow. Now the whole game they'd been trying\nto win at became irrelevant. Something that had been expensive —\nknowing the exact time — was now a commodity.\n\nBetween the early 1970s and the early 1980s, unit sales of Swiss\nwatches fell by almost two thirds. Most Swiss watchmakers became\ninsolvent or close to it and were sold. But not all of them. A\nhandful survived as independent companies. And the way they did it\nwas by transforming themselves from precision instrument makers\ninto luxury brands.\n\nIn the process the nature of the mechanical watch was also transformed.\nThe most expensive watches have always cost a lot, but why they\ncost a lot and what buyers got in return have changed completely.\nIn 1960 expensive watches cost a lot because they cost a lot to\nmanufacture, and what the buyer got in return was the most accurate\ntimekeeping device, for its size, that could be made. Now they cost\na lot because brands spend a lot on advertising and use tricks to\nlimit supply, and what the buyer gets in return is an expensive\nstatus symbol.\n\nThat turns out to be a profitable business though. The Swiss watch\nindustry probably makes more now from selling brand than they would\nhave if they were still selling engineering. And indeed, when you\nlook at the graph of Swiss watch sales by revenue, it tells a\ndifferent story than the graph of unit sales. Instead of falling\noff a cliff, the revenue numbers merely flatten out for a while,\nand then take off like a rocket in the late 1980s as the surviving\nwatchmakers come to terms with their new destiny.\n\nIt took the watchmakers about 20 years to figure out the new rules\nof the game. And it's interesting to watch them do it, because the\ncompleteness of their transformation makes it the perfect case study\nin one of the most powerful forces of our era: brand.\n\nBrand is what's left when the substantive differences between\nproducts disappear. But making the substantive differences between\nproducts disappear is what technology naturally tends to do. So\nwhat happened to the Swiss watch industry is not merely an interesting\noutlier. It's very much a story of our times.\n\nJaeger-LeCoultre's web site says that one of their current collections\n\"takes its inspiration from the classic designs of the golden age\nof watchmaking.\" In saying this they're implicitly saying something\nthat present-day watchmakers all know but rarely come so close to\nsaying outright: whatever age we're in now, it's not the golden\nage.\n\nThe golden age was from 1945 to 1970 — from the point where the\nwatch industry emerged from the chaos of war with the Swiss on top\ntill the triple cataclysm that struck it starting in the late 60s.\nThere were two things watchmakers sought above all in the golden\nage: thinness and accuracy. And indeed this was arguably the essential\ntradeoff in watchmaking. A watch is something you carry with you\nto tell you the time. So there are two fundamental ways to improve\nit: to make it easier to carry with you and to make it better at\ntelling the time.\n\nObviously accuracy is valuable, but in the golden age thinness was\nif anything more valuable. Even in the days of pocket watches the\nbest watchmakers tried to make their watches as thin as they could.\nCheap, thick pocket watches were derided as \"turnips.\" But thinness\ntook on a new urgency when men's watches moved onto their wrists\nduring World War I. And since thinness was more difficult to achieve\nthan accuracy, it was this quality that tended to distinguish the\nmore expensive watches of the golden age.\n\nThere is one other thing watchmakers have pursued in some eras:\ntelling more than the time in the usual way. Telling you the phase\nof the moon, for example, or telling the time with sound. In the\nindustry the term for these things is \"complications.\" They were\npopular in the nineteenth century and they're popular again now,\nbut except for one pragmatic complication (showing the date), they\nwere a sideshow in the golden age. In the golden age, as always in\ngolden ages, the top watchmakers focused on the essential tradeoff.\nAnd, as always in golden ages, they did it beautifully. The best\nwatches of the golden age have a \n[quiet perfection](https://goldammer.me/products/vacheron-constantin-18k-white-gold) that has never\nbeen equalled since. And for reasons I'm about to explain, probably\nnever will be.\n\nThe three most prestigious brands of the golden age were the so-called\n\"holy trinity\" of Patek Philippe, Vacheron Constantin, and Audemars\nPiguet. Their prestige was mostly deserved; they had earned it by\nthe exceptional quality of their work. By the 1960s they stood on\ntwo legs, prestige and performance. And what they learned in the\nnext two decades was that they had to put all their weight on the\nfirst leg, because they could no longer win at either of the two\nthings watchmakers had historically striven to achieve. Quartz\nmovements were not only more accurate than any mechanical movement,\nbut thinner too.\n\nThe holy trinity at least had another leg to stand on. Most of the\nother well-known Swiss watchmakers sold only performance. None of\nthose companies survived intact.\n\nOmega showed what not to do. Omega were the nerds of Swiss watchmakers.\nThey made wonderfully accurate watches, but they would have been\nambivalent, at best, about the idea of being a luxury brand. When\nthe Japanese got as good as the Swiss at making accurate movements,\nOmega responded in the Omega way: make even more accurate movements.\nThey introduced a new movement in 1968 that ran at a 45% higher\nfrequency. In theory this should have made it more accurate, but\nthe new movement was so fragile that it destroyed their reputation\nfor reliability. They even tried to make a better quartz movement,\nbut there was nothing down that road but a race to the bottom. By\n1981 they were insolvent and were taken over by their creditors.\n\nPatek Philippe took the opposite approach. While Omega was redesigning\ntheir movements, Patek was redesigning their cases. Or more precisely,\ndesigning their cases, because until then they hadn't.\n\nThis is probably the point to mention what a strange beast the Swiss\nwatch industry was in those days. It was a kind of capitalism that's\nhard to imagine today, and even then could only have been made to\nwork in a country like Switzerland — a network of small, specialized\ncompanies locked into place by regulation. The companies that we\nfor convenience have been calling watchmakers were merely the\nconsumer-facing edge of this network. The holy trinity didn't design\ntheir own cases, or even their own movements most of the time.\n\nIn 1968 (that year again) Patek Philippe launched a new watch that\nshifted the center of gravity of case design. This time they'd taken\ntheir own designs to the casemakers and said \"this is what you're\ngoing to make for us.\" The result was a striking new model called\nthe [Golden Ellipse](https://collectability.com/learn/the-history-of-the-golden-ellipse/). Somewhat confusingly, because it wasn't elliptical.\nThe new case was more of what UI designers would call a round rect:\na rectangle with rounded corners. And this new family of watches\nwas quite successful. But it was more than that: it was the pattern\nfor the future. \n\n[[2](#f2n)]How could merely designing a distinctive case be so important?\nBecause it turned the entire watch into an expression of brand.\n\nThe trouble with the best watches of the golden age, from the point\nof view of someone who wanted to impress people with the brand of\nwatch he was wearing, was that no one could tell what brand of watch\nyou were wearing. Until you got within a few inches of them, the\nwatches of all the top makers looked the same. That's the thing\nabout minimalism: there tends to be just one answer. Plus the watches\nof the golden age were small by present standards. Watchmakers had\nspent centuries working to make them smaller, and by 1960 they'd\ngotten very good at it. So the only thing distinguishing one top\nbrand from another was the name printed on the dial, and dials were\nso small that these names were tiny. The manufacturers' names on\nthe holy trinity's golden age watches are between half and three\nquarters of a millimeter high. So by taking over the case, Patek\nexpanded the size of the brand from 8 square millimeters to 800.\n\nWhy did they suddenly decide to make their brand shout, after a\ncentury of whispering? Because they knew they weren't going to beat\nthe Japanese on performance. From now on they'd have to depend more\non brand.\n\nThere's a cost to doing this, which we can see even in this early\nexample of case-as-brand. Golden Ellipses are not bad looking. They\nmust have looked even cooler in the 1970s, when designers were\nturning everything into round rects. But the Golden Ellipse was not\nan evolutionary step forward in case design. Watches didn't all\nbecome round rects. Watchmakers had already discovered the optimal\nshape for the case of something that describes a circle as it\nrotates.\n\nThey had also discovered the optimal shape for the crown, the knob\non the side of a watch that you turn to wind it. But to emphasize\nthe distinctive profile of the Ellipse, Patek made the crown too\nsmall, with the result that they're distractingly hard to wind.\n\n[[3](#f3n)]So even in this early example we see an important point about the\nrelationship between brand and design. Branding isn't merely\northogonal to good design, but opposed to it. Branding by definition\nhas to be distinctive. But good design, like math or science, seeks\nthe right answer, and right answers tend to converge.\n\nBranding is centrifugal; design is centripetal.\n\nThere is some wiggle room here of course. Design doesn't have as\nsharply defined right answers as math, especially design meant for\na human audience. So it's not necessarily bad design to do something\ndistinctive if you have honest motives. But you can't evade the\nfundamental conflict between branding and design, any more than you\ncan evade gravity.\n\nIndeed, the conflict between branding and design is so fundamental\nthat it extends far beyond things we call design. We see it even\nin religion. If you want the adherents of a religion to have customs\nthat set them apart from everyone else, you can't make them do\nthings that are convenient or reasonable, or other people would do\nthem too. If you want to set your adherents apart, you have to make\nthem do things that are inconvenient and unreasonable.\n\nIt's the same if you want to set your designs apart. If you choose\ngood options, other people will choose them too.\n\nThere are only two ways to combine branding and good design. You\ncan do it when the space of possibilities is enormously large, as\nit is in painting for example. Leonardo could paint as well as he\npossibly could and yet also paint in a style that was distinctively\nhis. If there had been a million painters as good as Bellini and\nLeonardo this would have been harder to do, but since there were\nmore like ten they didn't bump up against one another much.\n\n[[4](#f4n)]The other situation when branding and good design can be combined\nis when the space of possibilities is comparatively unexplored. If\nyou're the first to arrive in some new territory, you can both find\nthe right answer and claim it as uniquely yours. At least at first;\nif you've really found the right answer, everyone else's designs\nwill inevitably converge on yours, and your brand advantage will\nerode over time.\n\nSince the space of watch design is neither unexplored nor enormously\nlarge, branding can only be achieved at the expense of good design.\nAnd in fact if you wanted one sentence to describe the current age\nof watchmaking, that one would do pretty well.\n\nPatek Philippe didn't know for sure that making visibly branded\nwatches would work. It was not even their only strategy, at the\ntime. They were finding their way. But it was the strategy that did\nwork, at least as measured by revenues.\n\nFor it to work the customers had to meet them halfway. Patek knew\nthat not all their customers were buying their watches for the\nperformance they delivered — for their accuracy and thinness. They\nknew that at least some customers were buying them because they\nwere expensive. But it was unclear how many, or how far they could\nbe pushed.\n\nTo encourage them, Patek did something that none of the holy trinity\nhad done much of before: brand advertising. And what they talked\nabout was how expensive their watches were. A 1968 Patek ad explained\n\"why you are well advised to invest perhaps half a month's income\"\nin an Ellipse. \"Like every Patek Philippe,\" the ad continued, \"this\nthin model is entirely finished by hand. Since a Patek Philippe is\nthe costliest watch to make, production is severely limited: only\n43 watches are signed out each day for delivery to prominent jewelers\nthroughout the world.\"\n\n[[5](#f5n)]You can tell this is an early ad because they still mention thinness.\nBut there is no mention of accuracy. Presumably Patek felt that\nbattle was already lost.\n\nThe next move was made by Audemars Piguet, who in 1970 commissioned\nthe renowned designer G�rald Genta to design their own iconic watch,\nthis one, daringly, in steel. The result, launched in 1972, was the\n[Royal Oak](https://www.sothebys.com/en/buy/auction/2025/fine-watches-5/reference-5402st-jumbo-royal-oak-a-series-a). \nAnd Audemars Piguet's ads (for they too now started doing\nbrand advertising) emphasized its high cost even more dramatically.\n\"Introducing steel at the price of gold,\" one began. \"You're looking\nat the costliest stainless steel watch in the world — the Audemars\nPiguet 'Royal Oak'. What makes it even more precious than gold is\nthe time that went into building it, by a vanishing breed of master\nwatchmakers.\" At the bottom of the ad they turn the traditional\nformula on its head and describe their watches as being \"priced\nfrom $35,000 and down.\"\n\nThe Royal Oak was also a step forward in surface area devoted to\nbrand. The Golden Ellipse had turned the watch face into an expression\nof brand, but it used ordinary straps and bracelets. In the Royal\nOak, the watch face was integrated with a metal bracelet that\ncontinued its design all the way around the wrist. When it said\n\"You're looking at the costliest stainless steel watch in the world,\"\nit said it with every square millimeter of surface area.\n\nWould customers buy this new approach? The initial results were\nmoderately encouraging. The holy trinity's sales didn't take off,\nbut they didn't go down to zero either. There were at least some\npeople out there responding to the new message. Perhaps if they\nkept at it the number would grow.\n\nSo they did. Encouraged by the success of the Royal Oak, Patek\nPhilippe commissioned G�rald Genta in 1974 to design a similar watch\nfor them. The design of the Royal Oak had been inspired by a ship's\nporthole, so the design of this new watch would be inspired by...\na ship's porthole. It was called the \n[Nautilus](https://www.sothebys.com/en/buy/auction/2025/important-watches-2/reference-3700-11-nautilus-jumbo-a-stainless-steel), and it launched at\nthe Basel Watch Fair in 1976.\n\nIn the Nautilus we really see the incompatibility of branding and\ndesign. It was huge. The most expensive men's watches at the peak\nof the golden age were typically 32 or 33 millimeters in diameter.\nThe Nautilus was 42 millimeters. And as well as being huge it had\ngratuitous knobs on either side of the face, like a pair of ears.\nBut you could recognize one from across the room.\n\nOf all the watches Patek makes now, the Nautilus is the most sought\nafter. It's perfectly aligned with what present-day buyers want — \nbasically, the loudest possible expression of brand. But in 1976\nit was ahead of its time. In 1976 it was still a little too much.\n\nThe watch that finally turned Patek's fortunes around was another\niconic design, the hobnail calatrava. The hobnail calatravas were\nso called because they were decorated with tiny pyramid-shaped\nspikes. That was enough to make them look distinctive. But except\nfor the hobnails they were basically golden age dress watches.\n\nThe hobnail calatrava was apparently the brainchild of Ren� Bittel,\nthe head of Patek Philippe's ad agency. It was not a new design.\nMany watchmakers had decorated their cases with hobnails over the\nyears, and there had been a Patek model with them since 1968. But\nin 1984 Bittel told Patek president Philippe Stern, in effect: make\nthis your standard design, and I'll create an ad campaign to identify\nit in people's heads with your brand. \n\n[[6](#f6n)]It worked spectacularly well. The resulting watch, the \n[3919](https://www.sothebys.com/en/buy/auction/2019/watches-online-6/patek-philippe-ref-3919j-a-yellow-gold-wristwatch/), is\nknown as the \"banker's watch\" because it became so popular among\ninvestment bankers in New York in the 80s and 90s. Up to this point\nPatek had been hedging their bets, making quartz watches as well,\nand arguing defensively in their ads that quartz watches in fancy\ncases were almost as laborious to make as mechanical ones. But the\nibankers bought the full mechanical story. They didn't even need\nself-winding mechanical watches; the 3919 was hand-wound. So be it.\nPatek stopped talking about quartz movements. And their sales, which\nhad been flat since the early 70s, were by 1987 on a clear upward\ntrajectory that has continued to this day.\n\nIt's hard to say for sure whether the critical ingredient was\nBittel's skill at advertising or a receptive audience, but as someone\nwho knew these investment bankers, I'd lean toward the audience.\nThese were the people for whom the term \"yuppy\" was coined. Living\nexpensively was one of the things they were best known for. If\nanyone was going to adopt a new way to display wealth, it would be\nthem. Whereas if Bittel had sent the same message ten years earlier,\nthere might have been no one to hear it.\n\nWhatever the cause, something happened in the second half of the\n1980s, because that's when all the numbers finally start going up\nagain. Up till about 1985 it was still not clear what would happen\nwith mechanical watches. By 1990 it was. By 1990 the custom of using\nexpensive, highly-branded, conspicuously mechanical watches as\nstatus symbols was firmly established.\n\n[[7](#f7n)]Obsolete technologies don't usually get adopted as ways to display\nwealth. Why did it happen with mechanical watches? Because the\nwristwatch turns out to be the perfect vehicle for it. Where better\nthan right on your wrist, where everyone can see it? And more to\nthe point, what better to do it with? You could wear a diamond ring\nor a gold chain, but those would have seemed socially dubious to\ninvestment bankers. They might have been barbarians, but they weren't\nmafia. Whereas nothing could be more legit than a gold watch. The\nchairman of the company was still wearing one his wife gave him 20\nyears ago, before quartz watches were even a thing. If the increasing\npressure to display wealth was going to emerge anywhere, this was\nthe place.\n\n[[8](#f8n)]For men, at least. Women never really went for the idea of wearing\nmechanical watches. Most rich women are happy wearing a Cartier\ntank with a quartz movement. Why the difference? Partly for the\nsame reason that most buyers of steam engines are men. But the main\nreason is that expensive mechanical watches now serve as de facto\njewelry for men, and women don't need de facto jewelry because they\ncan wear actual jewelry.\n\nIt was critical, though, that mechanical watches were accurate\n*enough*. A new 3919 would have been off by no more than 5 seconds\na day. That was nowhere near as good as quartz. Even the cheapest\nmass market quartz watches were accurate to half a second a day,\nand the best ones were accurate to 3 seconds a year. But in practice\nyou didn't need that kind of accuracy. If mechanical watches had\nonly been accurate to a minute a day they couldn't have made the\nleap from keeping time to displaying wealth. It would have seemed\ntoo manifestly unluxurious to have a watch that always had the wrong\ntime. But 5 seconds a day was close enough.\n\n[[9](#f9n)]This is an important point about the relationship between brand and\nquality. Quality doesn't stop mattering when a product switches to\nsomething people buy for its brand. But the way it matters changes\nshape. It becomes a threshold. It no longer has to be so great that\nit sells the product; brand sells the product; but it does have to\nbe good enough to maintain the brand's reputation. The brand must\nnot break character.\n\nIt was a lucky thing for the watchmakers that yuppies arose just\nin time to save them. Or maybe not so lucky. Because the evolution\nof the market that yuppies represented has continued with a vengeance,\nand watchmakers have perforce been dragged along with it. If they\ndon't make gigantic blingy watches for buyers in Hong Kong and\nDubai, someone else will. So that is what they now find themselves\ndoing. And what began with a few comparatively subtle examples of\nthe conflict between branding and design is now an all out \n[war](https://www.patek.com/en/collection/grand-complications/6300-400g-001) on\ndesign.\n\nThe present era of mechanical watchmaking doesn't yet have a name.\nBut if we need one, it's obvious what it should be: the brand age.\nThe golden age ran from 1945 to 1970, followed by the quartz crisis\nfrom 1970 to 1985. Since 1985 we've been in the brand age.\n\nThis won't be the only brand age. Indeed, it's not even the first;\nfine art has been in its own brand age since the establishment of\nthe Barr canon in the 1930s. And since we'll probably see more of\nthis kind of thing, it would be worth taking some time to look at\nwhat a brand age is like.\n\nHow are things different now from the way they were in the golden\nage? The best way to answer that might be to imagine what someone\nfrom the golden age would notice if we brought him here in a time\nmachine.\n\nThe first thing he'd notice, if he walked through a fancy shopping\ndistrict, is that all the prominent watchmakers of the golden age\nseem to be doing better than ever. They're not only all still around,\nbut most now have their own boutiques instead of depending on\njewelers to sell their products as they used to back in the day.\n\nIn fact this is an illusion. Only three watchmakers survived the\ndark days of the 70s and 80s as independent companies: Patek Philippe,\nAudemars Piguet, and Rolex. All the rest are owned by six holding\ncompanies, which reinflated them as it became clear that mechanical\nwatches would have a second life as luxury accessories for men.\nInstead of separate companies they're now more like the brands\nthat got rolled up into the big three American automakers: they're\nways for their parent companies to target different segments of the\nmarket. So Longines, for example, no longer competes with Omega,\nbecause the company that owns them both has assigned it a lower\ntier of the market. \n\n[[10](#f10n)]There's a reason the Vacheron Constantin boutique looks so much\nlike the IWC and Jaeger-LeCoultre boutiques, and for that matter\nthe Montblanc and Cartier boutiques. They're all owned by the same\ncompany. It's similar with clothing brands, incidentally. When you\nwalk through a town's fanciest shopping district, what seem to be\nthe shops of lots of different brands are actually owned by a handful\nof conglomerates. That's one reason these districts seem so sterile;\nlike suburbs built by a single developer, they have an unnatural\nlack of variety.\n\nWhen our time traveler peered into the windows of these shops, the\nfirst thing he'd notice was how large all the watches were. This\nwould surprise him, because in the golden age, as indeed in all the\npreceding centuries, big meant cheap. An expensive golden age men's\nwatch might have been 33 millimeters in diameter and 8 millimeters\nthick. An expensive watch today will be more like 42 millimeters\nin diameter and 10 millimeters thick — more than double the size.\nIt would astonish our visitor to look through the windows of what\nwere clearly very fancy shops and see what seemed to be cheap\nwatches. \n\n[[11](#f11n)]We know how this happened. When watches switched from telling time\nto telling brand, they grew in size to be better at it. And not\njust in size, but in shape too. That's another thing our time\ntraveler would notice: the surprising variety of strange case shapes\nand awkward protrusions that have been produced as the centrifugal\ntendency of branding played out. What, he'd wonder, is going on\nwith the huge guards on the crowns of those Panerais? What do people\ndo with these watches that makes the crown need such protection?\nAnd why would a crown guard have a message engraved on it saying\nthat it's a registered trademark? It's obvious to us what's going\non here, but imagine how confusing it would be to someone from the\ngolden age, when form followed function.\n\n[[12](#f12n)]As he puzzled over this strange assortment of bulky watches, he'd\nnotice a further pattern. He'd realize that a surprisingly large\nnumber of them looked like a specific brand of bulky watch he was\nalready familiar with.\n\nI haven't talked about Rolex so far, because Rolex didn't have to\ndo much to adapt to the new era. They already had one foot in the\nbrand age during the golden age. Early in their history they put a\nlot of effort into making their watches better, but they \"stopped\ntaking part in competitions in Geneva and Neuch�tel at the end of\nthe 1950s,\" and from about 1960 \"largely abandoned research into\nmechanical watchmaking.\"\n\n[[13](#f13n)]\nThe reason was not that they'd become\nlazy, but that they'd discovered they could make sales grow faster\nby marketing their watches as status symbols. So that became their\nfocus during the 1960s, and by the time the quartz crisis hit ten\nyears later, their customers were self-selected to be people who\ndidn't care that much what was inside a watch, so long as it was\nrecognizably a Rolex.And they were far ahead of other watchmakers in that department.\nThey already had in the 1940s what we saw Patek Philippe and Audemars\nPiguet struggling to create in the 1970s and 80s: a case that\nimmediately proclaimed the brand of the maker. The Rolex look seems\nto have evolved organically, but once it did, they realized how\nimportant it was. In fact they pitched it as one of the features\nof their watches. A 1960s Rolex ad says \"You can recognize its\nclassic shape, carved out of a block of solid gold, from the other\nend of the conference table.\"\n\nIndeed Rolex was ahead of its time in both dimensions: their cases\nwere not merely recognizable, but big too, at least by golden age\nstandards. That was not the result of clever marketing, though. It\nwas a byproduct of the founder Hans Wilsdorf's obsession with\nbuilding waterproof watches.\n\nAs its name suggests, that was the raison d'etre of the Rolex Oyster.\nWatches like the Oyster were designed to be tough, like Jeeps. In\nthe golden age there were two poles of watch design. At one end\nwere tool watches, which were thick, tough, and usually made of\nsteel. At the other end were dress watches, which were thin, elegant,\nand usually made of gold. But Rolex blurred the line between them.\nWhen they made thick, tough watches, they made them out of gold as\nwell as steel. The result was a sort of luxury Jeep. And if that\nphrase didn't ring a bell in your head, stop and think about it,\nbecause that is exactly what everyone is driving now. That's what\nSUVs are, luxury Jeeps. What happened to watches is the same thing\nthat happened to cars. And indeed if our time traveler turned and\nsaw a Porsche Cayenne pass by and realized what it was — a huge,\npseudo-offroad vehicle meant to recall the Porsche 911 — he might\nhave been even more shocked than he was by the watches he'd been\nlooking at. \n\n[[14](#f14n)]If the time traveller walked into a Patek Philippe boutique and\nactually tried to buy a Nautilus, he'd get the biggest shock of\nall. They wouldn't sell him one. Because at Patek he'd encounter\nthe most extreme brand age phenomenon: artificial scarcity. You\ncan't just buy a Nautilus. You have to spend years proving your\nloyalty first by buying your way through multiple tiers of other\nmodels, and then spend years on a waiting list. \n\n[[15](#f15n)]Obviously this strategy sells more watches. But it also supports\nretail prices by keeping watches off the secondary market. A company\nusing artificial scarcity to drive sales can't allow too many of\nthe scarce models to leak into the secondary market, or they stop\nbeing scarce. The ideal is the watch equivalent of carbon sequestration:\nfor the people who buy their watches to keep them till they die.\n\nTo push the market toward this ideal, Patek squeezes from both sides\nof the sale. They weed out flippers by making the path to the scarce\nmodels so costly in both time and money — so inconvenient and\nunreasonable — that only a genuine fan would endure it. The lower\ntier watches sell for below retail on the secondary market, because\nPatek *doesn't* restrict their supply, so a would-be flipper should\nhave to spend years making money-losing purchases before he could\neven get something he could flip at a profit. Apparently some people\nstill manage to beat this system though, so Patek's countermeasures\ndon't end there. They keep a vigilant eye on secondary sales to see\nwho's selling their watches. Auction listings usually include serial\nnumbers, so those are easy to trace, but if necessary they'll rebuy\ntheir own watches on the secondary market to get the serial number\nand trace the leak. They buy hundreds a year. And when they catch\nsomeone selling watches they don't want them to, they don't just\ncut off that customer. If a retailer's customers are responsible\nfor too many such leaks, they'll cut off the whole retailer. Which\nnaturally makes retailers eager to help them police buyers.\n\nThere will of course always be some leaks into the secondary market.\nEven the most loyal customers die at a certain rate. And in fact\nit's critical for Patek that the secondary market continue to exist,\nbecause it's one of the most valuable sources of information they\nhave about the most important question they face: how fast to\nincrease the supply of the top tier watches. Their scarcity helps\ndrive the purchases of all the others, so those that do make it\ninto the secondary market should always sell for above retail. And\nI'm sure Patek leaves a large margin for error when increasing\nsupply, because if secondary market prices for these watches get\nclose to retail prices, you're getting close to a price collapse\n— which, since people now buy these watches as investments, would\nhave the same disastrous cascading effect as the bursting of an\nasset bubble. It wouldn't just be like the bursting of an asset\nbubble. It would *be* the bursting of an asset bubble. That's the\nbusiness an elite watchmaker is in now: carefully managing a sustained\nasset bubble. \n\n[[16](#f16n)]This is an instance of what I call the comb-over effect: when a\nseries of individually small changes takes you from something that's\na little bit off to something that's freakishly wrong. I'm sure\nPatek didn't cook up this whole scheme in one shot; I'm sure it\nevolved gradually. But look at what a strange place we've ended up\nin. Back in the golden age the way you bought a Patek Philippe was\nto go to a jeweler and give them money. Now Patek is policing buyers\nto maintain an asset bubble.\n\nThe most striking thing to me about the brand age is the sheer\nstrangeness of it. The zombie watch brands that appear to be\nindependent and even have their own retail stores, and yet are all\nowned by a few holding companies. The giant, awkwardly shaped watches\nthat reverse 500 years of progress in making them smaller. The\nbusiness model that requires a company to rebuy their own watches\non the secondary market to catch rogue customers. The very concept\nof rogue customers. It's all so strange. And the reason it's strange\nis that there's no function for form to follow.\n\nUp to the end of the golden age, mechanical watches were necessary.\nYou needed them to know the time. And that constraint gave both the\nwatches and the watchmaking industry a meaningful shape. There were\ncertainly some strange-looking watches made during the golden age.\nThey weren't all beautifully minimal. But when golden age watchmakers\nmade a strange-looking watch, they knew they were doing it. In fact\nthey give the impression of having done it as a deliberate exercise,\nto avoid getting into a rut.\n\nThat's not why brand age watches look strange. Brand age watches\nlook strange because they have no practical function. Their function\nis to express brand, and while that is certainly a constraint, it's\nnot the clean kind of constraint that generates good things. The\nconstraints imposed by brand ultimately depend on some of the worst\nfeatures of human psychology. So when you have a world defined only\nby brand, it's going to be a weird, bad world.\n\nWell that was dark. Is there some edifying lesson we can salvage\nfrom the wreckage?\n\nOne obvious lesson is to stay away from brand. Indeed it's probably\na good idea not just to avoid buying brand, but to avoid selling\nit too. Sure, you might be able to make money this way — though I\nbet it's harder than it looks — but pushing people's brand buttons\nis just not a good problem to work on, and it's hard to do good\nwork without a good problem.\n\nThe more subtle lesson is that fields have natural rhythms that are\nbeyond the power of individuals to resist. Fields have golden ages\nand not so golden ages, and you're much more likely to do good work\nin a field that's on the way up.\n\nOf course they don't call them golden ages as they're happening.\n\"Golden age\" is a term people use later, after they're over. That\ndoesn't mean that golden ages aren't real, but rather that their\nparticipants take them for granted at the time. They don't know how\ngood they have it. But while it's usually a mistake to take one's\ngood fortune for granted, it's not in this case. What a golden age\nfeels like, at the time, is just that smart people are working hard\non interesting problems and getting results. It would be overfitting\nto optimize for more than that.\n\nIn fact there's a single principle that will both save you from\nworking on things like brand, and also automatically find golden\nages for you. Follow the problems.\n\nThe way to find golden ages is not to go looking for them. The way\nto find them — the way almost all their participants have found\nthem historically — is by following interesting problems. If you're\nsmart and ambitious and honest with yourself, there's no better\nguide than your taste in problems. Go where interesting problems\nare, and you'll probably find that other smart and ambitious people\nhave turned up there too. And later they'll look back on what you\ndid together and call it a golden age.\n\n**Notes**\n\n[\n\n1]\nThe Bretton Woods agreement didn't fix exchange rates between\ncurrencies directly. It fixed each relative to gold. Obviously this\nalso fixed them relative to one another.[\n\n2]\nThe Golden Ellipse isn't quite a round rect, because the sides\naren't quite flat. It's similar in shape to the superellipses\npopularized by Piet Hein in the early 1960s, and in fact that may\nbe where they got the name. But mathematically it's not an actual\nsuperellipse. My guess is that Patek's designer just experimented\nwith French curves till he got something he liked. And to be fair\nit is a good shape.[\n\n3]\nIt was ironic that Patek Philippe of all companies made this\nmistake, because Adrien Philippe was the inventor of the modern\ncrown. But they must have realized what they'd done, because later\nEllipses have if anything excessively prominent crowns.[\n\n4]\nThe high ratio of design space to practitioners in fine art\nhas combined with the practical importance of attribution to give\npeople the impression that painting in a distinctively Leonardesque\nway is what makes Leonardo good. The most dangerous problem faced\nby curators, art historians, and art dealers — the one that has\nthe worst consequences if they get the wrong answer — is attribution.\nSo inevitably they spend a lot of time thinking and talking about\nthe features that distinguish the work of one artist from another.\nBut those aren't what make artists good. What makes the line of a\nwoman's cheek in a Leonardo drawing good is how good it looks as\nthe line of a cheek, not how little it looks like lines made by\nother artists.Because painting has such prestige, the myth that having a distinctive\nstyle (rather than painting well) is the defining quality of great\nartists has in turn given cover to a lot of bad design in adjacent\nfields. A brand that does something hideous to distinguish their\nproducts can say \"Like all great works of art, ours have a distinctive\nstyle,\" and people will buy it.\n\n[\n\n5]\nAn ad that Patek Philippe ran in America in 1970 famously\ndescribed a Patek 3548 with a gold bracelet as a \"$1700 trust fund.\"\nWas it actually a good investment? In the very best case a dealer\nmight pay you $20k now for one in unworn condition with its original\nbox and papers. That's about a 4.5% rate of return, which is not\nabsolutely terrible. But apparently the average rate of return on\nS&P 500 stocks over this period was more like 10%, if you reinvested\nall the dividends after paying taxes on them. The average rate of\nreturn would have been over 9% if you merely bought a lump of gold\nthat hadn't been made into a watch. So, not surprisingly, the ad\nwasn't very good investment advice.[\n\n6]\nTania Edwards, who ran US marketing for Patek Philippe in the\n90s, said that Bittel literally sketched the design of the 3919 on\na piece of paper. This sounds odd to me, because the 3919 looked\nexactly like the existing 3520 with the addition of sub seconds (a\nsmall dial with a second hand above 6 o'clock). Why would you sketch\na design almost identical to an existing watch when you could just\npoint to the existing watch and say \"that, with sub seconds.\" What\nthis story does show, though, is the degree to which people within\nPatek felt their ad agency was responsible for the design of the\n3919.[\n\n7]\nIf I had to date the turning point for mechanical watches\nprecisely, I'd say 1986. Unit sales of Swiss watches rebounded in\n1985, but revenue didn't, which means what we're seeing is the boom\nin cheap quartz Swatches. Indeed, sales of mechanical watches must\nhave been down if revenue was flat despite the sale of all those\nSwatches. Whereas in 1986 revenue turns sharply upward even though\nunit sales only increase by a little, which implies a corresponding\nincrease in sales of expensive mechanical watches.[\n\n8]\nThere is of course another reason some people are into\nmechanical watches: because they're interested in old technology.\nAnd if you are genuinely interested in mechanical watches, there's\ngood news. You don't have to wear a billboard on your wrist or pay\na lot to own one. Just buy golden age watches. They still keep good\ntime, they're much more beautiful, and they cost a fraction of what\nnew watches cost.The key to buying a golden age watch is to find a good dealer, and\nthe best way to recognize one is by how much they tell you about\nthe watch. A bad dealer will just have a lot of fluff about the\nprestige of the brand and the sleek lines of the case. A good dealer\nwill tell you the model number of the watch and movement, have lots\nof pictures, including some with the case back open, give you\ndimensions, disclose all damage and restoration, and tell you exactly\nhow accurately the watch is running. Good dealers tend to be watch\nnerds themselves, so they're into this kind of thing.\n\n(There are a few independent watchmakers trying earnestly to make\ngood mechanical watches now, but their efforts show how hard it is\nto do good work when the current is against you.)\n\n[\n\n9]\nOddly enough it might have helped that the 3919 was hand\nwound. If a watch runs for long enough, 5 seconds a day starts to\nadd up. After three months a watch that gains 5 seconds a day will\nbe 7 minutes fast. But with a hand wound watch you occasionally\nforget to wind it, and it runs down. And when you wind it again you\nreset it — on average to a time about 30 seconds behind the actual\ntime. So if you forgot to wind a 3919 every two weeks or so, it\nwould rarely have shown the wrong time.[\n\n10]\nThere's one brand still waiting to be reinflated: Universal\nGen�ve, which was one of the big players of the golden age but since\n1977 has been little more than a brand name passed from acquirer\nto acquirer. They're scheduled to come back to life later this year,\nno doubt with stories about their long tradition of watchmaking.[\n\n11]\nMore precisely, a high ratio of size to accuracy meant cheap.\nIt's easier to make a larger movement keep good time, but between\ntwo watches of the same accuracy, the larger was usually the cheaper.[\n\n12]\nTheir form did once follow function. They were originally\ndiving watches. But they're long since obsolete for this purpose.\nPresent day diving watches (now called dive computers) are digital\nand tell you much more than the time.[\n\n13]\nRolex was awarded an average of 16.6 patents per year in the\n1950s, but only 1.7 per year in the 1960s.Pierre-Yves Donz�, *The Making of a Status Symbol: A Business History\nof Rolex*, Manchester University Press, 2025.\n\n[\n\n14]\nRolexes also shared something more specific with SUVs:\naspirational manliness. An internal 1967 report by Rolex's ad agency\nJ. Walter Thompson explained the idea they were trying to convey: \"Because a Rolex is\ndesigned for any situation, however rough or dangerous or heroic\nor exalted, it implies that the man who wears it is, potentially,\na hero.\"Reprinted in Donz�, *op cit*.\n\n[\n\n15]\nThis business model only works when purchase decisions are\ndriven mainly by brand. In a normal market, if one manufacturer\nrestricts production, customers just buy from whichever competing\nmanufacturer offers something as good. It's only when customers are\nseeking a certain brand rather than a certain level of performance\nthat you can manipulate them by restricting its availability.[\n\n16]\nOf course the first question one has on noticing a bubble is:\nwill it burst? The reason ordinary bubbles eventually burst is that\nspeculators get overoptimistic, but in this case the CEO of Patek\nPhilippe controls the \"money supply\" and can thus take measures to\ncool down an overheated market. So there are probably only two\nthings that could cause their specific bubble to burst: if his\nsuccessor is not as capable, or if the whole custom of wearing\nmechanical watches goes away. The latter seems the greater danger.\nPeople aren't going to wear three things on their wrists, so all\nit would take is for there to be two popular devices that were worn\non the wrist, and mechanical watches would start to be seen by the\nnext cohort of young rich people as an old guy thing. It's hard to\nimagine a luxury watch brand surviving that.**Thanks** to Sam Altman, Bill Clerico, \nDaniel Gackle, Luis Garcia, the\npeople at Goldammer, Jessica Livingston, Ben Miller, Robert Morris,\nJohn Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading\ndrafts of this.",
+        "url": "https://paulgraham.com/brandage.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-03-30T16:46:31.000Z",
+        "reading_time": 39,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+        "summary": "30th March 2026\n\nTrip Venturella released [Mr. Chatterbox](https://huggingface.co/tventurella/mr_chatterbox_model), a language model trained entirely on out-of-copyright text from the British Library.",
+        "content": "30th March 2026\n\nTrip Venturella released [Mr. Chatterbox](https://huggingface.co/tventurella/mr_chatterbox_model), a language model trained entirely on out-of-copyright text from the British Library. Here’s how he describes it:\n\n> Mr. Chatterbox is a language model trained entirely from scratch on a corpus of over 28,000 Victorian-era British texts published between 1837 and 1899, drawn from a dataset made available [by the British Library](https://huggingface.co/datasets/TheBritishLibrary/blbooks). The model has absolutely no training inputs from after 1899 — the vocabulary and ideas are formed exclusively from nineteenth-century literature.\n\n> Mr. Chatterbox’s training corpus was 28,035 books, with an estimated 2.93 billion input tokens after filtering. The model has roughly 340 million paramaters, roughly the same size as GPT-2-Medium. The difference is, of course, that unlike GPT-2, Mr. Chatterbox is trained entirely on historical data.\n\nGiven how hard it is to train a useful LLM without using vast amounts of scraped, unlicensed data I’ve been dreaming of a model like this for a couple of years now. What would a model trained on out-of-copyright text be like to chat with?\n\nThanks to Trip we can now find out for ourselves!\n\nThe model itself is tiny, at least by Large Language Model standards—just [2.05GB](https://huggingface.co/tventurella/mr_chatterbox_model/tree/main) on disk. You can try it out using Trip’s [HuggingFace Spaces demo](https://huggingface.co/spaces/tventurella/mr_chatterbox):\n\n![Screenshot of a Victorian-themed chatbot interface titled \"🎩 Mr. Chatterbox (Beta)\" with subtitle \"The Victorian Gentleman Chatbot\". The conversation shows a user asking \"How should I behave at dinner?\" with the bot replying \"My good fellow, one might presume that such trivialities could not engage your attention during an evening's discourse!\" The user then asks \"What are good topics?\" and the bot responds \"The most pressing subjects of our society— Indeed, a gentleman must endeavor to engage the conversation with grace and vivacity. Such pursuits serve as vital antidotes against ennui when engaged in agreeable company.\" A text input field at the bottom reads \"Say hello...\" with a send button. The interface uses a dark maroon and cream color scheme.](https://static.simonwillison.net/static/2026/chatterbox.jpg)\n\nHonestly, it’s pretty terrible. Talking with it feels more like chatting with a Markov chain than an LLM—the responses may have a delightfully Victorian flavor to them but it’s hard to get a response that usefully answers a question.\n\nThe [2022 Chinchilla paper](https://arxiv.org/abs/2203.15556) suggests a ratio of 20x the parameter count to training tokens. For a 340m model that would suggest around 7 billion tokens, more than twice the British Library corpus used here. The smallest Qwen 3.5 model is 600m parameters and that model family starts to get interesting at 2b—so my hunch is we would need 4x or more the training data to get something that starts to feel like a useful conversational partner.\n\nBut what a fun project!\n\n#### Running it locally with LLM\n\nI decided to see if I could run the model on my own machine using my [LLM](https://llm.datasette.io/) framework.\n\nI got Claude Code to do most of the work—[here’s the transcript](https://gisthost.github.io/?7d0f00e152dd80d617b5e501e4ff025b/index.html).\n\nTrip trained the model using Andrej Karpathy’s [nanochat](https://github.com/karpathy/nanochat), so I cloned that project, pulled the model weights and told Claude to build a Python script to run the model. Once we had that working (which ended up needing some extra details from the [Space demo source code](https://huggingface.co/spaces/tventurella/mr_chatterbox/tree/main)) I had Claude [read the LLM plugin tutorial](https://llm.datasette.io/en/stable/plugins/tutorial-model-plugin.html) and build the rest of the plugin.\n\n[llm-mrchatterbox](https://github.com/simonw/llm-mrchatterbox) is the result. Install the plugin like this:\n\n```\nllm install llm-mrchatterbox\n\n```\n\nThe first time you run a prompt it will fetch the 2.05GB model file from Hugging Face. Try that like this:\n\n```\nllm -m mrchatterbox \"Good day, sir\"\n\n```\n\nOr start an ongoing chat session like this:\n\n```\nllm chat -m mrchatterbox\n\n```\n\nIf you don’t have LLM installed you can still get a chat session started from scratch using uvx like this:\n\n```\nuvx --with llm-mrchatterbox llm chat -m mrchatterbox\n\n```\n\nWhen you are finished with the model you can delete the cached file using:\n\n```\nllm mrchatterbox delete-model\n\n```\n\nThis is the first time I’ve had Claude Code build a full LLM model plugin from scratch and it worked really well. I expect I’ll be using this method again in the future.\n\nI continue to hope we can get a useful model from entirely public domain data. The fact that Trip was able to get this far using nanochat and 2.93 billion training tokens is a promising start.",
+        "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-03-30T14:28:34.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "How Do We Get Developers to Read the Docs ",
+        "summary": "When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created the perfect API. To top it off, the senior developer who worked on it had written documentation to match. No sto",
+        "content": "When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created the perfect API. To top it off, the senior developer who worked on it had written documentation to match. No stones were left unturned. I had the code open on one window and the doc on the other. The moment I felt hesitation in the code, the documentation reassured me.\n\n*Why do we make two calls to get the...* \"We are fetching two types of orders to support legacy subscribers...\" the documentation answered before I completed my question. This was [standard number 15](https://xkcd.com/927/). The one to rule them all. But I still had one question. As the owner of the API, I read the documentation. Will other developers ever think to read it?\n\nHow do I get people to *want* to read the documentation before they use this API? Because in my experience, nobody reads the documentation.\n\nNot to say that documentation is useless, but my mistake was thinking that the people who want to implement the API are interested in documentation at all. For every API ever built, there are two audiences to cater to, and confusing them is where most documentation goes wrong.\n\nThe first group is the consumers of the API. The only thing they want to know is: do the endpoints do what I need, and what parameters do they take? They are not reading your documentation like a book. They are scanning it like a menu. They want to find the thing they need, copy the example, and move on.\n\nThe second group is the maintainers of the API. The people who need to understand the why behind every decision. Why are there two calls? Why does this endpoint behave differently for legacy users? Why is this field nullable? These are the people who will be debugging at 2am, and they need the full picture.\n\nThe worst thing you can do is write one document that tries to serve both audiences equally. You end up with something that's too deep for the first group to skim, and not structured enough for the second group to find it useful.\n\nFor the first audience, the API should speak for itself. The best documentation you can provide is not text to read through, but a well-designed API. Follow clear, repeatable patterns where the user can anticipate, or even assume the available features.\n\nIf you have an endpoint called `/user/orders`, the assumption should be that `/user/orders/1234` returns a specific order. If you add `/users/orders/1234/cancel`, there should probably be a `/users/orders/1234/update` too. When the pattern is consistent, the consumer doesn't need to read anything, they just guess correctly.\n\nWhen you do write documentation for this audience, resist the urge to explain your internals. They don't need to know that you're fetching from two different database tables to support legacy subscribers. What they need to know is: `supports both new and legacy orders`. One sentence. Done.\n\nI like this idiom: \"Too much information and no information, accomplish the same goal.\"\n\nThis is a mistake I see most often. It's a painful one because it comes from a good place. The writer of the documentation, usually the person who built the thing, feels a sense of responsibility. They want to be thorough. They want no one to be confused. So they write everything down.\n\nThe result is a documentation page that looks like this:\n\n> `GET /user/orders`\n\n> This endpoint retrieves orders for a given user. It was introduced in v2.3 of the API following the migration from the legacy order management system (OMS) in Q3 2021. Internally, the resolver makes two sequential calls (one to the new orders table and one to the legacy_orders table) and merges the results using the order ID as a deduplication key. Note that legacy orders may not contain a `shipping_address` field, which was not captured before 2019. If you are building a UI, you should account for this possibility. The endpoint also supports cursor-based pagination, though offset-based pagination is available for backward compatibility with clients built before v2.1. Additionally, orders in a `PENDING_REVIEW` state may not appear immediately...\n\nA developer scanning this page will read the first sentence, close the tab, and think about designing API standard number 16. They'll go look at the codebase instead, or ping a teammate, or just guess. The documentation existed, it just didn't get read. Which means it accomplished exactly the same thing as having no documentation at all.\n\nThe same way you don't write a comment to explain every line of code, a documentation doesn't benefit from too much information.\n\nMy go to solution isn't to omit information, but to write it in layers. \n\nCollapsible sections are one of the most underrated tools in documentation design. They let the consumer skim the surface: endpoint name, what it returns, a working example. And they let the maintainer dive deeper into the implementation notes, the edge cases, and the historical context.\n\nThe same principle applies to how you order information. Lead with what the API does. Follow with how to use it. Bury the *why* at the bottom, behind a toggle or a \"Details\" section, available to those who need it, invisible to those who don't.\n\nThink of it like a well-designed error message. A good error message tells you what went wrong in plain language. A great error message also includes an expandable stack trace, but it doesn't show you the stack trace first.\n\nYour documentation has the same job. Give people the answer they're looking for, and then offer the depth to those willing to dig.\n\nThe second audience, the maintainers, do need the full picture. The two database calls, the deduplication logic, the historical reason the `shipping_address` field is sometimes null. This is the documentation that prevents a future developer from \"fixing\" something that wasn't broken, or removing what looks like redundant code.\n\nBut this documentation doesn't have to live on the same page as the quick-start guide. Deep implementation notes belong in inline code comments or a separate internal wiki. The public-facing API reference should stay clean.\n\nWhen you separate operational documentation (for consumers) from institutional documentation (for maintainers), both documents get better. The consumer doc gets shorter and clearer. The maintainer doc gets deeper because it's no longer trying to also be beginner-friendly.\n\nThe goal of documentation isn't completeness. Completeness is what you write for yourself, to feel like you've done your job. The goal of documentation is to transfer the right information into the right person's head at the right moment.\n\nThat senior developer who wrote the documentation I cried over understood this. She didn't write everything she knew. She wrote exactly what someone reading the code would need to know, at the exact moment they'd need it. And the API design allowed anyone consuming it to make correct assumptions (intuitive design) on how it works. Both groups are happy.",
+        "url": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "Product"
+        ],
+        "published_at": "Mon, 30 Mar 2026 12:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Git Diff Drivers",
+        "summary": "When I added a diff driver to [git-pkgs](https://github.com/git-pkgs/git-pkgs), most of the work was already done. git-pkgs could parse 29 lockfile formats and extract dependency lists, so wiring that",
+        "content": "When I added a diff driver to [git-pkgs](https://github.com/git-pkgs/git-pkgs), most of the work was already done. git-pkgs could parse 29 lockfile formats and extract dependency lists, so wiring that into git’s textconv mechanism was a small addition that turned `git diff` on a lockfile from 200 lines of resolver noise into a handful of dependency changes. That got me looking at what else people had built on top of git’s diff driver system, and at the 28 built-in drivers that git ships, none of which has made it into any forge or GUI client.\n\n### Built-in drivers\n\nThe [built-in drivers](https://github.com/git/git/blob/master/userdiff.c) are defined in `userdiff.c` and activated by setting `diff=<name>` in `.gitattributes`. Each one provides two things: a `xfuncname` regex that git uses to find function or section headers for hunk context, and a `wordRegex` that controls how `--word-diff` tokenizes lines.\n\nThe full list as of git 2.53: ada, bash, bibtex, cpp (which covers both C and C++), csharp, css, default, dts, elixir, fortran, fountain, golang, html, ini, java, kotlin, markdown, matlab, objc, pascal, perl, php, python, r, ruby, rust, scheme, and tex. The two most recent additions are ini (2.50) and r (2.51). GitHub’s [linguist](https://github.com/github-linguist/linguist) uses these same names for language detection, so if you set `*.rs diff=rust` in your `.gitattributes`, both git locally and GitHub’s code view will understand the intent, though GitHub doesn’t actually use the driver for its web diffs.\n\n```\n*.rs diff=rust\n*.go diff=golang\n*.kt diff=kotlin\n\n```\n\nKotlin was [proposed as a patch](https://patchwork.kernel.org/project/git/patch/20220303181517.70682-1-jaydeepjd.8914@gmail.com/) in 2022 and merged. A [TypeScript driver PR](https://github.com/git/git/pull/1746) was submitted and then retracted, though the cpp driver covers enough of TypeScript’s syntax that most people don’t notice. Languages without a built-in driver still get the default driver, which tries a few generic heuristics for function headers but often latches onto something unhelpful. The difference shows up in hunk headers. Without a driver, a change inside a Ruby method might show `@@ -10,3 +10,4 @@ end` or latch onto a blank line. With `diff=ruby`, the same hunk header becomes `@@ -10,3 +10,4 @@ def process_payment`, which tells you where you are without scrolling up.\n\n### Custom diff drivers\n\nGit supports three kinds of custom diff driver configuration, all set under `[diff \"<name>\"]` in your git config.\n\n**textconv** is the most useful: a command that takes a filename as its argument and writes human-readable text to stdout. Git runs this on both sides of a diff and then diffs the text output instead of the raw file. If you have `exiftool` installed, you can diff image metadata:\n\n```\n[diff \"exif\"]\n    textconv = exiftool\n    cachetextconv = true\n\n```\n\n```\n# .gitattributes\n*.png diff=exif\n*.jpg diff=exif\n\n```\n\nNow `git diff` on a JPEG shows you which EXIF fields changed rather than a wall of binary gibberish. The `cachetextconv` option stores conversion results in git notes (`refs/notes/textconv/exif`) so repeated diffs don’t re-run the conversion every time. Without it, something like `git log -p` on a repository with PDF files will re-run `pdftotext` for every commit that touched one, which gets painful fast.\n\nThe textconv mechanism is one-way: git can display the diff but you can’t apply it as a patch, because the original binary content can’t be reconstructed from the converted text.\n\n**command** replaces git’s entire diff pipeline for matched files. It receives seven arguments (the same interface as `GIT_EXTERNAL_DIFF`) and takes full responsibility for producing output. Most people don’t need this unless they want visual side-by-side diffs or output in a non-unified format.\n\n**wordRegex** redefines what constitutes a “word” for `--word-diff`. The built-in drivers already set language-appropriate word regexes, but for custom file formats you might want to change how tokens are split. A JSON driver might treat entire quoted strings as single tokens so that `--word-diff` highlights changed values rather than individual characters within strings.\n\nA driver with `binary = true` and a `textconv` command will suppress the “Binary files differ” message and show the textconv output instead, and adding `xfuncname` gives you meaningful hunk headers even for custom formats.\n\n### Notable custom drivers\n\n**Documents**\n\n  - [idogawa.dev](https://idogawa.dev/p/2024/01/git-diff-epub.html) – writeup on diffing epub, docx, pptx, and sqlite via textconv\n\n**Images**\n\n  - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) – uses ImageMagick to generate visual diffs and open them in a viewer\n\n  - [pascaliske’s gist](https://gist.github.com/pascaliske/53648334378d592c0c2cc62b989a027e) – uses `exiftool` for metadata-level image diffs\n\n**Apple / Xcode**\n\n  - Binary plist files have a well-established one-liner: `git config diff.plist.textconv \"plutil -convert xml1 -o -\"` converts them to readable XML\n\n  - [jmah/xibition](https://github.com/jmah/xibition) – textconv driver for XIB/NIB files, converts them to a lossy human-readable format showing names, labels, actions, and outlets\n\n**Game engines**\n\n  - [madsbangh/unity2text](https://github.com/madsbangh/unity2text) – textconv driver for Unity YAML scene files (.unity, .prefab), inserts readable GameObject names and hierarchies into the diff output\n\n  - Unity also ships UnityYAMLMerge as an official merge driver for three-way merging scene files\n\n**Databases**\n\n  - [cannadayr/git-sqlite](https://github.com/cannadayr/git-sqlite) – diffs SQLite databases by dumping schema and data as SQL, following the approach in [Diego Ongaro’s post](https://ongardie.net/blog/sqlite-in-git/)\n\n  - [CpanelInc/diff-tools](https://github.com/CpanelInc/diff-tools) – cPanel’s textconv and merge tools for SQLite, tarballs, and patchfiles\n\n**Spreadsheets**\n\n  - [DiefBell/XLSX-Diff](https://github.com/DiefBell/XLSX-Diff) – xlsx textconv driver\n\n  - [pismute/node-textconv](https://github.com/pismute/node-textconv) – node-based textconv for xlsx\n\n**Notebooks**\n\n  - [nbdime](https://github.com/jupyter/nbdime) – diff and merge drivers for Jupyter notebooks that strip output cells and render structural changes to the cell list\n\n**Data files**\n\n  - [ryan-williams/parquet-helpers](https://github.com/ryan-williams/parquet-helpers) – textconv for Parquet files showing metadata, schema, and sample rows\n\n**Lockfiles**\n\n  - [npm/npm-merge-driver](https://github.com/npm/npm-merge-driver) – merge driver that regenerates the lockfile rather than three-way merging the text\n\n  - [git-pkgs](https://github.com/git-pkgs/git-pkgs) – textconv driver I built that parses 29 lockfile formats and outputs only dependency-level changes\n\nA single dependency update in `Gemfile.lock` or `package-lock.json` can produce hundreds of changed lines of internal resolver state, but with a textconv driver you only see what actually changed:\n\n```\n$ git pkgs diff-driver --install\n\n$ git diff HEAD~1 -- Gemfile.lock\n+ kamal 2.0.0\n- puma 5.6.8\n+ puma 6.4.2\n+ thruster 0.1.0\n\n```\n\nThe install command registers the textconv for each supported lockfile format in your git config and appends the corresponding patterns to `.gitattributes`. Once installed it applies everywhere git shows diffs, including `git log -p` and `git show`, and you can bypass it with `--no-textconv` when you need the raw lockfile.\n\n### Gaps\n\n  - **Xcode .pbxproj** – UUIDs everywhere, sections reorder on every save, adding one file touches dozens of lines. Merge drivers exist ([Kintsugi](https://github.com/Lightricks/Kintsugi), [mergepbx](https://github.com/simonwagner/mergepbx)) and [xcdiff](https://github.com/bloomberg/xcdiff) can compare project files standalone, but nobody has wired up a textconv driver.\n\n  - **Xcode storyboards** – XML with machine-generated attributes that reorder on save. XIBs have [xibition](https://github.com/jmah/xibition) but storyboards have nothing equivalent.\n\n  - **Godot .tscn/.tres** – already text, so they diff natively, but [non-deterministic subresource ordering](https://github.com/godotengine/godot/issues/5889) and embedded scripts make the diffs noisy. A normalizing textconv could help but nobody has built one.\n\n  - **Generated OpenAPI / Swagger specs** – one endpoint change cascades through the whole document. Standalone semantic diff tools like [oasdiff](https://github.com/oasdiff/oasdiff) exist but none are wired into git as a textconv.\n\n  - **Protobuf descriptors (.pb / .desc)** – compiled binary that `protoc --decode_raw` can decode, but nobody has published the textconv config for it.\n\n  - **Font files (.ttf/.otf)** – [fonttools](https://github.com/fonttools/fonttools)’ `ttx` command can convert to XML and [fdiff](https://github.com/source-foundry/fdiff) can diff fonts standalone, but neither is packaged as a git driver.\n\n### Configuration gotcha\n\nThe split between `.gitattributes` (which can be committed) and `[diff]` config (which lives in `.git/config` or `~/.gitconfig`) means that diff drivers are inherently local. You can commit a `.gitattributes` that says `*.db diff=sqlite`, but every developer on the team still needs to configure the `[diff \"sqlite\"]` section themselves and have the converter tool installed. Some projects include a setup script or document the required config in their README, but there’s no mechanism for a repository to declaratively ship its own diff driver configuration that git will auto-apply on clone, which is also why forge integration has been so slow.\n\n### Forge support\n\nGitHub has built bespoke rich diff renderers for [several non-code file types](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files): side-by-side image comparison with swipe and onion-skin modes, CSV rendered as searchable tables, prose files with both source and rendered diff views, GeoJSON on Leaflet maps, [STL files in a WebGL viewer](https://github.blog/news-insights/product-news/3d-file-diffs/), Jupyter notebooks, and PDF rendering. These are all hardcoded server-side renderers with no user configuration. If your file type isn’t on the list, you get “Binary files differ” in the web UI regardless of what your `.gitattributes` says.\n\nGitLab has a similar set of built-in renderers (images, notebooks, CSV) with no extension mechanism. [Gitea has an open issue from 2020](https://github.com/go-gitea/gitea/issues/12288) requesting custom diff rendering support, still unresolved. Forgejo inherits Gitea’s limitation. None of these forges read or respect `[diff]` config from the repository, and none of them support textconv.\n\n[Sublime Merge](https://github.com/sublimehq/sublime_merge/issues/428), [GitHub Desktop](https://github.com/desktop/desktop/issues/11524), and [Fork](https://github.com/fork-dev/TrackerWin/issues/1566) all have open requests for textconv support too, some dating back years.\n\nA textconv command is arbitrary code execution, and on a forge it would be triggered implicitly when someone opens a PR, with no confirmation step. CI gets away with running arbitrary user code because workflow execution is an explicit opt-in with a visible trust boundary, but diff rendering happens the moment you click on a file, so a malicious repo with a crafted `[diff]` config could execute code on the forge server without anyone choosing to run anything.\n\nOne way around this is installing textconv tools in the server’s global gitconfig rather than reading config from repositories, which is what [Gitea issue #12288](https://github.com/go-gitea/gitea/issues/12288) proposes. That shifts the burden to the forge operator, who has to choose which formats to support, install the tools, and maintain them, all for a feature most users don’t know exists. GitHub’s bespoke renderers sidestep the problem entirely by being richer than anything textconv can produce (interactive image sliders, searchable CSV tables, 3D model viewers) without executing any user-supplied commands.\n\nGitHub and GitLab also use [libgit2](https://github.com/libgit2/libgit2/blob/52294c413100ed4930764addc69beadd82382a4c/src/userdiff.h) rather than the git CLI, and executing external commands from a library embedded in a web application server is architecturally different from shelling out. libgit2 does have the built-in driver definitions though, so the hunk-header improvements from the 28 language drivers could be surfaced in web diffs without running any external commands at all.",
+        "url": "https://nesbitt.io/2026/03/30/git-diff-drivers.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-03-30T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Market participation is exhausting (30 Mar 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/30Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/30/players-o",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/30Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/30/players-of-games/)\n\n## Today's links\n\n- [Market participation is exhausting](https://pluralistic.net/2026/03/30/players-of-games/#know-when-to-fold-em): No one wants to be the sucker at the table.\n\n- [Hey look at this](https://pluralistic.net/2026/03/30/players-of-games/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/30/players-of-games/#retro): EMI DRM v Brazil; \"The Information\"; Genome patenter v copyright troll (let them fight); Green investing isn't; Trump loves Big Tech; Kleptones' \"24 Hours\"; Lasermonks; Ransomware hospital; News co-ops; AI \"art\" sucks; Swisscom wifi is $838/24h; Millennials don't exist; Why Microsoft's chatbot turned Nazi; NYC's best dumpster-dived food; RIP Diana Wynne Jones; What really happened at the student protests in Trafalgar Square; Church-owned insurer has secret pedo priest files; Names that break databases; Reality-based communities; Hugo for websites; Cop cabs; Fake pediatrician group; Bring Your Own Bigwheeel; \"How To Talk About Videogames.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/30/players-of-games/#upcoming): Montreal, London, NYC, Berlin, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/03/30/players-of-games/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/30/players-of-games/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/30/players-of-games/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/30/players-of-games/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/player-of-games.jpg?w=840&ssl=1)\n\n## Market participation is exhausting ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#know-when-to-fold-em))\n\nWe're a diverse species, cognitively speaking – different ways of thinking come more easily to some of us than others. I'm good at a lot of things, but I have *terrible* spatial sense. I can't parallel park or catch a ball, and I get lost so easily it's almost comical (it's a running joke in my family).\n\nLuckily, I'm married to a woman with *incredible* spacial sense. My wife Alice can sit at one end of a basketball court and look at the scoreboard at the other end and say, \"It's 1\" off-center to the right and 1° off true clockwise.\" She'll be right. She's also a crack shot and an extremely proficient gamer (she was the first woman to play e-sports internationally, on the English Quake team).\n\nI'm good at stuff she's not good at. I don't mind wading through personal admin and bookkeeping processes, while she finds these excruciating (and interestingly, it's reversed when it comes to work-related admin, which I find torturous and which she excels at). I love listening to audiobooks, which she can't focus on at all. She loves instrumental music, which I broadly find tedious; while I find it much easier to work while listening to music with great lyrics.\n\nThis is great. As a couple, we make up for one another's deficits and complement one another's strengths. Obviously, this is also true as a species: we all like doing different stuff in different ways, and that's good, because there is a lot of *stuff* to do, and it's pretty damned heterogenous. A complex, dynamic world demands a complex, dynamic response.\n\nThis is a bedrock of cybernetics, the study of systems control. The \"law of requisite complexity\" states, \"in order to be efficaciously adaptive, the internal complexity of a system must match the external complexity it confronts\":\n\n[https://en.wikipedia.org/wiki/Variety_(cybernetics)](https://en.wikipedia.org/wiki/Variety_(cybernetics))\n\nCyberneticians and systems designers understand that their job is *partly* to design a set of controls that are as complex as the system they modulate, and *partly* to simplify that system to make it possible to control. Think of how you can make a database search run faster by confining it to one field in records from the past year, or how you can hold down the shift key to constrain a rectangular selection tool so it draws perfect squares.\n\nThis happens cognitively, too. Pretty much anyone can track their expenses from a work trip, but the company bookkeeper needs to have a certain \"head for figures\" that lets them do this all day long, for *everyone's* expenses, so we limit the kinds of bookkeeping we ask normies to do, and reserve the heavy lifting for specialists.\n\nAs a freelancer, I hire a bunch of people who have cognitive strengths that I lack. My accountant isn't just a person who knows more about tax law than I do – he's also someone who can manage the reconciliation of all my bookkeeping spreadsheets better than I ever could, and without the psychic trauma I experience when I try to do this on my own.\n\nLikewise, my publisher employs copyeditors and proofreaders who find the typos that my brain just *doesn't see*, and when they send me back my marked-up manuscripts for review, I ask my mom to give them a pass, because *she* finds the typos *they* miss.\n\nSitting between me and my publishers are my agents (I have several of these, one for English-language literary deals, another for foreign rights, another for media, and yet another for speaking engagements). I love these folks, partly because the better they are at their jobs, the easier it is for me to pay my mortgage, but *especially* because they really enjoy doing things I *hate* doing: a) asking for money, and; b) haggling.\n\nFor me, haggling is (at best) embarrassing. At worst, it's humiliating. It's *always* exhausting. But for my agents, it's *invigorating*. Many's the time I've gotten on a video call with my agents after they've concluded a successful deal and they're *glowing*. Call it what you will: cognitive diversity, emotional diversity, neurodiversity…my agents and I have it, and it's good for all of us.\n\nAnd here's the thing that makes these world-class hagglers great: *they can switch it off*. They're competitive as hell, they love to bargain hard, but they understand that they're playing an iterated game, and if they crush the publishers' representatives they're up against, then they'll ruin *my* good name.\n\nMore: when the bargaining's done and we're having a nice chat about everyday things, or getting together for dinner, they're not *on*. They're just normal, not wrestling over every detail. Bargaining is what they *do*, it's not who they *are*.\n\nThat doesn't just make them bearable as human beings, it also makes them better at their jobs. There's an old pal with whom I've done some creative work, and at one point I needed to pay them for their part in a project. They asked me to route the payment through their manager, and this manager assumed I was just another production hiring my buddy, and let loose with his full power at me over this payment, haggling for paperwork that would make Creative Commons releases impossible, as well as other (normal but not appropriate in this case) conditions. I emailed my pal, who emailed their manager to stand down and treat this as a friendly negotiation, whereupon Mr Hyde became Dr Jekyll and we wrapped things up in about ten minutes.\n\nThese haggler types do very well in our society, which is organized around the idea of efficient markets, where everyone is *always* bargaining to the last breath in order to \"maximize their utility.\"\n\nThis ideology isn't just an *observation* (\"society *is* a market\"), it's also a demand (\"society *should be* a market\"). People who find aggressive haggling invigorating have taken over the operations of our civilization, and they are determined to convert *everything* to a marketplace, from waiting on hold for the IRS to looking for a parking place:\n\n[https://pluralistic.net/2021/10/07/markets-in-everything/#no-th-enq](https://pluralistic.net/2021/10/07/markets-in-everything/#no-th-enq)\n\nThe people running this game are so invigorated by haggling that they *can't not* haggle. They make putting a price on everything into a virtue. They want to be able to sell their kidneys. More importantly, they want to *buy your kidneys*.\n\nIn Sarah Wynn-Williams's *Careless People*, there's a memorable incident in which Sheryl Sandberg is shocked to the roots of her hair when she is told that she can't go to Mexico and buy a kidney if her child gets sick. Her child isn't even sick! She's just offended that this *hypothetical* situation wouldn't be resolved by bargaining:\n\n[https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)\n\nFor these people, cheating is just bargaining by another means. They embrace bizarre concepts like \"revealed preferences,\" the idea that if you *say* you're dissatisfied with a bargain, but you accept it anyway, you have a \"revealed preference\" for the deal. In other words, if someone sells their kidney to Sheryl Sandberg in order to make the rent, they have a \"revealed preference\" for having only one kidney – and if they sell their *privacy* to Sheryl Sandberg in order to stay in touch with the people they love, they have a \"revealed preference\" for having their data extracted and exploited by Facebook:\n\n[https://pluralistic.net/2024/01/24/everything-not-mandatory/#is-prohibited](https://pluralistic.net/2024/01/24/everything-not-mandatory/#is-prohibited)\n\nTrump is the apotheosis of this. The true \"art of the deal\" is just *cheating*. That's why he stiffed his workers, stiffed his suppliers, stiffed his backers and stiffed his base. If you can cheat and get away with it, it's not even cheating: \"that makes you smart\":\n\n[https://pluralistic.net/2024/12/04/its-not-a-lie/#its-a-premature-truth](https://pluralistic.net/2024/12/04/its-not-a-lie/#its-a-premature-truth)\n\n\"Caveat emptor\" makes sense at a yard-sale or an estate auction – but it's no way to operate a government or conduct your daily life. It's *exhausting*:\n\n[https://pluralistic.net/2025/04/29/cheaters-and-liars/#caveat-emptor-brainworms](https://pluralistic.net/2025/04/29/cheaters-and-liars/#caveat-emptor-brainworms)\n\nRunning the world on \"caveat emptor\" isn't just a transfer from workers to the wealthy, it's a transfer from people who are exhausted by bargaining to people who are invigorated by it. It's a way of transforming just one of the many differences in how humans think into the single most important success criterion, the major determinant of your life's chances. It's a way for the invigorated to utterly dominate the exhausted. It's the elevation of \"stop hitting yourself\" into political ideology.\n\nThe antidote to this is something John Ganz calls \"The Club Med theory.\" He argues that while mostly we sneer at inclusive holiday resorts as a way to go on vacation without having to engage with another country's culture and people, that the original value of these resorts (still present today) is the way they let you go on vacation without participating in *markets*:\n\n[https://backofmind.substack.com/p/the-club-med-theory](https://backofmind.substack.com/p/the-club-med-theory)\n\nClub Med was founded by an Olympian named Gérard Blitz whose insight was that \"what people seek from a holiday is not luxury or material comfort, but happiness.\" For Blitz, the value of an inclusive resort wasn't the open bar and the buffet, \"it’s the relief from participation in the everyday economy.\"\n\nAs Ganz points out, class differences (between guests, at least) are erased at inclusive resorts. The richest person at the resort eats and drinks the same food, goes on the same excursions, and participates in the same activities as the poorest person at the resort (yes, this is less true of today's inclusive resorts, which are full of \"up-charges,\" representing the triumph of people who are invigorated by bargaining over people who are exhausted by it).\n\nFor Ganz, the beauty of an inclusive resort is that it removes the \"cognitive demands\" of a market economy, which are inherently stressful: \"Every transaction is a decision, and decisions cost energy.\"\n\nGanz proposes that \"this is quite difficult for people to understand if they have an economics degree.\" Why would the resort restaurants improve their food quality if they're not competing for your business? Why would servers hustle to make you happy if they're not competing for tips?\n\nBut this is *not* what happens. Resort-goers love the bartenders at the swim-up bar, and they are frustrated to the point of fury with the people selling necklaces, sunglasses and massages on the beach. These sellers \"live or die by their ability to persuade people to part with money in exchange for goods and services.\" It's exhausting to *be* them, and it's exhausting to be approached *by* them.\n\nGanz says that the best strategy to get someone to part with their money isn't necessarily to provide good service. As he learned in his stockbroker days, you can also \"pester them mercilessly until they pay you to go away.\" In an unregulated market, you don't get a single vendor who comes around and offers you sunglasses once a day. The equilibrium of that market is to be woken from your nap or interrupted from your book every five minutes by someone who's hustling to make the rent. The economy doesn't \"price in the externality\" of your plummeting satisfaction with your holiday.\n\nGanz isn't the first person to observe this. As he points out, in 1963, Galbraith wrote:\n\n> \n> Total physical and mental inertia are highly agreeable, much more so than we allow ourselves to imagine. A beach not only permits such inertia but enforces it, thus neatly eliminating all problems of guilt.\n> \n\nI read Ganz's short post last week and it stuck with me. The more I thought about it, the more I liked it – and the more I thought that there was something missing from it: the idea that there are some people who *hate* a life without bargaining. These people are invigorated by bargaining and exhausted by \"total physical and mental inertia.\" They *need* to be hustling.\n\nThe people who turn up their noses at an inclusive resort aren't just people who want to have the \"authentic experience\" of a distant land – some of them are people who want to spend all day hustling and being hustled. People who *need* that energy.\n\nThose people have a place in the world. I don't want those people trying to sell me a timeshare or trying to rope me into their MLM, but I'd love to have them negotiating on behalf of my union:\n\n[https://pluralistic.net/2025/02/05/power-of-positive-thinking/#the-socialism-of-fools](https://pluralistic.net/2025/02/05/power-of-positive-thinking/#the-socialism-of-fools)\n\nBut even then, I'd want them to be like my agents, capable of stepping back from constant bargaining and to cease their remorseless seeking of advantage. I wouldn't want them to be Sandbergian would-be buyers of kidneys, full of self-serving tales of revealed preferences, caveat emptor and \"that makes me smart.\"\n\nAs with anything, the dose makes the poison. I know lots of hustlers who are fun as hell to hang around, whom I'd trust with my life or at least my password. A lot of libertarians fit this mold: people who are truly committed to voluntarism and intrinsic generosity.\n\nBut libertarianism, like any movement, is a coalition, and within that coalition is a large group of people – people who are invigorated by bargaining – who are committed to dominating others by exhausting them. For them, bargaining isn't a cognitive demand, it's a cognitive invigorator. To the extent that they understand this, they think it's just a sign that they are born to rule. Caveat emptor. Revealed preferences. That makes me smart.\n\nWhat's more, for people on the losing side of this trade, losing the bargain means being poorer, and being poorer means *more* cognitive demands – rationing out your pennies and eeling through the impossibly narrow gaps between payday and the day the bills are due. This produces a winner-take-all dynamic in which the losers of the bargaining game have less energy and wherewithal to bargain the next time around.\n\nThis is beautifully unpacked in (what else) a science fiction novel, Naomi Kritzer's *Liberty's Daughter*, a young adult novel about the teen daughter of a libertarian cult leader who is growing up on a seastead:\n\n[https://pluralistic.net/2023/11/21/podkaynes-dad-was-a-dick/#age-of-consent](https://pluralistic.net/2023/11/21/podkaynes-dad-was-a-dick/#age-of-consent)\n\nKritzer's novel beautifully plays out the \"stop hitting yourself\" justifications that eventually allow her libertarians to enslave others – after all, in a truly voluntaristic society, why wouldn't you have the freedom to sell yourself into slavery? And if you claim later that you're unhappy with this arrangement, tough shit – you've got a \"revealed preference\" for being a slave.\n\nCaveat emptor. If you're the kind of person who gets charged up by bargaining, then you were born to rule.\n\nIf bargaining means cheating, well, \"that makes you smart.\"\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate  [https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/](https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/)\n\n- \nNYC Schools Release AI Policy That Tells Teachers AI Cannot Do Teacher’s Job [https://blog.adafruit.com/2026/03/25/nyc-schools-release-ai-policy-that-tells-teachers-ai-cannot-do-teachers-job/](https://blog.adafruit.com/2026/03/25/nyc-schools-release-ai-policy-that-tells-teachers-ai-cannot-do-teachers-job/)\n\n- \nHow to Keep ICE Agents Out of Your Phone at the Airport [https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/](https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/)\n\n- \nEnd of “Chat Control”: EU Parliament Stops Mass Surveillance in Voting Thriller [https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/)\n\n- \nThe Handoff Problem [https://blog.dshr.org/2026/03/the-handoff-problem.html](https://blog.dshr.org/2026/03/the-handoff-problem.html)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#retro))\n\n#25yrsago DIY circumcision revision (CW gross) [https://web.archive.org/web/20010618005738/https://www.subgenius.com/subg-digest/v5/0206.html](https://web.archive.org/web/20010618005738/https://www.subgenius.com/subg-digest/v5/0206.html)\n\n#25yrsago Gen X guide to Disneyland [https://web.archive.org/web/20010302143848/http://www.omnigroup.com/~cirocco/dizney/index.html](https://web.archive.org/web/20010302143848/http://www.omnigroup.com/~cirocco/dizney/index.html)\n\n#25yrsago Hugo for best website [https://web.archive.org/web/20010404222727/http://www.conjose.org/wsfs/wsfs_web.html](https://web.archive.org/web/20010404222727/http://www.conjose.org/wsfs/wsfs_web.html)\n\n#20yrsago America’s worst WiFi hotels [https://web.archive.org/web/20060404214142/http://www.hotelchatter.com/story/2006/3/27/21911/4235/hotels/Worst_WiFi_Hotels_2006](https://web.archive.org/web/20060404214142/http://www.hotelchatter.com/story/2006/3/27/21911/4235/hotels/Worst_WiFi_Hotels_2006)\n\n#20yrsago Help Peter Beagle sue the film-house that made “The Last Unicorn” [https://web.archive.org/web/20060116061435/http://www.conlanpress.com/youcanhelp/](https://web.archive.org/web/20060116061435/http://www.conlanpress.com/youcanhelp/)\n\n#20yrsago EMI releases Brazilian DRM CDs that totally hose their customers [https://memex.craphound.com/2006/03/24/emi-releases-brazilian-drm-cds-that-totally-hose-their-customers/](https://memex.craphound.com/2006/03/24/emi-releases-brazilian-drm-cds-that-totally-hose-their-customers/)\n\n#20yrsago Video reveals Belarus electoral fraud [https://web.archive.org/web/20060506233026/http://www.media-ocean.de/2006/03/26/does-youtube-video-proove-election-fraud-in-belarus/](https://web.archive.org/web/20060506233026/http://www.media-ocean.de/2006/03/26/does-youtube-video-proove-election-fraud-in-belarus/)\n\n#20yrsago Kleptones new mashup double-CD free to download: “24 Hours” [https://web.archive.org/web/20060810172451/http://www.kleptones.com/pages/downloads_24h.html](https://web.archive.org/web/20060810172451/http://www.kleptones.com/pages/downloads_24h.html)\n\n#20yrsago Steve Jobs, 2002: “You need the right to manage music on all devices” [https://web.archive.org/web/20060509144710/http://www.songbirdnest.com/nivi/blog/jobs_france](https://web.archive.org/web/20060509144710/http://www.songbirdnest.com/nivi/blog/jobs_france)\n\n#20yrsago Monks in Wisconsin refill printer cartridges [https://web.archive.org/web/20060324043723/http://lasermonks.com/](https://web.archive.org/web/20060324043723/http://lasermonks.com/)\n\n#20yrsago DRM is Killing Music [https://www.voidstar.com/node.php?id=2686](https://www.voidstar.com/node.php?id=2686)\n\n#20yrsago Swisscom WiFi at London conference centre costs $838.73/24h [https://web.archive.org/web/20060329090917/https://benhammersley.com/FCE47259-78BA-4B5E-ABF2-F39B93520C85/Blog/C9043A4D-F791-4B7F-A8A7-3484779B4748.html](https://web.archive.org/web/20060329090917/https://benhammersley.com/FCE47259-78BA-4B5E-ABF2-F39B93520C85/Blog/C9043A4D-F791-4B7F-A8A7-3484779B4748.html)\n\n#20yrsago Most expensive Google ad keywords listed [https://web.archive.org/web/20060325094245/http://www.cwire.org/2006/03/23/updated-highest-paying-adsense-keywords/](https://web.archive.org/web/20060325094245/http://www.cwire.org/2006/03/23/updated-highest-paying-adsense-keywords/)\n\n#20yrsago LA Times slams Marvel for trying to steal “superhero” [https://www.latimes.com/archives/la-xpm-2006-mar-26-ed-superhero26-story.html](https://www.latimes.com/archives/la-xpm-2006-mar-26-ed-superhero26-story.html)\n\n#15yrsago Microsoft switches off privacy for Hotmail users in war-torn and repressive states [https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries](https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries)\n\n#15yrsago Wisconsin GOP uses sunshine laws to harass prof who speculated about links with pressure group [https://scholarcitizen.williamcronon.net/2011/03/24/open-records-attack-on-academic-freedom/](https://scholarcitizen.williamcronon.net/2011/03/24/open-records-attack-on-academic-freedom/)\n\n#15yrsago Koch-pranking Beast editor runs for Congress [https://web.archive.org/web/20110326042435/http://www.murphycanhascongress.com/](https://web.archive.org/web/20110326042435/http://www.murphycanhascongress.com/)\n\n#15yrsago Did Limewire shutdown really cause P2P music infringement to drop 30%? [https://web.archive.org/web/20110428175101/http://copyfight.corante.com/archives/2011/03/24/cnet_and_others_get_it_wrong_miss_the_actual_story.php](https://web.archive.org/web/20110428175101/http://copyfight.corante.com/archives/2011/03/24/cnet_and_others_get_it_wrong_miss_the_actual_story.php)\n\n#15yrsago Man who wants to patent genome gets legal threat for embedding James Joyce quote in artificial lifeform [https://www.forbes.com/sites/davidewalt/2011/03/14/craig-venters-genetic-typo/](https://www.forbes.com/sites/davidewalt/2011/03/14/craig-venters-genetic-typo/)\n\n#15yrsago James Gleick’s tour-de-force: The Information, a natural history of information theory [https://memex.craphound.com/2011/03/24/james-gleicks-tour-de-force-the-information-a-natural-history-of-information-theory/](https://memex.craphound.com/2011/03/24/james-gleicks-tour-de-force-the-information-a-natural-history-of-information-theory/)\n\n#15yrsago NYT paywall sub is $100 more expensive than WSJ, Economist and Daily combined [https://theunderstatement.com/post/4019228737/digital-subscription-prices-visualized-aka-the](https://theunderstatement.com/post/4019228737/digital-subscription-prices-visualized-aka-the)\n\n#15yrsago RIP, Diana Wynne Jones [https://www.theguardian.com/books/2011/mar/27/diana-wynne-jones-obituary](https://www.theguardian.com/books/2011/mar/27/diana-wynne-jones-obituary)\n\n#15yrsago Front-line report from Trafalgar Square paints a radically different picture [https://www.newstatesman.com/politics/2011/03/trafalgar-square-police-young](https://www.newstatesman.com/politics/2011/03/trafalgar-square-police-young)\n\n#15yrsago Deathless: Cat Valente’s beautiful fantasy of Stalinist Russia and the Siege of Leningrad [https://memex.craphound.com/2011/03/28/deathless-cat-valentes-beautiful-fantasy-of-stalinist-russia-and-the-siege-of-leningrad/](https://memex.craphound.com/2011/03/28/deathless-cat-valentes-beautiful-fantasy-of-stalinist-russia-and-the-siege-of-leningrad/)\n\n#10yrsago Cop Cabs: The NYPD has at least three fake taxis on NYC’s streets [https://www.muckrock.com/news/archives/2016/mar/28/nypd-taxicabs/](https://www.muckrock.com/news/archives/2016/mar/28/nypd-taxicabs/)\n\n#10yrsago Peer-reviewed online expert system will help you if you’ve been poisoned [https://www.webpoisoncontrol.org/](https://www.webpoisoncontrol.org/)\n\n#10yrsago The “American College of Pediatricians” is a hate group with fewer than 200 members [https://scienceblogs.com/pharyngula/2016/03/28/speaking-of-bad-science-never-trust-the-american-college-of-pediatricians](https://scienceblogs.com/pharyngula/2016/03/28/speaking-of-bad-science-never-trust-the-american-college-of-pediatricians)\n\n#10yrsago Ransomware gets a lot faster by encrypting the master file table instead of the filesystem [https://www.bleepingcomputer.com/news/security/petya-ransomware-skips-the-files-and-encrypts-your-hard-drive-instead/](https://www.bleepingcomputer.com/news/security/petya-ransomware-skips-the-files-and-encrypts-your-hard-drive-instead/)\n\n#10yrsago Security-conscious darkweb crime marketplaces institute world-leading authentication practices [https://web.archive.org/web/20160331091155/https://motherboard.vice.com/read/some-dark-web-markets-have-better-user-security-than-gmail-instagram](https://web.archive.org/web/20160331091155/https://motherboard.vice.com/read/some-dark-web-markets-have-better-user-security-than-gmail-instagram)\n\n#10yrsago Saudi embassy hired mafiosi to smuggle Turkish PM Erdoğan’s son out of Italy ahead of money laundering charges [https://web.archive.org/web/20160311095055/https://awdnews.com/top-news/rome’s-police-spokesman-saudi-embassy-helped-erdoğan’s-son-to-escape-the-police-custody-using-a-forged-saudi-passport-and-disguised-as-an-arab-diplomat](https://web.archive.org/web/20160311095055/https://awdnews.com/top-news/rome%E2%80%99s-police-spokesman-saudi-embassy-helped-erdo%C4%9Fan%E2%80%99s-son-to-escape-the-police-custody-using-a-forged-saudi-passport-and-disguised-as-an-arab-diplomat)\n\n#10yrsago Photos from Bring Your Own Bigwheel 16 [https://www.jwz.org/photos/2016-03-27-bigwheel/](https://www.jwz.org/photos/2016-03-27-bigwheel/)\n\n#10yrsago How to Talk About Videogames: a book that is serious (but never dull) about games [https://memex.craphound.com/2016/03/28/how-to-talk-about-videogames-a-book-that-is-serious-but-never-dull-about-games/](https://memex.craphound.com/2016/03/28/how-to-talk-about-videogames-a-book-that-is-serious-but-never-dull-about-games/)\n\n#10yrsago Names that break databases [https://www.bbc.com/future/article/20160325-the-names-that-break-computer-systems](https://www.bbc.com/future/article/20160325-the-names-that-break-computer-systems)\n\n#10yrsago Cops arrest public defender who was representing her client, face no discipline [https://www.techdirt.com/2016/03/23/complaint-board-finds-police-officers-violated-policy-arresting-public-defender-who-demanded-they-stop-questioning-her-clients/](https://www.techdirt.com/2016/03/23/complaint-board-finds-police-officers-violated-policy-arresting-public-defender-who-demanded-they-stop-questioning-her-clients/)\n\n#10yrsago Vulnerability in recorders used by 70+ manufacturers’ CCTV systems has been known since 2014 [https://web.archive.org/web/20160322204109/https://kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html](https://web.archive.org/web/20160322204109/https://kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html)\n\n#10yrsago Ransomware hackers steal a hospital. Again. [https://krebsonsecurity.com/2016/03/hospital-declares-internet-state-of-emergency-after-ransomware-infection/](https://krebsonsecurity.com/2016/03/hospital-declares-internet-state-of-emergency-after-ransomware-infection/)\n\n#10yrsago STUCK: Public transit’s moment arrives just as public spending disappears [https://web.archive.org/web/20160327040633/https://motherboard.vice.com/read/the-immobile-masses-why-traffic-is-awful-and-public-transit-is-worse](https://web.archive.org/web/20160327040633/https://motherboard.vice.com/read/the-immobile-masses-why-traffic-is-awful-and-public-transit-is-worse)\n\n#10yrsago East Harlem’s secret museum of gorgeous junk rescued from NYC’s trash [https://www.atlasobscura.com/articles/fascinating-photos-from-the-secret-trash-collection-in-a-new-york-sanitation-garage](https://www.atlasobscura.com/articles/fascinating-photos-from-the-secret-trash-collection-in-a-new-york-sanitation-garage)\n\n#10yrsago Heatmaps of the human body in varying emotional states [https://www.pnas.org/doi/10.1073/pnas.1321664111](https://www.pnas.org/doi/10.1073/pnas.1321664111)\n\n#10yrsago Man exonerated after video shows unprovoked police beating, cops insist all is well [https://arstechnica.com/tech-policy/2016/03/video-clears-texas-man-of-assaulting-cop-did-police-commit-perjury/](https://arstechnica.com/tech-policy/2016/03/video-clears-texas-man-of-assaulting-cop-did-police-commit-perjury/)\n\n#10yrsago What you think about Millennials says a lot about you, nothing about them [https://www.youtube.com/watch?v=-HFwok9SlQQ](https://www.youtube.com/watch?v=-HFwok9SlQQ)\n\n#10yrsago Jerks were able to turn Microsoft’s chatbot into a Nazi because it was a really crappy bot [https://web.archive.org/web/20160325221619/http://motherboard.vice.com/read/how-to-make-a-not-racist-bot](https://web.archive.org/web/20160325221619/http://motherboard.vice.com/read/how-to-make-a-not-racist-bot)\n\n#10yrsago When the antibiotics run out, maybe we can use GMO maggots to stave off infection [https://link.springer.com/article/10.1186/s12896-016-0263-z](https://link.springer.com/article/10.1186/s12896-016-0263-z)\n\n#10yrsago King Arthur’s grave was a hoax invented by cash-strapped 12th C monks [https://arstechnica.com/science/2016/03/medieval-monks-used-king-arthurs-grave-as-an-attraction-to-raise-money/](https://arstechnica.com/science/2016/03/medieval-monks-used-king-arthurs-grave-as-an-attraction-to-raise-money/)\n\n#10yrsago Eating from the trash of New York’s finest grocers and restaurants [https://www.youtube.com/watch?v=MJmCUSb-ZVo](https://www.youtube.com/watch?v=MJmCUSb-ZVo)\n\n#10yrsago Catholic Church-owned insurer has secret files on paedophile priests [https://www.theage.com.au/national/secret-archive-of-paedophile-crime-kept-by-catholic-churchs-insurers-20160317-gnlc6k.html](https://www.theage.com.au/national/secret-archive-of-paedophile-crime-kept-by-catholic-churchs-insurers-20160317-gnlc6k.html)\n\n#10yrsago Names that break databases [https://www.bbc.com/future/article/20160325-the-names-that-break-computer-systems](https://www.bbc.com/future/article/20160325-the-names-that-break-computer-systems)\n\n#10yrsago Cops arrest public defender who was representing her client, face no discipline [https://www.techdirt.com/2016/03/23/complaint-board-finds-police-officers-violated-policy-arresting-public-defender-who-demanded-they-stop-questioning-her-clients/](https://www.techdirt.com/2016/03/23/complaint-board-finds-police-officers-violated-policy-arresting-public-defender-who-demanded-they-stop-questioning-her-clients/)\n\n#10yrsago Vulnerability in recorders used by 70+ manufacturers’ CCTV systems has been known since 2014 [https://web.archive.org/web/20160322204109/https://kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html](https://web.archive.org/web/20160322204109/https://kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html)\n\n#5yrsago Dirty NYPD cops can't lose [https://pluralistic.net/2021/03/26/overfitness-factor/#heads-you-lose-tails-they-win](https://pluralistic.net/2021/03/26/overfitness-factor/#heads-you-lose-tails-they-win)\n\n#5yrsago Dreaming and overfitting [https://pluralistic.net/2021/03/26/overfitness-factor/#dreamtime](https://pluralistic.net/2021/03/26/overfitness-factor/#dreamtime)\n\n#5yrsago Good news about news co-ops [https://pluralistic.net/2021/03/25/facebook-has-a-facebook-problem/#good-news](https://pluralistic.net/2021/03/25/facebook-has-a-facebook-problem/#good-news)\n\n#5yrsago Zuckerpunch [https://pluralistic.net/2021/03/25/facebook-has-a-facebook-problem/#played-for-zuckers](https://pluralistic.net/2021/03/25/facebook-has-a-facebook-problem/#played-for-zuckers)\n\n#5yrsago Green investing is a fraud [https://pluralistic.net/2021/03/24/greenwashing/#bargaining](https://pluralistic.net/2021/03/24/greenwashing/#bargaining)\n\n#\n\n1yrago Trump loves Big Tech [https://pluralistic.net/2025/03/24/whats-good-for-big-tech/#is-good-for-america](https://pluralistic.net/2025/03/24/whats-good-for-big-tech/#is-good-for-america)\n\n#1yrago Why I don't like AI art [https://pluralistic.net/2025/03/25/communicative-intent/#diluted](https://pluralistic.net/2025/03/25/communicative-intent/#diluted)\n\n#1yrago The AOC-Sanders anti-oligarch tour is all about organizing [https://pluralistic.net/2025/03/26/not-me-us/#the-people-no](https://pluralistic.net/2025/03/26/not-me-us/#the-people-no)\n\n#1yrago Reality-Based Communities [https://pluralistic.net/2025/03/27/use-your-mentality/#face-up-to-reality](https://pluralistic.net/2025/03/27/use-your-mentality/#face-up-to-reality)\n\n#1yrago Big Tech and \"captive audience venues\" [https://pluralistic.net/2025/03/28/street-pricing/#sportball-analogies](https://pluralistic.net/2025/03/28/street-pricing/#sportball-analogies)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Montreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/30/players-of-games/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/30/players-of-games/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 30 Mar 2026 17:27:20 +0000",
+        "reading_time": 27,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Georgi Gerganov - 30th March 2026 > Note that the main issues that people currently unknowingly face with lo...",
+    "[Sponsor] Material Security - ## Stop email attacks, protect sensitive data, and simplify your security operations Mater...",
+    "‘The Brand Age’ - ![The Brand Age](https://s.turbifycdn.com/aah/paulgraham/the-brand-age-1.gif)March 2026In...",
+    "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer - 30th March 2026 Trip Venturella released [Mr. Chatterbox](https://huggingface.co/tventurel...",
+    "How Do We Get Developers to Read the Docs  - When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created th..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "security",
+      "count": 5
+    },
+    {
+      "word": "question",
+      "count": 5
+    },
+    {
+      "word": "datasette-llm",
+      "count": 4
+    },
+    {
+      "word": "strong",
+      "count": 4
+    },
+    {
+      "word": "href",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "mr",
+      "count": 4
+    },
+    {
+      "word": "chatterbox",
+      "count": 4
+    },
+    {
+      "word": "model",
+      "count": 4
+    },
+    {
+      "word": "git-pkgs",
+      "count": 4
+    },
+    {
+      "word": "llm-mrchatterbox",
+      "count": 3
+    },
+    {
+      "word": "mar",
+      "count": 3
+    },
+    {
+      "word": "thing",
+      "count": 3
+    },
+    {
+      "word": "detection",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "march",
+      "count": 3
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "datasette",
+      "count": 2
+    },
+    {
+      "word": "releases",
+      "count": 2
+    },
+    {
+      "word": "tag",
+      "count": 2
+    },
+    {
+      "word": "size",
+      "count": 2
+    },
+    {
+      "word": "mac",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "vitamin",
+      "count": 2
+    },
+    {
+      "word": "string",
+      "count": 2
+    },
+    {
+      "word": "quartet",
+      "count": 2
+    },
+    {
+      "word": "going",
+      "count": 2
+    },
+    {
+      "word": "office",
+      "count": 2
+    },
+    {
+      "word": "procomm",
+      "count": 2
+    },
+    {
+      "word": "plus",
+      "count": 2
+    },
+    {
+      "word": "early",
+      "count": 2
+    },
+    {
+      "word": "small",
+      "count": 2
+    },
+    {
+      "word": "client-side",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "combining",
+      "count": 2
+    },
+    {
+      "word": "maximimum",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "values",
+      "count": 2
+    },
+    {
+      "word": "registry",
+      "count": 2
+    },
+    {
+      "word": "key",
+      "count": 2
+    },
+    {
+      "word": "raises",
+      "count": 2
+    },
+    {
+      "word": "questions",
+      "count": 2
+    },
+    {
+      "word": "api",
+      "count": 2
+    },
+    {
+      "word": "note",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "material",
+      "count": 2
+    },
+    {
+      "word": "brand",
+      "count": 2
+    },
+    {
+      "word": "age",
+      "count": 2
+    },
+    {
+      "word": "trained",
+      "count": 2
+    },
+    {
+      "word": "done",
+      "count": 2
+    },
+    {
+      "word": "top",
+      "count": 2
+    },
+    {
+      "word": "diff",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
