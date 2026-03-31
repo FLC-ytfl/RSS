@@ -1,0 +1,807 @@
+{
+  "date": "2026-03-31",
+  "stats": {
+    "total_fetched": 284,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "llm-echo 0.3",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.3\">llm-echo 0.3</a></p> <blockquote> <ul> <li>Mechanisms for <a href=\"https://github.com/simonw/llm-echo/blob/0.3/README.md#tool-cal...",
+        "url": "https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-03-31T15:43:26.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Quantum Y2K",
+        "summary": "I’m skeptical that quantum computing will become practical in the next 100 years. However, if it does become practical and we don’t prepare, the world’s financial system could collapse. Everyone agrees we should prepare...",
+        "url": "https://www.johndcook.com/blog/2026/03/31/quantum-y2k/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 31 Mar 2026 14:43:06 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Morse code tree",
+        "summary": "Peter Vogel posted the following image on X yesterday. The receive side of the coin is a decision tree for decoding Morse code. The shape is what makes this one interesting. Decision trees are typically not very compact....",
+        "url": "https://www.johndcook.com/blog/2026/03/31/morse-code-tree/",
+        "source": "John D. Cook",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 31 Mar 2026 12:12:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Before you check if an update caused your problem, check that it wasn’t a problem before the update",
+        "summary": "It was going to be like that when I got here. The post Before you check if an update caused your problem, check that it wasn’t a problem before the update appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 31 Mar 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The World's First Bullshit",
+        "summary": "I opened Twitter this morning and three different startups were announcing \"the world's first\" something. An AI CMO, an autonomous AI marketer, and a design agent \"with taste,\" which is a phrase that made me close my lap...",
+        "url": "https://www.joanwestenberg.com/the-worlds-first-bullshit/",
+        "source": "Westenberg.",
+        "tags": [
+          "Startup",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 31 Mar 2026 00:20:34 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Subprime AI Crisis Is Here",
+        "summary": "Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually a...",
+        "url": "https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 31 Mar 2026 16:18:11 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Quantum hard drives",
+        "summary": "Quantum was one of several hard drive manufacturers who thrived in the shadow of Seagate and Western Digital in the late 1980s and through the 1990s. On March 31, 2001, Quantum merged with Maxtor, another smaller, indepe...",
+        "url": "https://dfarq.homeip.net/quantum-hard-drives/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-hard-drives",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 31 Mar 2026 11:00:49 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Solving Yesterday’s Problems Will Kill You",
+        "summary": "Join us at The 7th Annual Red Queen Conference April 22 -23 – Silicon Valley How do Portfolio Acquisition Executives and COCOMs ensure they’re working on the right problem with the right priority before locking in a requ...",
+        "url": "https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/",
+        "source": "Steve Blank",
+        "tags": [
+          "Startup"
+        ],
+        "published_at": "Tue, 31 Mar 2026 13:00:48 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 497",
+        "summary": "Day by day, I find we're eeking more goodness out of OpenClaw and finding the sweet spot between what the humans do well and the agent can run off and do on its own. Significantly, we're shifting more and more of the wor...",
+        "url": "https://www.troyhunt.com/weekly-update-497/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 31 Mar 2026 00:41:44 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers",
+        "summary": "Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. This enables precise, stateful mitigation for custom and proprietary UDP protocols.",
+        "url": "https://blog.cloudflare.com/programmable-flow-protection/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 31 Mar 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Telnyx, LiteLLM and Axios: the supply chain crisis",
+        "summary": "A cascading wave of supply chain attacks has hit npm and PyPI in under two weeks. LLMs are making it worse, and current mitigations aren't enough.",
+        "url": "https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 31 Mar 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Infinite midwit",
+        "summary": "OR: if we were playing by Settlers of Catan rules, I'd be dead already",
+        "url": "https://www.experimental-history.com/p/infinite-midwit",
+        "source": "Experimental History",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 31 Mar 2026 16:05:29 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-03-31T22:25:03.515Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "llm-all-models-async 0.1",
+        "summary": "Release\n    \n    [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1)\n    — Register async versions of models from LLM plugins that only provide a sync version\n ",
+        "content": "Release\n    \n    [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases/tag/0.1)\n    — Register async versions of models from LLM plugins that only provide a sync version\n  \n\nLLM plugins can define new models in both [sync](https://llm.datasette.io/en/stable/plugins/tutorial-model-plugin.html) and [async](https://llm.datasette.io/en/stable/plugins/advanced-model-plugins.html#async-models) varieties. The async variants are most common for API-backed models - sync variants tend to be things that run the model directly within the plugin.\n\nMy [llm-mrchatterbox](https://simonwillison.net/2026/Mar/30/mr-chatterbox/#running-it-locally-with-llm) plugin is sync only. I wanted to try it out with various Datasette LLM features (specifically [datasette-enrichments-llm](https://github.com/datasette/datasette-enrichments-llm)) but Datasette can only use async models.\n\nSo... I had Claude spin up this plugin that turns sync models into async models using a thread pool. This ended up needing an extra plugin hook mechanism in LLM itself, which I shipped just now in [LLM 0.30](https://llm.datasette.io/en/stable/changelog.html#v0-30).",
+        "url": "https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-03-31T20:52:02.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-llm 0.1a4",
+        "summary": "This is a **beat** by Simon Willison, posted on [31st March 2026](https://simonwillison.net/2026/Mar/31/).\n\n    \n        [\n            datasette\n            1462\n        ](https://simonwillison.net/ta",
+        "content": "This is a **beat** by Simon Willison, posted on [31st March 2026](https://simonwillison.net/2026/Mar/31/).\n\n    \n        [\n            datasette\n            1462\n        ](https://simonwillison.net/tags/datasette/)\n    \n        [\n            llm\n            574\n        ](https://simonwillison.net/tags/llm/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-03-31T21:17:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "RAM Is the New Bearer Bond",
+        "summary": "Recently, a Costco in Florida instituted a new store policy. An employee told me that he was asked to open up every desktop computer displayed in the electronics section and remove the memory chips. O",
+        "content": "Recently, a Costco in Florida instituted a new store policy. An employee told me that he was asked to open up every desktop computer displayed in the electronics section and remove the memory chips. Otherwise, the RAM harvesters would get them. Elsewhere, [criminal groups](https://www.cargonet.com/news-and-events/cargonet-in-the-media/2025-theft-trends/) are misdirecting trucks carrying RAM in order to loot them. All of this is happening because of a generational shortage of a part used in practically every electronic gadget on Earth.\n\nRAM is your device’s short-term memory—storing the information it needs to handle any active tasks. (*RAM* stands for “random-access memory.”) To put this in intimately familiar terms, it is what your computer runs out of when you have too many browser tabs open. And right now, the price of RAM is skyrocketing. From September to February, the price of a single 64GB stick of RAM went from roughly $250 to more than $1,000.\n\nGamers who build their own juiced computers were among the first to notice that something was off. Starting in the fall, it became so difficult for them to acquire memory sticks that they have given a name to this crisis: RAMageddon. Now it’s quickly becoming everyone’s problem. In December, [Dell](https://www.businessinsider.com/dell-price-hikes-memory-demand-ai-chip-race-computer-2025-12)[ jacked](https://www.businessinsider.com/dell-price-hikes-memory-demand-ai-chip-race-computer-2025-12) the prices of some of its computers by hundreds of dollars because of what its COO has referred to as “this memory crisis, shortage, whatever you want to call it.” Earlier this month, for the same reason, Lenovo raised prices on some of its products, including the popular ThinkPad.\n\nThis seems to be only the beginning. Matteo Rinaldi, the head of a global semiconductor-research institute run by Northeastern University, told me he recently asked a colleague what new laptop he should buy. “He told me right away, ‘Well, you know, it almost doesn’t matter which one,’” Rinaldi said. “‘Just decide you want to buy now, because prices are going up.’”\n\nRAM is suddenly so expensive because memory is powering the AI boom. Data centers require huge amounts to run the models that underlie AI tools such as ChatGPT and Claude—especially as they become capable of handling more complicated tasks. This year, a group of tech giants—Amazon, Alphabet, Meta, Microsoft, and Oracle—is set to collectively spend half a trillion dollars on the AI build-out. Roughly a third of that money is being spent on memory alone, [according to](https://www.dwarkesh.com/p/dylan-patel) Dylan Patel, the founder of SemiAnalysis, a popular semiconductor-research firm.\n\n[Read: Welcome to a multidimensional economic disaster](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/)\n\nThe insatiable demand has “cannibalized our conventional consumer-electronics supply,” Yang Wang, an analyst at Counterpoint Research, a market-research firm, told me. Every major RAM manufacturer has shifted production lines to service AI data centers. This year, 70 percent of memory-chip products made globally will be destined for them. In South Korea, where two of the biggest RAM manufacturers are based, Silicon Valley executives are [reportedly booki](https://www.ndtv.com/feature/why-apple-is-sending-top-brass-to-south-korea-hotels-the-ram-shortage-war-10566863)[ng](https://www.ndtv.com/feature/why-apple-is-sending-top-brass-to-south-korea-hotels-the-ram-shortage-war-10566863) hotels in the country’s tech districts, frantically hoping to secure inventory. A Korean newspaper has given them a name: RAM beggars*.*\n\nIdeally, this problem would be solved by producing a whole lot more RAM. Micron, one of the biggest RAM manufacturers, is building a factory in New York that will cost more than any other private investment in the state’s history. Elon Musk recently suggested that Tesla will build its own RAM factories, called “fabs,” to ensure that he has enough memory to build robots and robotaxis. (“We’ve got two choices: Hit the chip wall, or make a fab,” he said in January.) But because of the complexity of making RAM, it could take even the richest man in the world two to five years to bring a new factory online. In the meantime, the world simply won’t have enough of a basic electronics part.\n\nDuring RAMageddon, your gadgets will essentially be subject to an AI tax. It’s long been safe to assume that technology will get [cheaper, faster, and better](https://www.cnet.com/tech/mobile/moores-law-is-the-reason-why-your-iphone-is-so-thin-and-cheap/). But for the next few years, all signs suggest that devices will get more expensive, slower, and worse.\n\nSo far, it might not feel like all that much has changed. Earlier this month, Apple released its cheapest computer ever, the $599 Mac Neo. (It runs on a chip previously used only in iPhones.) But elsewhere, the price hikes have started. Samsung’s new Galaxy phones cost about $100 more than last year’s models, which the company’s COO [has attributed](https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price) in large part to the memory shortage. That’s despite the fact that Samsung is one of three companies in the world producing a significant amount of memory. Android phones have debuted this year with worse cameras, less storage, and slower processors than models released years ago, Wang told me, yet they still cost more.\n\nExpect more changes like this. Gadget makers were able to initially swallow the cost of high RAM, but in the long run, they’ll have little choice but to pass on the cost to consumers. Consider Sony, which just announced that it will raise the price of the PlayStation 5 by $100. Before the adjustment, the memory chips inside a PS5 were worth more than the console itself. Smaller video-game manufacturers have pushed back launches or canceled the release of new consoles altogether.\n\nTo keep up with increasing RAM costs, things might get weird. Companies may jack up software prices to compensate for all the money they are sinking into memory chips. Sony’s CFO said on a recent earnings call that the company will survive the RAM crisis by “[monetizing the installed base](https://wccftech.com/playstation-5-price-increases-monetizing-install-base/),” which seems to be a euphemism for finding ways to charge PlayStation owners more, or showing them more ads. (Sony did not respond to a request for comment.) At the same time, some companies may start to pare back products they’ve made “smart” to justify markups. Smart speakers, smart toilets, smart toasters, and smart deodorants (yes, really) all contain RAM. “Do we stop getting smart refrigerators? I don’t think that’s a net bad,” Laine Nooney, a technology historian at NYU, told me.\n\n[Read: Your smart thermostat isn’t here to help you](https://www.theatlantic.com/technology/archive/2022/09/who-controls-smart-thermostat-temperature-nest-ecobee/671559/)\n\nIf that’s a silver lining, it’s not a particularly good one. [TrendForce](https://www.trendforce.com/presscenter/news/20260310-12959.html), a consumer-research firm, anticipates that laptop prices will rise by more than a third in the next few years. Computers under $500 will be extinct by 2028, according to a report from [Gartner](https://www.gartner.com/en/newsroom/press-releases/2026-02-26-gartner-says-surging-memory-costs-will-reduce-global-pc-and-smartphone-shipments-in-2026). Put differently, cheaper computers may fall off the map. “The $300 Chromebook and the $150 Android phone were products of a specific era—one where memory was cheap because nobody else was competing for it at this scale,” Nate Jones, an AI analyst, told me. “That era is ending.”\n\nThe consequences are global. All of this will be felt acutely in poor countries, where sub-$150 smartphones are especially popular. Some people may have no choice but to revert to flip phones, potentially cutting them off from essential apps and services. “You can’t build a gaming PC? Cool story, bro,” Wang, the smartphone analyst, said. “But then people in Africa can’t get a device which is crucial for their lives.”\n\nSo much money is going into the AI build-out that it is already reshaping the physical world. The data centers that are sprouting up across the United States are at least partly to blame for rising utility bills. And now people who may never have heard of Claude or asked ChatGPT for homework help will feel the effects of RAMaggedon. Hospitals have shelved plans to install touch screens that display medical charts and let patients order food, because the displays contain RAM, Rachael England, a manager at Vizient, a consulting firm that works with many U.S. hospitals, told me. Josh Bauman, the director of technology for a public-school district in Missouri, told me that if RAM prices keep increasing, his district may rethink buying a Chromebook for every student. For the foreseeable future, no one can escape the AI tax.",
+        "url": "https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-03-31T21:36:35.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Appointees to Trump’s Council of Advisors on Science and Technology",
+        "summary": "Today, President Donald J. Trump appointed the first members to his President’s Council of Advisors on Science and Technology (PCAST). Established by [Executive Order](https://www.whitehouse.gov/presi",
+        "content": "Today, President Donald J. Trump appointed the first members to his President’s Council of Advisors on Science and Technology (PCAST). Established by [Executive Order](https://www.whitehouse.gov/presidential-actions/2025/01/presidents-council-of-advisors-on-science-and-technology/), PCAST brings together the Nation’s foremost luminaries in science and technology to advise the President and provide recommendations on strengthening American leadership in science and technology.\n\nThe Council will be co-chaired by David Sacks and Michael Kratsios.\n\nThe following individuals have been appointed:\n\nMarc Andreessen\nSergey Brin\nSafra Catz\nMichael Dell\nJacob DeWitte\nFred Ehrsam\nLarry Ellison\nDavid Friedberg\nJensen Huang\nJohn Martinis\nBob Mumgaard\nLisa Su\nMark Zuckerberg\n\nUnder President Trump, PCAST will focus on topics related to the opportunities and challenges that emerging technologies present to the American workforce, and ensuring all Americans thrive in the Golden Age of Innovation.\n\nPCAST may be composed of up to 24 members. Additional members will be appointed in the near future along with information about the Council’s first meeting.\n\nSince President Franklin D. Roosevelt created his Science Advisory Board in 1933, each President has established his own PCAST advisory committee of scientists, engineers, and industry leaders.",
+        "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-03-31T15:36:13.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Making human languages irrelevant",
+        "summary": "If global large-scale human communication continues to be concentrated within large social media platforms and content providers like YouTube, human languages may become sort of irrelevant in that spa",
+        "content": "If global large-scale human communication continues to be concentrated within large social media platforms and content providers like YouTube, human languages may become sort of irrelevant in that space.\n\nSometimes I Google for something and see a Reddit result in Finnish. I live in Finland, so it makes sense when the search engine prioritizes such results, but most of the time the actual Reddit thread is not in Finnish at all.\n\n![](https://img.exotext.com/1/oCqsSUoabXJaTu8E_Yzfk.png)\n\nReddit can translate any thread with a simple URL param e.g. `?tl=fi` for Finnish. These dynamically generated pages are somehow indexed by Google, so a thread like [this](https://www.reddit.com/r/espresso/comments/193mkf9/baratza_esp_vs_encore/) is shown like [this instead](https://www.reddit.com/r/espresso/comments/193mkf9/baratza_esp_vs_encore/?tl=fi) for me.\n\nOften, a thread from a primarily English-speaking subreddit would randomly contain comments in different languages.\n\n![](https://img.exotext.com/1/Cr5feUqAIOwu1Rl8gbFDh.png)\n\n![](https://img.exotext.com/1/3t3G69Wl5yHcuMTXSPfBD.png)\n\nYouTube sometimes serves videos in a language different from your locale and automatically enables [AI-powered auto-dubbing](https://support.google.com/youtube/answer/15569972?hl=en-GB). \n\n![](https://img.exotext.com/1/FaPuTSYAdcLhz20vxAqg2.png)\n\nI suspect many people never notice these small labels and hidden explanations.\n\n![](https://img.exotext.com/1/z4HQemme4h2-y1LkhqAwW.png)\n\nThe mixing of different languages in Reddit threads and YouTube comments is probably the result of these automated translations. It is not that someone decided to reply in Spanish to an English thread; rather, they hadn't seen the English thread at all – it was in Spanish for them.\n\nWhen I play multiplayer online games with proximity voice chat enabled, I often meet people who would just start talking to me in their native language. Perhaps they just get paired with their local players most of the time, so they got used to it. But perhaps people already start expecting that they can speak any language, and the technology somehow takes care of it all? Probably not yet, but we're close. \n\nThis reminds me of the [Babel fish](https://www.bbc.co.uk/cult/hitchhikers/guide/babelfish.shtml) from Douglas Adams' *The Hitchhiker's Guide to the Galaxy*.\n\n![](https://img.exotext.com/1/Q68jd2GiehlQykzbj7qXX.jpg)",
+        "url": "https://rakhim.exotext.com/making-human-languages-irrelevant",
+        "source": "Rakhim's blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Tue, 31 Mar 2026 00:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Technical Analysis of the Android Version of the White House’s New App",
+        "summary": "The White House released an app on the App Store and Google Play. [They posted a blog about it.](https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-tru",
+        "content": "The White House released an app on the App Store and Google Play. [They posted a blog about it.](https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/) \"Unparalleled access to the Trump Administration.\"\n\nIt took a few minutes to pull the APKs with ADB, and threw them into JADX.\n\nHere is everything I found.\n\n## \n\nIt's a React Native app built with Expo (SDK 54), running on the Hermes JavaScript engine. The backend is WordPress with a custom REST API. The app was built by an entity called \"forty-five-press\" according to the Expo config.\n\nThe actual app logic is compiled into a 5.5 MB Hermes bytecode bundle. The native Java side is just a thin wrapper.\n\nVersion 47.0.1. Build 20. Hermes enabled. New Architecture enabled. Nothing weird here. Let's keep going.\n\n## \n\nTwo things stand out here. First, there's a plugin called `withNoLocation`. Second, there's a plugin called `withStripPermissions`. Remember these. They become relevant very soon.\n\nOTA updates are disabled. The Expo update infrastructure is compiled in but dormant.\n\n## \n\nI extracted every string from the Hermes bytecode bundle and filtered for URLs and API endpoints. The app's content comes from a WordPress REST API at whitehouse.gov with a custom `whitehouse/v1` namespace.\n\nHere are the endpoints:\n\nEndpointWhat It Serves`/wp-json/whitehouse/v1/home`Home screen`/wp-json/whitehouse/v1/news/articles`News articles`/wp-json/whitehouse/v1/wire`\"The Wire\" news feed`/wp-json/whitehouse/v1/live`Live streams`/wp-json/whitehouse/v1/galleries`Photo galleries`/wp-json/whitehouse/v1/issues`Policy issues`/wp-json/whitehouse/v1/priorities`Priorities`/wp-json/whitehouse/v1/achievements`Achievements`/wp-json/whitehouse/v1/affordability`Drug pricing`/wp-json/whitehouse/v1/media-bias`\"Media Bias\" section`/wp-json/whitehouse/v1/social/x`X/Twitter feed proxyOther hardcoded strings from the bundle: `\"THE TRUMP EFFECT\"`, `\"Greatest President Ever!\"` (lol), `\"Text President Trump\"`, `\"Send a text message to President Trump at 45470\"`, `\"Visit TrumpRx.gov\"`, `\"Visit TrumpAccounts.gov\"`.\n\nThere's also a direct link to `https://www.ice.gov/webform/ice-tip-form`. The ICE tip reporting form. In a news app.\n\nIt's a content portal. News, live streams, galleries, policy pages, social media embeds, and promotional material for administration initiatives. All powered by WordPress.\n\nNow let's look at what else it does.\n\n## \n\nThe app has a WebView for opening external links. Every time a page loads in this WebView, the app injects a JavaScript snippet. I found it in the Hermes bytecode string table:\n\nRead that carefully. It hides:\n\n- Cookie banners\n- GDPR consent dialogs\n- OneTrust popups\n- Privacy banners\n- Login walls\n- Signup walls\n- Upsell prompts\n- Paywall elements\n- CMP (Consent Management Platform) boxes\n\nIt forces `body { overflow: auto !important }` to re-enable scrolling on pages where consent dialogs lock the scroll. Then it sets up a MutationObserver to continuously nuke any consent elements that get dynamically added.\n\nAn official United States government app is injecting CSS and JavaScript into third-party websites to strip away their cookie consent dialogs, GDPR banners, login gates, and paywalls.\n\nThe native side confirms this is the `injectedJavaScript` prop on the React Native WebView:\n\nEvery page load in the in-app browser triggers this. It wraps the injection in an IIFE and runs it via Android's `evaluateJavascript()`.\n\n## \n\nRemember `withNoLocation` from the Expo config? The plugin that's supposed to strip location? Yeah. The OneSignal SDK's native location tracking code is fully compiled into the APK.\n\n270,000 milliseconds is 4.5 minutes. 570,000 is 9.5 minutes.\n\nTo be clear about what activates this: the tracking doesn't start silently. There are three gates. The `LocationManager` checks all of them before the fused location API ever fires.\n\nFirst, the `_isShared` flag. It's read from SharedPreferences on init and defaults to `false`. The JavaScript layer can flip it on with `setLocationShared(true)`. The Hermes string table confirms both `setLocationShared` and `isLocationShared` are referenced in the app's JS bundle, so the app has the ability to toggle this.\n\nSecond, the user has to grant the Android runtime location permission. The location permissions aren't declared in the AndroidManifest but requested at runtime. The Google Play Store listing confirms the app asks for \"access precise location only in the foreground\" and \"access approximate location only in the foreground.\"\n\nThird, the `start()` method only proceeds if the device actually has a location provider (GMS or HMS).\n\nIf all three gates pass, here's what runs. The fused location API requests GPS at the intervals defined above:\n\nThis gets called on both `onFocus()` and `onUnfocused()`, dynamically switching between the 4.5-minute foreground interval and the 9.5-minute background interval.\n\nWhen a location update comes in, it feeds into the `LocationCapturer`:\n\nLatitude, longitude, accuracy, timestamp, whether the app was in the foreground or background, and whether it was fine (GPS) or coarse (network). All of it gets written into OneSignal's `PropertiesModel`, which syncs to their backend.\n\nThe data goes here:\n\nThere's also a background service that keeps capturing location even when the app isn't active:\n\nSo the tracking isn't unconditionally active. But the entire pipeline including permission strings, interval constants, fused location requests, capture logic, background scheduling, and the sync to OneSignal's API, all of them are fully compiled in and one `setLocationShared(true)` call away from activating. The `withNoLocation` Expo plugin clearly did not strip any of this. Whether the JS layer currently calls `setLocationShared(true)` is something I can't determine from the native side alone, since the Hermes bytecode is compiled and the actual call site is buried in the 5.5 MB bundle. What I can say is that the infrastructure is there, ready to go, and the JS API to enable it is referenced in the bundle.\n\n## \n\nOneSignal is doing a lot more than push notifications in this app. From the Hermes string table:\n\n- `addTag` - tag users for segmentation\n- `addSms` - associate phone numbers with user profiles\n- `addAliases` - cross-device user identification\n- `addOutcomeWithValue` / `addUniqueOutcome` - track user actions and conversions\n- `OneSignal-notificationClicked` - notification tap tracking\n- `OneSignal-inAppMessageClicked` / `WillDisplay` / `DidDisplay` / `WillDismiss` / `DidDismiss` - full in-app message lifecycle tracking\n- `OneSignal-permissionChanged` / `subscriptionChanged` / `userStateChanged` - state change tracking\n- `setLocationShared` / `isLocationShared` - location toggle\n- `setPrivacyConsentRequired` / `setPrivacyConsentGiven` - consent gating\n\nThe local database tracks every notification received and whether it was opened or dismissed:\n\nYour location, your notification interactions, your in-app message clicks, your phone number if you provide it, your tags, your state changes. All going to OneSignal's servers.\n\n## \n\nThe app embeds YouTube videos using the `react-native-youtube-iframe` library. This library loads its player HTML from:\n\nThat's a personal GitHub Pages site. If the `lonelycpp` GitHub account gets compromised, whoever controls it can serve arbitrary HTML and JavaScript to every user of this app, executing inside the WebView context.\n\nThis is a government app loading code from a random person's GitHub Pages.\n\n## \n\nThe app loads third-party JavaScript from Elfsight to embed social media feeds:\n\nElfsight is a commercial SaaS widget company. Their JavaScript runs inside the app's WebView with no sandboxing. Whatever tracking Elfsight does, it does it here too. Their code can change at any time. The Elfsight widget ID `4a00611b-befa-466e-bab2-6e824a0a98a9` is hardcoded in an HTML embed.\n\n## \n\n- **Mailchimp** at `whitehouse.us10.list-manage.com/subscribe/post-json` handles email signups. User emails go to Mailchimp's infrastructure.\n- **Uploadcare** at `ucarecdn.com` hosts content images via six hardcoded UUIDs.\n- **Truth Social** has a hardcoded HTML embed with Trump's profile, avatar image URL from `static-assets-1.truthsocial.com`, and a \"Follow on Truth Social\" button.\n- **Facebook** page plugin is loaded in an iframe via `facebook.com/plugins/page.php`.\n\nNone of these are government-controlled infrastructure.\n\n## \n\nThe app uses standard Android TrustManager for SSL with no custom certificate pinning. If you're on a network with a compromised CA (corporate proxies, public wifi with MITM, etc.), traffic between the app and its backends can be intercepted and read.\n\n## \n\nThe build has some sloppy leftovers.\n\nA localhost URL made it into the production Hermes bundle:\n\nThat's the React Native Metro bundler dev server.\n\nA developer's local IP is hardcoded in the string resources:\n\nThe Expo development client (`expo-dev-client`, `expo-devlauncher`, `expo-devmenu`) is compiled into the release build. There's a `dev_menu_fab_icon.png` in the drawable resources. The Compose `PreviewActivity` is exported in the manifest, which is a development-only component that should not be in a production APK.\n\n## \n\nThe AndroidManifest itself is pretty standard for a notification-heavy app:\n\nPlus about 16 badge permissions for Samsung, HTC, Sony, Huawei, OPPO, and other launchers. These just let the app show notification badge counts. Not interesting.\n\nThe interesting permissions are the ones that aren't in the manifest but are hardcoded as runtime request strings in the OneSignal SDK, as covered above. Fine location. Coarse location. Background location.\n\nThe Google Play listing also mentions: \"modify or delete the contents of your shared storage\", \"run foreground service\", \"this app can appear on top of other apps\", \"run at startup\", \"use fingerprint hardware\", \"use biometric hardware.\"\n\nThe file provider config is also worth mentioning:\n\nThat exposes the entire external storage root. It's used by the WebView for file access.\n\n## \n\n68+ libraries are compiled into this thing. The highlights:\n\nCategoryLibrariesFrameworkReact Native, Expo SDK 54, Hermes JS enginePush/EngagementOneSignal, Firebase Cloud Messaging, Firebase InstallationsAnalytics/TelemetryFirebase Analytics, Google Data Transport, OpenTelemetryNetworkingOkHttp 3, Apollo GraphQL, OkioImagesFresco, Glide, Coil 3, Uploadcare CDNVideoExoPlayer (Media3), Expo VideoMLGoogle ML Kit Vision (barcode scanning), Barhopper modelCryptoBouncy CastleStorageExpo Secure Store, React Native Async StorageWebViewReact Native WebView (with the injection script)DIKoinSerializationGSON, Wire (Protocol Buffers)LicensePairIP license check (Google Play verification)25 native `.so` libraries in the arm64 split. The full Hermes engine, React Native core, Reanimated, gesture handler, SVG renderer, image pipeline, barcode scanner, and more.\n\n## \n\nThe official White House Android app:\n\n- **Injects JavaScript into every website you open** through its in-app browser to hide cookie consent dialogs, GDPR banners, login walls, signup walls, upsell prompts, and paywalls.\n\n- **Has a full GPS tracking pipeline compiled in** that polls every 4.5 minutes in the foreground and 9.5 minutes in the background, syncing lat/lng/accuracy/timestamp to OneSignal's servers.\n\n- **Loads JavaScript from a random person's GitHub Pages site** (`lonelycpp.github.io`) for YouTube embeds. If that account is compromised, arbitrary code runs in the app's WebView.\n\n- **Loads third-party JavaScript from Elfsight** (`elfsightcdn.com/platform.js`) for social media widgets, with no sandboxing.\n\n- **Sends email addresses to Mailchimp**, images are served from Uploadcare, and a Truth Social embed is hardcoded with static CDN URLs. None of this is government infrastructure.\n\n- **Has no certificate pinning.** Standard Android trust management.\n\n- **Ships with dev artifacts in production.** A localhost URL, a developer IP (`10.4.4.109`), the Expo dev client, and an exported Compose PreviewActivity.\n\n- **Profiles users extensively through OneSignal** - tags, SMS numbers, cross-device aliases, outcome tracking, notification interaction logging, in-app message click tracking, and full user state observation.\n\nIs any of this illegal? Probably not. Is it what you'd expect from an official government app? Probably not either.",
+        "url": "https://blog.thereallo.dev/blog/decompiling-the-white-house-app",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Cloud"
+        ],
+        "published_at": "2026-03-31T15:11:08.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "My ramblings are available over gopher",
+        "summary": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nIt has recently come to my attention that people need a thousand lines of C code to read my website.\n\nThis is unacceptable.\n\nFo",
+        "content": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nIt has recently come to my attention that people need a thousand lines of C code to read my website.\n\nThis is unacceptable.\n\nFor simpler clients, my server supports gopher:\n\n# telnet maurycyz.com 70\n/about.txt\n--------------------[ About this site: ]---------------------\nPublication date: 2026-02-03\nLast updated:     2026-03-06\n\nYap, yap yap yap yap yap yap yap yap yap yap yap yap yap yap\nyap yap yap yap yap yap yap yap yap yap yap yap yap. Yap yap\nyap yap yap yap yap yap yap yap.\n...\n\nThe response is just a text file: it has no markup, no links and no embedded content.\nFor navigation, gopher uses specially formatted directory-style menus:\n\n# telnet maurycyz.com 70\n/\n0READ ME FIRST                     /gopherinfo.txt  maurycyz.com   70\ni\n1Files..........Programs           /programs.map    maurycyz.com   70\n1               Rock photos        /misc/rocks.map  maurycyz.com   70\ni\n0Cool places....on the web         /real_pages.txt  maurycyz.com   70\n1               on gopher          /gopherholes.map maurycyz.com   70\ni\n1Blog...........Projects           /projects/       maurycyz.com   70\n1               Tutorials          /tutorials/      maurycyz.com   70\n1               Other              /misc/           maurycyz.com   70\n1               Photography        /astro/          maurycyz.com   70\n.\n\nThe first character on a line indicates the type of the linked resource:\n\n  0Plain text\n  1Another directory\n  ...(stuff I don't use)\n  9Binary data\n  IImage\n\nThe type is followed by a tab-separated list containing a display name, file path, hostname and port.\nLines beginning with an \"i\" are purely informational and do not link to anything.\n(This is non-standard, but widely used)\n\n*Storing metadata in links is weird to modern sensibilities*, but it keeps the protocol simple.\nMenus are the only thing that the client has to understand:\nthere's no URLs, no headers, no mime types —\nthe only thing sent to the server is the selector (file path), and the only thing received is the file. \n\n... as a bonus, this one liner can download files:\n\n# 144 kB if you want to try it.\necho /astro/m27/small.jpg | ncat maurycyz.com 70 > nebula.jpg\n\n*That's quite clunky*, but there are lots of programs that support it.\nIf you have Lynx installed, you should be able to just point it at this URL:\n\ngopher://maurycyz.com\n\n... although you will want to put `ASSUME_CHARSET:utf-8` in `/etc/lynx.cfg` because it's not 1991 anymore[Citation Needed]\n\n*I could use informational lines to replicate the webs navigation* by making everything a menu —\nbut that would be against the spirit of the thing:\ngopher is document retrieval protocol, not a hypertext format.\nInstead, I converted all my blog posts in plain text and set up some directory-style navigation.\n\nI've actually been moving away from using inline links anyways because they have two opposing design goals:\nWhile reading, links must be normal text.\nWhen you're done, links must be distinct clickable elements.\n\nI've never been able to find a good compromise:\nLinks are always either distracting to the reader, annoying to find/click, or both.\n\nAlso, *to preempt all the emails*:\n\n## ... what about *Gemini?*\n\n(The protocol, not the autocomplete from google.)\n\nGemini is the popular option for non-web publishing...\nbut honestly, it feels like someone took HTTP and slapped markdown on top of it.\n\nThis is a Gemini request...\n\ngemini://example.com/about.gmi\n\n... and this is an HTTP request:\n\nGET /about.html HTTP/1.0\nHost: maurycyz.com\n\nFor both protocols, the server responds with metadata followed by hypertext.\nIt's true that HTTP is more verbose, but 16 extra bytes doesn't create a noticeable difference.\n\n*Unlike gopher, which has a unique navigation model and is of historical interest*,\nGemini is just the web but with limited features...\nso what's the point?\n\nI can already write websites that don't have ads or autoplaying videos,\nand you can already use browsers that don't support features you don't like.\nAfter stripping away all the fluff (CSS, JS, etc) the web is quite simple:\na functional browser can be put together in a weekend.\n\n... and unlike gemini, doing so won't throw out 35 years of compatibility:\nSomeone with Chrome can read a barebones website, and someone with Lynx can read normal sites.\n\n*Gemini is a technical solution to an emotional problem*.\nMost people have a bad taste for HTTP due to the experience of visiting a commercial website.\n\nGemini is the obvious choice for someone looking for \"the web but without VC types\".\nIt doesn't make any sense when I'm looking for an interesting (and humor­ously outdated) protocol.\n\n## *Related:*\n\n- \n\n  [/projects/tinyweb/](https://maurycyz.com/projects/tinyweb/): A browser in 1000 lines of C ...\n\n  - [/about.html#links](https://maurycyz.com/about.html#links): ... and thoughts on links for navigation.\n\n  - [https://www.rfc-editor.org/rfc/rfc1436.html](https://www.rfc-editor.org/rfc/rfc1436.html): Gopher RFC\n\nhttps://geminiprotocol.net/: Mentioned web alternative\n -->\n  - [https://lynx.invisible-island.net/](https://lynx.invisible-island.net/): Feature complete text-based web browser",
+        "url": "https://maurycyz.com/misc/gopher/",
+        "source": "Maurycy's Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Wed, 01 Apr 2026 00:00:00 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "llm 0.30",
+        "summary": "Release\n    \n    [llm 0.30](https://github.com/simonw/llm/releases/tag/0.30)\n    — Access large language models from the command-line\n  \n\n> \n> - The [register_models() plugin hook](http://llm.datasett",
+        "content": "Release\n    \n    [llm 0.30](https://github.com/simonw/llm/releases/tag/0.30)\n    — Access large language models from the command-line\n  \n\n> \n> - The [register_models() plugin hook](http://llm.datasette.io/en/stable/plugins/plugin-hooks.html#plugin-hooks-register-models) now takes an optional `model_aliases` parameter listing all of the models, async models and aliases that have been registered so far by other plugins. A plugin with `@hookimpl(trylast=True)` can use this to take previously registered models into account. [#1389](https://github.com/simonw/llm/issues/1389)\n\n> - Added docstrings to public classes and methods and included those directly in the documentation.\n\n>",
+        "url": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-03-31T20:35:51.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "npm’s Defaults Are Bad",
+        "summary": "Yesterday the [axios package was compromised](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) on npm. An attacker hijacked a maintainer account,",
+        "content": "Yesterday the [axios package was compromised](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) on npm. An attacker hijacked a maintainer account, published two malicious versions that bundled a remote access trojan through a staged dependency called `plain-crypto-js`, and the versions were live for two to three hours before npm pulled them. Axios gets 83 million weekly downloads. This [keeps](https://snyk.io/blog/maintainers-of-eslint-prettier-plugin-attacked-via-npm-supply-chain-malware/) [happening](https://nx.dev/blog/s1ngularity-postmortem) [over](https://snyk.io/articles/npm-security-best-practices-shai-hulud-attack/) [and](https://github.com/advisories/GHSA-pjwm-rvh2-c87w) [over](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident) [and](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes/) [over](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/) and the post-incident conversation always goes the same way: was the maintainer using MFA, should the registry have caught it faster, should people be running more scanners. None of that gets at why JavaScript keeps having these incidents at a rate no other ecosystem comes close to matching. The npm client’s defaults actively enable the attacks and have done for years.\n\n### npm install rewrites your lockfile\n\n`npm install` will [modify your lockfile](https://github.com/npm/npm/issues/17761) if it detects drift between `package.json` and `package-lock.json`, which means the command developers reach for by default, the one in every tutorial and onboarding doc, can silently change your resolved dependency tree. The behaviour you actually want in almost every case lives in `npm ci`, which refuses to install if the lockfile doesn’t match and never modifies it. Most developers only discover `npm ci` after something breaks in CI, and many never discover it at all, because the client steers them toward the less safe option by making it the obvious one.\n\n### Lifecycle scripts run by default\n\nWhen you run `npm install`, every dependency and transitive dependency gets to execute arbitrary code on your machine through [postinstall scripts](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html). A vanishingly small number of packages actually need this, mostly native addons that compile C/C++ bindings, but npm grants the privilege to everything by default.\n\nThe axios attacker used exactly this mechanism, staging a clean version of `plain-crypto-js` eighteen hours before publishing a second version with the payload, then adding it as a dependency to the compromised axios release so the RAT dropped automatically on install.\n\npnpm v10 [disabled postinstall scripts by default](https://pnpm.io/supply-chain-security) and moved to an explicit allow-list where you approve which packages can run scripts. Bun blocks them by default too, with opt-in via `trustedDependencies` in `package.json`. npm shipped [`npm trust`](https://docs.npmjs.com/cli/v11/commands/npm-trust/) in v11.10.0 for managing an allow-list, but left the default unchanged, so every package still gets to run whatever it wants unless you’ve gone out of your way to configure it otherwise.\n\n### Trusted publishing can be turned off\n\nnpm’s [trusted publishing](https://docs.npmjs.com/trusted-publishers/) via OIDC lets packages publish from CI without long-lived tokens, which is a genuine improvement. But a maintainer, or an attacker who has compromised their account, can disable trusted publishing and fall back to token-based publishing at any time, and consumers of the package have no signal that this happened. They’ll keep pulling new versions as if nothing changed. Opting a package into trusted publishing should be a one-way door that only npm support can reverse, because an attacker with account access can flip a toggle just as easily as a maintainer can.\n\nThe client could help here too. `npm install` and `npm update` could detect when a package that previously used trusted publishing releases a new version without it, and refuse to update or at least warn. That kind of downgrade in publishing method is exactly the signal that something has gone wrong.\n\n### Cooldowns aren’t on by default\n\nnpm shipped [`min-release-age`](https://socket.dev/blog/npm-introduces-minimumreleaseage-and-bulk-oidc-configuration) in v11.10.0, which lets you refuse to install package versions published within a configurable window. Most malicious versions are caught within the first 24 to 48 hours, so even a modest cooldown would block the majority of supply chain attacks from reaching your project. But it’s off by default, which means the developers who would benefit from it most, the ones running `npm install` without thinking about supply chain security, will never turn it on, because they don’t know it exists.\n\n### npx has no safety net at all\n\n`npx` doesn’t use a lockfile. It fetches whatever the latest version of a package is and runs it immediately, with no cooldown and no pinning. If an attacker publishes a malicious version of a popular `npx` target, every invocation from that moment forward pulls and executes the compromised code.\n\nThe defaults problem is worse here than anywhere else in npm, because `npm install` at least has `npm ci` and `min-release-age` as things you can opt into, while `npx` has no equivalent at all. And `npx` has become the standard way to bootstrap projects and run one-off tools in tutorials, CI scripts, and increasingly in AI coding agents that generate and execute `npx` commands as part of their workflows.\n\n### GitHub Actions as an enabler\n\nnpm revoked classic tokens in December 2025 and capped granular token lifetimes at 90 days, which reduced the window of exposure from a stolen token. But most npm packages are published from GitHub Actions, where tokens sit in repository secrets, and the 90-day rotation creates enough friction that maintainers look for shortcuts rather than setting up OIDC properly.\n\n[Shai-Hulud](https://snyk.io/articles/npm-security-best-practices-shai-hulud-attack/) propagated specifically by harvesting tokens from CI environments, and the architecture that made that possible, long-lived secrets stored alongside the code that uses them, hasn’t fundamentally changed even though the individual token lifetimes got shorter. The [Trivy supply chain compromise](https://www.aquasec.com/blog/trivy-supply-chain-attack-what-you-need-to-know/) earlier this month showed how this plays out in practice: attackers used a leaked token from a GitHub Actions environment to force-push malicious code to 76 version tags, harvesting secrets from every CI pipeline that referenced them.\n\nThere’s no confirmed link between that incident and the axios compromise twelve days later, but the attack surface is the same: npm tokens stored in CI environments that become the prize in a GitHub Actions breach.\n\n[OIDC trusted publishing](https://docs.npmjs.com/trusted-publishers/) with no stored tokens is the answer here, and it works today, but npm hasn’t made it the default onboarding path and the setup still requires enough manual configuration that most maintainers haven’t switched.\n\n### npm is the one that matters\n\npnpm, Bun, and Deno have all made better choices about their defaults. pnpm blocks postinstall scripts, Bun requires explicit opt-in for them, Deno’s permission model is restrictive by design. But npm ships with Node.js, and it’s the client that the vast majority of the JavaScript ecosystem actually runs on, so the other clients making better choices doesn’t change the baseline security posture for the millions of projects that use npm because it was already there when they ran `node --version` for the first time.\n\nThe OpenSSF’s [Secure Software Development Guiding Principles](https://best.openssf.org/SecureSoftwareGuidingPrinciples.html) set an explicit goal of creating software that is “secure by default,” and their [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security.html) lay out maturity levels for registries and CLI tooling. npm has shipped the safer options as flags and config keys, but none of that matters until it changes what happens when someone types `npm install` or `npx` with no flags.\n\nnpm’s defaults are bad and they have been for a long time. Fixing them would do more for JavaScript supply chain security than any scanner, policy, or post-incident review ever will.",
+        "url": "https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-03-31T10:00:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/31Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/31/actual-fe",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/31Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/31/actual-federalist-society/)\n\n## Today's links\n\n- [State Dems must stop ICE from stealing the midterms](https://pluralistic.net/2026/03/31/actual-federalist-society/#mayday): The literal least they can do.\n\n- [Hey look at this](https://pluralistic.net/2026/03/31/actual-federalist-society/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/03/31/actual-federalist-society/#retro): Power-strip bug; \"Peaceful Baghdad\" was actually Istanbul; Disney pirates Disney font; AMC v day-and-date; SF growth chart; Cuba’s meritocratic free med schools; Trump strategist v Trump; Monopoly so fragile.\n\n- [Upcoming appearances](https://pluralistic.net/2026/03/31/actual-federalist-society/#upcoming): Montreal, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/03/31/actual-federalist-society/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/03/31/actual-federalist-society/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/03/31/actual-federalist-society/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/03/31/actual-federalist-society/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ice-v-midterms.jpg?w=840&ssl=1)\n\n## State Dems must stop ICE from stealing the midterms ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#mayday))\n\nDonald Trump has announced his intention to steal the midterms with a voter suppression law that would ban the mail-in voting that he himself uses (which he claims is not fit for purpose).\n\nThis voter suppression campaign is Trump's number one policy priority, and the Safeguard American Voter Eligibility (SAVE) Act that would accomplish this is behind the shutdown and aviation chaos that has hamstrung the country for weeks:\n\n[https://www.thenation.com/article/politics/save-act-voting-rights-congress/](https://www.thenation.com/article/politics/save-act-voting-rights-congress/)\n\nSAVE requires voters to show up at the polls in possession of ID like birth certificates and passports, and it will fill our polling places with armed, masked ICE agents – you know, the guys who just randomly kidnap and murder people for having accents, speaking a language other than English, or being visibly brown.\n\nDuring Trump's aviation crisis, Trump heard about \"Linda,\" a woman who called into a far right talk-radio program to suggest that ICE be deployed to American airports to backstop the TSA agents who'd stopped showing up for work on the very reasonable grounds that they hadn't been paid in a month:\n\n[https://www.thedailybeast.com/trump-may-have-got-his-ice-airport-idea-from-linda-from-arizona/](https://www.thedailybeast.com/trump-may-have-got-his-ice-airport-idea-from-linda-from-arizona/)\n\nTrump loved the idea and the next thing you knew, ICE was at the airports, hanging around like a bad smell and being totally useless. It turns out that the TSA is a *trained* workforce, unlike ICE, who receive precisely 47 days of training as a kind of MAGA Kabbalah (Trump is the 47th president):\n\n[https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/](https://www.wired.com/story/ice-agents-frustrate-airport-employees-as-shutdown-drags-on/)\n\nICE's uselessness at the country's airports was beyond farcical, though, as ever, *The Onion* found and nailed the farce in \"How ICE is assisting TSA\":\n\n[https://theonion.com/how-ice-is-assisting-tsa/](https://theonion.com/how-ice-is-assisting-tsa/)\n\n> \n> Overseeing the removal of shoes, belts, and abuelas\n\n>   Confiscating, then brandishing dangerous items\n\n>   Assuming all milling-around duties\n\n>   Culling weaker travelers when lines get too long\n\n>   Commiserating about failing the police academy\n\n>   Drinking any shampoo that exceeds the carry-on volume limit\n\n>   Simplifying the customs interview to one question about skull size\n> \n\nBut having ICE in the airports *does* serve one purpose. As Steve Bannon gloated on his podcast, ICE in the airports is a way to soften people up for ICE in the polling stations. He called it a \"test run\" for the midterms:\n\n[https://www.ms.now/rachel-maddow-show/maddowblog/steve-bannon-calls-ice-agents-at-airports-part-of-a-test-run-for-the-midterm-elections](https://www.ms.now/rachel-maddow-show/maddowblog/steve-bannon-calls-ice-agents-at-airports-part-of-a-test-run-for-the-midterm-elections)\n\nWriting for *Jacobin*, Eric Blanc points out that Democrats don't have to sit by passively while Trump – who repeatedly promised that if you voted for him in 2024, \"you won't have to vote anymore\" – steals an election:\n\n[https://jacobin.com/2026/03/ice-trump-election-theft-laws/](https://jacobin.com/2026/03/ice-trump-election-theft-laws/)\n\nThat's because America has a federal system of government, and the administration of its elections is firmly, constitutionally, unarguably in the hands of the states, and the states have large collections of highly trained, highly armed officials who can enforce their laws.\n\nOn March 13, the New Mexico state legislature passed a law banning armed federal officials from showing their fascist asses anywhere within 50 feet of a polling place or ballot drop-box:\n\n[https://www.koat.com/article/new-mexico-prohibits-armed-agents-voting-sites/70729595](https://www.koat.com/article/new-mexico-prohibits-armed-agents-voting-sites/70729595)\n\nOther blue states like \"California, Connecticut, Pennsylvania, Rhode Island, Virginia, and Washington\" are contemplating similar laws.\n\nIt's a start, but as Blanc says, what the *fuck* are the other blue statehouses waiting for? This is a white-hot, hair-on-fire emergency. There isn't a moment to spare. This should be on the agenda for every union, at every demonstration, at every DSA and Democratic Club meeting. As Blanc says, if we wait until November to find out what Trump is going to do, it'll be too late. The time to act is *now*.\n\nThis is – as Blanc says – a \"concrete, winnable demand that unions, student organizations, and immigrant and democracy defense groups could organize around today.\" And that organizing would \"onboard and develop scores of new leaders in this fight nationwide.\"\n\nI know where we can start. Unions across America have called for a general strike on May Day (May 1), under the banner \"No work, no school, no shopping.\" As we rally on May Day, let defending our right to vote be at the top of our agenda. Mark your calendars:\n\n[https://www.google.com/maps/d/u/0/viewer?ref=paydayreport.com&mid=1_b8qBUINLYWeLiwpFSfUO2SmX2w6TWA&ll=37.724800549268%2C-96.94920235000001&z=4](https://www.google.com/maps/d/u/0/viewer?ref=paydayreport.com&mid=1_b8qBUINLYWeLiwpFSfUO2SmX2w6TWA&ll=37.724800549268%2C-96.94920235000001&z=4)\n\n(*Image: [Chad Davis](https://www.flickr.com/photos/chaddavisphotography/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [Jami430](https://commons.wikimedia.org/wiki/File:Ballot_box_in_Denver,_October_2020.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en); modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Avi Lewis Is the New Leader of Canada’s NDP [https://jacobin.com/2026/03/avi-lewis-canada-ndp-election/](https://jacobin.com/2026/03/avi-lewis-canada-ndp-election/)\n\n- \nA Political Instrument of the People [https://lewisforleader.ca/ideas/party-renewal-full-plan](https://lewisforleader.ca/ideas/party-renewal-full-plan)\n\n- \nShe Owed Her Insurer a Nickel, So It Canceled Her Coverage [https://kffhealthnews.org/news/article/insurer-missed-payments-dropped-coverage-florida-bill-of-the-month-march-2026/](https://kffhealthnews.org/news/article/insurer-missed-payments-dropped-coverage-florida-bill-of-the-month-march-2026/)\n\n- \nHow the AI bubble bursts [https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/)\n\n- \nFold Catastrophes [https://tachyonpublications.com/product/fold-catastrophes/](https://tachyonpublications.com/product/fold-catastrophes/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#retro))\n\n#25yrsago Gobler Toys [https://web.archive.org/web/20010331150924/http://www.goblertoys.com/pages/goblertoys.html](https://web.archive.org/web/20010331150924/http://www.goblertoys.com/pages/goblertoys.html)\n\n#20yrsago Power-strip with hidden GSM hardware [https://web.archive.org/web/20060412201921/https://www.spy-labs.com/infinity.htm](https://web.archive.org/web/20060412201921/https://www.spy-labs.com/infinity.htm)\n\n#20yrsago I Hate DRM [https://web.archive.org/web/20060406063345/https://www.ihatedrm.com/cs2/](https://web.archive.org/web/20060406063345/https://www.ihatedrm.com/cs2/)\n\n#20yrsago GOP hopeful’s photo of “peaceful Baghdad” was really Istanbul [https://web.archive.org/web/20060405225546/http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1002274257](https://web.archive.org/web/20060405225546/http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1002274257)\n\n#20yrsago Disney using freeware Disney-inspired font in its signs [https://flickr.com/photos/mrg/sets/49427/](https://flickr.com/photos/mrg/sets/49427/)\n\n#20yrsago Yahoo could stay in China and stop sending its users to jail [https://web.archive.org/web/20060411085309/http://rconversation.blogs.com/rconversation/2006/03/yahoo_abominati.html](https://web.archive.org/web/20060411085309/http://rconversation.blogs.com/rconversation/2006/03/yahoo_abominati.html)\n\n#20yrsago AMC CEO: why we won’t show DVD simul-release movies [https://web.archive.org/web/20060426042457/https://www.wired.com/wired/archive/14.04/start.html?pg=15](https://web.archive.org/web/20060426042457/https://www.wired.com/wired/archive/14.04/start.html?pg=15)\n\n#15yrsago Canadian ISPs admit that their pricing is structured to discourage Internet use [https://web.archive.org/web/20110401033318/https://www.michaelgeist.ca/content/view/5711/125/](https://web.archive.org/web/20110401033318/https://www.michaelgeist.ca/content/view/5711/125/)\n\n#15yrsago Science fiction growth-chart takes your kid from Tribble to Vader [https://web.archive.org/web/20110331134518/http://geeky-dad.tumblr.com/post/3869493918/my-daughter-is-turning-one-soon-and-i-decided-we](https://web.archive.org/web/20110331134518/http://geeky-dad.tumblr.com/post/3869493918/my-daughter-is-turning-one-soon-and-i-decided-we)\n\n#15yrsago Open access legal scholarship is 50% more likely to be cited than material published in proprietary journals [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1777090](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1777090)\n\n#15yrsago Senior London cops lie to peaceful protestors, stage mass arrest [https://www.theguardian.com/uk/2011/mar/28/cuts-protest-uk-uncut-fortnum](https://www.theguardian.com/uk/2011/mar/28/cuts-protest-uk-uncut-fortnum)\n\n#10yrsago Cuba’s free med schools are the meritocratic institutions that America’s private system can’t match [https://www.wired.com/2016/03/students-ditching-america-medical-school-cuba/](https://www.wired.com/2016/03/students-ditching-america-medical-school-cuba/)\n\n#10yrsago As criminal justice reform looms, private prison companies get into immigration detention, halfway houses, electronic monitoring, mental health [https://web.archive.org/web/20160331101534/https://www.ozy.com/fast-forward/private-prisons-fight-back/66970](https://web.archive.org/web/20160331101534/https://www.ozy.com/fast-forward/private-prisons-fight-back/66970)\n\n#10yrsago Surveillance has reversed the net’s capacity for social change [https://web.archive.org/web/20160429233747/https://m.jmq.sagepub.com/content/early/2016/02/25/1077699016630255.full.pdf?ijkey=1jxrYu4cQPtA6&amp;keytype=ref&amp;siteid=spjmq](https://web.archive.org/web/20160429233747/https://m.jmq.sagepub.com/content/early/2016/02/25/1077699016630255.full.pdf?ijkey=1jxrYu4cQPtA6&amp;keytype=ref&amp;siteid=spjmq)\n\n#10yrsago Top Trump strategist quits, writes an open letter warning America about him [https://web.archive.org/web/20160330035435/http://www.xojane.com/issues/stephanie-cegielski-donald-trump-campaign-defector](https://web.archive.org/web/20160330035435/http://www.xojane.com/issues/stephanie-cegielski-donald-trump-campaign-defector)\n\n#10yrsago Doctors who get pharma money prescribe brand-name drugs instead of generics [https://www.propublica.org/article/doctors-who-take-company-cash-tend-to-prescribe-more-brand-name-drugs](https://www.propublica.org/article/doctors-who-take-company-cash-tend-to-prescribe-more-brand-name-drugs)\n\n#10yrsago GOP’s anti-abortion strategy could establish precedent for massive, corrupt regulation [https://web.archive.org/web/20160329045614/http://www.theatlantic.com/politics/archive/2016/03/fans-of-economic-liberty-shouldnt-be-so-quick-to-regulate-abortion/475566/](https://web.archive.org/web/20160329045614/http://www.theatlantic.com/politics/archive/2016/03/fans-of-economic-liberty-shouldnt-be-so-quick-to-regulate-abortion/475566/)\n\n#10yrsago Turkish government tells German ambassador to ban video satirizing president Erdoğan [https://web.archive.org/web/20260316070423/https://www.spiegel.de/politik/ausland/tuerkei-verlangt-offenbar-das-extra-3-video-zu-loeschen-a-1084490.html](https://web.archive.org/web/20260316070423/https://www.spiegel.de/politik/ausland/tuerkei-verlangt-offenbar-das-extra-3-video-zu-loeschen-a-1084490.html)\n\n#5yrsago Past Performance is Not Indicative of Future Results [https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#statistical-inference](https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#statistical-inference)\n\n#5yrsago Big Salmon's aquaturf [https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#aquaturf](https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#aquaturf)\n\n#5yrsago Noble Lies [https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#masks-and-trade](https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#masks-and-trade)\n\n#5yrsago Monopoly so fragile [https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#too-big-to-sail](https://pluralistic.net/2021/03/29/efficient-markets-hypothesis/#too-big-to-sail)\n\n#1yrago #RedForEd rides again in LA [https://pluralistic.net/2025/03/29/jane-mcalevey/#trump-is-a-scab](https://pluralistic.net/2025/03/29/jane-mcalevey/#trump-is-a-scab)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Montreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/03/31/actual-federalist-society/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\n[https://twitter.com/doctorow](https://twitter.com/doctorow)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/03/31/actual-federalist-society/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "Tue, 31 Mar 2026 10:00:59 +0000",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "llm-all-models-async 0.1 - Release [llm-all-models-async 0.1](https://github.com/simonw/llm-all-models-async/releases...",
+    "datasette-llm 0.1a4 - This is a **beat** by Simon Willison, posted on [31st March 2026](https://simonwillison.ne...",
+    "RAM Is the New Bearer Bond - Recently, a Costco in Florida instituted a new store policy. An employee told me that he w...",
+    "Appointees to Trump’s Council of Advisors on Science and Technology - Today, President Donald J. Trump appointed the first members to his President’s Council of...",
+    "Making human languages irrelevant - If global large-scale human communication continues to be concentrated within large social..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 12
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "quantum",
+      "count": 5
+    },
+    {
+      "word": "update",
+      "count": 5
+    },
+    {
+      "word": "problem",
+      "count": 5
+    },
+    {
+      "word": "llm",
+      "count": 5
+    },
+    {
+      "word": "llm-echo",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "simonw",
+      "count": 4
+    },
+    {
+      "word": "releases",
+      "count": 4
+    },
+    {
+      "word": "check",
+      "count": 4
+    },
+    {
+      "word": "release",
+      "count": 3
+    },
+    {
+      "word": "tag",
+      "count": 3
+    },
+    {
+      "word": "become",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "posted",
+      "count": 3
+    },
+    {
+      "word": "yesterday",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "mitigation",
+      "count": 3
+    },
+    {
+      "word": "npm",
+      "count": 3
+    },
+    {
+      "word": "llm-all-models-async",
+      "count": 3
+    },
+    {
+      "word": "models",
+      "count": 3
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "mar",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "human",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "practical",
+      "count": 2
+    },
+    {
+      "word": "prepare",
+      "count": 2
+    },
+    {
+      "word": "morse",
+      "count": 2
+    },
+    {
+      "word": "tree",
+      "count": 2
+    },
+    {
+      "word": "decision",
+      "count": 2
+    },
+    {
+      "word": "caused",
+      "count": 2
+    },
+    {
+      "word": "wasn",
+      "count": 2
+    },
+    {
+      "word": "world's",
+      "count": 2
+    },
+    {
+      "word": "agent",
+      "count": 2
+    },
+    {
+      "word": "crisis",
+      "count": 2
+    },
+    {
+      "word": "analysis",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "march",
+      "count": 2
+    },
+    {
+      "word": "right",
+      "count": 2
+    },
+    {
+      "word": "day",
+      "count": 2
+    },
+    {
+      "word": "we're",
+      "count": 2
+    },
+    {
+      "word": "custom",
+      "count": 2
+    },
+    {
+      "word": "ddos",
+      "count": 2
+    },
+    {
+      "word": "logic",
+      "count": 2
+    },
+    {
+      "word": "magic",
+      "count": 2
+    },
+    {
+      "word": "transit",
+      "count": 2
+    },
+    {
+      "word": "customers",
+      "count": 2
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "axios",
+      "count": 2
+    },
+    {
+      "word": "supply",
+      "count": 2
+    },
+    {
+      "word": "chain",
+      "count": 2
+    },
+    {
+      "word": "making",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "register",
+      "count": 2
+    },
+    {
+      "word": "version",
+      "count": 2
+    },
+    {
+      "word": "simonwillison",
+      "count": 2
+    },
+    {
+      "word": "recently",
+      "count": 2
+    },
+    {
+      "word": "store",
+      "count": 2
+    },
+    {
+      "word": "trump",
+      "count": 2
+    },
+    {
+      "word": "council",
+      "count": 2
+    },
+    {
+      "word": "advisors",
+      "count": 2
+    },
+    {
+      "word": "science",
+      "count": 2
+    },
+    {
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "word": "president",
+      "count": 2
+    },
+    {
+      "word": "whitehouse",
+      "count": 2
+    },
+    {
+      "word": "gov",
+      "count": 2
+    },
+    {
+      "word": "languages",
+      "count": 2
+    },
+    {
+      "word": "irrelevant",
+      "count": 2
+    },
+    {
+      "word": "large",
+      "count": 2
+    },
+    {
+      "word": "white",
+      "count": 2
+    },
+    {
+      "word": "house",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "programming",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
