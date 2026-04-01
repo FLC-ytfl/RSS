@@ -1,0 +1,883 @@
+{
+  "date": "2026-04-01",
+  "stats": {
+    "total_fetched": 291,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 15,
+    "long_articles": 15
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "datasette-extract 0.3a0",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-extract/releases/tag/0.3a0\">datasette-extract 0.3a0</a></p> <ul> <li>Now uses <a href=\"https://github.com/datasette/datasette-llm\">datasette-ll...",
+        "url": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-04-01T03:32:16.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "datasette-enrichments-llm 0.2a0",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a0\">datasette-enrichments-llm 0.2a0</a></p> <blockquote> <ul> <li>This plugin now uses <a href=\"https://github....",
+        "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-04-01T03:28:44.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "datasette-llm 0.1a5",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a5\">datasette-llm 0.1a5</a></p> <blockquote> <ul> <li>The <code>llm_prompt_context()</code> plugin hook wrapper mechanism n...",
+        "url": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "2026-04-01T03:11:01.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Pentagonal numbers are truncated triangular numbers",
+        "summary": "Pentagonal numbers are truncated triangular numbers. You can take the diagram that illustrates the nth pentagonal number and warp it into the base of the image that illustrates the (2n − 1)st triangular number. If you ad...",
+        "url": "https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/",
+        "source": "John D. Cook",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Apr 2026 13:23:42 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ben Cohen of the WSJ Tours Apple’s Archive of Prototype Hardware",
+        "summary": "Lots of fun things I’ve never seen before in this 7-minute video. Best not to spoil them. ★",
+        "url": "https://www.youtube.com/watch?v=74qPQt_5DdM",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "2026-04-01T20:10:41.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Random File Format",
+        "summary": "This was an idea I had back in the days of Naptster. At the turn of the century, it was common to listen to an \"acquired\" music file only to find it was missing a few seconds at the end due to a prematurely stopped downl...",
+        "url": "https://shkspr.mobi/blog/2026/04/random-file-format/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Wed, 01 Apr 2026 11:34:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
+        "summary": "What are we reading about here? The post The cover of <I>C++: The Programming Language</I> raises questions not answered by the cover appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How Tandy bought Radio Shack",
+        "summary": "On April 1, 1963, Charles Tandy booked one of the junior ballrooms at the Ritz-Carlton in Boston and put out a call to Radio Shack employees to meet there that evening. There were rumors of changes afloat, but no one The...",
+        "url": "https://dfarq.homeip.net/how-tandy-bought-radio-shack/?utm_source=rss&utm_medium=rss&utm_campaign=how-tandy-bought-radio-shack",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Apr 2026 11:00:30 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How Mark Cuban became rich",
+        "summary": "April 1, 1999 was no April Fool’s joke for Mark Cuban. On that day, he sold his company, broadcast.com, to Yahoo for $5.7 billion and became a billionaire. The deal doesn’t make a lot of sense today, but at the The post...",
+        "url": "https://dfarq.homeip.net/how-mark-cuban-became-rich/?utm_source=rss&utm_medium=rss&utm_campaign=how-mark-cuban-became-rich",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Apr 2026 11:00:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver",
+        "summary": "Eight years ago, we launched 1.1.1.1 to build a faster, more private Internet. Today, we’re sharing the results of our latest independent examination. The result: our privacy protections are working exactly as promised.",
+        "url": "https://blog.cloudflare.com/1111-privacy-examination-2026/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 01 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing EmDash — the spiritual successor to WordPress that solves plugin security",
+        "summary": "Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates.",
+        "url": "https://blog.cloudflare.com/emdash-wordpress/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Wed, 01 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Claude Code won April Fools Day this year",
+        "summary": "They gave people a heckin tamagochi, what's not to like?",
+        "url": "https://xeiaso.net/notes/2026/claude-code-wins-april-fools/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 01 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Say the Thing You Want",
+        "summary": "If you want something at work, say it out loud. Your silence isn't saving you.",
+        "url": "https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/",
+        "source": "Terrible Software",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 01 Apr 2026 15:59:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-01T22:27:15.769Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-01T22:27:15.769Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "summary": "Today Raspberry Pi announced [more price increases for all Pis with LPDDR4 RAM](https://www.raspberrypi.com/news/a-new-3gb-raspberry-pi-4-for-83-75-and-more-memory-driven-price-increases/), alongside ",
+        "content": "Today Raspberry Pi announced [more price increases for all Pis with LPDDR4 RAM](https://www.raspberrypi.com/news/a-new-3gb-raspberry-pi-4-for-83-75-and-more-memory-driven-price-increases/), alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.\n\nThe price increases bring the 16GB Pi 5 up to *$299.99*.\n\nDespite today's date, this is not a joke.\n\nI published a video going over the state of the hobbyist 'high end SBC' market (4/8/16 GB models in the current generation), which I'll embed below:\n\n*\n\nBut if you'd like the **tl;dr**:\n\nUnless the DRAM pricing situation changes radically*, I think the hobbyist SBC market is dying—or at least on life support. And I don't just mean Raspberry Pis, but all SBC vendors. LPDDR chips now account for the majority of board cost from the vendors I've checked with.\n\n![Raspberry Pi 5 Price Increases since launch 2 4 and 16 GB models](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/raspberry-pi-price-increase-since-launch.jpg)Besides causing a radical reduction in new boards launched (Radxa seems to be the only vendor that had some cadence last year), the price increases for boards with greater than 4 GB of RAM have put those boards out of the reach of most hobbyists.\n\nEven mini PCs, which for a time were a *great* deal, have risen to $250+ for 8 GB models. *Used* PC are also more expensive, especially with more than 4 GB of RAM.\n\nI design most of my projects so they can be replicated for less than $100. Learning is easier on cheaper parts you won't fret over too much when you break them. With prices going up, this limits the types of projects I take on.\n\nI'm working more with older SBCs and microcontrollers now, and I think that's the direction many in the hobbyist space are going.\n\nMaybe, as Eben Upton says in Raspberry Pi's post,\n\n> memory prices won’t remain at their current very high level indefinitely; the circumstances in which we find ourselves are challenging, but in the future they will abate.\n\nBut I'm not sure how long we'll have to wait, or if a hobbyist SBC market will exist by the time the bubble bursts.\n\nLucky for Raspberry Pi, they have a thriving microcontroller ecosystem and industrial base to keep them going. I fear smaller vendors won't be able to go on like this forever.",
+        "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "Wed, 01 Apr 2026 16:00:00 -0500",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-llm-usage 0.2a0",
+        "summary": "> \n> - Removed features relating to allowances and estimated pricing. These are now the domain of [datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant).\n\n> - Now depends on",
+        "content": "> \n> - Removed features relating to allowances and estimated pricing. These are now the domain of [datasette-llm-accountant](https://github.com/datasette/datasette-llm-accountant).\n\n> - Now depends on [datasette-llm](https://github.com/datasette/datasette-llm) for model configuration. [#3](https://github.com/datasette/datasette-llm-usage/pull/3)\n\n> - Full prompts and responses and tool calls can now be logged to the `llm_usage_prompt_log` table in the internal database if you set the new `datasette-llm-usage.log_prompts` plugin configuration setting.\n\n> - Redesigned the `/-/llm-usage-simple-prompt` page, which now requires the `llm-usage-simple-prompt` permission.\n\n>",
+        "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Database"
+        ],
+        "published_at": "2026-04-01T03:24:03.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Soohoon Choi",
+        "summary": "1st April 2026\n\n> I want to argue that AI models will write good code because of economic incentives. Good code is cheaper to generate and maintain. Competition is high between the AI models right now",
+        "content": "1st April 2026\n\n> I want to argue that AI models will write good code because of economic incentives. Good code is cheaper to generate and maintain. Competition is high between the AI models right now, and the ones that win will help developers ship reliable features fastest, which requires simple, maintainable code. Good code will prevail, not only because we want it to (though we do!), but because economic forces demand it. Markets will not reward slop in coding, in the long-term.\n\n— [Soohoon Choi](https://www.greptile.com/blog/ai-slopware-future), Slop Is Not Necessarily The Future",
+        "url": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-04-01T02:07:16.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade",
+        "summary": "![A woman wearing AirPods Max 2 in blue](https://cdn.mos.cms.futurecdn.net/2H6VjvPic3UTDJMFEa7E2k.jpg)\n\n (Image credit: Apple)\n\nOver five years since [Apple](https://www.techradar.com/tag/apple) enter",
+        "content": "![A woman wearing AirPods Max 2 in blue](https://cdn.mos.cms.futurecdn.net/2H6VjvPic3UTDJMFEa7E2k.jpg)\n\n (Image credit: Apple)\n\nOver five years since [Apple](https://www.techradar.com/tag/apple) entered the over-ear headphones market, admittedly with a pair that stood out from the rest for a premium build with a hefty price tag, the Cupertino-based tech giant is now ushering in the second generation.\n\nAt first glance, you might have a hard time telling the difference, and that's kind of the point. AirPods Max 2 stick with the original iconic design — aluminum and stainless steel parts give these headphones some heft, and they're connected at the top not with a headband but with a mesh canopy that helps distribute weight.\n\nThe over-ear form factor is pretty much identical, and the colors are very familiar — it's the same five that debuted when Apple swapped Lightning for USB-C in 2024.\n\nArticle continues below \n\n> When we build chips at Apple, it's always about the product\n\nTim Millet\n\nWhat's changed is everything you can't see: dual H2 chips replacing the original H1s, a new digital amplifier carried over from AirPods Pro 3, and a processing architecture that Apple's own engineers describe as carrying headroom well beyond what ships on day one.\n\nTo understand exactly what that means five years on, TechRadar sat down with Apple VP of Platform Architecture Tim Millet and Director of Audio Product Marketing Eric Treski to unpack how AirPods Max 2 is finally catching up to its own ambitions.\n\n## Built for the product, not the market\n\n\"When we build chips at Apple, it's always about the product. We don't sell chips out in the open market, and this gives our team really the luxury of knowing exactly what they're building for,\" says Millet.\n\nThat's the philosophy that defines AirPods Max 2 — and it's what makes the H2 upgrade more than a spec bump. Rather than dropping in an off-the-shelf component, Apple created a purpose-built audio streaming processor co-designed from the ground up with its acoustics and firmware teams. The goal, as Millet puts it, is to make sure they're \"only limited by the physics.\"\n\nSign up for breaking news, reviews, opinion, top tech deals, and more.\n\nThe processing capability that unlocks is significant. Millet relays that his team's view is that \"some of the processing we do here is exceeding the kind of compute that you get in a general sense in the Mac — but because we've made it so specific for audio, it's actually deliverable in these tiny form factors.\"\n\n\"We've got giga-operations of floating point implemented in the most energy-efficient possible way,\" he adds. And crucially, all of it feeds into a single constraint that Millet returns to repeatedly: \"It's all about latency. It's hard to trick the human mind when it comes to audio.\"\n\n \n\n![Apple AirPods Max 2](https://cdn.mos.cms.futurecdn.net/8pQb6SnzQeUqoyMtq6vfgD.jpg)\n\n(Image credit: Apple)\n## ANC without touching the hardware\n\nOne of the boldest claims Apple makes for AirPods Max 2 is a 1.5x improvement in active noise cancellation — achieved without changing a single physical component. \"Getting those improvements to ANC and especially that 1.5 times more powerful ANC, which of course is a feat in itself, considering we didn't change the actual design of the headphone at all from a form factor or material standpoint,\" says Treski.\n\nThat improvement isn't limited to a specific frequency band either. \"We take that average at 1.5 times across an average of all frequencies. We're not cherry-picking individual frequencies or a certain range,\" he adds. That means AirPods Max 2 should perform better whether it's blocking louder, booming sounds or higher-pitched ones — and that's a high bar, given that the original AirPods Max were no slouches when it came to blocking out sound.\n\n> Is a feat in itself, considering we didn't change the actual design of the headphone at all\n\nEric Treski\n\nOn AirPods Max 2, that gain comes entirely from processing speed and improved algorithms, all running on the H2. \"ANC — getting those improvements to 1.5 times without changing the hardware — is incredibly difficult to do. That's all thanks to the compute power and the improved algorithms with H2,\" says Treski.\n\nThe arrival of Apple's newer silicon also brings a breadth of new features to second-generation AirPods Max. Leading that pack is Adaptive Audio, which blends ANC and Transparency together to intelligently block out unimportant sounds while letting important ones through. Think blocking out the background noise of a coffee shop while still hearing someone speak to you, or cutting the roar of an airplane cabin while catching an announcement. It's been one of the standout features on AirPods Pro, and it's a welcome addition to AirPods Max.\n\nApple needed the headroom and processing power of H2 to make that happen — and it does raise the question of what future software updates might unlock, even if Apple didn't touch on that in our conversation.\n\n## Audio quality and the case for personalization\n\n \n\n![Apple AirPods Max 2](https://cdn.mos.cms.futurecdn.net/yFbUQeSh7cUv6cBcbZy3hD.jpg)\n\n(Image credit: Apple)Alongside the H2 upgrade, Apple is bringing over the digital amplifier from AirPods Pro 3 — a quieter change with significant downstream effects.\n\nTreski frames it around distortion and reference accuracy: \"It's really about bringing it back to a target — ensuring that we have it with the best fidelity possible with the lower THD. So we have a lot more headroom to sort of play with and gain a lot more clarity.\"\n\nThat headroom feeds directly into Adaptive EQ, which runs continuously and cannot be switched off. \"There's no ability to turn off Adaptive EQ essentially... using that microphone and being able to determine what you're supposed to be listening to on that air-correcting mic — a reference mic — and then being able to use Adaptive EQ at 48,000 times a second with the higher range up in the higher frequency. That's really important, especially with ANC, to be able to do this all in real time,\" says Treski.\n\nThe result is a more consistent listening experience across different head shapes, ear fits, and seal quality — effectively standardizing sound for every user rather than relying on a fixed tuning curve.\n\nPersonalized Spatial Audio benefits from that consistency, too. Previously, Apple had to tune conservatively because it couldn't account for individual differences. On previous AirPods Max without Personalized Spatial Audio, Apple \"had to make one profile for everyone, so we were way more conservative... now we know that we can take more liberties to expand those instruments out more,\" says Treski.\n\n## A platform, not a product cycle\n\n \n\n![Apple AirPods Max 2](https://cdn.mos.cms.futurecdn.net/9pNxMmYncqUf9x8Q9zFWzG.jpg)\n\n(Image credit: Apple)The H2 upgrade also unlocks a raft of features carried over from AirPods Pro 3 — among them Live Translation, which Treski singles out as a personal favorite. It uses beam-forming microphones to isolate a voice directly in front of the wearer rather than the wearer's own: \"so challenging to do,\" he says, \"without changing the physical architecture of the microphones.\"\n\nThat same capability should push call quality forward, too, with AirPods Max 2 better able to isolate your voice from surrounding noise. The broader additions — Conversation Awareness, Voice Isolation, Camera Remote, and 5GHz support with Game Mode — all run through the same underlying architecture. The point isn't any single feature. It's that the system can now carry all of them simultaneously.\n\n> H2 is this platform that continues to demonstrate that it has continued headroom\n\nTim Millet\n\nFor Millet, that's the deeper story. \"H2 is this platform that continues to demonstrate that it has continued headroom,\" he says. What AirPods Max 2 ships with today may not be the ceiling of what it eventually does — and that's been a hallmark of AirPods broadly. AirPods Pro have repeatedly expanded their capabilities over time, from Adaptive Audio to the Hearing Health suite to Live Translation.\n\nAirPods Max 2 doesn't try to look like a new generation of headphones. It reflects Apple's broader hardware philosophy: keep the physical design stable — especially one that's well-regarded — and expand the internal system's capabilities to deliver new features.\n\nIt's not a redesign. It's a recalibration of what the same shape can now do. And for most people wearing them, that difference will be the point — even if they never see it.\n\n[***Follow TechRadar on Google News***](https://news.google.com/publications/CAAqKAgKIiJDQklTRXdnTWFnOEtEWFJsWTJoeVlXUmhjaTVqYjIwb0FBUAE?hl=en-GB&gl=GB&ceid=GB%3Aen) and* *[***add us as a preferred source***](https://www.google.com/preferences/source?q=techradar.com)* to get our expert news, reviews, and opinion in your feeds. Make sure to click the Follow button!*\n\n*And of course you can also *[***follow TechRadar on TikTok***](https://www.tiktok.com/@techradar)* for news, reviews, unboxings in video form, and get regular updates from us on *[***WhatsApp***](https://whatsapp.com/channel/0029Va6HybZ9RZAY7pIUK12h)* too.*\n\nJacob Krol is the US Managing Editor, News for TechRadar. He’s been writing about technology since he was 14 when he started his own tech blog. Since then Jacob has worked for a plethora of publications including CNN Underscored, TheStreet, Parade, Men’s Journal, Mashable, CNET, and CNBC among others. \n\nHe specializes in covering companies like Apple, Samsung, and Google and going hands-on with mobile devices, smart home gadgets, TVs, and wearables. In his spare time, you can find Jacob listening to Bruce Springsteen, building a Lego set, or binge-watching the latest from Disney, Marvel, or Star Wars.\n\ncommunity guidelines.\n\n\" data-join-the-conversation-text=\"Join the Conversation\">\nYou must confirm your public display name before commenting\n\nPlease logout and then login again, you will then be prompted to enter your display name.",
+        "url": "https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-01T18:45:54.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th",
+        "summary": "![Estimated read time](https://www.esquire.com/_assets/design-tokens/fre/static/icons/clock-regular.4ddebeb.svg)17 min read\n\nWe had an Apple IIe. My parents gave it to my brother, my sisters, and me f",
+        "content": "![Estimated read time](https://www.esquire.com/_assets/design-tokens/fre/static/icons/clock-regular.4ddebeb.svg)17 min read\n\nWe had an Apple IIe. My parents gave it to my brother, my sisters, and me for Christmas in 1983, and I can still see their laughing, slightly mystified faces as we tore through the paper in the living room, shrieking with excitement that we had one now. We had an Apple computer. It was beige, like the boxy Wang word processors at our father’s office, but it looked better. Friendlier. Its corners were rounded. When we turned it on, there was a little trash can in the corner of the screen.\n\nA month later, watching the Super Bowl on the basement Zenith, we would see a commercial for a new computer, the Macintosh. It was directed by Ridley Scott—he had done *Alien* and *Blade Runner* by that point—but we didn’t know that. It looked scary—gray-skinned, androgynous people with gray prison smocks and shaved heads march in unison into a dark pen glowing a cold blue. On a massive screen that fills one end of the room, a blue-tinted man speaks in a voice like Big Brother about how we are “one people” with “one resolve.” (The blue theme? IBM, nickname Big Blue, was the dominant computer brand at the time and Apple’s clear target.)\n\nThe man’s voice is menacing, and British, as he says, “Today we celebrate the first glorious anniversary of the Information Purification Directives” in a “garden of pure ideology, where each worker may bloom secure from the pests obeying contradictory thoughts.”\n\nAnd then! A woman with perky blond hair, wearing bright red shorts and a white tank top, running, her breasts bouncing as she gets closer and closer and closer to the screen. She carries a sledgehammer, looking like an Olympian. Riot police are chasing her. They’re gaining on her, men wearing gas masks! Finally, as the giant man on the screen hisses, “Our enemies shall talk themselves to death, and we will bury them with their own confusion,” she spins and hurls the sledgehammer in triumph, shattering the screen in a blast of white light.\n\nNo computers are shown in the ad. A voice at the end promises that the Apple Macintosh will make it so that 1984 doesn’t feel like *1984*.\n\nI remember it, but we kids didn’t understand any of it.\n\n![](https://hips.hearstapps.com/hmg-prod/images/bd6ba1e8-b1d6-4b09-b94b-d88c0545b87d.jpg?resize=980:*)\n\ngetty imagesThe iMac, with its spectrum of candy colors and built-in grab handle, made the personal computer *personal *in a new way.\n\nWe played rudimentary games on the IIe after school. We had a black-and-white dot-matrix printer too, with the toothed reels that fed endless reams of perforated paper. The computer—we called it “the computer”—taught us how to print “Banners” with words and pictures on them. The summer of ’84, when you couldn’t turn on the radio without hearing a song from *Born in the U.S.A.*, the first album I ever bought, my brother and I printed a banner that read BRUCE SPRINGSTEIN and hung it on his bedroom wall. We admired it, a banner printed from the computer. Then one of us noticed the spelling mistake. So we just made another one.\n\nIn high school, with money from my summer landscaping job, I bought a Macintosh PowerBook laptop. The design trick on this one was that the keyboard was moved up so that it butted up against the hinge, leaving room for pads for your hands to rest on when you typed. I liked popping out the trackball once a week to clean the gunk out of its bearings.\n\nNew York, late 1990s: I lived above a used-record store in Greenwich Village for $600 a month. With the first paycheck I ever got as a freelance writer, I bought an iMac, the most adorable computer ever made. They came in Fruit Roll-Up colors, and I chose blue, and I tried to be a writer, eating pasta and fending off the roaches and the mice.\n\nFor my thirty-second birthday, my sister gave me an iPhone, the brand-new invention from Apple. A friend of mine at work had one too. “We’ll never be bored again,” he said. He didn’t mean him and me. He meant the human race.\n\nI’ve got old iPods in the drawer somewhere—the Nano, were there others? I’ve tried the Watch. I use iCloud, Apple Music, Apple TV. I use all of it, man. I love it. What do you want me to say. Steve Jobs was a fucking genius. Today Apple turns fifty, and a few days ago I turned fifty-one. Same age, basically. This article is not unbiased.\n\n![](https://hips.hearstapps.com/hmg-prod/images/42822e30-9b35-4119-a0f7-569947c1f513.jpg?crop=1.00xw:0.979xh;0,0&resize=980:*)\n\ngetty imagesSteve Jobs—then *interim *CEO of Apple, after returning from a period of exile—delivers the keynote address at 1998’s MacWorld Expo in front of an image of Pablo Picasso from the “Think Different” campaign.\n\nOn April 1, 1976, Apple Computer Company was registered as a private entity in Santa Clara County, California, by two barely-men and one man: Steven P. Jobs, twenty-one, Electrical Engineering and Marketing; Stephen G. Wozniak, twenty-five, Electrical Engineering; and a man named Ronald G. Wayne, forty-one, Mechanical Engineering and Documentation, who helped them with the paperwork.\n\nWayne patted the guys on the head less than two weeks later and said good luck, took an $800 buyout, and was lost to history. Wozniak was a wizard and is now rich. Jobs changed the world.\n\nAnyway, a month before the high holy day—April 1, 2026—the faithful have come to the West Side of Manhattan to offer hosannas to their creator. Dozens of them—influencers and journalists, but mostly influencers—gather in a slick converted warehouse Apple has rented as an event space so they can witness the revelation of the newest product to be handed down by Apple from on high. They’ve become ritual, these gatherings—in Cupertino, in New York, in London, in Shanghai, executives stand before the eager masses administering the Eucharist, and we eat it up.\n\n![](https://hips.hearstapps.com/hmg-prod/images/6137bb79-9004-4fe2-a78e-029c13ba42f3.jpg?crop=1.00xw:1.00xh;0,0&resize=2048:*)\n\ngetty imagesJohn Lennon and Yoko Ono, two of the crazy ones.\n\nIn the Gilded Age, freight trains huffed along tracks directly into the massive belly of this very building. New York Central trains from the east, the Erie and Lehigh Valley railroads from the west, endless chains of boxcars hauling tons of goods bound to points west. What happened every day within these brick walls, once caked in locomotive soot, was part of a mighty economy built on manufacturing and fueled by sweat. This morning, over the bones of those old tracks stand a hundred or so drivers of a new economy built on what’s called content, the loose definition of which seems to be anything written, filmed, or photographed, including this story, that can be disseminated instantly to the world—the actual whole world—from a smartphone. They sip espresso and eat chia pudding and avocado toastlets provided by Apple until they are ever so gently corralled into a darkened area where they stand before a black stage. They are young and old but mostly young, and they wear Instagrammable hoodies, expensive sneakers, and wool beanies.\n\nNo one talks.\n\nApple staffers talk to one another on headsets.\n\nWe shift from foot to foot.\n\nFinally! The executives from the company walk onto the stage, smiling. They’re so good at this. They talk about a couple kind of exciting things, but we know something bigger is coming, because that’s how they do it.\n\nAnd then they do it, and there’s the payoff: the splashy new product, a slim, peppy, low-cost laptop that comes in four colors including a yellowy one called Citrus. The laptop is named Neo, and when the first image of it fills the giant screen, the creators raise their hands in the air like true believers at a tent revival, their eyes upturned and unblinking and happy. But in their hands are not beads or crosses or the hand of the person next to them but iPhones. They are filming.\n\nThey are, in their way, creating.\n\nFour days ago, the United States and Israel started a war in Iran. But right now, in this cavernous warehouse, an hour of joy is happening. The executives’ presentation is brief, and the creators are invited behind the screen to a playground of Apple products that can be picked up and typed on and cradled and, most importantly, *filmed*. The creators swarm displays of iPhones perched like lollipops on long spindles, Apple Watches arrayed like diamonds, and the Neo itself, in all five too-hip colors. They carry handheld gimbals and they set up tripods. They switch to Selfie Mode and talk through breathless smiles into their phones, pumping content straight to their followers’ eyeballs.\n\nJobs unloading freight trains don’t exist on the West Side of Manhattan anymore. But *these* jobs exist, as paid influencers—improbably, perhaps, but undeniably. They exist everywhere, and they wouldn’t exist without the very company that has pulled into town to show off its wares today. Without the iPhone and the App Store, without cinema-grade cameras that have 8x optical-quality zoom, without Selfie Mode and the social-media platforms that thrive only because the iPhone exists in the first place, there would *be* no professional content creators, and there would be no creator economy. When the Steves launched Apple Computer in 1976, one of Jobs’s stated goals was to help people express themselves using fast, powerful personal technology.\n\nTo today’s generation of influencers, who define the word in a very specific way, creating Apple Computer set Jobs on a path to one day creating creation.\n\n![](https://hips.hearstapps.com/hmg-prod/images/769d0699-45be-4b8c-b0b6-e2e8e7585220.jpg?crop=1xw:0.94xh;0xw,0.06xh&resize=980:*)\n\nGetty ImagesTim Cook, then COO, onstage with Steve Jobs in Cupertino in 2010.\n\n“It’s definitely still his company,” Tim Cook, Apple’s CEO since shortly before Jobs’s death at fifty-six from pancreatic cancer in 2011, says of his relentless predecessor, whose star burned so bright you wonder if he knew it wouldn’t last. It’s the morning after the Neo unveiling in New York, and Cook is sitting in an open café area at Apple’s $5 billion headquarters in Cupertino, California. Only a few fellow employees sit at tables just out of earshot, AirPods in their ears, laptops open, coffee at their elbows. The café is somewhere on the continuum of the grand ring-shaped building, which feels as if it either just landed or is about to take off for its home planet. Outside, through one of the forty-five-foot glass panels that constitute the building’s facade—a foundry in Germany had to build a custom oven to make them—drought-resistant indigenous oak trees, selected by Jobs himself, shade jogging trails and lawns.\n\n“I think about him often—and in the last few months, thinking about the fiftieth anniversary, even more so, honestly,” Cook says. “You think about the things he believed in. He believed in the simple, not the complex. He believed in collaboration, that if you put a small group of people together, the output of that small group would be much greater than any individual among them.”\n\nCook was at Jobs’s house the day he died. As he drove back to the office to announce it to the employees and, in so doing, to the world, he felt a strange kind of shock—strange because Jobs had been sick for so long, had even refused medicine when he was first diagnosed, instead trying to cure the disease with fruit juices, and so there should have been no shock at all.\n\n“By that time, unfortunately, there was an inevitability to it,” Cook says. “But I was in denial for so long about the disease and where it would go, because I had watched him bounce back so many times, I assumed he always would. When I took the CEO role, I thought he was going to be executive chairman forever—that’s what I thought literally six weeks earlier. Looking back, I know somebody could say, How could you think that, given the circumstances? But that’s not the way I was wired in that moment.”\n\nJobs was singular in his earnest belief that technology, at least the kind Apple made, should help people express themselves, create great things, and, as he liked to say, change the world. In 1997, the company worked with the ad agency TBWA/Chiat/Day to create “Think Different,” the advertising campaign credited with changing—elevating—the way consumers thought about Apple. As complicated a person as Jobs was, he understood the power of simplicity, and the ads were simple, showing nothing more than those two words—*Think different*—on a black-and-white photo of a person famous for fomenting positive change with wild ideas—“the crazy ones,” Jobs called them—and the Apple logo. There were ads featuring John Lennon, Albert Einstein, Maria Callas, Pablo Picasso, Martha Graham, Bob Dylan, Jim Henson, and many others.\n\n![](https://hips.hearstapps.com/hmg-prod/images/88a9b470-6476-4191-b38a-2d299438eb67.jpg?resize=2048:*)\n\ngetty imagesTim Cook offers remarks from the Oval Office on August 6, 2025. Cook announced a $100 billion investment in U.S. manufacturing at an event where he also brought President Trump a gift of Corning glass—the company has long made glass for iPhones and Apple Watches—on a 24-karat-gold base.\n\nIt was a great campaign, and I ask Cook about it in the context of the Trump administration, the likes of which Jobs never had to deal with. (This was a few weeks before a *New York Times* investigation alleged that one of the “Think Different” subjects, the late labor activist Cesar Chavez, sexually assaulted women and young girls who worked with him.) Many of the campaign’s subjects, including Dylan, Lennon, Henson, Mahatma Gandhi, and Martin Luther King Jr., are known for actively fighting against war, discrimination in any form, and violent policing. In using them for the campaign, Apple’s message was clear: These human beings represent what we believe and stand for.\n\nBut war, discrimination in many forms, and violent policing are hallmarks of both Trump administrations, and I ask Cook how working with this administration is different from other presidents he has met and worked with.\n\nHe pauses for a moment, then says, “The Trump administration is very accessible.”\n\nIt’s a compliment, which maybe I wasn’t expecting.\n\n“So you can talk with them about your point of view on things. They may not agree, but you can engage. You can be heard. You may not, in the end, be able to convince. But engagement for me, not just in the U.S. but around the world, is so important because it is very complex, working through local laws, local customs, local culture, local regulations. Every country is its own story. Everybody’s looks at things differently. And the only way you get a feel for that is to sit before someone and communicate and engage. If you went in my conference room, you would see the Teddy Roosevelt quote ‘It is not the critic who counts.’ I’ve never believed that just yelling from the sideline about plus or minus was a good strategy. Your voice just goes into the wind.”\n\nI want to tell Cook that I know Apple fans who felt kind of gross—betrayed, even—when they saw him standing behind Trump at the president’s second inauguration, when Cook had donated $1 million to the inauguration fund. At first it just looked weird. Then came the questions: Is this the Apple we know? Is this the Tim Cook we know?\n\n![](https://hips.hearstapps.com/hmg-prod/images/23e1ff03-13fe-47fc-8543-2d3da933ba7d.jpg?crop=1.00xw:0.949xh;0,0.0507xh&resize=2048:*)\n\ngetty imagesCook in front of the Apple Watch, one of the most successful product launches of his tenure as CEO.\n\nThis was our exchange on the subject:\n\n***Esquire:**** Customers can have long memories, and there are Apple customers across the spectrum. Some might see Apple doing something honoring Pride Month and say, “I’m off Apple.” Others might see you at the inauguration and say, “What the—?” I think I have a good understanding of you as a person and your values, and I can say, I’m going to trust that Tim knows what he’s doing, that Apple knows what it’s doing. What is your calculus when it comes to keeping people’s trust in the company, and in you as its leader, whichever way winds are blowing?*\n\n***Tim Cook:**** I think you have to have values that are consistent and that you don’t change those with the wind or with the changes in other people. But I think you should interact and engage with everyone. I’ve interacted with both political parties in the U.S. and the people in the middle. I’ve interacted with governments all around the world, some that I have very different views on. But I think until you engage, you never know—you never understand—where somebody else is coming from. And you have no influence at all.*\n\n*You look at the things that have driven us. I think of it as the “how” we go about our business. We believe in privacy. We’ve gone to the mat on privacy. We think it’s a basic, fundamental human right. *\n\n*We believe in accessibility. We want our products to be used by everyone. If somebody is blind, we want them to be able to use our products. And we don’t do that as an afterthought. It’s embedded in our design process and our creation process. *\n\n*We believe in education because it’s the great equalizer of people. It’s the reason that many of us are where we are, because we were able to combat a modest beginning because of our education. *\n\n*We believe in treating everybody with dignity and respect, and that shows up in a lot of different ways. It shows up in how we interact with each other at work, but it also shows up in how we treat our supplier partners. We have educational programs with our supplier partners to teach them AI, to teach them robotics, to make their lot in life higher. *\n\n*We believe in the environment. We believe in sustainability. We’ve put the whole of the company into lowering our carbon emissions. We’re down 60 percent over the last decade, and that’s despite our revenues being significantly higher. *\n\n*These things can’t move around as the world is moving. They have to stay. They’re our rails—but that doesn’t mean that you don’t communicate and engage with people that have different views. That’s where I always come from, anyway. So you’ll see me everywhere, and you’ll wonder, Oh, he’s meeting with somebody that has a different view than him. I think that’s good. I think it’s good. I think a problem in the world right now is that it’s so polarized and different views aren’t shared or discussed. They just become hardened. And I don’t think that’s good.*\n\n***ESQ:**** So, lest there be any confusion: Your values are the same as the day you got here?*\n\n***Cook:**** Yeah, absolutely. Absolutely. They’re the same.*\n\n![](https://hips.hearstapps.com/hmg-prod/images/36f6d4c2-c747-412e-b455-a5eec1416288.jpg?crop=0.668xw:1.00xh;0.244xw,0&resize=980:*)\n\nCODAIn a scene from the Best Picture–winning *CODA*, one of Apple’s earliest forays into film, a character passes the time.\n\nThe day Cook got here in 1998 he was thirty-eight years old, an operations savant hired away from Compaq. He knew supply chains, production capacities, efficiency, transportation. He seems to be drawing from that experience to steer Apple through the 2026 version of the global economy, an economy riddled with Trump’s tariffs, threats of tariffs, arbitrary tariff increases, arbitrary tariff walk-backs, petulant tariffs, and vindictive tariffs—and now a war that’s choking off supplies of oil and natural gas.\n\nIn August 2025, Cook met Trump in the Oval Office for an announcement that Apple had agreed to an additional $100 billion investment in U.S.-based manufacturing, which apparently swayed Trump to excuse Apple from paying tariffs on chips imported from China. That brought Apple’s total planned investment in U.S. manufacturing to $600 billion. (Apple still ended up paying more than $3 billion in tariffs; a Supreme Court decision reversing the tariffs may mean the company can recoup some of that money.)\n\nCorning has long made glass for iPhones and watches sold in North America, but Apple also announced that Corning would produce all the glass for the fronts and backs of iPhones and Apple Watches *worldwide* at its plant in Harrodsburg, Kentucky, representing a new $2.5 billion investment from Apple—part of the $600 billion.\n\nAlso last summer, the company joined Michigan State University to open the Apple Manufacturing Academy in Detroit, where small and medium-sized businesses can apply to come and learn from Apple and MSU experts about “machine learning and deep learning in manufacturing; automation in the product manufacturing industry; leveraging manufacturing data to improve product quality; applying digital technologies to enhance operations; and more.”\n\nJust before the Apple anniversary, the company announced an expansion of its partnership with Taiwan Semiconductor Manufacturing Co. to increase U.S. chip production at TSMC’s factory in Washington State. It’s part of Apple Silicon, the company’s mission to make and own its chips after relying on Intel chips for several generations, a Steve Jobs dream that Cook has helped the company realize.\n\nI tell Cook that my father, a second-generation American whose grandparents came from Italy, is as staunch a “Buy American” consumer as you’ll find anywhere. He still brings up the time in 2011 when then president Barack Obama reportedly asked Steve Jobs what it would take to make iPhones in the United States, and Jobs is said to have replied, “Those jobs are never coming back.” My dad didn’t like that. If something is made in the U.S.A., my father will drive farther and pay more to buy it.\n\n“My father was very much like that as well,” Cook says. “He was in the shipbuilding business, down in Alabama. He was a supervisor, like a foreman. A blue-collar role. And he very much focused on ‘Buy American.’ ”\n\nHe says my dad would love Harrodsburg: “It’s the classic American small town, a company town. Corning is the anchor of that community, and the jobs that they provide on a multigenerational basis will make your heart sing.”\n\n![](https://hips.hearstapps.com/hmg-prod/images/78a4d3cf-9861-4b6a-8edc-21d2d4167155.jpg?crop=1xw:1xh;center,top&resize=480:*)\n\nFlorence SullivanTim Cook at Grand Central Terminal as part of Apple’s fiftieth-anniversary celebration.\n\nCook and the Apple executive team weren’t sure how they wanted to celebrate the company’s fiftieth birthday, or even whether they wanted to celebrate it at all. I remember feeling the same way about mine. Apple’s not a company that looks backward, or at least it doesn’t want to be known for that. Apple invents the future.\n\nThey decided that fifty is a big number and that they would do it up pretty big. On March 13, the company began staging synchronized buzz-building events around the world featuring musicians, artists, designers, thinkers—Alicia Keys performed a surprise concert at the Apple Store in Grand Central Terminal, and Cook himself showed up. Mumford & Sons played London, Australian artists used Apple technology to project images onto the Sydney Opera House, Mexican actors and filmmakers discussed creativity at an Apple Store in Mexico City, a visual artist transformed a store in Mumbai, a K-pop band played in Seoul…\n\nApril 2, it will be back to work, Greg “Joz” Joswiak, the company’s senior vice president of worldwide marketing, told me. He’s worked at Apple since 1986, and he was in New York for the Neo event. For major product launches, the company’s annual Worldwide Developer Conference, and even this semicentennial, they’ll have a nice day, but the next day is just the next day.\n\nIt was getting close to lunchtime, and Cook and I were still talking in the café, so we walked out into the inner circle, inside the ring, where seven hundred harvestable plum, apricot, and cherry trees and a rippling pond make you feel as if you’re on an idyllic movie-set version of “Apple.” Jobs again chose the tree varietals himself. He grew up only a couple miles from here, and back then there were fruit trees all over, and he wanted that.\n\nI’m asking Cook about Apple’s market cap, which famously topped $3 trillion in 2023 and is now around $3.7 trillion. He’s ready with his answer: “I don’t obsess over the market cap. My focus is on the things that drive users to want to purchase the products. If we put all of ourselves into making the best products and the best services, there will be enough people that want to buy them that we can reap returns, and returns for the shareholders, and invest in the business to do it all again and again and again.”\n\nI believe him, but he makes it sound easy, and not just because of his sweet Alabama voice. The company has had fifty years to learn the rhythms of its own creative process, but great ideas don’t grow on plum trees, and Steve Jobs ain’t about to walk through the door. You need big, stupid, crazy ideas all the time.\n\n“Here’s to the crazy ones,” he says, smiling.\n\nYes, and Apple has gone all in on some crazy disasters—the Lisa computer, the Titan electric car, the Cube. Of course, if you never wipe out, you’re not skiing hard enough. I ask him, essentially, whether Apple has enough crazy ones in its midst.\n\n“You have to recognize that those ideas can come from any employee,” he says. “And users can have great ideas as well. You have to have a ruthless filter, because you can’t do everything. You can’t spread your energy like a peanut-butter spread. If you do, you’ll do nothing at the quality level that we desire. We say no to a thousand things to get to that one thing. If you were to parachute into an Apple meeting, the debates that go on here are just incredible.”\n\nHe pauses, takes a few steps, and shakes his head.\n\n“Incredible,” he says, almost to himself.\n\nIt’s all incredible, as in too much to believe. The whole story. Steve Jobs and Steve Wozniak in the Jobs-family garage soldering circuit boards. That beige, heavy Apple IIe that seemed revolutionary, because it was. The Macintosh. The mouse. Apple’s near irrelevance in the early 1990s, after Jobs was voted out of his own company, and its resurgence after he came back in 1997. Ninety-nine-cent songs. “I’m a Mac.” “And I’m a PC.” Faster chips. Jobs’s death. Apple Watch, Siri, Apple Pay. *Severance*. Neo.\n\nOh and remember trackballs?\n\nAnd the iPod Shuffle?\n\nAnd, oh my God, remember when we all carried iPhones around in our pockets?",
+        "url": "https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-01T19:34:11.000Z",
+        "reading_time": 23,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Hershey Says It Will Shift Back to Classic Recipe for All Reese’s Products After Criticism",
+        "summary": "Hershey said Wednesday it will use classic recipes for all Reese’s products starting next year, a change that comes after the grandson of Reese’s founder [criticized the company](https://apnews.com/ar",
+        "content": "Hershey said Wednesday it will use classic recipes for all Reese’s products starting next year, a change that comes after the grandson of Reese’s founder [criticized the company](https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3) for shifting to cheaper ingredients.\n\nReese’s Peanut Butter Cups have always been made with real milk chocolate or dark chocolate and peanut butter. But a small portion of Hershey’s and Reese’s products, like mini Easter eggs, are now made with a coating that contains less chocolate.\n\nHershey said that in 2027, it will shift those products to “their classic milk chocolate and dark chocolate recipes.”\n\nThe Hershey, Pennsylvania-based company said it will also be making other changes to its sweets portfolio next year, including transitioning to natural colors and enhancing Kit-Kat’s recipe to make it creamier. The company said it plans to increase its research and development funding by 25% next year.\n\n    \n“Hershey is committed to making products consumers love and that means continually reviewing our recipes to meet evolving tastes and preferences,” the company said in a statement.\n\nBrad Reese, the grandson of the inventor of Reese’s Peanut Butter Cups, ignited the controversy in a public letter he sent to Hershey’s corporate brand manager on Valentine’s Day.\n\n“How does The Hershey Co. continue to position Reese’s as its flagship brand, a symbol of trust, quality and leadership, while quietly replacing the very ingredients (Milk Chocolate + Peanut Butter) that built Reese’s trust in the first place?” Reese wrote in the letter, which he posted on his LinkedIn profile.\n\n[Hershey](https://apnews.com/article/chocolate-prices-hershey-lindt-cocoa-tariffs-f597cd39672a05a3cac3b170a5541431) acknowledged some recipe changes but said it was trying to meet consumer demand for innovation. [High cocoa prices](https://apnews.com/article/valentines-day-cocoa-chocolate-prices-candy-904ea9ad0d0fe8c25b4e0366f4dc89e8) also have led Hershey and other manufacturers to experiment with using less chocolate in recent years.\n\nThe Associated Press left a message with Brad Reese on Wednesday seeking comment.\n\nBrad Reese is the grandson of H.B. Reese, who spent two years at Hershey before forming his own candy company in 1919. H.B. Reese invented Reese’s Peanut Butter Cups in 1928; his six sons eventually sold his company to Hershey in 1963.",
+        "url": "https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Product",
+          "Startup"
+        ],
+        "published_at": "2026-04-01T17:39:36.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Marks 50th Anniversary",
+        "summary": "![Rainbow-colored brushstroke illustration of the Apple logo above the headline 50 Years of Thinking Different.](https://www.apple.com/v/home/a/images/apple-50/apple_50_logo__c0ughhy2rfqu_large.png)\n#",
+        "content": "![Rainbow-colored brushstroke illustration of the Apple logo above the headline 50 Years of Thinking Different.](https://www.apple.com/v/home/a/images/apple-50/apple_50_logo__c0ughhy2rfqu_large.png)\n## 50 Years of Thinking Different.\n\nAt 50 years, it’s only natural to look back. But Apple has always looked forward, building tools and delivering experiences that enrich people’s lives. As we celebrate how far we’ve come, we’re inspired by where we’ll go — together.\n\n[![](https://www.apple.com/v/home/a/images/apple-50/apple_50__fijzza13m3qu_rewind.png)](https://www.apple.com/105/media/us/home/2026/84ec8a66-d69d-405e-8c72-b48f7126a119/films/home-films-tpl-us-2026_9x16.m3u8)",
+        "url": "https://www.apple.com/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "2026-04-01T16:39:34.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "On the Vergecast, On Video",
+        "summary": "I finally got the chance to drop by one of my favorite podcasts, The Vergecast, where David Pierce had me on to talk about the recent conversation about [Apple's moves around video podcasts](https://w",
+        "content": "I finally got the chance to drop by one of my favorite podcasts, The Vergecast, where David Pierce had me on to talk about the recent conversation about [Apple's moves around video podcasts](https://www.anildash.com/2026/02/28/apple-video-podcast-power/), as well as the much broader big-picture considerations around keeping podcasts open. We started with grounding the conversation in the idea that [\"Wherever you get your podcasts\" is a radical statement](https://www.anildash.com/2024/02/05/wherever-you-get-podcasts/).\n\nThe episode also starts with a wonderful look back at Apple's first half-century as they celebrate their 50 anniversary, courtesy of Jason Snell, whose [Six Colors](https://sixcolors.com/) is one of my favorite tech sites, and whose annual survey of tech expert sentiment on Apple is indispensable. He's completely fluent in Apple's culture and history, and minces no words about their [recent moral failures](https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/). Definitely worth the watch! I hope you'll check out the entire episode, and let me know what you think, and I'm really glad to get to continue conversations that start on my site and bring them to a broader audience.\n\n*\n\n  \n\n  \n\n  \n\n  \n\n  \n### Cite this post\n\n  \n    APA\n      \n    \n\n    Dash, A. (2026, April 1). On the Vergecast, On Video. Anil Dash*. https://anildash.com/2026/04/01/vergecast-video/\n\n  \n\n  \n    MLA\n      \n    \n\n    Dash, Anil. \"On the Vergecast, On Video.\" *Anil Dash*, 1 Apr. 2026, anildash.com/2026/04/01/vergecast-video/. Accessed .\n\n  \n\n  \n    Chicago\n      \n    \n\n    Dash, Anil. \"On the Vergecast, On Video.\" *Anil Dash*. April 1, 2026. Accessed . https://anildash.com/2026/04/01/vergecast-video/.",
+        "url": "https://anildash.com/2026/04/01/vergecast-video/",
+        "source": "Anil Dash",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-01T00:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "13th Year of Blogging ",
+        "summary": "Of all the days to start a blog, I chose April Fools' Day. It wasn't intentional, maybe more of a reflection of my mindset. When I decide to do something, I shut off my brain and just do it. This was ",
+        "content": "Of all the days to start a blog, I chose April Fools' Day. It wasn't intentional, maybe more of a reflection of my mindset. When I decide to do something, I shut off my brain and just do it. This was a commitment I made without thinking about the long-term effects.\n\nI knew writing was hard, but I didn't know how hard. I knew that maintaining a server was hard, but I didn't know the stress it would cause. Especially that first time I went viral. Seeing traffic pour in, reading back the article, and realizing it was littered with errors. I was scrambling to fix those errors while users hammered my server. I tried restarting it to relieve the load and update the content, but to no avail. It was a stressful experience. One I wouldn't trade for anything in the world.\n\n13 years later, it feels like the longest debugging session I've ever run. Random people message me pointing out bugs. Some of it is complete nonsense. But others... well, I actually sent payment to a user who sent me a proof of concept showing how to compromise the entire server. I thought he'd done some serious hacking, but when I responded, he pointed me to one of my own articles where I had accidentally revealed a vulnerability in my framework.\n\nThe amount you learn from running your own blog can't be replicated by any other means. Unlike other side projects that come and go, the blog has to remain. Part of its value is its longevity. No matter what, I need to make sure it stays online. In the age of AI, it feels like anyone can spin up a blog and fill it with LLM-generated content to rival any established one. But there's something no LLM can replicate: longevity.\n\nNo matter what technology we come up with, no tool can create a 50-year-old oak tree. The only way to have one is to plant a seed and give it the time it needs to grow.\n\nYour very first blog post may not be entirely relevant years later, but it's that seed. Over time, you develop a voice, a process, a personality. Even when your blog has an audience of one, it becomes a reflection of every hurdle you cleared. For me, it's the friction in my career, the lessons I learned, the friends I made along the way. And luckily, it's also the audience that keeps me honest and stops me from spewing nonsense.\n\nNothing brings a barrage of emails faster than being wrong.\n\nMaybe that's why I subconsciously published it on April Fools' Day. Maybe that's the joke. I'm going to keep adding rings to my tree, audience or no audience, I'm building longevity.\n\nThank you for being part of this journey.",
+        "url": "https://idiallo.com/byte-size/blogging-year-13?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Wed, 01 Apr 2026 22:15:39 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GopherTree",
+        "summary": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nWhile gopher is usually seen as a proto-web, it's really closer to FTP.\n\nIt has no markup format, no links and no URLs.\nFiles a",
+        "content": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nWhile gopher is usually seen as a proto-web, it's really closer to FTP.\n\nIt has no markup format, no links and no URLs.\nFiles are arranged in a hierarchically, and can be in any format.\n\n*This rigid structure allows clients to get creative with how it's displayed*...\nwhich is why I'm extremely disappointed that everyone renders gopher menus like shitty websites:\n\n![](https://maurycyz.com/projects/gopher/typical.png)\n\n*You see all that text mixed into the menu?*\nThose are informational selectors: a non-standard feature that's often used to recreate hypertext.\n\nI know this \"limited web\" aesthetic appeals to certain circles, but it removes the things that make the protocol interesting.\n\n*It would be nice to display gopher menus like what they are, a directory tree*:\n\n![](https://maurycyz.com/projects/gopher/gophertree.png)\n\nThis makes it easy to browse collections of files, and help avoid the Wikipedia problem:\nAbsentmindedly clicking links until you realize it's 3 AM and you have a thousand tabs open...\nand that you never finished what you wanted to read in the first place.\n\n*I've made the decision to hide informational selectors by default*.\nThese have two main uses: creating faux hypertext and adding ASCII art banners.\n\nASCII art banners are simply annoying:\nHaving one in each menu looks cute in a web browser, but having 50 copies cluttering up the directory tree is... not great.\n\nHypertext doesn't work well. \nIn the strict sense, looking ugly is better then not working at all —\nbut almost everyone who does this also hosts on the web, so it's not a huge loss.\n\nIf you do find a server that uses them reasonably, they can be renabled with a keyboard shortcut.\n\n*The client also has a built in text viewer*, with pagination and proper word-wrap.\nIt supports both UTF-8 and Latin-1 text encodings, but this has to be selected manually:\ngopher has no mechanism to indicate encoding.\n(but most text looks the same in both)\n\n*Bookmarks* work by writing items to a locally stored gopher menu, which also serves as a \"homepage\" of sorts.\nBecause it's just a file, I didn't bother implementing any advanced editing features:\nany text editor works fine for that.\n\nThe bookmark code is UNIX/Linux specific, but porting should be possible.\n\n*All this fits within a thousand lines of C code*, the same as my ultra-minimal web browser.\nWhile arguably a browser, it was practically unusable: lacking basic features like a back button or pagination.\n\nThe gopher version of the same size is complete enough to replace Lynx as my preferred client.\n\nUsage instructions can be found at the top of the source file.\n\n## *Related:*\n\n- \n\n[/projects/gopher/gophertree.c](https://maurycyz.com/projects/gopher/gophertree.c): Source and instructions\n\n- [/projects/tinyweb/](https://maurycyz.com/projects/tinyweb/): 1000 line web browser\n\n- [https://datatracker.ietf.org/doc/html/rfc1436](https://datatracker.ietf.org/doc/html/rfc1436): Gopher RFC",
+        "url": "https://maurycyz.com/projects/gopher/",
+        "source": "Maurycy's Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Wed, 01 Apr 2026 00:00:00 +0000",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "April Cools Post: New York vs Chicago Pizza",
+        "summary": "Happy April Cools! My not-tech post this year is [Chicago vs New York Pizza is the Wrong Argument](https://www.hillelwayne.com/post/pizza/), which is mostly an excuse for me to talk about Chicago food",
+        "content": "Happy April Cools! My not-tech post this year is [Chicago vs New York Pizza is the Wrong Argument](https://www.hillelwayne.com/post/pizza/), which is mostly an excuse for me to talk about Chicago food. See [here](https://www.aprilcools.club/) for all of the other April Cools submissions. As of this email we have sixteen posts; there's still time to submit something![1](#fn:praveen)\n\nThis one came out of a pizza argument with [Marianne Bellotti](https://www.bellotti.tech/about), a true New Yorker who doesn't think deep dish is real pizza. I wanted to find a new angle on the old argument and this is what I came up with. Interestingly, there's arguably no real New York analog to deep dish (Khatchapuri is kinda similar but doesn't have the same cultural relevance). If I had to pick something to compare deep dish to, it'd be [toasted ravioli](https://en.wikipedia.org/wiki/Toasted_ravioli) (despite that being a appetizer and not an entree).\n\nAlso, I didn't really touch on it in the article, but one of the annoying things about pizza debates is that the most of the Chicago pizza chains *don't serve deep dish*. Instead they do \"stuffed pizzas\". Deep dish is crust, cheese, tomato, while stuffed pizza is crust, cheese, another layer of crust, tomato. It's heavy and more casserole like and they always have way too much cheese. Don't get me wrong, it's still decent, but I think it's a worse kind of pizza overall.\n\nAnyway, the real point of the post is that Chicago's a damn good sausage city. Even the Home Depots here have hot dogs.\n\n    \n\n        \n            *If you're reading this on the web, you can subscribe [here](https://buttondown.com/hillelwayne). Updates are once a week. My main website is [here](https://www.hillelwayne.com/).*\n\n*My new book, *Logic for Programmers*, is now in early access! Get it [here](https://leanpub.com/logic/).*",
+        "url": "https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/",
+        "source": "Computer Things",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Wed, 01 Apr 2026 17:53:29 +0000",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What is Copilot exactly? ",
+        "summary": "A coworker of mine told me that he uses Microsoft Copilot frequently. In fact, he said \"I don't know how I did my work without it.\" That came as a surprise to me. I can't stand Copilot. This is a very",
+        "content": "A coworker of mine told me that he uses Microsoft Copilot frequently. In fact, he said \"I don't know how I did my work without it.\" That came as a surprise to me. I can't stand Copilot. This is a very productive employee, one of those 10x engineers you can throw any problem at and he'll find a solution. Obviously, if he found a use for Copilot, then I was probably holding it wrong.\n\nSo I decided to give it a shot. I put all my prejudice aside and embraced the tool fully. AI is the future, and it shouldn't be hard to find a way to integrate it into my everyday workflow. I decided to give it a week, meaning I wouldn't complain even when I didn't get the result I wanted. Instead, for every frustration, I would use Copilot to help me turn that frown into a smile.\n\nThe result? I created a workflow. I automated a lot of the things I find super annoying: scrum ceremonies, BRD reviews, email writing. All the things I feel like I must do only for someone else to tick a box in their own workflow. After the first week, I decided to extend my trial for a full sprint. By embracing this tool, I felt like I had eliminated my manager's job. Instead of having him check boxes on his end, I could just present my reports at the end of the week. I created a template prompt where I could dump information throughout the day, and at the end of the day it would generate a report in whatever format I wanted.\n\nI was so proud of my template that I shared it with my 10x coworker. He didn't respond with the enthusiasm I was expecting. He didn't understand what I was trying to do. In fact, he told me he had never used Copilot before. That was in direct contradiction of what he'd told me earlier. He was the only reason I gave this tool a shot, and here he was pretending we'd never had that conversation. Well, he clarified:\n\n> \"I meant Copilot on VS Code.\"\n\nNow, can you guess which Copilot I was using? Whatever Copilot is offered through Teams. And I say \"whatever\" because I genuinely don't know which one that is. Is it the same as accessing Copilot on the web? I wouldn't know. Our corporate firewall blocks that one. Teams seems to be the only approved method.\n\nAnyway, what is Copilot exactly? Is it just a white-labeled ChatGPT? When I asked it directly, it said:\n\n> \"It's Microsoft's AI companion, powered by advanced models (including OpenAI's), but shaped by Microsoft's ecosystem, design philosophy, and capabilities.\n\n> If ChatGPT is a powerful engine, Copilot is the full car built around it — with Microsoft's dashboard, safety systems, and features.\"\n\nBut where did the name come from? I'm sure I first heard it in the context of GitHub. The first AI code assistant shipped with VS Code. Even though they're both Microsoft products, they're two distinct products. If you use GitHub Copilot, your data isn't siphoned back to your Microsoft account (for now).\n\nWhat I was using in Teams is **Copilot for Microsoft 365**, which is apparently different from **Microsoft Copilot**. The 365 version lives inside Microsoft 365 apps (that's Microsoft Office's new name, for those not keeping up). The key difference is that the 365 version can work with your emails, documents, OneDrive, and so on.\n\nBut if you have a Windows device, you also have **Windows Copilot**,  distinct from the one in Microsoft 365. This one is your AI assistant inside the OS, meant to help you launch apps, summarize what's on your screen, and handle everyday tasks. In my experience, I couldn't get it to do any of those things. Apparently, I don't have a Copilot+ PC.\n\nReading through Microsoft's docs, I also found something called **Copilot Chat**. It's not quite a distinct product, but I'm not sure how else to classify it. Microsoft describes it as a general-purpose reasoning tool for writing, brainstorming, and coding. You can find it in M365 apps, and also within GitHub Copilot. That's the part that explains code, suggests fixes, and helps with debugging.\n\nI asked Copilot Chat via GitHub Copilot to explain the difference between all the offerings. It summarized it neatly:\n\n> \"Same family, different jobs.\"\n\nI'm only scratching the surface of what Copilot is supposed to be, and I'm already tired. I felt inspired by a developer to explore it, only to find that he was touching just a small slice of this ecosystem. I still think it's worth encouraging teammates to embrace a tool that everyone else is losing sleep over. I should have stopped there, but I wanted to learn more about his workflow. I'm a developer after all, and whatever he's doing would be worth implementing with my team.\n\nSo I asked him. \"What is your developer workflow using Copilot?\" I was not prepared for the answer he gave me:\n\n> \"Actually, I made a mistake. I meant Cursor.\"\n\nAnd there it was. He wasn't talking about Copilot at all. Not the Teams one, not the GitHub one, not any of them. He had used \"Copilot\" the way most people use \"Kleenex\". To him, any AI code assistant was just a copilot. I had spent a whole sprint, struggling through this tool, inspired by someone who couldn't have cared less about Microsoft's ecosystem. There's a lesson there, I'm sure. I just didn't learn anything.",
+        "url": "https://idiallo.com/blog/what-is-copilot-exactly?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "Wed, 01 Apr 2026 12:00:00 GMT",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Summary of reading: January - March 2026",
+        "summary": "- \"Intellectuals and Society\" by Thomas Sowell - a collection of essays in which\nSowell criticizes \"intellectuals\", by which he mostly means left-leaning\nthinkers and opinions. Interesting, though cer",
+        "content": "- \"Intellectuals and Society\" by Thomas Sowell - a collection of essays in which\nSowell criticizes \"intellectuals\", by which he mostly means left-leaning\nthinkers and opinions. Interesting, though certainly very biased. This book\nis from 2009 and focuses mostly on early and mid 20th century; yes, history\ncertainly rhymes.\n\n- \"The Hacker and the State: Cyber Attacks and the New Normal of Geopolitics\"\nby Ben Buchanan - a pretty good overview of some of the the major\ncyber-attacks done by states in the past 15 years. It doesn't go very deep\nbecause it's likely just based on the bits and pieces that leaked to the\npress; for the same reason, the coverage is probably very partial. Still, it's\nan interesting and well-researched book overall.\n\n- \"A Primate's Memoir: A Neuroscientist’s Unconventional Life Among the Baboons\"\nby Robert Sapolsky - an account of the author's years spent researching\nbaboons in Kenya. Only about a quarter of the book is really about baboons,\nthough; mostly, it's about the author's adventures in Africa (some of them\nsurely inspired by an intense death wish) and his interaction with the local\npeoples. I really liked this book overall - it's engaging, educational and\nfunny. Should try more books by this author.\n\n- \"Seeing Like a State\" by James C. Scott - the author attempts to link various\nevents in history to discuss \"Why do well-intentioned plans for improving the\nhuman condition go tragically awry?\"; discussing large state plans like\nscientific forest management, building pre-planned cities and mono-colture\nagriculture. Some of the chapters are interesting, but overall I'm not sure\nI'm sold on the thesis. Specifically, the author mixes in private enterprises\n(like industrial agricultire in the West) with state-driven initiatives in\npuzzling ways.\n\n- \"Karate-Do: My Way of Life\" by Gichin Funakoshi - short autobiography from\nthe founder of modern Shotokan Karate. It's really interesting to find out\nhow recent it all is - prior to WWII, Karate was an obscure art practiced\nmostly in Okinawa and a bit in other parts of Japan. The author played a\ncritical role in popularizing Karate and spreading it out of Okinawa in the\nfirst half of the 20th century. The writing is flowing and succinct - I really\nliked this book.\n\n- \"A Tale of a Ring\" by Ilan Sheinfeld (read in Hebrew) - a multi-generational\nfictional saga of two families who moved from Danzig (today Gdansk in Poland)\nto Buenos Aires in late 19th century, with a touch of magic. Didn't like this\none very much.\n\n- \"The Wide Wide Sea: Imperial Ambition, First Contact and the Fateful Final\nVoyage of Captain James Cook\" by Hampton Sides - a very interesting account\nof Captain Cook's last voyage (the one tasked with finding a northwest passage\naround Canada). The book has a strong focus on his interaction with\nPolynesian peoples along the way, especially on Hawaii (which he was the first\nEuropean to visit).\n\n- \"The Suitcase\" by Sergei Dovlatov - (read in Russian) a collection of short\nstories in Dovlatov's typical humorist style. Very nice little book.\n\n- \"The Second Chance Convenience Store\" by Kim Ho-Yeon - a collection of\nconnected stories centered around a convenience store in Seoul, and an unusual\nnew employee that began working night shifts there. Short and sweet fiction,\nI enjoyed it.\n\n- \"A History of the Bible: The Story of the World's Most Influential Book\" by\nJohn Barton - a very detailed history of the Bible, covering both the old and\nnew testaments in many aspects. Some parts of the book are quite tedious; it's\nnot an easy read. Even though the author tries to maintain a very objective\nand scientific approach, it's apparent (at least for an atheist) that he\nskirts as close as possible to declaring it all nonsense, given that he's\na priest!\n\n- \"Rust Atomics and Locks: Low-Level Concurrency in Practice\" by Mara Bos - an\noverview of low-level concurrency topics using Rust. It's a decent book for\npeople not too familiar with the subject; I personally didn't find it too\ncaptivating, but I do see the possibility of referring to it in the future if\nI get to do some lower-level Rust hacking. A comment on the code samples: it\nwould be nice if the accompanying repository had test harnesses to observe how\nthe code behaves, and some benchmarks. Without this, many claims made in the\nbook feel empty without real data to back them up, and it's challenging to\nplay with the code and see it perform in real life.\n\n- \"Hot Chocolate on Thursday\" by Michiko Aoyama - a bit similar to \"What You Are\nLooking for Is in the Library\" by the same author: connected short stories\nabout ordinary people living their life in Japan (with one detour to\nAustralia). Slightly worse than the previous book, but still pretty good.\n\n- \"The Silmarillion\" by J.R.R. Tolkien - enen though I'm a big LOTR fan, I've\nnever gotten myself to read this one, due to its reputation for being\ndifficult. What changed things eventually (25 years after my first read\nthrough of LOTR) is my kids! They liked LOTR so much that they went straight\nahead to Silmarillion and burned through it as well, so I couldn't stay\nbehind. What can I say, this book is pretty amazing. The amazing thing is how\na book can be both epic and borderline unreadable at the same time :) Tolkien\nreally let himself go with the names here (3-4 new names introduced per page,\non average), names for characters, names for natural features like forests\nand rivers, names for all kinds of magical paraphenalia; names that change in\ntime, different names given to the same thing by different peoples, and on\nand on. The edition I was reading has a helpful name index at the end (42\npages long!) which was very helpful, but it still made the task only\nmarginally easier. Names aside though, the book is undoubtedly monumental; the\nlanguage is outstanding. It's a whole new mythology, Bible-like in scope, all\nsomehow more-or-less consistent (if you remember who is who, of course); it's\nan injustice to see this just as a prelude to the LOTR books. Compared to the\nscope of the Simlarillion, LOTR is just a small speck of a quest told in\ndetail; The Silmarillion - among other things - includes brief tellings of\nat least a dozen stories of similar scope. Many modern book (or TV) series\nbuild whole \"universes\" with their own rules, history and aesthetic. The\nSilmarillion must be considered the OG of this.\n\nRe-reads:\n\n- \"Travels with Charley in Search of America\" by John Steinbeck\n\n- \"Deep Work\" by Cal Newport\n\n- \"The Philadelphia chromosome\" by Jessica Wapner\n\n- \"The Price of Privelege\" by Madeline Levine\n\n            \n            \n\nFor comments, please send me\n[** an email](mailto:eliben@gmail.com).",
+        "url": "https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/",
+        "source": "Eli Bendersky's website",
+        "tags": [
+          "Systems",
+          "Database",
+          "Algorithms"
+        ],
+        "published_at": "2026-04-01T00:34:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Mini-review: David Pogue's Apple: The First 50 Years",
+        "summary": "[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel",
+        "content": "[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s320/Apple+Book+Render.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IXzlgf89iFI9iy4JUTSCV19PGYb3ov76JJe811FyA21qYXMwNDOzUsOrR6xBFNa-LtmMpMfNDY1m70rR7OryuBO6jTpQCVi9TRG3-TQygToDzV2-gG-ERlxFpU3DnN0gZGkZel7_w0vk2sz8nKyalmBmuJSUEdXRE416HgteLDbqQVAWo9iF4zkclSU/s1362/Apple+Book+Render.png)\n\nI almost never buy e-books, but I decided to spring for an electronic copy of David Pogue's [*Apple: The First 50 Years*](https://www.applefirst50.com/) to see if I even wanted to bother with the hardcover. Previously the essential tome on Apple (and especially Mac) history was Owen Linzmeyer's *Apple Confidential*, still on my shelf in the well-thumbed 2.0 paperback. I was prepared to find this book lightweight on the technical side and I expected that it would concentrate far more on Apple the electronics company than Apple the computer company (after all, the cover's a big flippin' clickwheel). I was pleasantly surprised to be wrong. While I'm much less interested in the history of Apple after, say, the Intel transition (because I'm still bitter), over half the book's 540-odd content pages are dedicated to Apple *prior* to Jobs' 1997 return.\n\nFor example, relevant to [our recent article](https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html), Pogue provides a solid discussion of the Apple-1 (including the little-known Computer Conversor 4000) and a lot of nice period photographs of Jobs and Woz working on it. The Apple III segment is extremely well-written, with even a thermal photo of just how hot that darn thing ran, plus a complex discussion of the Lisa and of course many pages on [Jef Raskin and the early Macintosh](https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/). Later on, there's a decent section on Copland and its technical aspects that isn't just a rehash of the Wikipedia article, whereas Linzmeyer mostly considers it from the perspective of the events leading to Jobs' return, and Pogue also gives a small but pithy ELI5 [on OpenDoc](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html) as well. Pogue even has a picture of the *iguana iguana powersurgius* image embedded in the PowerSurge and [Apple Network Server ROMs](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html), and some interesting photographs of early design prototypes of Spartacus, or what would become the Twentieth Anniversary Macintosh. While Pogue doesn't speak much about the [Apple Network Server](https://oldvcr.blogspot.com/search/label/ans), our favourite Apple system here at Floodgap (because one of them used to *serve* Floodgap), he at least namedrops it along with the cancelled Power Mac 9700, though oddly he completely omits any mention of the Workgroup Servers (on the other hand, while Linzmeyer provides the codenames for these systems, neither the 9700 nor \"Power Express\" appear in the earlier text).\n\nAnother notable chapter is \"Moonshots\" (chapter 21). This is aggravatingly brief, but if you ever wanted to see the Cray that John Sculley bought to design the [Aquarius RISC chip](https://tenfourfox.blogspot.com/2019/12/and-now-for-something-completely_29.html), you can see it there (love the purple), along with a nice picture of the Jaguar mockup. Kaleida and Taligent get short perfunctory mentions, but they didn't get a lot of print in Owen's text either, and of course Star Trek gets a decent sidebar. The prototype photographs, in fact, are probably the best reason to buy the book. There's a nice photo of the TIM mockup (a corruption of \"Time To Market\") which used a [Macintosh Portable](https://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html) to run the show, but was in fact the design prototype for the PowerBook 100.  On the other hand, Pogue calls Gary Davidian's early 68K emulator Cognac, but I don't think this is correct: the emulator was part of the RLC (\"RISC LC\") project, and *that* was codenamed Cognac, the renegade group in Apple led by Jack McHenry. Pogue also doesn't mention McHenry nor the RLC's architecture (originally the doomed Motorola 88100, the \"other white meat\"), nor that there were other RLC-like systems based on MIPS and ARM, though I don't know if Davidian's emulator actually ever ran on those. For his part Linzmeyer has a single mention of Cognac, which he lists as the codename for the \"Power Mac project.\"\n\nOther landmarks abound. There is an entire chapter on Newton as well, including a picture of the Cadillac prototype (hi Greg!) with its diffuse infrared system for room-wide data transfer, and which the earlier book doesn't even mention. Pogue also includes the [Interactive Television Box](https://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html), albeit briefly, and a longer bit on the PenLite, two oddball projects similarly missing from Owen's text. In fact, the book even talks about the Swatch project, reportedly based on the Sony PTC-300 PDA and effectively a Mac in a Newton-sized form factor, with colour pictures. The Apple clone manufacturers get their own special section; while Linzmeyer has a more detailed chapter \"The Clone Quandary,\" Pogue's \"Clones\" is pithier and easier to follow. Apple 1990's gadget hounds will like the QuickTake section and pictures of the PowerCD, AppleDesign Powered Speakers (I still use a set with my 7300) and even the Apple combo Mac/fax. There's a nice colour screenshot of eWorld, though Owen's coverage is better, a sidebar on [Magic Cap](https://oldvcr.blogspot.com/search/label/magic%20cap), though I also favour Owen's, and a portion on the Pippin.\n\nWhen Jobs came back, the book got less interesting for me, and I sort of idly paged my way to the end. I don't think there's a lot there people haven't seen, and I was surprised that the famous picture of the [Yosemite G3 acting as an iPhone prototype](https://www.engadget.com/2014-03-26-heres-what-apples-first-hacked-together-iphone-looked-like-an.html) wasn't in the book. He has so many other great pictures you'd think he could manage that one (there is an interesting picture of the creeptastic Face Lab, though). The last couple chapters of the book are so speculative as to be almost useless, which Linzmeyer to his credit didn't even try to address, knowing that the company's history was far from settled.\n\n \nStill, having gone over it electronically, I think I want this in my bookshelf too and I'm going to pick up the hardcover after all. I see some names in the back who have been good friends of this blog in the past and I think that in general is a good testimony of its accuracy and relevance (my brief quibbles above notwithstanding), and as far as the writing style goes, Pogue has always been able to spin a good tech yarn. If he ever decides to do a more detailed dive into it, I'd probably pay decent money since he knows the right people to talk to — I don't know if it would sell but if it's on the order of the quality here, he'd get my bread in a minute. Until that happens, check this one out and see if you agree.",
+        "url": "https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html",
+        "source": "Old Vintage Computing Research",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "2026-04-01T02:17:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "My ramblings are available over gopher",
+        "summary": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nIt has recently come to my attention that people need a thousand lines of C code to read my website.\n\nThis is unacceptable.\n\nFo",
+        "content": "**2026-04-01** ([Programming](https://maurycyz.com/tags/programming/)) \n\nIt has recently come to my attention that people need a thousand lines of C code to read my website.\n\nThis is unacceptable.\n\nFor simpler clients, my server supports gopher:\n\n# telnet maurycyz.com 70\n/about.txt\n--------------------[ About this site: ]---------------------\nPublication date: 2026-02-03\nLast updated:     2026-03-06\n\nYap, yap yap yap yap yap yap yap yap yap yap yap yap yap yap\nyap yap yap yap yap yap yap yap yap yap yap yap yap. Yap yap\nyap yap yap yap yap yap yap yap.\n...\n\nThe response is just a text file: it has no markup, no links and no embedded content.\nFor navigation, gopher uses specially formatted directory-style menus:\n\n# telnet maurycyz.com 70\n/\n0READ ME FIRST                     /gopherinfo.txt  maurycyz.com   70\ni\n1Files..........Programs           /programs.map    maurycyz.com   70\n1               Rock photos        /misc/rocks.map  maurycyz.com   70\ni\n0Cool places....on the web         /real_pages.txt  maurycyz.com   70\n1               on gopher          /gopherholes.map maurycyz.com   70\ni\n1Blog...........Projects           /projects/       maurycyz.com   70\n1               Tutorials          /tutorials/      maurycyz.com   70\n1               Other              /misc/           maurycyz.com   70\n1               Photography        /astro/          maurycyz.com   70\n.\n\nThe first character on a line indicates the type of the linked resource:\n\n  0Plain text\n  1Another directory\n  ...(stuff I don't use)\n  9Binary data\n  IImage\n\nThe type is followed by a tab-separated list containing a display name, file path, hostname and port.\nLines beginning with an \"i\" are purely informational and do not link to anything.\n(This is non-standard, but widely used)\n\n*Storing metadata in links is weird to modern sensibilities*, but it keeps the protocol simple.\nMenus are the only thing that the client has to understand:\nthere's no URLs, no headers, no mime types —\nthe only thing sent to the server is the selector (file path), and the only thing received is the file. \n\n... as a bonus, this one liner can download files:\n\n# 144 kB if you want to try it.\necho /astro/m27/small.jpg | ncat maurycyz.com 70 > nebula.jpg\n\n*That's quite clunky*, but there are lots of programs that support it.\nIf you have Lynx installed, you should be able to just point it at this URL:\n\ngopher://maurycyz.com\n\n... although you will want to put `ASSUME_CHARSET:utf-8` in `/etc/lynx.cfg` because it's not 1991 anymore[Citation Needed]\n\n*I could use informational lines to replicate the webs navigation* by making everything a menu —\nbut that would be against the spirit of the thing:\ngopher is document retrieval protocol, not a hypertext format.\nInstead, I converted all my blog posts in plain text and set up some directory-style navigation.\n\nI've actually been moving away from using inline links anyways because they have two opposing design goals:\nWhile reading, links must be normal text.\nWhen you're done, links must be distinct clickable elements.\n\nI've never been able to find a good compromise:\nLinks are always either distracting to the reader, annoying to find/click, or both.\n\nAlso, *to preempt all the emails*:\n\n## ... what about *Gemini?*\n\n(The protocol, not the autocomplete from google.)\n\nGemini is the popular option for non-web publishing...\nbut honestly, it feels like someone took HTTP and slapped markdown on top of it.\n\nThis is a Gemini request...\n\ngemini://example.com/about.gmi\n\n... and this is an HTTP request:\n\nGET /about.html HTTP/1.0\nHost: maurycyz.com\n\nFor both protocols, the server responds with metadata followed by hypertext.\nIt's true that HTTP is more verbose, but 16 extra bytes doesn't create a noticeable difference.\n\n*Unlike gopher, which has a unique navigation model and is of historical interest*,\nGemini is just the web but with limited features...\nso what's the point?\n\nI can already write websites that don't have ads or autoplaying videos,\nand you can already use browsers that don't support features you don't like.\nAfter stripping away all the fluff (CSS, JS, etc) the web is quite simple:\na functional browser can be put together in a weekend.\n\n... and unlike gemini, doing so won't throw out 35 years of compatibility:\nSomeone with Chrome can read a barebones website, and someone with Lynx can read normal sites.\n\n*Gemini is a technical solution to an emotional problem*.\nMost people have a bad taste for HTTP due to the experience of visiting a commercial website.\n\nGemini is the obvious choice for someone looking for \"the web but without VC types\".\nIt doesn't make any sense when I'm looking for an interesting (and humor­ously outdated) protocol.\n\n## *Related:*\n\n- \n\n  [/projects/tinyweb/](https://maurycyz.com/projects/tinyweb/): A browser in 1000 lines of C ...\n\n  - [/about.html#links](https://maurycyz.com/about.html#links): ... and thoughts on links for navigation.\n\n  - [https://www.rfc-editor.org/rfc/rfc1436.html](https://www.rfc-editor.org/rfc/rfc1436.html): Gopher RFC\n\nhttps://geminiprotocol.net/: Mentioned web alternative\n -->\n  - [https://lynx.invisible-island.net/](https://lynx.invisible-island.net/): Feature complete text-based web browser",
+        "url": "https://maurycyz.com/misc/gopher/",
+        "source": "Maurycy's Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Wed, 01 Apr 2026 00:00:00 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "DRAM pricing is killing the hobbyist SBC market - Today Raspberry Pi announced [more price increases for all Pis with LPDDR4 RAM](https://ww...",
+    "datasette-llm-usage 0.2a0 - > > - Removed features relating to allowances and estimated pricing. These are now the dom...",
+    "Quoting Soohoon Choi - 1st April 2026 > I want to argue that AI models will write good code because of economic i...",
+    "Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade - ![A woman wearing AirPods Max 2 in blue](https://cdn.mos.cms.futurecdn.net/2H6VjvPic3UTDJM...",
+    "Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th - ![Estimated read time](https://www.esquire.com/_assets/design-tokens/fre/static/icons/cloc..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 17
+    },
+    {
+      "word": "com",
+      "count": 15
+    },
+    {
+      "word": "apple",
+      "count": 12
+    },
+    {
+      "word": "april",
+      "count": 8
+    },
+    {
+      "word": "strong",
+      "count": 6
+    },
+    {
+      "word": "github",
+      "count": 6
+    },
+    {
+      "word": "code",
+      "count": 6
+    },
+    {
+      "word": "programming",
+      "count": 6
+    },
+    {
+      "word": "href",
+      "count": 5
+    },
+    {
+      "word": "datasette",
+      "count": 5
+    },
+    {
+      "word": "post",
+      "count": 5
+    },
+    {
+      "word": "www",
+      "count": 5
+    },
+    {
+      "word": "tag",
+      "count": 4
+    },
+    {
+      "word": "datasette-llm",
+      "count": 4
+    },
+    {
+      "word": "numbers",
+      "count": 4
+    },
+    {
+      "word": "cover",
+      "count": 4
+    },
+    {
+      "word": "today",
+      "count": 4
+    },
+    {
+      "word": "years",
+      "count": 4
+    },
+    {
+      "word": "year",
+      "count": 4
+    },
+    {
+      "word": "datasette-extract",
+      "count": 3
+    },
+    {
+      "word": "release",
+      "count": 3
+    },
+    {
+      "word": "releases",
+      "count": 3
+    },
+    {
+      "word": "ul",
+      "count": 3
+    },
+    {
+      "word": "li",
+      "count": 3
+    },
+    {
+      "word": "datasette-enrichments-llm",
+      "count": 3
+    },
+    {
+      "word": "plugin",
+      "count": 3
+    },
+    {
+      "word": "pentagonal",
+      "count": 3
+    },
+    {
+      "word": "triangular",
+      "count": 3
+    },
+    {
+      "word": "video",
+      "count": 3
+    },
+    {
+      "word": "day",
+      "count": 3
+    },
+    {
+      "word": "cms",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "reese",
+      "count": 3
+    },
+    {
+      "word": "chicago",
+      "count": 3
+    },
+    {
+      "word": "pizza",
+      "count": 3
+    },
+    {
+      "word": "copilot",
+      "count": 3
+    },
+    {
+      "word": "blockquote",
+      "count": 2
+    },
+    {
+      "word": "truncated",
+      "count": 2
+    },
+    {
+      "word": "illustrates",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "image",
+      "count": 2
+    },
+    {
+      "word": "st",
+      "count": 2
+    },
+    {
+      "word": "file",
+      "count": 2
+    },
+    {
+      "word": "format",
+      "count": 2
+    },
+    {
+      "word": "days",
+      "count": 2
+    },
+    {
+      "word": "language",
+      "count": 2
+    },
+    {
+      "word": "raises",
+      "count": 2
+    },
+    {
+      "word": "questions",
+      "count": 2
+    },
+    {
+      "word": "answered",
+      "count": 2
+    },
+    {
+      "word": "reading",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "tandy",
+      "count": 2
+    },
+    {
+      "word": "radio",
+      "count": 2
+    },
+    {
+      "word": "shack",
+      "count": 2
+    },
+    {
+      "word": "mark",
+      "count": 2
+    },
+    {
+      "word": "cuban",
+      "count": 2
+    },
+    {
+      "word": "became",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "privacy",
+      "count": 2
+    },
+    {
+      "word": "exactly",
+      "count": 2
+    },
+    {
+      "word": "emdash",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "features",
+      "count": 2
+    },
+    {
+      "word": "gave",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "something",
+      "count": 2
+    },
+    {
+      "word": "pricing",
+      "count": 2
+    },
+    {
+      "word": "estimated",
+      "count": 2
+    },
+    {
+      "word": "datasette-llm-accountant",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "models",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "airpods",
+      "count": 2
+    },
+    {
+      "word": "max",
+      "count": 2
+    },
+    {
+      "word": "esquire",
+      "count": 2
+    },
+    {
+      "word": "hershey",
+      "count": 2
+    },
+    {
+      "word": "classic",
+      "count": 2
+    },
+    {
+      "word": "products",
+      "count": 2
+    },
+    {
+      "word": "logo",
+      "count": 2
+    },
+    {
+      "word": "vergecast",
+      "count": 2
+    },
+    {
+      "word": "podcasts",
+      "count": 2
+    },
+    {
+      "word": "david",
+      "count": 2
+    },
+    {
+      "word": "talk",
+      "count": 2
+    },
+    {
+      "word": "maurycyz",
+      "count": 2
+    },
+    {
+      "word": "tags",
+      "count": 2
+    },
+    {
+      "word": "gopher",
+      "count": 2
+    },
+    {
+      "word": "cools",
+      "count": 2
+    },
+    {
+      "word": "york",
+      "count": 2
+    },
+    {
+      "word": "vs",
+      "count": 2
+    },
+    {
+      "word": "mostly",
+      "count": 2
+    },
+    {
+      "word": "intellectuals",
+      "count": 2
+    },
+    {
+      "word": "sowell",
+      "count": 2
+    }
+  ]
+}
