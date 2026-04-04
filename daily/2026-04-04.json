@@ -1,0 +1,561 @@
+{
+  "date": "2026-04-04",
+  "stats": {
+    "total_fetched": 269,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Kyle Daigle",
+        "summary": "<blockquote cite=\"https://twitter.com/kdaigle/status/2040164759836778878\"><p>[GitHub] platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year i...",
+        "url": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "DevOps"
+        ],
+        "published_at": "2026-04-04T02:20:17.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Welcome to RSS Club!",
+        "summary": "What if I told you there was a secret social network, hidden in plain sight? If you're reading this message, you're now a member of RSS Club! RSS Club is a series of posts which are only visible to RSS / Atom subscribers...",
+        "url": "https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Sat, 04 Apr 2026 11:34:13 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Kalman and Bayes average grades",
+        "summary": "This post will look at the problem of updating an average grade as a very simple special case of Bayesian statistics and of Kalman filtering. Suppose you’re keeping up with your average grade in a class, and you know you...",
+        "url": "https://www.johndcook.com/blog/2026/04/04/kalman-bayes/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sat, 04 Apr 2026 15:00:14 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The AI writing witchhunt is pointless.",
+        "summary": "Alexandre Dumas ran what was essentially a content production house in 19th century Paris. His most famous collaborator was Auguste Maquet, who wrote substantial portions of The Three Musketeers and The Count of Monte Cr...",
+        "url": "https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Sat, 04 Apr 2026 12:01:37 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 04/04/2026",
+        "summary": "Aluminum disruptions, the EV rust belt, the ongoing transformer shortage, SpaceX’s IPO, and more",
+        "url": "https://www.construction-physics.com/p/reading-list-04042026",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Sat, 04 Apr 2026 12:01:48 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-04-04T22:19:02.039Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "What does Open Source mean?",
+        "summary": "Every few months someone declares that “X will kill open source” or that “open source is not sustainable” or that “open source won”, and every time the responses split into factions that seem to be ha",
+        "content": "Every few months someone declares that “X will kill open source” or that “open source is not sustainable” or that “open source won”, and every time the responses split into factions that seem to be having completely different conversations. People have been [pointing](https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html) [this](https://speaking.unlockopen.com/s7Me0Q/what-is-open-source) out for at least a decade. Replacement terms like “post-open source” never stuck, because the problem isn’t the label. The phrase “open source” carries so many meanings that people routinely talk past each other while using the exact same words, each person confident the other is being obtuse when really they’re just working from a different definition.\n\n**A licensing regime.** Software distributed under a license meeting the [Open Source Definition](https://opensource.org/osd): free redistribution, source availability, derived works permitted. The OSI maintains this formal definition, and for a certain kind of conversation it’s the only one that counts.\n\n**A development methodology.** [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) thesis, “given enough eyeballs, all bugs are shallow”, the idea that developing in the open with public revision history and review produces better software. You can have this without the licensing (source-available projects with public repos) and the licensing without this (code-dump releases with no public development process at all). The two definitions are doing different work.\n\n**A business model.** Open core, dual licensing, managed hosting, support contracts, consulting, and the dozen other ways companies try to capture value from code they give away. At the strategic end, this includes open sourcing something specifically to [commoditise a competitor’s differentiator](https://www.gwern.net/Complement), the way Android commoditised mobile operating systems and Kubernetes commoditised container orchestration. These models sit in permanent tension with most other definitions on this list. Open source business arguments tend to go in circles because everyone is talking about different things.\n\n**A supply chain.** The set of packages in your dependency tree, the SBOM, the compliance checklist, a procurement category where the vendor has unusual contractual terms (namely, none). Governments have started treating it the same way, funding programs like Alpha-Omega and the Sovereign Tech Fund because software supply chain security is now a national security concern. The people producing the software are, as they will [remind you](https://www.softwaremaxims.com/blog/not-a-supplier), not your supplier.\n\n**A commons.** What Nadia Eghbal called “[roads and bridges](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/).” Shared infrastructure that everyone depends on but nobody owns. Making the commons visible enough that people might actually help maintain it remains the unsolved problem.\n\n**A political movement.** Free Software’s sibling, or depending on who you ask, its corporate-friendly dilution. User freedom, transparency, power dynamics, who controls computing. People who hold this definition get frustrated with everyone else on this list for treating those concerns as secondary.\n\n**A marketing label.** “We open sourced it” plays well in a press release. Source-available projects call themselves open source for the brand halo, and companies open source a project, collect the community goodwill, then quietly change the license two years later.\n\n**A social identity.** “I’m an open source developer” describes belonging to a scene with its own conferences, norms, status hierarchies, and cultural touchstones. It exists independently of any particular codebase. The career-oriented version treats GitHub profiles as resumes and open source contributions as proof of competence, which quietly advantages people with free time and disadvantages everyone else.\n\n**A governance model.** Who has commit access and how did they earn it? BDFLs, steering committees, foundations, do-ocracy, rough consensus. When a maintainer disappears or a foundation makes an unpopular decision, this is the definition people are arguing about even if they frame it in licensing or business terms.\n\n**A coordination layer.** Neutral ground where companies that compete in the market collaborate on shared infrastructure none of them can justify building alone. The Linux kernel, Kubernetes, and OpenTelemetry all work this way. The foundation politics that surround them make more sense as multi-party coordination problems than as altruistic code sharing.\n\n**A forkability guarantee.** The credible threat of a fork shapes behaviour even when no fork happens, and it disciplines maintainers, companies, and foundations alike. This is why license changes provoke such intense reactions: [OpenTofu](https://opentofu.org/) exists because HashiCorp broke the forkability guarantee, and MariaDB exists because Oracle made people nervous about it. Forkability is one of the few accountability mechanisms open source actually has.\n\n**An innovation diffusion mechanism.** HTTP servers, container runtimes, programming languages: open source is the way standards actually propagate, how technology becomes infrastructure. Nobody coordinates it because open source code can be adopted without negotiation.\n\n**A moral obligation.** “You should open source that” carries real social pressure, sometimes justified and sometimes not, rooted in the idea that if you built on open source you owe something back. This reciprocity norm causes particular friction when it collides with the business model definition, where the whole point is capturing value.\n\n**A research output.** In academia, open source is the reproducibility layer, software as a scholarly artefact with the [FAIR principles](https://www.go-fair.org/fair-principles/) applied to code. This definition barely overlaps with the business or supply chain readings, which is part of why academic open source and industry open source often feel like they’re happening on different planets.\n\n**A free help desk.** People file GitHub issues that are support tickets or feature demands, expecting maintainers to triage, respond, and deliver, and vendor packages into their products expecting indefinite updates without any relationship or contribution flowing back. The issue tracker becomes a customer service portal where the customer paid nothing, and the lockfile becomes an eternal service contract nobody signed. The people holding this definition rarely state it explicitly because they don’t think of it as a definition, they just think that’s how open source works.\n\n**Free infrastructure.** Package registries, CDNs, CI runners, and mirror networks get treated like tap water. npm, PyPI, RubyGems.org, and crates.io all absorb enormous operational costs and traffic while people build entire businesses on top of them without considering who pays for any of it.\n\n**Vibes.** The code is on GitHub. That’s about as far as the thinking goes. Probably the most common usage of the term by volume.\n\nThe help desk and free infrastructure framings are entitlement definitions, “open source” meaning “someone else bears the costs so I don’t have to.” One is about labour, the other about operational infrastructure, and they compound on each other: the person filing a feature request on a registry’s GitHub repo is simultaneously demanding free labour and taking the free infrastructure for granted. These cause the most material harm to the people actually doing the work, and the people holding them don’t recognise them as definitions at all.\n\nHow can the commons also be a supply chain? How can a moral obligation also be a business model? “Open source” is a stack of incompatible expectations. Next time someone says something will kill it, ask them which one. They’re probably right about at least one of them.",
+        "url": "https://nesbitt.io/2026/04/04/what-does-open-source-mean.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Product",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-04T10:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Wander Console 0.4.0",
+        "summary": "By **Susam Pal** on 04 Apr 2026\n\n  Wander Console 0.4.0 is the fourth release of Wander, a small,\n  decentralised, self-hosted web console that lets visitors to your\n  website explore interesting webs",
+        "content": "By **Susam Pal** on 04 Apr 2026\n\n  Wander Console 0.4.0 is the fourth release of Wander, a small,\n  decentralised, self-hosted web console that lets visitors to your\n  website explore interesting websites and pages recommended by a\n  community of independent website owners.  To try it, go\n  to [susam.net/wander/](https://susam.net/wander/).\n\n  ![](https://susam.github.io/blob/img/wander/wander-0.4.0.png)\n  A screenshot of Wander Console 0.4.0\n\n  This release brings a few small additions as well as a few minor\n  fixes.  You can find the previous release pages here:\n  [/code/news/wander/](https://susam.net/code/news/wander/).  The sections below\n  discuss the current release.\n\n## Contents[](#contents)\n\n  - [Wildcard Patterns](#wildcard-patterns)\n\n  - [The 'via' Query Parameter](#the-via-query-parameter)\n\n  - [Console Picker Algorithm](#console-picker-algorithm)\n\n  - [Allow Links that Open in New Tab](#allow-links-that-open-in-new-tab)\n\n  - [Community](#community)\n\n## Wildcard Patterns[](#wildcard-patterns)\n\n  Wander Console now supports wildcard patterns in ignore lists.  An\n  asterisk (`*`) anywhere in an ignore pattern matches zero\n  or more characters in URLs.  For example, an ignore pattern\n  like `https://*.midreadpopup.example/` can be used to\n  ignore URLs such as this:\n\n  - `https://alice.midreadpopup.example/`\n\n  - `https://bob.jones.midreadpopup.example/`\n\n  These ignore patterns are specified in a console's\n  [wander.js](https://susam.net/wander/wander.js) file.  These are\n  very important for providing a good wandering experience to\n  visitors.  The owner of a console decides what links they want to\n  ignore in their ignore patterns.  The ignore list typically contains\n  commercial websites that do not fit the spirit of the small web, as\n  well as defunct or incompatible websites that do not load in the\n  console.  A console with a well maintained ignore list ensures that\n  a visitor to that console has a lower likelihood of encountering\n  commercial or broken websites.\n\n  For a complete description of the ignore patterns, see\n  [Customise\n  Ignore List](https://codeberg.org/susam/wander#customise-ignore-list).\n\n## The 'via' Query Parameter[](#the-via-query-parameter)\n\n  By [popular\n  demand](https://codeberg.org/susam/wander/issues/1#issuecomment-11795493), Wander now adds a `via=` query parameter\n  while loading a recommended web page in the console.  The value of\n  this parameter is the console that loaded the recommended page.  For\n  example, if you encounter [midnight.pub/](https://midnight.pub/)\n  while using the console at [susam.net/wander/](https://susam.net/wander/),\n  the console loads the page using the following URL:\n\n```\nhttps://midnight.pub/?via=https://susam.net/wander/\n```\n\n  This allows the owner of the recommended website to see, via their\n  access logs, that the visit originated from a Wander Console.  While\n  this is the default behaviour now, it can be customised in two ways.\n  The value can be changed from the full URL of the Wander Console to\n  a small identifier that identifies the version of Wander Console\n  used (e.g. `via=wander-0.4.0`).  The query parameter can\n  be disabled as well.  For more details,\n  see [Customise\n  'via' Parameter](https://codeberg.org/susam/wander#customise-via-parameter).\n\n## Console Picker Algorithm[](#console-picker-algorithm)\n\n  In earlier versions of the console, when a visitor came to your\n  console to explore the Wander network, it picked the first\n  recommendation from the list of recommended pages in it\n  (i.e. your `wander.js` file).  But subsequent\n  recommendations came from your neighbours' consoles and then their\n  neighbours' consoles and so on recursively.  Your console (the\n  starting console) was not considered again unless some other console\n  in the network linked back to your console.\n\n  A common way to ensure that your console was also considered in\n  subsequent recommendations too was to add a link to your console in\n  your own console (i.e. in your `wander.js`).  Yes, this\n  created self-loops in the network but this wasn't considered a\n  problem.  In fact, this was considered desirable, so that when the\n  console picked a console from the pool of discovered consoles to\n  find the next recommendation, it considered itself to be part of the\n  pool.  This workaround is no longer necessary.\n\n  Since version 0.4.0 of Wander, each console will always consider\n  itself to be part of the pool from which it picks consoles.  This\n  means that the web pages recommended by the starting console have a\n  fair chance of being picked for the next web page recommendation.\n\n## Allow Links that Open in New Tab[](#allow-links-that-open-in-new-tab)\n\n  The Wander Console loads the recommended web pages in an\n  `<iframe>` element that has sandbox restrictions\n  enabled.  The sandbox properties restrict the side effects the\n  loaded web page can have on the parent Wander Console window.  For\n  example, with the sandbox restrictions enabled, a loaded web page\n  cannot redirect the parent window to another website.  In fact,\n  these days most modern browsers block this and show a warning\n  anyway, but we also block this at a sandbox level too in the console\n  implementation.\n\n  It turned out that our aggressive sandbox restrictions also blocked\n  legitimate websites from opening a link in a new tab.  We decided\n  that opening a link in a new tab is harmless behaviour and we have\n  relaxed the sandbox restrictions a little bit to allow it.  Of\n  course, when you click such a link within Wander console, the link\n  will open in a new tab of your web browser (not within Wander\n  Console, as the console does not have any notion of tabs).\n\n  Although I developed this project on a whim, one early morning while\n  taking a short break from my [ongoing\n  studies](https://susam.net/26c.html) of algebraic graph theory, the subsequent warm\n  reception [on\n  Hacker News](https://news.ycombinator.com/item?id=47422759) and [Lobsters](https://lobste.rs/s/hjipba)\n  has led to a growing community of Wander Console owners.  There are\n  two places where the community hangs out at the moment:\n\n  - \n    New consoles are announced in this thread on Codeberg:\n    [Share Your\n    Wander Console](https://codeberg.org/susam/wander/issues/1).\n  \n\n  - \n    We also have an Internet Relay Chat (IRC) channel\n    named [#wander](http://web.libera.chat/#wander) on the\n    Libera IRC network.  This is a channel for people who enjoy\n    building personal websites and want to talk to each other.  You\n    are welcome to join this channel, share your console URL, link to\n    your website or recent articles as well as share links to other\n    non-commercial personal websites.\n  \n\n  If you own a personal website but you have not set up a Wander\n  Console yet, I suggest that you consider setting one up for\n  yourself.  You can see what it looks like by visiting mine at\n  [/wander/](https://susam.net/wander/).  To set up your\n  own, follow these\n  instructions: [Install](https://codeberg.org/susam/wander#install).\n  It just involves copying two files to your web server.  It is about\n  as simple as it gets.",
+        "url": "https://susam.net/code/news/wander/0.4.0.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Sat, 04 Apr 2026 00:00:00 +0000",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Absurd In Production",
+        "summary": "written on April 04, 2026\n\n  \n\n  About five months ago I wrote about [Absurd](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/), a\ndurable execution system we built for our own use at Earendil, si",
+        "content": "written on April 04, 2026\n\n  \n\n  About five months ago I wrote about [Absurd](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/), a\ndurable execution system we built for our own use at Earendil, sitting entirely\non top of Postgres and Postgres alone.  The pitch was simple: you don’t need a\n[separate](https://hatchet.run/) [service](https://www.inngest.com/), [a\ncompiler plugin](https://useworkflow.dev/), or [an entire\nruntime](https://temporal.io/) to get durable workflows.  You need a SQL file\nand a thin SDK.\n\nSince then we’ve been running it in production, and I figured it’s worth\nsharing what the experience has been like.  The short version: the design\nheld up, the system has been a pleasure to work with, and other people seem\nto agree.\n\n## A Quick Refresher\n\nAbsurd is a durable execution system that lives entirely inside Postgres.\nThe core is a single SQL file\n([absurd.sql](https://github.com/earendil-works/absurd/blob/main/sql/absurd.sql))\nthat defines stored procedures for task management, checkpoint storage, event\nhandling, and claim-based scheduling.  On top of that sit thin SDKs (currently\n[TypeScript](https://www.npmjs.com/package/absurd-sdk),\n[Python](https://pypi.org/project/absurd-sdk/) and an experimental\n[Go](https://github.com/earendil-works/absurd/tree/main/sdks/go/absurd) one)\nthat make the system ergonomic in your language of choice.\n\nThe model is straightforward: you register tasks, decompose them into steps,\nand each step acts as a checkpoint.  If anything fails, the task retries from\nthe last completed step.  Tasks can sleep, wait for external events, and\nsuspend for days or weeks.  All state lives in Postgres.\n\nIf you want the full introduction, the [original blog\npost](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/) covers the fundamentals.  What follows here\nis what we’ve learned since.\n\n## What Changed\n\nThe project got multiple releases over the last five months.  Most of the\nchanges are things you’d expect from a system that people actually started\ndepending on: hardened claim handling, watchdogs that terminate broken workers,\ndeadlock prevention, proper lease management, event race conditions, and all the\nedge cases that only show up when you’re running real workloads.\n\nA few things worth calling out specifically.\n\n**Decomposed steps.**  The original design only had `ctx.step()`, where you pass\nin a function and get back its checkpointed result.  That works well for many\ncases but not all.  Sometimes you need to know whether a step already ran before\ndeciding what to do next.  So we added `beginStep()` / `completeStep()`, which\ngive you a handle you can inspect before committing the result.  This turned out\nto be very useful for modeling intentional failures and conditional logic.\nThis in particular is necessary when working with “before call” and “after call”\ntype hook APIs.\n\n**Task results.**  You can now spawn a task, go do other things, and later\ncome back to fetch or await its result.  This sounds obvious in hindsight, but\nthe original system was purely fire-and-forget.  Having proper result inspection\nmade it possible to use Absurd for things like spawning child tasks from within\na parent workflow and waiting for them to finish.  This is particularly useful\nfor debugging with agents too.\n\n**[absurdctl](https://earendil-works.github.io/absurd/tools/absurdctl/).**  We built this out as a proper CLI tool.  You can initialize\nschemas, run migrations, create queues, spawn tasks, emit events, retry failures\nfrom the command line.  It’s installable via `uvx` or as a standalone binary.\nThis has been invaluable for debugging production issues.  When something is\nstuck, being able to just `absurdctl dump-task --task-id=<id>` and see exactly\nwhere it stopped is a very different experience from digging through logs.\n\n**[Habitat](https://earendil-works.github.io/absurd/tools/habitat/).**  A small Go application that serves up a web dashboard for\nmonitoring tasks, runs, checkpoints, and events.  It connects directly to\nPostgres and gives you a live view of what’s happening.  It’s simple, but it’s\nthe kind of thing that makes the system more enjoyable for humans.\n\n**Agent integration.**  Since Absurd was originally built for agent workloads,\nwe added a bundled skill that coding agents can discover and use to debug\nworkflow state via `absurdctl`.  There’s also a documented pattern for making\n[pi](https://pi.dev/) agent turns durable by logging each message as a\ncheckpoint.\n\n## What Held Up\n\nThe thing I’m most pleased about is that the core design didn’t need to change\nall that much.  The fundamental model of tasks, steps, checkpoints, events, and\nsuspending is still exactly what it was initially.  We added features around it,\nbut nothing forced us to rethink the basic abstractions.\n\nPutting the complexity in SQL and keeping the SDKs thin turned out to be a\ngenuinely good call.  The TypeScript SDK is about 1,400 lines.  The Python SDK\nis about 1,900 but most of this comes from the complexity of supporting colored\nfunctions.  Compare that to Temporal’s Python SDK at around 170,000 lines.  It\nmeans the SDKs are easy to understand, easy to debug, and easy to port.  When\nsomething goes wrong, you can read the entire SDK in an afternoon and understand\nwhat it does.\n\nThe checkpoint-based replay model also aged well.  Unlike systems that require\ndeterministic replay of your entire workflow function, Absurd just loads the\ncached step results and skips over completed work.  That means your code doesn’t\nneed to be deterministic outside of steps.  You can call `Math.random()` or\n`datetime.now()` in between steps and things still work, because only the step\nboundaries matter.  In practice, this makes it much easier to reason about\nwhat’s safe and what isn’t.\n\nPull-based scheduling was the right choice too.  Workers pull tasks from\nPostgres as they have capacity.  There’s no coordinator, no push mechanism, no\nHTTP callbacks.  That makes it trivially self-hostable and means you don’t have\nto think about load management at the infrastructure level.\n\n## What Might Not Be Optimal\n\nI had some discussions with folks about whether the right abstraction should have been\na [durable\npromise](https://www.distributed-async-await.io/specification/programming-model/durable-promise-specification).\nIt’s a very appealing idea, but it turns out to be much more complex to\nimplement in practice.  It’s however in theory also more powerful.  I did make\nsome attempts to see what absurd would look like if it was based on durable\npromises but so far did not get anywhere with it.  It’s however an experiment\nthat I think would be fun to try!\n\n## What We Use It For\n\nThe primary use case is still agent workflows.  An agent is essentially a loop\nthat calls an LLM, processes tool results, and repeats until it decides it’s\ndone.  Each iteration becomes a step, and each step’s result is checkpointed.\nIf the process dies on iteration 7, it restarts and replays iterations 1 through\n6 from the store, then continues from 7.\n\nBut we’ve found it useful for a lot of other things too.  All our crons just\ndispatch distributed workflows with a pre-generated deduplication key from the\ninvocation.  We can have two cron processes running and they will only trigger\none absurd task invocation.  We also use it for background processing that needs\nto survive deploys.  Basically anything where you’d otherwise build your own\nretry-and-resume logic on top of a queue.\n\n## What’s Still Missing\n\nAbsurd is deliberately minimal, but there are things I’d like to see.\n\nThere’s no built-in scheduler.  If you want cron-like behavior, you run your own\nscheduler loop and use idempotency keys to deduplicate.  That works, and we have\na [documented pattern for\nit](https://earendil-works.github.io/absurd/patterns/cron/), but it would be\nnice to have something more integrated.\n\nThere’s no push model.  Everything is pull.  If you need an HTTP endpoint to\nreceive webhooks and wake up tasks, you build that yourself.  I think that’s the\nright default as push systems are harder to operate and easier to overwhelm but\nthere are cases where it would be convenient.  In particular there are quite a\nfew agentic systems where it would be super nice to have webhooks natively\nintegrated (wake on incoming POST request).  I definitely don’t want to have\nthis in the core, but that sounds like the kind of problem that could be a nice\nadjacent library that builds on top of absurd.\n\nThe biggest omission is that it does not support partitioning yet.  That’s\nunfortunate because it makes cleaning up data more expensive than it has to be.\nIn theory supporting partitions would be pretty simple.  You could have weekly\npartitions and then detach and delete them when they expire.  The only thing\nthat really stands in the way of that is that Postgres does not have a\nconvenient way of actually doing that.\n\nThe hard part is not partitioning itself, it’s partition lifecycle management under\nreal workloads.  If a worker inserts a row whose `expires_at` lands in a month\nwithout a partition, the insert fails and the workflow crashes.  So you need a\nseparate maintenance loop that always creates future partitions far enough ahead\nfor sleeps/retries, and does that for every queue.\n\nOn the delete side, the safe approach is `DETACH PARTITION CONCURRENTLY`, but\ngetting that to run from `pg_cron` doesn’t work because it cannot be run within a\ntransaction, but `pg_cron` runs everything in one.\n\nI don’t think it’s an unsolvable problem, but it’s one I have not found a good\nsolution for and I would love [to get input\non](https://github.com/earendil-works/absurd/issues/4).\n\n## Does Open Source Still Matter?\n\nThis brings me a bit to a meta point on the whole thing which is what the point\nof Open Source libraries in the age of agentic engineering is.  Durable\nExecution is now something that plenty of startups sell you.  On the other hand\nit’s also something that an agent would build you and people might not even look\nfor solutions any more.  It’s kind of … weird?\n\nI don’t think a durable execution library can support a company, I really\ndon’t.  On the other hand I think it’s just complex enough of a problem that it\ncould be a good Open Source project void of commercial interests.  You do need a\nbit of an ecosystem around it, particularly for UI and good DX for debugging,\nand that’s hard to get from a throwaway implementation.\n\nI don’t think we have squared this yet, but it’s already much better to use than\na few months ago.\n\nIf you’re using Absurd, thinking about it, or building adjacent ideas, I’d love\nyour feedback. Bug reports, rough edges, design critiques, and contributions are\nall very welcome—this project has gotten better every time someone poked at it\nfrom a different angle.\n\n  \n  This entry was tagged\n    \n      [ai](https://lucumr.pocoo.org/tags/ai/) and \n      [announcements](https://lucumr.pocoo.org/tags/announcements/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/4/4/absurd-in-production.md) / [view](https://lucumr.pocoo.org/2026/4/4/absurd-in-production.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-04-04T00:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Value numbering",
+        "summary": "Welcome back to compiler land. Today we’re going to talk about *value\nnumbering*, which is like SSA, but more.\n\nStatic single assignment (SSA) gives names to values: every expression has a\nname, and e",
+        "content": "Welcome back to compiler land. Today we’re going to talk about *value\nnumbering*, which is like SSA, but more.\n\nStatic single assignment (SSA) gives names to values: every expression has a\nname, and each name corresponds to exactly one expression. It transforms\nprograms like this:\n\n```\nx = 0\nx = x + 1\nx = x + 1\n\n```\n\nwhere the variable `x` is assigned more than once in the program text, into\nprograms like this:\n\n```\nv0 = 0\nv1 = v0 + 1\nv2 = v1 + 1\n\n```\n\nwhere each assignment to `x` has been replaced with an assignment to a new\nfresh name.\n\nIt’s great because it makes clear the differences between the two `x + 1`\nexpressions. Though they textually look similar, they compute different values.\nThe first computes 1 and the second computes 2. In this example, it is not\npossible to substitute in a variable and re-use the value of `x + 1`, because\nthe `x`s are different.\n\nBut what if we see two “textually” identical instructions in SSA? That sounds\nmuch more promising than non-SSA because the transformation into SSA form has\nremoved (much of) the statefulness of it all. When can we re-use the result?\n\nIdentifying instructions that are known at compile-time to always produce the\nsame value at run-time is called *value numbering*. \n\n## Eliminating common subexpressions\n\nTo understand value numbering, let’s extend the above IR snippet with two more\ninstructions, v3 and v4.\n\n```\nv0 = 0\nv1 = v0 + 1\nv2 = v1 + 1\nv3 = v0 + 1  # new\nv4 = do_something(v2, v3)  # new\n\n```\n\nIn this new snippet, v3 looks the same as v1: adding v0 and 1. Assuming our\naddition operation is some ideal mathematical addition, we can absolutely\nre-use v1; no need to compute the addition again. We can rewrite the IR to\nsomething like:\n\n```\nv0 = 0\nv1 = v0 + 1\nv2 = v1 + 1\nv3 = v1\nv4 = do_something(v2, v3)\n\n```\n\nThis is kind of similar to the destructive union-find representation that\nJavaScriptCore and a couple other compilers use, where the optimizer doesn’t\neagerly re-write all uses but instead leaves a little breadcrumb\n`Identity`/`Assign` instruction[1](#fn:cinder).\n\nWe could then run our copy propagation pass (“union-find cleanup”?) and get:\n\n```\nv0 = 0\nv1 = v0 + 1\nv2 = v1 + 1\nv4 = do_something(v2, v1)\n\n```\n\nGreat. But how does this happen? How does an optimizer identify reusable\ninstruction candidates that are “textually identical”? Generally, there is [no\nactual text in the\nIR](https://pointersgonewild.com/2011/10/07/optimizing-global-value-numbering/).\n\nOne popular solution is to compute a hash of each instruction. Then any\ninstructions with the same hash (that also compare equal, in case of\ncollisions) are considered equivalent. This is called *hash-consing*.\n\nWhen trying to figure all this out, I read through a couple of different\nimplementations. I particularly like the [Maxine VM](https://maxine-vm.readthedocs.io/en/stable/) implementation.\nFor example, here is the `valueNumber` (hashing) and `valueEqual`\nfunctions for most binary operations, slightly modified for clarity:\n\n```\npublic abstract class Instruction extends Value { ... }\n\n// The base class for binary operations\npublic abstract class Op2 extends Instruction {\n    // Each binary operation has an opcode and two opearands\n    public final int opcode;  // (IMUL, IADD, ...)\n    Value x;\n    Value y;\n\n    @Override\n    public int valueNumber() {\n        // There are other fields but only opcode, and operands get hashed.\n        // Always set at least one bit in case the hash wraps to zero.\n        return 0x20000000\n        | (opcode\n           + 7  * System.identityHashCode(x)\n           + 11 * System.identityHashCode(y));\n    }\n\n    @Override\n    public boolean valueEqual(Instruction i) {\n        if (i instanceof Op2) {\n            Op2 o = (Op2) i;\n            return opcode == o.opcode && x == o.x && y == o.y;\n        }\n        return false;\n    }\n}\n\n```\n\nThe rest of the value numbering implementation assumes that if a `valueNumber`\nfunction returns 0, it does not wish to be considered for value\nnumbering. Why might an instruction opt-out of value numbering?\n\n## Pure vs impure\n\nAn instruction might opt out of value numbering if it is not “pure”.\n\nSome instructions are not pure. Purity is in the eye of the beholder, but in\ngeneral it means that an instruction does not interact with the state of the\noutside world, except for trivial computation on its operands. (What does it\nmean to de-duplicate/cache/reuse `printf`?)\n\nA load from an array object is also not a pure operation[2](#fn:heap-ssa). The load operation\nimplicitly relies on the state of the memory. Also, even if the array was\nknown-constant, in some runtime\nsystems, the load might raise an exception. Changing the source location where\nan exception is raised is generally frowned upon. Languages such as Java often\nhave requirements about where exceptions are raised codified in their\nspecifications.\n\nWe’ll work only on pure operations for now, but we’ll come back to this later.\nWe do often want to optimize impure operations as well!\n\nWe’ll start off with the simplest form of value numbering, which operates only\non linear sequences of instructions, like basic blocks or traces.\n\n## Local value numbering\n\nLet’s build a small implementation of local value numbering (LVN). We’ll start with\nstraight-line code—no branches or anything tricky.\n\nMost compiler optimizations on control-flow graphs (CFGs) iterate over the\ninstructions “top to bottom”[3](#fn:order) and it seems like we can do the same thing\nhere too.\n\nFrom what we’ve seen so far optimizing our made-up IR snippet, we can do\nsomething like this:\n\n  - initialize a map from instruction numbers to instruction pointers\n\n  - for each instruction `i`\n    \n      if `i` wants to participate in value numbering\n        \n          if `i`’s value number is already in the map, replace all pointers to `i`\nin the rest of the program with the corresponding value from the map\n\n          - otherwise, add `i` to the map\n\n        \n\n      \n    \n  \n\nThe find-and-replace, remember, is not a literal find-and-replace, but instead\nsomething like:\n\n```\ninstr.opcode = \"Assign\"\ninstr.operands[0] = replacement\n\n```\n\nor\n\n```\ninstr.make_equal_to(replacement)\n\n```\n\n(if you have been following along with the [toy optimizer](https://pypy.org/categories/toy-optimizer.html) series)\n\nThis several-line function (as long as you already have a hash map and a\nunion-find available to you) is enough to build local value numbering! And real\ncompilers are built this way, too.\n\nIf you don’t believe me, take a look at this slightly edited snippet from\n[Maxine’s](https://maxine-vm.readthedocs.io/en/stable/) value numbering implementation. It has all of the components\nwe just talked about: iterating over instructions, map lookup, and some\nsubstitution.\n\n```\n// Local value numbering\nBlockBegin block = ...;\nValueMap currentMap = new ValueMap();\nInstructionSubstituter subst = new InstructionSubstituter();\n\n// visit all instructions of this block\nfor (Instruction instr = block.next(); instr != null; instr = instr.next()) {\n    // attempt value numbering (uses valueNumber() and valueEqual())\n    //\n    // return a previous instruction if it exists in the map, or insert the\n    // current instruction into the map and return it\n    Instruction f = currentMap.findInsert(instr);\n    if (f != instr) {\n        // remember the replacement in the union-find\n        subst.setSubst(instr, f);\n    }\n}\n\n```\n\nThis alone will get you pretty far. Code generators of all shapes tend to leave\nmessy repeated computations all over their generated code and this will make\nshort work of them.\n\nSometimes, though, your computations are spread across control flow—over\nmultiple basic blocks. What do you do then?\n\n## Global value numbering\n\nComputing value numbers for an entire function is called *global value\nnumbering* (GVN) and it requires dealing with control flow (if, loops, etc). I\ndon’t just mean that for an entire function, we run local value numbering\nblock-by-block. Global value numbering implies that expressions can be\nde-duplicated and shared across blocks.\n\nLet’s tackle control flow case by case.\n\nFirst is the simple case from above: one block. In this case, we can go top to\nbottom with our value numbering and do alright.\n\n  \n\nThe second case is also reasonable to handle: one block flowing into another. In this\ncase, we can still go top to bottom. We just have to find a way to iterate over\nthe blocks.\n\nIf we’re not going to share value maps between blocks, the order doesn’t\nmatter. But since the point of global value numbering is to share values, we\nhave to iterate them in topological order (reverse post order (RPO)). This\nensures that predecessors get visited before successors. If you have `bb0 ->\nbb1`, we have to visit first `bb0` and then `bb1`.\n\nBecause of how SSA works and how CFGs work, the second block can “look up” into\nthe first block and use the values from it. To get global value numbering\nworking, we have to copy `bb0`’s value map before we start processing `bb1` so\nwe can re-use the instructions.\n\n  \n\nMaybe something like:\n\n```\nvalue_map = ValueMap()\nfor block in function.reverse_post_order():\n    local_value_numbering(block, value_map)\n\n```\n\nThen the expressions can accrue across blocks. `bb1` can re-use the\nalready-computed `Add v0, 1` from `bb0` because it is still in the map.\n\n…but this breaks as soon as you have control-flow splits. Consider the\nfollowing shape graph:\n\n B;\n  A -> C;\n}\n-->\n\n  \n\nWe’re going to iterate over that graph in one of two orders: A B C or A C B. In\neither case, we’re going to be adding all this stuff into the value map from\none block (say, B) that is not actually available to its sibling block (say,\nC).\n\nWhen I say “not available”, I mean “would not have been computed before”. This\nis because we execute either A then B or A then C. There’s no world in which we\nexecute B then C.\n\nBut alright, look at a third case where there is such a world: a control-flow\njoin. In this diagram, we have two predecessor blocks B and C each flowing into\nD. In this diagram, B *always* flows into D and also C *always* flows into D.\nSo the iterator order is fine, right?\n\n B;\n  A -> C;\n  B -> D;\n  C -> D;\n}\n-->\n\n  \n\nWell, still no. We have the same sibling problem as before. B and C still can’t\nshare value maps.\n\nWe also have a weird question when we enter D: where did we come from? If we\ncame from B, we can re-use expressions from B. If we came from C, we can re-use\nexpressions from C. But we cannot in general know which predecessor block we\ncame from.\n\nThe only block we know *for sure* that we executed before D is A. This means we\ncan re-use A’s value map in D because we can guarantee that all execution paths\nthat enter D have previously gone through A.\n\nThis relationship is called a *dominator* relationship and this is the key to\none style of global value numbering that we’re going to talk about in this\npost. A block can always use the value map from any other block that dominates\nit. For completeness’ sake, in the diamond diagram, A dominates each of B and\nC, too.\n\nWe can compute dominators a couple of ways[4](#fn:compute-doms), but that’s a little\nbit out of scope for this blog post. If we assume that we have dominator\ninformation available in our CFG, we can use that for global value numbering.\nAnd that’s just what—you guessed it—Maxine VM does.\n\nIt iterates over all blocks in reverse post-order, doing local value numbering,\nthreading through value maps from dominator blocks. In this case, their method\n`dominator` gets the *immediate dominator*: the “closest” dominator block of\nall the blocks that dominate the current one.\n\n```\npublic class GlobalValueNumberer {\n    final HashMap<BlockBegin, ValueMap> valueMaps;\n    final InstructionSubstituter subst;\n    ValueMap currentMap;\n\n    public GlobalValueNumberer(IR ir) {\n        this.subst = new InstructionSubstituter(ir);\n        // reverse post-order\n        List<BlockBegin> blocks = ir.linearScanOrder();\n        valueMaps = new HashMap<BlockBegin, ValueMap>(blocks.size());\n        optimize(blocks);\n        subst.finish();\n    }\n\n    void optimize(List<BlockBegin> blocks) {\n        int numBlocks = blocks.size();\n        BlockBegin startBlock = blocks.get(0);\n\n        // initial value map, with nesting 0\n        valueMaps.put(startBlock, new ValueMap());\n\n        for (int i = 1; i < numBlocks; i++) {\n            // iterate through all the blocks\n            BlockBegin block = blocks.get(i);\n            BlockBegin dominator = block.dominator();\n\n            // create new value map with increased nesting\n            currentMap = new ValueMap(valueMaps.get(dominator));\n\n            // << INSERT LOCAL VALUE NUMBERING HERE >>\n\n            // remember value map for successors\n            valueMaps.put(block, currentMap);\n        }\n    }\n}\n\n```\n\nAnd that’s it! That’s the core of Maxine’s [GVN implementation](https://github.com/beehive-lab/Maxine-VM/blob/e213a842f78983e2ba112ae46de8c64317bc206e/com.sun.c1x/src/com/sun/c1x/opt/GlobalValueNumberer.java). I\nlove how short it is. For not very much code, you can remove a lot of duplicate\npure SSA instructions.\n\nThis does still work with loops, but with some caveats. From p7 of [Briggs GVN](https://bernsteinbear.com/assets/img/briggs-gvn.pdf):\n\n> The φ-functions require special treatment. Before the compiler can analyze\n> the φ-functions in a block, it must previously have assigned value numbers to\n> all of the inputs. This is not possible in all cases; specifically, any\n> φ-function input whose value flows along a back edge (with respect to the\n> dominator tree) cannot have a value number. If any of the parameters of a\n> φ-function have not been assigned a value number, then the compiler cannot\n> analyze the φ-function, and it must assign a unique, new value number to the\n> result.\n\nIt also talks about eliminating useless phis, which is optional, but would\nthe strengthen global value numbering pass: it makes more information\ntransparent.\n\nBut what if we want to handle impure instructions?\n\n## State management and invalidation\n\nLanguages such as Java allow for reading fields from the `this`/`self` object within\nmethods as if the field were a variable name. This makes code like the\nfollowing common:\n\n```\nclass CPU {\n    private void exec_adc() {\n        int result_int = regA + fetched_data + flagCARRY;\n        byte result = (byte) result_int;\n        // ...\n        int a = result_int ^ regA;\n        int b = result_int ^ fetched_data;\n        // ...\n        regA = result;\n    }\n}\n\n```\n\nEach of these reference to `regA` and `fetched_data` is an implicit reference\nto `this.regA` or `this.fetched_data`, which is semantically a field load off\nan object. You can see it in [the bytecode](https://godbolt.org/#g:!((g:!((g:!((h:codeEditor,i:(filename:'1',fontScale:14,fontUsePx:'0',j:1,lang:java,selection:(endColumn:19,endLineNumber:14,positionColumn:19,positionLineNumber:14,selectionStartColumn:19,selectionStartLineNumber:14,startColumn:19,startLineNumber:14),source:'class+CPU+%7B%0A++++private+void+exec_adc()+%7B%0A++++++++int+result_int+%3D+regA+%2B+fetched_data+%2B+flagCARRY%3B%0A++++++++byte+result+%3D+(byte)+result_int%3B%0A++++++++//+...%0A++++++++int+a+%3D+result_int+%5E+regA%3B%0A++++++++int+b+%3D+result_int+%5E+fetched_data%3B%0A++++++++//+...%0A++++++++regA+%3D+result%3B%0A++++%7D%0A%0A++++int+regA%3B%0A++++int+fetched_data%3B%0A++++int+flagCARRY%3B%0A%7D%0A'),l:'5',n:'0',o:'Java+source+%231',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0'),(g:!((h:compiler,i:(compiler:java2501,filters:(b:'0',binary:'1',binaryObject:'1',commentOnly:'0',debugCalls:'1',demangle:'0',directives:'0',execute:'1',intel:'0',libraryCode:'0',trim:'1',verboseDemangling:'0'),flagsViewOpen:'1',fontScale:14,fontUsePx:'0',j:1,lang:java,libs:!(),options:'',overrides:!(),selection:(endColumn:19,endLineNumber:40,positionColumn:1,positionLineNumber:1,selectionStartColumn:19,selectionStartLineNumber:40,startColumn:1,startLineNumber:1),source:1),l:'5',n:'0',o:'+jdk+25.0.1+(Editor+%231)',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0')),l:'2',n:'0',o:'',t:'0')),version:4) (thanks, Matt Godbolt):\n\n```\nclass CPU {\n  int regA;\n\n  int fetched_data;\n\n  int flagCARRY;\n\n  CPU();\n         0: aload_0\n         1: invokespecial #1                  // Method java/lang/Object.\"<init>\":()V\n         4: return\n\n  private void exec_adc();\n         0: aload_0\n         1: getfield      #7                  // Field regA:I\n         4: aload_0\n         // ...\n        20: getfield      #7                  // Field regA:I\n        23: ixor\n        24: istore_3\n        25: iload_1\n        26: aload_0\n        27: getfield      #13                 // Field fetched_data:I\n        30: ixor\n        31: istore        4\n        33: aload_0\n        34: iload_2\n        35: putfield      #7                  // Field regA:I\n        38: return\n}\n\n```\n\nWhen straightforwardly building an SSA IR from the JVM bytecode for this\nmethod, you will end up with a bunch of IR that looks like this:\n\n```\nv0 = LoadField self, :regA\nv1 = LoadField self, :fetched_data\nv2 = LoadField self, :flagCARRY\nv3 = IntAdd v0, v1\nv4 = IntAdd v3, v2\n// ...\nv7 = LoadField self, :regA\nv8 = IntXor v4, v7\nv9 = LoadField self, :fetched_data\nv10 = IntXor v4, v9\n// ...\nStoreField self, :regA, ...\n\n```\n\nPretty much the same as the bytecode. Even though no code in the middle could\nmodify the field `regA` (which would require a re-load), we still have a\nduplicate load. Bummer.\n\nI don’t want to re-hash this too much but it’s possible to fold [Load and store\nforwarding](https://bernsteinbear.com/blog/toy-load-store/) into your GVN implementation by either:\n\n  - doing load-store forwarding as part of local value numbering and clearing\nmemory information from the value map at the end of each block, or\n\n  - keeping track of effects across blocks\n\nSee, there’s nothing fundamentally stopping you from tracking the state of your\nheap at compile-time across blocks. You just have to do a little more\nbookkeeping. In our dominator-based GVN implementation, for example, you can:\n\n  - track heap write effects for each block\n\n  - at the start of each block B, union all of the “kill” sets for every block\nback to its immediate dominator\n\n  - finally, remove the stuff that got killed from the dominator’s value map\n\nNot so bad.\n\nMaxine doesn’t do global memory tracking, but they do a limited form of\nload-store forwarding while building their HIR from bytecode: see\n[GraphBuilder](https://github.com/beehive-lab/Maxine-VM/blob/e213a842f78983e2ba112ae46de8c64317bc206e/com.sun.c1x/src/com/sun/c1x/graph/GraphBuilder.java#L871) which uses the [MemoryMap](https://github.com/beehive-lab/Maxine-VM/blob/e213a842f78983e2ba112ae46de8c64317bc206e/com.sun.c1x/src/com/sun/c1x/graph/MemoryMap.java) to help track this stuff. At least\nthey would not have the same duplicate `LoadField` instructions in the example\nabove!\n\nWe’ve now looked at one kind of value numbering and one implementation of it.\nWhat else is out there?\n\n## Out in the world\n\nApparently, you can get better results by having a unified hash table (p9 of\n[Briggs GVN](https://bernsteinbear.com/assets/img/briggs-gvn.pdf)) of expressions, not limiting the\nvalue map to dominator-available expressions. Not 100% on how this works yet.\n\nThey note:\n\n> Using a unified hash-table has one important algorithmic consequence.\n> Replacements cannot be performed on-line because the table no longer reflects\n> availability.\n\nWhich is the first time that it occurred to me that hash-based value numbering\nwith dominators was an approximation of available expression analysis.\n\nThere’s also a totally different kind of value numbering called value\npartitioning (p12 of [Briggs GVN](https://bernsteinbear.com/assets/img/briggs-gvn.pdf)). See also a nice\nblog post about this by Allen Wang from the [Cornell compiler\ncourse](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/global-value-numbering/).\nI think this mostly replaces the hashing bit, and you still need some other\nthing for the available expressions bit.\n\nBen Titzer and Seth Goldstein have some good [slides from\nCMU](https://www.cs.cmu.edu/~411/slides/s25-24-gvn-inlining.pdf). Where they\ntalk about the worklist dataflow approach. Apparently this is slower but gets\nyou more available expressions than just looking to dominator blocks. I wonder\nhow much it differs from dominator+unified hash table.\n\nWhile Maxine uses hash table cloning to copy value maps from dominator blocks,\nthere are also compilers such as Cranelift that use\n[scoped hash maps](https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/codegen/src/scoped_hash_map.rs)\nto track this information more efficiently. (Though [Amanieu\nnotes](https://github.com/bytecodealliance/wasmtime/issues/4371#issuecomment-1255956651) that you may\nnot need a scoped hash map and instead can tag values in your value map with the\nblock they came from, ignoring non-dominating values with a quick check. The\ndominance check makes sense but I haven’t internalized how this affects the set\nof available expressions yet.)\n\nYou may be wondering if this kind of algorithm even helps at all in a dynamic\nlanguage JIT context. Surely everything is too dynamic, right? Actually, no!\nThe JIT hopes to eliminate a lot of method calls and dynamic behaviors,\nreplacing them with guards, assumptions, and simpler operations. These strength\nreductions often leave behind a lot of repeated instructions. Just the other\nday, Kokubun filed a [value-numbering-like\nPR](https://github.com/ruby/ruby/pull/16654) to clean up some of the waste.\n\nART has a recent [blog\npost](https://android-developers.googleblog.com/2025/12/18-faster-compiles-0-compromises.html)\nabout speeding up GVN.\n\n### Implementations\n\n  - [ART](https://android.googlesource.com/platform/art/+/refs/heads/main/compiler/optimizing/gvn.cc)\n\n  - [V8 Hydrogen](https://github.com/tekknolagi/v8/blob/f030838700a83cde6992cb8ebcb3facc6a8fc1f1/src/crankshaft/hydrogen-gvn.cc)\n\n  - [HHVM](https://github.com/facebook/hhvm/blob/1a885fae7421c759d70a8ed85aab1defcf5cc68f/hphp/runtime/vm/jit/gvn.cpp)\n\n  - [HotSpot C1](https://github.com/openjdk/jdk/blob/f21e47db805b56d5bf183d7a2cfba076f380612a/src/hotspot/share/c1/c1_ValueMap.cpp#L517)\n\n## Wrapping up; bits and bobbles\n\nGo forth and give your values more numbers.\n\nThere’s been an ongoing discussion with Phil Zucker on SSI, GVN, acyclic\negraphs, and scoped union-find. TODO summarize\n\n### Acyclic e-graphs\n\nCommutativity; canonicalization\n\nSeeding alternative representations into the GVN\n\nAegraphs and union-find during GVN\n\nhttps://github.com/bytecodealliance/rfcs/blob/main/accepted/cranelift-egraph.md\nhttps://github.com/bytecodealliance/wasmtime/issues/9049\nhttps://github.com/bytecodealliance/wasmtime/issues/4371\n\n### Partial redundancy elimination",
+        "url": "https://bernsteinbear.com/blog/value-numbering/?utm_source=rss",
+        "source": "Max Bernstein's Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Sat, 04 Apr 2026 00:00:00 +0000",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/04Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/04/digital-s",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/04Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/04/digital-subjugation/)\n\n## Today's links\n\n- [EU ready to cave to Trump on tech](https://pluralistic.net/2026/04/04/digital-subjugation/#greenlands-next): Surrendermonkeys ahoy.\n\n- [Hey look at this](https://pluralistic.net/2026/04/04/digital-subjugation/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/04/digital-subjugation/#retro): \"Among a Thousand Fireflies\"; \"fiscal\" not \"physical\"; Ontario's pusher premiere can't distribute vaccines; You need your head examined (if you trust an AI therapist); Women tell Pence about their periods; Zombie economy and digital arm-breakers; The trouble with tariffs.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/04/digital-subjugation/#upcoming): Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/04/digital-subjugation/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/04/digital-subjugation/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/04/digital-subjugation/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/04/digital-subjugation/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/eurostack-trump.jpg?w=840&ssl=1)\n\n## EU ready to cave to Trump on tech ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#greenlands-next))\n\nCrises precipitate change. That's no reason to induce a crisis, but you'd be a fool to let a crisis go to waste. Donald Trump is the greatest crisis of our young century, and the EU looks set to squander the opportunity, to its own terrible detriment.\n\nFor more than a decade, it's been clear that the American internet was not fit for purpose. The whistleblowers Mark Klein and Edward Snowden revealed that the US had weaponized its status as the world's transoceanic fiber-optic hub to spy on the entire planet:\n\n[https://doctorow.medium.com/https-pluralistic-net-2025-11-26-difficult-multipolarism-eurostack-5a527c32f149](https://doctorow.medium.com/https-pluralistic-net-2025-11-26-difficult-multipolarism-eurostack-5a527c32f149)\n\nUS tech giants flouted privacy laws, gleefully plundering the world's cash and data with products that they remorselessly enshittified:\n\n[https://pluralistic.net/2026/01/30/zucksauce/#gandersauce](https://pluralistic.net/2026/01/30/zucksauce/#gandersauce)\n\nAmerican companies repurposed their over-the-air software update capabilities to remotely brick expensive machinery in service to geopolitical priorities:\n\n[https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/](https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/)\n\nThen Trump and his tech companies started attacking key public institutions around the world, shutting down access for senior judges who attempted to hold Trump's international authoritarian allies to account for their crimes:\n\n[https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics](https://pluralistic.net/2025/10/20/post-american-internet/#huawei-with-american-characteristics)\n\nIf Trump wants to steal Greenland, he doesn't need tanks or missiles. He can just tell Microsoft and Oracle to brick the entire Danish state and all of its key firms, blocking their access to their email archives, files, databases, and other key administrative tools. If Denmark *still* holds out, Trump can brick all their tractors, smart speakers, and phones. If Denmark *still* won't give up Greenland, Trump could blackhole all Danish IP addresses for the world's majority of transoceanic fiber. At the click of a mouse, Trump could shut down the world's supply of Lego, Ozempic, and delicious, lethally strong black licorice.\n\nNow, these latent offensive capabilities were obvious long before Trump, but the presidents who weaponized them in the pre-Trump era did so in subtle and deniable ways, or under a state of exception (e.g. in response to spectacular terrorist attacks or in the immediate aftermath of the Russian invasion of Ukraine) that let bystanders assure themselves that this wouldn't become a routine policy.\n\nAfter all, America profited *so much* from the status quo in which America and its trading partners all pretended that US tech wouldn't be weaponized for geopolitical aims, so a US president would be a fool to shatter the illusion. And even if the president was so emotionally incontinent that he demanded the naked weaponization of America's defective, boobytrapped tech exports, the power blocs that the president relies on would stop him, because they are so marinated in the rich broth that America drained from the world using Big Tech.\n\nThis is \"status quo bias\" in action. No one wants to let go of the vine they're swinging from until they have a new vine firmly in their grasp – but you can't reach the next vine unless you release your death-grip on your current one. So it was that, year after year, the world allowed itself to become *more* dependent on America's easily weaponizable tech, making the tech both *more* dangerous *and* harder to escape.\n\nEnter Trump (a crisis) (and crises precipitate change). Under Trump, the illusion of a safe interdependence crumbled. Every day, in new and increasingly alarming ways, Trump makes it clear that America doesn't have allies or trading partners, only adversaries and rivals. Every day, Trump proves to the world that American tech isn't merely *untrustworthy* – it's a live, dire, urgent danger to your state, your companies, and your people. The best time to get shut of the American internet was 15 years ago. The second best time is *right fucking now*.\n\n*NOW!*\n\nThe result is the burgeoning movement to build a \"post-American internet.\" In Canada, PM Mark Carney's announcement of a \"rupture\" has the country rethinking its deep connections to the American internet and asking what it could do to escape it:\n\n[https://pluralistic.net/2026/01/27/i-want-to-do-it/#now-make-me-do-it](https://pluralistic.net/2026/01/27/i-want-to-do-it/#now-make-me-do-it)\n\nEurope, meanwhile, has multiple, advanced, well-funded initiatives to leave the American internet behind and migrate to a post-American internet, like \"Eurostack\" and the European Digital Infrastructure Consortium:\n\n[https://digital-strategy.ec.europa.eu/en/policies/edic](https://digital-strategy.ec.europa.eu/en/policies/edic)\n\nBut status quo bias exerts a powerful gravity. A reactionary counterrevolution is being waged in the European Commission – the permanent bureaucracy that executes Europe's laws and regulations. Within the EC, an ascendant faction has announced plans for a \"dialogue\" with representatives from the Trump regime to let them direct the enforcement of the Digital Markets Act (DMA) and Digital Services Act (DSA), Europe's landmark 2024 anti-Big Tech regulations:\n\n[https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/](https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/)\n\nThe DMA and DSA require America's tech giants to open up their platforms in ways that would halt the plunder of Europeans' private data and cash. US tech giants have flatly refused to comply with these rules, relying on Trump to get them out of any obligations under EU law:\n\n[https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers](https://pluralistic.net/2025/09/26/empty-threats/#500-million-affluent-consumers)\n\nThat's a sound bet. After all, the last thing Trump did before his inauguration was publicly announce his intention to destroy any country that attempted to enforce these laws:\n\n[https://www.nytimes.com/2025/01/23/us/politics/trump-davos-europe-tariffs.html](https://www.nytimes.com/2025/01/23/us/politics/trump-davos-europe-tariffs.html)\n\nHe's making good on his threats. He's already sanctioned a group of officials who helped draft the DSA:\n\n[https://www.npr.org/2025/12/24/nx-s1-5655855/trump-administration-bars-5-europeans-from-entry-to-the-u-s-over-alleged-censorship](https://www.npr.org/2025/12/24/nx-s1-5655855/trump-administration-bars-5-europeans-from-entry-to-the-u-s-over-alleged-censorship)\n\nAnd he's ordered his tech companies to turn over the private emails and messages of other European officials, so he can identify the ones most dangerous to US tech plunder and sanction *them*, too:\n\n[https://www.politico.eu/article/us-congress-judiciary-committee-big-tech-private-communication-eu-officials/](https://www.politico.eu/article/us-congress-judiciary-committee-big-tech-private-communication-eu-officials/)\n\nThe quislings and appeasers in the Commission who've been spooked by Trump's belligerence (or tempted by offers of cushy jobs in Big Tech after they leave public service) are selling out the EU's future. Caving to Trump won't make him more favorably disposed to Europe or Europeans. Trump treats every capitulation as a sign of weakness that signals that he can safely ignore his end of the bargain and demand twice as much. For Trump, the \"art of the deal\" can be summed up in one word: *reneging*.\n\nWithin the EU, there's fury at the Commission's announcement of \"dialogue.\" As *Politico*'s Milena Wälde reports, lawmakers like Alexandra Geese (Greens) say that this is a move that eliminates the \"sovereign path for Europe\" by letting tech giants \"grade their own homework.\" She calls it a \"fatal decision for our companies and our democracy.\"\n\nMoving to the post-American internet *is* hard – but it will only get harder. Sure, Europe could wait for the next crisis to let go of the Big Tech vine and grab the Eurostack one, but that next crisis will be far, far worse. The EU can't afford to wait for Trump to brick one or more of its member states to (finally, at long last) take this threat seriously:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- The Far-Right Cash Machine [https://prospect.org/2026/04/02/apr-2026-magazine-far-right-cash-machine-racist-crowdfunding/](https://prospect.org/2026/04/02/apr-2026-magazine-far-right-cash-machine-racist-crowdfunding/)\n\n- \nHomocore Anthology [https://www.flukemags.com/product/homocore](https://www.flukemags.com/product/homocore)\n\n- \nLessons from History: The DOJ vs Microsoft [https://open-web-advocacy.org/blog/our-submission-to-the-cma-on-apples-ios-interoperability-commitments/#3-lessons-from-history-the-doj-vs-microsoft](https://open-web-advocacy.org/blog/our-submission-to-the-cma-on-apples-ios-interoperability-commitments/#3-lessons-from-history-the-doj-vs-microsoft)\n\n- \nData Sharing and Syndication Remedies in US v Google [https://insights.sumitsharma.consulting/p/google-search-remedies-implementation?hide_intro_popup=true](https://insights.sumitsharma.consulting/p/google-search-remedies-implementation?hide_intro_popup=true)\n\n- \nWho Goes AI? [https://www.todayintabs.com/p/who-goes-ai](https://www.todayintabs.com/p/who-goes-ai)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#retro))\n\n#10yrsago Among a Thousand Fireflies: children’s book shows the sweet, alien love stories unfolding in our own backyards [https://memex.craphound.com/2016/04/01/among-a-thousand-fireflies-childrens-book-shows-the-sweet-alien-love-stories-unfolding-in-our-own-backyards/](https://memex.craphound.com/2016/04/01/among-a-thousand-fireflies-childrens-book-shows-the-sweet-alien-love-stories-unfolding-in-our-own-backyards/)\n\n#10yrsago After biggest bribery scandal in history, police raids and investigations [https://www.smh.com.au/business/police-raids-and-more-revelations-the-fallout-of-the-unaoil-scandal-20160401-gnw9mx.html](https://www.smh.com.au/business/police-raids-and-more-revelations-the-fallout-of-the-unaoil-scandal-20160401-gnw9mx.html)\n\n#10yrsago Bernie Sanders’ South Bronx rally, featuring Rosario Dawson, Spike Lee, and Residente [https://www.c-span.org/program/campaign-2016/senator-bernie-sanders-campaign-rally-in-south-bronx/437114](https://www.c-span.org/program/campaign-2016/senator-bernie-sanders-campaign-rally-in-south-bronx/437114)\n\n#10yrsago Freshman Missouri Rep almost made it 3 months before introducing bill urging members to say “fiscal,” not “physical” [https://www.washingtonpost.com/news/the-fix/wp/2016/03/31/hero-lawmaker-urges-colleagues-to-stop-saying-physical-when-they-mean-fiscal/](https://www.washingtonpost.com/news/the-fix/wp/2016/03/31/hero-lawmaker-urges-colleagues-to-stop-saying-physical-when-they-mean-fiscal/)\n\n#10yrsago Indiana women phone the governor’s office to tell him about their periods [https://web.archive.org/web/20160401170206/https://fusion.net/story/286941/periods-for-pence-indiana-women-calling-governor/](https://web.archive.org/web/20160401170206/https://fusion.net/story/286941/periods-for-pence-indiana-women-calling-governor/)\n\n#10yrsago United pilot orders Arab-American family off his flight for “safety” [https://www.nbcchicago.com/news/national-international/united-airlines-arab-american-plane/58370/](https://www.nbcchicago.com/news/national-international/united-airlines-arab-american-plane/58370/)\n\n#10yrsago 33 state Democratic parties launder $26M from millionaires for Hillary [https://www.counterpunch.org/2016/04/01/how-hillary-clinton-bought-the-loyalty-of-33-state-democratic-parties/](https://www.counterpunch.org/2016/04/01/how-hillary-clinton-bought-the-loyalty-of-33-state-democratic-parties/)\n\n#10yrsago White SC cops pull black passenger out of car, take turns publicly cavity-searching him [https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/](https://www.washingtonpost.com/news/the-watch/wp/2016/04/01/video-shows-white-cops-performing-roadside-cavity-search-of-black-man/)\n\n#5yrsago The zombie economy and digital arm-breakers  [https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers](https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers)\n\n#5yrsago Ontario's drug-dealer premier is shockingly bad at distributing vaccines [https://pluralistic.net/2021/04/01/incompetent-drug-dealer/#what-a-dope](https://pluralistic.net/2021/04/01/incompetent-drug-dealer/#what-a-dope)\n\n#5yrsago The zombie economy and digital arm-breakers  [https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers](https://pluralistic.net/2021/04/02/innovation-unlocks-markets/#digital-arm-breakers)\n\n#1yrago What's wrong with tariffs [https://pluralistic.net/2025/04/02/me-or-your-lying-eyes/#spherical-cows-on-frictionless-surfaces](https://pluralistic.net/2025/04/02/me-or-your-lying-eyes/#spherical-cows-on-frictionless-surfaces)\n\n#1yrago What's wrong with tariffs [https://pluralistic.net/2025/04/02/me-or-your-lying-eyes/#spherical-cows-on-frictionless-surfaces](https://pluralistic.net/2025/04/02/me-or-your-lying-eyes/#spherical-cows-on-frictionless-surfaces)\n\n#1yrago Anyone who trusts an AI therapist needs their head examined [https://pluralistic.net/2025/04/01/doctor-robo-blabbermouth/#fool-me-once-etc-etc](https://pluralistic.net/2025/04/01/doctor-robo-blabbermouth/#fool-me-once-etc-etc)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: Humber Polytechnic President's Lecture Series, Apr 8\n\n[https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html](https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nToronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#recent))\n\n- Do you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n- \nTanner Humanities Lecture (U Utah)\n\n[https://www.youtube.com/watch?v=i6Yf1nSyekI](https://www.youtube.com/watch?v=i6Yf1nSyekI)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/04/digital-subjugation/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/04/digital-subjugation/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "Cloud"
+        ],
+        "published_at": "Sat, 04 Apr 2026 07:49:19 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "What does Open Source mean? - Every few months someone declares that “X will kill open source” or that “open source is n...",
+    "Wander Console 0.4.0 - By **Susam Pal** on 04 Apr 2026 Wander Console 0.4.0 is the fourth release of Wander, a sm...",
+    "Absurd In Production - written on April 04, 2026 About five months ago I wrote about [Absurd](https://lucumr.poco...",
+    "Value numbering - Welcome back to compiler land. Today we’re going to talk about *value numbering*, which is...",
+    "Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "rss",
+      "count": 4
+    },
+    {
+      "word": "open",
+      "count": 4
+    },
+    {
+      "word": "source",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "club",
+      "count": 3
+    },
+    {
+      "word": "average",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "wander",
+      "count": 3
+    },
+    {
+      "word": "console",
+      "count": 3
+    },
+    {
+      "word": "apr",
+      "count": 3
+    },
+    {
+      "word": "billion",
+      "count": 2
+    },
+    {
+      "word": "welcome",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "reading",
+      "count": 2
+    },
+    {
+      "word": "kalman",
+      "count": 2
+    },
+    {
+      "word": "grade",
+      "count": 2
+    },
+    {
+      "word": "re",
+      "count": 2
+    },
+    {
+      "word": "production",
+      "count": 2
+    },
+    {
+      "word": "wrote",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "months",
+      "count": 2
+    },
+    {
+      "word": "absurd",
+      "count": 2
+    },
+    {
+      "word": "value",
+      "count": 2
+    },
+    {
+      "word": "numbering",
+      "count": 2
+    },
+    {
+      "word": "ssa",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
