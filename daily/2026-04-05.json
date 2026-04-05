@@ -1,0 +1,640 @@
+{
+  "date": "2026-04-05",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "scan-for-secrets 0.2",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.2\">scan-for-secrets 0.2</a></p> <ul> <li>CLI tool now streams results as they are found rather than waiting until the end, w...",
+        "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-05T04:07:13.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "scan-for-secrets 0.1.1",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.1.1\">scan-for-secrets 0.1.1</a></p> <blockquote> <ul> <li>Added documentation of the escaping schemes that are also scanned....",
+        "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-04-05T03:39:33.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Someone at BrowserStack is Leaking Users' Email Address",
+        "summary": "Like all good nerds, I generate a unique email address for every service I sign up to. This has several advantages - it allows me to see if a message is legitimately from a service, if a service is hacked the hackers can...",
+        "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Sun, 05 Apr 2026 11:34:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-05T22:20:05.374Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Chengpeng Mou",
+        "summary": "5th April 2026\n\n> From anonymized U.S. ChatGPT data, we are seeing:\n\n> \n> - ~2M weekly messages on health insurance\n\n> - ~600K weekly messages [classified as healthcare] from people living in “hospita",
+        "content": "5th April 2026\n\n> From anonymized U.S. ChatGPT data, we are seeing:\n\n> \n> - ~2M weekly messages on health insurance\n\n> - ~600K weekly messages [classified as healthcare] from people living in “hospital deserts” (30 min drive to nearest hospital)\n\n> - 7 out of 10 msgs happen outside clinic hours\n\n> \n\n— [Chengpeng Mou](https://twitter.com/cpmou2022/status/2040606209800290404), Head of Business Finance, OpenAI\n\nPosted [5th April 2026](https://simonwillison.net/2026/Apr/5/) at 9:47 pm\n\n## Recent articles\n\n  \n    - [The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/) - 3rd April 2026\n\n  \n    - [Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/) - 2nd April 2026\n\n  \n    - [Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](https://simonwillison.net/2026/Mar/30/mr-chatterbox/) - 30th March 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [5th April 2026](https://simonwillison.net/2026/Apr/5/).\n\n    \n        [\n            ai\n            1948\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            openai\n            404\n        ](https://simonwillison.net/tags/openai/)\n    \n        [\n            generative-ai\n            1729\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            chatgpt\n            192\n        ](https://simonwillison.net/tags/chatgpt/)\n    \n        [\n            llms\n            1696\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            ai-ethics\n            287\n        ](https://simonwillison.net/tags/ai-ethics/)",
+        "url": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-05T21:47:06.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Syntaqlite Playground",
+        "summary": "Lalit Maganti's [syntaqlite](https://github.com/LalitMaganti/syntaqlite) is currently being discussed [on Hacker News](https://news.ycombinator.com/item?id=47648828) thanks to [Eight years of wanting,",
+        "content": "Lalit Maganti's [syntaqlite](https://github.com/LalitMaganti/syntaqlite) is currently being discussed [on Hacker News](https://news.ycombinator.com/item?id=47648828) thanks to [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/), a deep dive into how it was built.\n\nThis inspired me to revisit [a research project](https://github.com/simonw/research/tree/main/syntaqlite-python-extension#readme) I ran when Lalit first released it a couple of weeks ago, where I tried it out and then compiled it to a WebAssembly wheel so it could run in Pyodide in a browser (the library itself uses C and Rust).\n\nThis [new playground](https://tools.simonwillison.net/syntaqlite) loads up the Python library and provides a UI for trying out its different features: formating, parsing into an AST, validating, and tokenizing SQLite SQL queries.\n\n![Screenshot of a dark-themed SQL validation playground called SyntaqLite. The \"Validate\" tab is selected from options including Format, Parse, Validate, and Tokenize. The SQL input contains \"SELECT id, name FROM usr WHERE active = 1\" with a schema defining \"users\" and \"posts\" tables. Example buttons for \"Table typo\", \"Column typo\", and \"Valid query\" are shown above a red \"Validate SQL\" button. The Diagnostics panel shows an error for unknown table 'usr' with the suggestion \"did you mean 'users'?\", and the JSON panel displays the corresponding error object with severity, message, and offset fields.](https://static.simonwillison.net/static/2026/syntaqlite-playground.jpg)\n\n**Update**: not sure how I missed this but [syntaqlite has its own WebAssembly playground](https://playground.syntaqlite.com/#p=sqlite-basic-select) linked to from the README.",
+        "url": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-04-05T19:32:59.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "research-llm-apis 2026-04-04",
+        "summary": "I'm working on a [major change](https://github.com/simonw/llm/issues/1314) to my LLM Python library and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of diffe",
+        "content": "I'm working on a [major change](https://github.com/simonw/llm/issues/1314) to my LLM Python library and CLI tool. LLM provides an abstraction layer over hundreds of different LLMs from dozens of different vendors thanks to its plugin system, and some of those vendors have grown new features over the past year which LLM's abstraction layer can't handle, such as server-side tool execution.\n\nTo help design that new abstraction layer I had Claude Code read through the Python client libraries for Anthropic, OpenAI, Gemini and Mistral and use those to help craft `curl` commands to access the raw JSON for both streaming and non-streaming modes across a range of different scenarios. Both the scripts and the captured outputs now live in this new repo.",
+        "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-05T00:32:11.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Material Security",
+        "summary": "## Stop email attacks, protect sensitive data, and simplify your security operations\n\nMaterial Security provides unified protection for Google Workspace and Microsoft 365, combining threat detection a",
+        "content": "## Stop email attacks, protect sensitive data, and simplify your security operations\n\nMaterial Security provides unified protection for Google Workspace and Microsoft 365, combining threat detection and response across email, files, and accounts. With a single platform, you get stronger defenses, clearer visibility, and simpler operations—all without the complexity of legacy tools.\n\n**With Material Security you can: **\n1. Detect and remediate advanced threats like phishing, BEC, and account takeovers that slip past traditional email gateways or Microsoft/Google-native defenses.\n\n2. Gain complete visibility into where sensitive data lives and how it’s being shared across inboxes and Google Drive.\n\n3. Eliminate quarantines, noisy alerts, and repetitive manual tasks while providing your team with real-time insights into account risk, file exposure, and attack activity.",
+        "url": "https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-05T01:00:00.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "iOS 26 Feels Faster Than iOS 18",
+        "summary": "[Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)\n\nJason Snell:\n\n> Last December I complained",
+        "content": "[Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/)\n\nJason Snell:\n\n> Last December I complained that [Apple was withholding iOS 18 security updates from iPhones capable of running iOS 26](https://sixcolors.com/post/2025/12/apple-is-forcing-iphones-to-update-to-ios-26-to-patch-security-holes/), leaving users who didn’t want to upgrade to Apple’s latest OS version yet in some security peril.\n\n> \n> Well, I have good news and bad news. The good news: As of Wednesday April 1, Apple is pushing out iOS 18.7.7 to all devices running iOS 18. This update, released last month for devices that were not capable of running iOS 26, is now available even for compatible devices. If you’ve got auto-update turned on but have not gone through the steps to do a full upgrade to iOS 26, this update can be automatically pushed and applied. This is good news, as those who have opted not to run iOS 26 will get to take advantage of several sets of security releases.\n\n> \n> Now the bad news: This is happening because of some really bad security breaches like [DarkSword](https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain) and [Coruna](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit).\n\nIt feels a bit spiteful that Apple doesn’t support staying a year behind the major version of iOS like they do — [thankfully](https://daringfireball.net/search/tahoe) — with MacOS. The vast majority of iPhone and iPad users just do what Apple encourages — they accept the default setting to auto-update when Apple pushes updates to their devices. People who update manually do so by choice, and if that choice is offered, it ought to be supported.\n\nThat said, after buying an iPhone 17 Pro, I left my year-and-a-half-old iPhone 16 Pro on iOS 18, so I updated that phone to 18.7.7 the other day when this became available. I’ve kept that phone on the old OS mostly for comparing what’s changed in iOS 26. I took this opportunity to switch back to that phone, full-time, for two days. It was, to be honest, no big deal. For all the consternation over “Liquid Glass” overall, on iPhone, nothing really sticks out to me switching from iOS 26 back to iOS 18, or vice-versa. iOS 26 just feels visually tweaked, not radically changed.\n\nI like iOS 26 just fine, but I also still like iOS 18, and the differences just don’t seem *that* significant. For me at least, it’s nothing like switching between MacOS 15 Sequoia and 26 Tahoe. iOS 26 makes some highly opinionated choices, but it feels like it was thoughtfully designed by people who know and love the core longstanding idioms of iOS. MacOS 26 Tahoe feels like it was carelessly designed by people who’ve never used a Mac and wish it would just go away.\n\n**See also:** [Michael Tsai’s roundup](https://mjtsai.com/blog/2026/04/02/ios-18-7-7-and-ipados-18-7-7/).\n\n★ *Friday, 3 April 2026*\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-593949-1']);\n  _gaq.push (['_gat._anonymizeIp']);\n  _gaq.push(['_trackPageview']);\n  (function() {\n\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n -->\n\n(function () {\n\tvar ma = document.createElement('script');\n\tma.type = 'text/javascript';\n\tma.src = '/mint/?js';\n\tma.async = true;\n\tvar s = document.getElementsByTagName('script')[0];\n\ts.parentNode.insertBefore(ma, s);\n})();\n\n-->",
+        "url": "https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-04-05T00:44:00.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "It's not that deep ",
+        "summary": "I have these Sunday evenings where I find myself sitting alone at the kitchen table, thinking about my life and [how I got here](https://idiallo.com/blog/become-an-executive-one-promotion-at-a-time). ",
+        "content": "I have these Sunday evenings where I find myself sitting alone at the kitchen table, thinking about my life and [how I got here](https://idiallo.com/blog/become-an-executive-one-promotion-at-a-time). Usually, these sessions end with an inspiring idea that makes me want to get up and build something. I remember the old days where I couldn't even sleep because I had all these ideas bubbling in my head, and I could just get up and do it because I had no familial responsibility. \n\nI still have that flare in me, but I also don't always give in to those ideas. Instead, sometimes I chose to do something much simpler. I read. Sometimes it's a book, sometimes it's a blog post. But always, it's something that stimulates my mind more than any startup idea, or tech disruption. \n\nThere is a blog I follow, I'm not even sure how I stumbled upon it. I don't think it has a newsletter, and it's not in my RSS feed. But, it's in my mind. It's as if I can just feel it when the author posts something new. Right there on the kitchen table, I load it up, and I get a glimpse into someone else's life. I don't know much about this person, but reading her writing is soothing. It's not commercialized, the most I can say about it is, [well it is human](https://tadaima.bearblog.dev/).\n\nWhen I read something that is written, anything that's written, I expect to hear [the voice of the person behind it](https://idiallo.com/blog/what-i-crave-from-blogs). Whether it is a struggle, a victory, or just a small remark. It only makes sense when there is a person behind it. Sometimes people write, and in order to sound professional, they remove their voice from it. It becomes like reading a corporate memphis blog. Devoid of any humanity. \n\nIt's weird how I have these names in my head. [Keenen Charles](https://keenen.xyz/). I check his blog on Sunday evening as well. In fact, here are a few I read recently in no particular order:\n\n- [Henrik](https://henko.net/blog/use-simple-words-to-let-your-ideas-shine/)\n\n- [Hugo?](https://whynothugo.nl/journal/2025/09/12/unaccountable-systems/)\n\n- [Jerry](https://sundry.jerryorr.com/2023/09/26/on-strong-opinions) (I particularly liked this specific article)\n\n- [Hong](https://writings.hongminhee.org/2026/01/ethics-of-small-actions/)\n\n- [Don't know her name](https://tadaima.bearblog.dev/the-world-isnt-ending/)\n\n- [Keenen](https://keenen.xyz/ai-is-not-a-friend/)\n\nThis isn't to tell you that you need to read those articles or you will be left behind. It's not that deep. You can find things you like, and enjoy them at your own comfort. They don't have to be world changing, they don't have to turn you into a millionaire, they just have to make you smile or nod for a moment.\n\nThe world is constantly trying to remind us that we are at the edge of destruction. But you, the person sitting there, reading a random blog post from this random Guinean guy, yes you. Take it easy for the rest of the day.",
+        "url": "https://idiallo.com/blog/its-not-that-deep?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Sun, 05 Apr 2026 08:00:00 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sponsorship Openings for Daring Fireball",
+        "summary": "**Schedule:**\n\n  Mar 30 – Apr 5\n  *Sold*\n\n  Apr 6 – Apr 12\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Apr 13 – Apr 19\n  *Sold*\n\n  Apr 20 – Apr 26\n  *Sold*\n\n  Apr 2",
+        "content": "**Schedule:**\n\n  Mar 30 – Apr 5\n  *Sold*\n\n  Apr 6 – Apr 12\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Apr 13 – Apr 19\n  *Sold*\n\n  Apr 20 – Apr 26\n  *Sold*\n\n  Apr 27 – May 3\n  *Sold*\n\n  May 4 – May 10\n  *Sold*\n\n  May 11 – May 17\n  *Sold*\n\n  May 18 – May 24\n  *Sold*\n\n  May 25 – May 31\n  *Sold*\n\n  June 1 – June 7\n  *Sold*\n\n  June 8 – June 14\n  *Sold*\n\n  June 15 – June 21\n  *Sold*\n\n  June 22 – June 28\n  *Sold*\n\n  June 29 – July 5\n  *Sold*\n\n  Jul 6 – Jul 12\n  *Sold*\n\n  Jul 13 – Jul 19\n  *Sold*\n\n  Jul 20 – Jul 26\n  *Sold*\n\n  Jul 27 – Aug 2\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Aug 3 – Aug 9\n  *Sold*\n\n  Aug 10 – Aug 16\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Aug 17 – Aug 23\n  *Sold*\n\n  Aug 24 – Aug 30\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Aug 31 – Sep 6\n  *Sold*\n\n  Sep 7 – Sep 13\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Sep 14 – Sep 20\n  *Sold*\n\n  Sep 21 – Sep 27\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Sep 28 – Oct 4\n  *Sold*\n\n  Oct 5 – Oct 11\n  *Sold*\n\n  Oct 12 – Oct 18\n  *Sold*\n\n  Oct 19 – Oct 25\n  *Sold*\n\n  Oct 26 – Nov 1\n  *Sold*\n\n  Nov 2 – Nov 8\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Nov 9 – Nov 15\n  *Sold*\n\n  Nov 16 – Nov 22\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Nov 23 – Nov 29\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Nov 30 – Dec 6\n  *Sold*\n\n  Dec 7 – Dec 13\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Dec 14 – Dec 20\n  *Sold*\n\n  Dec 21 – Dec 27\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n  Dec 28 – Jan 3\n  [Available](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship)\n\n    –  \n  [Available](&#109;&#97;&#x69;&#108;&#116;o:&#x73;&#112;&#111;&#x6E;&#x73;&#x6F;&#x72;&#115;&#64;&#x64;a&#x72;&#105;&#110;&#103;&#x66;&#x69;&#x72;e&#98;&#97;&#108;&#108;&#x2E;&#x6E;&#101;&#116;?subject=Feed%20Sponsorship)\n\n -->\n\n**Price:** $11,000\n\nTo schedule a sponsorship or for additional information, [email John Gruber](mailto:sponsors@daringfireball.net?subject=Feed%20Sponsorship).\n\nWeek-long sponsorships are available for Daring Fireball. This is the only way to promote your product or service specifically to Daring Fireball’s audience of Mac nerds, designers, nitpickers, perfectionists, and connoisseurs of fine sarcasm.\n\nWhat sponsors get:\n\n- A display ad in the sidebar on every page of the site, all week long.\n\n- A post from the sponsor will appear in the RSS feed at the start of the week. You, the sponsor, get to address Daring Fireball’s most dedicated readers directly.\n\n- At the end of the week, I’ll also post an item thanking and linking to the feed sponsor.\n\n- Sponsorship is exclusive. Only *one* sponsor per week.\n\n- [An archive of all previous DF RSS feed sponsors](https://daringfireball.net/feeds/sponsors/archive) is available.\n\nAbout Daring Fireball’s audience:\n\n- Typical weekday unique visitors: 150,000.\n\n- Estimated monthly unique visitors: 2.5 million.\n\n- Estimated Daring Fireball RSS feed subscribers: Over 200,000.",
+        "url": "https://daringfireball.net/feeds/sponsors/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-04-05T00:59:00.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’",
+        "summary": "“Enormous volumes of sensitive info”\n  \n\n      \n\n      \n\n      \n        Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.\n      \n\n              \n          \n\n  \n",
+        "content": "“Enormous volumes of sensitive info”\n  \n\n      \n\n      \n\n      \n        Google, Meta, and Perplexity accused of sharing millions of chats to increase ad revenue.\n      \n\n              \n          \n\n  \n\n  \n      \n    \n    \n                      \n                      \n          \nPerplexity’s AI search engine encourages users to go deeper with their prompts by engaging in chat sessions that a [lawsuit](https://cdn.arstechnica.net/wp-content/uploads/2026/04/Doe-v-Perplexity-Complaint-3-31-26.pdf) has alleged are often shared in their entirety with Google and Meta without users’ knowledge or consent.\n\n“This happened to every user regardless of whether or not they signed up for a Perplexity account,” the lawsuit alleged, while stressing that “enormous volumes of sensitive information from both subscribed and non-subscribed users” are shared.\n\nUsing developer tools, the lawsuit found that opening prompts are always shared, as are any follow-up questions the search engine asks that a user clicks on. Privacy concerns are seemingly worse for non-subscribed users, the complaint alleged. Their initial prompts are shared with “a URL through which the entire conversation may be accessed by third parties like Meta and Google.”\n\nDisturbingly, the lawsuit alleged, chats are also shared with personally identifiable information (PII), even when users who want to stay anonymous opt to use Perplexity’s “Incognito Mode.” That mode, the lawsuit charged, is a “sham.”\n\n“‘Incognito’ mode does nothing to protect users from having their conversations shared with Meta and Google,” the complaint said. “Even paid users who turned on the ‘Incognito’ feature still had their conversations shared with Meta and Google, along with their email addresses and other identifiers that allowed Meta and Google to personally identify them.”\n\n## Financial, health info allegedly shared\n\nThe “extreme” privacy complaints arose in a proposed class action filed Tuesday by an anonymous Perplexity user, John Doe.\n\nIn his complaint, he likened ad trackers to “browser-based wiretap technology” that lets Google and Meta snoop on private Perplexity chat logs.\n\nIn violation of state and federal laws, he alleged, the AI firm never disclosed to users that it secretly uses tech giants’ ad trackers. His lawsuit targets all three companies, accusing them of putting profits over users’ privacy rights by seizing sensitive data that users did not realize would be shared.\n\n          \n                      \n                  \n                    \n        \n            \n    \n    \n          \n          \nFor Doe, he was “dismayed” to learn that complete and partial transcripts of chats discussing his family’s financial data were seemingly shared with Google and Meta, allegedly alongside PII. He relies on Perplexity to help manage his taxes, get legal advice, and make investment decisions, his complaint said. Without an injunction blocking Perplexity’s allegedly ongoing privacy harms, he will be blocked from using his preferred search engine, he complained.\n\nOther users in the proposed class turned to Perplexity when researching other sensitive topics, the lawsuit alleged. According to the lawsuit, the companies designed ad trackers to operate “surreptitiously” so that they could allegedly “exploit this sensitive data for their own benefit, including targeting individuals with advertising and reselling their sensitive data to additional third parties.”\n\nPerhaps most troublingly, people frequently use such AI systems to research health and medical information, particularly when consulting with a human might be embarrassing or upsetting.\n\nSupposedly capitalizing on users’ tendency to overshare with AI systems, Perplexity is seemingly trained to request that users upload sensitive records during chat sessions, the complaint said. That includes information that, if shared with Google and Meta, could result in users suddenly being targeted with advertisements that they “may find overwhelming, disturbing, or, in many instances, physically deleterious,” the complaint said.\n\nFor example, Perplexity responds to a basic prompt like “What is the best treatment for liver cancer?” by volunteering that “I can help you interpret a specific scan report, biopsy result, or proposed treatment plan if you share more details,” the complaint noted.\n\nAmong invasive trackers embedded in Perplexity’s AI search engine are the Facebook Meta Pixel, Google Ads, and Google Double Click, as well as possibly a technology that Meta calls “Conversions API,” the lawsuit said. Meta allegedly recommends that partners use that last technology in combination with the Meta Pixel, because it supposedly serves as a “workaround” that prevents “savvy users” from blocking Pixel tracking, his complaint said. Notably, Meta has been hit with several privacy lawsuits opposing that tech, with some settlements, while Congress has dinged some former partners who used [trackers from Google and Meta](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/).\n\n          \n                  \n                    \n        \n            \n    \n    \n          \n          \n\n## Class action spans three years of chats\n\nAs AI tools like Perplexity’s have become ubiquitous, users have good reason to be concerned that their prompts and chats may be leaked. ChatGPT logs were [recently shared with news organizations](https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/) in a major copyright litigation and [leaked in Google searches](https://arstechnica.com/tech-policy/2025/08/chatgpt-users-shocked-to-learn-their-chats-were-in-google-search-results/) and [analytics tools](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/).\n\nIf users knew about Perplexity’s ad trackers sharing transcripts of chats, they wouldn’t use Perplexity’s search engine in the same way, Doe’s lawsuit alleged.\n\n“No reasonable person would have expected that Perplexity would share complete transcripts of their conversations with Perplexity’s AI Machine with companies like Meta and Google,” the complaint said. “But that is what Perplexity did.”\n\nThe proposed class covers certain Perplexity users nationwide whose chats were allegedly shared with Google and Meta between December 7, 2022, and February 4, 2026. There is also a separate subclass for California users pursuing additional claims. Neither the class nor the subclass covers paid “Perplexity Pro” and “Perplexity Max” subscribers, because Doe never accessed those tiers of services and cannot adequately represent their interests, the lawsuit noted.\n\nGoogle, Meta, and Perplexity could face substantial fines in a loss, with perhaps millions of chat logs involved and potential statutory damages that could exceed $5,000 per violation. Doe also seeks punitive fines as well as disgorgement for any unjust enrichment, as the companies allegedly used the sensitive information to improve their products, their own marketing, and their targeted advertising.\n\n## Perplexity hides privacy policy\n\nIn addition to allegedly violating laws, companies are accused of infringing their own privacy policies and terms of use by collecting and sharing sensitive data.\n\nSpecifically, Google and Meta are accused of failing to enforce policies prohibiting the disclosure of confidential or sensitive information through the use of their trackers. Those policies only exist to create “plausible deniability” to help the tech giants dodge lawsuits, the complaint alleged.\n\n          \n                  \n                    \n        \n            \n    \n    \n\n        \n        \n          \n          \nThe complaint noted that Perplexity never asks users to agree to its privacy policy, and there is no link to the privacy policy on the search engine’s homepage. That’s different from popular search engines like Google (where the privacy policy is in the footer) and Bing (which links its policy in a menu).\n\nPerplexity users would have to rely on a search engine to find the policy, the complaint said, and even then, there would seemingly be no way to detect the invasive ad tracking. In the section of its [privacy policy](https://www.perplexity.ai/hub/legal/privacy-policy) that discusses tracking, Perplexity does not mention specific trackers. Instead, it warns users that it does not allow “do not block signals” and advises that attempts to block trackers could affect services.\n\n“Perplexity’s failure to inform its users that their personal information has been disclosed to Meta and Google or to take any steps to halt the continued disclosure of users’ information is malicious, oppressive, and in reckless disregard” of users’ rights, the lawsuit alleged.\n\nPerplexity’s privacy policy does emphasize that the company does not “‘sell’ or ‘share’ sensitive personal information for cross-context behavioral advertising.”\n\nArs could not immediately reach Perplexity or Meta for comment.\n\nGoogle’s spokesperson provided Ars with a statement that suggested it wasn’t responsible for Perplexity’s alleged failure to properly disclose how chats could be shared.\n\n“Businesses manage the data they collect and are responsible for informing users about it,” Google’s spokesperson said. “By default, data sent to Google Analytics for measurement does not identify individuals, we have strict policies against advertising based on sensitive information, and we don’t sell personal information.”\n\nDoe is hoping a jury will find that Perplexity’s ad trackers are unlawful and order injunctive relief, restitution, and disgorgement, as well as a range of damages. Without an injunction, the only remedy Perplexity users will have is allegedly paying for costly services to prevent disclosures of “their most sensitive and personal information,” his lawsuit claimed.\n\n“Nothing on Perplexity’s website warns users that their conversations with its AI Machine will be shared with Meta and Google,” Doe alleged. “Much less does Perplexity warn subscribed users that its ‘Incognito Mode’ does not function to protect users’ private conversations from disclosure to companies like Meta and Google.”\n\n          \n                  \n\n                  \n          \n\n  \n  \n          [![Photo of Ashley Belanger](https://cdn.arstechnica.net/wp-content/uploads/2022/06/Ashley-Belanger-400x400.jpg)](https://arstechnica.com/author/ashleybelanger/)\n\n  \n\n  \n    \n\n    \n      Ashley is a senior policy reporter for Ars Technica, dedicated to tracking social impacts of emerging policies and new technologies. She is a Chicago-based journalist with 20 years of experience.\n    \n\n  \n\n  \n    [\n    \n    71 Comments\n  ](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/#comments)\n      \n\n              \n  \n\n  \n\n  \n\n  \n    \n      \n      \n    \n    \n              - \n                      [\n              ![Listing image for first story in Most Read: \"Cognitive surrender\" leads AI users to abandon logical thinking, research finds](https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-768x432.jpg)\n            ](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)\n                    \n        \n\n                    - \n                    \n        \n\n                    - \n                    \n        \n\n                    - \n                    \n        \n\n                    -",
+        "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-04-05T00:32:57.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Stamp It! All Programs Must Report Their Version",
+        "summary": "Table of contents\n    \n  \n    - [Why are our versioning standards so low?!](#low-versioning-standards)\n\n    - [Software Versioning](#software-versioning)\n\n    - [Case Study: i3’s `--version` and `--mo",
+        "content": "Table of contents\n    \n  \n    - [Why are our versioning standards so low?!](#low-versioning-standards)\n\n    - [Software Versioning](#software-versioning)\n\n    - [Case Study: i3’s `--version` and `--moreversion`](#i3-moreversion)\n      \n        [Developer builds](#developer-builds)\n\n      \n\n    \n    - [Most Useful: Stamp The VCS Revision](#useful-stamp-vcs-rev)\n      \n        [Go always stamps! 🥳](#go-vcs)\n\n        - [Go Version Reporting](#go-version-reporting)\n\n      \n\n    \n    - [VCS rev with NixOS](#vcs-rev-with-nixos)\n      \n        [The Nix Go build situation in detail](#nix-go-build-detail)\n\n        - [My workaround: Nix git buildinfo overlay](#nixos-buildinfo-overlay)\n\n        - [The clean fix](#clean-fix)\n\n      \n\n    \n    - [Conclusion: Stamp it! Plumb it! Report it!](#conclusion-stamp-it-plumb-it-report-it)\n\n  \n\n  \n  Recently, during a production incident response, I guessed the root cause of an\noutage correctly within less than an hour (cool!) and submitted a fix just to\nrule it out, only to then spend many hours fumbling in the dark because we\nlacked visibility into version numbers and rollouts… 😞\n\nThis experience made me think about software versioning again, or more\nspecifically about build info (build versioning, version stamping, however you\nwant to call it) and version reporting. I realized that for the i3 window\nmanager, I had solved this problem well over a decade ago, so it was really\nunexpected that the problem was decidedly not solved at work.\n\nIn this article, I’ll explain how 3 simple steps (Stamp it! Plumb it! Report\nit!) are sufficient to save you hours of delays and stress during incident\nresponse.\n\n## Why are our versioning standards so low?!\n\nEvery household appliance has incredibly detailed versioning! Consider this\ndishwasher:\n\n[![a dishwasher, with many precise bits of version information](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-04-feuermurmel-dishwasher-versioning_hu_b19004a896832878.png)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-04-feuermurmel-dishwasher-versioning.png)\n\n*(Thank you Feuermurmel for sending me this lovely example!)*\n\nI observed a couple household appliance repairs and am under the impression that\nif a repair person cannot identify the appliance, they would most likely refuse\nto even touch it.\n\nSo why are our standards so low in computers, in comparison? Sure, consumer\nproducts are typically versioned *somehow* and that’s typically good enough\n(except for, say, USB 3.2 Gen 1×2!). But recently, I have encountered too many\ndeveloper builds that were not adequately versioned!\n\n## Software Versioning\n\nUnlike a physical household appliance with a stamped metal plate, software is\nconstantly updated and runs in places and structures we often cannot even see.\n\nLet’s dig into what we need to increase our versioning standard!\n\nUsually, software has a **name** and some **version number** of varying granularity:\n\n- Chrome\n\n- Chrome 146\n\n- Chrome 146.0.7680.80\n\n- Chrome f08938029c887ea624da7a1717059788ed95034d-refs/branch-heads/7680_65@{#34}\n\nAll of these identify the Chrome browser on my computer, but each at different\ngranularity.\n\nAll are correct and useful, depending on the context. Here’s an example for each:\n\n- “This works in Chrome for me, did you test in Firefox?”\n\n- “Chrome 146 contains broken middle-click-to-paste-and-navigate”\n\n- “I run Chrome 146.0.7680.80 and cannot reproduce your issue”\n\n- “Apply this patch on top of Chrome f08938029c887ea624da7a1717059788ed95034d-refs/branch-heads/7680_65@{#34} and follow these steps to reproduce: […]”\n\nAfter creating the [i3 window manager](https://i3wm.org/), I quickly learned that\nfor user support, it is very valuable for programs to clearly identify\nthemselves. Let me illustrate with the following case study.\n\n## Case Study: i3’s `--version` and `--moreversion`\n\nWhen running `i3 --version`, you will see output like this:\n\n```\n% i3 --version\ni3 version 4.24 (2024-11-06) © 2009 Michael Stapelberg and contributors\n\n```\n\nEach word was carefully deliberated and placed. Let me dissect:\n\n- `i3 version 4.24`: I could have shortened this to `i3 4.24` or maybe `i3 v4.24`, but I figured it would be helpful to be explicit because `i3` is such\na short name. Users might mumble aloud “What’s an i-3-4-2-4?”, but when\nputting “version” in there, the implication is that i3 is some computer thing\n(→ a computer program) that exists in version 4.24.\n\n- `(2024-11-06)` is the release date so that you can immediately tell if\n“`4.24`” is recent.\n\n- `© 2009 Michael Stapelberg` signals when the project was started and who is\nthe main person behind it.\n\n- `and contributors` gives credit to the many people who helped. i3 was never a\none-person project; it was always a group effort.\n\nWhen doing user support, there are a couple of questions that are conceptually\neasy to ask the affected user and produce very valuable answers for the\ndeveloper:\n\n- Question: “Which version of i3 are you using?”\n\nSince i3 is not a typical program that runs in a window (but a window\nmanager / desktop environment), there is no Help → About menu\noption.\n\n- Instead, we started asking: What is the output of `i3 --version`?\n\n- Question: “*Are you reporting a new issue or a preexisting issue? To confirm,\ncan you try going back to the version of i3 you used previously?*”. The\ntechnical terms for “going back” are downgrade, rollback or revert.\n\nDepending on the Linux distribution, this is either trivial or a nightmare.\n\n- With NixOS, it’s trivial: you just boot into an older system “generation”\nby selecting that version in the bootloader. Or you revert in git, if your\nconfigs are version-controlled.\n\n- With imperative Linux distributions like Debian Linux or Arch Linux, if\nyou did not take a file system-level snapshot, there is no easy and\nreliable way to go back after upgrading your system. If you are lucky, you\ncan just `apt install` the older version of i3. But you might run into\ndependency conflicts (“version hell”).\n\n- I know that it is *possible* to run older versions of Debian using\n[snapshot.debian.org](https://snapshot.debian.org/), but it is just not\nvery practical, at least when I last tried.\n\n- Can you check if the issue is still present in the latest i3 development version?\n\nOf course, I could also try reproducing the user issue with the latest\nrelease version, and **then one additional time** on the latest\ndevelopment version.\n\n- But this way, the verification step moves to the affected user, which is\ngood because it filters for highly-motivated bug reporters (higher chance\nthe bug report actually results in a fix!) and it makes the user reproduce\nthe bug *twice*, figuring out if it’s a flaky issue, hard-to-reproduce, if\nthe reproduction instructions are correct, etc.\n\n- A natural follow-up question: “*Does this code change make the issue go\naway?*” This is easy to test for the affected user who now has a\ndevelopment environment.\n\nBased on my experiences with asking these questions many times, I noticed a few\npatterns in how these debugging sessions went. In response, I introduced another\nway for i3 to report its version in i3 v4.3 (released in September 2012): a\n`--moreversion` flag! Now I could ask users a small variation of the first\nquestion: What is the output of `i3 --moreversion`? Note how this also transfers\nwell over spoken word, for example at a computer meetup:\n\n> **Michael:** Which version are you using?\n\n> **User:** How can I check?\n\n> **Michael:** Run this command: `i3 --version`\n\n> **User:** It says 4.24.\n\n> **Michael:** Good, that is recent enough to include the bug fix. Now, we need\n> more version info! Run `i3 --moreversion` please and tell me what you see.\n\nWhen you run `i3 --moreversion`, it does not just report the version of the i3\nprogram you called, it also connects to the running i3 window manager process in\nyour X11 session using [its IPC (interprocess communication)\ninterface](https://i3wm.org/docs/ipc.html) and reports the running i3 process’s\nversion, alongside other key details that are helpful to show the user, like\nwhich configuration file is loaded and when it was last changed:\n\n```\n% i3 --moreversion\nBinary i3 version:  4.24 (2024-11-06) © 2009 Michael Stapelberg and…\nRunning i3 version: 4.24 (2024-11-06) (pid 2521)\nLoaded i3 config:\n  /home/michael/.config/i3/config (main)\n  (last modified: 2026-03-15T23:09:27 CET, 1101585 seconds ago)\n\nThe i3 binary you just called:\n/nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24/bin/i3\nThe i3 binary you are running: i3\n\n```\n\nThis might look like a lot of detail on first glance, but let me spell out why\nthis output is such a valuable debugging tool:\n\n- \nConnecting to i3 via the IPC interface is an interesting test in and of\nitself. If a user sees `i3 --moreversion` output, that implies they will also\nbe able to run debugging commands like (for example) `i3-msg -t get_tree > /tmp/tree.json` to capture the full layout state.\n\n- \nDuring a debugging session, running `i3 --moreversion` is an easy check to\nsee if the version you just built is actually effective (see the `Running i3 version` line).\n\nNote that this is the same check that is relevant during production\nincidents: verifying that *effectively running* matches *supposed to be\nrunning* versions.\n\n- \nShowing the full path to the loaded config file will make it obvious if the\nuser has been editing the wrong file. If the path alone is not sufficient,\nthe modification time (displayed both absolute and relative) will flag\nediting the wrong file.\n\nI use NixOS, BTW, so I automatically get a stable identifier\n(`0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24`) for *the specific build* of i3.\n\n```\n% ls -l $(which i3)\nlrwxrwxrwx 1 root root 58 1970-01-01 01:00 /run/current-system/sw/bin/i3\n-> /nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24/bin/i3\n\n```\n\nTo see the build recipe (“derivation” in Nix terminology) which produced this\nNix store output (`0zn9r4263…-i3-4.24`), I can run `nix derivation show`:\n\n```\n% nix derivation show /nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24\n{\n  \"/nix/store/z7ly4kvgixf29rlz01ji4nywbajfifk4-i3-4.24.drv\": {\n[…]\n\n```\n\nClick here to expand the full `nix derivation show` output if you are curious\n\n```\n% nix derivation show /nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24\n{\n  \"/nix/store/z7ly4kvgixf29rlz01ji4nywbajfifk4-i3-4.24.drv\": {\n    \"args\": [\n      \"-e\",\n      \"/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh\",\n      \"/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh\"\n    ],\n    \"builder\": \"/nix/store/6ph0zypyfc09fw6hlc1ygjvk2hv4j9vd-bash-5.3p3/bin/bash\",\n    \"env\": {\n      \"NIX_MAIN_PROGRAM\": \"i3\",\n      \"__structuredAttrs\": \"\",\n      \"buildInputs\": \"/nix/store/58q0dn2lbm2p04qmds0aymwdd1fr5j67-libxcb-1.17.0-dev /nix/store/3fcfw014z5i05ay1ag0hfr6p81mb1kzw-libxcb-keysyms-0.4.1-dev /nix/store/2cdrqvd3av1dmxna9xjqv1jccibpvg6m-libxcb-util-0.4.1-dev /nix/store/256alp82fhdgbxx475dp7mk8m29y53rh-libxcb-wm-0.4.2-dev /nix/store/nr44nfhj48abr3s6afqy1fjq4qmr23lz-xcb-util-xrm-1.3 /nix/store/ml4cfhhw6af6qq6g3dn7g5j5alrnii88-libxkbcommon-1.11.0-dev /nix/store/6hnzjg09fd5xkkrdj437wyaj952nlg45-libstartup-notification-0.12 /nix/store/9m0938zahq7kcfzzix4kkpm8d1iz3nmq-libx11-1.8.12-dev /nix/store/vz5gd0rv0m2kjca50gacz0zq9qh7i8xf-pcre2-10.46-dev /nix/store/334cvqpqc9f0plv0aks71g352w6hai0c-libev-4.33 /nix/store/6s3fw10c0441wv53bybjg50fh8ag1561-yajl-2.1.0-unstable-2024-02-01 /nix/store/d6aw2004h90dwlsfcsygzzj4pzm1s31a-libxcb-cursor-0.1.6-dev /nix/store/84mhqfj9amzyvxhp37yh3b0zd8sq0a7p-perl-5.40.0 /nix/store/l6bslkrp59gaknypf1jrs5vbb2xmcwym-pango-1.57.0-dev /nix/store/7s7by82nq8bahsh195qr0mnn9ac8ljmm-perl5.40.0-AnyEvent-I3-0.19 /nix/store/9ml0p4x1cx5k1lla91bxgramc0amsfkf-perl5.40.0-X11-XCB-0.20 /nix/store/67j1sx7qcn6f7qvq1kh3z8i5mpajgq3r-perl5.40.0-IPC-Run-20231003.0 /nix/store/859x84mz38bcq0r7hwksk4b5apcsmf2w-perl5.40.0-ExtUtils-PkgConfig-1.16 /nix/store/q1qydg6frfpq9jkhnymfsjzf71x9jswr-perl5.40.0-Inline-C-0.82\",\n      \"builder\": \"/nix/store/6ph0zypyfc09fw6hlc1ygjvk2hv4j9vd-bash-5.3p3/bin/bash\",\n      \"checkPhase\": \"runHook preCheck\\n\\ntest_failed=\\n# \\\"| cat\\\" disables fancy progress reporting which makes the log unreadable.\\n./complete-run.pl -p 1 --keep-xserver-output | cat || test_failed=\\\"complete-run.pl returned $?\\\"\\nif [ -z \\\"$test_failed\\\" ]; then\\n  # Apparently some old versions of `complete-run.pl` did not return a\\n  # proper exit code, so check the log for signs of errors too.\\n  grep -q '^not ok' latest/complete-run.log && test_failed=\\\"test log contains errors\\\" ||:\\nfi\\nif [ -n \\\"$test_failed\\\" ]; then\\n  echo \\\"***** Error: $test_failed\\\"\\n  echo \\\"===== Test log =====\\\"\\n  cat latest/complete-run.log\\n  echo \\\"===== End of test log =====\\\"\\n  false\\nfi\\n\\nrunHook postCheck\\n\",\n      \"cmakeFlags\": \"\",\n      \"configureFlags\": \"\",\n      \"debug\": \"/nix/store/20rgxn6fpywd229vka9dnjiaprypxirh-i3-4.24-debug\",\n      \"depsBuildBuild\": \"\",\n      \"depsBuildBuildPropagated\": \"\",\n      \"depsBuildTarget\": \"\",\n      \"depsBuildTargetPropagated\": \"\",\n      \"depsHostHost\": \"\",\n      \"depsHostHostPropagated\": \"\",\n      \"depsTargetTarget\": \"\",\n      \"depsTargetTargetPropagated\": \"\",\n      \"doCheck\": \"1\",\n      \"doInstallCheck\": \"\",\n      \"mesonFlags\": \"-Ddocs=true -Dmans=true\",\n      \"name\": \"i3-4.24\",\n      \"nativeBuildInputs\": \"/nix/store/x06h0jfzv99c3dmb8pj8wbmy0v9wj6bd-pkg-config-wrapper-0.29.2 /nix/store/pcdnznc797nmf9svii18k3c5v22sqihs-make-shell-wrapper-hook /nix/store/nzg469dkg5dj7lv4p50pi8zmwzxx73hr-meson-1.9.1 /nix/store/rlcn0x0j22nbhhf8wfp8cwfxgh65l82r-ninja-1.13.1 /nix/store/hs4pgi40k5nbl0fpf0jx8i5f6zrdv63v-install-shell-files /nix/store/84mhqfj9amzyvxhp37yh3b0zd8sq0a7p-perl-5.40.0 /nix/store/xiqlw1h0i6a6v59skrg9a7rg3qpanqy7-asciidoc-10.2.1 /nix/store/300facd5m37fwqrypjcikn09vqs488zv-xmlto-0.0.29 /nix/store/yk7avh2szvm6bi5dwgzz4c2iciaipj2p-docbook-xml-4.5 /nix/store/d5qdxn0rjl9s7xfc1rca33gya0fhcvkm-docbook-xsl-nons-1.79.2 /nix/store/2y1r1cpza3lpk7v6y9mf75ak0pswilwi-find-xml-catalogs-hook /nix/store/r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh /nix/store/xlhipdkyqksxvp73cznnij5q6ilbbqd9-xorg-server-21.1.21-dev /nix/store/i8nxxmw5rzhxlx3n12s3lvplwwap6mpc-xvfb-run-1+g87f6705 /nix/store/a198i9cnhn6y5cajkdxg0hhcrmalazjr-xdotool-3.20211022.1 /nix/store/b4dnjyq2i4kjg8xswkjd7lwfcdps94j8-setxkbmap-1.3.4 /nix/store/cxdbw6iqj1a1r69wb55xl5nwi7abfllb-xrandr-1.5.3 /nix/store/5k4mv2a1qrciv12wywlkgpslc6swyv58-which-2.23\",\n      \"out\": \"/nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24\",\n      \"outputs\": \"out debug\",\n      \"patches\": \"\",\n      \"pname\": \"i3\",\n      \"postInstall\": \"wrapProgram \\\"$out/bin/i3-save-tree\\\" --prefix PERL5LIB \\\":\\\" \\\"$PERL5LIB\\\"\\nfor program in $out/bin/i3-sensible-*; do\\n  sed -i 's/which/command -v/' $program\\ndone\\n\\ninstallManPage man/*.1\\n\",\n      \"postPatch\": \"patchShebangs .\\n\\n# This testcase generates a Perl executable file with a shebang, and\\n# patchShebangs can't replace a shebang in the middle of a file.\\nif [ -f testcases/t/318-i3-dmenu-desktop.t ]; then\\n  substituteInPlace testcases/t/318-i3-dmenu-desktop.t \\\\\\n    --replace-fail \\\"#!/usr/bin/env perl\\\" \\\"#!/nix/store/84mhqfj9amzyvxhp37yh3b0zd8sq0a7p-perl-5.40.0/bin/perl\\\"\\nfi\\n\",\n      \"propagatedBuildInputs\": \"\",\n      \"propagatedNativeBuildInputs\": \"\",\n      \"separateDebugInfo\": \"1\",\n      \"src\": \"/nix/store/qx48i7zf9n69yla8gfbif6dskysk0l1w-source\",\n      \"stdenv\": \"/nix/store/43dbh9z6v997g6njz4yqmcrj26zic9ds-stdenv-linux\",\n      \"strictDeps\": \"\",\n      \"system\": \"x86_64-linux\",\n      \"version\": \"4.24\"\n    },\n    \"inputDrvs\": {\n      \"/nix/store/0h97zzsaf4ggiiwi0rbdjl3fzjj8vhj0-meson-1.9.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/0r073sy0685h3gycpl8kpkgmv5p87rw4-libxcb-1.17.0.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/0rjr80q4lpigwjwaxw089wcrrag7p46m-xmlto-0.0.29.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/14wsbyw3j1h9blcxr16c9663w0piq0p2-bash-5.3p3.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/165y3ip2cqlnqd6qrgh6lzklv21xy11w-make-shell-wrapper-hook.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/1abxvpwsry6q5pijb2j91aryh2ilp929-pango-1.57.0.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/2sjcj6l2959dvd5vlicmkf1sdr0hwqx5-perl5.40.0-ExtUtils-PkgConfig-1.16.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/3jnvpbpi95g6zp8vjq1qafh20lz6kwi3-perl5.40.0-X11-XCB-0.20.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/45szhbhybqh4fkcpmx7sqpcrpwpadvgv-pkg-config-wrapper-0.29.2.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/4r5bd9g98fq40hjbfc7sbnp42jhnzg5h-yajl-2.1.0-unstable-2024-02-01.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/4yw0g3zqw4gn1szw8bqrvgmz5b6qm8s5-stdenv-linux.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/53gin0imc257fibkbyvl0jsi0pm1zvbl-docbook-xml-4.5.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/54q42ddy9jb24v4mbx0f19faqqsw5jga-libxkbcommon-1.11.0.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/56dg95jlnwp6kkifyqh94f548r5cha9b-xrandr-1.5.3.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/6srgz2k17vc6x85s3paccdbgg9rv0bia-asciidoc-10.2.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/7xpmbw1xzzwxcd1rnx6qid7zhqnzq3jh-setxkbmap-1.3.4.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/87b385i529h64dzrycf16ksv0jcbzs29-libev-4.33.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/9l94a5gr0wbhaq6zyl30wpqygp1cffrx-pcre2-10.46.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/b8hhyx6rpy47hkbq5wlhrvfrfv3yn7j8-xvfb-run-1+g87f6705.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/bxrnxv90lrpvq06rja47986h057rhwcc-libxcb-cursor-0.1.6.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/cgdz2idkz91w2k7hpb2dymv80938cz9w-libxcb-wm-0.4.2.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/ddvlvaj43mls902nay7ddjrg01d6c2la-perl-5.40.0.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/ddxlvkpjlg6ycayb6az23ldjdr21xlnf-which-2.23.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/ds5ss96inhkj9x2gbd7shinvbiid6v6b-xorg-server-21.1.21.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/f0yqdlwz2vwsx51wlgmi9pjqpdhbprkx-ninja-1.13.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/gm613dry4hkv26m7ml49fq60z8p0r0gf-perl5.40.0-IPC-Run-20231003.0.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/h3sjzf7hg9ghbh4hzdg6c4byfky2fjng-libx11-1.8.12.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/j5ji7yjwizrma9h72h2pqgi8ir6ah6q8-libstartup-notification-0.12.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/k2jxg4mck2f4pqlisp6slwhyd3pva8wz-source.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/n19ll9p9ivkni2y9l9i2rypyi5gi8z58-perl5.40.0-Inline-C-0.82.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/nm7v937f2z7srs54idjwc7sl6azc1slj-xdotool-3.20211022.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/qzg3b7p4gf4izfjbkc42bjyrvp8vz99k-xcb-util-xrm-1.3.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/rjmh0kp3w170bii9i57z5anlshzm2gll-install-shell-files.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/rrsm8jbqqf58k30cm2lxmgk43fkxsgqp-find-xml-catalogs-hook.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/s4wl1ny41k50rkxw0x0wdjf9l5mjqyv0-libxcb-util-0.4.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/vxckbgl5kwf5ikz0ma0fkavsnh683ry0-libxcb-keysyms-0.4.1.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"dev\"\n        ]\n      },\n      \"/nix/store/xxb7x7j73p3sxf03hb1hzaz588avd3yw-docbook-xsl-nons-1.79.2.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      },\n      \"/nix/store/yik59jhh69af5fcvddmxlhfwya69pnzw-perl5.40.0-AnyEvent-I3-0.19.drv\": {\n        \"dynamicOutputs\": {},\n        \"outputs\": [\n          \"out\"\n        ]\n      }\n    },\n    \"inputSrcs\": [\n      \"/nix/store/l622p70vy8k5sh7y5wizi5f2mic6ynpg-source-stdenv.sh\",\n      \"/nix/store/r989dk196nl9frhnfsa1lb7knhbyjxw6-separate-debug-info.sh\",\n      \"/nix/store/shkw4qm9qcw5sc5n1k5jznc83ny02r39-default-builder.sh\"\n    ],\n    \"name\": \"i3-4.24\",\n    \"outputs\": {\n      \"debug\": {\n        \"path\": \"/nix/store/20rgxn6fpywd229vka9dnjiaprypxirh-i3-4.24-debug\"\n      },\n      \"out\": {\n        \"path\": \"/nix/store/0zn9r4263fjpqah6vdzlalfn0ahp8xc2-i3-4.24\"\n      }\n    },\n    \"system\": \"x86_64-linux\"\n  }\n\n```\n\nUnfortunately, I am not aware of a way to go from the derivation to the `.nix`\nsource, but at least one can check that a certain source results in an identical\nderivation.\n\n### Developer builds\n\nThe versioning I have described so far is sufficient for most users, who will\nnot be interested in tracking intermediate versions of software, but only the\nreleased versions.\n\nBut what about developers, or any kind of user who needs more precision?\n\nWhen building i3 from git, it reports the git revision it was built from, using\n[`git-describe(1)`](https://manpages.debian.org/git-describe.1)\n:\n\n```\n~/i3/build % git describe\n4.25-23-g98f23f54\n~/i3/build % ninja\n[110/110] Linking target i3\n~/i3/build % ./i3 --version\ni3 version 4.25-23-g98f23f54 © 2009 Michael Stapelberg and contributors\n\n```\n\nA modified working copy gets represented by a `+` after the revision:\n\n```\n~/i3/build % echo '// dirty working copy' >> ../src/main.c && ninja\n[104/104] Linking target i3bar\n~/i3/build % ./i3 --version\ni3 version 4.25-23-g98f23f54+ © 2009 Michael Stapelberg and contributors\n\n```\n\nReporting the git revision (or VCS revision, generally speaking) is the most\nuseful choice.\n\nThis way, we catch the following common mistakes:\n\n- People build from the wrong revision.\n\n- People build, but forget to install.\n\n- People install, but their session does not pick it up (wrong location?).\n\n## Most Useful: Stamp The VCS Revision\n\nAs we have seen above, the single most useful piece of version information is\nthe VCS revision. We can fetch all other details (version numbers, dates,\nauthors, …) from the VCS repository.\n\nNow, let’s demonstrate the best case scenario by looking at how Go does it!\n\n### Go always stamps! 🥳\n\nGo has become my favorite programming language over the years, in big part\nbecause of the good taste and style of the Go developers, and of course also\nbecause of the high-quality tooling:\n\n  \n\nTherefore, I am pleased to say that Go implements the gold standard with regard\nto software versioning: it stamps VCS buildinfo by default! 🥳 This was\nintroduced in [Go 1.18 (March 2022)](https://go.dev/doc/go1.18#debug_buildinfo):\n\n> Additionally, the go command embeds information about the build, including\n> build and tool tags (set with -tags), compiler, assembler, and linker flags\n> (like -gcflags), whether cgo was enabled, and if it was, the values of the cgo\n> environment variables (like CGO_CFLAGS).\n\n> Both VCS and build information may be read together with module information\n> using `go version -m file` or\n> [runtime/debug.ReadBuildInfo](https://pkg.go.dev/runtime/debug#ReadBuildInfo)\n> (for the currently running binary) or the new\n> [debug/buildinfo](https://pkg.go.dev/debug/buildinfo) package.\n\nWhat does this mean in practice? Here is a diagram for the common case: building\nfrom git:\n\n[![diagram showing going from git repository to binary by invoking go build / go install](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-common-case-build-from-git.svg)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-common-case-build-from-git.svg)\n\nThis covers most of my hobby projects!\n\nMany tools I just `go install`, or `CGO_ENABLED=0 go install` if I want to\neasily copy them around to other computers. Although, I am managing more and\nmore of my software in NixOS.\n\nWhen I find a program that is not yet fully managed, I can use `gops` and the\n`go` tool to identify it:\n\n```\nroot@ax52 ~ % nix run nixpkgs#gops\n2573594 1       dcs-package-importer  go1.26.1 /nix/store/clby54zb003ibai8j70pwad629lhqfly-dcs-unstable/bin/dcs-package-importer\n2573576 1       dcs-source-backend    go1.26.1 /nix/store/clby54zb003ibai8j70pwad629lhqfly-dcs-unstable/bin/dcs-source-backend\n2573566 1       debiman               go1.25.5 /srv/man/bin/debiman\n[…]\nroot@ax52 ~ % nix run nixpkgs#go -- version -m /srv/man/bin/debiman\n/srv/man/bin/debiman: go1.25.5\n  path\tgithub.com/Debian/debiman/cmd/debiman\n  mod\tgithub.com/Debian/debiman\tv0.0.0-20251230101540-ac8f5391b43b+dirty\n  […]\n  dep\tpault.ag/go/debian\tv0.18.0\th1:nr0iiyOU5QlG1VPnhZLNhnCcHx58kukvBJp+dvaM6CQ=\n  dep\tpault.ag/go/topsort\tv0.1.1\th1:L0QnhUly6LmTv0e3DEzbN2q6/FGgAcQvaEw65S53Bg4=\n  build\t-buildmode=exe\n  build\t-compiler=gc\n  build\tDefaultGODEBUG=containermaxprocs=0,decoratemappings=0,tlssha1=1,updatemaxprocs=0,x509sha256skid=0\n  build\tCGO_ENABLED=0\n  build\tGOARCH=amd64\n  build\tGOOS=linux\n  build\tGOAMD64=v1\n  build\tvcs=git\n  build\tvcs.revision=ac8f5391b43bc1a9dbdc99f6179e2fb7d7414a04\n  build\tvcs.time=2025-12-30T10:15:40Z\n  build\tvcs.modified=true\nroot@ax52 ~ %\n\n```\n\nIt’s very cool that Go does the right thing by default!\n\nSystems that consist of 100% Go software (like my [gokrazy Go appliance\nplatform](https://gokrazy.org/)) are fully stamped! For example, the gokrazy web\ninterface shows me exactly which version and dependencies went into the\n`gokrazy/rsync` build on my [scan2drive\nappliance](https://github.com/stapelberg/scan2drive).\n\nDespite being fully stamped, note that gokrazy only shows the module versions,\nand no VCS buildinfo, because it currently suffers from the same gap as Nix:\n\n[![gokrazy scan2drive rsync](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-03-29-gokrazy-scan2drive-rsync_hu_16984c2d1be3db9c.png)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-03-29-gokrazy-scan2drive-rsync.png)\n\n### Go Version Reporting\n\nFor the gokrazy packer, which follows a rolling release model (no version\nnumbers), I ended up with a few lines of Go code (see below) to display a git\nrevision, no matter if you installed the packer from a Go module or from a git\nworking copy.\n\nThe code either displays `vcs.revision` (the easy case; built from git) or\nextracts the revision from the Go module version of the main module\n([`BuildInfo.Main.Version`](https://pkg.go.dev/runtime/debug#BuildInfo)):\n\nWhat are the other cases? These examples illustrate the scenarios I usually deal\nwith:\n\n  \n      \n          source (built from)\n          buildinfo (stamped into program)\n      \n  \n  \n      \n          directory (no git)\n          module `(devel)`\n      \n      \n          Go module\n          module `v0.3.1-0.20260105212325-5347ac5f5bcb`\n      \n      \n          directory (git)\n          module `v0.0.0-20260131174001-ccb1d233f2a4+dirty`\n      \n      \n          \n          `vcs.revision=ccb1d233f2a43e9118b9146b3c9a5ded1efb7551`\n      \n      \n          \n          `vcs.time=2026-01-31T17:40:01Z`\n      \n      \n          \n          `vcs.modified=true`\n      \n  \n\n[![diagram showing the two cases with go build info stamping: building from a git checkout or installing from a Go module](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-go-install-git-vs-module.svg)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-go-install-git-vs-module.svg)\n\nGo code to programmatically read the version\n\n```\npackage version\n\nimport (\n\t\"runtime/debug\"\n\t\"strings\"\n)\n\nfunc readParts() (revision string, modified, ok bool) {\n\tinfo, ok := debug.ReadBuildInfo()\n\tif !ok {\n\t\treturn \"\", false, false\n\t}\n\tsettings := make(map[string]string)\n\tfor _, s := range info.Settings {\n\t\tsettings[s.Key] = s.Value\n\t}\n\t// When built from a local VCS directory, we can use vcs.revision directly.\n\tif rev, ok := settings[\"vcs.revision\"]; ok {\n\t\treturn rev, settings[\"vcs.modified\"] == \"true\", true\n\t}\n\t// When built as a Go module (not from a local VCS directory),\n\t// info.Main.Version is something like v0.0.0-20230107144322-7a5757f46310.\n\tv := info.Main.Version // for convenience\n\tif idx := strings.LastIndexByte(v, '-'); idx > -1 {\n\t\treturn v[idx+1:], false, true\n\t}\n\treturn \"<BUG>\", false, false\n}\n\nfunc Read() string {\n\trevision, modified, ok := readParts()\n\tif !ok {\n\t\treturn \"<not okay>\"\n\t}\n\tmodifiedSuffix := \"\"\n\tif modified {\n\t\tmodifiedSuffix = \" (modified)\"\n\t}\n\n\treturn \"https://github.com/gokrazy/tools/commit/\" + revision + modifiedSuffix\n}\n\n```\n\nThis is what it looks like in practice:\n\n```\n% go install github.com/gokrazy/tools/cmd/gok@latest\n% gok --version\nhttps://github.com/gokrazy/tools/commit/8ed49b4fafc7\n\n```\n\nBut a version built from git has the full revision available (→ you can tell them apart):\n\n```\n% (cd ~gokrazy/../tools && go install ./cmd/...)\n% gok --version\nhttps://github.com/gokrazy/tools/commit/ba6a8936f4a88ddcf20a3b8f625e323e65664aa6 (modified)\n\n```\n\n## VCS rev with NixOS\n\nWhen packaging Go software with Nix, it’s easy to lose Go VCS revision stamping:\n\n- Nix fetchers like `fetchFromGitHub` are implemented by fetching an archive\n(`.tar.gz`) file from GitHub — the full `.git` repository is not transferred,\nwhich is more efficient.\n\n- Even if a `.git` repository is present, Nix usually intentionally removes it\nfor reproducibility: `.git` directories contain packed objects that change\nacross `git gc` runs (for example), which would break reproducible builds\n(different hash for the same source).\n\nSo the fundamental tension here is between reproducibility and VCS stamping.\n\nLuckily, there is a solution that works for both: I created the\n[`stapelberg/nix/go-vcs-stamping` Nix overlay\nmodule](https://github.com/stapelberg/nix) that you can import to get working Go\nVCS revision stamping by default for your `buildGoModule` Nix expressions!\n\n[![diagram from Git repo to go build without and with my go-vcs-stamping overlay workaround](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-vcs-rev-with-nix.svg)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-vcs-rev-with-nix.svg)\n\n### The Nix Go build situation in detail\n\n**Tip:** If you are not a Nix user, feel free to skip over this section. I\nincluded it in this article so that you have a full example of making VCS\nstamping work in the most complicated environments.\n\nPackaging Go software in Nix is pleasantly straightforward.\n\nFor example, the Go Protobuf generator plugin `protoc-gen-go` is packaged in Nix\nwith <30 lines: [official nixpkgs `protoc-gen-go`\npackage.nix](https://github.com/NixOS/nixpkgs/blob/e347ac28905f77edcd1e9855dedcfb61e517f265/pkgs/by-name/pr/protoc-gen-go/package.nix). You\ncall\n[`buildGoModule`](https://nixos.org/manual/nixpkgs/stable/#ssec-language-go),\nsupply as `src` the result from\n[`fetchFromGitHub`](https://nixos.org/manual/nixpkgs/stable/#fetchfromgithub)\nand add a few lines of metadata.\n\nBut getting developer builds fully stamped is not straightforward at all!\n\nWhen packaging my own software, I want to package individual revisions\n(developer builds), not just released versions. I use the same `buildGoModule`,\nor `buildGoLatestModule` if I need the latest Go version. Instead of using\n`fetchFromGitHub`, I provide my sources using Flakes, usually also from GitHub\nor from another Git repository. For example, I package `gokrazy/bull` like so:\n\n```\n{\n  pkgs,\n  pkgs-unstable,\n  bullsrc,\n  ...\n}:\n\n# Use buildGoLatestModule to build with Go 1.26\n# even before NixOS 26.05 Yarara is released\n# (NixOS 25.11 contains Go 1.25).\npkgs-unstable.buildGoLatestModule {\n  pname = \"bull\";\n  version = \"unstable\";\n\n  src = bullsrc;\n\n  # Needs changing whenever `go mod vendor` changes,\n  # i.e. whenever go.mod is updated to use different versions.\n  vendorHash = \"sha256-sU5j2dji5bX2rp+qwwSFccXNpK2LCpWJq4Omz/jmaXU=\";\n}\n\n```\n\nThe `bullsrc` comes from my `flake.nix`:\n\nClick here to expand the full `flake.nix`\n\n```\n{\n  inputs = {\n    nixpkgs.url = \"github:nixos/nixpkgs/nixos-25.11\";\n    nixpkgs-unstable.url = \"github:nixos/nixpkgs/nixos-unstable\";\n\n    disko = {\n      url = \"github:nix-community/disko\";\n      # Use the same version as nixpkgs\n      inputs.nixpkgs.follows = \"nixpkgs\";\n    };\n\n    stapelbergnix.url = \"github:stapelberg/nix\";\n\n    zkjnastools.url = \"github:stapelberg/zkj-nas-tools\";\n\n    configfiles = {\n      url = \"github:stapelberg/configfiles\";\n      flake = false; # repo is not a flake\n    };\n\n    bullsrc = {\n      url = \"github:gokrazy/bull\";\n      flake = false;\n    };\n\n    sops-nix = {\n      url = \"github:Mic92/sops-nix\";\n      inputs.nixpkgs.follows = \"nixpkgs\";\n    };\n  };\n\n  outputs =\n    {\n      nixpkgs,\n      nixpkgs-unstable,\n      disko,\n      stapelbergnix,\n      zkjnastools,\n      bullsrc,\n      configfiles,\n      sops-nix,\n      ...\n    }:\n    let\n      system = \"x86_64-linux\";\n      pkgs = import nixpkgs {\n        inherit system;\n        config.allowUnfree = false;\n      };\n      pkgs-unstable = import nixpkgs-unstable {\n        inherit system;\n        config.allowUnfree = false;\n      };\n    in\n    {\n      nixosConfigurations.keep = nixpkgs.lib.nixosSystem {\n        inherit system;\n        inherit pkgs;\n        specialArgs = { inherit configfiles; };\n        modules = [\n          disko.nixosModules.disko\n          sops-nix.nixosModules.sops\n          ./configuration.nix\n          stapelbergnix.lib.userSettings\n          stapelbergnix.lib.zshConfig\n          # Use systemd for network configuration\n          stapelbergnix.lib.systemdNetwork\n          # Use systemd-boot as bootloader\n          stapelbergnix.lib.systemdBoot\n          # Run prometheus node exporter in tailnet\n          stapelbergnix.lib.prometheusNode\n          zkjnastools.nixosModules.zkjbackup\n\n          {\n            nixpkgs.overlays = [\n              (final: prev: {\n                bull = import ./bull-pkg.nix {\n                  pkgs = final;\n                  pkgs-unstable = pkgs-unstable;\n                  inherit bullsrc;\n                };\n              })\n            ];\n          }\n\n        ];\n      };\n      formatter.${system} = pkgs.nixfmt-tree;\n    };\n}\n\n```\n\nGo stamps all builds, but it does not have much to stamp here:\n\n- We build from a directory, not a Go module, so the module version is `(devel)`.\n\n- The stamped buildinfo does not contain any `vcs` information.\n\nHere’s a full example of gokrazy/bull:\n\n```\n% go version -m \\\n  /nix/store/z3y90ck0fp1wwd4scljffhwxcrxjhb9j-bull-unstable/bin/bull\n/nix/store/z3y90ck0fp1wwd4scljffhwxcrxjhb9j-bull-unstable/bin/bull: go1.26.1\n        path    github.com/gokrazy/bull/cmd/bull\n        mod     github.com/gokrazy/bull (devel) \n        dep     github.com/BurntSushi/toml      v1.4.1-0.20240526193622-a339e1f7089c    \n        dep     github.com/fsnotify/fsnotify    v1.8.0  \n        dep     github.com/google/renameio/v2   v2.0.2  \n        dep     github.com/yuin/goldmark        v1.7.8  \n        dep     go.abhg.dev/goldmark/wikilink   v0.5.0  \n        dep     golang.org/x/image      v0.23.0 \n        dep     golang.org/x/sync       v0.10.0 \n        dep     golang.org/x/sys        v0.28.0 \n        build   -buildmode=exe\n        build   -compiler=gc\n        build   -trimpath=true\n        build   CGO_ENABLED=0\n        build   GOARCH=amd64\n        build   GOOS=linux\n        build   GOAMD64=v1\n```\n\nTo fix VCS stamping, add my `goVcsStamping` overlay to your `nixosSystem.modules`:\n\n```\n{\n  nixpkgs.overlays = [\n    stapelbergnix.overlays.goVcsStamping\n  ];\n}\n\n```\n\n(If you are using `nixpkgs-unstable`, like I am, you need to apply the overlay in both places.)\n\nAfter rebuilding, your Go binaries should newly be stamped with `vcs` buildinfo:\n\n```\n% go version -m /nix/store/z8mgsf10pkc6dgvi8pfnbb7cs23pqfkn-bull-unstable/bin/bull\n[…]\n  build   vcs=git\n  build   vcs.revision=c0134ef21d37e4ca8346bdcb7ce492954516aed5\n  build   vcs.time=2026-03-22T08:32:55Z\n  build   vcs.modified=false\n\n```\n\nNice! 🥳 But… how does it work? When does it apply? How do you know how to fix\nyour config?\n\nI’ll show you **the full diagram** first, and then explain how to read it:\n\n[![a big diagram showing all the ways from .nix expression to a stamped binary or a binary where VCS info got lost](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-nix-big-picture.svg)](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/2026-04-05-lea-nix-big-picture.svg)\n\nThere are 3 relevant parts of the Nix stack that you can end up in, depending on\nwhat you write into your `.nix` files:\n\n- Fetchers. These are what Flakes use, but also non-Flake use-cases.\n\n- Fixed-output derivations (FOD). This is how `pkgs.fetchgit` is implemented,\nbut the constant hash churn (updating the `sha256` line) inherent to FODs is\nannoying.\n\n- Copiers. These just copy files into the Nix store and are not git-aware.\n\nFor the purpose of VCS revision stamping, you should:\n\n- Avoid the Copiers! If you use Flakes:\n\n❌ do not use `url = \"/home/michael/dcs\"` as a Flake input\n\n- ✅ use `url = \"git+file:///home/michael/dcs\"` instead for git awareness\n\n- I avoid the fixed-output derivation (FOD) as well.\n\nFetching the git repository at build time is slow and inefficient.\n\n- Enabling `leaveDotGit`, which is needed for VCS revision stamping with this\napproach, is even more inefficient because a new Git repository must be\nconstructed deterministically to keep the FOD reproducible.\n\nHence, we will stick to the left-most column: fetchers.\n\nUnfortunately, by default, with fetchers, the VCS revision information, which is\nstored in a Nix attrset (in-memory, during the build process), does not make it\ninto the Nix store, hence, when the Nix derivation is evaluated and Go compiles\nthe source code, Go does not see any VCS revision.\n\nMy [`stapelberg/nix/go-vcs-stamping` Nix overlay\nmodule](https://github.com/stapelberg/nix) fixes this, and enabling the overlay\nis how you end up in the left-most lane of the above diagram: the happy path,\nwhere your Go binaries are now stamped!\n\n### My workaround: Nix git buildinfo overlay\n\nHow does the `go-vcs-stamping` overlay work? It functions as an adapter between\nNix and Go:\n\n- Nix tracks the VCS revision in the `.rev` in-memory attrset.\n\n- Go expects to find the VCS revision in a `.git` repository, accessed via\n`.git/HEAD` file access and [`git(1)`](https://manpages.debian.org/git.1)\n commands.\n\nSo the overlay implements 3 steps to get Go to stamp the correct info:\n\n- It synthesizes a `.git/HEAD` file so that Go’s `vcs.FromDir()` detects a git\nrepository.\n\n- It injects a `git` command into the `PATH` that implements exactly the two\ncommands used by Go and fails loudly on anything else (in case Go updates its\nimplementation).\n\n- It sets `-buildvcs=true` in the `GOFLAGS` environment variable.\n\nFor the full source, see\n[`go-vcs-stamping.nix`](https://github.com/stapelberg/nix/blob/main/go-vcs-stamping.nix).\n\n### The clean fix\n\nSee [Go issue #77020](https://github.com/golang/go/issues/77020) and [Go issue\n#64162](https://github.com/golang/go/issues/64162) for a cleaner approach to\nfixing this gap: allowing package managers to invoke the Go tool with the\ncorrect VCS information injected.\n\nThis would allow Nix (or also gokrazy) to pass along buildinfo cleanly, without\nthe need for [workarounds like my `go-vcs-stamping`\nadapter](#nixos-buildinfo-overlay).\n\nAt the time of writing, issue #77020 does not seem to have much traction and is\nstill open.\n\n## Conclusion: Stamp it! Plumb it! Report it!\n\nMy argument is simple:\n\n**Stamping the VCS revision is conceptually easy, but very important!**\n\nFor example, if the production system from the incident I mentioned had reported\nits version, we would have saved multiple hours of mitigation time!\n\nUnfortunately, many environments only identify the build output (useful, but\northogonal), but do not plumb the VCS revision (much more useful!), or at least\nnot by default.\n\nYour action plan to fix it is just 3 simple steps:\n\n- Stamp it! Include the source VCS revision in your programs.\n\nThis is not a new idea: [i3](https://i3wm.org/) builds include their [`git-describe(1)`](https://manpages.debian.org/git-describe.1)\n revision since 2012!\n\n- Plumb it! When building / packaging, ensure the VCS revision does not get lost.\n\nMy [“VCS rev with NixOS”](#vcs-rev-with-nixos) case study section above\nillustrates several reasons why the VCS rev could get lost, which paths\ncan work and how to fix the missing plumbing.\n\n- Report it! Make your software print its VCS revision on every relevant\nsurface, for example:\n\n**Executable programs:** Report the VCS revision when run with `--version`\n\nFor Go programs, you can always use `go version -m`\n\n- **Services and batch jobs:** Include the VCS revision in the startup logs.\n\n- **Outgoing HTTP requests:** Include the VCS revision in the `User-Agent`\n\n- **HTTP responses:** Include the VCS revision in a header (internally)\n\n- **Remote Procedure Calls (RPCs):** Include the revision in RPC metadata\n\n- **User Interfaces:** Expose the revision somewhere visible for debugging.\n\nImplementing “version observability” throughout your system is a one-day\nhigh-ROI project.\n\nWith my Nix example, you saw how the VCS revision is available throughout the\nstack, but can get lost in the middle. Hopefully my resources help you quickly\nfix your stack(s), too:\n\n- [My `stapelberg/nix/go-vcs-stamping`\noverlay](https://github.com/stapelberg/nix) for Nix / NixOS\n\n- [My `stampit` repository](https://github.com/stapelberg/stampit) is a\ncommunity resource to collect examples (as markdown content) and includes a Go\nmodule with a few helpers to make version reporting trivial.\n\n***Now go stamp your programs and data transfers! 🚀***\n\n  \n    Did you like this\n    post? [Subscribe to this\n      blog’s RSS feed](https://michael.stapelberg.ch/feed.xml) to not miss any new posts!\n  \n\n  \n    I run a blog since 2005, spreading knowledge and experience for over 20 years! :)\n  \n\n  \n    If you want to support my work, you\n    can [buy me a coffee](https://www.buymeacoffee.com/stapelberg).\n  \n\n  \n    Thank you for your support! ❤️",
+        "url": "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/",
+        "source": "Michael Stapelbergs Website",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-05T14:20:00.000Z",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Chengpeng Mou - 5th April 2026 > From anonymized U.S. ChatGPT data, we are seeing: > > - ~2M weekly messag...",
+    "Syntaqlite Playground - Lalit Maganti's [syntaqlite](https://github.com/LalitMaganti/syntaqlite) is currently bein...",
+    "research-llm-apis 2026-04-04 - I'm working on a [major change](https://github.com/simonw/llm/issues/1314) to my LLM Pytho...",
+    "Material Security - ## Stop email attacks, protect sensitive data, and simplify your security operations Mater...",
+    "iOS 26 Feels Faster Than iOS 18 - [Apple Releases iOS 18 Security Updates for iOS 26 Holdouts](https://sixcolors.com/post/20..."
+  ],
+  "wordcloud": [
+    {
+      "word": "apr",
+      "count": 8
+    },
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "scan-for-secrets",
+      "count": 6
+    },
+    {
+      "word": "strong",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "security",
+      "count": 4
+    },
+    {
+      "word": "ios",
+      "count": 4
+    },
+    {
+      "word": "simonw",
+      "count": 3
+    },
+    {
+      "word": "releases",
+      "count": 3
+    },
+    {
+      "word": "email",
+      "count": 3
+    },
+    {
+      "word": "service",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "syntaqlite",
+      "count": 3
+    },
+    {
+      "word": "llm",
+      "count": 3
+    },
+    {
+      "word": "sold",
+      "count": 3
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "tag",
+      "count": 2
+    },
+    {
+      "word": "ul",
+      "count": 2
+    },
+    {
+      "word": "li",
+      "count": 2
+    },
+    {
+      "word": "cli",
+      "count": 2
+    },
+    {
+      "word": "tool",
+      "count": 2
+    },
+    {
+      "word": "end",
+      "count": 2
+    },
+    {
+      "word": "address",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "nerds",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "messages",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "provides",
+      "count": 2
+    },
+    {
+      "word": "material",
+      "count": 2
+    },
+    {
+      "word": "sensitive",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "holdouts",
+      "count": 2
+    },
+    {
+      "word": "table",
+      "count": 2
+    },
+    {
+      "word": "sponsorship",
+      "count": 2
+    },
+    {
+      "word": "perplexity",
+      "count": 2
+    },
+    {
+      "word": "version",
+      "count": 2
+    },
+    {
+      "word": "versioning",
+      "count": 2
+    }
+  ]
+}
