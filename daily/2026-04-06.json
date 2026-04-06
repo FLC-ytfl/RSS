@@ -1,0 +1,788 @@
+{
+  "date": "2026-04-06",
+  "stats": {
+    "total_fetched": 278,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "scan-for-secrets 0.3",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/scan-for-secrets/releases/tag/0.3\">scan-for-secrets 0.3</a></p> <blockquote> <ul> <li>New <code>-r/--redact</code> option which shows the list of matches, a...",
+        "url": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-04-06T02:59:28.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[Sponsor] Zed, a Font Superfamily",
+        "summary": "Zed is a type system that was developed with one question in mind: what do readers actually need? Not what looks good in a type specimen, but what works for the widest possible range of readers. We tested Zed with visual...",
+        "url": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-06T19:15:05.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Little Finder Guy Stars in Nine New Videos on TikTok and YouTube",
+        "summary": "Juli Clover, at MacRumors: Apple has shared nine Little Finder Guy videos this week, and on TikTok, the thumbnails for the videos come together to make a Little Finder Guy mosaic on the Apple TikTok page. I hope this doe...",
+        "url": "https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-06T16:39:26.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+        "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed...",
+        "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Mon, 06 Apr 2026 02:07:17 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] Banana for scale",
+        "summary": "This post is exclusive to RSS feed subscribers. Enjoy! I've had this idea stuck in my head for a while, so I decided to make it. This is \"Scan Slowly And See\". The code is made by cloning some of the banana's spots. Do l...",
+        "url": "https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Mon, 06 Apr 2026 11:34:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight",
+        "summary": "If the compiler is complaining about things you didn't write, find out who wrote them. The post Learning to read C++ compiler errors: Illegal use of <TT>-></TT> when there is no <TT>-></TT> in sight appeared first on The...",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Mon, 06 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments",
+        "summary": "Executive Summary OpenAI CFO Sarah Friar has, per The Information, said that OpenAI is not ready to go public in 2026, in part because of the \"risks from its spending commitments\" and not being sure whether the company's...",
+        "url": "https://www.wheresyoured.at/openai-cfo-news/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Product"
+        ],
+        "published_at": "Mon, 06 Apr 2026 14:49:40 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Windows 3.1 released April 6, 1992",
+        "summary": "Released April 6, 1992, Windows 3.1 was the successor to the very successful Windows 3.0. It wasn’t great, just like Windows 3.0 wasn’t great. But it was a graphical user interface that ran on very inexpensive ordinary P...",
+        "url": "https://dfarq.homeip.net/windows-3-1-released-april-6-1992/?utm_source=rss&utm_medium=rss&utm_campaign=windows-3-1-released-april-6-1992",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Mon, 06 Apr 2026 11:00:29 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we built Organizations to help enterprises manage Cloudflare at scale",
+        "summary": "Cloudflare Organizations is now in public beta, introducing a new management layer for enterprise customers with multiple accounts. Learn how we consolidated our authorization systems to enable org-wide management.",
+        "url": "https://blog.cloudflare.com/organizations-beta/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Mon, 06 Apr 2026 21:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What next for the compute crunch?",
+        "summary": "AI compute demand is growing exponentially while supply constraints bite hard. The next 18-24 months are going to be defined by shortages, rationing and price discovery.",
+        "url": "https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Mon, 06 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-06T22:25:44.968Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Prototyping with LLMs",
+        "summary": "Did you know that Jesus gave advice about prototyping with an LLM? Here’s Luke 14:28-30:\n\n> Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have",
+        "content": "Did you know that Jesus gave advice about prototyping with an LLM? Here’s Luke 14:28-30:\n\n> Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it? For if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you, saying, ‘This person began to build and wasn’t able to finish.’\n\nThat pretty much sums me up when [I try to vibe a prototype](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/).\n\nDon’t get me wrong, [I’m a big advocate of prototyping](https://blog.jim-nielsen.com/tags#prototyping).\n\nAnd LLMs make prototyping really easy and interesting.\n\nAnd because it’s so easy, there’s a huge temptation to jump straight to prototyping.\n\nBut what I’ve been finding in my own behavior is that I’ll be mid-prototyping with the LLM and asking myself, “What am I even trying to do here?”\n\nAnd the thought I have is: “I’d be in a much more productive place right now if I’d put a tiny bit more thought upfront into what I am actually trying to build.” Instead, I just jumped right in, chasing a fuzzy feeling or idea only to end up in a place where I’m more confused about what I set out to do than when I started.\n\nDon’t get me wrong, that’s fine. That’s part of prototyping. It’s inherent to the design process to get more confused before you find clarity.\n\nBut there’s an alternative to LLM prototyping that’s often faster and cheaper: sketching.\n\nI’ve found many times that if I start an idea by sketching it out, do you know where I end up? At a place where I say, “Actually, I don’t want to build this.” And in that case, all I have to do is take my sketch and throw it away. It didn’t cost me any tokens or compute to figure that out. Talk about efficiency!\n\nI suppose what I’m saying here is: it’s good to think further ahead than the tracks you’re laying out immediately in front of you. Sketching is a *great* way to do that.\n\n(Thanks to [Facundo](https://olano.dev/) for prompting these thoughts out of me.)",
+        "url": "https://blog.jim-nielsen.com/2026/prototyping-with-llm/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Mon, 06 Apr 2026 19:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-ports 0.1",
+        "summary": "Release\n    \n    [datasette-ports 0.1](https://github.com/datasette/datasette-ports/releases/tag/0.1)\n    — Find all currently running Datasette instances and list their ports\n  \n\nAnother [example](ht",
+        "content": "Release\n    \n    [datasette-ports 0.1](https://github.com/datasette/datasette-ports/releases/tag/0.1)\n    — Find all currently running Datasette instances and list their ports\n  \n\nAnother [example](https://gisthost.github.io/?f92d8a6bdadee1c77972b5e51954144e) of README-driven development, this time solving a problem that might be unique to me.\n\nI often find myself running a bunch of different [Datasette](https://datasette.io/) instances with different databases and different in-development plugins, spreads across dozens of different terminal windows - enough that I frequently lose them!\n\nNow I can run this:\n\n```\ndatasette install datasette-ports\ndatasette ports\n\n```\n\nAnd get a list of every running instance that looks something like this:\n\n```\nhttp://127.0.0.1:8333/ - v1.0a26\n  Databases: data\n  Plugins: datasette-enrichments, datasette-enrichments-llm, datasette-llm, datasette-secrets\nhttp://127.0.0.1:8001/ - v1.0a26\n  Databases: creatures\n  Plugins: datasette-extract, datasette-llm, datasette-secrets\nhttp://127.0.0.1:8900/ - v0.65.2\n  Databases: logs\n\n```",
+        "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-06T00:23:55.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Google AI Edge Gallery",
+        "summary": "6th April 2026 - Link Blog\n\n**[Google AI Edge Gallery](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)** ([via](https://news.ycombinator.com/item?id=47652561)) Terrible name, really",
+        "content": "6th April 2026 - Link Blog\n\n**[Google AI Edge Gallery](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)** ([via](https://news.ycombinator.com/item?id=47652561)) Terrible name, really great app: this is Google's official app for running their Gemma 4 models (the E2B and E4B sizes, plus some members of the Gemma 3 family) directly on your iPhone.\n\nIt works *really* well. The E2B model is a 2.54GB download and is both fast and genuinely useful.\n\nThe app also provides \"ask questions about images\" and audio transcription (up to 30s) with the two small Gemma 4 models, and has an interesting \"skills\" demo which demonstrates tool calling against eight different interactive widgets, each implemented as an HTML page (though sadly the source code is not visible): interactive-map, kitchen-adventure, calculate-hash, text-spinner, mood-tracker, mnemonic-password, query-wikipedia, and qr-code.\n\n![Screenshot of an \"Agent Skills\" chat interface using the Gemma-4-E2B-it model. The user prompt reads \"Show me the Castro Theatre on a map.\" The model response, labeled \"Model on GPU,\" shows it \"Called JS skill 'interactive-map/index.html'\" and displays an embedded Google Map centered on a red pin at The Castro Theatre in San Francisco, with nearby landmarks visible including Starbelly, Cliff's Variety, Blind Butcher, GLBT Historical Society Museum, and Fable. An \"Open in Maps\" link and \"View in full screen\" button are shown. Below the map, the model states \"The interactive map view for the Castro Theatre has been shown.\" with a response time of 2.4 s. A text input field with \"Type prompt...\" placeholder, a \"+\" button, and a \"Skills\" button appear at the bottom.](https://static.simonwillison.net/static/2026/gemini-agent-skills.jpg)\n\n(That demo did freeze the app when I tried to add a follow-up prompt though.)\n\nThis is the first time I've seen a local model vendor release an official app for trying out their models on in iPhone. Sadly it's missing permanent logs - conversations with this app are ephemeral.",
+        "url": "https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "Hardware"
+        ],
+        "published_at": "2026-04-06T05:18:26.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Cleanup Claude Code Paste",
+        "summary": "This is a **beat** by Simon Willison, posted on [6th April 2026](https://simonwillison.net/2026/Apr/6/).\n\n    \n        [\n            tools\n            55\n        ](https://simonwillison.net/tags/tools",
+        "content": "This is a **beat** by Simon Willison, posted on [6th April 2026](https://simonwillison.net/2026/Apr/6/).\n\n    \n        [\n            tools\n            55\n        ](https://simonwillison.net/tags/tools/)\n    \n        [\n            claude-code\n            104\n        ](https://simonwillison.net/tags/claude-code/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-04-06T02:55:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code",
+        "summary": "And Gabriel Anhaia took a bird’s eye view, [explaining](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo) how many lines of code ",
+        "content": "And Gabriel Anhaia took a bird’s eye view, [explaining](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo) how many lines of code make up some of the components—around 40,000 for a plugin-like tool system, and 46,000 for the query system—and noting that Claude Code is “a production-grade developer experience, not just a wrapper around an API” and that its sophistication is “both inspiring and humbling.”\n\nThere had previously been extensive efforts in some developer communities to reverse-engineer Claude Code, with some success, but not with this totality.\n\nWhile Anthropic’s trade secrets have some legal protection, there are architectural insights that are valuable to competitors—useful for improving their own architecture, speeding up development of competing tools, seeing what Anthropic is working on next, and identifying gaps in what Anthropic has worked out.\n\nFurther, bad actors looking for security vulnerabilities now have a map for bypassing the guardrails Anthropic has put in place. The category Claude Code occupies (and currently leads) is moving very quickly, though, and it’s hard to predict right now how much of a problem this will be a few months down the road.",
+        "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-04-06T19:04:54.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Cathedral and the Catacombs",
+        "summary": "Eric Raymond’s [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) is almost thirty years old and people are still finding new ways to extend the metaphor. Drew Breunig",
+        "content": "Eric Raymond’s [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) is almost thirty years old and people are still finding new ways to extend the metaphor. Drew Breunig recently described a third mode, the [Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html), for the sprawling codebases that agentic AI produces: rooms that lead nowhere, staircases into ceilings, a single builder with no plan. That piece got me thinking, though it shares a blind spot with every other response to Raymond I’ve read.\n\nAs the P2P Foundation [pointed out](https://blog.p2pfoundation.net/revisiting-the-cathedralbazaar-metaphor-why-both-eric-raymond-and-nicholas-carr-got-it-partly-wrong/2007/08/11), historical cathedrals were communal projects that mobilized entire communities through donations and voluntary labour, not top-down designs imposed by a single architect, and the bazaar isn’t really a market when nothing is priced and there are no merchants. But the responses all stay within the same frame: process, governance, and who builds.\n\nI find it odd that in nearly three decades of cathedral-and-bazaar discourse, nobody has written about the catacombs: the dependency graph underneath every project, the deep network of transitive packages and shared libraries and unmaintained infrastructure that the visible building rests on, regardless of whether a cathedral architect or a bazaar crowd built it.\n\nWhen Raymond wrote that “given enough eyeballs, all bugs are shallow”, he was talking about the thing you can see: the project, its source, its public development process. Linus’s law assumes people are looking. The dependency tree breaks that assumption.\n\nA typical JavaScript project can pull in hundreds of transitive dependencies that nobody on the team has read, written by maintainers they’ve never heard of, last updated at various points over the past several years. The cathedral’s architects didn’t inspect the catacombs before building on top of them, and the bazaar’s crowd didn’t either, because in both cases the construction process is what gets all the attention while the foundations are treated as someone else’s concern.\n\nJosh Bressers [argued](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/) that successful open source projects are really megachurches now, large structured organizations with budgets and governance, while the actual bazaar is the neglected hobbyist layer underneath. He comes closest to this when he identifies that neglected layer, and Nadia Eghbal’s [Roads and Bridges](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) documented the same neglect as an infrastructure funding problem back in 2016. But both are talking about maintainers and their working conditions, which is still a question about people and process.\n\nIt’s not just that the maintainers of your transitive dependencies are overworked or under-resourced (though they are). It’s that the dependency graph itself is a load-bearing structure that nobody designed and nobody audits as a whole. There are partial efforts: lockfiles, SBOMs, dependency scanners, distro maintainers who vet packages one at a time. But none of them look at the graph as a connected system. It assembled itself through thousands of independent decisions by maintainers who each added whatever looked useful, and the result is an unmapped network of tunnels under the building that happens to hold the floor up.\n\nReal catacombs are underground networks that were built for one purpose, repurposed for another, and eventually forgotten about until someone discovers they’ve been structurally compromised or that unauthorized people have been using them to get into buildings above. A package gets written to solve a small problem, other packages start depending on it, applications pull it in transitively, and eventually it’s load-bearing infrastructure maintained by someone who wrote it on a weekend years ago and barely remembers it exists.  Every package ecosystem has some version of this, though [npm’s defaults](https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html) are especially good at making it worse.\n\nAnd like real catacombs, they get used as ways in. The [xz backdoor](https://www.openwall.com/lists/oss-security/2024/03/29/4) didn’t try to get through the front door of any distribution. A co-maintainer spent two years building trust in a compression library that sits deep in the dependency graph of almost every Linux system, then planted obfuscated code in the build system. The [event-stream attack](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident) took over a single abandoned npm package and used it to target a completely different application downstream. Neither attack targeted the cathedral or the bazaar directly, they used the dependency graph as a tunnel network to reach targets that were well-defended at every visible entrance.\n\nWhether your project is built cathedral-style with careful central control, or bazaar-style with open contribution, or Winchester Mystery House-style by an AI that doesn’t know what a staircase is for, makes very little difference to the structural risk underneath. A cathedral with meticulous code review and a strict merge process installs its dependencies from the same registries as the most chaotic bazaar project, inherits the same transitive chains, runs the same lifecycle scripts during build. The governance model describes how the floors are laid, but the dependency graph underneath comes from the same place.\n\nCan you imagine what the basement of the Winchester Mystery House looks like? AI coding agents tend to pull in dependencies much more aggressively than most humans would, extending the graph in ways that are hard to review even in principle. And since early 2026, a growing number of people have been pointing AI at open source projects to find security vulnerabilities, sending automated explorers into the catacombs and filing reports faster than maintainers can triage them.",
+        "url": "https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-04-06T10:00:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It ",
+        "summary": "I've been working on personal projects since the 2000s. One thing I've always been adamant about is understanding the code I write. Even when Stack Overflow came along, I was that annoying guy who tol",
+        "content": "I've been working on personal projects since the 2000s. One thing I've always been adamant about is understanding the code I write. Even when Stack Overflow came along, I was that annoying guy who told people not to copy and paste code into their repos. Instead, they should read it and adapt it to their specific case. On personal projects, I've applied this to a fault. Projects never get done because I'm reading and editing code to make it work exactly as I want.\n\nI am by no means trying to convince you that my code is high quality. Every day, I regret the design choices I made for this very blog. But at the very least, I like to understand the code that powers my projects. So you can imagine how I struggle with the reviewing part when AI writes a large chunk of our daily work. Large language models are just so verbose, and often produce large blocks of code that don't even get used. I don't want to attribute it to malice (wasting your tokens) when I know this is an emergent technology we are all still adapting to.\n\nBut it doesn't help that there is just so much code to review. What I tell myself when I review an AI-generated PR is: if I don't have a mental model of how the application works, how can I be of any use when it fails?\n\nThis weekend, I decided to tackle a project I've been postponing since I created this blog over a decade ago. I needed a nice interface to upload assets, such as images, to go with each blog post. According to my git history, I started work on it 11 years ago but never finished. Yet I've still been uploading images regularly to go with blog posts. How? Using `scp` and `sftp`. Like a caveman.\n\nWhenever I finish writing a blog post, I create images in Photoshop or Photopea, fire up FileZilla to connect to my file server, and drag and drop my assets. Then, of course, I have to log back into the blog's admin panel and provide the correct URLs for those assets. It's as primitive as it gets.\n\nThis was a perfect project to tackle with AI. The good news is that I was able to complete it in a single day. The bad news. Well, I read through close to 5,000 lines of code.\n\nThis is the first time I've used an LLM to write PHP code. I used the GLM-5 model from z.ai, which I've often played with for generating graphs from data. I'll have to try it on a few more PHP projects before I commit to this opinion, but *it consistently wrote spaghetti code*. Spaghetti code, to me, is anything where logic is embedded directly in a template. HTML, CSS, and database queries all crammed into the same file. That's really hard to maintain. I did realize, though, that my instructions were in direct contradiction with the agent's system prompt. It was explicit in the thinking process:\n\n> This is NOT a Next.js project - the user explicitly wants a PHP app. So I should NOT use the Next.js project that's already initialized. I should create a PHP application.\n\n> \n> Wait, but the instructions say \"You are an interactive CLI tool that helps users with software engineering tasks\" and \"Now you are developing a comprehensive and feature-rich Next.js project from scratch.\" But the user is explicitly asking for a PHP app. I should follow the user's request.\n\nIt did generate a bunch of Node.js code, which I was able to remove manually. Luckily, it kept the PHP project in its own folder.\n\n```\nmedia-manager/\n├── config.php          # App configuration (paths, security, upload rules)\n├── init.php            # SQLite database initialization\n├── auth.php            # Authentication class (bcrypt + sessions)\n├── index.php           # Main UI (goes to public/)\n├── api/\n│   ├── auth.php        # Login/Logout endpoint\n│   ├── check.php       # Auth status check\n│   ├── list.php        # List assets for a blog post\n│   ├── upload.php      # Multi-file upload with validation\n│   └── delete.php      # Delete asset (disk + DB)\n├── nginx.conf          # Nginx site configuration\n├── install.sh          # Automated setup script\n└── .gitignore\n\n```\n\nIf you're wondering how 12 files contain ~5,000 lines of code, I wondered the same. But that's what spaghetti code does. I set it up locally, ran `install.sh` and `init.php`, and a few more files and folders were generated. When I finally ran the application, it didn't work. I spent a few hours working through permissions, updating the install script, and modifying the SQLite setup. I thought StackOverflow was dead, but I don't think I would have gotten SQLite working without it. One error, for example, was that SQLite kept throwing a warning that it was running in read-only mode. Apparently, you have to make the parent folder writable (not just the database file) to enable write mode.\n\nIt had been a long time since I'd manually `include`d files in PHP. I normally use namespaces and autoload. Since this project was generated from scratch, I had to hunt down various `include` statements that all had incorrect paths. Once I sorted those out, I had to deal with authentication. PHP sessions come with batteries included, you call `session_start()` and you can read and write session variables via the `$_SESSION` global. But I couldn't figure out why it kept failing.\n\nWhen I created a standalone test file, sessions worked fine. But when loaded through the application, values weren't being saved. I spent a good while debugging before I found that `session_start()` was missing from the login success flow. When I logged in, the page redirected to the dashboard, but every subsequent action that required authentication immediately kicked me out.\n\nEven after fixing all those issues and getting uploads working, something still bothered me: how do I maintain this code? How do I add new pages to manage uploaded assets? Do I add meatballs directly to the spaghetti? Or do I just trust the AI agent to know where to put new features?\n\nTechnically it could do that, but I'd have to rely entirely on the AI without ever understanding how things work. So I did the only sane thing: I rewrote a large part of the code and restructured the project. Maybe I should have started there, but I didn't know what I wanted until I saw it. Which is probably why I had been dragging this project along for 11 years.\n\n```\nmedia-manager/\n├── README.md\n├── conf\n│   └── nginx.conf\n├── config.php\n├── data\n│   └── media.db\n├── init.php\n├── install.sh\n├── public\n│   ├── favicon.png\n│   ├── index.php\n│   ├── logo.png\n│   ├── logo_alpha.png\n│   └── logo_purple.png\n├── src\n│   ├── controllers\n│   │   ├── assets.php\n│   │   ├── auth.php\n│   │   └── home.php\n│   ├── lib\n│   │   ├── auth.php\n│   │   └── router.php\n│   └── models\n│       └── assets.php\n└── template\n    ├── layout.php\n    ├── header.php\n    ├── footer.php\n    └── layout.php\n\n```\n\nYes, now I have 22 files, almost double the original count. But the code is also much simpler at just 1,254 lines.\n\n```\n-------------------------------------------------------------------------------\nLanguage                     files          blank        comment           code\n-------------------------------------------------------------------------------\nPHP                             13            239            336           1131\nBourne Shell                     1             39             25            123\n-------------------------------------------------------------------------------\nSUM:                            14            278            361           1254\n-------------------------------------------------------------------------------\n\n```\n\nThere's far less cognitive load when it comes to fixing bugs. There's still a lot to improve, but it's a much leaner foundation.\n\nThe question I keep coming back to is: would it have been easier to do this manually? Well, the timeline speaks for itself. I had been neglecting this project for years. Without AI, I probably never would have finished it. That said, it would have been easier to build on my existing framework. My blog's framework has been tested for years and has accumulated a lot of useful features: a template engine, a working router, an auth system, and more. All things I had to re-engineer from scratch here. If I'd taken the time to work within my own framework, it probably would have taken less time overall. \n\nBut AI gave me the illusion that the work could be done much faster. Z.ai generated the whole thing in just 12 minutes. It took an additional 10 hours to clean it up and get it working the way I wanted.\n\nThis reminds me of several non-technical friends who [built/vibe-coded](https://idiallo.com/blog/my-non-programmer-friends-built-apps) apps last year. The initial results looked impressive. Most of them don't have a working app anymore, because they realized that the cleanup is just as important as the generation if you want something that actually holds together. I can only imagine what \"vibe-debugging\" looks like.\n\nI'm glad I have a working app, but I'm not sure I can honestly call this vibe-coded. Most, if not all, of the files have been rewritten. When companies claim that [a significant percentage of their code is AI-generated](https://idiallo.com/blog/is-30-percent-of-microsoft-code-ai-generated), do their developers agree? For me, it's unthinkable to deploy code I haven't vetted and understood. But I'm not the benchmark. In the meantime, I think I've earned the right to say this the next time I ship an AI-assisted app:\n\n> \"I apologize for so many lines of code - I didn't have time to write a shorter app.\"",
+        "url": "https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Mon, 06 Apr 2026 13:00:00 GMT",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/06Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/06/empiricis",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/06Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/06/empiricism-washing/)\n\n## Today's links\n\n- [Your boss wants to use surveillance data to cut your wages](https://pluralistic.net/2026/04/06/empiricism-washing/#veena-dubal): Tech rights are labor rights (again).\n\n- [Hey look at this](https://pluralistic.net/2026/04/06/empiricism-washing/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/06/empiricism-washing/#retro): Arthur C Clarke v Buddhist monks (x DST); Bomb squad v life-size Mario power-ups; Panama Papers; Chinese antitrust; Consumerism v New Jim Crow; Absurd English spelling; Save Netflix! David Cameron's dad v Panama Papers; Trick photos with a giant coin; End-stage capitalism.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/06/empiricism-washing/#upcoming): Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/06/empiricism-washing/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/06/empiricism-washing/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/06/empiricism-washing/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/06/empiricism-washing/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/algorithmic-wage-theft.jpg?w=840&ssl=1)\n\n## Your boss wants to use surveillance data to cut your wages ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#veena-dubal))\n\nWhat industry calls \"personalized pricing\" is really *surveillance* pricing: using digital tools' flexibility to change the price for each user, and using surveillance data to guess the worst price you'll accept:\n\n[https://pluralistic.net/2025/06/24/price-discrimination/](https://pluralistic.net/2025/06/24/price-discrimination/)\n\nAt root, surveillance pricing allows companies to revalue both your savings and your labor. If you get charged $2 for something I only pay $1 for, the seller is essentially reaching into your bank account and revaluing the dollars in it at 50 cents apiece. If you get paid $1 for a job that I make $2 for, then the boss is valuing your labor at 50% of my labor:\n\n[https://pluralistic.net/2025/06/24/price-discrimination/#](https://pluralistic.net/2025/06/24/price-discrimination/#)\n\nSurveillance pricing is a key part of enshittification, relying on three of the key enshittificatory factors that have transformed this era into the enshittocene:\n\nI. Monopoly: Surveillance pricing is undesirable to both workers and buyers, so in a competitive market, surveillance pricing would drive labor and consumption to non-surveilling rivals:\n\n[https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/](https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/)\n\nII. Regulatory capture: Surveillance pricing only exists because of weak regulation and weak enforcement of existing regulations. To engage in surveillance pricing, a company must first put you under surveillance, something that is only possible in the absence of effective privacy law.\n\nIn the USA, privacy law hasn't been updated since Congress passed a law in 1988 that banned video-store clerks from disclosing your VHS rentals:\n\n[https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism](https://pluralistic.net/2025/10/31/losing-the-crypto-wars/#surveillance-monopolism)\n\nIn the EU, the strong privacy provisions in the GDPR have been neutralized by US tech giants who fly an Irish flag of convenience. Ireland attracts these companies by allowing them to evade their taxes, but it can only keep these companies by allowing them to break *any* law that gets in their way, because if Meta can pretend to be Irish this week, it could pretend to be Maltese (or Cypriot, Luxembourgeois, or Dutch) next week:\n\n[https://pluralistic.net/2023/05/15/finnegans-snooze/#dirty-old-town](https://pluralistic.net/2023/05/15/finnegans-snooze/#dirty-old-town)\n\nWhat's more, competition laws in the EU and the USA ban surveillance pricing, but a half-century of lax competition law enforcement has allowed companies to routinely engage in the \"unfair and deceptive methods of competition\" banned in both territories.\n\nIII. Twiddling: \"Twiddling\" is my word for the way that digitized businesses can use computers' flexibility to alter their prices, offers, and other fundamentals on a per-user, per-session basis. It's not enough to spy on users: to engage in surveillance pricing, you have to be able to mobilize that surveillance data from instant to instant, changing the prices for every user. This can only be done once a business has been digitized:\n\n[https://pluralistic.net/2023/02/19/twiddler/](https://pluralistic.net/2023/02/19/twiddler/)\n\nCombine monopoly, weak privacy law, weak competition law, and digitization, and you don't just make surveillance pricing possible – at that point, it's practically inevitable. This is what it means to create an enshittogenic policy environment: by arranging policy so that the most awful schemes of the worst people are the most profitable, you guarantee that those people will end up organizing commercial and labor markets.\n\nWhen surveillance pricing is applied to labor, we call it \"algorithmic wage discrimination,\" a term coined by Veena Dubal based on her research with Uber drivers:\n\n[https://pluralistic.net/2023/04/12/algorithmic-wage-discrimination/#fishers-of-men](https://pluralistic.net/2023/04/12/algorithmic-wage-discrimination/#fishers-of-men)\n\nUber uses historic data on drivers to make inferences about how economically precarious they are, and then extracts a \"desperation premium\" from their wages. Drivers who are pickier about which rides they accept (\"pickers\") are offered higher wages than drivers who take any ride (\"ants\"):\n\n[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4331080](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4331080)\n\nOn the back-end, Uber is inferring that the reason an ant will accept a worse job is that they have fewer choices – they are more strapped for cash and/or have fewer options for earning a higher wage.\n\nThis is a straightforward form of algorithmic wage discrimination, using the blunt signal of how discriminating a driver is when signing onto a job to titer the subsequent wage offered to that driver. More sophisticated forms of algorithmic wage discrimination draw on *external* sources of data to set the price of your labor.\n\nThat's the situation for contract nurses, whose traditional brick-and-mortar staffing agencies have been replaced by nationwide apps that market themselves as \"Uber for nursing.\" These apps use commercial surveillance data from the unregulated data-broker sector to check on how much credit card debt a nurse is carrying and whether that debt is delinquent to set a wage: the more debt you have and the more dire your indebtedness is, the lower the wage you are offered (and therefore the more debt you accumulate – lather, rinse, repeat):\n\n[https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)\n\nSurveillance wages are now proliferating to other parts of the economy, as \"consultancies\" offer software to employers that let them set all parts of your compensation – base wage, annual raises, and bonuses – based on your perceived desperation, as derived from commercial surveillance data that has been collected about you:\n\n[https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb)\n\nGenna Contino's *Marketwatch* article on the phenomenon offers a concise definition of \"surveillance wages\":\n\n> \n> a system in which wages are based not on an employee’s performance or seniority, but on formulas that use their personal data, often collected without employees’ knowledge.\n> \n\nThis means that carrying a credit-card balance, taking out a payday loan, or even discussing your indebtedness on social media can all lead to lower wages in the future. Contino references a recent report released by Dubal and tech strategist Wilneida Negrón, surveying 500 large firms, which concluded that surveillance wages are now being offered in sectors as diverse as \"healthcare, customer service, logistics and retail.\" Customers for surveillance wage tools include \"Intuit, Salesforce, Colgate-Palmolive, Amwell and Healthcare Services Group\":\n\n[https://equitablegrowth.org/how-artificial-intelligence-uncouples-hard-work-from-fair-wages-through-surveillance-pay-practices-and-how-to-fix-it/](https://equitablegrowth.org/how-artificial-intelligence-uncouples-hard-work-from-fair-wages-through-surveillance-pay-practices-and-how-to-fix-it/)\n\nAfter a brief crackdown under Biden, the Trump regime has been extraordinarily welcoming to surveillance pricing companies, dropping investigations and cases against firms that engaged in the practice. A few states are stepping in to fill the gap, with New York state passing a rule requiring disclosure of surveillance pricing – a modest step that was nevertheless fought tooth-and-nail by the state's businesses.\n\nIn Colorado, a new House bill called the \"Prohibit Surveillance Data to Set Prices and Wages Act\" would prohibit the use of personal information in wage-setting:\n\n[https://leg.colorado.gov/bills/hb25-1264](https://leg.colorado.gov/bills/hb25-1264)\n\nThis bill hasn't passed yet, but it's already doing useful work. Companies universally deny using surveillance data to set wages, insisting that they merely pay for consulting services that give them advice on how they *could* do surveillance wages – but don't actually take that advice. However, these same companies – including Uber and Lyft – are ferociously lobbying against the bill, raising an obvious question, articulated by the bill's co-sponsor Rep Javier Mabrey (D-1): if these companies don't pay surveillance wages, then \"what is the problem of codifying in law that you’re not allowed to?\"\n\nSurveillance wages are a rare profitable use-case for AI, in part because surveillance wages don't need to be \"correct\" in order to be effective. An employee who is offered a wage that's slightly higher than the lowest sum they'd accept still represents a savings to the company's wage-bill. As ever, AI is great for fully automating tasks if you don't care whether they're done well:\n\n[https://pluralistic.net/2026/03/22/nobodys-home/#squeeze-that-hog](https://pluralistic.net/2026/03/22/nobodys-home/#squeeze-that-hog)\n\nThe fact that surveillance wages are calculated by external contractors enables employers to engage in otherwise illegal price-fixing. If all the garages in town set mechanics' wages using the same surveillance pricing tool, then a mechanic looking for a job will get the same lowball offer from all nearby employers. If those bosses were to gather around a table and fix the wage for any (or all) mechanics, that would be wildly illegal, but the fact that this is done via a software package lets the bosses claim they're not *actually* colluding.\n\nThis is a common practice in other forms of price-fixing. We see it in meat, potato products, and, of course, rental accommodations (hey there, Realpage!). It's a genuinely stupid ruse based on the absurd idea that \"it's not a crime if we do it with an app\":\n\n[https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)\n\nSpeaking of crimes that are implausibly deniable when undertaken with an app: surveillance wages also allow employers to offer lower wages to women and brown and Black people while maintaining the pretense that they're in compliance with laws banning gender and racial discrimination.\n\nIn the wider economy, women and racialized people are *already* offered lower wages and – thanks to the legacy of racial discrimination in employment and housing – are more likely to be indebted:\n\n[https://pluralistic.net/2021/06/06/the-rents-too-damned-high/](https://pluralistic.net/2021/06/06/the-rents-too-damned-high/)\n\nBy tapping into data brokers' dossiers that reveal the economic precarity of jobseekers, surveillance pricing allows employers to systematically lower the wages of women and Black and brown people, who have the highest incidence of indebtedness, while still claiming to offer race- and gender-blind wages. This is a phenomenon that Patrick Ball calls \"empiricism washing\": first, move the illegal racist discrimination into an algorithm, then insist that \"numbers can't be racist.\"\n\nBut this isn't just about lowering wages at the bottom of the employment market. In recent history, the employers *most* eager to illegally lower their workers' wages are tech bosses, who had to pay *massive* fines for illegally colluding on \"no poach\" agreements to suppress the earning power of high-paid computer programmers:\n\n[https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)\n\n(This is why the tech industry is so horny for AI – tech bosses can't *wait* to fire a ton of programmers and use the resulting terror to force down the wages of the remaining tech workers:)\n\n[https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)\n\nWhich means that the very programmers who write and maintain the surveillance wage software used on the rest of us are especially likely to have the tools they created turned on *them*.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Toronto’s Transit Crisis Is a Class Crisis [https://jacobin.com/2026/04/toronto-transit-uber-lyft-class/](https://jacobin.com/2026/04/toronto-transit-uber-lyft-class/)\n\n- \nShare Festival Call for Artists 2026: “Popular Singularity” [https://bruces.medium.com/share-festival-call-for-artists-2026-popular-singularity-3b8daf92370f](https://bruces.medium.com/share-festival-call-for-artists-2026-popular-singularity-3b8daf92370f)\n\n- \nThe machines are fine. I'm worried about us. [https://ergosphere.blog/posts/the-machines-are-fine/](https://ergosphere.blog/posts/the-machines-are-fine/)\n\n- \nMore Than One Way to Tax a Billionaire [https://4taxfairness.substack.com/p/more-than-one-way-to-tax-a-billionaire](https://4taxfairness.substack.com/p/more-than-one-way-to-tax-a-billionaire)\n\n- \nBernie vs. Claude [https://www.youtube.com/watch?v=h3AtWdeu_G0](https://www.youtube.com/watch?v=h3AtWdeu_G0)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#retro))\n\n#20yrsago Arthur C Clarke fights Buddhist monks over Daylight Savings Time [http://news.bbc.co.uk/1/hi/world/south_asia/4865972.stm](http://news.bbc.co.uk/1/hi/world/south_asia/4865972.stm)\n\n#20yrsago What parts of the .COM space are registered? [https://web.archive.org/web/20060411133458/https://www.yafla.com/dforbes/2006/03/29.html](https://web.archive.org/web/20060411133458/https://www.yafla.com/dforbes/2006/03/29.html)\n\n#20yrsago Bomb squad called out to “defuse” life-size Super Mario power-ups [https://web.archive.org/web/20060405034455/http://www.recordpub.com/article.php?pathToFile=archive/04012006/news/&amp;file=_news1.txt&amp;article=1&amp;tD=04012006](https://web.archive.org/web/20060405034455/http://www.recordpub.com/article.php?pathToFile=archive/04012006/news/&amp;file=_news1.txt&amp;article=1&amp;tD=04012006)\n\n#20yrsago Poems showing the absurdities of English spelling [https://web.archive.org/web/20060405223008/https://www.spellingsociety.org/news/media/poems.php](https://web.archive.org/web/20060405223008/https://www.spellingsociety.org/news/media/poems.php)\n\n#20yrsago Isaac Newton’s alchemical “chymistry” notebook scans [https://web.archive.org/web/20060612203137/http://webapp1.dlib.indiana.edu/newton/index.jsp](https://web.archive.org/web/20060612203137/http://webapp1.dlib.indiana.edu/newton/index.jsp)\n\n#20yrsago Poems showing the absurdities of English spelling [https://web.archive.org/web/20060405223008/https://www.spellingsociety.org/news/media/poems.php](https://web.archive.org/web/20060405223008/https://www.spellingsociety.org/news/media/poems.php)\n\n#20yrsago Isaac Newton’s alchemical “chymistry” notebook scans [https://web.archive.org/web/20060612203137/http://webapp1.dlib.indiana.edu/newton/index.jsp](https://web.archive.org/web/20060612203137/http://webapp1.dlib.indiana.edu/newton/index.jsp)\n\n#15yrsago Misleading government stats and the innumerate media who repeat them [https://www.badscience.net/2011/04/anarchy-for-the-uk-ish/](https://www.badscience.net/2011/04/anarchy-for-the-uk-ish/)\n\n#15yrsago US Customs’ domain-seizure program blocks free speech, leaves alleged pirates largely unscathed [https://torrentfreak.com/us-governments-pirate-domain-seizures-failed-miserably-110403/](https://torrentfreak.com/us-governments-pirate-domain-seizures-failed-miserably-110403/)\n\n#15yrsago Misleading government stats and the innumerate media who repeat them [https://www.badscience.net/2011/04/anarchy-for-the-uk-ish/](https://www.badscience.net/2011/04/anarchy-for-the-uk-ish/)\n\n#15yrsago US Customs’ domain-seizure program blocks free speech, leaves alleged pirates largely unscathed [https://torrentfreak.com/us-governments-pirate-domain-seizures-failed-miserably-110403/](https://torrentfreak.com/us-governments-pirate-domain-seizures-failed-miserably-110403/)\n\n#10yrsago Panama Papers: Largest leak in history reveals political and business elite hiding trillions in offshore havens [https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore](https://www.theguardian.com/news/2016/apr/03/the-panama-papers-how-the-worlds-rich-and-famous-hide-their-money-offshore)\n\n#10yrsago America’s teachers are being trained in a harsh interrogation technique that produces false confessions [https://web.archive.org/web/20160404143447/https://www.alternet.org/education/why-are-k-12-school-leaders-being-trained-coercive-interrogation-techniques](https://web.archive.org/web/20160404143447/https://www.alternet.org/education/why-are-k-12-school-leaders-being-trained-coercive-interrogation-techniques)\n\n#10yrsago LA’s new rule: homeless people are only allowed to own one trashcan’s worth of things [https://www.latimes.com/local/california/la-me-apartments-demolished-20160402-story.html](https://www.latimes.com/local/california/la-me-apartments-demolished-20160402-story.html)\n\n#10yrsago Save Netflix! [https://www.eff.org/deeplinks/2016/04/save-netflix](https://www.eff.org/deeplinks/2016/04/save-netflix)\n\n#10yrsago The TSA spent $1.4M on an app to tell it who gets a random search [https://kevin.burke.dev/kevin/tsa-randomizer-app-cost-336000/](https://kevin.burke.dev/kevin/tsa-randomizer-app-cost-336000/)\n\n#10yrsago Iceland’s Prime Minister says he won’t resign, mass demonstrations gain momentum [https://icelandmonitor.mbl.is/news/politics_and_society/2016/03/31/anti_government_demo_planned_for_monday/](https://icelandmonitor.mbl.is/news/politics_and_society/2016/03/31/anti_government_demo_planned_for_monday/)\n\n#10yrsago Panama Papers reveal the tax-avoidance strategies of David Cameron’s father [https://www.theguardian.com/news/2016/apr/04/panama-papers-david-cameron-father-tax-bahamas](https://www.theguardian.com/news/2016/apr/04/panama-papers-david-cameron-father-tax-bahamas)\n\n#10yrsago Studio sculpts giant coin, photographs it alongside normal objects to make them look tiny [https://skrekkogle.com/projects/50c/](https://skrekkogle.com/projects/50c/)\n\n#5yrsago China's antitrust surge [https://pluralistic.net/2021/04/03/ambulatory-wallets/#sectoral-balances](https://pluralistic.net/2021/04/03/ambulatory-wallets/#sectoral-balances)\n\n#5yrsago Consumerism won't defeat Georgia's Jim Crow [https://pluralistic.net/2021/04/03/ambulatory-wallets/#christmas-voting-turkeys](https://pluralistic.net/2021/04/03/ambulatory-wallets/#christmas-voting-turkeys)\n\n#1yrago End-stage capitalism [https://pluralistic.net/2025/04/04/anything-that-cant-go-on/#forever-eventually-stops](https://pluralistic.net/2025/04/04/anything-that-cant-go-on/#forever-eventually-stops)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: Humber Polytechnic President's Lecture Series, Apr 8\n\n[https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html](https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nToronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/06/empiricism-washing/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/06/empiricism-washing/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Mon, 06 Apr 2026 09:04:57 +0000",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Prototyping with LLMs - Did you know that Jesus gave advice about prototyping with an LLM? Here’s Luke 14:28-30: >...",
+    "datasette-ports 0.1 - Release [datasette-ports 0.1](https://github.com/datasette/datasette-ports/releases/tag/0....",
+    "Google AI Edge Gallery - 6th April 2026 - Link Blog **[Google AI Edge Gallery](https://apps.apple.com/nl/app/google...",
+    "Cleanup Claude Code Paste - This is a **beat** by Simon Willison, posted on [6th April 2026](https://simonwillison.net...",
+    "Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code - And Gabriel Anhaia took a bird’s eye view, [explaining](https://dev.to/gabrielanhaia/claud..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "code",
+      "count": 8
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "guy",
+      "count": 4
+    },
+    {
+      "word": "i've",
+      "count": 4
+    },
+    {
+      "word": "tt",
+      "count": 4
+    },
+    {
+      "word": "windows",
+      "count": 4
+    },
+    {
+      "word": "april",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "scan-for-secrets",
+      "count": 3
+    },
+    {
+      "word": "zed",
+      "count": 3
+    },
+    {
+      "word": "little",
+      "count": 3
+    },
+    {
+      "word": "finder",
+      "count": 3
+    },
+    {
+      "word": "videos",
+      "count": 3
+    },
+    {
+      "word": "tiktok",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "compiler",
+      "count": 3
+    },
+    {
+      "word": "openai",
+      "count": 3
+    },
+    {
+      "word": "great",
+      "count": 3
+    },
+    {
+      "word": "datasette-ports",
+      "count": 3
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "apr",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "releases",
+      "count": 2
+    },
+    {
+      "word": "tag",
+      "count": 2
+    },
+    {
+      "word": "list",
+      "count": 2
+    },
+    {
+      "word": "type",
+      "count": 2
+    },
+    {
+      "word": "readers",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "nine",
+      "count": 2
+    },
+    {
+      "word": "germany",
+      "count": 2
+    },
+    {
+      "word": "unkn",
+      "count": 2
+    },
+    {
+      "word": "head",
+      "count": 2
+    },
+    {
+      "word": "ransomware",
+      "count": 2
+    },
+    {
+      "word": "revil",
+      "count": 2
+    },
+    {
+      "word": "gandcrab",
+      "count": 2
+    },
+    {
+      "word": "ran",
+      "count": 2
+    },
+    {
+      "word": "russian",
+      "count": 2
+    },
+    {
+      "word": "name",
+      "count": 2
+    },
+    {
+      "word": "rss",
+      "count": 2
+    },
+    {
+      "word": "scale",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "learning",
+      "count": 2
+    },
+    {
+      "word": "errors",
+      "count": 2
+    },
+    {
+      "word": "illegal",
+      "count": 2
+    },
+    {
+      "word": "sight",
+      "count": 2
+    },
+    {
+      "word": "write",
+      "count": 2
+    },
+    {
+      "word": "find",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "cfo",
+      "count": 2
+    },
+    {
+      "word": "ready",
+      "count": 2
+    },
+    {
+      "word": "commitments",
+      "count": 2
+    },
+    {
+      "word": "public",
+      "count": 2
+    },
+    {
+      "word": "released",
+      "count": 2
+    },
+    {
+      "word": "wasn",
+      "count": 2
+    },
+    {
+      "word": "organizations",
+      "count": 2
+    },
+    {
+      "word": "cloudflare",
+      "count": 2
+    },
+    {
+      "word": "management",
+      "count": 2
+    },
+    {
+      "word": "compute",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "prototyping",
+      "count": 2
+    },
+    {
+      "word": "wants",
+      "count": 2
+    },
+    {
+      "word": "datasette",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "edge",
+      "count": 2
+    },
+    {
+      "word": "gallery",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "id",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "simonwillison",
+      "count": 2
+    },
+    {
+      "word": "tools",
+      "count": 2
+    },
+    {
+      "word": "cathedral",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
