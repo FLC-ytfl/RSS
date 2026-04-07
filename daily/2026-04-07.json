@@ -1,0 +1,756 @@
+{
+  "date": "2026-04-07",
+  "stats": {
+    "total_fetched": 281,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "SQLite WAL Mode Across Docker Containers Sharing a Volume",
+        "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-wal-docker-containers#readme\">SQLite WAL Mode Across Docker Containers Sharing a Volume</a></p> <p>Inspired by <a href=\"https://n...",
+        "url": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "Cloud",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-07T15:41:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Solar Eclipse From the Far Side of the Moon",
+        "summary": "Kottke: This shot from Artemis II of the Moon eclipsing the Sun is one of the most breathtaking astronomical photos I’ve ever seen. Holy shit. Follow NASA on Flickr for more. ★",
+        "url": "https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-04-07T22:23:27.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Toffoli gates are all you need",
+        "summary": "Landauer’s principle gives a lower bound on the amount of energy it takes to erase one bit of information: E ≥ log(2) kB T where kB is the Boltzmann constant and T is the ambient temperature in Kelvin. The lower bound ap...",
+        "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "source": "John D. Cook",
+        "tags": [
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Tue, 07 Apr 2026 00:33:23 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic",
+        "summary": "Not sure why they think this comparison is reassuring rather than terrifying. I also have to say that Altman’s claims, today, that OpenAI employees were obsessed with COVID weeks ahead of the rest of the world feels more...",
+        "url": "https://x.com/OpenAINewsroom/status/2041618671236469200?s=20",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-07T22:23:07.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+        "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign...",
+        "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 07 Apr 2026 17:02:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Flighty Airports Meltdown Map",
+        "summary": "Live data with major airport delay times for North America. Available on the web — with a nice “TV Mode” too — and, of course, within the app. ★",
+        "url": "https://flighty.com/airports",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-04-07T16:44:06.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Data Drop: Every iPhone",
+        "summary": "Just lovely data visualization work from Sheets.works — a consulting firm that specializes in, I swear, Google Sheets. ★",
+        "url": "https://sheets.works/data-viz/every-iphone",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T16:34:14.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Did WordPress VIP leak my phone number?",
+        "summary": "As discussed in my last blog post, the scumsuckers at Apollo.io have been giving out my personal details. Not only did they have my email address, they also had a copy of one of my phone numbers. I asked them where they...",
+        "url": "https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 07 Apr 2026 11:34:43 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hayes compatible modem: What it means",
+        "summary": "A lot of software advertises itself as working with a Hayes modem or Hayes compatible modem. What does that mean? And what’s Hayes? It’s a de facto standard named after a defunct maker of modems. Let’s talk about why Hay...",
+        "url": "https://dfarq.homeip.net/hayes-compatible-modem-what-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=hayes-compatible-modem-what-it-means",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 07 Apr 2026 11:00:34 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 498",
+        "summary": "This week, more time than I'd have liked to spend went on talking about the trials of chasing invoices. This is off the back of a customer (who, for now, will remain unnamed), who had invoices stacking back more than 6 m...",
+        "url": "https://www.troyhunt.com/weekly-update-498/",
+        "source": "Troy Hunt",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 07 Apr 2026 01:53:05 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare targets 2029 for full post-quantum security",
+        "summary": "Recent advances in quantum hardware and software have accelerated the timeline on which quantum attack might happen. Cloudflare is responding by moving our target for full post-quantum security to 2029.",
+        "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Security",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 07 Apr 2026 21:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?",
+        "summary": "The permanently ineligible list. The post Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 07 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Michael Nielsen – How science actually progresses",
+        "summary": "The true story of Einstein, Newton, and Darwin",
+        "url": "https://www.dwarkesh.com/p/michael-nielsen",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 07 Apr 2026 15:49:28 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Building Block Economy",
+        "summary": "",
+        "url": "https://mitchellh.com/writing/building-block-economy",
+        "source": "Mitchell Hashimoto",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 07 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-07T22:28:38.567Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Om Malik and Ben Thompson on OpenAI Buying TBPN",
+        "summary": "![](https://om.co/wp-content/uploads/2026/04/LeninSimo-1024x683.png)\n\n> “A newspaper is not only a collective propagandist and a collective agitator, it is also a collective organiser.” — [Vladimir Le",
+        "content": "![](https://om.co/wp-content/uploads/2026/04/LeninSimo-1024x683.png)\n\n> “A newspaper is not only a collective propagandist and a collective agitator, it is also a collective organiser.” — [Vladimir Lenin](https://www.marxists.org/archive/lenin/works/1901/witbd/)\n\nIn 1902, Lenin argued that his revolution needed a newspaper of its own, and that newspaper was (unironically) named Pravda, which means *truth* in Russian.\n\n> “The standard communications playbook just doesn’t apply to us. We’re not a typical company. We’re driving a really big technological shift.” — Fidji Simo, 2026\n\nSimo, OpenAI’s CEO of Applications, explained this to OpenAI staff as to why OpenAI had just bought [TBPN](https://openai.com/index/openai-acquires-tbpn/). Different century. Same logic to explain an emerging new socioeconomic order, a new post-revolution reality.\n\nTo recap, OpenAI, weeks if not months before its public offering, has acquired the Technology Business Programming Network (TBPN). It is a daily, three-hour live tech talk show hosted by founders Jordi Hays and John Coogan. The show had 58,000 YouTube subscribers, $5 million in revenue last year, and a cult following in Silicon Valley. It was profitable, had no outside investors, and was growing fast. As a former media person, any media exit is a good exit. Congratulations to the founders.\n\nNow let’s dig into what OpenAI really bought and why.\n\nThink of TBPN as a room. A room where people in tech come and talk openly, without having to worry about the antagonistic queries that big media is often posing them. They go because it feels like peers talking, not press interrogating.\n\nIf you lived through Internet 1.0, CNBC’s morning show had the same vibe. ESPN’s SportsCenter did the same for the cable sports revolution. They don’t speak to power. They amplify power. TBPN made that playbook its own.\n\nThe best part of the announcement is where TBPN sits inside the OpenAI org and who it reports to. The show sits under “strategy” (and not communications) and will report to [Chris Lehane](https://en.wikipedia.org/wiki/Chris_Lehane). He is OpenAI’s chief political operative, the man associated with coining “vast right-wing conspiracy” as a deflection tactic during the Clinton White House years, who built [Fairshake](https://www.fairshake.net/), the crypto super PAC that spent hundreds of millions targeting anti-crypto candidates in 2024.\n\nYou don’t put an editorially independent media property under your political operative. That’s not a media strategy. That is part of overall strategy. But they still have to sell it as keeping it editorially independent. Pravda was technically editorially independent too.\n\nAnyway, maybe I have lost my rose-tinted glasses, but when a company says “do no evil,” you know what they are going to do. And if a press release mentions editorial independence four times, you know where that is going. And if you have to invent a new phrase, “Editorial Independence Covenant,” then I don’t really need to spell it out for you.\n\n> “The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society.” — [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays), *Propaganda*, 1928\n\nBernays, who was Sigmund Freud’s nephew, invented the PR industry. He thought of it as a key part of corporate design. He was hired by corporations such as United Fruit and American Tobacco to do exactly what OpenAI is doing now. Build the perception layer around a product by presenting it as a massive societal shift.\n\nThe Soviet term was agitprop. The Silicon Valley term is earned media strategy. A century apart, history still rhymes.\n\n**Related Reading**\n\n- [OpenAI: The Fix Is In](https://om.co/2026/03/31/openai-the-fix-is-in/) — How OpenAI is engineering its IPO narrative through circular financing and retail ETFs.\n\n- [OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/) — On Simo, Facebook-style engagement loops, and the real game being played.\n\n- [More Magic Math from OpenAI](https://om.co/2026/03/23/more-magic-math-from-openai/) — The PE deals, the JV structure, and why the real product is the IPO prospectus.\n\n- [The New Announcement Economy](https://om.co/2026/02/02/openai-and-the-announcement-economy/) — How OpenAI mastered the press release as a capital-raising instrument.\n\n\t\n\n\t\n## Post navigation",
+        "url": "https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-04-07T16:52:44.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GLM-5.1: Towards Long-Horizon Tasks",
+        "summary": "7th April 2026 - Link Blog\n\n**[GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)**. Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on [Hugging Face](https://hugging",
+        "content": "7th April 2026 - Link Blog\n\n**[GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1)**. Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on [Hugging Face](https://huggingface.co/zai-org/GLM-5.1)) MIT-licensed monster - the same size as their previous GLM-5 release, and sharing the [same paper](https://huggingface.co/papers/2602.15763).\n\nIt's available [via OpenRouter](https://openrouter.ai/z-ai/glm-5.1) so I asked it to draw me a pelican:\n\n```\nllm install llm-openrouter\nllm -m openrouter/z-ai/glm-5.1 'Generate an SVG of a pelican on a bicycle'\n\n```\n\nAnd something new happened... unprompted, the model [decided to give me](https://gist.github.com/simonw/af7170f54256cc007ef28a8721564be8) an HTML page that included both the SVG and a separate set of CSS animations!\n\nThe SVG was excellent, and might be my new favorite from an open weights model:\n\n![](https://static.simonwillison.net/static/2026/glm-5.1-pelican.png)\n\nBut the animation [broke it](https://gisthost.github.io/?73bb6808b18c2482f66e5f082c75f36e):\n\n![](https://static.simonwillison.net/static/2026/glm-5.1-broken-light-lossy.gif)\n\nThat's the pelican, floating up in the top left corner.\n\nI usually don't do follow-up prompts for the pelican test, but in this case I made an exception:\n\n```\nllm -c 'the animation is a bit broken, the pelican ends up positioned off the screen at the top right'\n\n```\n\nGLM 5.1 replied:\n\n> The issue is that CSS `transform` animations on SVG elements override the SVG `transform` attribute used for positioning, causing the pelican to lose its placement and fly off to the top-right. The fix is to separate positioning (SVG attribute) from animation (inner group) and use `<animateTransform>` for SVG rotations since it handles coordinate systems correctly.\n\nAnd spat out [fresh HTML](https://static.simonwillison.net/static/2026/glm-5.1-pelican-fixed.html) which fixed the problem!\n\n![](https://static.simonwillison.net/static/2026/glm-5.1-pelican-fixed-medium-lossy.gif)\n\nI particularly like the animation of the beak, which is described in the SVG comments like so:\n\n<!-- Pouch (lower beak) with wobble -->\n<g>\n    <path d=\"M42,-58 Q43,-50 48,-42 Q55,-35 62,-38 Q70,-42 75,-60 L42,-58 Z\" fill=\"url(#pouchGrad)\" stroke=\"#b06008\" stroke-width=\"1\" opacity=\"0.9\"/>\n    <path d=\"M48,-50 Q55,-46 60,-52\" fill=\"none\" stroke=\"#c06a08\" stroke-width=\"0.8\" opacity=\"0.6\"/>\n    <animateTransform attributeName=\"transform\" type=\"scale\"\n    values=\"1,1; 1.03,0.97; 1,1\" dur=\"0.75s\" repeatCount=\"indefinite\"\n    additive=\"sum\"/>\n</g>",
+        "url": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-07T21:25:14.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Writing an LLM from scratch, part 32i -- Interventions: what is in the noise?",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    Towards the end of last year, I\n[trained a 163M-parameter GPT-2-style model from scratch on my local RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch),\nusing code based on\n[Sebastian Raschka](https://sebastianraschka.com/)'s book\n\"[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)\".\n\nThe result was a pretty decent little model, but it wasn't as good as the original\nGPT-2-small, despite having more parameters (because it wasn't using weight-tying).\nSpecifically: on a particular test set, my model gave a loss of 3.944 -- quite a lot\nmore than the original GPT-2's 3.500 on the same dataset.\n\nI wanted to see whether I could train a model on my own hardware (or on something that\ndidn't cost too much to rent in the cloud) that got closer to the original model's\nperformance.  So over the last few months, I've done a bunch of further training runs, each one testing\na specific intervention -- a stand-alone change that I expected to change the loss, either\nfor better or for worse.  Specifically:\n\n- I trained [a baseline model](https://www.gilesthomas.com/2026/02/llm-from-scratch-32a-interventions-baseline-model) on\nan 8x A100 40 GiB per GPU machine on Lambda (which\nwas better than my original locally-trained model, I believe due to the larger batch size\nthat the larger machine made possible).\n\n- I tried [adding gradient clipping](https://www.gilesthomas.com/2026/02/llm-from-scratch-32b-interventions-gradient-clipping)\nto see if that would help by limiting the effects of loss spikes.\n\n- I tried [removing dropout](https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout), given\nthat these days people tend not to use it (because we're doing single-epoch training runs).\n\n- I tried [adding bias to the attention weight matrices](https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias) --\nsomething that was popular back in the GPT-2 era, and was used by the original weights, but which my code did not use.\n\n- Instead of just using the learning rate of 0.0004 that was used in the code from\nthe book, I looked into what values people use these days, and learned how\nto [schedule it over the course of the training run](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate).\n\n- Similarly, I learned more about [weight decay](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay) and\ntried some alternative values.\n\n- Then I tried making my model more like the original GPT-2 one by introducing\n[weight tying](https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying) to\nsee if that would help.\n\n- Finally, I decided to try [training in \"full-fat\" float32](https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32)\ninstead of using PyTorch's AMP and TF32 matrix multiplication performance\nenhancements.\n\nAt the end of all of that, I had this table showing the effect of each intervention\nin terms of loss on the test set.  They're sorted from least-effective to most-effective,\nand you can see the baseline in there too:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  8xa100m40-weight-tying\n  3.874\n  -0.182\n\n  8xa100m40-weight-decay-cerebras\n  3.867\n  -0.175\n\n  8xa100m40-baseline\n  3.692\n  -\n\n  8xa100m80-no-amp\n  3.679\n  0.013\n\n  8xa100m40-gradient-clipping\n  3.678\n  0.014\n\n  8xa100m40-qkv-bias\n  3.669\n  0.023\n\n  8xa100m40-weight-decay-gpt2\n  3.643\n  0.049\n\n  8xa100m40-remove-dropout\n  3.641\n  0.051\n\n  8xa100m40-schedule-learning-rate\n  3.602\n  0.09\n\nWinners and losers are reasonably clear:\n\n- Weight tying and the number for weight decay I derived from a paper by\nCerebras Research (probably without understanding it properly) were negatives.\n\n- Full-fat float32, gradient clipping,  attention biases, the GPT-2 weight decay\nparameter, removing dropout, and scheduling (and updating) the learning rate\nwere positives.\n\nSo, for an optimal train, we'd just use the effective interventions, right?\nWell, not quite.\n\nFull-fat float32 I decided wasn't worth the effort, as it meant that the\ntrain took more than twice as long, and (because it required a larger machine), cost\nmore than three times as much.\n\nThe others did look like solid changes, but there was one concern.  The effect of\neach intervention is actually pretty small.  For example, gradient clipping reduced\nthe loss by 0.014, from 3.692 to 3.678.  That's a 0.3% improvement.  Even the best\nintervention, scheduling the learning rate, only improved things by 2%.\n\nCould it be that some or all of these improvements were not real, but just a result\nof the random nature of training deep neural networks?  Could the differences just\nbe in the noise?  They seemed small enough for that to be possible.\n\nI've trained seven more models over the last few days to try to get a feel as to how\nbig an effect noise has for this kind of training run.  The results appear to show\nthat variations in the initial weights matter quite a lot, but randomness in the\ntraining loop (given the same initial weights) actually has a fairly minimal impact.\nThat surprised me a bit!\n\nLet's go through the details.\n\n    \n        \n### Is my random seed code working?\n\nWhen I did the original baseline training run -- creating the model that was the\ncomparison point for all of the interventions --\nI wanted to minimise the amount of random number-induced differences\nbetween the training runs in this interventions series.  I did this by setting the random seed\nat the start -- specifically, I had this code:\n\n`    seed = 42\n    random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n`\n\nAt the time I wrote it, this seemed pretty complete -- the seed is set on Python's\nown random number generator, on PyTorch's, and on the separate ones it uses for CUDA.\n\nHowever, in a separate project, where I was fine-tuning a Qwen model as a classifier,\nI'd found that this wasn't enough.  In order to get full reproducibility, I'd had to\nlock things down a bit more, with this additional code:\n\n`    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    torch.use_deterministic_algorithms(True)\n`\n\nSo: was my random number seed code enough for this case?  Or would I get a different\nmodel if I ran the same code a second time?\n\nThat was easy enough to do; I spun up a machine, and just ran the \"baseline\" train\nagain.  3 hours 24 minutes later:\n\n```\nTraining complete in 12,276.306 seconds\nTokens seen: 3,260,252,160\nThroughput: 265,573 tokens/second\nFinal train loss: 3.743\n\n```\n\nInterestingly, that was exactly the same final train loss as the original baseline\ntrain.  [Here's the model](https://huggingface.co/gpjt/8xa100m40-baseline-2).\n\nI ran my normal smoke test, asking it to complete \"Every effort moves you\"\n\n```\nEvery effort moves you in the way of getting into that.\nI will let you down as you move, not by\n\n```\n\n...so that was OK -- the model was generating reasonably coherent text.\nThen I ran the eval to find its loss on the test set:\n\n```\nLoss against our test dataset: 3.692\n\n```\n\nExactly the same as the original baseline!  That was certainly promising.  Now, the\nuse of three decimal places for the output from the loss eval is just a formatting thing,\nso I bumped it up to 6 dps, and the new model got this:\n\n```\nLoss against our test dataset: 3.691526\n\n```\n\nRunning that against the original baseline model:\n\n```\nLoss against our test dataset: 3.691526\n\n```\n\nAgain, exactly the same.  Finally, more out of idle interest than anything else,\nI decided to see if the models were at least different:\n\n```\ngiles@perry:~/Dev/ddp-base-model-from-scratch (main)$ diff runs/8xa100m40-baseline/checkpoints/best/model.safetensors runs/8xa100m40-baseline-2/checkpoints/best/model.safetensors\ngiles@perry:~/Dev/ddp-base-model-from-scratch (main)$\n\n```\n\nThat is, quite frankly, amazing to me.  I was expecting pretty close results, but\nwhat we're seeing here is that two separate models, trained on the same data, but\non different machines more than a month apart, have weights that are bit-wise identical.\nNo random noise at all.\n\nThat's actually really reassuring!  It makes me much more comfortable that we're\nstanding on a stable foundation here.\n\nNow it was time to see what effect changing that random seed would have.\n\n### Changing the random seed\n\nLet's think about what the random seed does.  When we call `random.seed(42)`, we're\ninitialising Python's pseudo-random number generator so that it will start at a particular\npoint -- after we've called it, it will generate the same sequence of \"random\" numbers\neach time it's asked for a new one.  So the effect of this code:\n\n`    seed = 42\n    random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n`\n\n...is to initialise three separate pseudo-random number generators to be in a known\ndeterministic state, so they'll all generate the same sequence in every run.\n\nSo, the first thing to do was to see what happened if we changed that number.\n\nI decided to do two training runs, each with exactly the same code as the baseline,\nbut with different random seeds.  Firstly, I changed it from 42 to 22 [1](#fn-1):\n\n`ubuntu@130-61-223-25:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..16a8be5 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -623,7 +623,7 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     dist.init_process_group(backend, device_id=local_rank)\n\n     # Set all of the random seeds\n-    seed = 42\n+    seed = 22\n     random.seed(seed)\n     torch.manual_seed(seed)\n     torch.cuda.manual_seed_all(seed)\n`\n\nThat training run completed:\n\n```\nTraining complete in 12,287.950 seconds\nTokens seen: 3,260,252,160\nThroughput: 265,321 tokens/second\nFinal train loss: 3.724\n\n```\n\n[Here's the model](https://huggingface.co/gpjt/8xa100m40-baseline-3).\n\nTime for the evals; the smoke test:\n\n```\nEvery effort moves you a few spots in your path. Sooner, just think twice how many steps you take. If\n\n```\n\n...and the loss test:\n\n```\nLoss against our test dataset: 3.673453\n\n```\n\nSo, that's 3.673453 compared to 3.691526, an improvement of 0.018 over the run with a seed\nof 42.  That's more than\nthe 0.014 improvement we got from gradient clipping (and indeed, the 0.013 from full-fat float32\ntraining), and quite close to the 0.023 improvement from adding attention weight bias.\n\nTime for another training run:\n\n`ubuntu@141-148-168-241:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..1e9b5bc 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -623,7 +623,7 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     dist.init_process_group(backend, device_id=local_rank)\n\n     # Set all of the random seeds\n-    seed = 42\n+    seed = 67\n     random.seed(seed)\n     torch.manual_seed(seed)\n     torch.cuda.manual_seed_all(seed)\nubuntu@141-148-168-241:~/ddp-base-model-from-scratch$\n`\n\nAnother 3h24m later:\n\n```\nTraining complete in 12,263.076 seconds\nTokens seen: 3,260,252,160\nThroughput: 265,859 tokens/second\nFinal train loss: 3.704\n\n```\n\n[Here's the model](https://huggingface.co/gpjt/8xa100m40-baseline-4).\n\nThe smoke test:\n\n```\nEvery effort moves you to a new level. The next phase is a one-way street in which you are free to\n\n```\n\n...and the test set loss:\n\n```\nLoss against our test dataset: 3.653593\n\n```\n\nA further improvement!  That's 0.038 better than our original baseline, which beats\nadding on attention weight bias (though it's worse than the weight decay update).\n\nNow, three data points is rather a small number for any kind of statistical\nanalysis, but just out of interest, let's do the basics.\n[GeeksForGeeks has a good refresher here](https://www.geeksforgeeks.org/maths/variance/) if you're a bit\nrusty.\n\nFirstly, our mean is\n\nμ=3.691526+3.673453+3.6535933≈3.672857\n\n...and our variance[2](#fn-2) is:\n\nσ2=(3.672857−3.691526)2+(3.672857−3.673453)2+(3.672857−3.653593)23≈0.000240\n\nIf we take the square root of that, we get the standard deviation (SD):\n\nσ=0.000240≈0.0154919\n\nSo, if we assume a normal distribution, what would that say about our results?  Here's\nthe results table again.\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  8xa100m40-weight-tying\n  3.874\n  -0.182\n\n  8xa100m40-weight-decay-cerebras\n  3.867\n  -0.175\n\n  8xa100m40-baseline\n  3.692\n  -\n\n  8xa100m80-no-amp\n  3.679\n  0.013\n\n  8xa100m40-gradient-clipping\n  3.678\n  0.014\n\n  8xa100m40-qkv-bias\n  3.669\n  0.023\n\n  8xa100m40-weight-decay-gpt2\n  3.643\n  0.049\n\n  8xa100m40-remove-dropout\n  3.641\n  0.051\n\n  8xa100m40-schedule-learning-rate\n  3.602\n  0.09\n\nIf we assume that the results are on a normal distribution:\n\n- We would expect ~68.2% of results to be within one SD of the mean -- that is, between\n3.6573651 and 3.6883489.  Interestingly, our actual baseline result is outside that\nrange!  But it does include both the gradient clipping and the\nQKV bias results.\n\n- We would additionally expect ~95.4% of the results to be within two SDs, which is\n3.6418732 to 3.7038408.  That includes our baseline and our weight decay result (though not our experiment\nremoving dropout -- the six-DP loss number for that is 3.641282).\n\n- Finally, we'd expect ~99.7% of results to be within three SDs, which is a range from\n3.6263813 to 3.7193327.  That covers all of our positive results apart from scheduling learning\nrate!\n\nThat seemed a bit saddening -- were all of the results apart from scheduling the learning\nrate within the noise?\nWell, so as I said, three data points is too small a number to take those results\nwithout a fistful of salt.  I was thinking of perhaps trying another few random seeds\nto see what would happen, and perhaps to tighten those numbers up a bit, but then something\noccurred to me -- randomness was being used in two different ways in the training\nrun, and perhaps we could separate them?\n\n### Breaking the randomness apart\n\nWhere do we use the random numbers?  Well, immediately after we set the seeds, we create\nour uninitialised model for training:\n\n`    model = GPTModel(model_conf).to(local_rank)\n`\n\nOne of the random number generators -- Python's, PyTorch's, or one of the CUDA ones -- will be used to generate the initial weights\nthat we're going to start training.  That means that *for the same model setup*, we'll\nalways start with exactly the same weights.  But if the model settings change\nsuch that we initialise different things in a different order, then we'll have different weights.\n\nAfter we've done that, we go into the training loop.  That *can have* randomness in it;\nalthough the AdamW optimiser itself is deterministic, we are (in all but one of these training\nruns) using dropout, which drops a random bunch of activations at various points -- 10% of\nthem with our config.  And it seems entirely possible that each of the interventions\ncould change the order of execution of different steps in non-obvious ways, which would\nlead to dropout being applied in different ways in different runs.\n\nSo, the question was: what kinds of randomness -- in terms of the initial weights, or\nin terms of the training run -- did each intervention potentially change vs the baseline?\nDisregarding the full-fat float32 run:\n\n- Gradient clipping: randomness only affected the training run -- the weights it started with\nwould have been exactly the same as the baseline model's.\n\n- Removing dropout: although this is a parameter on the model, I don't think it changes\nthe initial weights.  But in the training run, it certainly does affect randomness\nby removing its use of the random number generator.\n\n- Adding bias to the attention weights.  This will change both the initial weights -- because\nwe have those bias weights, things will be initialised differently -- and as a result, the training run,\nas the random number generator will have been sampled a different number of times\nprior to the run.\n\n- Changing and scheduling the learning rate certainly should not change the initial\nweights, but it might conceivably have a non-obvious effect on training.\n\n- Likewise weight decay; no effect I can see on the initial weights, but it could well\nchange training dynamics.\n\n- Weight-tying.  When I [added it to the code](https://github.com/gpjt/ddp-base-model-from-scratch/commit/c7d6256192ac2206bc16bcf71a56fa4f9c2115b6), I\ntried to do so in such a way that the other weights would be unaffected -- I created\nexactly the same weights as I would without weight tying, then threw away the output\nhead and replaced it with a reference to the input embedding weights.  So I think\nthat in theory, this one won't have changed the other model weights (apart from ignoring\nthe initialised-but-thrown-away output head), but it could well have\nchanged the training run.\n\nGiven that, I wanted to get two measures of how sensitive to noise each phase of\nthe training run was: the initialisation of weights at the start, and the training\nrun itself.\n\nI decided to start by nailing down exactly what the training run started with.\n\n#### Loss changes with the same weights but different training run seeds\n\nWe already had a baseline training run with a specific state of the random number\ngenerator at the start; in our \"real\" baseline, we seeded with 42 at the start,\nand then initialised our weights.  After that, the random number generator would\nhave reached some specific state based on its initial seed and how many numbers had been generated so far.\n\nNow, in theory, we could get the RNG into that specific state by seeding it with some\nnumber A at that point.  We don't know what A is, of course.  But it seems vanishingly\nunlikely that it would be something we'd come up with -- specifically, we can be\npretty sure that A≠23 and A≠67.\n\nSo, I put the old initial seed of 42 back in, but re-seeded after the model\nhad been initialised:\n\nFirstly, with a re-seed value of 23:\n\n`ubuntu@167-234-217-254:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..7b7993c 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -643,6 +643,12 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     else:\n         scaler = None\n\n+    # Set all of the random seeds again\n+    seed = 23\n+    random.seed(seed)\n+    torch.manual_seed(seed)\n+    torch.cuda.manual_seed_all(seed)\n+\n     datasets_dir = Path(datasets_dir_path)\n     dataset_name = train_conf[\"dataset\"]\n     dataset_dir = datasets_dir / dataset_name\nubuntu@167-234-217-254:~/ddp-base-model-from-scratch$\n`\n\nI let that run....\n\n```\nTraining complete in 12,263.247 seconds\nTokens seen: 3,260,252,160\nThroughput: 265,856 tokens/second\nFinal train loss: 3.731\n\n```\n\n...and got [this model](https://huggingface.co/gpjt/8xa100m40-baseline-5).  Time\nfor the normal evals:\n\n```\nEvery effort moves you into a relationship in a world full of meaning and the beauty of your character that you will never forget\n\n```\n\n...and:\n\n```\nLoss against our test dataset: 3.681356\n\n```\n\nNext, I did another training run, the same as the previous one, but with 67 instead of 23\nfor the re-seed:\n\n`ubuntu@141-148-168-241:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..90b902a 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -643,6 +643,12 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     else:\n         scaler = None\n\n+    # Set all of the random seeds again\n+    seed = 67\n+    random.seed(seed)\n+    torch.manual_seed(seed)\n+    torch.cuda.manual_seed_all(seed)\n+\n     datasets_dir = Path(datasets_dir_path)\n     dataset_name = train_conf[\"dataset\"]\n     dataset_dir = datasets_dir / dataset_name\n`\n\nThat one ran:\n\n```\nTraining complete in 12,245.932 seconds\nTokens seen: 3,260,252,160\nThroughput: 266,231 tokens/second\nFinal train loss: 3.732\n\n```\n\n...producing [this model](https://huggingface.co/gpjt/8xa100m40-baseline-6),\nwhich eval'ed like this [3](#fn-3):\n\n```\nEvery effort moves you and I back home, to ensure the security of these children, but in this age transition to a\n\n```\n\n...and...\n\n```\nLoss against our test dataset: 3.680505\n\n```\n\nLet's bring those together:\n\n- Our normal baseline: weights initialised with seed 42, and training run starts\nwith a \"seed\" of our imaginary A value from above: 3.691526\n\n- The first run above: weights initialised with seed 42, and training run starts\nwith a seed of 23: 3.681356\n\n- The second run above: weights initialised with seed 42, and training run starts\nwith a seed of 67: 3.680505\n\nThat's a mean of ~3.684462, with a variance of ~0.0000752 and a standard deviation\nof ~0.008672.  Those are *tiny* compared to the numbers from the two trains we did\nwith the change of the seed prior to the model initialisation.\n\nThat actually surprised\nme a bit; we're using dropout in all of these training runs, and it's dropping a random\n10% of activations in every forward training pass.  With our different training run\nstarting seeds, they should be getting very different dropout patterns.  Hand-wavingly,\nperhaps over the three million or so sequences we're training on, it averages out?\nStill a little counterintuitive, though.\n\nAnyway, let's take a look at the intervention results again, this time\nhighlighting the ones that we believe will be starting with the same weights:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  8xa100m40-weight-tying\n  3.874\n  -0.182\n\n  **8xa100m40-weight-decay-cerebras**\n  3.867\n  -0.175\n\n  **8xa100m40-baseline**\n  3.692\n  -\n\n  **8xa100m80-no-amp**\n  3.679\n  0.013\n\n  **8xa100m40-gradient-clipping**\n  3.678\n  0.014\n\n  8xa100m40-qkv-bias\n  3.669\n  0.023\n\n  **8xa100m40-weight-decay-gpt2**\n  3.643\n  0.049\n\n  **8xa100m40-remove-dropout**\n  3.641\n  0.051\n\n  **8xa100m40-schedule-learning-rate**\n  3.602\n  0.09\n\nUsing the \"99.7% should be within three SDs\" heuristic, we get a range of\n3.658446 - 3.710478.  Of the intervention runs with (I believe) stable weights, only the no-AMP\nand the gradient clipping ones are within that range.\n\nThat made me feel quite positive.  If my beliefs are correct about which runs have the same\nweights, then noise in the training runs seems unlikely to be causing\nthe differences -- that is, perhaps the results from the interventions for those\nsame-weight training runs are real signal and not just noise.\n\nWhat would happen if instead of pinning the seed for generating the weights and\nvarying the starting seed for the training run, we varied the weight seed and\npinned the training one?\n\n#### Loss changes with different weights but the training run seed nailed down\n\nWe'd already done a training run with a seed of 42 before generating the weights\nand a re-seed to 23 after that:\n\n- The first run above: weights initialised with seed 42, and training run starts\nwith a seed of 23: 3.681356\n\nSo I decided to see what would happen if I varied the pre-weights initialisation seed.\n\nFirstly:\n\n`ubuntu@167-234-217-254:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..932acc4 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -623,7 +623,7 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     dist.init_process_group(backend, device_id=local_rank)\n\n     # Set all of the random seeds\n-    seed = 42\n+    seed = 23\n     random.seed(seed)\n     torch.manual_seed(seed)\n     torch.cuda.manual_seed_all(seed)\n@@ -643,6 +643,12 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     else:\n         scaler = None\n\n+    # Set all of the random seeds again\n+    seed = 23\n+    random.seed(seed)\n+    torch.manual_seed(seed)\n+    torch.cuda.manual_seed_all(seed)\n+\n     datasets_dir = Path(datasets_dir_path)\n     dataset_name = train_conf[\"dataset\"]\n     dataset_dir = datasets_dir / dataset_name\n`\n\nLet that train:\n\n```\nTraining complete in 12,249.079 seconds\nTokens seen: 3,260,252,160\nThroughput: 266,163 tokens/second\nFinal train loss: 3.725\n\n```\n\n...getting [this model](https://huggingface.co/gpjt/8xa100m40-baseline-7).  Evals:\n\n```\nEvery effort moves you from an easy and comfortable one and can be used up to 90% or even more and the result\n\n```\n\n...and...\n\n```\nLoss against our test dataset: 3.673943\n\n```\n\nNext, one with 67 as the weights initialisation seed:\n\n`ubuntu@141-148-168-241:~/ddp-base-model-from-scratch$ git diff\ndiff --git a/ddp_train.py b/ddp_train.py\nindex 5519353..a64b423 100644\n--- a/ddp_train.py\n+++ b/ddp_train.py\n@@ -623,7 +623,7 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     dist.init_process_group(backend, device_id=local_rank)\n\n     # Set all of the random seeds\n-    seed = 42\n+    seed = 67\n     random.seed(seed)\n     torch.manual_seed(seed)\n     torch.cuda.manual_seed_all(seed)\n@@ -643,6 +643,12 @@ def main(run, datasets_dir_path, checkpoint, find_max_microbatch_size):\n     else:\n         scaler = None\n\n+    # Set all of the random seeds again\n+    seed = 23\n+    random.seed(seed)\n+    torch.manual_seed(seed)\n+    torch.cuda.manual_seed_all(seed)\n+\n     datasets_dir = Path(datasets_dir_path)\n     dataset_name = train_conf[\"dataset\"]\n     dataset_dir = datasets_dir / dataset_name\n`\n\nThat trained:\n\n```\nTraining complete in 12,255.283 seconds\nTokens seen: 3,260,252,160\nThroughput: 266,028 tokens/second\nFinal train loss: 3.714\n\n```\n\n...getting [this model](https://huggingface.co/gpjt/8xa100m40-baseline-8), and [4](#fn-4):\n\n```\nEvery effort moves you, in an attempt to protect it’s rights and the rights of the people in any respect\n\n```\n\n...and\n\n```\nLoss against our test dataset: 3.664345\n\n```\n\nOK, so here we have:\n\n- Mean: ~3.673215\n\n- Variance: ~0.000145\n\n- SD: ~0.012062\n\nCompared to the SD we got when we varied just the initial seed, 0.0154919, it's not\ntoo far off.  Using the 3-SD rule, we get a range of 3.637030 - 3.709400, and looking\nat the table again, this time with the ones that we *don't* expect to have the same\nweights highlighted:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  **8xa100m40-weight-tying**\n  3.874\n  -0.182\n\n  8xa100m40-weight-decay-cerebras\n  3.867\n  -0.175\n\n  8xa100m40-baseline\n  3.692\n  -\n\n  8xa100m80-no-amp\n  3.679\n  0.013\n\n  8xa100m40-gradient-clipping\n  3.678\n  0.014\n\n  **8xa100m40-qkv-bias**\n  3.669\n  0.023\n\n  8xa100m40-weight-decay-gpt2\n  3.643\n  0.049\n\n  8xa100m40-remove-dropout\n  3.641\n  0.051\n\n  8xa100m40-schedule-learning-rate\n  3.602\n  0.09\n\n...we can see that the QKV bias is well within that range (as are all of the interventions\napart from the two negative-effect ones and scheduling the learning rate).\n\nRight, what does all of that tell us?\n\n### Conclusion\n\nThis post obviously isn't even trying to be statistically rigorous.  The number of\ntraining runs I've done and the amount of data is way too small for that.  However,\ntraining runs are expensive (Lambda have raised their prices again, so these cost\nmore than US$50 each!), so there's a limit to how much I can do.\n\nBut even with the limited amount of data, something seems pretty clear:\n\n- Varying the random seed at the start, prior to initialising weights, and not\nconstraining the starting point for the training runs, gave a mean of 3.672857,\nwith an SD of 0.0154919.\n\n- Keeping the same seed for model weights (so that they all started with the same\nweights), and varying the seed for the training run, gave a mean of 3.684462,\nwith an SD of 0.008672.\n\n- Varying the seed for the model weights (so that they all started with different\nweights), and keeping the training run seed pinned, gave a mean of 3.673215\nand an SD of 0.012062.\n\n\"One of these things is not like the others\".  Keeping the model weights stable\nand only allowing variation in randomness across the training run itself meant that\nalmost all of the differences between training runs disappeared.  Could this be\na result of the small number of samples?  I guess conceivably it might, but it seems\nvanishingly unlikely.\n\nSo I feel reasonably confident in saying that the bulk of the variation in results that\nwe can chalk up to random noise in these training runs comes from variations in the\nmodel weights' initialisation.\n\nAdditionally, the first training run in this post -- the re-run of the baseline model\nwith no changes -- gave exactly the same numbers as the original baseline run.  So we\ncan be confident that all of the models with no changes to the weight initialisation\nstarted with the same weights.  Of course, I could be wrong about which models really\ndid have the same weights, but given that they were running the same code with the same\nseed, I'm pretty much sure.\n\nThat makes me fairly confident that the intervention runs that had the same initial\nweights gave a real signal about whether or not the intervention in question actually\nhelped.  The only exception is gradient clipping, which fell within the three-SD\nrange for the same-weights tests -- and it's essentially free, adding just 100 seconds\nto a three hour training run.\n\nThat's a really interesting result!  As I said earlier, given that dropout is making\nus ignore a random 10% of activations during the training run, I would have thought\nthat changing *which* random 10% were being ignored would have a much larger effect.\nAnd that's not even considering other sources of random noise in the training run.\n\nI was less surprised that model weight initialisation was important, though.  It's pretty\nobvious that your starting position in the loss landscape is going to affect where you\nend up at the end of the training run.\n\nStill, we now have a reasonable level of trust that our interventions gave a real signal,\nso I think we have everything in place to see how they stack\ntogether, and do a best-effort training run.  Can we approach the original GPT-2 small\nweights' performance on our test set loss?\n\nIt should be fun to find out :-)",
+        "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 07 Apr 2026 21:00:00 +0000",
+        "reading_time": 19,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Who Built This?",
+        "summary": "Michael Stapelberg [wrote last week](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/) about Go’s automatic VCS stamping: since Go 1.18, every binary bui",
+        "content": "Michael Stapelberg [wrote last week](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/) about Go’s automatic VCS stamping: since Go 1.18, every binary built from a git checkout embeds the commit hash, timestamp, and dirty flag, queryable with `go version -m` or `runtime/debug.ReadBuildInfo()` at runtime. His argument is that every program should do this, so you can always answer “what version is running in production?” without guessing. Go is unusual in doing this by default, and the rest of the [package management landscape](https://nesbitt.io/2026/01/03/the-package-management-landscape.html) varies wildly in how it handles this, if it handles it at all.\n\n## Compiled languages\n\nRust’s Cargo has [an open issue](https://github.com/rust-lang/cargo/issues/5629) proposing that `cargo package` record the git commit hash in published crates, but nothing has been accepted beyond a `.cargo_vcs_info.json` file in the packaged crate, so the conventional approach is a `build.rs` script using crates like [vergen](https://github.com/rustyhorde/vergen) or [shadow-rs](https://github.com/baoyachi/shadow-rs) to emit `cargo:rustc-env` directives that become compile-time environment variables readable with `env!()`. You get the SHA, branch, timestamp, and dirty flag, but you have to opt in, wire it up, and expose it through a `--version` flag or similar, and there’s no way to inspect an arbitrary Rust binary externally.\n\n[SourceLink](https://github.com/dotnet/sourcelink), now built into the .NET SDK, makes .NET the closest to Go’s approach. It sets `AssemblyInformationalVersion` to something like `1.0.0+60002d50a...`, embedding the full commit SHA alongside the repository URL for debugger source fetching. [MinVer](https://github.com/adamralph/minver) derives the version entirely from git tags with no configuration file, and [GitVersion](https://github.com/GitTools/GitVersion) computes semver from branch topology. It’s opt-in, but the tooling is mature enough that a .NET developer who wants stamping can get it with a single package reference and no build script.\n\nJava’s ecosystem relies on [git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin), which generates a `git.properties` file and can inject metadata into `META-INF/MANIFEST.MF`. Spring Boot’s actuator `/info` endpoint reads `git.properties` automatically, which means a lot of Spring Boot applications in production actually do have VCS info available, even if the developers who configured it don’t think of it as “stamping.” You can inspect a JAR’s manifest with `unzip -p foo.jar META-INF/MANIFEST.MF`, and `Package.getImplementationVersion()` reads it at runtime, though without the plugin you get whatever the maintainer put in the POM version field and nothing else. Gradle has equivalents, and sbt needs two plugins ([sbt-buildinfo](https://github.com/sbt/sbt-buildinfo) plus [sbt-git](https://github.com/sbt/sbt-git)) to get the same result.\n\nSwift Package Manager has no stamping mechanism at all, and a third-party [PackageBuildInfo](https://github.com/DimaRU/PackageBuildInfo) plugin that shells out to git during the build is about all that exists. SwiftPM has a registry protocol (SE-0292, SE-0391) and private registries exist, but there’s no public centralized registry and most packages still resolve directly from git repositories, so the VCS metadata is right there at build time. It clones the repo, checks out the tagged commit, and then throws away everything except the source files. Of all the compiled language toolchains, SwiftPM would have the easiest time stamping and yet doesn’t.\n\nBazel’s `--workspace_status_command` flag runs a user-provided script that prints key-value pairs. Keys prefixed `STABLE_` invalidate the build cache when they change; others are “volatile” and stale values may be used without triggering a rebuild. The mechanism is powerful and built-in, but the documentation is notoriously confusing and the stable-vs-volatile distinction trips people up regularly.\n\n## Interpreted languages\n\nFor interpreted languages, “stamping” means something slightly different, since there’s no compiled binary to embed data in: can you determine what version or commit an installed package came from at runtime?\n\nComposer’s `InstalledVersions::getReference('vendor/pkg')`, available since version 2.0, returns the git commit SHA of every installed PHP package, backed by `vendor/composer/installed.json`. This works for both source and dist installs because Packagist records the commit SHA that each tag points to in its API metadata, and Composer preserves it through the lock file into runtime. No other interpreted language package manager preserves this much VCS metadata with this little configuration.\n\nPython’s `importlib.metadata.version('pkg')` gives you the version string but no VCS revision unless you use [setuptools-scm](https://github.com/pypa/setuptools-scm) or similar to bake the commit hash in at build time. PEP 610 specifies a `direct_url.json` for packages installed directly from VCS, which records the commit hash, but anything installed from PyPI lost its git SHA when the sdist or wheel was built. npm, pnpm, and Yarn make `package.json` version available at runtime but nothing more; npm provenance attestations link published packages to specific commits via Sigstore, though that’s registry metadata rather than something embedded in the package itself. RubyGems exposes version at runtime through `Gem::Specification` and the gemspec `metadata` hash allows arbitrary keys, but there’s no standard field for git SHA and no convention for using one.\n\n## System package managers\n\ndpkg stores package version (e.g. `1.2.3-1`) queryable with `dpkg -s`, and a `Vcs-Git` field exists in source package metadata, but that field never propagates to installed binary packages. RPM actually has a dedicated `VCS` tag (tag 5034) that can store the upstream repository URL and potentially a commit SHA, but most Fedora RPMs don’t bother setting it.\n\nArch’s pacman has a clever approach for VCS packages: packages suffixed `-git` run a `pkgver()` function in the PKGBUILD that encodes the commits-since-last-tag and short hash into the version string itself, like `1.0.3.r12.ga1b2c3d`, so the version you see in `pacman -Qi` actually contains the commit info. Regular packages built from release tarballs just carry the upstream version number, though.\n\nHomebrew records the formula URL (typically a tarball) and its SHA256, plus a Homebrew-specific `revision` field for rebuilds, but no upstream git commit survives installation. Flatpak and Snap both have version metadata in their app manifests but no VCS revision field in either format.\n\nNix is where Stapelberg’s post originates, and it’s a good illustration of the problem: store paths encode a content hash, not a VCS revision, and fetchers like `fetchFromGitHub` download a tarball with no `.git` directory. Even `builtins.fetchGit` strips `.git` for reproducibility. The `.rev` attribute exists during Nix evaluation but isn’t written to the store, so Stapelberg’s [go-vcs-stamping.nix](https://github.com/stapelberg/nix) overlay has to bridge that gap for Go specifically, and the underlying problem affects every language built through Nix.\n\n## Container images\n\nOCI images have their own annotation spec for this: the [`org.opencontainers.image.revision`](https://github.com/opencontainers/image-spec/blob/main/annotations.md) label carries the VCS commit hash, and `org.opencontainers.image.source` points to the repository URL. `docker buildx` can set these automatically from git context, and GitHub Actions’ `docker/metadata-action` populates them from the workflow environment, so a CI-built image can carry its commit SHA and repo URL without any manual wiring.\n\nPlenty of Dockerfiles don’t set these labels in practice, and even when they’re present they describe the image build, not necessarily the application inside it. An image built from a Go binary that was itself built without VCS stamping will have the commit that changed the Dockerfile, which may or may not be the commit that changed the application code, so image-level and application-level stamping end up being two separate problems.\n\n## Source archives\n\nGit’s own [`git archive`](https://git-scm.com/docs/git-archive) command supports [`export-subst`](https://git-scm.com/docs/gitattributes#_creating_an_archive) in `.gitattributes`, expanding placeholders like `$Format:%H$` into the full commit hash, which is the intended mechanism for embedding commit info in archives without `.git`. GitHub, GitLab, Gitea, and Forgejo all use `git archive` internally for their downloadable tarballs and zipballs, so `export-subst` works on all of them. If you add `version.txt export-subst` to your `.gitattributes` and put `$Format:%H$` in that file, the tarball will contain the full commit hash.\n\nThe catch is reproducibility. Abbreviated hash placeholders like `$Format:%h$` produce different-length output depending on the number of objects in the repository, and GitHub’s servers don’t always agree on object counts. The same tarball URL can return different contents at different times, which breaks checksum verification. [NixOS/nixpkgs#84312](https://github.com/NixOS/nixpkgs/issues/84312) documents this problem in detail. Full hashes (`%H`) are stable, but ref-dependent placeholders like `%d` change as branches move. The mechanism works, but anyone who checksums tarballs, which is most package managers, has to treat `export-subst` repos as a source of non-determinism.\n\nThe same thing happens with package archives, where the version from the manifest file survives but the commit that produced it doesn’t unless the build backend explicitly stamped it in. (An [npm bug in 6.9.1](https://github.com/npm/npm/issues/20213) once accidentally included `.git` directories in published tarballs, and it was treated as a serious defect.) A developer tags a commit, CI builds an artifact from that tag, the build process strips `.git`, and the resulting package carries only the version string.\n\n## Trusted publishing and embedded stamping\n\nTrusted publishing through Sigstore addresses this from the registry side. When a package is published from CI with OIDC-based trusted publishing, the registry records which commit, repository, and workflow produced it, with a cryptographic signature in a transparency ledger. npm and PyPI both support this today. The provenance metadata lives at the registry rather than in the artifact, but you can look up an artifact’s attestation by its hash, so if you have the artifact you can trace it back to the commit that produced it without the artifact itself needing to carry that information.\n\n[Software Heritage](https://www.softwareheritage.org/) could eventually enable something similar from the source side. They archive public source code repositories and assign intrinsic identifiers ([SWHIDs](https://docs.softwareheritage.org/devel/swh-model/persistent-identifiers.html)) based on content hashes, so in principle you could go the other direction too: given a source tree or file, look up which commits and repositories it appeared in. That archive is already large and growing, though the tooling to make these lookups practical for everyday debugging isn’t there yet.\n\nAll this research got me thinking about how it could integrate with [git-pkgs](https://github.com/git-pkgs/git-pkgs), which already tracks the dependency side of this: who added a package, when it changed, what the version history looks like in your repo. Its `browse` command opens the installed source of a package in your editor, but that’s the installed files with no git history.\n\nIf packages reliably carried their source commit, there’s a more interesting version of that command: clone the upstream repository and check out the exact commit your installed version was built from. You’d get `git log`, `git blame`, the full context of what changed between the version you have and the version you’re upgrading to, all from your local terminal. The stamping metadata is the missing link between “I depend on this package at this version” and “here is the code that produced it, with its history.”",
+        "url": "https://nesbitt.io/2026/04/07/who-built-this.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "2026-04-07T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/07Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/07/swisscom/",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/07Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/07/swisscom/)\n\n## Today's links\n\n- [Switzerland's Goldilocks fiber](https://pluralistic.net/2026/04/07/swisscom/#stacked): Public provision is a layered question.\n\n- [Hey look at this](https://pluralistic.net/2026/04/07/swisscom/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/07/swisscom/#retro): EU appoints henhouse fox (copyright); Emacs x Tron: Legacy; Spammer v dead man's AOL account; Scott Walker's pork fountain; \"No toilets, try Amazon\"; Iceland falls (x Panama Papers); Rooms in Milanese sewers; China bans Panama Papers; \"Parent Hacks\"; \"The Nameless City\"; Phishing the world's top breach expert.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/07/swisscom/#upcoming): Toronto, Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/07/swisscom/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/07/swisscom/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/07/swisscom/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/07/swisscom/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/swiss-fiber.jpg?w=840&ssl=1)\n\n## Switzerland's Goldilocks fiber ([permalink](https://pluralistic.net/2026/04/07/swisscom/#stacked))\n\nIf you live in Switzerland you can get a 25Gbit fiber link to your home. That's 25Gbit *symmetrical* – upload *and* download. On a dedicated connection that's yours and yours alone. From multiple providers. And you can switch providers with the click of a mouse. It's the *ne plus ultra*, *magnifico*, *wunderschön*:\n\n[https://www.init7.net/de/internet/fiber7/](https://www.init7.net/de/internet/fiber7/)\n\nIn a fascinating blog post, Stefan Schüller unpacks how this came to pass, in Switzerland, a country known for its impassable mountains and its impossible national telco (Swisscom):\n\n[https://sschueller.github.io/posts/the-free-market-lie/](https://sschueller.github.io/posts/the-free-market-lie/)\n\nSchüller describes the Swiss system as a kind of Goldilocks approach that's midway between two failed systems: the American \"free market\" system and the German state provision system.\n\nMost people in the US can't get fiber at all, and if you can get it, it's probably 1Gbit, and available from a single provider (that's nearly my situation in Los Angeles, where I can buy 2Gbit symmetrical fiber from AT&T, who run a shared connection on old Worldcom fiber they've lit up). Some (very foolish) people say that Starlink represents a competitive alternative to fiber. This is nonsense – first, because Starlink is another natural monopoly (how many competing satellite constellations can we cram into stable orbits before they start smashing into each other?), and second, because satellite is *millions of times slower* than fiber:\n\n[https://www.somebits.com/weblog/tech/bad/starlink-nov-2022-data-caps.html](https://www.somebits.com/weblog/tech/bad/starlink-nov-2022-data-caps.html)\n\nIn Germany, most people also have a single fiber provider, and the connection they get is shared, and caps out at 1-2Gbit.\n\nMeanwhile, the Swiss can get connections that are *far* faster, and cheaper. How did they do it?\n\nFor starters, the Swiss recognized what any Simcity player knows: fiber is a \"natural monopoly.\" It doesn't make any sense to build multiple, competing fiber networks – any more than it would make sense to build multiple, competing sewer systems or electric grids.\n\nIn the US, private fiber providers get city permits to dig up the roads and lay their network. If you have two competing networks, they dig up the road twice.\n\nYou'd think that the (more regulated) Germans would lay a single network, but they, too, have multiple, competing networks. German regulators have a complex set of priorities and constraints: to encourage competition, they promote the idea of competing networks in competing trenches, often just meters apart (rather than on competing services running over the same fiber and/or fiber run through the same conduit – pipe – laid in a single trench).\n\nThis makes setting up fiber extremely capital-intensive, so Germany backstops this system with \"essential facilities sharing\" – a rule that requires the incumbent (formerly state-owned, now partially state-owned) Deutsche Telekom to offer space in its conduit to smaller ISPs that want to thread their own fiber from their data-centers to their customers' homes. This is a good idea in theory – but in practice, DT has largely captured its regulators and so it is free to place all kinds of administrative hurdles in the paths of competitors seeking to use its lines.\n\nThe result is that Germans can get fiber from multiple, heavily capitalized network providers who overbuilt redundant systems under the city streets, squandering capital digging trenches that they could have spent on providing faster and/or cheaper connections.\n\nMeanwhile, in the US, they leave this all up to \"the market\" (though, of course, there's no way \"the market\" could get fiber laid down without public participation, because the clearing price for privately negotiated licenses to dig up every street in town is \"infinity\"). The US is dominated by a cartel of massive incumbents: there's AT&T (formerly a regulated monopoly that was so entangled with the US government that it was effectively a for-profit state enterprise) and the cable giants, Comcast and Charter, who divide up the country into exclusive territories like the Pope dividing up the \"New World.\"\n\nThese companies generally enjoy regional monopolies, which means they're less interested in making *profits* (money you get by mobilizing capital) than they are from extracting *rent* (money you get from sweating assets). For example, when Frontier went bankrupt in 2020, we got to look at its internal bookkeeping system, and learned that the company treated 1m customers who had no alternative carriers as special assets because it could charge them more for worse service and poor maintenance:\n\n[https://pluralistic.net/2022/12/15/useful-idiotsuseful-idiots/](https://pluralistic.net/2022/12/15/useful-idiotsuseful-idiots/)\n\nThis means that US fiber networks tend to be *under*built (the opposite of Germany's overbuilt networks), meaning that even if you're buying \"gigabit\" fiber, you're probably sharing that one gig connection with your whole block or neighborhood, so you only get your nominal throughput at weird hours when all the other subscribers aren't streaming Netflix.\n\n(Note that there *are* cities in the US with a better situation; particularly cities served by Ting, which is owned by Hover, the amazing domain registry. Ting operates an excellent mobile carrier *and* a fiber networks in many cities. If you are lucky enough to have Ting as an option, then you should *treasure that option*.)\n\nSo, that's Germany and America. What did they do in Switzerland?\n\nFor starters, they ran a four-strand, *dedicated* line (an insulated wire with four separate strands of fiber in it) to every house. That wire terminates at your wall with a \"neutral, open hub.\" Any carrier can provide service over those four strands: Swisscom (the incumbent, majority state-owned carrier); Init7 or Salt (national, commercial carriers); or a local ISP.\n\nEach of the strands in your neutral hub operate independently. That means that you can switch from one carrier to another with a click. You can also run two or more carriers' signal through your hub, meaning that you can try out a new carrier before canceling your old one. The carriers compete on price, speed and customer service – but they don't compete on who can actually connect your home to the internet.\n\nThe origins of this excellent system are in 2008, when Switzerland's Federal Communications Commission convened a roundtable to determine the future of the country's broadband. Incredibly, it was Swisscom that pushed for the multi-strand, dedicated fiber system, on the grounds that anything less would lead to monopolization.\n\nI say \"incredibly,\" because in all my travels over the past three decades, a single encounter with Swisscom stands out as the most absurd and backwards run-in I ever experienced with a telco.\n\nIt was while I was working as EFF's delegate to the United Nations in Geneva, as part of an infinitesimal coalition of digital rights group convened by James Love and Manon Ress of Knowledge Ecology International. Geneva is not a forgiving city for someone working for a cash-strapped NGO: it's a city where everyone (except you) is on a lavish expense account courtesy of a national government, or (better still) an industry body that lobbies the UN.\n\nMy usual daggy two-star hotel (which cost as much as a four-star in London) didn't have its own wifi: instead, you signed on through Swisscom, which did not offer its own payment processing. To get onto the Swisscom wifi, you had to buy a scratch-off prepaid card that was good for a certain number of hours or minutes. The hotel was *always* sold out of these cards.\n\nSo my normal ritual upon my arrival in Geneva was to scour the tobacco shops around the train station for scratch-off cards. Normally, this would take four or five tries – the shops would either be completely sold out, or would only have the two-hour cards (needless to say, these were a *lot* more expensive on a per-hour basis than the one-day and multi-day cards).\n\nOn one trip, though, *all* the shops were sold out of these cards, so I skipped breakfast the next morning to wait outside the doors of the Swisscom offices, which opened five minutes late (the only business in Switzerland that wasn't achingly prompt!). The clerk let me in eventually, but when I approached his counter, he made me trudge to the opposite end of the room to take a number (I was the only person in the shop).\n\nAfter an ostentatious delay, the clerk called out \"Numero un!\" and I went up to his counter and asked for a three-day card. No dice, he was sold out. Two-day cards? Nope. One-day? Uh-uh. He only had two-hour cards, too. Literally, the Swiss national telco had *run out of integers*.\n\nThis incident stuck with me so durably that I wrote it into my third novel, *Someone Comes To Town, Someone Leaves Town*. You can hear me read that passage here:\n\n[https://pluralistic.net/2020/08/17/aura-of-benevolence/#sctt-slt](https://pluralistic.net/2020/08/17/aura-of-benevolence/#sctt-slt)\n\nSo it's frankly *amazing* to me to learn that Swisscom – who will forever be synonymous in my mind with the most catastrophically stupid internet delivery system imaginable – demanded this anti-monopoly fiber rollout.\n\nBut – as Schüller points out – Swisscom's foray into uncharacteristic reasonableness was short-lived. By 2020, the company had regressed to its mean, and was demanding an end to the neutral, four-strand, point-to-point system, petitioning for regulatory permission to switch to a cheaper, slower, shared hub-and-spoke system. This system wouldn't just be slower – it would also require all of Swisscom's rivals to rent access to its fiber, with Swisscom having the final say over who could compete with it and how.\n\nThis went all the way to the Swiss federal courts, who ruled that Swisscom had failed to demonstrate \"sufficient technological or economic grounds\" for the change and fined the company CHF18m for wasting everyone's time with this stupid idea (that is, \"violating Swiss competition law\"). And so it is that, in 2026, you can get 25Gbit symmetrical fiber throughout Switzerland. *Wunderschön!*\n\nSchüller closes out his piece with a set of recommendations for countries hoping to replicate Switzerland's broadband miracle: open access to physical infrastructure; point-to-point service; neutral fiber standards; municipal fiber; and strong antitrust enforcement to keep the incumbent carriers in line.\n\nThese are great recommendations; they address the contradiction of regulated monopoly telcoms provision. On the one hand, these networks *are* natural monopolies, and they can only exist with extensive government intervention (at a minimum, to clear the way for poles, trenches and conduit for the physical fiber).\n\nOn the other hand, telcoms (especially broadband) play an important role in the political realm, because broadband connections are essential to civic and political engagement. You can't turn people out for a protest, or run an election campaign, a referendum, a ballot initiative, a regulatory notice-and-comment campaign, or even a campaign to get people to a public meeting or listening session without broadband.\n\nThis means that state-provided broadband is an incredibly tempting target for political corruption and regulatory capture. Think of all the terrible things that governments are doing with broadband regulation today, like Trump demanding that service providers turn over the identities and locations of his political enemies so that ICE can hunt them down and kidnap or murder them; or \"age verification\" systems that accumulate mountains of easily raided personal information on adults *and* children.\n\nDo you want Trump's FCC chairman Brendan Carr setting content moderation policies for your internet connection? The guy who wants to pull TV and radio stations' broadcast licenses if they criticize Trump and Israel's catastrophic Iran war?\n\n[https://www.techdirt.com/2026/03/17/brendan-carr-pretends-to-be-tough-demands-broadcasters-support-disastrous-war/](https://www.techdirt.com/2026/03/17/brendan-carr-pretends-to-be-tough-demands-broadcasters-support-disastrous-war/)\n\nDo you want your local ISP being run by your mayor? I mean, sure, there are *some* reasonable mayors out there, but imagine if your ISP was managed by Eric Adams, Boris Johnson…or *Rob Ford*:\n\n[https://www.patreon.com/posts/rob-ford-part-1-111985831](https://www.patreon.com/posts/rob-ford-part-1-111985831)\n\nSaying that broadband should be run \"like a utility,\" raises more questions than it answers. I, too, want broadband run \"like a utility,\" but that doesn't mean that I want the whole show to be provided solely by my federal or municipal government. A \"utility\" model for broadband *should* mean running conduit to every home in town, with point-to-point connections that deliver broadband via a municipally owned network – but not *just* that.\n\nThe municipal network should *also* offer \"essential facilities sharing\" in two forms: first, they should allow anyone to set up an ISP by renting shelf-space in the municipal data-center and installing their own switches that can provide internet to anyone in town. This would let large *and* small companies set up ISPs, as well as co-ops and nonprofits, or even tinkerers wanting to provide access to a group of friends. Beyond that, the city should rent space in the conduit itself, to support point-to-point links beyond those offered by the city – for example, between a university campus and an offsite supercomputing center, or two buildings owned by the same company, or even as a parallel set of fiber connections run by someone who's fed up with getting their internet service from Eric Adams.\n\nThis is a \"pluralized\" utility model: one that involves the city in providing infrastructure at several layers, as well as a \"public option\" – but which doesn't allow a city that's in thrall to Moms For Liberty to decide what you can say on the internet.\n\nThis principle generalizes beyond internet provision, too. Many people have observed that social media, with its strong \"network effects\" (meaning its value increases as more people use it), could be a \"natural monopoly\" and want a social media \"utility.\" I can see the reasoning there, but if there's one thing we've learned from zuckermuskian legacy social media, it's that centralized control over speech forums is a moral hazard and an attractive nuisance. It's a political prize beyond measure, and it attracts all sorts of skullduggerous bids to suborn it and harness it to some political faction.\n\nBut there's a pluralized utility model for social media, too, thanks to modern, federated social media systems like Mastodon and Bluesky. These are open platforms that can support multiple, interconnected servers that all talk to one another. Unlike, say, Twitter, where you can only talk to other Twitter users, federated social media allows you to talk with anyone on *any* server, provided they want to talk with you.\n\nAs with fiber, a \"utility\" model for federated social media would feature public intervention at multiple layers of the system. Governments could (should!) run their own servers, providing the canonical source of government information. They can also provide turnkey cloud services for people who want to start their own services – and they can spin out the code that goes into these services into free/open source projects that others can use (and contribute to). Governments could support people who are trying to migrate off of legacy social media (for example, through library workshops and helplines), and pay to label and tag media (for example, media that is compliant with the public education curriculum). Governments could also offer public servers where you could sign up to get online – and because federated social media makes it easy to move your account from one server to another, it would be easy to move from that server to one run by a nonprofit, a co-op or a business:\n\n[https://pluralistic.net/2025/06/25/eurostack/#viktor-orbans-isp](https://pluralistic.net/2025/06/25/eurostack/#viktor-orbans-isp)\n\nThink of this pluralized utility model as being something like your city's roads. It's great for your city to provide roads, and great for them to run buses on those roads, and to create bike lanes and bike parking spots and other infrastructure. For roads to be \"public,\" it does not follow that everything on them be licensed and operated by the municipal government: we can still have private bikes, bikeshares, regulated taxis and licensed private motor vehicles. The roads are still \"public\" but Boris Johnson doesn't get to decide where you can go.\n\nA utility model needn't be all-or-nothing. As the Swiss have demonstrated, public provision of various layers of the system, combined with strong regulation, combined with a public option, can deliver a best-of-all-worlds solution.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/07/swisscom/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Nick Chater on the Nudge Movement and Blaming The Individual for Corporate Wrongdoing [https://www.corporatecrimereporter.com/news/200/nick-chater-on-the-nudge-movement-and-blaming-the-individual-for-corporate-wrongdoing](https://www.corporatecrimereporter.com/news/200/nick-chater-on-the-nudge-movement-and-blaming-the-individual-for-corporate-wrongdoing)\n\n- \nWhy We’re Removing Our Programmatic Ads [https://prospect.org/2026/04/06/why-were-removing-our-programmatic-ads/](https://prospect.org/2026/04/06/why-were-removing-our-programmatic-ads/)\n\n- \nActually, people love to work hard [https://www.anildash.com/2026/04/06/people-love-to-work-hard/](https://www.anildash.com/2026/04/06/people-love-to-work-hard/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/07/swisscom/#retro))\n\n#15yrsago Recording industry lobbyist appointed head of copyright for European Commission [https://arstechnica.com/tech-policy/2011/04/top-music-industry-lawyer-now-eu-copyright-chief/](https://arstechnica.com/tech-policy/2011/04/top-music-industry-lawyer-now-eu-copyright-chief/)\n\n#15yrsago How emacs got into Tron: Legacy [https://web.archive.org/web/20110407224426/http://jtnimoy.net/workviewer.php?q=178](https://web.archive.org/web/20110407224426/http://jtnimoy.net/workviewer.php?q=178)\n\n#15yrsago Dead man’s AOL account hijacked by spammer [https://ip.topicbox.com/groups/ip/T274c51b2ba843fb0-Mb6bf8853b1ed34a26b07ce44/deceasesd-father-in-law-spamming-friends-and-family-two-years-on](https://ip.topicbox.com/groups/ip/T274c51b2ba843fb0-Mb6bf8853b1ed34a26b07ce44/deceasesd-father-in-law-spamming-friends-and-family-two-years-on)\n\n#15yrsago Scarring Party: megaphone songs, sea chanteys and dark vaudeville tunes [https://web.archive.org/web/20110406044523/http://www.avclub.com/milwaukee/articles/the-scarring-party-losing-teeth%2C43871/](https://web.archive.org/web/20110406044523/http://www.avclub.com/milwaukee/articles/the-scarring-party-losing-teeth%2C43871/)\n\n#15yrsago Snaggly table made out of computer junk [https://web.archive.org/web/20110406044521/http://brcdesigns.com/furniture/binary-low-table](https://web.archive.org/web/20110406044521/http://brcdesigns.com/furniture/binary-low-table)\n\n#15yrsago Scott Walker gives cushy $85.5K/year government job to major donor’s young, underqualified son [https://web.archive.org/web/20110406040138/https://thinkprogress.org/2011/04/04/scott-walker-hires-dropout/](https://web.archive.org/web/20110406040138/https://thinkprogress.org/2011/04/04/scott-walker-hires-dropout/)\n\n#15yrsago Closing down Borders sign: “No toilets, try Amazon” [https://web.archive.org/web/20110406044522/https://consumerist.com/2011/04/sign-at-borders-store-closing-in-chicago-tells-customers-where-to-find-a-restroom.html](https://web.archive.org/web/20110406044522/https://consumerist.com/2011/04/sign-at-borders-store-closing-in-chicago-tells-customers-where-to-find-a-restroom.html)\n\n#15yrsago What is legitimate “newsgathering” and what is “piracy”? [https://zunguzungu.wordpress.com/2011/04/05/why-arianna-huffington-is-bill-kellers-somali-pirate/](https://zunguzungu.wordpress.com/2011/04/05/why-arianna-huffington-is-bill-kellers-somali-pirate/)\n\n#10yrsago Iceland’s Prime Minister asks to dissolve Parliament [https://www.bbc.co.uk/news/world-europe-35966412](https://www.bbc.co.uk/news/world-europe-35966412)\n\n#10yrsago Artist installs rooms beneath Milan’s sewer entrances [https://web.archive.org/web/20160406132425/https://www.biancoshock.com/borderlife.html](https://web.archive.org/web/20160406132425/https://www.biancoshock.com/borderlife.html)\n\n#10yrsago Banned on China’s Internet: all discussion of the Panama Papers [https://www.bbc.co.uk/news/world-asia-china-35957235](https://www.bbc.co.uk/news/world-asia-china-35957235)\n\n#10yrsago Google reaches into customers’ homes and bricks their gadgets [https://arlogilbert.com/the-time-that-tony-fadell-sold-me-a-container-of-hummus-cb0941c762c1#.srp9ym34a](https://arlogilbert.com/the-time-that-tony-fadell-sold-me-a-container-of-hummus-cb0941c762c1#.srp9ym34a)\n\n#10yrsago Middle class housing projects are the Bay Area’s future [https://www.newyorker.com/culture/cultural-comment/welcome-to-the-future-middle-class-housing-projects](https://www.newyorker.com/culture/cultural-comment/welcome-to-the-future-middle-class-housing-projects)\n\n#10yrsago Pollster explains how Chamber of Commerce can steamroller empathetic execs into opposing progressive policies [https://web.archive.org/web/20160406190524/https://gawker.com/business-execs-support-progressive-policies-but-the-ch-1768898477](https://web.archive.org/web/20160406190524/https://gawker.com/business-execs-support-progressive-policies-but-the-ch-1768898477)\n\n#10yrsago How to write about scientists who are women [https://www.doublexscience.org/the-finkbeiner-test/](https://www.doublexscience.org/the-finkbeiner-test/)\n\n#10yrsago Garden: XKCD’s latest maddening, relaxing webtoy [https://xkcd.com/1663/#3978da67-1ead-45e1-a293-9c8e4918a147](https://xkcd.com/1663/#3978da67-1ead-45e1-a293-9c8e4918a147)\n\n#10yrsago Parent Hacks: illustrated guide is the best kind of parenting book [https://memex.craphound.com/2016/04/05/parent-hacks-illustrated-guide-is-the-best-kind-of-parenting-book/](https://memex.craphound.com/2016/04/05/parent-hacks-illustrated-guide-is-the-best-kind-of-parenting-book/)\n\n#10yrsago The Nameless City: YA graphic novel about diplomacy, hard and soft power, colonialism, bravery, and parkour [https://memex.craphound.com/2016/04/05/the-nameless-city-ya-graphic-novel-about-diplomacy-hard-and-soft-power-colonialism-bravery-and-parkour/](https://memex.craphound.com/2016/04/05/the-nameless-city-ya-graphic-novel-about-diplomacy-hard-and-soft-power-colonialism-bravery-and-parkour/)\n\n#5yrsago How Facebook will benefit from its massive breach [https://pluralistic.net/2021/04/05/zucks-oily-rags/#into-the-breach](https://pluralistic.net/2021/04/05/zucks-oily-rags/#into-the-breach)\n\n#1yrago How the world's leading breach expert got phished [https://pluralistic.net/2025/04/05/troy-hunt/#teach-a-man-to-phish](https://pluralistic.net/2025/04/05/troy-hunt/#teach-a-man-to-phish)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/07/swisscom/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: Humber Polytechnic President's Lecture Series, Apr 8\n\n[https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html](https://liberalarts.humber.ca/current-students/resources/conferences-and-lectures/presidents-lecture-series.html)\n\n- \nMontreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nToronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/07/swisscom/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/07/swisscom/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/07/swisscom/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/07/swisscom/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/07/swisscom/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 07 Apr 2026 07:20:37 +0000",
+        "reading_time": 22,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+        "summary": "7th April 2026\n\nAnthropic *didn’t* release their latest model, Claude Mythos ([system card PDF](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)), today. They have instead m",
+        "content": "7th April 2026\n\nAnthropic *didn’t* release their latest model, Claude Mythos ([system card PDF](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)), today. They have instead made it available to a very restricted set of preview partners under their newly announced [Project Glasswing](https://www.anthropic.com/glasswing).\n\nThe model is a general purpose model, similar to Claude Opus 4.6, but Anthropic claim that its cyber-security research abilities are strong enough that they need to give the software industry as a whole time to prepare.\n\n> Mythos Preview has already found thousands of high-severity vulnerabilities, including some in *every major operating system and web browser*. Given the rate of AI progress, it will not be long before such capabilities proliferate, potentially beyond actors who are committed to deploying them safely.\n\n> [...]\n\n> Project Glasswing partners will receive access to Claude Mythos Preview to find and fix vulnerabilities or weaknesses in their foundational systems—systems that represent a very large portion of the world’s shared cyberattack surface. We anticipate this work will focus on tasks like local vulnerability detection, black box testing of binaries, securing endpoints, and penetration testing of systems.\n\nThere’s a great deal more technical detail in [ Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/) on the Anthropic Red Team blog:\n\n> In one case, Mythos Preview wrote a web browser exploit that chained together four vulnerabilities, writing a complex [JIT heap spray](https://en.wikipedia.org/wiki/JIT_spraying) that escaped both renderer and OS sandboxes. It autonomously obtained local privilege escalation exploits on Linux and other operating systems by exploiting subtle race conditions and KASLR-bypasses. And it autonomously wrote a remote code execution exploit on FreeBSD’s NFS server that granted full root access to unauthenticated users by splitting a 20-gadget ROP chain over multiple packets.\n\nPlus this comparison with Claude 4.6 Opus:\n\n> Our internal evaluations showed that Opus 4.6 generally had a near-0% success rate at autonomous exploit development. But Mythos Preview is in a different league. For example, Opus 4.6 turned the vulnerabilities it had found in Mozilla’s Firefox 147 JavaScript engine—all patched in Firefox 148—into JavaScript shell exploits only two times out of several hundred attempts. We re-ran this experiment as a benchmark for Mythos Preview, which developed working exploits 181 times, and achieved register control on 29 more.\n\nSaying “our model is too dangerous to release” is a great way to build buzz around a new model, but in this case I expect their caution is warranted.\n\nJust a few days ([last Friday](https://simonwillison.net/2026/Apr/3/)) ago I started a new [ai-security-research](https://simonwillison.net/tags/ai-security-research/) tag on this blog to acknowledge an uptick in credible security professionals pulling the alarm on how good modern LLMs have got at vulnerability research.\n\n[Greg Kroah-Hartman](https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/) of the Linux kernel:\n\n> Months ago, we were getting what we called ’AI slop,’ AI-generated security reports that were obviously wrong or low quality. It was kind of funny. It didn’t really worry us.\n\n> Something happened a month ago, and the world switched. Now we have real reports. All open source projects have real reports that are made with AI, but they’re good, and they’re real.\n\n[Daniel Stenberg](https://mastodon.social/@bagder/116336957584445742) of `curl`:\n\n> The challenge with AI in open source security has transitioned from an AI slop tsunami into more of a ... plain security report tsunami. Less slop but lots of reports. Many of them really good.\n\n> I’m spending hours per day on this now. It’s intense.\n\nAnd Thomas Ptacek published [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/), a post inspired by his [podcast conversation](https://securitycryptographywhatever.com/2026/03/25/ai-bug-finding/) with Anthropic’s Nicholas Carlini.\n\nAnthropic have a 5 minute [talking heads video](https://www.youtube.com/watch?v=INGOC6-LLv0) describing the Glasswing project. Nicholas Carlini appears as one of those talking heads, where he said (highlights mine):\n\n> It has the ability to chain together vulnerabilities. So what this means is you find two vulnerabilities, either of which doesn’t really get you very much independently. But this model is able to create exploits out of three, four, or sometimes five vulnerabilities that in sequence give you some kind of very sophisticated end outcome. [...]\n\n> **I’ve found more bugs in the last couple of weeks than I found in the rest of my life combined**. We’ve used the model to scan a bunch of open source code, and the thing that we went for first was operating systems, because this is the code that underlies the entire internet infrastructure. **For OpenBSD, we found a bug that’s been present for 27 years, where I can send a couple of pieces of data to any OpenBSD server and crash it**. On Linux, we found a number of vulnerabilities where as a user with no permissions, I can elevate myself to the administrator by just running some binary on my machine. For each of these bugs, we told the maintainers who actually run the software about them, and they went and fixed them and have deployed the patches  patches so that anyone who runs the software is no longer vulnerable to these attacks.\n\nI found this on the [OpenBSD 7.8 errata page](https://www.openbsd.org/errata78.html):\n\n> **025: RELIABILITY FIX: March 25, 2026**  *All architectures*\n\n> TCP packets with invalid SACK options could crash the kernel.\n\n> [A source code patch exists which remedies this problem.](https://ftp.openbsd.org/pub/OpenBSD/patches/7.8/common/025_sack.patch.sig)\n\nI tracked that change down in the [GitHub mirror](https://github.com/openbsd/src) of the OpenBSD CVS repo (apparently they still use CVS!) and found it [using git blame](https://github.com/openbsd/src/blame/master/sys/netinet/tcp_input.c#L2461):\n\n![Screenshot of a Git blame view of C source code around line 2455 showing TCP SACK hole validation logic. Code includes checks using SEQ_GT, SEQ_LT macros on fields like th->th_ack, tp->snd_una, sack.start, sack.end, tp->snd_max, and tp->snd_holes. Most commits are from 25–27 years ago with messages like \"more SACK hole validity testin...\" and \"knf\", while one recent commit from 3 weeks ago (\"Ignore TCP SACK packets wit...\") is highlighted with an orange left border, adding a new guard \"if (SEQ_LT(sack.start, tp->snd_una)) continue;\"](https://static.simonwillison.net/static/2026/openbsd-27-years.jpg)\n\nSure enough, the surrounding code is from 27 years ago.\n\nI’m not sure which Linux vulnerability Nicholas was describing, but it may have been [this NFS one](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=5133b61aaf437e5f25b1b396b14242a6bb0508e2) recently covered [by Michael Lynch\n](https://mtlynch.io/claude-code-found-linux-vulnerability/).\n\nThere’s enough smoke here that I believe there’s a fire. It’s not surprising to find vulnerabilities in decades-old software, especially given that they’re mostly written in C, but what’s new is that coding agents run by the latest frontier LLMs are proving tirelessly capable at digging up these issues.\n\nI actually thought to myself on Friday that this sounded like an industry-wide reckoning in the making, and that it might warrant a huge investment of time and money to get ahead of the inevitable barrage of vulnerabilities. Project Glasswing incorporates “$100M in usage credits ... as well as $4M in direct donations to open-source security organizations”. Partners include AWS, Apple, Microsoft, Google, and the Linux Foundation. It would be great to see OpenAI involved as well—GPT-5.4 already has a strong reputation for finding security vulnerabilities and they have stronger models on the near horizon.\n\nThe bad news for those of us who are *not* trusted partners is this:\n\n> We do not plan to make Claude Mythos Preview generally available, but our eventual goal is to enable our users to safely deploy Mythos-class models at scale—for cybersecurity purposes, but also for the myriad other benefits that such highly capable models will bring. To do so, we need to make progress in developing cybersecurity (and other) safeguards that detect and block the model’s most dangerous outputs. We plan to launch new safeguards with an upcoming Claude Opus model, allowing us to improve and refine them with a model that does not pose the same level of risk as Mythos Preview.\n\nI can live with that. I think the security risks really are credible here, and having extra time for trusted teams to get ahead of them is a reasonable trade-off.",
+        "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-07T20:52:54.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future",
+        "summary": "OpenAI, one week ago, [in an unbylined post on the company blog](https://openai.com/index/accelerating-the-next-phase-ai/):\n\n> Today, we closed our latest funding round with $122 billion in\n> committe",
+        "content": "OpenAI, one week ago, [in an unbylined post on the company blog](https://openai.com/index/accelerating-the-next-phase-ai/):\n\n> Today, we closed our latest funding round with $122 billion in\n> committed capital at a post money valuation of $852 billion.\n\nFor comparison, here are the current market caps and 2025 annual profits for public companies in that valuation range:\n\nMarket Cap2025 Net Income\n\nBerkshire Hathaway$1,028 B$67 B\n\nWalmart$980 B$22 B\n\nSamsung$855 B$29 B\n\nEli Lilly$832 B$21 B\n\n[In a post last week](https://daringfireball.net/linked/2026/03/31/bi-fidji-simo), I quoted a Deutsche Bank projection estimating that OpenAI is going to *lose* $143 billion between 2024 and 2029. OpenAI’s refutation of this estimate is that no, they’re merely going to lose $111 billion in that timeframe. Even in the company’s own optimistic scenario, they’re going to *lose*, on average, as much money per year as any of these companies *earn*. (Well, except for Berkshire, which earned significantly *more* than the others last year.)\n\nI’m not trying to be thick here. Obviously the idea behind OpenAI’s astronomical valuation is that at some point they’ll stop losing money, and then, presumably starting at some point in the 2030s, they’re going to start generating mountains of profit. P/E ratios are not effective for evaluating a startup in hyper-growth phase, but the idea is that *eventually* a successful startup will achieve a balanced P/E ratio. That seems possible for OpenAI. It also seems far, if not very far, from certain. My gut feeling, now more than ever, is that it is unlikely to happen, and that the most likely scenario is that the entire company goes into history alongside companies like Enron. They’re generating steadily increasing revenue now, yes, but by selling dollars of compute for pennies. [First CityWide Change Bank](https://www.nbc.com/saturday-night-live/video/first-citywide-change-bank/2723464) had a better business strategy than that — they gave you the correct change.[1](#fn1-2026-04-07)\n\nI purposely stretched the valuation range in my table above into the $1T market cap range so I could include Berkshire Hathaway, a company I’ve always greatly admired. Warren Buffett has long promoted the idea of seeking to invest in companies not just with moats, [but with *defensible* moats](https://finance.yahoo.com/news/warren-buffett-explains-moat-principle-164442359.html). I still haven’t seen a good refutation of the leaked internal Google white paper whose actual title was “[We Have No Moat, and Neither Does OpenAI](https://daringfireball.net/linked/2024/11/29/cal-paterson-llms-as-businesses)”. What Google does have are highly profitable existing products and services.\n\nBack to OpenAI’s funding announcement, skipping over the next 1,111 words, all of which struck me as meaningless blather (and, if I had to bet, largely written by ChatGPT):\n\n> That is why we are building a unified AI superapp. As models\n> become more capable, the limiting factor shifts from intelligence\n> to usability. Users do not want disconnected tools. They want a\n> single system that can understand intent, take action, and operate\n> across applications, data, and workflows. Our superapp will bring\n> together ChatGPT, Codex, browsing, and our broader agentic\n> capabilities into one agent-first experience.\n\n> \n> This is not just product simplification. It is a distribution and\n> deployment strategy.\n\nThis is not “product simplification” *at all*. This is production complication. Web browsers are incredibly complex apps. OpenAI’s web browser — [Atlas](https://openai.com/index/introducing-chatgpt-atlas/) — is a failure. No one uses it. And they think they’re going to *simplify* things by cramming Atlas — an unpopular web browser almost no one has heard of — together with their chatbot and developer tool? Would it strike you as a simplification, or a sign of product design depravity, if Apple announced that it was merging Safari and Messages into one “superapp”? Focused, discrete apps are the best proven way to manage complexity.\n\nMaybe merging all their apps into one will work out for OpenAI. But even if it does, it won’t be simpler. Microsoft Outlook is an email client and calendar app crammed together, and it has tens, maybe hundreds, of millions of users. But no one calls it “product simplification”. OpenAI’s “superapp” strategy reads to me like a company that is in a panic. And in that panic, they might be poised to eradicate the product focus that their current users like about ChatGPT in the first place.\n\n## Shuffling\n\nAnd that’s just my read from before their late-Friday news dump of executive leadership shuffling. [Hayden Field at The Verge reports](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlpYWmFCSHJhUjgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkwNjk2NS9vcGVuYWlzLWFnaS1ib3NzLWlzLXRha2luZy1hLWxlYXZlLW9mLWFic2VuY2UiLCJleHAiOjE3NzYwMTMyNDksImlhdCI6MTc3NTU4MTI1MH0.GLlXdOStvZbttvEKLGUKKYRhfmkdxDCe7dO2YODC-Sw&utm_medium=gift-link) (gift link):\n\n> OpenAI is undergoing another round of C-suite changes, according\n> to an internal memo viewed by The Verge.\n\n> \n> Fidji Simo, OpenAI’s CEO of AGI deployment — who was until\n> recently the company’s CEO of applications — says in the memo\n> that she will be stepping away on medical leave “for the next\n> several weeks” due to a neuroimmune condition. While she’s out,\n> OpenAI president Greg Brockman will be in charge of product,\n> including leading OpenAI’s “superapp” efforts. On the business\n> side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will\n> take charge.\n\nThe Verge runs Simo’s full memo at the bottom of their story, if you want to read it yourself. Simo’s title used to be CEO of applications, now it’s CEO of AGI deployment, but the last thing she oversaw before departing on an open-ended medical leave was ... [checks notes](https://www.wsj.com/tech/openai-technology-business-programming-network-b681ef6b?st=eDGw8W) ... negotiating the acquisition of a YouTube tech news show for “low hundreds of millions of dollars” ([per the Financial Times](https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e)). That’s the deployment of *something*, but not artificial general intelligence.\n\nSimo, too, is credited with the “superapp” strategy (which I will not stop putting in dick quotes). It certainly sounds like something someone [from Facebook](https://www.marieclaire.com/career-advice/a28712482/fidji-simo-facebook/) would think up. But now she’s not going to be there to oversee it. I wish Simo well with her health issues, which seem significant, but none of this paints a picture of a well-run company with any sort of cohesive strategic vision.\n\nUntil last week, I hadn’t seen [Zoë Schiffer’s profile of Simo for Wired from November](https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/), soon after she joined OpenAI as *a* CEO, but not *the* CEO:\n\n> Simo hasn’t been seen much at OpenAI’s San Francisco office since\n> she began as CEO of Applications in August. But her presence is\n> felt at every level of the company — not least because she’s\n> heading up ChatGPT and basically every function that might make\n> OpenAI money. Simo is dealing with a relapse of postural\n> orthostatic tachycardia syndrome (POTS) that makes her prone to\n> fainting if she stands for long periods of time. So for now, she’s\n> working from home in Los Angeles, and she’s on Slack. *A lot*.\n\n> \n> “Being present from 8 am to midnight every day, responding within\n> five minutes, people feel like I’m there and that they can reach\n> me immediately, that I jump on the phone within five minutes,” she\n> tells me. Employees confirm that this is true. OpenAI’s famously\n> Slack-driven culture can be overwhelming for new hires. But not,\n> apparently, for Simo. Employees say she is often seen popping into\n> channels and threads, sharing thoughts and asking questions.\n\nOpenAI’s work environment seems not merely overwhelming, but torturous. I have no reason to believe Simo’s medical leave is anything but a legitimate medical leave, but I wouldn’t be surprised if she never comes back. (What’s the point of being CEO of AGI deployment when there is no AGI to deploy?)\n\nI don’t see the path from here to there, where *there* is a justification for a trillion-dollar-ish valuation for this company.",
+        "url": "https://daringfireball.net/2026/04/openai_future",
+        "source": "Daring Fireball",
+        "tags": [
+          "Startup",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-07T22:07:08.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Om Malik and Ben Thompson on OpenAI Buying TBPN - ![](https://om.co/wp-content/uploads/2026/04/LeninSimo-1024x683.png) > “A newspaper is not...",
+    "GLM-5.1: Towards Long-Horizon Tasks - 7th April 2026 - Link Blog **[GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5...",
+    "Writing an LLM from scratch, part 32i -- Interventions: what is in the noise? - Archives Categories",
+    "Who Built This? - Michael Stapelberg [wrote last week](https://michael.stapelberg.ch/posts/2026-04-05-stamp-...",
+    "Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 10
+    },
+    {
+      "word": "openai",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 5
+    },
+    {
+      "word": "today",
+      "count": 4
+    },
+    {
+      "word": "security",
+      "count": 4
+    },
+    {
+      "word": "blog",
+      "count": 4
+    },
+    {
+      "word": "hayes",
+      "count": 4
+    },
+    {
+      "word": "windows",
+      "count": 4
+    },
+    {
+      "word": "mode",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "modem",
+      "count": 3
+    },
+    {
+      "word": "week",
+      "count": 3
+    },
+    {
+      "word": "michael",
+      "count": 3
+    },
+    {
+      "word": "collective",
+      "count": 3
+    },
+    {
+      "word": "glm-",
+      "count": 3
+    },
+    {
+      "word": "latest",
+      "count": 3
+    },
+    {
+      "word": "sqlite",
+      "count": 2
+    },
+    {
+      "word": "wal",
+      "count": 2
+    },
+    {
+      "word": "across",
+      "count": 2
+    },
+    {
+      "word": "docker",
+      "count": 2
+    },
+    {
+      "word": "containers",
+      "count": 2
+    },
+    {
+      "word": "sharing",
+      "count": 2
+    },
+    {
+      "word": "volume",
+      "count": 2
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "research",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "moon",
+      "count": 2
+    },
+    {
+      "word": "lower",
+      "count": 2
+    },
+    {
+      "word": "bound",
+      "count": 2
+    },
+    {
+      "word": "kb",
+      "count": 2
+    },
+    {
+      "word": "altman",
+      "count": 2
+    },
+    {
+      "word": "routers",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "office",
+      "count": 2
+    },
+    {
+      "word": "tokens",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "sheets",
+      "count": 2
+    },
+    {
+      "word": "phone",
+      "count": 2
+    },
+    {
+      "word": "compatible",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "invoices",
+      "count": 2
+    },
+    {
+      "word": "cloudflare",
+      "count": 2
+    },
+    {
+      "word": "full",
+      "count": 2
+    },
+    {
+      "word": "post-quantum",
+      "count": 2
+    },
+    {
+      "word": "quantum",
+      "count": 2
+    },
+    {
+      "word": "programs",
+      "count": 2
+    },
+    {
+      "word": "incompatible",
+      "count": 2
+    },
+    {
+      "word": "point",
+      "count": 2
+    },
+    {
+      "word": "trying",
+      "count": 2
+    },
+    {
+      "word": "patch",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "om",
+      "count": 2
+    },
+    {
+      "word": "towards",
+      "count": 2
+    },
+    {
+      "word": "long-horizon",
+      "count": 2
+    },
+    {
+      "word": "tasks",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "april",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "model",
+      "count": 2
+    },
+    {
+      "word": "hugging",
+      "count": 2
+    },
+    {
+      "word": "stapelberg",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "mythos",
+      "count": 2
+    },
+    {
+      "word": "anthropic",
+      "count": 2
+    },
+    {
+      "word": "pdf",
+      "count": 2
+    },
+    {
+      "word": "announces",
+      "count": 2
+    },
+    {
+      "word": "billion",
+      "count": 2
+    }
+  ]
+}
