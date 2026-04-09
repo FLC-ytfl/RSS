@@ -1,0 +1,847 @@
+{
+  "date": "2026-04-09",
+  "stats": {
+    "total_fetched": 281,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "GitHub Repo Size",
+        "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/github-repo-size\">GitHub Repo Size</a></p> <p>GitHub doesn't tell you the repo size in the UI, but it's available in the CORS-friendly <a href=\"https://a...",
+        "url": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-09T21:31:50.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Lickspittle of the Week: Todd Blanche",
+        "summary": "Acting Attorney General Todd Blanche, speaking of the president of the United States in a totally normal way: I love working for President Trump. It’s the greatest honor of a lifetime. And if President Trump chooses to n...",
+        "url": "https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-09T17:10:48.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Great Pyramid of Giza and the Speed of Light",
+        "summary": "Saw a post on X saying that the latitude of the Pyramid of Giza is the same as the speed of light. I looked into this, expecting it to be approximately true. It’s exactly true in the sense that the speed of light in vacu...",
+        "url": "https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Apr 2026 17:54:21 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Root prime gap",
+        "summary": "I recently found out about Andrica’s conjecture: the square roots of consecutive primes are less than 1 apart. In symbols, Andrica’s conjecture says that if pn and pn+1 are consecutive prime numbers, then √pn+1 − √pn < 1...",
+        "url": "https://www.johndcook.com/blog/2026/04/08/andrica/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Apr 2026 00:18:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships",
+        "summary": "This is the fourth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my work, I encourage you to buy this book, either directly from my store or on Amazon. Thank you! Continuing with the topic of rela...",
+        "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships",
+        "source": "Miguel Grinberg's Blog",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Thu, 09 Apr 2026 15:02:34 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: Small Comfort by Ia Genberg ★★☆☆☆",
+        "summary": "I was left somewhat unconvinced by this book. I liked the concept - a series of interrelated stories all told in different styles. Much like the film \"Lola RenntRun Lola Run\" there's a briefcase full of cash, a cast of m...",
+        "url": "https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Thu, 09 Apr 2026 11:34:59 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How do you add or remove a handle from an active Wait­For­Multiple­Objects?",
+        "summary": "You can't, but you can cooperate with the other thread. The post How do you add or remove a handle from an active <CODE>Wait­For­Multiple­Objects</CODE>? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Random hexagon fractal",
+        "summary": "I recently ran across a post on X describing a process for creating a random fractal. First, pick a random point c inside a hexagon. Then at each subsequent step, pick a random side of the hexagon and create the triangle...",
+        "url": "https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Apr 2026 17:25:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Osborne Computer liquidated April 9, 1986",
+        "summary": "40 years ago today, on April 9, 1986, Osborne Computer Corporation, one of the early makers of CP/M computers and a pioneer in portable computing, liquidated after three years of financial hardship. Its demise is general...",
+        "url": "https://dfarq.homeip.net/osborne-computer-liquidated-april-9-1986/?utm_source=rss&utm_medium=rss&utm_campaign=osborne-computer-liquidated-april-9-1986",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Startup"
+        ],
+        "published_at": "Thu, 09 Apr 2026 11:00:21 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation NL",
+        "summary": "Vandaag verscheen het rapport “Digitale autonomie binnen de energie-intensieve industrie”, wat ik schreef in opdracht van Energy Innovation NL, voorheen bekend als de Topsector Energie. Het rapport is hier te lezen. Dit...",
+        "url": "https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Apr 2026 06:30:00 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "You can absolutely have an RSS dependent website in 2026",
+        "summary": "I write stuff here. Sometimes the stuff is good. Sometimes it reads like I wrote it at 2 AM after an argument with a YAML file, which is because I did. But one decision I made early on was that I didn't want to offer an...",
+        "url": "https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/",
+        "source": "matduggan.com",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Thu, 09 Apr 2026 10:28:58 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Nowhere Is Safe",
+        "summary": "Drones in Ukraine and in the War with Iran have made the surface of the earth a contested space. The U.S. has discovered that 1) air superiority and missile defense systems (THAAD, Patriot batteries) designed to counter...",
+        "url": "https://steveblank.com/2026/04/09/nowhere-is-safe/",
+        "source": "Steve Blank",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Hardware"
+        ],
+        "published_at": "Thu, 09 Apr 2026 13:00:25 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Helium Is Hard to Replace",
+        "summary": "The war in Iran, and the subsequent closure of the Strait of Hormuz, has unfortunately made us all familiar with details of the petroleum supply chain that we could formerly happily ignore.",
+        "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Thu, 09 Apr 2026 12:03:42 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-09T22:31:22.744Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "asgi-gzip 0.3",
+        "summary": "Release\n    \n    [asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3)\n    — gzip middleware for ASGI applications, extracted from Starlette\n  \n\nI ran into trouble deploying a new feat",
+        "content": "Release\n    \n    [asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3)\n    — gzip middleware for ASGI applications, extracted from Starlette\n  \n\nI ran into trouble deploying a new feature using [SSE](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events) to a production Datasette instance, and it turned out that instance was using [datasette-gzip](https://github.com/simonw/datasette-gzip) which uses [asgi-gzip](https://github.com/simonw/asgi-gzip) which was incorrectly compressing `event/text-stream` responses.\n\n`asgi-gzip` was extracted from Starlette, and has [a GitHub Actions scheduled workflow](https://simonwillison.net/2022/Apr/28/issue-on-changes/) to check Starlette for updates that need to be ported to the library... but that action had stopped running and hence had missed [Starlette's own fix](https://github.com/Kludex/starlette/commit/a9a8dab0cc3cbd05dca37650fc392717b9fe5bbf) for this issue.\n\nI ran the workflow and integrated the new fix, and now `datasette-gzip` and `asgi-gzip` both correctly handle `text/event-stream` in SSE responses.",
+        "url": "https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Mobile"
+        ],
+        "published_at": "2026-04-09T03:54:40.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe",
+        "summary": "Software developer Photon, whose product requires running a bunch of Macs to connect to iMessage, [discovered a pretty major bug](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-ne",
+        "content": "Software developer Photon, whose product requires running a bunch of Macs to connect to iMessage, [discovered a pretty major bug](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking):\n\n> \n> Every Mac has a hidden expiration date. After exactly 49 days, 17 hours, 2 minutes, and 47 seconds of continuous uptime, a 32-bit unsigned integer overflow in Apple’s XNU kernel freezes the internal TCP timestamp clock…  ICMP (ping) keeps working. Everything else dies. The only fix most people know is a reboot.\n> \n\nThe whole story is wild (albeit technical). Photon says they’re working on a fix, but really, this is something Apple should be working on.\n\nAs someone who keeps a Mac mini running in my closet, I *guarantee* you that I have been affected by this bug. But who remembers that it’s been 50 days since the last time your Mac server became entirely unresponsive other than pings? Unless I’m traveling, I just shrug, reboot the Mac, and go on with my life. Not great.\n\n**Update**: I’ve heard from some people who report very long uptimes on Mac servers running older versions of macOS. I guess the bigger question is, what OS versions does this actually impact? Tough thing to test, given that the bug appears only after 49+ days.",
+        "url": "https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Product",
+          "Mobile"
+        ],
+        "published_at": "2026-04-09T22:14:13.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What Are You Trying to Say? ",
+        "summary": "Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't matter how much I prepared my speech, the message is just not getting through. But then they ask: What a",
+        "content": "Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't matter how much I prepared my speech, the message is just not getting through. But then they ask: What are you trying to say?\n\nSomehow, this shifts the conversation entirely. Instead of trying to sound smart and interesting, I start telling them exactly what I'm trying to say. The fluff disappears, the jargon fades, and I'm left with the raw information in its most primitive form. And somehow, they understand me better this way.\n\n*What are you trying to say?* Whether it's in person or in writing, that question triggers something in us that allows us to better express our intentions.\n\nHere's an exercise. Look out the window. What color is the sky? Now, on a piece of paper or in a word processor, write that the sky is blue.\n\n> \"The sky is blue.\"\n\nSomehow, it doesn't feel satisfying. Were there a few wisps of cloud in the sky? Did those clouds look like they were floating? Maybe erring? Were there mountains in the distance? Were they covered with a thin sheet of snow? Were you actually looking through a window, or sitting outdoors, maybe at a park with kids playing on a playground in the distance? What was happening under that blue sky? Was it actually blue, or a yawning purple suggesting dusk?\n\nThere's a whole lot we want to express, a whole lot we want to share of our full experience of the moment. But sometimes, just saying that the sky is blue does it.\n\n*What are you trying to say?* Maybe you aren't trying to say that the sky is blue. Maybe you're using it as a metaphor for a deeper feeling you're experiencing. Maybe the emotion is complex and you need to paint it with a broader brush to truly express your feelings. But maybe all you're trying to say is that you're sad. Or happy. Maybe that's all you need to say.\n\nThis is something I find fascinating about communication. Sometimes the process demands that you say things wrong, or in the long-winded and complicated way, in order to arrive at that simple, raw format. It's just like how writing helps us think. Your idea isn't clear until you have it written down, like a complicated equation that resolves to something simple. The only shortcut we can take is to ask ourselves that question and untangle our mind in private, before we present our simple resolution at the end.\n\nWhenever you find yourself, just like me, going in circles, losing yourself in a spiral, stop for a moment. Ask yourself: *What am I trying to say?*",
+        "url": "https://idiallo.com/blog/what-are-you-trying-to-say?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Thu, 09 Apr 2026 12:00:00 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I quit drinking for a year",
+        "summary": "In early January 2025, a family friend was over for lunch. One of my many guilty midwit pleasures is a love of New Year’s resolutions, so I asked her if she had made any. She said no, but mentioned th",
+        "content": "In early January 2025, a family friend was over for lunch. One of my many guilty midwit pleasures is a love of New Year’s resolutions, so I asked her if she had made any. She said no, but mentioned that she had some relatives that were doing “damp January”.\n\nIn case you’re not aware, [Dry January](https://en.wikipedia.org/wiki/Dry_January) is a challenge many people do to quit drinking alcohol during the month of January. These folks were doing a variant in which, instead of not drinking, one simply drinks less.\n\nFor some reason, this triggered me. I thought, “Are you kidding? You can’t even stop drinking for a single month? Do you know how pathetic that is?” And then, “Fuck you! Fuck you for doing damp January! You know what, I’m going to stop drinking for a *year*!”\n\nTo be clear, these thoughts were directed at people I’ve never even met. In retrospect, I wonder what was going on with me emotionally. But I take resolutions seriously, so I felt committed.\n\nWe are now 15 months down the timeline, so I’ll make my report.\n\n## It was easy\n\nThis will sound odd, but I swear it’s true. Not drinking was so easy that it was almost easier than my previous baseline of not-not-drinking.\n\nBefore starting this resolution, I didn’t drink much—perhaps two or three drinks per week. But I often *thought* about drinking. Every time I saw friends or went to a restaurant, I thought, “Should I have a drink?” Usually I decided not to. But making that decision required effort.\n\nAfter a few weeks of not drinking, that question never even came up. Drinking was simply not a thing I did, so I never needed to negotiate with myself.\n\nTheoretically, you could allow yourself one drink a month instead of zero. Theoretically, that should be easier. But I’m pretty sure I’d find it harder, because alcohol would still be an *option*, a thing to consider.\n\n## Sometimes I need a thing\n\nEarly on, I sometimes wanted a drink. But gradually I noticed that I didn’t really want a drink, I just wanted a *thing*. I can’t find a precise name for this concept in psychology, but often, some deep part of my brain seems to scream, “I WANT A THING.” It could be alcohol, but I found dessert worked just as well. I suspect that a new shirt or meeting a new dog would also work.\n\nI was not able to stop my brain from doing this. When it demanded a thing, I gave it a thing. I just substituted a non-alcohol thing. So, over the year, I became interested in desserts and even-more interested in tea.\n\nThe struggle was The Chocolates. Shortly after I made this resolution, my mother gave me a bag of chocolates that each contained a bit of whiskey. In general, I don’t keep chocolate at home. If anyone gives me chocolate, I immediately eat all of it and then text the giver, “Thanks for the chocolate, I ate it instead of dinner, it’s all gone, this is what will always happen if you give me chocolate.”\n\nBut I couldn’t eat the Chocolates, because they contained alcohol. I managed to get guests to eat a few. A couple of times I came close to draining out the alcohol and eating the chocolate container. I even considered throwing them away, but that felt wrong. So instead I spent a year glaring at them and waiting for them to apologize for the anguish they were causing me. This represented half the difficulty of this resolution. I do not recommend it. Keep your things separate.\n\n## Alcohol is bad for sleep\n\nHave you heard that alcohol is bad for sleep? Because **alcohol is bad for sleep**. I’ve always known that was true, abstractly. But sleep is variable. If I didn’t sleep well on an individual night, I was never sure: Was that because of the alcohol, or was it random variation?\n\nAfter a year without alcohol, I am very confident that yes indeed, **alcohol is bad for sleep**, because my sleep during 2025 was much better than in previous years. Sure, like anyone else, I still sometimes wake up and start thinking about oblivion rushing towards me, and how everything I love will vanish into time, and how all that was once future and hope inevitably becomes static and dust, and how the plague of bluetooth speakers continues to spread across the globe. But now: less!\n\nI wish there was a drug I could take that would give me energy and improve my mood and make me physically healthier and smarter, all without side-effects. I don’t think such a drug exists. But we do have the opposite!\n\nSo, sadly, I’ve come to believe that alcohol is basically the perfect anti-nootropic. That’s not because it makes you dumb while you’re drunk. (True, but who cares?) Rather, that’s because it is [**bad for sleep**](https://danfrank.ca/how-to-get-the-benefit-of-a-high-end-fitness-tracker-without-actually-buying-one/), and therefore makes you worse across all dimensions the next day.\n\nI did find not drinking to have one clear downside: It’s just not that much fun to hang out with people who are drinking if you are not drinking yourself.\n\nTo be clear, this is a limited effect. It’s only an issue at bars or certain parties where people are there *to drink*. I don’t go to many such gatherings, but when I did, I felt it was less fun.\n\nIt’s not that I missed alcohol. Instead, my theory is that drinking parties are a sort of joint role-playing exercise: “Let’s all get together and collectively reduce our inhibitions and see what happens.” It’s fun not (just) because everyone is taking a recreational drug, but because it’s a joint social experience. If you don’t drink, then you aren’t fully participating.\n\nIt seems like it should be possible to reproduce this effect without alcohol. You could imagine other ways to push the social equilibrium out of balance. Like… Masks? Or weird environments? Or mutual disclosure games? Should people get together and do a group cold plunge?\n\nUnfortunately, all these are complicated and/or carry some kind of social stigma. So until we figure something better out, this is a real cost of not drinking. It was minor for me, but it probably depends a lot on where you are in life.\n\n## Other effects\n\nAll other effects were minor. I guess I saved money at restaurants. I actually lost a bit of weight over the year, despite all the extra desserts, though I can’t say for sure if alcohol was the cause. Otherwise, once I stopped thinking of alcohol as an option, I rarely thought about the resolution at all, except when I saw those damn chocolates.\n\n## Aftermath\n\nTowards the end of the year, I started wondering if I should quit drinking forever. But I never came to a conclusion, because I rarely thought about alcohol. I considered having a drink at midnight on New Year’s eve, but I happened to be on a plane that crossed the international date line and thus skipped New Year’s eve.\n\nAnd then… for the first few months of 2026, I still didn’t drink. That wasn’t because of any decision. It just never seemed appealing because (a) sleep and (b) I’d broken the mental link between *want thing* and *drink alcohol*. Eventually, I ate the chocolates, and I had a glass of wine when visiting some friends. If I can continue rarely drinking while almost never thinking about drinking, I’ll probably do that. If I slowly slide back into always thinking of alcohol as a live option and always negotiating with myself, I might just resolve to quit forever.\n\nSo that’s my story. Obviously, it’s heavily colored by my own idiosyncrasies, so it’s hard to say if it offers any general lesson.\n\nI do think people underrate the long-term health impact of drinking. The effect on heart disease is debated, but everyone agrees that *any* alcohol increases the risk of cancer. Still, the long-term effects from occasional light drinking probably aren’t huge. What’s really underrated is the short-term effects, via worse sleep.\n\nIf I had to give advice, it would be this: If you drink, and you think you might be better off not drinking, why not try it? Maybe you’ll find that champagne is essential to your happiness and drink it every night, to hell with the costs. Maybe you’ll find a different baseline, or maybe you’ll quit forever. Whatever you decide, you’ll have full information.",
+        "url": "https://dynomight.net/drinking/",
+        "source": "DYNOMIGHT",
+        "tags": [
+          "Mobile",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-09T00:00:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Fewer Computers, Fewer Problems: Going Local With Builds & Deployments",
+        "summary": "[Me, in 2025, on Mastodon](https://mastodon.social/@jimniels/113782973510218163):\n\n> I love tools like Netlify and deploying my small personal sites with `git push`\n\n> But i'm not gonna lie, 2025 migh",
+        "content": "[Me, in 2025, on Mastodon](https://mastodon.social/@jimniels/113782973510218163):\n\n> I love tools like Netlify and deploying my small personal sites with `git push`\n\n> But i'm not gonna lie, 2025 might be the year I go back to just doing builds locally and pushing the deploys from my computer.\n\n> I'm sick of devops'ing stupid stuff because builds work on my machine and I have to spend that extra bit of time to ensure they also work on remote linux computers.\n\n> Not sure I need the infrastructure of giant teams working together for making a small personal website.\n\nIt’s 2026 now, but I finally took my first steps towards this.\n\n## The Why\n\nOne of the ideas I really love around the “local-first” movement is this notion that everything canonical is done locally, then remote “sync” is an enhancement.\n\nFor my personal website, I want builds and deployments to work that way.\n\nAll data, build tooling, deployment, etc., happens first and foremost on my machine.\n\nFrom there, having another server somewhere else do it is purely a “progressive enhancement”. If it were to fail, fine. I can resort back to doing it locally *very easily* because all the tooling is optimized for local build and deployment first (rather than being dependent on fixing some remote server to get  builds and deployments working).\n\nIt’s amazing how many of my problems come from [the struggle to get one thing to work identically across multiple computers](https://blog.jim-nielsen.com/2025/multiple-computers/).\n\nI want to explore a solution that removes the cause of my problem, rather than trying to stabilize it with more time and code.\n\n“The first rule of distributed computing is don’t distribute your computing unless you absolutely have to” — especially if you’re just building personal websites.\n\n## The What\n\nSo I un-did stuff I previously did (that’r right, my current predicament is self-inflicted — imagine that).\n\n[My notes site](https://notes.jim-nielsen.com/) used to work [like this](https://blog.jim-nielsen.com/2024/notes-site-via-content-in-dropbox/):\n\n- Content lives in Dropbox\n\n- Code is on GitHub\n\n- Netlify’s servers pull both, then run a build and deploy the site\n\nIt worked, but sporadically. Sometimes it would fail, then start working again, all without me changing anything. And when it did work, it often would take a long time — like five, six minutes to run a build/deployment.\n\nI never could figure out the issue. Some combination of Netlify’s servers (which I don’t control and don’t have full visibility into) talking to Dropbox’s servers (which I also don’t control and don’t have full visibility into).\n\nI got sick of trying to make a simple (but distributed) build process [work across multiple computers](https://blog.jim-nielsen.com/2025/multiple-computers/) when 99% of the time, I really only need it to work on one computer.\n\nSo I turned off builds in Netlify, and made it so my primary, local computer does all the work. Here are the trade-offs:\n\n- **What I lose**: I can no longer make edits to notes, then build/deploy the site from my phone or tablet.\n\n- **What I gain**: I don’t have to troubleshoot build issues on machines I don’t own or control. Now, if it “works on my machine”, it works period.\n\n## The How\n\nThe change was pretty simple.\n\nFirst, I turned off builds in Netlify. Now when I `git push` Netlify does nothing.\n\nNext, I changed my build process to stop pulling markdown notes from the Dropbox API and instead pull them from a local folder on my computer. Simple, fast. \n\nAnd lastly, as a measure to protect myself from myself, I cloned the codebase for my notes to a second location on my computer. This way I have a “working copy” version of my site where I do local development, and I have a clean “production copy” of my site which is where I build/deploy from. This helps ensure I don’t accidentally build and deploy my “working copy” which I often leave in a weird, half-finished state.\n\nIn my `package.json` I have a `deploy` command that looks like this:\n\n```\ngit pull && npm ci && netlify deploy --build --prod\n\n```\n\nThat’s what I run from my “clean” copy. It pulls down any new changes, makes sure I have the latest deps, builds the site, then lets Netlify’s CLI deploy it.\n\nAs extra credit, I created a macOS shortcut\n\n```\n# So it knows where to get the right $PATH to node\nsource ~/.zshrc\n\n# Then switch to my dir and run the command\ncd ~/Sites/com.jim-nielsen.notes/\nnpm run deploy\n\n```\n\nSo I can do `CMD + Space`, type “Deploy notes.jim-nielsen.com” to trigger a build, then watch the little shortcut run to completion in my Mac’s menubar.\n\nI’ve been living with this setup for a few weeks now and it has worked beautifully. Best part is: I’ve never had to open up Netlify’s website to check the status of a build or troubleshoot a deployment.\n\nThat’s an enhancement I can have later — if I want to.",
+        "url": "https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Thu, 09 Apr 2026 19:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Package Security Defenses for AI Agents",
+        "summary": "Yesterday I wrote about [the package security problems AI agents face](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents): typosquatting, registry poisoning, lockfile manipulation,",
+        "content": "Yesterday I wrote about [the package security problems AI agents face](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents): typosquatting, registry poisoning, lockfile manipulation, install-time code execution, credential theft, and cascading failures through the dependency graph. Agents inherit all the old package security problems but resolve, install, and propagate faster than any human can review.\n\nThere’s no silver bullet for securing agent coding workflows because LLMs can’t reliably distinguish safe packages and metadata from malicious ones, but these defenses can reduce the blast radius when something gets through. Some of them introduce friction, but agents can absorb that friction better than humans.\n\n## For people using AI coding platforms\n\n### Disable install scripts by default\n\nnpm has `--ignore-scripts`, pip has `--no-build-isolation` discussions, but neither defaults to off. Agent platforms should ship with install scripts disabled and require explicit opt-in per package. The `postinstall` script is the single most common vector for malicious packages, and agents have no way to evaluate whether a script is legitimate. Bun already defaults to not running lifecycle scripts for installed dependencies.\n\n### Dependency cooldown periods\n\nNew package versions shouldn’t be installable by agents for some window after publication, maybe 24-72 hours. I wrote about [cooldown support across package managers](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down) in more detail last month. Most malicious packages are detected and removed within days of upload. A cooldown means agents only resolve versions that have survived initial community and automated review. npm’s provenance attestations help here but aren’t sufficient alone. This could be enforced at the registry level, the resolver level, or the AI coding platform level.\n\n### Sandbox package installation\n\nAgents should install packages in isolated environments with no network access after the download phase and no access to credentials, SSH keys, or environment variables. Container-based sandboxes or something like Landlock on Linux would work here, where the install step gets network access to fetch packages but everything after that runs without it. Even if a malicious install script executes, it can’t reach anything worth stealing.\n\n### Limit which registries agents can resolve from\n\nAgent configurations should support an allowlist of registries and scopes. An agent that only needs packages from your company’s private registry and a handful of vetted public packages shouldn’t be able to resolve arbitrary names from npm or PyPI. Companies already do this in their CI pipelines to prevent dependency confusion, and agents need the same treatment.\n\n### Pin and verify lockfiles\n\nAgents should never regenerate a lockfile unless explicitly asked to. If a lockfile exists, the agent should install from it exactly. If the agent’s task requires adding a new dependency, it should produce the lockfile diff for review rather than installing and continuing. Lockfile-lint and similar tools should run as a gate before any agent-modified lockfile is accepted.\n\n### Require package provenance\n\nWhere registries support it (npm with sigstore, PyPI with Trusted Publishers), AI coding platforms should default to requiring provenance attestation. Packages without provenance get flagged or blocked. This doesn’t prevent all supply chain attacks but it makes account takeover and registry compromise harder.\n\n### Scope agent permissions to the task\n\nAn agent updating a README doesn’t need `npm install` permissions, and one running tests doesn’t need network access. Agent platforms should support task-scoped permission profiles rather than giving every agent the same broad access, covering both what packages an agent can install and what those packages can do once installed.\n\n### Treat agent tool metadata as untrusted input\n\nMCP server descriptions, agent cards, skill descriptors, and plugin manifests should be treated as untrusted input, not as instructions. Agent platforms should parse metadata into structured fields and reject or sanitize freeform text before it reaches the LLM context.\n\n### Monitor agent dependency behavior\n\nLog every package install, version resolution, and registry query an agent makes, and diff these against expected behavior for the task. If an agent asked to fix a CSS bug runs `npm install crypto-utils`, that should page someone the same way an unexpected outbound network connection would in production. If an agent resolves a package version different from what’s in the lockfile, the task should halt and wait for human approval. Traditional package security tooling already surfaces these signals but most AI coding platforms don’t wire them into their agent workflows.\n\nFailed installs matter too. When an agent tries to install a package that doesn’t exist, that’s likely a hallucinated name, and those names are [slopsquatting](https://nesbitt.io/2025/12/10/slopsquatting-meets-dependency-confusion) targets. Registries and AI coding platforms that log failed resolution attempts have an early warning system for which package names attackers should be racing to register.\n\n### Namespace reservation for agent ecosystems\n\nMCP server registries, A2A discovery services, and skill marketplaces should implement namespace reservation and verification, the way npm has org scopes and PyPI has verified publishers. Unverified packages in agent-specific namespaces should carry visible warnings, and agents should be configurable to reject unverified sources entirely.\n\n## For people designing AI coding platforms\n\n### Your agent’s dependency resolver is a security boundary\n\nEvery time your agent runs a package install, it’s making a trust decision. Treat the resolver the same way you’d treat an authentication system: define what it’s allowed to do, log what it actually does, and fail closed when something unexpected happens. If your agent can install arbitrary packages from public registries without approval, you’ve given the internet write access to your execution environment.\n\n### Separate the package installation phase from the execution phase\n\nDon’t let agents install and run in a single step. The install phase should fetch and verify packages against an allowlist or lockfile, and the execution phase should run in a sandboxed environment built from what was installed. You don’t `npm install` at runtime in production, and your agent shouldn’t either.\n\n### Design for the agent not knowing what it doesn’t know\n\nA human developer might hesitate before installing a package they’ve never heard of, but an agent will install whatever it thinks solves the task. Require packages to come from a vetted list, flag new dependencies for human review, and reject packages below a popularity or age threshold.\n\n### Treat every MCP server and plugin as a dependency\n\nIf your system connects to MCP servers, installs skills, or loads plugins, those are dependencies with the same risk profile as npm packages. Pin versions, verify provenance where possible, and audit what they do at install and runtime. Calling them “tools” or “skills” instead of “packages” doesn’t change the threat model.\n\n### Don’t give agents ambient credentials\n\nAgents that inherit the developer’s shell environment get their SSH keys, API tokens, cloud credentials, and registry auth tokens, and a malicious package installed by the agent can read all of it. Provision agents with scoped, short-lived credentials that only cover what the current task requires. If your agent doesn’t need to push to a registry, it shouldn’t have a registry auth token in its environment.\n\n### Assume your agent will be prompted to install something malicious\n\nAttackers will try to get your agent to install a bad package, and sometimes they’ll succeed. Design your system so that a single malicious install can’t exfiltrate credentials, can’t persist across tasks, can’t modify other agents’ environments, and can’t propagate to downstream systems. The blast radius of a compromised dependency should be one sandboxed task.\n\n### Build a dependency audit trail\n\nEvery package your agent installs, every version it resolves, every registry it queries should be logged and attributable to a specific task. When something goes wrong, you need to answer: which agent installed this, when, why, and what else did it touch? Traditional SCA tools can scan the result, but you also need the provenance of how that result was assembled, the same way you’d want reproducible builds.\n\n### Don’t forget about dependencies after installation\n\nAgents are good at installing packages and bad at revisiting them. A dependency an agent pulled in six months ago to fix a one-off task is still in the tree, still getting loaded, and nobody has checked whether it’s been flagged since. Human developers at least occasionally see Dependabot PRs or hear about compromised packages through the grapevine. Agents don’t have a grapevine. If your platform lets agents add dependencies, it also needs a mechanism for surfacing when those dependencies go stale, get deprecated, or turn up in vulnerability databases.",
+        "url": "https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Product",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-09T10:00:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    Since early February, I've been trying various interventions on a 163M-parameter GPT-2-style model that I\n[trained from scratch on my local RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch),\nusing code based on\n[Sebastian Raschka](https://sebastianraschka.com/)'s book\n\"[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)\".\n\nMy original model got a loss of 3.944 on my test set, while the original GPT-2\nweights got 3.500 on the same dataset.  I wanted to see if I could close that gap,\nand had a list of potential changes to the\ntraining setup, and to the model itself.  Which of them would help?\n\nI found a list of solid-looking interventions, and in [my last post](https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise)\nI came to the conclusion that the improvements in loss I had seen with all of them -- with\ntwo possible exceptions -- seemed unlikely to be in the noise.  What would happen\nif I tried to put them into a new model?\n\n    \n        \n### The interventions\n\nLet's start by looking at the results that we have for the interventions so far --\nthis is the table I've been using as I go through them, but I've updated it to contain\nthe loss figures for each model to six decimal places instead of three, and\nmade each model name link to the associated post.  I've also corrected the loss for\nthe `8xa100m40-weight-decay-cerebras` model, which was mistakenly using the training loss at the\nend of the run rather than the loss on the test set [1](#fn-1).\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  [8xa100m40-weight-tying](https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying)\n  3.874305\n  -0.182779\n\n  [8xa100m40-weight-decay-cerebras](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.813856\n  -0.122330\n\n  [8xa100m40-baseline](https://www.gilesthomas.com/2026/02/llm-from-scratch-32a-interventions-baseline-model)\n  3.691526\n  -\n\n  [8xa100m80-no-amp](https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32)\n  3.678968\n  0.012558\n\n  [8xa100m40-gradient-clipping](https://www.gilesthomas.com/2026/02/llm-from-scratch-32b-interventions-gradient-clipping)\n  3.678317\n  0.013209\n\n  [8xa100m40-qkv-bias](https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias)\n  3.669385\n  0.022141\n\n  [8xa100m40-weight-decay-gpt2](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.642940\n  0.048586\n\n  [8xa100m40-remove-dropout](https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout)\n  3.641282\n  0.050244\n\n  [8xa100m40-schedule-learning-rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate)\n  3.601917\n  0.089609\n\nAs I've mentioned before, simply moving to training in the cloud improved things markedly,\ngetting loss down from 3.944 to 3.691526; I suspect this was due to having a closer-to-optimal\nbatch size (more about that in my next post).  What to do about the other interventions, though?\n\nIt seemed clear that two of them were not helping: weight tying, and the one using the figure\nfor weight decay that I'd (I suspect incorrectly) derived from a paper by Cerebras\nResearch.  The \"no-AMP\" run (which would be better described\nas \"full-fat float32\") had a small positive effect, but was so costly in terms of both time and money\nthat it wasn't worthwhile.\n\nSo we had five interventions to try:\n\n- Gradient clipping.\n\n- QKV bias (that is, adding bias to the attention weight matrices).\n\n- Changing weight decay to the GPT-2 value (0.01 rather than the 0.1 that is typical nowadays).\n\n- Removing dropout\n\n- Updating the learning rate from 0.0004 to 0.0014, but also scheduling it so that it varies\nover the course of the training run.\n\nHow would they stack up?  It seemed pretty unlikely that their independent contributions\nwould just sum up neatly so that we got a total improvement\nof 0.013209 + 0.022141 + 0.048586 + 0.050244 + 0.089609 = 0.223789 (though that would\ncertainly be nice!).\n\nOne question to consider was how independent they were.  For any set of interventions,\nyou can imagine them being independent and adding up nicely, or pulling in separate\ndirections so that the combined effect is worse than the sum, or pulling in the same\ndirection so that they amplify each other.\n\nMy intuition was that gradient clipping and removing dropout were pretty independent,\nat least conceptually.  They might affect other interventions indirectly (eg. via changing the\ntraining run's use of the random number generator) but they'd be unlikely to have a direct\neffect.  QKV bias I was less sure about, but it seemed -- again, just intuitively --\nat least reasonably independent of the others, with one important exception (which I'll get into below).\n\nBy contrast, weight decay and the learning rate interact together quite strongly,\nat least in standard gradient descent, and I'd tested them in isolation.  The result for changing the weight\ndecay to 0.01 was based on a fixed learning rate of 0.0004, and the result for scheduling\nthe learning rate was based on a weight decay of 0.1.\n\nThat felt like an issue, and definitely needed some thought.\n\nAdditionally, there were some issues with which interventions might have not had a real\neffect, and instead just been the results of the use of randomness.  While my analysis of how that might have affected\nthings was somewhat limited by the number of test runs I could\nafford to do, it did show up two plausible issues:\n\n- Adding gradient clipping looked like it might have been within the training run noise.\n\n- Adding QKV bias would have had a large effect on the model's initial weights.  All\nof the others would have started with essentially the same weights (apart from\nweight tying, though even that would have had the same values for the initial\nweights apart from the tied ones).  But adding the bias would have completely changed\nthem, and its effect size was comfortably within the range of differences you might\nexpect from that.\n\nAfter some thought, I came up with a plan.  If I were doing this properly and scientifically,\nI suppose I'd try every combination of interventions, but that would be ruinously expensive [2](#fn-2), so a sensible\nminimal set of training runs felt like this:\n\n- Start a training run with all of the interventions apart from QKV bias.\n\n- In parallel (Lambda instance availability permitting) run another one, with\nall of the interventions *including* QKV bias.\n\nWhen those completed, I'd find the test set loss for both models.  I'd choose the best\nrun, and then do another run with those settings, but with weight decay switched\nback to the original value of 0.1.  I chose to revert weight decay rather than the learning rate stuff because this was\nthe one I was least sure about -- the updated \"GPT-2\" value of 0.01 is very unusual\nby today's standards, and I'd come to it via a rather circuitous route -- see\n[the post](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay) for more details.\n\nThe best of the three runs would be the winning combination of interventions.\n\nAgain, this was not an exhaustive plan [3](#fn-3).  But it seemed to make sense.  Let's see\nhow it turned out.\n\n### Training run 1: without QKV bias\n\nJust to recap, this one had these interventions against the baseline:\n\n- Gradient clipping at 3.5\n\n- Weight decay changed from 0.1 to 0.01\n\n- Dropout removed\n\n- Learning rate changed from 0.0004 to 0.0014, with a warmup over 5% of the run\nthen a cosine decay to 0.00014.\n\nIt did not have QKV bias.  You can see [the config here](https://github.com/gpjt/ddp-base-model-from-scratch/tree/main/runs/8xa100m40-stacked-interventions-1).\n\nHere's the loss chart over the course of the training run:\n\n![The loss chart without QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-1-loss-chart.png)\n\nAs normal with learning rate scheduling, I also charted that to make sure it was\ndoing the right thing (you can see that it was):\n\n![The learning rate chart without QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-1-learning-rate-chart.png)\n\nAnd I also tracked the gradient norms -- you can see that there was some clipping\nhappening near the start of the run:\n\n![The gradient norm chart without QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-1-grad-norm-chart.png)\n\nAt the end of the run, it reported this:\n\n```\nTraining complete in 11,437.717 seconds\nTokens seen: 3,260,252,160\nThroughput: 285,044 tokens/second\nFinal train loss: 3.557\n\n```\n\nThat's a slightly lower final train loss than normal, and it took 3h10m, which is\nfaster than usual, but about the same as the other train we did without dropout --\nthat makes sense, as the process of zeroing out random activations isn't free.\n\nI downloaded the model -- [here it is](https://huggingface.co/gpjt/8xa100m40-stacked-interventions-1) -- and then ran the smoke test:\n\n```\nEvery effort moves you back to writing. In addition, there is room in your notebook so this will be an opportunity that\n\n```\n\n...and got its loss on the test set:\n\n```\nLoss against our test dataset: 3.577761\n\n```\n\nNot bad at all -- the best result we've had so far, albeit not quite\nup to the standard of the original GPT-2 weights.\n\nNow the next one, with QKV bias.\n\n### Training run 2: all five interventions including QKV bias\n\nThis one had these interventions:\n\n- Gradient clipping at 3.5\n\n- Weight decay changed from 0.1 to 0.01\n\n- Dropout removed\n\n- Learning rate changed from 0.0004 to 0.0014, with a warmup over 5% of the run\nthen a cosine decay to 0.00014.\n\n- QKV bias switched on.\n\nYou can see [the config here](https://github.com/gpjt/ddp-base-model-from-scratch/tree/main/runs/8xa100m40-stacked-interventions-2).\n\nHere's the loss chart:\n\n![The loss chart with QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-2-loss-chart.png)\n\n...the learning rate:\n\n![The learning rate chart with QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-2-learning-rate-chart.png)\n\n...the gradient norms (note that we had more clipping, about halfway through):\n\n![The gradient norm chart with QKV bias](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-2-grad-norm-chart.png)\n\n...and the final printout at the end.\n\n```\nTraining complete in 11,487.294 seconds\nTokens seen: 3,260,252,160\nThroughput: 283,814 tokens/second\nFinal train loss: 3.584\n\n```\n\nThat final train loss is slightly higher, which is normally an indicator that the\ntest loss will be higher, but we'll have to see.\n\nTime to download the model --\n[here it is](https://huggingface.co/gpjt/8xa100m40-stacked-interventions-2) --\nand on to the smoke test:\n\n```\nEvery effort moves you to change the color in your image.\nYour image’s color will need to match the\n\n```\n\n...and then the moment of truth -- what was its loss on the test set?\n\n```\nLoss against our test dataset: 3.604342\n\n```\n\nAs I suspected from the training loss at the end, slightly worse than the run without\nQKV bias. So, that meant that we should do the next run, with a weight decay of 0.1, with\nno QKV bias.\n\n### Training run 3: just dropout removal, gradient clipping, and a higher but scheduled learning rate\n\nGiven the above results, this one had these interventions vs the baseline:\n\n- Gradient clipping at 3.5\n\n- Dropout removed\n\n- Learning rate changed from 0.0004 to 0.0014, with a warmup over 5% of the run\nthen a cosine decay to 0.00014.\n\nWeight decay was back to the baseline value of 0.1, rather than the value of 0.01\nused in the previous two runs, and QKV bias was switched back off.\n\nYou can see [the config here](https://github.com/gpjt/ddp-base-model-from-scratch/tree/main/runs/8xa100m40-stacked-interventions-3).\n\nHere's the loss chart:\n\n![The loss chart without QKV bias and with weight decay back to 0.1](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-3-loss-chart.png)\n\nYou can see that it's much choppier than the previous two runs; that initially surprised me,\nas the higher weight decay means that we're regularising the model more than we were with\nthose, which I thought would \"calm things down\".  But on reflection, I had it backward.\nHand-waving a bit, a more regularised model is fitting less closely every detail to the data it has seen, considering\nthe typical stuff more than it does the outliers.\nThat means that when something a bit more out-of-distribution appears, it might not\nhave yet learned how to integrate it into its model of the world.\n\nWell, it sounds plausible, anyway :-)\n\nOn to the learning rate (just to double-check), and it's fine:\n\n![The learning rate chart without QKV bias and with weight decay back to 0.1](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-3-learning-rate-chart.png)\n\nAnd again, the gradient norms:\n\n![The gradient norm chart without QKV bias and with weight decay back to 0.1](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-3-grad-norm-chart.png)\n\n...which similarly to the loss chart show more occasions where gradients spiked and\nhad to be clipped -- even towards the end of the training run this time.\n\nThe final printout at the end:\n\n```\nTraining complete in 11,422.638 seconds\nTokens seen: 3,260,252,160\nThroughput: 285,420 tokens/second\nFinal train loss: 3.570\n\n```\n\nOnce again, although the final train loss is not definitive, it tends to be indicative\nof the test loss.  It's in between the last two runs, so we'd expect the test loss to\nbe likewise in between theirs:\n\nTime to download the model --\n[here it is](https://huggingface.co/gpjt/8xa100m40-stacked-interventions-3) --\nand on to the smoke test:\n\n```\nEvery effort moves you to make, our service has helped millions of women around the world who were recently hit by car wreck\n\n```\n\nHmm.  At least vaguely coherent, though I'm not 100% convinced.  It looks like ads for\npersonal injury lawyers have crept into FineWeb somehow...\n\nStill, it's time for the test loss (drumroll):\n\n```\nLoss against our test dataset: 3.590266\n\n```\n\nAs predicted from the train loss, it's in between the two runs above.\n\n### Conclusion\n\nLet's put these three runs into the results table:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  [8xa100m40-weight-tying](https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying)\n  3.874305\n  -0.182779\n\n  [8xa100m40-weight-decay-cerebras](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.813856\n  -0.122330\n\n  [8xa100m40-baseline](https://www.gilesthomas.com/2026/02/llm-from-scratch-32a-interventions-baseline-model)\n  3.691526\n  -\n\n  [8xa100m80-no-amp](https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32)\n  3.678968\n  0.012558\n\n  [8xa100m40-gradient-clipping](https://www.gilesthomas.com/2026/02/llm-from-scratch-32b-interventions-gradient-clipping)\n  3.678317\n  0.013209\n\n  [8xa100m40-qkv-bias](https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias)\n  3.669385\n  0.022141\n\n  [8xa100m40-weight-decay-gpt2](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.642940\n  0.048586\n\n  [8xa100m40-remove-dropout](https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout)\n  3.641282\n  0.050244\n\n  [8xa100m40-stacked-interventions-2](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.604342\n  0.087184\n\n  [8xa100m40-schedule-learning-rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate)\n  3.601917\n  0.089609\n\n  [8xa100m40-stacked-interventions-3](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.590266\n  0.101260\n\n  [8xa100m40-stacked-interventions-1](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.577761\n  0.113765\n\nAs a reminder:\n\n- `8xa100m40-stacked-interventions-1` was gradient clipping at 3.5, weight decay changed from 0.1 to 0.01,\ndropout removed, and the learning rate intervention, but *no* QKV bias\n\n- `8xa100m40-stacked-interventions-2` was gradient clipping at 3.5, weight decay changed from 0.1 to 0.01,\ndropout removed, and the learning rate intervention, *with* QKV bias\n\n- `8xa100m40-stacked-interventions-3` was gradient clipping at 3.5,\ndropout removed, and the learning rate intervention, but *no* QKV bias, and *no change to weight decay*.\n\nYou can see that adding on QKV bias actually made the model *worse* than the learning-rate-only\nintervention.  That pushes me slightly away from the \"it's all about the initial weights\"\ndirection; perhaps instead the bias adds some kind of stability that the learning rate\nscheduling also provides, and they fight against each other?  Unfortunately I think the\nonly way to pick it apart would be to do a full set of runs, switching each intervention\non and off independently, and that would be too costly.\n\nThe fact that the weight decay change from 0.1 to 0.01 actually did help when combined\nwith the learning rate change and scheduling was a bit of a surprise; because they're both\ncoupled when we think about standard gradient descent, I was expecting them to be too intertwined for my tests\nof them in isolation to have been valid.  Quite pleased that it didn't work out that way,\nthough, because sweeping across values for different parameters is much easier than\nit would be if they were connected.\n\nHowever, at this point it occurs to me that it\nmight be because we're using the AdamW optimiser.  As I\nunderstand it, its big difference versus Adam is that it decouples weight decay.  I don't\nhave a solid mental model of what that means exactly (will read up and post about\nit eventually), but it certainly seems pertinent here.\n\nAnyway, I have to say, I'm both pleased with and disappointed by these results.\nPleased because we got a result by putting interventions together that was better\nthan any of them in isolation, but disappointed that the end result wasn't even\nbetter.\n\nThe difference between `8xa100m40-baseline`'s loss, at 3.691526, and original GPT-2 small's,\nat 3.5, was 0.191526.  Our best result, for `8xa100m40-stacked-interventions-1`,\nwas 3.577761, so an improvement of 0.113765.  That's about 60% of the way there.\n\nThat said, by sheer chance, while trying out the different sizes of cloud machines,\nI'd got from a loss of 3.944 training locally to the baseline's value of 3.691526 --\nI suspect due to the fact that training in the cloud meant that I could use\nbatch sizes of 96.\n\nSo a different way of looking at it is that we should include that in the calculations too.\nFrom 3.944 to 3.5, the gap with GPT-2 small was 0.444.  And we went from 3.944 to 3.577761,\nan improvement of 0.366239.  And that means that we managed to get 82% of the improvement\nwe needed.\n\nOn the other hand, it means that in terms of my improvements, 0.252474 came from a happy\naccident, while all of my careful work on interventions only got me 0.113765.  :-(\n\nAnyway, I think that for now, I'll have to rest happy with that as a result -- and next time around,\nlet's see if we can get to the same level of improvement locally, using gradient accumulation.",
+        "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 09 Apr 2026 20:00:00 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Cindy Cohn's \"Privacy's Defender\" (09 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/09Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/09/bernstein",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/09Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/09/bernstein/)\n\n## Today's links\n\n- [Cindy Cohn's \"Privacy's Defender\"](https://pluralistic.net/2026/04/09/bernstein/#win-some-lose-some): The history of digital rights, from the very beginning to this very moment.\n\n- [Hey look at this](https://pluralistic.net/2026/04/09/bernstein/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/09/bernstein/#retro): Tariffs and monopolies; Paperclip dodecahedron; Class war comix; Glenn Beck's brain; Iceland v Pirates; Dashers v apps; Leaked NYPD goon squad manual.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/09/bernstein/#upcoming): Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/09/bernstein/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/09/bernstein/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/09/bernstein/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/09/bernstein/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/privacys-defender.jpg?w=840&ssl=1)\n\n## Cindy Cohn's \"Privacy's Defender\" ([permalink](https://pluralistic.net/2026/04/09/bernstein/#win-some-lose-some))\n\nI've known EFF executive director Cindy Cohn for 27 years. I met her when I needed cyberlaw advice for a startup I'd helped found. We got along so well that I ended up quitting the startup and going to work at EFF. Now, Cindy's memoir, *Privacy's Defender*, is on the shelves:\n\n[https://mitpress.mit.edu/9780262051248/privacys-defender/](https://mitpress.mit.edu/9780262051248/privacys-defender/)\n\nI'm hardly a disinterested party here, obviously. I was at Cindy's wedding, I've danced with her at Burning Man, and I've worked with her for most of my adult life. What's more, I was present for many of the pivotal moments she recounts in this book. But still: this is a *great* book that I found utterly captivating.\n\nCohn's been with EFF since its earliest days, when she litigated one of the most important cases in computing history, the *Bernstein* case, which legalized civilian access to encryption technology and changed the world:\n\n[https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech](https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech)\n\nCryptographers had been arguing with the US government over the ban on working encryption technology for years before Cohn joined the fight, and they'd tried all manner of arguments to overturn the ban: technical arguments, political arguments, financial arguments. All of these efforts failed – they didn't even make a dent.\n\nCohn's genius was the way she formulated a free speech argument about the ban on encryption: arguing that computer code was a form of expressive speech, entitled to protection under the First Amendment. While she didn't come up with this idea, it was her gift for assembling a narrative and a cadre of unimpeachable experts that carried the day.\n\nIn this age of bad faith right-wing trolling about \"free speech\" and \"cancel culture,\" it's easy to forget how central free speech cases and causes have been for the advancement of human rights and human thriving. Free speech cases gave us the nation's first privacy protections, protection for unions, and protection for civil rights organizers.\n\nCohn never forgets this. Her decades with EFF are a history of the fight for speech rights (and thus privacy rights) on the internet. After the US government seized on the 9/11 attacks as a pretext to dismantle privacy and turn the internet into a system of ubiquitous surveillance, Cohn (along with EFF, of course!) was at the center of the fight for digital rights. The same prescience and strategic brilliance that led her to take up the Bernstein case and win it were with her through those millennial years, and her description of our cases, campaigns and fights in those years vividly foreshadows the moment we are in today.\n\nThe same goes for her \"three letter agency\" chapter, which takes up our fights against the NSA and other US agencies in the wake of whistleblower disclosures by Mark Klein and Edward Snowden. These accounts are one part master class in legal tactics; one part battle cry for a global pushback against the transformation of the internet into the perfect surveillance and control machine, and one part personal memoir of a tactician, finding ways to leverage a righteous cause to raise a guerrilla army of experts, co-counsel, amici, and champions who carried our message to the world.\n\nAll of this is connected back to her *other* legal career, as a human rights defender litigating on behalf of the survivors of a massacre perpetrated by a death squad working on behalf of Chevron in Nigeria. Cohn skilfully connects these very concrete, visible human rights struggles to the invisible – and no less important – human rights work she carried out for EFF.\n\nI didn't just have a front-row seat for this stuff – I had backstage passes for a lot of it (though not the juiciest national security cases, which required EFF lawyers to maintain total secrecy from colleagues, spouses, even our board, on pain of a long prison sentence for disclosing classified information). Even so, Cohn's pacey, smart retelling of these events brought them to life for me, and of course, there's a coherence that you get after the fact that is missing when you're living through it in a moment.\n\nBut what really enlivened this delightful book were the personal details that Cohn weaves into the story. I've always known that she was an adoptee (and I even have a small, strange, coincidental connection to her birth family), but Cohn's intimate, personal, frank memoir of her early family life, and her bittersweet connection to her birth family were so intimate and well-told that I felt like I was getting to know my dear friend all over again.\n\nCindy is retiring from EFF (but not the law) in a couple of months. This book is a beautiful capstone to a brilliant career that defined the fight for cyber rights, and a deep, accessible dive into the defining tech and human rights battles of this century.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/09/bernstein/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Who Is L.A.’s Hero Posting Up These Anti-ICE Parking Signs? [https://lataco.com/anti-ice-parking-signs](https://lataco.com/anti-ice-parking-signs)\n\n- \nData Center Tech Lobbyists Fearmonger in Attempt to Retroactively Roll Back Right to Repair Law [https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/?ref=daily-stories-newsletter](https://www.404media.co/data-center-tech-lobbyists-fearmonger-in-attempt-to-retroactively-roll-back-right-to-repair-law/?ref=daily-stories-newsletter)\n\n- \nLive Tax-Free and Die [https://prospect.org/2026/04/08/apr-2026-magazine-live-tax-free-and-die/](https://prospect.org/2026/04/08/apr-2026-magazine-live-tax-free-and-die/)\n\n- \nMen Are Buying Hacking Tools to Use Against Their Wives and Friends [https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)\n\n- \nHow Trump Took the U.S. to War With Iran [https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/09/bernstein/#retro))\n\n#15yrsago Advanced office-supply sculpture: paperclip dodecahedron [https://web.archive.org/web/20171122055732/https://makezine.com/2011/04/07/paperclip-snub-dodecahedron/](https://web.archive.org/web/20171122055732/https://makezine.com/2011/04/07/paperclip-snub-dodecahedron/)\n\n#15yrsago World Bank: gold farming (etc) paid poor countries $3B in 2009 [https://web.archive.org/web/20110410134037/http://www.infodev.org/en/Publication.1056.html](https://web.archive.org/web/20110410134037/http://www.infodev.org/en/Publication.1056.html)\n\n#15yrsago Class war comics: Scrap Iron Man versus international capital [https://web.archive.org/web/20110410215907/https://www.chinamieville.net/post/4406165249/rejected-pitch](https://web.archive.org/web/20110410215907/https://www.chinamieville.net/post/4406165249/rejected-pitch)\n\n#15yrsago Colombian Justice Minister ramming through extremist copyright legislation without public consultation [https://web.archive.org/web/20110707053554/http://karisma.org.co/?p=667](https://web.archive.org/web/20110707053554/http://karisma.org.co/?p=667)\n\n#15yrsago Glenn Beck’s brain [https://www.motherjones.com/politics/2011/03/glenn-beck-fox-news-brain-chart/](https://www.motherjones.com/politics/2011/03/glenn-beck-fox-news-brain-chart/)\n\n#10yrsago Why 40 years of official nutritional guidelines prescribed a low-fat diet that promoted heart disease [https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin)\n\n#10yrsago Fearing the Pirate Party, Iceland’s government scrambles to avoid elections [https://web.archive.org/web/20160407183022/https://theintercept.com/2016/04/07/icelands-government-tries-cling-protesters-pirates-gates/](https://web.archive.org/web/20160407183022/https://theintercept.com/2016/04/07/icelands-government-tries-cling-protesters-pirates-gates/)\n\n#10yrsago The price of stealing an identity is crashing, with no bottom in sight [https://qz.com/656459/its-never-been-cheaper-to-steal-someones-digital-identity-on-the-internet](https://qz.com/656459/its-never-been-cheaper-to-steal-someones-digital-identity-on-the-internet)\n\n#10yrsago Bernie Sanders can only win if nonvoters turn out at the polls, and they almost never do [https://web.archive.org/web/20160408145116/https://www.vox.com/2016/4/6/11373862/bernie-sanders-voter-lists](https://web.archive.org/web/20160408145116/https://www.vox.com/2016/4/6/11373862/bernie-sanders-voter-lists)\n\n#10yrsago To understand the link between corporations and Hillary Clinton, look at philosophy, not history [https://web.archive.org/web/20160406223353/https://www.thenation.com/article/the-problem-with-hillary-clinton-isnt-just-her-corporate-cash-its-her-corporate-worldview/](https://web.archive.org/web/20160406223353/https://www.thenation.com/article/the-problem-with-hillary-clinton-isnt-just-her-corporate-cash-its-her-corporate-worldview/)\n\n#10yrsago The US Government’s domestic spy-planes take weekends and holidays off [https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies](https://www.buzzfeednews.com/article/peteraldhous/spies-in-the-skies)\n\n#10yrsago A perfect storm of broken business and busted FLOSS backdoors everything, so who needs the NSA? [https://www.youtube.com/watch?v=fwcl17Q0bpk](https://www.youtube.com/watch?v=fwcl17Q0bpk)\n\n#5yrsago Door Dashers organize app-defeating solidarity [https://pluralistic.net/2021/04/07/cruelty-by-design/#declinenow](https://pluralistic.net/2021/04/07/cruelty-by-design/#declinenow)\n\n#5yrsago Leaked NYPD \"goon squad\" manual [https://pluralistic.net/2021/04/07/cruelty-by-design/#blam-blam-blam](https://pluralistic.net/2021/04/07/cruelty-by-design/#blam-blam-blam)\n\n#1yrago Tariffs and monopolies [https://pluralistic.net/2025/04/07/it-matters-how-you-slice-it/#too-big-to-care](https://pluralistic.net/2025/04/07/it-matters-how-you-slice-it/#too-big-to-care)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/09/bernstein/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Montreal: Bronfman Lecture (McGill), Apr 10\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\n- \nMontreal: Drawn and Quarterly, Apr 10\n\n[https://mtl.drawnandquarterly.com/events/4863920260410](https://mtl.drawnandquarterly.com/events/4863920260410)\n\n- \nToronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/09/bernstein/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/09/bernstein/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/09/bernstein/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/09/bernstein/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. First draft complete. Second draft underway.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/09/bernstein-2/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Startup"
+        ],
+        "published_at": "Thu, 09 Apr 2026 10:50:56 +0000",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "asgi-gzip 0.3 - Release [asgi-gzip 0.3](https://github.com/simonw/asgi-gzip/releases/tag/0.3) — gzip middl...",
+    "MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe - Software developer Photon, whose product requires running a bunch of Macs to connect to iM...",
+    "What Are You Trying to Say?  - Sometimes, I find myself talking while my audience has a puzzled look on their face. It do...",
+    "I quit drinking for a year - In early January 2025, a family friend was over for lunch. One of my many guilty midwit pl...",
+    "Fewer Computers, Fewer Problems: Going Local With Builds & Deployments - [Me, in 2025, on Mastodon](https://mastodon.social/@jimniels/113782973510218163): > I love..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 8
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "pn",
+      "count": 4
+    },
+    {
+      "word": "book",
+      "count": 4
+    },
+    {
+      "word": "like",
+      "count": 4
+    },
+    {
+      "word": "random",
+      "count": 4
+    },
+    {
+      "word": "repo",
+      "count": 3
+    },
+    {
+      "word": "size",
+      "count": 3
+    },
+    {
+      "word": "president",
+      "count": 3
+    },
+    {
+      "word": "love",
+      "count": 3
+    },
+    {
+      "word": "speed",
+      "count": 3
+    },
+    {
+      "word": "light",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "hexagon",
+      "count": 3
+    },
+    {
+      "word": "early",
+      "count": 3
+    },
+    {
+      "word": "rapport",
+      "count": 3
+    },
+    {
+      "word": "de",
+      "count": 3
+    },
+    {
+      "word": "sometimes",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "asgi-gzip",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "tools",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "doesn't",
+      "count": 2
+    },
+    {
+      "word": "todd",
+      "count": 2
+    },
+    {
+      "word": "blanche",
+      "count": 2
+    },
+    {
+      "word": "general",
+      "count": 2
+    },
+    {
+      "word": "trump",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "pyramid",
+      "count": 2
+    },
+    {
+      "word": "giza",
+      "count": 2
+    },
+    {
+      "word": "true",
+      "count": 2
+    },
+    {
+      "word": "prime",
+      "count": 2
+    },
+    {
+      "word": "recently",
+      "count": 2
+    },
+    {
+      "word": "andrica",
+      "count": 2
+    },
+    {
+      "word": "conjecture",
+      "count": 2
+    },
+    {
+      "word": "consecutive",
+      "count": 2
+    },
+    {
+      "word": "sqlalchemy",
+      "count": 2
+    },
+    {
+      "word": "practice",
+      "count": 2
+    },
+    {
+      "word": "chapter",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "small",
+      "count": 2
+    },
+    {
+      "word": "lola",
+      "count": 2
+    },
+    {
+      "word": "add",
+      "count": 2
+    },
+    {
+      "word": "remove",
+      "count": 2
+    },
+    {
+      "word": "handle",
+      "count": 2
+    },
+    {
+      "word": "active",
+      "count": 2
+    },
+    {
+      "word": "wait",
+      "count": 2
+    },
+    {
+      "word": "multiple",
+      "count": 2
+    },
+    {
+      "word": "objects",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "fractal",
+      "count": 2
+    },
+    {
+      "word": "ran",
+      "count": 2
+    },
+    {
+      "word": "pick",
+      "count": 2
+    },
+    {
+      "word": "subsequent",
+      "count": 2
+    },
+    {
+      "word": "osborne",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "liquidated",
+      "count": 2
+    },
+    {
+      "word": "april",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "computers",
+      "count": 2
+    },
+    {
+      "word": "digitale",
+      "count": 2
+    },
+    {
+      "word": "autonomie",
+      "count": 2
+    },
+    {
+      "word": "binnen",
+      "count": 2
+    },
+    {
+      "word": "energie-intensieve",
+      "count": 2
+    },
+    {
+      "word": "industrie",
+      "count": 2
+    },
+    {
+      "word": "energy",
+      "count": 2
+    },
+    {
+      "word": "innovation",
+      "count": 2
+    },
+    {
+      "word": "nl",
+      "count": 2
+    },
+    {
+      "word": "het",
+      "count": 2
+    },
+    {
+      "word": "stuff",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "wrote",
+      "count": 2
+    },
+    {
+      "word": "war",
+      "count": 2
+    },
+    {
+      "word": "iran",
+      "count": 2
+    },
+    {
+      "word": "discovered",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "deploying",
+      "count": 2
+    },
+    {
+      "word": "photon",
+      "count": 2
+    },
+    {
+      "word": "trying",
+      "count": 2
+    },
+    {
+      "word": "face",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "fewer",
+      "count": 2
+    },
+    {
+      "word": "problems",
+      "count": 2
+    },
+    {
+      "word": "mastodon",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "agents",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    }
+  ]
+}
