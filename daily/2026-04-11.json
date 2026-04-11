@@ -1,0 +1,554 @@
+{
+  "date": "2026-04-11",
+  "stats": {
+    "total_fetched": 267,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 26,
+    "long_articles": 4
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "SQLite Query Result Formatter Demo",
+        "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/sqlite-qrf\">SQLite Query Result Formatter Demo</a></p> <p>See my notes <a href=\"https://simonwillison.net/2026/Apr/11/sqlite/\">on SQLite 3.53.0</a>. This...",
+        "url": "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-11T19:35:31.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Pan American Luggage Labels",
+        "summary": "Some graphic design fun for the weekend: achingly gorgeous art pieces recreating vintage Pan Am luggage tags, by Ella Freire. I love them all. The colors, the type, the shapes — sublime. (Via Dan Cederholm’s Studio Notes...",
+        "url": "https://ellafreire.com/collections/pan-american-luggage-labels",
+        "source": "Daring Fireball",
+        "tags": [
+          "Algorithms",
+          "Product"
+        ],
+        "published_at": "2026-04-11T16:55:24.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cheapest way to keep a UK mobile number using an eSIM",
+        "summary": "I have an old mobile phone number that I'd like to keep. I think it is registered with a bunch of services for 2FA by SMS, but I can't be sure. So I want to keep it for a couple of years just in case I need it to log on...",
+        "url": "https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Sat, 11 Apr 2026 11:34:38 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 04/11/2026",
+        "summary": "Is the Strait of Hormuz open yet, building code cost benefit analysis, Intel joining Terafab, sponge cities, and more.",
+        "url": "https://www.construction-physics.com/p/reading-list-04112026",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Sat, 11 Apr 2026 12:02:56 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Earnestness",
+        "summary": "",
+        "url": "http://www.paulgraham.com/earnest.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-11T22:21:12.986Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "SQLite 3.53.0",
+        "summary": "11th April 2026 - Link Blog\n\n**[SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)** ([via](https://lobste.rs/s/sqsb24/sqlite_3_53_0)) SQLite 3.52.0 was withdrawn so this is a pretty big releas",
+        "content": "11th April 2026 - Link Blog\n\n**[SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)** ([via](https://lobste.rs/s/sqsb24/sqlite_3_53_0)) SQLite 3.52.0 was withdrawn so this is a pretty big release with a whole lot of accumulated user-facing and internal improvements. Some that stood out to me:\n\n- `ALTER TABLE` can now add and remove `NOT NULL` and `CHECK` constraints - I've previously used my own [sqlite-utils transform() method](https://sqlite-utils.datasette.io/en/stable/python-api.html#changing-not-null-status) for this.\n\n- New [json_array_insert() function](https://sqlite.org/json1.html#jarrayins) and its `jsonb` equivalent.\n\n- Significant improvements to [CLI mode](https://sqlite.org/climode.html), including result formatting.\n\nThe result formatting improvements come from a new library, the [Query Results Formatter](https://sqlite.org/src/file/ext/qrf). I [had Claude Code](https://github.com/simonw/tools/pull/266) (on my phone) compile that to WebAssembly and build [this playground interface](https://tools.simonwillison.net/sqlite-qrf) for trying that out.\n\nPosted [11th April 2026](https://simonwillison.net/2026/Apr/11/) at 7:56 pm\n\n## Recent articles\n\n  \n    - [Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/) - 8th April 2026\n\n  \n    - [Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/) - 7th April 2026\n\n  \n    - [The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/) - 3rd April 2026\n\n  \n\n \n\nThis is a **link post** by Simon Willison, posted on [11th April 2026](https://simonwillison.net/2026/Apr/11/).\n\n    \n        [\n            sql\n            112\n        ](https://simonwillison.net/tags/sql/)\n    \n        [\n            sqlite\n            459\n        ](https://simonwillison.net/tags/sqlite/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-04-11T19:56:53.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Your friends are hiding their best ideas from you ",
+        "summary": "Back in college, the final project in our JavaScript class was to build a website. We were a group of four, and we built the best website in class. It was for a restaurant called the Coral Reef. We fo",
+        "content": "Back in college, the final project in our JavaScript class was to build a website. We were a group of four, and we built the best website in class. It was for a restaurant called the Coral Reef. We found pictures online, created a menu, and settled on a solid theme. I was taking a digital art class in parallel, so I used my Photoshop skills to place our logo inside pictures of our fake restaurant. All of a sudden, something clicked. We were admiring our website on a CRT monitor when my classmate pulled me aside. She had an idea. A business idea.\n\nAn idea so great that she couldn't share it with the rest of the team. She whispered, covering her mouth with one hand so a lip reader couldn't steal this fantastic idea: \"what if we build websites for people?\"\n\nThis was the 2000s, of course it was a fantastic idea. The perfect time to spin up an online business after a market crash. But what she didn't know was that, while I was in class in the mornings, my afternoons were spent scouring Craigslist and building crappy websites for a hundred to two hundred dollars a piece. I wasn't going to share my measly spoils. If anything, this was the perfect time to build that kind of service. *That's a great idea*, I said.\n\nThere is something satisfying about having an idea validated. A sort of satisfaction we get from the acknowledgment. We are smart, and our ideas are good. Whenever someone learned that I was a developer, they felt this urge to share their \"someday\" idea. It's an app, a website, or some technology I couldn't even make sense of. I used to try to dissect these ideas, get to the nitty-gritty details, scrutinize them. But that always ended in hostility. \"Yeah, you don't get it. You probably don't have enough experience\" was a common response when I didn't give a resounding yes.\n\nI don't get those questions anymore, at least not framed in the same way. I have worked for decades in the field, and I even have a few failed start-ups under my belt. I'm ready to hear your ideas. But that job has been taken, not by another eager developer with even more experience, or maybe a successful start-up on their résumé. No, not a person. AI took this job.\n\nSomewhere behind a chatbot interface, an AI is telling one of your friends that their idea is brilliant. Another AI is telling them to write out the full details in a prompt and it will build the app in a single stroke. That friend probably shared a localhost:3000 link with you, or a Lovable app, last year. That same friend was satisfied with the demo they saw then and has most likely moved on.\n\nIn the days when I stood as a judge, validating an idea was rarely what sparked a business. The satisfaction was in the telling. And today, a prompt is rarely a spark either. In fact, the prompt is not enough. My friends share a link to their ChatGPT conversation as proof that their idea is brilliant. \n\nI can't deny it, the robot has already spoken. I'm not the authority on good or bad ideas. I've called ideas stupid that went on to make millions of dollars. (A ChatGPT wrapper for SMS, for instance.)\n\nA decade ago, I was in Y Combinator's Startup School. In my batch, there were two co-founders: one was the developer, and the other was the idea guy. In every meeting, the idea guy would come up with a brand new idea that had nothing to do with their start-up. The instructor tried to steer him toward being the salesman, but he wouldn't budge. \"My talent is in coming up with ideas,\" he said.\n\nWe love having great ideas. We're just not interested in starting a business, because that's what it actually takes. A friend will joke, \"here's an idea\" then proceeds to tell me their idea. \"If you ever build it, send me my share.\" They are not expecting me to build it. They are happy to have shared a great idea.\n\nAs for my classmate, she never spoke of the business again. But over the years, she must have sent me at least a dozen clients. It was a great idea after all.",
+        "url": "https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "AI/ML"
+        ],
+        "published_at": "Sat, 11 Apr 2026 00:47:19 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Center Has a Bias",
+        "summary": "written on April 11, 2026\n\n  \n\n  Whenever a new technology shows up, the conversation quickly splits into camps.\nThere are the people who reject it outright, and there are the people who seem\nto adopt",
+        "content": "written on April 11, 2026\n\n  \n\n  Whenever a new technology shows up, the conversation quickly splits into camps.\nThere are the people who reject it outright, and there are the people who seem\nto adopt it with religious enthusiasm.  For more than a year now, no topic has\nbeen more polarising than AI coding agents.\n\nWhat I keep noticing is that a lot of the criticism directed at these tools is\nperfectly legitimate, but it often comes from people without a meaningful amount\nof direct experience with them.  They are not necessarily wrong.  In fact, many\nof them cite studies, polls and all kinds of sources that themselves spent time\ninvestigating and surveying.  And quite legitimately they identified real\nissues: the output can be bad, the security implications are scary, the\neconomics are strange and potentially unsustainable, there is an environmental\nimpact, the social consequences are unclear, and the hype is exhausting.\n\nBut there is something important missing from that criticism when it comes from\na position of non-use: it is too abstract.\n\nThere is a difference between saying “this looks flawed in principle” and saying\n“I used this enough to understand where it breaks, where it helps, and how it\nchanges my work.”  The second type of criticism is expensive.  It costs time,\nfrustration, and a genuine willingness to engage.\n\nThe enthusiast camp consists of true believers.  These are the people who\nhave adopted the technology despite its shortcomings, sometimes even because\nthey enjoy wrestling with them.  They have already decided that the tool is\nworth fitting into their lives, so they naturally end up forgiving a lot.  They\nmight not even recognize the flaws because for them the benefits or excitement\nhave already won.\n\nBut what does the center look like?  I consider myself to be part of the center:\ncautiously excited, but also not without criticism.  By my observation though\nthat center is not neutral in the way people imagine it to be.  Its bias is not\ntowards endorsement so much as towards engagement, because the middle ground\nbetween rejecting a technology outright and embracing it fully is usually\noccupied by people willing to explore it seriously enough to judge it.\n\n## Bias on Both Sides\n\nThe compositions of the groups of people in the discussions about new technology\nare oddly shaped because one side has paid the cost of direct experience and the\nother has not, or not to the same degree.  That alone creates an asymmetry.\n\nTake coding agents as an example.  If you do not use them, or at least not for\nproductive work, you can still criticize them on many grounds.  You can say they\ngenerate sloppy code, that they lower your skills, etc.  But if you have not\nactually spent serious time with them, then your view of their practical reality\nis going to be inherited from somewhere else.  You will know them through\nscreenshots, anecdotes, the most annoying users on Twitter, conference talks,\ncompany slogans, and whatever filtered back from the people who *did* use them.\nThat is not nothing, but it is not the same as contact.\n\nThe problem is not that such criticism is worthless.  The problem is that people\noften mistake non-use for neutrality.  It is not.  A serious opinion on a new\nlanguage, framework, device, or way of working usually has some minimum buy-in.\nYou have to cross a threshold of use before your criticism becomes grounded in\nthe thing itself rather than in its reputation.\n\nThat threshold is inconvenient.  It asks you to spend time on something that may\nnot pay off, and to risk finding yourself at least partially won over.  It is a\nlot to ask of people.  But because that threshold exists, the measured middle is\nrarely populated by people who are perfectly indifferent to change.  It is\npopulated by people who were willing to move toward it enough in order to\nevaluate it properly.\n\nSimultaneously, it’s important to remember that usage does not automatically\ncreate wisdom.  The enthusiastic adopter might have their own distortions.  They\nmay enjoy the novelty, feel a need to justify the time they invested, or\novergeneralize from the niche where the technology works wonderfully.  They may\nsimply like progress and want to be associated with it.\n\nThis is particularly visible with AI.  There are clearly people who have decided\nthat the future is here, all objections are temporary, and every workflow must\nnow be rebuilt around agents.  What makes AI weirder is that it’s such a massive\nshift in capabilities that has triggered a tremendous injection of money, and a\nmeaningful number of adopters have bet their future on that technology.\n\nSo if one pole is uninformed abstraction and the other is overcommitted\nenthusiasm, then surely the center must sit right in the middle between them?\n\n## Engagement Is Not Endorsement\n\nThe center, I would argue, naturally needs to lean towards engagement.  The\nreason is simple: a genuinely measured opinion on a new technology requires real\nengagement with it.\n\nYou do not get an informed view by trying something for 15 minutes, getting\nannoyed once, and returning to your previous tools.  You also do not get it by\nadmiring demos, listening to podcasts or discussing on social media.  You have\nto use it enough to get past both the first disappointment and the honeymoon\nphase.  Seemingly with AI tools, true understanding is not a matter of hours but\nweeks of investment.\n\nThat means the people in the center are selected from a particular group: people\nwho were willing to give the thing a fair chance without yet assuming it\ndeserved a permanent place in their lives.\n\nThat willingness is already a bias towards curiosity and experimentation which\nmakes the center look more like adopters in behavior, because exploration\nrequires use, but it does not make the center identical to enthusiasts in\njudgment.\n\nThis matters because from the perspective of the outright rejecter, all of these\npeople can look the same.  If someone spent serious time with coding agents,\nfound them useful in some areas, harmful in others, and came away with a nuanced\nview, they may still be thrown into the same bucket as the person who thinks\nagents can do no wrong.\n\nBut those are not the same position at all.  It’s important to recognize that\nengagement with those tools does not automatically imply endorsement or at the\nvery least not blanket endorsement.\n\n## The Center Looks Suspicious\n\nThis is why discussions about new technology, and AI in particular feel so\npolarized.  The actual center is hard to see because it does not appear visually\ncentered.  From the outside, serious exploration can look a lot like adoption.\n\nIf you map opinions onto a line, you might imagine the middle as the point\nequally distant from rejection and enthusiasm.  But in practice that is not how\nit works.  The middle is shifted toward the side of the people who have actually\ninteracted with the technology enough to say something concrete about it.  That\ndoes not mean the middle has accepted the adopter’s conclusion.  It means the\nmiddle has adopted some of the adopter’s behavior, because investigation\nrequires contact.\n\nThat creates a strange effect because the people with the most grounded\ncriticism are often also adopters.  I would argue some of the best criticism of\ncoding agents right now comes from people who use them extensively.  Take\n[Mario](https://mariozechner.at/): he created a coding agent, yet is also one of\nthe most vocal voices of criticism in the space.  These folks can tell you in\ndetail how they fail and they can tell you where they waste time, where they\nregress code quality, where they need carefully designed tooling, where they\nonly work well in some ecosystems, and where the whole thing falls apart.\n\nBut because those people kept using the tools long enough to learn those\nlessons, they can appear compromised to outsiders.  And worse: if they continue\nto use them, contribute thoughts and criticism back, they are increasingly\nthrown in with the same people who are devoid of any criticism.\n\n## Failure Is Possible\n\nThis line of thinking could be seen as an inherent “pro-innovation bias.”  That\nwould be wrong, as plenty of technology deserves resistance.  Many people are\nright to resist, and sometimes the people who never gave a technology a chance\nsaw problems earlier than everyone else.  Crypto is a good reminder: plenty of\nprojects looked every bit as exciting as coding agents do now, and still\ncollapsed when the economics no longer worked.\n\nWhat matters here is a narrower point.  The center is not biased towards novelty\nso much as towards contact with the thing that creates potential change.  The\nmiddle ground is not between use and non-use, but between refusal and commitment\nand the people in the center will often look more like adopters than skeptics,\nnot because they have already made up their minds, but because getting an\ninformed view requires exploration.\n\nIf you want to criticize a new thing well, you first have to get close enough to\ndislike it for the right reasons.  And for some technologies, you also have to\nhang around long enough to understand what, exactly, deserves criticism.\n\n  \n  This entry was tagged\n    \n      [ai](https://lucumr.pocoo.org/tags/ai/) and \n      [thoughts](https://lucumr.pocoo.org/tags/thoughts/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias.md) / [view](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-11T00:00:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Don't Be Evil (11 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/11Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/11/obvious-t",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/11Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/)\n\n## Today's links\n\n- [Don't Be Evil](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#bayesian-terrorism): Evil genius is just a lack of shame.\n\n- [Hey look at this](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#retro): FBI x Trotsky; Jakob Nielsen x headlines; Floppy disk stained glass; Zero tolerance for mismatched socks; EFF v DOGE.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#upcoming): Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/dont-be-evil.jpg?w=840&ssl=1)\n\n## Don't Be Evil ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#bayesian-terrorism))\n\nHow I knew I was officially Old: I stopped being disoriented by the experience of meeting with grown-ass adults who wanted to thank me for the books of mine they'd read in their childhoods, which helped shape their lives. Instead of marveling that a book that felt to me like it was ten seconds old was a childhood favorite of this full-grown person, I was free to experience the intense gratification of knowing I'd helped this person find their way, and intense gratitude that they'd told me about it (including you, Sean – it was nice to meet you last night at Drawn and Quarterly in Montreal!).\n\nNow that I am Old, I find myself dwelling on key junctures from my life. It's not nostalgia (\"Nostalgia is a toxic impulse\" – J. Hodgman) – rather, it's an attempt to figure out how I got here (\"My god! What have I done?\" – D. Byrne), and also, how the *world* got this way.\n\nThere's one incident I return to a lot, a moment that didn't feel momentous at the time, but which, on reflection, seems to have a lot to say about *this* moment – both for me, and for the world we live in.\n\nBack in the late 1990s, I co-founded a dotcom company, Opencola. It was a \"free/open, peer-to-peer search and recommendation system.\" The big idea was that we could combine early machine learning technology with Napster-style P2P file sharing and a web-crawler to help you find things that would interest you. The way it was gonna work was that you'd have a folder on your desktop and you could put things in it that you liked and the system would crawl other users' folders, and the open web, and copy things into your folder that it found that seemed related to the stuff you liked. You could refine the system's sensibilities by thumbs-up/thumbs-downing the suggestions, and it would refine its conception of your preferences over time. As with Napster and its successors, you could also talk to the people whose collections enriched your own, allowing you to connect with people who shared even your most esoteric interests.\n\nOpencola didn't make it. Our VCs got greedy when Microsoft offered to buy us and tried to grab all the equity away from the founders. I quit and went to EFF, and my partners got very good jobs at Microsoft, and the company was bought for its tax-credits by Opentext, and that was that.\n\n(Well, not quite – several of the programmers who worked on the project have rebooted it, which is very cool!)\n\n[https://opencola.io/](https://opencola.io/)\n\nBut back in the Opencola days, we three partners would have these regular meetings where we'd brainstorm ways that we could make money off of this extremely cool, but frankly very noncommercial idea. As with any good brainstorming session, there were \"no bad ideas,\" so sometimes we would veer off into fanciful territory, or even very *evil* territory.\n\nIt's one of those evil ideas that I keep coming back to. Sometimes, during these money-making brainstorm sessions, we'd decompose the technology we were working on into its component parts to see if any subset of them might make money (\"Be the first person to not do something no one has ever not done before\" – B. Eno).\n\nWe had a (by contemporary standards, primitive) machine-learning system; we had a web crawler; and we had a keen sense of how the early web worked. In particular, we were really interested in a new, Linux-based search tool that used citation analysis – a close cousin to our own collaborative filter, harnessing latent clues about relevance implicit in the web's structure – to produce the best search results the web had ever seen. Like us, this company had no idea how to make money, so we were watching it very carefully. That company was called \"Google.\"\n\nThat's where the evil part came in. We were pretty sure we could extract a list of the 100,000 most commonly searched terms from Google, and then we could use our web-crawler to capture the top 100 results for each. We could feed these to our Bayesian machine-learning tool to create statistical models of the semantic structure of these results, and then we could generate thousands of pages of word-salad for each of those keywords that matched those statistical models, along with interlinks that could trick Google's citation analysis model. Plaster those word-salad pages with ads, and voila – free cash flow!\n\nOf course, we didn't do it. But even as we developed this idea, the room crackled with a kind of dark, excited dread. We weren't any smarter than many other rooms full of people who were engaged in exercises just like this one. The difference was, we *loved* the web. The idea of someone deliberately poisoning it this way churned our stomachs. The whole point of Opencola was to connect people with each other based on their shared interests. We *loved* Google and how it helped you find the people who wrote the web in ways that delighted and informed you. This kind of spam, aimed at wrecking Google's ability to help people make sense of the things we were all posting to the internet, was…*grotesque*.\n\nI didn't know the term then, but what we were doing amounted to \"red-teaming\" – thinking through the ways that attackers could destroy something that we valued. Later, we tried \"blue-teaming,\" trying to imagine how our tools might help us fight back if someone else got the same idea and went through with it.\n\nI didn't know the term \"blue-teaming\" then, either. Once I learned these terms, they brought a lot of clarity to the world. Today, I have another term that I turn to when I am trying to rally other people who love the internet and want it to be good: \"Tron-pilled.\" Tron \"fought for the user.\" Lots of us technologists are Tron-pilled. Back in the early days, when it wasn't clear that there was ever going to be any money in this internet thing, being Tron-pilled was pretty much the only reason to get involved with it. Sure, there were a few monsters who fell into the early internet because it offered them a chance to torment strangers at a distance, but they were vastly outnumbered by the legion of Tron-pilled nerds who wanted to make the internet better because we wanted all our normie friends to have the same kind of good time we were having.\n\nThe point of this is that there were *lots* of people back then who had the capacity to imagine the kind of gross stuff that Zuckerberg, Musk, and innumerable other scammers, hustlers and creeps got up to on the web. The thing that distinguished these monsters wasn't their genius – it was their callousness. When *we* brainstormed ways to break the internet, we felt scared and were inspired to try to save it. When *they* brainstormed ways to break the internet, they created pitch-decks.\n\nAnd still: the old web was good in so many ways for so long. The Tron-pilled amongst us held the line. When we build a new, good, post-American internet, we're going to need a multitude of Tron-pilled technologists, old and young, who build, maintain – and, above all, *defend* it.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Apple signs meaningless deal to make some less-important parts in America [https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/](https://www.theregister.com/2026/03/26/apple_expands_list_of_bits/)\n\n- \nPublic Service Decline and Support for the Populist Right [https://catherinedevries.eu/NHS.pdf](https://catherinedevries.eu/NHS.pdf)\n\n- \nAnother Court Rules Copyright Can’t Stop People From Reading and Speaking the Law [https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law](https://www.eff.org/deeplinks/2026/04/another-court-rules-copyright-cant-stop-people-reading-and-speaking-law)\n\n- \nYikes, Encryption’s Y2K Moment is Coming Years Early [https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early](https://www.eff.org/deeplinks/2026/04/yikes-encryptions-y2k-moment-coming-years-early)\n\n- \nVertical Vertigo [https://prospect.org/2026/04/10/apr-2026-magazine-vertical-vertigo-franchise-deregulation-antitrust-law/](https://prospect.org/2026/04/10/apr-2026-magazine-vertical-vertigo-franchise-deregulation-antitrust-law/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#retro))\n\n#25yrsago Trotsky’s assassination – according to the FBI [https://web.archive.org/web/20010413212536/http://foia.fbi.gov/trotsky.htm](https://web.archive.org/web/20010413212536/http://foia.fbi.gov/trotsky.htm)\n\n#25yrsago Online headline-writing guidelines from Jakob Nielsen [https://memex.craphound.com/2001/04/09/headline-writing-guidelines-from-legendary-usability/](https://memex.craphound.com/2001/04/09/headline-writing-guidelines-from-legendary-usability/)\n\n#25yrsago Floppy-disk stained-glass windows [https://web.archive.org/web/20010607052511/http://www.acme.com/jef/crafts/bathroom_windows.html](https://web.archive.org/web/20010607052511/http://www.acme.com/jef/crafts/bathroom_windows.html)\n\n#15yrsago English school principal announces zero tolerance for mismatched socks [https://nationalpost.com/news/u-k-school-cracks-down-on-bad-manners](https://nationalpost.com/news/u-k-school-cracks-down-on-bad-manners)\n\n#1yrago EFF's lawsuit against DOGE will go forward [https://pluralistic.net/2025/04/09/cases-and-controversy/#brocolli-haired-brownshirts](https://pluralistic.net/2025/04/09/cases-and-controversy/#brocolli-haired-brownshirts)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/11/obvious-terrible-ideas/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Startup"
+        ],
+        "published_at": "Sat, 11 Apr 2026 13:34:48 +0000",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "SQLite 3.53.0 - 11th April 2026 - Link Blog **[SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)**...",
+    "Your friends are hiding their best ideas from you  - Back in college, the final project in our JavaScript class was to build a website. We were...",
+    "The Center Has a Bias - written on April 11, 2026 Whenever a new technology shows up, the conversation quickly spl...",
+    "Pluralistic: Don't Be Evil (11 Apr 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http..."
+  ],
+  "wordcloud": [
+    {
+      "word": "sqlite",
+      "count": 9
+    },
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "ideas",
+      "count": 4
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "apr",
+      "count": 3
+    },
+    {
+      "word": "keep",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 3
+    },
+    {
+      "word": "query",
+      "count": 2
+    },
+    {
+      "word": "result",
+      "count": 2
+    },
+    {
+      "word": "formatter",
+      "count": 2
+    },
+    {
+      "word": "demo",
+      "count": 2
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "simonwillison",
+      "count": 2
+    },
+    {
+      "word": "notes",
+      "count": 2
+    },
+    {
+      "word": "pan",
+      "count": 2
+    },
+    {
+      "word": "luggage",
+      "count": 2
+    },
+    {
+      "word": "via",
+      "count": 2
+    },
+    {
+      "word": "mobile",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "april",
+      "count": 2
+    },
+    {
+      "word": "best",
+      "count": 2
+    },
+    {
+      "word": "class",
+      "count": 2
+    },
+    {
+      "word": "website",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "com",
+      "count": 2
+    }
+  ]
+}
