@@ -1,0 +1,896 @@
+{
+  "date": "2026-04-14",
+  "stats": {
+    "total_fetched": 287,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 16,
+    "long_articles": 14
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Intersecting spheres and GPS",
+        "summary": "If you know the distance d to a satellite, you can compute a circle of points that passes through your location. That’s because you’re at the intersection of two spheres—the earth’s surface and a sphere of radius d cente...",
+        "url": "https://www.johndcook.com/blog/2026/04/14/intersecting-spheres-and-gps/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Apr 2026 14:08:36 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Finding a parabola through two points with given slopes",
+        "summary": "The Wikipedia article on modern triangle geometry has an image labeled “Artzt parabolas” with no explanation. A quick search didn’t turn up anything about Artzt parabolas [1], but apparently the parabolas go through pair...",
+        "url": "https://www.johndcook.com/blog/2026/04/14/artz-parabola/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Apr 2026 12:19:42 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Patch Tuesday, April 2026 Edition",
+        "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in...",
+        "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Tue, 14 Apr 2026 21:47:59 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why was there a red telephone at every receptionist desk?",
+        "summary": "Not a direct line to Bill Gates's office. The post Why was there a red telephone at every receptionist desk? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260414-00/?p=112231",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I Will Never Respect A Website",
+        "summary": "If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywh...",
+        "url": "https://www.wheresyoured.at/i-will-never-respect-a-website/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Tue, 14 Apr 2026 16:22:59 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Google’s acquisition of Doubleclick",
+        "summary": "On April 13, 2007, Google agreed to acquire DoubleClick for US$3.1 billion in cash. Google had already been in the advertising business since 2000, with its Adwords product. Buying Doubleclick further sent Google down th...",
+        "url": "https://dfarq.homeip.net/googles-acquisition-of-doubleclick/?utm_source=rss&utm_medium=rss&utm_campaign=googles-acquisition-of-doubleclick",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Startup",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Apr 2026 11:00:50 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 499",
+        "summary": "I'm starting to become pretty fond of Bruce. Actually, I've had a bit of an epiphany: an AI assistant like Bruce isn't just about auto-responding to tickets in an entirely autonomous manner; it's also pretty awesome at r...",
+        "url": "https://www.troyhunt.com/weekly-update-499/",
+        "source": "Troy Hunt",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 14 Apr 2026 06:30:56 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
+        "summary": "Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against creden...",
+        "url": "https://blog.cloudflare.com/improved-developer-security/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 14 Apr 2026 13:00:10 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Managed OAuth for Access: make internal apps agent-ready in one click",
+        "summary": "Managed OAuth for Cloudflare Access helps AI agents securely navigate internal applications. By adopting RFC 9728, agents can authenticate on behalf of users without using insecure service accounts.",
+        "url": "https://blog.cloudflare.com/managed-oauth-for-access/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Tue, 14 Apr 2026 13:00:10 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh",
+        "summary": "Cloudflare Mesh provides secure, private network access for users, nodes, and autonomous AI agents. By integrating with Workers VPC, developers can now grant agents scoped access to private databases and APIs without man...",
+        "url": "https://blog.cloudflare.com/mesh/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "Tue, 14 Apr 2026 13:00:09 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP",
+        "summary": "We share Cloudflare's internal strategy for governing MCP using Access, AI Gateway, and MCP server portals. We also launch Code Mode to slash token costs and recommend new rules for detecting Shadow MCP in Cloudflare Gat...",
+        "url": "https://blog.cloudflare.com/enterprise-mcp/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 14 Apr 2026 13:00:10 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Nothing ever dies. It merely becomes embarrassing.",
+        "summary": "OR: the Halo theory of science",
+        "url": "https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes",
+        "source": "Experimental History",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 14 Apr 2026 16:16:42 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-14T22:36:43.530Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-14T22:36:43.530Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-14T22:36:43.530Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-14T22:36:43.530Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Cybersecurity Looks Like Proof of Work Now",
+        "summary": "14th April 2026 - Link Blog\n\n**[Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)**. The UK's AI Safety Institute recently publis",
+        "content": "14th April 2026 - Link Blog\n\n**[Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)**. The UK's AI Safety Institute recently published [Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities), their own independent analysis of [Claude Mythos](https://simonwillison.net/2026/Apr/7/project-glasswing/) which backs up Anthropic's claims that it is exceptionally effective at identifying security vulnerabilities.\n\nDrew Breunig notes that AISI's report shows that the more tokens (and hence money) they spent the better the result they got, which leads to a strong economic incentive to spend as much as possible on security reviews:\n\n> If Mythos continues to find exploits so long as you keep throwing money at it, security is reduced to a brutally simple equation: **to harden a system you need to spend more tokens discovering exploits than attackers will spend exploiting them**.\n\nAn interesting result of this is that open source libraries become *more* valuable, since the tokens spent securing them can be shared across all of their users. This directly counters the idea that the low cost of vibe-coding up a replacement for an open source library makes those open source projects less attractive.",
+        "url": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-14T19:41:48.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Trusted access for the next era of cyber defense",
+        "summary": "14th April 2026 - Link Blog\n\n**[Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)** ([via](https://news.ycombinator.com/item?id=4777",
+        "content": "14th April 2026 - Link Blog\n\n**[Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)** ([via](https://news.ycombinator.com/item?id=47770770)) OpenAI's answer to [Claude Mythos](https://simonwillison.net/2026/Apr/7/project-glasswing/) appears to be a new model called GPT-5.4-Cyber:\n\n> In preparation for increasingly more capable models from OpenAI over the next few months, we are fine-tuning our models specifically to enable defensive cybersecurity use cases, starting today with a variant of GPT‑5.4 trained to be cyber-permissive: GPT‑5.4‑Cyber.\n\nThey're also extending a program they launched in February (which I had missed) called [Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber/), where users can verify their identity (via a photo of a government-issued ID processed by [Persona](https://withpersona.com/)) to gain \"reduced friction\" access to OpenAI's models for cybersecurity work.\n\nHonestly, this OpenAI announcement is difficult to follow. Unsurprisingly they don't mention Anthropic at all, but much of the piece emphasizes their many years of existing cybersecurity work and their goal to \"democratize access\" to these tools, hence the emphasis on that self-service verification flow from February.\n\nIf you want access to their best security tools you still need to go through an extra Google Form application process though, which doesn't feel particularly different to me from Anthropic's [Project Glasswing](https://www.anthropic.com/glasswing).",
+        "url": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "2026-04-14T21:23:59.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users",
+        "summary": "After a fake version of the Ledger cryptocurrency wallet app made it onto the normally highly curated Apple App store, customers lost $9.5 million dollars to the malicious product. Believing it was a ",
+        "content": "After a fake version of the Ledger cryptocurrency wallet app made it onto the normally highly curated Apple App store, customers lost $9.5 million dollars to the malicious product. Believing it was a genuine Ledger product, people entered their [seed phrases](https://www.web3isgoinggreat.com/glossary#seed-phrase) into the app, then discovered their wallets were immediately drained.One victim, a musician who goes by G. Love, wrote: \"I lost my retirement fund in a hack/Scam when I switched my Ledger over to my new computer and by accident downloaded a malicious ledger app from the Apple store. All my BTC gone in an instant.\" According to him, he lost 5.9 BTC (~$445,000).\n\nCrypto sleuth zachxbt traced some of the stolen funds through Kucoin, a Chinese cryptocurrency exchange that was [recently fined and forced to exit US markets](https://www.web3isgoinggreat.com/?id=kucoin-pleads-guilty) over licensing and anti-money laundering failures. \"The three largest victims lost seven figures each,\" he wrote.\n\nApple removed the malicious app from their App Store on April 13, six days after it had been added.\n\n- [\"A fake Ledger app on the Apple App Store drained $9.5 million in crypto\"](https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto), *CoinDesk* [[archive]](https://web.archive.org/web/20260414141301/https://www.coindesk.com/business/2026/04/14/a-fake-ledger-app-on-the-apple-app-store-just-drained-usd9-5-million-in-crypto)\n- [Telegram post by zachxbt](https://t.me/investigations/313) [[archive]](https://web.archive.org/web/20260414141506/https://t.me/investigations/313)\n- [Tweet thread by G. Love](https://x.com/glove/status/2043047396322451700) [[archive]](https://www.web3isgoinggreat.com/archive/2026-04-13-1/2)\n\n## Hyperbridge exploited two weeks after April Fools' hack joke\n\nOn April Fools' Day, the Hyperbridge blockchain [bridge](https://www.web3isgoinggreat.com/glossary#bridge) project posted a tweet claiming that the North Korean Lazarus hacking group had drained $37 million from the project. A linked blog post contained a Rickroll GIF and an explanation of \"Why Hyperbridge can't be hacked\".The following day, a Hyperbridge developer posted a screenshot of a blockchain transaction, writing \"Lmao the uniBTC exploiter is testing Hyperbridge. I hope you have a quantum computer bro\". Another commenter replied, \"Rule #1 dont actively provoke attackers\".\n\nAbout two weeks later, an attacker was able to forge a transaction to change the admin rights for the Polkadot/Ethereum bridge contract, allowing them to mint 1 billion DOT tokens. They were able to cash out about $237,000 due to limited liquidity.\n\nThe April Fools' posts have since been deleted.\n\n- [\"Hyperbridge exploited less than two weeks after April Fools’ day hack prank\"](https://protos.com/hyperbridge-exploited-less-than-two-weeks-after-april-fools-day-hack-prank/), *Protos* [[archive]](https://web.archive.org/web/20260414134447/https://protos.com/hyperbridge-exploited-less-than-two-weeks-after-april-fools-day-hack-prank/)\n- [Tweet by 0xMarforio](https://x.com/0xMarforio/status/2039767526356209710) [[archive]](https://www.web3isgoinggreat.com/archive/2026-04-13-0/1)\n\n## Bitcoin Depot hacked for $3.67 million\n\nBitcoin ATM operator Bitcoin Depot has disclosed a March 23 hack in which attackers stole 50.903 BTC (~$3.67 million) from company wallets. According to the company's disclosure with the SEC, the exploiters gained access to the company's IT systems and wallet credentials, allowing them to steal the assets.Bitcoin Depot is the largest operator of crypto ATMs globally and in the United States, with approximately 8,700 kiosks in the US and 9,200 worldwide.\n\n- [SEC Form 8-K](https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/btm-20260406.htm) filed by Bitcoin Depot Inc. on April 6, 2026\n- [Top Crypto ATM Operators](https://coinatmradar.com/charts/top-operators/), Coin ATM Radar\n\n## Drift exploited for $285 million\n\nThe Solana-based Drift [defi](https://www.web3isgoinggreat.com/glossary#defi) [perpetual futures](https://www.web3isgoinggreat.com/glossary#perps) exchange was exploited for $285 million. The project alerted the community on social media, writing: \"Drift Protocol is experiencing an active attack. ... This is not an April Fools joke.\"The project later described the exploit as \"a novel attack involving durable nonces, resulting in a rapid takeover of Drift's Security Council administrative powers.\" Once the attacker had access to admin capabilities, they quickly eliminated risk management limits on the protocol and drained huge quantities of tokens, which they swapped to USDC and then ETH. The attack was attributed to extremely sophisticated social engineering, likely by North Korean hackers.\n\nSome have criticized USDC's issuer, Circle, for not [freezing](https://www.web3isgoinggreat.com/glossary#freezing) the stolen funds during the six hours they were held in USDC. Unlike ETH, USDC is controlled by a centralized company that can, and regularly does, freeze assets determined to have been stolen or connected to illicit activity.\n\nThe theft is among the largest in defi history.\n\n- [\"Drift says $280M exploit tied to 'sophisticated' admin takeover; ZachXBT criticizes Circle over USDC handling\"](https://www.theblock.co/post/396183/drift-280m-exploit-zachxbt-circle), *The Block*\n- [Tweet by Drift Protocol](https://x.com/DriftProtocol/status/2039417136729227425)\n- [Tweet thread by Drift Protocol](https://x.com/DriftProtocol/status/2039564437795836039)\n\n## Moonwell faces $1 million governance attack\n\nThe Moonwell lending protocol faced a governance attack on its deprecated Moonriver instance that could have drained $1 million from the project. Because Moonwell's MFAM [governance token](https://www.web3isgoinggreat.com/glossary#governance-token) trades at fractions of a cent, an attacker was able to accumulate around 40 million tokens, submit a malicious proposal, and achieve quorum. Moonwell governance token holders scrambled to vote down the proposal before the voting ended on March 27.Ultimately, facing being outvoted, the attacker dumped their MFAM holdings and the proposal was canceled as their balance had fallen below the proposal threshold.\n\nThis was only the most recent of Moonwell's troubles after the protocol suffered a [$1.78 million loss](https://www.web3isgoinggreat.com/?id=moonwell-exploit) in February due to an oracle misconfiguration and a [$3.7 million loss](https://www.web3isgoinggreat.com/?id=moonwell-oracle-malfunction) in November 2025.\n\n- [Attack proposal](https://moonwell.fi/governance/proposal/moonriver?id=74), Moonwell governance [[archive]](https://web.archive.org/web/20260326151129/https://moonwell.fi/governance/proposal/moonriver?id=74)\n- [Tweet thread by Blockful](https://x.com/blockful_io/status/2036888319788015657) [[archive]](https://www.web3isgoinggreat.com/archive/2026-03-24-1/1)\n\n## Balancer Labs shuts down after $110 million hack\n\nAfter a [November 2025 exploit](https://www.web3isgoinggreat.com/?id=balancer-exploit-2) in which $110 million was drained from the Balancer [defi](https://www.web3isgoinggreat.com/glossary#defi) protocol, the company behind the project has announced it will shut down. Besides the massive loss, the hack also caused users to flee the protocol, and Balancer's [total value locked](https://www.web3isgoinggreat.com/glossary#tvl) quickly plummeted from around $775 million to around $300 million. It has continued to decline since, now hovering around $150 million.Balancer co-founder Fernando Martinelli has said he strongly considered shutting down the protocol entirely, but ultimately decided to continue the project as it generates a relatively small amount of revenue. Instead, the project will move to being operated by a [DAO](https://www.web3isgoinggreat.com/glossary#dao) and [operating company](https://www.investopedia.com/terms/o/opco.asp), which Martinelli hopes will allow them to dodge \"real and ongoing legal exposure\" and \"the liability of past security incidents\".\n\nAlthough another Balancer co-founder has optimistically presented this as \"the start of a better chapter\" for Balancer, it remains to be seen whether a skeleton crew will be able to revive the project.\n\n- [\"On the Future of Balancer: Shutting Down Balancer Labs, Supporting the Path Forward\"](https://forum.balancer.fi/t/on-the-future-of-balancer-shutting-down-balancer-labs-supporting-the-path-forward/7002/4), Balancer governance forum [[archive]](https://web.archive.org/web/20260326134710/https://forum.balancer.fi/t/on-the-future-of-balancer-shutting-down-balancer-labs-supporting-the-path-forward/7002/4)\n- [Tweet by Marcus Hardt](https://x.com/Marcus_Balancer/status/2036167477906772187)\n\n## USR stablecoin depegs in $24 million exploit\n\nThe Resolv USD stablecoin, also known as USR, lost its intended dollar [peg](https://www.web3isgoinggreat.com/glossary#peg) and dropped to around $0.14 after an exploiter was able to [mint](https://www.web3isgoinggreat.com/glossary#mint) and sell tens of millions of unbacked tokens. USR is an asset-backed stablecoin that uses cryptoassets like bitcoin, ETH, and other stablecoins as collateral.An exploiter took advantage of a flaw in USR's minting code to create tens of millions of USR tokens without depositing any assets to back them. The attacker then sold the unbacked USR, crashing the stablecoin's price to as low as $0.14. The attacker has profited at least 11,400 ETH (~$24 million), though they are still selling.\n\nSome [defi](https://www.web3isgoinggreat.com/glossary#defi) protocols paused USR-exposed strategies to avoid downstream impacts. Resolv issued a statement that the token's collateral pool was unaffected, though this is likely little comfort for those who purchased the unbacked USR.\n\n- [\"Resolv Labs’ stablecoin depegs as attacker mints millions of tokens\"](https://cointelegraph.com/news/resolv-labs-stablecoin-depegs-attacker-mints-millions-of-tokens), *Cointelegraph* [[archive]](https://web.archive.org/web/20260322092700/https://cointelegraph.com/news/resolv-labs-stablecoin-depegs-attacker-mints-millions-of-tokens)\n- [Tweet by Resolv Labs](https://x.com/ResolvLabs/status/2035601833645768943) [[archive]](https://www.web3isgoinggreat.com/archive/2026-03-22-0/1)\n\n## Venus Protocol accumulates $2.15 million in bad debt after exploit\n\nThe BNB Chain's Venus Protocol lending protocol accumulated $2.15 million in [bad debt](https://www.web3isgoinggreat.com/glossary#bad-debt) after an exploiter manipulated the price of the Thena protocol's THE token. THE had very low liquidity, and the exploiter took advantage of it to manipulate the THE price [oracle](https://www.web3isgoinggreat.com/glossary#oracle) by borrowing against THE, using the borrowed funds to buy more THE, and repeating — causing the price oracle to reflect higher and higher prices. The attacker was able to avoid a supply cap on Venus by \"donating\" the funds rather than depositing them in the standard way.While the exploit left the Venus Protocol with over $2 million in bad debt, it's not clear if the attacker even made money from the exploit. The exploiter's position was ultimately liquidated, collapsing the increase in THE price. However, it's possible the exploiter took advantage of the price discrepancy elsewhere to profit.\n\nThe Venus Protocol has had a number of issues in the past — notably in [June 2023](https://www.web3isgoinggreat.com/?id=bnb-chain-team-prepares-to-step-in-to-prevent-massive-venus-protocol-liquidation), when the team developing the BNB Chain had to intervene when the a thief borrowed $150 million on Venus against stolen tokens and then faced liquidation.\n\n- [\"Venus Protocol left with roughly $2M in bad debt after exploit manipulates Thena's THE token price\"](https://www.theblock.co/post/393622/venus-protocol-left-with-roughly-2m-in-bad-debt-after-exploit-manipulates-thenas-the-token-price), *The Block*\n\n## BlockFills goes bankrupt\n\nApproximately a month after [halting deposits and withdrawals](https://www.web3isgoinggreat.com/?id=blockfills-crypto-lender-halts-withdrawals), citing liquidity issues and \"recent market and financial conditions\", the American crypto lender BlockFills has filed for bankruptcy. Filings in Delaware bankruptcy court reveal the company has between $50 million and $100 million in assets and between $100 million and $500 million in liabilities. The list of creditors include customers like 007 Capital and Artha Investment Partners, and the firm has a $4.75 million loan outstanding to fellow crypto lender Nexo. Also on the list of creditors are the Chicago Blackhawks, with whom BlockFills signed a sponsorship deal in 2022.BlockFills was backed by investors including Susquehanna and CME Ventures.\n\n- [Chapter 11 Voluntary Petition](http://courtlistener.com/docket/72494188/1/reliz-technology-group-holdings-inc/), Reliz Technology Group Holdings Inc.\n\n## Trader loses almost $50 million in Aave swap gone wrong\n\nA trader using the Aave interface attempted to swap $50 million USDT for AAVE. However, due to the enormous size of the order, the purchase had dramatic impact on the aave price. The Aave interface warned the customer about the price impact, and the trader clicked a checkbox to accept the order terms. Ultimately, they received only 324 AAVE (~$37,600) in return for their $50 million, losing 99.9% of their assets in the process.The Aave founder offered to refund the user the $600,000 in fees collected from the transaction, and acknowledged \"there are additional guardrails the industry can build to better protect users\".\n\n- [Tweet by Stani Kulechov](https://x.com/StaniKulechov/status/2032193345414664659) [[archive]](https://www.web3isgoinggreat.com/archive/2026-03-12-0/0)\n- [Tweet by Martin Grabina](https://x.com/mgrabina/status/2032225132605833371) [[archive]](https://www.web3isgoinggreat.com/archive/2026-03-12-0/1)\n\nNo JavaScript? That's cool too! Check out the [Web 1.0](https://www.web3isgoinggreat.com/web1?cursor=2026-03-12-0&direction=next) version of the site to see more entries.",
+        "url": "https://www.web3isgoinggreat.com/?id=fake-ledger-app",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-14T22:06:18.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "On the Name of Apple’s Foldable iPhone",
+        "summary": "Apple's first foldable iPhone may not carry the speculative media-derived \"Fold\" branding after all, according to Chinese leaker [Digital Chat Station](https://weibo.com/6048569942/QzJ4xr79B).\n\n![Fold",
+        "content": "Apple's first foldable iPhone may not carry the speculative media-derived \"Fold\" branding after all, according to Chinese leaker [Digital Chat Station](https://weibo.com/6048569942/QzJ4xr79B).\n\n![Foldable iPhone 2023 Feature Iridescent 1](https://images.macrumors.com/t/XBA46E0KGSPoa_Rq6oViPmLbNgY=/400x0/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg?lossy)\nIn a new post on Weibo, the oft-accurate leaker claimed that Apple's book-style foldable could launch as the \"iPhone Ultra.\" Meanwhile, domestic Chinese manufacturers are allegedly deciding whether to follow Apple's lead by tentatively branding their own upcoming foldables as \"Ultra\" models, but likely with a lighter price tag – Apple's version is expected to cost between [$2,000 and $2,500](https://www.macrumors.com/2025/03/06/kuo-apple-foldable-iphone-book-style-2000/).\n\nIf Apple does adopt the Ultra name, it wouldn't be the first time. The company already uses the moniker to designate Apple Watch Ultra and CarPlay Ultra as premium products, not to mention its top-end M1 Ultra and M3 Ultra chips. Indeed, *Bloomberg*'s Mark Gurman reported in [March](https://www.bloomberg.com/news/newsletters/2026-03-08/apple-to-expand-ultra-lines-after-599-macbook-neo-3d-printed-aluminum-imacs-mmhpa12d) that Apple is considering \"Ultra\" branding for an OLED touchscreen MacBook and a future AirPods model with cameras, suggesting the label could spread across several product lines.\n\nBased on the latest rumors, Apple's foldable iPhone is widely expected to launch later this year, sometime between [September and December](https://www.macrumors.com/2026/03/26/iphone-fold-shipping-after-18-pro/). The device is expected to feature an approximately 5.3- to 5.5-inch outer display and a 7.8-inch inner screen, with a front-facing camera in both closed and open orientations, and a dual-lens rear camera.\n\nDigital Chat Station has more than three million followers on Weibo, and has a track record of accurately leaking Apple-related information. Still, as with all such reports, the details remain unconfirmed.",
+        "url": "https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-04-14T21:46:17.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Speaking of Tips",
+        "summary": "A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using",
+        "content": "A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.",
+        "url": "https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-04-14T21:19:29.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Has Hidden the Pre-Creator-Studio Versions of Keynote, Numbers, and Pages in the Mac App Store",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple has just made a change to its iWork lineup on the Mac, removing the old ver",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iwork-2026-liquid-glass.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple has just made a change to its iWork lineup on the Mac, removing the old versions of Pages, Keynote, and Numbers from the App Store and leaving just the newer builds that support Apple Creator Studio.\n\n## iWork apps now only available in Creator Studio versions on the Mac\n\nEarlier this year, Apple Creator Studio [launched](https://9to5mac.com/2026/01/28/apple-creator-studio-launches-today-and-its-an-incredible-value/) as a new bundle of pro-focused apps for creatives.\n\nThe bundle includes access to apps like Final Cut Pro, Pixelmator Pro, and Logic Pro, but also exclusive features in Apple’s free iWork apps: Pages, Keynote, and Numbers.\n\nOn the iPhone and iPad, Apple made the new Creator Studio features available [as updates](https://9to5mac.com/2026/01/28/pages-keynote-numbers-get-ios-26-updates-heres-everything-new/) to the existing App Store releases.\n\nOn the Mac though, the rollout was a [lot more confusing](https://9to5mac.com/2026/01/29/should-you-update-to-the-new-pages-numbers-keynote-and-freeform-on-mac/).\n\nApple kept the old iWork apps for Mac available on the App Store and launched entirely separate iWork versions with the Creator Studio features.\n\nStarting today, though, that oddity is no more. [Per Aaron Perris](https://x.com/aaronp613/status/2043721472573636622?s=61&t=a-bloX1n-TZ50ofqhetO1A), Apple has officially removed the old Pages, Keynote, and Numbers apps from the App Store.\n\n\tIf you’ve previously downloaded these apps, you’ll still find them in your download history and can re-download from there. But new users will only see one option on the App Store: the Creator Studio-compatible apps.\n\nTo be clear: Pages, Keynote, and Numbers are still entirely free for download on the Mac. You don’t need to be a Creator Studio subscriber to use the vast majority of features.\n\nHowever, one disadvantage of the freemium versions is that they include encouragements to subscribe to Creator Studio to unlock the full feature set.\n\nAre you still using the old iWork apps, or have you moved on to the new versions? Let us know in the comments.\n\n### Best Mac accessories\n\n- [AirPods Pro 3 (**limited-time $199 price**)](https://amzn.to/4pmmv1U)\n\n- [100W USB-C power adapter for fast charging](https://amzn.to/3wvpO0p)\n\n- [tomtoc protective MacBook sleeve bag](https://amzn.to/3YkJnlK)\n\n- [Twelve South aluminum laptop stand for MacBooks](https://amzn.to/3A0ilbr)\n\n- [Anker Docking Station USB-C with Ethernet, HDMI, SD, more](https://amzn.to/48eEmQq)\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/750x150-1.jpg?quality=82&strip=all)](https://amzn.to/4rDvqMk)",
+        "url": "https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-14T21:07:35.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June",
+        "summary": "April 13, 2026\n\n  Today, we are expanding our [spam policies](https://developers.google.com/search/docs/essentials/spam-policies)\n  to address a deceptive practice known as \"back button hijacking\", wh",
+        "content": "April 13, 2026\n\n  Today, we are expanding our [spam policies](https://developers.google.com/search/docs/essentials/spam-policies)\n  to address a deceptive practice known as \"back button hijacking\", which will become an explicit\n  violation of the \"[malicious practices](https://developers.google.com/search/docs/essentials/spam-policies#malicious-practices)\"\n  of spam policies, leading to potential spam actions.\n\n## What is back button hijacking?\n\n  When a user clicks the \"back\" button in the browser, they have a clear expectation: they want to\n  return to the previous page. Back button hijacking breaks this fundamental expectation. It occurs\n  when a site interferes with a user's browser navigation and prevents them from using their back\n  button to immediately get back to the page they came from. Instead, users might be sent to pages\n  they never visited before, be presented with unsolicited recommendations or ads, or are otherwise\n  just prevented from normally browsing the web.\n\n## Why are we taking action?\n\n  We believe that the user experience comes first. Back button hijacking interferes with the\n  browser's functionality, breaks the expected user journey, and results in user frustration. People\n  report feeling manipulated and eventually less willing to visit unfamiliar sites. As we've [stated before](https://developers.google.com/search/blog/2013/07/reminder-about-deceptive-behavior),\n  inserting deceptive or manipulative pages into a user's browser history has always been against our\n  [Google Search Essentials](https://developers.google.com/search/docs/essentials).\n\n  We've seen a rise of this type of behavior, which is why we're designating this an explicit violation\n  of our [malicious practices](https://developers.google.com/search/docs/essentials/spam-policies#malicious-practices)\n  policy, which says:\n\n> Malicious practices create a mismatch between user expectations and the actual outcome,\n> leading to a negative and deceptive user experience, or compromised user security or privacy.\n\n  Pages that are engaging in back button hijacking may be subject to\n  [manual spam actions](https://support.google.com/webmasters/answer/9044175#back-button-hijacking&zippy=%2Cback-button-hijacking)\n  or automated demotions, which can impact the site's performance in Google Search results. To give\n  site owners time to make any needed changes, we're publishing this policy two months in advance of\n  enforcement on June 15, 2026.\n\n## What should site owners do?\n\n  Ensure you are not doing anything to interfere with a user's ability to navigate their browser history.\n\n  If you're currently using any script or technique that inserts or replaces deceptive or\n  manipulative pages into a user's browser history that prevents them from using their back button\n  to immediately get back to the page they came from, you are expected to remove or disable it.\n\n  Notably, some instances of back button hijacking may originate from the site's included libraries\n  or advertising platform. We encourage site owners to thoroughly review their technical\n  implementation and remove or disable any code, imports or any configurations that are responsible\n  for back button hijacking, to ensure a helpful and non-deceptive experience for users.\n\n  If your site has been impacted by a manual action and you have fixed the issue, you can always let\n  us know by submitting a [reconsideration request](https://support.google.com/webmasters/answer/35843)\n  in Search Console. For questions or feedback, feel free to reach out on\n  [social media](https://www.linkedin.com/showcase/googlesearchcentral/) or discuss in\n  our [help community](https://support.google.com/webmasters/threads?thread_filter=(category:search_console)).",
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-04-14T20:25:18.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider",
+        "summary": "[\n                                                    MacScene\n                                            ](https://macscene.net/)",
+        "content": "[\n                                                    MacScene\n                                            ](https://macscene.net/)",
+        "url": "https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-04-14T16:20:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "John Calhoun on Steve Lemay",
+        "summary": "[](https://news.ycombinator.com/vote?id=47297653&how=up&goto=item%3Fid%3D47297653)\n\nI think Steve Lemay is a good guy. I kind of fought with him when I was an engineer, he was a young, new designer (a",
+        "content": "[](https://news.ycombinator.com/vote?id=47297653&how=up&goto=item%3Fid%3D47297653)\n\nI think Steve Lemay is a good guy. I kind of fought with him when I was an engineer, he was a young, new designer (at Apple). But I always respected his point of view—even when we argued.\n\nWhen Jobs came back to Apple in the latter 1990's \"Design\" slowly came to have an outsized role. I was one half of the engineering team that owned Preview (the application) when Steve Lemay became a seemingly regular presence in the hallway. As the new \"Aqua\" UI elements arrived in the OS like the \"drawer\" and toolbar, Steve and his boss (forgetting his name right now—Greg Somebody?) were often making calls about our UI implementation.\n\nThe bigger argument I remember with Steve revolved around the *drawer* UI element. With regard to PDF's, (the half of *Preview* that I worked on, another engineer handled images), the drawer was to display thumbnails for each page. If the PDF had a TOC (table of contents) the drawer is where we would display that as well.\n\nSo when you opened a PDF in Preview, the PDF content of course would appear in the large window—thumbnails, TOC (later search) would be relegated to a vertical strip of *drawer* real estate alongside the window—the user could open/close the drawer if they liked to focus perhaps on the content.\n\nSteve Lemay insisted the drawer live on the right side of the window [1]. This was inexplicable to me. I saw the layout of *Preview* as hierarchical: the left side of the content driving the right side. You click a thumbnail on the left (in the drawer) the window content on the right changes to reflect the thumbnail clicked on.\n\nSteve said, no, drawer on the right.\n\n\"Why? Why the hell would we do that?\"\n\nSteve was quick: \"The Preview app is about *the content*. The content is king.\"\n\nI admit that I still disagreed with him after the exchange, but I had a new respect for him as a designer because he was able to articulate a rationale for his decision. I suppose I was prejudiced to expect hand-waving from designers.\n\n(Coda: some years later after I had left the Preview team, an engineer still on the app let me know that the thumbnails, etc, were at last moving to the left side of the app. The \"drawer\" as as a UI element had by this time  gone away: resizable split-views were the replacement.)\n\n(Addendum: Steve also invented the early Safari URL text field that also doubled as a progress bar. Instant hate from me when I saw it: it was as if the text of the URL you entered was being *selected* as the page loaded. So I'm old-school and Steve had some new ideas…)\n\n[1] Localization was such that in countries where right-to-left was dominant, the drawer would of course follow suit.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47302731&how=up&goto=item%3Fid%3D47297653)\n\nSuppose someone had just said, make it a preference in a checkbox whether it goes on the left or the right. Would these titans have just stopped arguing, turned on whoever made the suggestion, and destroyed them together?\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47305891&how=up&goto=item%3Fid%3D47297653)\n\nSounds like the road to checkbox hell. Not to mention the added costs of supporting both the code and users with varying setting combos.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47309516&how=up&goto=item%3Fid%3D47297653)\n\nGenerally, you're right about your first point. Apple (and perhaps all \"designers\") want to *get it right*, not leave it to the whims of the user.\n\nEven if you allow for both options, you can still have a long drawn out argument about what the *default* should be. (And then if you can agree on the default, the thought raises its head—maybe we ought to just go with that alone and keep it simple.)\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47302202&how=up&goto=item%3Fid%3D47297653)\n\nThere is at least room to hope that Lemay may be able to take a more nuanced, reasonable approach. Believing that Preview.app needs to be designed with the \"content is king\" mindset doesn't necessarily mean believing that \"content is king\" needs to be the top priority everywhere throughout the OS even to the detriment of usability. After all, Preview.app is a pretty extreme example: displaying content is its primary purpose and almost the *sole* purpose; its editing and annotation capabilities are minimal and far less frequently used than the core functionality of viewing PDFs and images.\n\nBut even though I'm *hopeful*, I'm definitely not holding my breath for a quick turnaround and big mea culpa from Apple. I bought a new laptop last fall specifically to avoid using Liquid Glass for as long as possible.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47306337&how=up&goto=item%3Fid%3D47297653)\n\n```\n  I had a new respect for him as a designer because he was able to articulate a rationale for his decision.\n\n```\n\nThat would be more encouraging if Apple under Tim Cook didn't suffer from bad UX *that sounds good when put into words*.\n\nTim Cook and the other c-suite Apple execs have bad taste.\n\nIf they had better taste, they never would have approved text layout that automatically applies inconsistent kerning to squish long menu items into narrow spaces. It's a tasteless idea that sounds great when put into words.\n\nFlat UI probably sounded brilliant as a spoken sales pitch: *\"We'll make the GUI honest, direct, elegant: the clarity of highway signage\"*. In practice, the Scott Forstall era was both easier to understand, and prettier.\n\n'Liquid Glass' probably sounded fantastic when put into words. Unfortunately, there are some implementations of a 'lickable' GUI that are tasteless.\n\nHope springs eternal for some people. I personally gave up on Apple shortly after SJ died.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47309534&how=up&goto=item%3Fid%3D47297653)\n\n> *Tim Cook and the other c-suite Apple execs have bad taste.*\n\n> *If they had better taste, they never would have approved text layout that automatically applies inconsistent kerning to squish long menu items into narrow spaces. It's a tasteless idea that sounds great when put into words.*\n\nI have a feeling what happened was that the C-Suite only watched a Keynote or live product demo that, like everything Apple presents to the public, was highly curated and scripted to win approval.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47309475&how=up&goto=item%3Fid%3D47297653)\n\nYou're right that hope does spring eternal for me. To bastardize Churchill, Apple has the worst ecosystem, except for all the others out there.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47297718&how=up&goto=item%3Fid%3D47297653)\n\n> Steve Lemay insisted the drawer live on the right side of the window [1]. This was inexplicable to me.\n\nMakes some sense to me if, as I suspect, people tend to place their windows aligned to the left of the screen. If that’s the case, opening the drawer to the left of its container (the window) would require not sliding the drawer out, but sliding the window to the right to make room for the drawer.\n\nI think that that’s a reason the drawer analogy doesn’t really make sense. Another is that the question “what do you store in a drawer?” certainly isn’t “page thumbnails and table of contents”. “Rarely used tools” or “spare paper” are better answers.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47297833&how=up&goto=item%3Fid%3D47297653)\n\n\"…but sliding the window to the right to make room for the drawer.\"\n\nYou're right about that. (You should be a designer, ha ha.)\n\nI think the \"solution\" was that the drawer was open by default when a new document opened. Therefore the window was placed in a way that already allowed for the drawer width.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47302215&how=up&goto=item%3Fid%3D47297653)\n\nWouldn't help if the user closes the drawer and moves it to the left - which users used to having apps to the left (and to a left to right reading culture) would.\n\nThe main problem I see is the mouse pointer has reason to be on the proximity of the left side: the Apple menu is there, the most important dock elements (on a bottom dock) are there - or the whole dock for a left-placed dock), the menubar File, Edit, etc, and the most common icons for icon bar operations are there.\n\nAnd if 'content is king', navigating the content (TOC, search, thumbnail) should also be king, not just the current viewing page.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47309544&how=up&goto=item%3Fid%3D47297653)\n\nYeah, probably ultimately why the drawer disappeared in favor of the resizable split-view.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47298003&how=up&goto=item%3Fid%3D47297653)\n\nIt's not a perfect equivalency but putting the drawer on the right side seems to be a bit inconsistent with their own Finder display (Show Items as Columns) where you drive from left-to-right with the right-most being a preview of a media asset such as a picture for example.\n\nBut I wasn't an early user of MacOS, I don't know when this Column layout was first introduced.\n\n*> The Preview app is about the content. The content is king.*\n\nIf \"left-hand\" is king I wonder if they would have reversed the drawer's position for localization in countries with RTL languages.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47424887&how=up&goto=item%3Fid%3D47297653)\n\nDrawers were a big feature of early MacOS X, as an alternative to NEXT's multiple columns. App's inherited from NEXT (email, finder, etc.) used columns still, but newer apps used drawers.\n\nIt was really well integrated, if the window was too close to the edge, the window would move as the drawer opened in a single smooth animation.\n\nXCode in particular had drawers everywhere.\n\nAs iTunes became successful, and everything wanted to be brushed metal, drawers began to disappear in favour of columns.\n\nIt's quite hard on the modern internet to find images of that old UI, but here's Preview with its right-hand-side drawer: [https://mac.elated.com/2007/05/09/displaying-images-in-the-r...](https://mac.elated.com/2007/05/09/displaying-images-in-the-right-order-in-preview/)\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47301548&how=up&goto=item%3Fid%3D47297653)\n\n\"I wonder if they would have reversed the drawer's position for localization in countries with RTL languages.\"\n\nI believe AppKit did so.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47306884&how=up&goto=item%3Fid%3D47297653)\n\n“I admit that I still disagreed with him after the exchange, but I had a new respect for him as a designer because he was able to articulate a rationale for his decision.”\n\nAny competent designer gets really good at justifying their decisions. Everyone has an opinion about design and thinks that their taste is correct.\n\nI’m glad I don’t have to deal with that on the software side.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47325258&how=up&goto=item%3Fid%3D47297653)\n\nI had to deal with that on the software side.\n\nThe ability to *win arguments* about technical choices is not always aligned with the ability to *make* good technical choices.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47297786&how=up&goto=item%3Fid%3D47297653)\n\nLove this kind of behind the scenes -- thanks for sharing!\n\nPersonally, I think in a way you both ended up right. Content *is* king. But with the iPad (my favorite PDF viewer) as an important part of the Preview landscape now, I view the right side as where content should live.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47419247&how=up&goto=item%3Fid%3D47297653)\n\nGreg Christie\n\nMy memory is hazy, but I thought drawers had a preferred side but would open on the other side if there was no room.\n\n![](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=47302744&how=up&goto=item%3Fid%3D47297653)\n\n> Steve was quick: \"The Preview app is about the content. The content is king.\"\n\n> I admit that I still disagreed with him after the exchange, but I had a new respect for him as a designer because he was able to articulate a rationale for his decision.\n\nThat's a soundbite masking as a rationale that is really only \"because I said so\". He may have been right, there may have been more to it than this but if that's the extent? As another poster said, this kind of reflexive thought is part of Apple's current design challenges.",
+        "url": "https://news.ycombinator.com/item?id=47297653",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-14T19:26:25.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Steven Soderbergh Twice Pitched James Bond Projects",
+        "summary": "At this point, it’s fairly well known that Oscar-winning filmmaker **Steven Soderbergh** [once had conversations with Barbara Broccoli about potentially doing a James Bond movie](https://theplaylist.n",
+        "content": "At this point, it’s fairly well known that Oscar-winning filmmaker **Steven Soderbergh** [once had conversations with Barbara Broccoli about potentially doing a James Bond movie](https://theplaylist.net/steven-soderbergh-bond-film-coen-brothers-oceans-20201223/) and that nothing came of it. What had remained fuzzier over the years was the scale of those ideas. [In a recent Playlist interview for his new art drama “The Christophers,”](https://theplaylist.net/steven-soderbergh-on-the-christophers-legacy-grievance-and-why-ian-mckellens-artist-character-refused-to-evolve-interview-20260408/) Soderbergh laid out the totality of how far those Bond conversations went, revealing that he pitched Broccoli two separate times in two separate eras—and that the second time, he came in with something so ambitious it would have effectively split the property in two. “\n\nThe first pitch, he said, goes back to 2008, and it was already pretty radical by Bond standards. “I had pitched in 2008 the idea to Barbara Broccoli of a parallel franchise,” Soderbergh said. “Set in the ’60s, R-rated, violent, sexy. Fictional backstory to real historical events, different actor, different universe.”\n\n[READ MORE: Steven Soderbergh On ‘The Christophers,’ Legacy, Grievance And Why Ian McKellen’s Artist Character “Refused To Evolve” [Interview]](https://theplaylist.net/steven-soderbergh-on-the-christophers-legacy-grievance-and-why-ian-mckellens-artist-character-refused-to-evolve-interview-20260408/)\n\nThis is almost certainly the project that **[Tony Gilroy revealed to The Playlist](https://theplaylist.net/tony-gilroy-reveals-that-he-steven-soderbergh-had-a-james-bond-pitch-they-took-to-barbara-broccoli-20250620/)** last year and one Soderbergh has mentioned in the past. The timing fits too: Soderbergh and Gilroy were already in close creative orbit then, with Soderbergh helping back “**Michael Clayton**” through **Section Eight** and supporting Gilroy’s move into directing, and Gilroy said he had been pegged to write this Bond idea after he and Soderbergh had cooked it up together.\n\nThat version was designed to open up a different, more lo-fi, stripped-down, and cost-effective way of making Bond movies, but not a replacement for them. “[It would be] cheaply made, where you get people like me, who are interested in that approach to do one of these things,” Soderbergh explained. “It’s just another lane that exists totally separate from the normal Bond movies.”\n\nBroccoli and company, he said, were at least open enough to hear it out. “They were intrigued,” Soderbergh said. “But didn’t move forward.”\n\nThen he went back with something even bigger.\n\n“So, when I got back into the conversation [a few years] later, then I was pitching a twofer,” he said. “Which was, ‘Yeah, I’ll do the contemporary extravaganza. But I also want to do the other one, after. Like, I want to do both.’”\n\nThat later push, Soderbergh noted, came after “**Skyfall**.” What that meant in practice was a two-track strategy: one large-scale, official contemporary Bond movie with **Daniel Craig**—effectively the slot that became 2015’s “**Spectre**”—and then a second film in the stripped-down period mold he had already been chasing. So, the concept wasn’t tweaking the franchise; it was a bid to expand it beyond just James Bond’s 007.\n\n“To be fair to them, it really was a twofer,” he said. “I was like, I want to do both, I have ideas for both. But it’s all or nothing. You’ve either got to do both of them, you can’t have just one or the other, and I think that was just—that was a little aggressive.”\n\nThe story I was told years back was that Soderbergh had also loosely floated the idea of this lo-fi Bond lane as a filmmaker-driven offshoot corridor [where someone like **David Fincher** or **Quentin Tarantino** might take a swing](https://theplaylist.net/tony-gilroy-reveals-that-he-steven-soderbergh-had-a-james-bond-pitch-they-took-to-barbara-broccoli-20250620/). Soderbergh confirmed as much, but admitted that it was more of a conceptual idea than anything remotely formal.\n\n“Well, I hadn’t talked to any of those people yet,” he said. “I was just kind of, you know, pitching a hardcore auteur, low-budget period Bond.”\n\nWhile the concept sounds astonishing, the notoriously controlling (and arguably risk-averse) Broccoli’s likely saw it as both appealing and problematic. Bond has always flirted with reinvention, but usually inside a tightly managed commercial frame. What Soderbergh was describing was something else entirely: one lane for the giant contemporary tentpole, another for leaner, riskier, filmmaker-led riffs with a different actor, a different universe, and a much rougher edge.\n\nBond is, of course, under different stewardship now. **[Amazon MGM Studios gained creative control of the franchise in 2025](https://theplaylist.net/bond-amazon-shelled-out-an-extra-1-billion-for-control-producers-are-said-to-liken-loss-of-franchise-to-a-death-in-the-family-20250221/)** through a joint venture with **Barbara Broccoli** and **Michael G. Wilson**, and the company [later brought in **Amy Pascal** and **David Heyman** to produce the next Bond film.](https://theplaylist.net/amazon-mgm-eying-amy-pascal-david-heyman-to-take-over-as-bond-franchise-producers-20250321/)\n\nBut much like his thoughts on “**The Hunt For Ben Solo**” idea he developed with **Adam Driver** for “**Star Wars**”—i.e., [he’s no longer interested in revisiting it, even under new **Disney** leadership](https://theplaylist.net/steven-soderbergh-says-hes-not-pursuing-his-ben-solo-idea-even-with-new-disney-lucasfilm-leadership-if-it-was-gonna-happen-it-would-have-happened-20260407/)—Soderbergh isn’t attracted to dragging old Bond pitches back out just because the corporate landscape has changed. “I’m just a big believer in things—if they’re supposed to happen, they happen,” he said, stressing his disinterest and putting to bed the idea that he could re-pitch these ideas to Amazon MGM. “I’ve always followed that. It’s always worked in the sense that I’ve never regretted not revisiting something that didn’t happen many years later in the hopes that maybe now is the time.”\n\n[Support independent movie journalism to keep it alive. Sign up for The Playlist Newsletter. All the content you want and, oh, right, it’s free](https://theplaylist.net/newsletter).\n\nFor him, ideas like these belong to a specific moment. “It has to happen now,” he said. “Because these are zeitgeist-y things, movies, you know? And so, it’s just impossible for me not to feel like that was the time to do it.”\n\nGiven Amazon’s reported intentions of maximizing the brand with spin-offs and other potential ideas, it’s not hard to conceive of the company broadly applying some of these ideas to the franchise. But Soderbergh is not interested in looking backward. “Now is the time to do something else.”\n\n*“The Christophers” opens in theaters on April 10 via **NEON**.[ Read our review here.](https://theplaylist.net/the-christophers-review-ian-mckellen-michaela-coel-spar-in-steven-soderberghs-smart-art-world-drama-tiff-20250908/)*\n\n[![playlist logo](https://cdn.theplaylist.net/wp-content/uploads/2026/01/16161306/playlist-logo-150x150.jpg)](https://theplaylist.net/)",
+        "url": "https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-14T00:30:46.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Back button hijacking is going away ",
+        "summary": "When websites are blatantly hostile, users close them to never come back. Have you ever downloaded an app, realized it was deceptive, and deleted it immediately? It's a common occurrence for me. But t",
+        "content": "When websites are blatantly hostile, users close them to never come back. Have you ever downloaded an app, realized it was deceptive, and deleted it immediately? It's a common occurrence for me. But there is truly hostile software that we still end up using daily. We don't just delete those apps because the hostility is far more subtle. It's like the boiling frog, the heat turns up so slowly that the frog enjoys a nice warm bath before it's fully cooked.\n\nWith clever hostile software, they introduce one frustrating feature at a time. Every time I find myself on LinkedIn, it's not out of pleasure. Maybe it's an email about an enticing job. Maybe it's an article someone shared with me. Either way, before I click the link, I have no intention of scrolling through the feed. Yet I end up on it anyway, not because I want to, but because I've been tricked.\n\nYou see, LinkedIn employs a trick called back button hijacking. You click a LinkedIn URL that a friend shared, read the article, and when you're done, you click the back button expecting to return to whatever app you were on before. But instead of going back, you're still on LinkedIn. Except now, you are on the homepage, where your feed loads with enticing posts that lure you into scrolling.\n\nHow did that happen? How did you end up on the homepage when you only clicked on a single link? That's back button hijacking.\n\n![hijacker](https://cdn.idiallo.com/images/assets/644/hijacker.jpg)\n\nHere's how it works. When you click the original LinkedIn link, you land on a page and read the article. In the background, LinkedIn secretly gets to work. Using the `location.replace()` JavaScript method, it swaps the page's URL to the homepage. The `replace` method doesn't add an entry to the browser's history. Then LinkedIn manually pushes the original URL you landed on into the history stack. This all happens so fast that the user never notices any change in the URL or the page.\n\nAs far as the browser is concerned, you opened the LinkedIn homepage and then clicked on a post to read it. So when you click the back button, you're taken back to the homepage, the feed loads, and you're presented with [the most engaging post](https://idiallo.com/blog/the-one-shoe-ceo-linkedin-stories) to keep you on the platform.\n\nIf you spent a few minutes reading the article, you probably won't even remember how you got to the site. So when you click back and see the feed, you won't question it. You'll assume nothing deceptive happened.\n\nWhile LinkedIn only pushes you one level down in the history state, more aggressive websites can break the back button entirely. They push a new history state every time you try to go back, effectively trapping you on their site. In those cases, your only option is to close the tab.\n\nI've also seen developers unintentionally break the back button, often when implementing a search feature. On a search box where each keystroke returns a result, an inexperienced developer might push a new history state on every keystroke, intending to let users navigate back to previous search terms. Unfortunately, this creates an excessive number of history entries. If you typed a long search query, you'd have to click the back button for every character (including spaces) just to get back to the previous page. The correct approach is to only push the history state when the user submits or leaves the search box (`onblur`).\n\nAs of yesterday, Google announced [a new spam policy](https://developers.google.com/search/blog/2026/04/back-button-hijacking) to address this issue. Their reasoning:\n\n> People report feeling manipulated and eventually less willing to visit unfamiliar sites. As we've stated before, inserting deceptive or manipulative pages into a user's browser history has always been against our Google Search Essentials.\n\nAny website using these tactics will be demoted in search results:\n\n> Pages that are engaging in back button hijacking may be subject to manual spam actions or automated demotions, which can impact the site's performance in Google Search results. To give site owners time to make any needed changes, we're publishing this policy two months in advance of enforcement on June 15, 2026.\n\nI'm not sure how much search rankings affect LinkedIn specifically, but in the grand scheme of things, this is a welcome change. I hope this practice is abolished entirely.",
+        "url": "https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Tue, 14 Apr 2026 12:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Standing on the shoulders of Homebrew",
+        "summary": "[zerobrew](https://github.com/lucasgelfond/zerobrew) and [nanobrew](https://github.com/justrach/nanobrew) have been doing the rounds as fast alternatives to Homebrew, one written in Rust with the tagl",
+        "content": "[zerobrew](https://github.com/lucasgelfond/zerobrew) and [nanobrew](https://github.com/justrach/nanobrew) have been doing the rounds as fast alternatives to Homebrew, one written in Rust with the tagline “uv-style architecture for Homebrew packages” and the other in Zig with a 1.2 MB static binary and a benchmark table comparing itself favourably against the first. Both are upfront, once you scroll past the speedup numbers, that they resolve dependencies against homebrew-core, download the bottles that Homebrew’s CI built and Homebrew’s bandwidth bill serves, and parse the cask definitions that Homebrew contributors maintain.\n\nThey’re alternative clients for someone else’s registry, which is a perfectly reasonable thing to build, but the framing as a replacement glosses over what running a system package manager actually involves.\n\nnanobrew’s README has a “what doesn’t work yet” section listing Ruby `post_install` hooks, build-from-source with custom options, conditional blocks in Brewfiles, and any complex Ruby DSL, while zerobrew handles source builds by falling back to “Homebrew’s Ruby DSL”, which I read as shelling out to the thing it’s meant to be replacing.\n\nThe parts of Homebrew they skip are the parts that are slow for a reason: evaluating arbitrary Ruby to discover what a package needs, running post-install hooks that touch the filesystem in package-specific ways, and handling the long tail of formulae that don’t reduce to “download this tarball and symlink it into a prefix”. Implementing only the bottle path and declaring the rest out of scope covers the easy 80% of packages and most of the benchmark wins.\n\nzerobrew’s table reports a 4.4x speedup installing ffmpeg from a warm cache, nanobrew gets the same operation down to 287 milliseconds, and I keep trying to picture the developer who installs ffmpeg, uninstalls it, and installs it again on the same machine often enough for warm-cache reinstall time to be the number they care about.\n\nA warm install is measuring how quickly you can clonefile a directory out of a content-addressable store, which is a fine thing to optimise but says almost nothing about the experience of setting up a new laptop or adding a tool you didn’t have yesterday. The cold-cache numbers are much closer together, occasionally slower than Homebrew when the bottle is large, because at that point everyone is waiting on the same CDN and there’s no clever data structure that makes bytes arrive faster.\n\nI wrote about [why uv is fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) a few months ago. The language rewrite was the least interesting part of that story. uv is fast because PEP 658 finally let Python resolvers fetch package metadata without executing `setup.py`, and because uv dropped eggs and `pip.conf` and a dozen other legacy paths that pip still carries. Homebrew already shipped its equivalent of PEP 658 in the `formula.json` API, and that’s the thing that made zerobrew and nanobrew possible in the first place, neither of them is solving the metadata-without-Ruby-evaluation problem because Homebrew already solved it for them.\n\nzerobrew’s content-addressable store and APFS clonefile tricks would work equally well from Ruby, and nanobrew’s parallel downloads have been on by default in Homebrew since [4.7.0 last November](https://github.com/Homebrew/brew/pull/20975). The architectural choices are real improvements but they aren’t “we rewrote it in Zig” improvements, and a zero-startup-time binary matters a lot less when the operation behind it is a 40 MB download either way.\n\nMost of the work in a package manager is the long tail: formulae that want a specific libiconv on an old macOS release, casks with notarisation quirks, post-install scripts that edit config files in ways you can’t predict in advance. None of it benchmarks. Whether either project still has a maintainer paying attention a year from now, once those issues start piling up in the tracker, is an open question. Both also chose Apache-2.0 rather than inheriting Homebrew’s BSD-2-Clause, which is legally fine and suggests the authors see themselves as building independent projects rather than contributing to the ecosystem they depend on.\n\nThe formula format is Turing-complete Ruby, which means the package definition and the client that interprets it are effectively the same artefact, and any move toward declarative package data has to either break the existing formulae or ship a Ruby evaluator as part of every client forever.\n\nThe [formula API](https://formulae.brew.sh/api/formula.json) currently lists 8,308 formulae in homebrew-core and the [cask API](https://formulae.brew.sh/api/cask.json) another 7,617 casks, plus [roughly 34,000 `homebrew-*` Ruby repositories on GitHub](https://github.com/search?q=homebrew-+in%3Aname+language%3Aruby&type=repositories) that look like third-party taps, all written against an internal DSL that was never meant to be a stable interchange format. The fast clients get to sidestep that problem by declaring it out of scope, which is a freedom the project they depend on doesn’t have.\n\nThe bottleneck isn’t Rust or Ruby, it’s the absence of a stable declarative package schema. Until that exists, every fast client is fast because Homebrew already did the slow work.",
+        "url": "https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-14T10:00:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch",
+        "summary": "- [News](https://www.aboutamazon.com/amazon-news-today)\n- [Company news](https://www.aboutamazon.com/news/company-news)\n\n## Amazon to acquire Globalstar and expand Amazon Leo satellite network \n\n![](h",
+        "content": "- [News](https://www.aboutamazon.com/amazon-news-today)\n- [Company news](https://www.aboutamazon.com/news/company-news)\n\n## Amazon to acquire Globalstar and expand Amazon Leo satellite network \n\n![](https://assets.aboutamazon.com/2e/65/6985350c4da493ba687438e84e87/amazon-globalstar-apple-amazon-news-ds-04-14-26.jpg)\n\nGlobalstar satellites, radio frequency spectrum, and operational expertise will enable Amazon Leo to add Direct-to-Device (D2D) services to future generations of its low Earth orbit satellite network.\n\nNew Amazon Leo D2D system will help mobile network operators extend voice, text, and data services to customers beyond the reach of terrestrial cellular networks.\n\nAmazon and Apple enter agreement for Amazon Leo to power satellite services for supported iPhone and Apple Watch models, allowing users to text emergency services, message friends and family, request roadside assistance, and more.\n\nToday Amazon.com, Inc. and Globalstar, Inc. announced that they have entered into a definitive merger agreement under which Amazon will acquire Globalstar, enabling Amazon Leo to add direct-to-device (D2D) services to its low Earth orbit satellite network and extend cellular coverage to customers beyond the reach of terrestrial networks. In addition, Amazon and Apple announced an agreement for Amazon Leo to power satellite services for iPhone and Apple Watch1, including Emergency SOS via satellite. The new capabilities are part of Amazon’s long-term vision for space-based connectivity, and Amazon plans to work with mobile network operators (MNOs) and additional partners to deliver on that vision and extend reliable, high-speed connectivity to customers, no matter where they are in the world. \n\n“There are billions of customers out there living, traveling, and operating in places beyond the reach of existing networks, and we started Amazon Leo to help bridge that divide,” said Panos Panay, Senior Vice President of Devices & Services, Amazon. “By combining Globalstar’s proven expertise and strong foundation with Amazon’s customer-obsession and innovation, customers can expect faster, more reliable service in more places—keeping them connected to the people and things that matter most. We’re excited to support Apple users through the Leo D2D system, and look forward to working with mobile network partners to help extend coverage to every corner of the planet.”\n\n## Amazon acquires Globalstar\n\nGlobalstar is a leading mobile satellite services (MSS) operator, a pioneer in non-geostationary orbit (NGSO) satellites and D2D technology, and a provider of critical and emergency communications to customers around the world. As part of the agreement, Amazon will acquire Globalstar’s existing satellite operations, infrastructure, and assets, including MSS spectrum licenses with global authorizations. Combining Globalstar’s spectrum and established MSS capabilities with the scale, performance, and reach of Amazon Leo will enable Amazon to deliver continuous connectivity for consumer, enterprise, and government customers around the world—whether they’re living or working in remote areas or simply moving in and out of traditional cellular networks. Globalstar’s existing satellite fleet and its new satellites with expanded capabilities will operate alongside the Amazon Leo broadband system and Amazon’s planned direct-to-device satellite system.\n\n“We have long believed low Earth orbit satellite constellations offer the most effective path to truly connect users and devices anywhere and anytime,” said Paul Jacobs, CEO, Globalstar. “For more than 30 years, Globalstar has executed on this vision through sustained, long-term investment in technological innovation, operational excellence, and development of globally harmonized spectrum across both satellite and terrestrial applications. The combination with Amazon Leo will advance innovations in digital connectivity that will benefit our customers and advance us toward a more intelligent, continuously connected world.”\n\n## Amazon Leo Direct-to-Device (D2D)\n\nBeginning in 2028, Amazon Leo will deploy its own next-generation D2D satellite system, allowing Amazon to deliver more advanced voice, data, and messaging services to mobile phones and other cellular devices. The Leo D2D system will offer substantially higher spectrum use and efficiency than legacy direct-to-cell systems, which translates into faster speeds and better performance for customers. It will also integrate seamlessly with Amazon’s first- and second-generation Leo systems, forming a powerful, unified network that combines fixed and mobile satellite services to support a wide range of customers and use cases. The complete Amazon Leo network will include thousands of advanced satellites in low Earth orbit and have enough capacity to support hundreds of millions of customer endpoints around the world.\n\n## Amazon Leo to power Apple satellite features\n\nIn addition to the agreement with Globalstar, Amazon and Apple signed an agreement to provide satellite connectivity for current and future iPhone and Apple Watch features. Globalstar currently partners with Apple to power satellite service on iPhone 14 or later, as well as Apple Watch Ultra 3, allowing users to text emergency services, message friends and family, request roadside assistance, and share their location. With the new Amazon-Apple agreement, Amazon will continue to support iPhone and Apple Watch models currently using Globalstar’s existing and planned upcoming low Earth orbit satellite constellations, being manufactured by MDA Space, and collaborate with Apple on future satellite services using Amazon Leo's expanded satellite network.\n\n“Since launching more than three years ago, our groundbreaking safety service Emergency SOS via satellite has helped save many lives around the world—from a scout troop stranded on a winter hike in British Columbia, to a woman who was airlifted to safety in Colorado after her car rolled down a 250-foot cliff,” said Greg Joswiak, Senior Vice President of Worldwide Product Marketing, Apple. “Apple and Amazon have a long and proven track record of working together through Amazon’s core infrastructure services, and we look forward to building on that collaboration with Amazon Leo. This ensures our users will continue to have access to the vital satellite features they have come to rely on, including Emergency SOS, Messages, Find My, and Roadside Assistance via satellite, so they can stay safe and connected while off the grid.”\n\n## Connecting more customers globally\n\nThe agreements with Globalstar and Apple will promote innovation and competition across the space, satellite, and telecommunications sector, and support efforts to close the digital divide globally:\n\n- Accelerates innovation and expands connectivity options: By combining Amazon's low Earth orbit satellite network with Globalstar's infrastructure and spectrum assets, the acquisition enables faster deployment of D2D connectivity at scale—reaching areas where terrestrial deployment is delayed, cost-prohibitive, or vulnerable to disruption. It will also mean more reliable mobile data and communications services to consumers, businesses, and governments, while setting new benchmarks for innovation and giving customers greater choice, flexibility, and value in a dynamic and highly competitive satellite communications sector.\n- Strengthens resilience for private and public sector: D2D satellite connectivity provides critical fallback capabilities when terrestrial networks fail during hurricanes, wildfires, floods, and other disasters—and its utility extends well beyond emergency situations. Higher-capacity connectivity materially improves emergency response coordination while also enabling a broad range of everyday and mission-critical use cases, from emergency messaging, search-and-rescue, and maritime distress, to remote workforce connectivity, continuity of government operations, and rural broadband extension. In day-to-day operations, D2D service closes coverage gaps that terrestrial networks alone cannot address.\n- Drives economic growth and closes the digital divide: Amazon's multibillion-dollar investment in Amazon Leo is already creating broad economic opportunity across the U.S., Europe, and other regions around the world. These new agreements with Globalstar and Apple expand that roadmap, supporting high-value jobs in engineering, manufacturing, and operations while extending connectivity to enterprises, IoT applications, fleets, and supply chains operating beyond terrestrial reach—enabling productivity gains, new business models, and connecting underserved populations globally.\n\nKey Transaction Terms\nUnder the terms of the merger agreement, prior to closing, Globalstar stockholders will elect to receive for each share of Globalstar common stock they own either (i) $90.00 in cash or (ii) 0.3210 shares of Amazon common stock with a value capped at $90.00 per share. This consideration is subject to a proration mechanism that caps aggregate cash elections to a maximum of 40% of total Globalstar shares, and automatically converts excess cash consideration into stock consideration on a pro rata basis. The total transaction consideration is also subject to a downward adjustment of a maximum $110 million in the event Globalstar does not achieve certain operational milestones.\n\nGlobalstar stockholders holding approximately 58% of the combined voting power of the outstanding shares of Globalstar common stock have approved the transaction by written consent. The transaction is expected to close in 2027, subject to the satisfaction of certain closing conditions, including receipt of regulatory approvals and the achievement by Globalstar of certain HIBLEO-4 replacement satellite milestones.\n\nAbout Amazon\nAmazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon. For more information, visit [amazon.com/about](https://www.aboutamazon.com/) and follow [@AmazonNews](https://x.com/amazonnews).\n\nAbout Amazon Leo\nAmazon Leo is Amazon’s low Earth orbit satellite network. Its mission is to deliver fast, reliable internet to customers beyond the reach of existing networks, from individual households and small businesses to large enterprise and government customers—and anyone in between. Amazon Leo is powered by an initial constellation of more than 3,000 satellites, connected to a secure, global network of ground gateway antennas and dedicated fiber, and includes a lineup of compact, high-performance antennas—Leo Nano, Leo Pro, and Leo Ultra—that communicate with satellites passing overhead. The entire system is designed, built, and operated in-house at Amazon, and aims to connect tens of millions of customers around the world. [Learn more about Amazon Leo](https://leo.amazon.com/).\n\nAbout Globalstar, Inc.\nGlobalstar is a global telecommunications provider connecting what matters most. Through our industry-leading low Earth orbit (LEO) satellite constellation and licensed Band 53/n53 spectrum, we deliver reliable satellite and terrestrial connectivity solutions that empower customers worldwide to connect, transmit, and communicate smarter.\nOur comprehensive connectivity ecosystem includes software-defined, purpose-built private wireless network platform, coupled with Globalstar Band 53™ in XCOM RAN™ and trusted GPS messengers Saved by SPOT™ for safety and personal communication for business and enterprise applications.\n\nServing business, enterprise, and consumer markets across the globe, Globalstar supports applications that track and protect assets, enable automation, enhance operational efficiency, and safeguard lives. With unmatched reach and a relentless focus on innovation, and mission-critical performance, we're redefining what's possible for global connectivity.\nFor more information, visit [www.globalstar.com](http://www.globalstar.com/).\n\nCautionary Statement Regarding Forward-Looking Statements\n\nThis communication includes certain “forward-looking statements” within the meaning of the federal securities laws, including, but not limited to, those statements related to the proposed transactions, including financial estimates and statements as to the expected timing, completion, and effects of the proposed transactions. These forward-looking statements are generally identified by the words “believe,” “project,” “might,” “could,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions, although not all forward-looking statements contain these identifying words.\n\nAny statements about Amazon.com, Inc.’s (“Amazon”), Globalstar, Inc.’s (“Globalstar”) or the combined company’s plans, objectives, expectations, strategies, beliefs, or future performance or events constitute forward-looking statements. These forward-looking statements, including statements regarding the proposed transactions, are based on Amazon’s and Globalstar’s current expectations and assumptions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks, and changes in circumstances that may differ materially from those expressed or implied by such forward-looking statements, which are neither statements of historical fact nor guarantees or assurances of future performance. There is no assurance that these future events will occur as anticipated or that our results, estimates, or assumptions will be correct, and we caution investors and all others not to place undue reliance on such forward-looking statements. Actual results could differ materially from those currently anticipated due to a number of risks and uncertainties, many of which are beyond Amazon’s and Globalstar’s control. \n\nImportant factors, risks, and uncertainties that could cause actual results to differ materially from such plans, estimates, or expectations include but are not limited to: (i) the ability to complete the proposed transactions on the anticipated terms and timing, or at all, including obtaining required regulatory approvals and the satisfaction of other conditions to the completion of the proposed transactions; (ii) potential litigation relating to the proposed transactions, including the effects of any outcomes related thereto; (iii) the risk that disruptions from the proposed transactions (such as the ability of certain customers of Globalstar to terminate or amend contracts upon a change of control, or to withhold consent to such change of control) will harm Amazon’s and/or Globalstar’s business, including current plans and operations, during the pendency, and following the completion of, the proposed transactions; (iv) the ability of Globalstar to retain and hire key personnel; (v) the diversion of management’s time and attention from ordinary course business operations to completion of the proposed transactions; (vi) potential adverse reactions or changes to business relationships resulting from the announcement or completion of the proposed transactions; (vii) legislative, regulatory, and economic developments; (viii) contractual provisions that may impact Amazon’s and/or Globalstar’s ability to pursue certain business opportunities or strategic transactions during the pendency, and/or following the completion of, the proposed transactions; (ix) unpredictability and severity of catastrophic events, including, but not limited to, acts of terrorism, outbreaks of war or hostilities, or public health issues, as well as management’s response to any of the aforementioned factors; (x) the impact of inflation, tariffs, rising interest rates, and global conflicts, including disruptions in economies as a result of ongoing or future geopolitical conflicts and trade disputes; (xi) the occurrence of any event, change, or other circumstance that could give rise to the termination of the proposed transactions, including in circumstances requiring Globalstar to pay a termination fee to Amazon; (xii) fluctuations in Amazon’s and/or Globalstar’s stock price, including the risk that the price of Amazon’s common stock payable as merger consideration may decline prior to or following the completion of the proposed transactions or the risk that Globalstar’s stock price may decline if the proposed transactions are not consummated; (xiii) liabilities that are not known, probable, or estimable at this time or unexpected costs, charges, or expenses; (xiv) potential challenges in the development, production, delivery, support, and performance of satellite-based connectivity services and products, including with respect to the combined company’s commercial relationship with certain customers, as well as other current and prospective business relationships, after the completion of the proposed transactions; (xv) those risks and uncertainties found in Amazon’s and Globalstar’s respective filings with the Securities and Exchange Commission (the “SEC”), including the risk factors discussed in Amazon’s and Globalstar’s most recent Annual Reports on Form 10-K, as updated by their Quarterly Reports on Form 10-Q and future filings with the SEC from time to time, which are available via the SEC’s website at www.sec.gov; and (xvi) those risks that will be described in the registration statement on Form S-4 that will include as a prospectus an information statement that will be filed with the SEC and available from the sources indicated below.\n\nThese risks, as well as other risks related to the proposed transactions, will be more fully discussed in the registration statement on Form S-4 that will include as a prospectus an information statement that will be filed with the SEC in connection with the proposed transactions. There can be no assurance that the proposed transactions will be completed, or if completed, that they will close within the anticipated time period. These factors should not be construed as exhaustive and should be read in conjunction with the other forward-looking statements. The forward-looking statements relate only to events as of the date on which the statements are made and we undertake no obligation to update, and expressly disclaim any obligation to update, any forward-looking statements, or any other information in this communication, whether resulting from developments, circumstances, or events that arise after the date the statements are made, new information, or otherwise. If one or more of these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results may vary materially from what we may have expressed or implied by these forward-looking statements. Furthermore, new risks and uncertainties arise from time to time, and it is impossible for us to predict those events or how they may affect us or the transactions.\n\nImportant Additional Information and Where to Find It\n\nThis communication is being made in connection with the proposed transactions. Globalstar and Amazon plan to file relevant materials with the SEC, including, among other filings, a Globalstar information statement on Schedule 14C for its stockholders with respect to the proposed transactions (which definitive information statement will be mailed to stockholders of Globalstar) and an Amazon registration statement on Form S-4 in connection with the proposed issuance of shares of Amazon common stock pursuant to the proposed transactions, in which the information statement will be included as a prospectus (and which will be mailed to stockholders of Globalstar after the registration statement is declared effective by the SEC).\n\nThis communication is not intended to and shall not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities shall be made, except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.\n\nINVESTORS AND STOCKHOLDERS OF GLOBALSTAR AND AMAZON ARE URGED TO READ THE INFORMATION STATEMENT AND REGISTRATION STATEMENT AND ANY OTHER DOCUMENTS THAT ARE FILED OR WILL BE FILED WITH THE SEC (INCLUDING ANY AMENDMENTS OR SUPPLEMENTS THERETO) CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTIONS.\n\nThis communication is not a substitute for the information statement, registration statement, or any other document that Globalstar or Amazon may file with the SEC and send to stockholders in connection with the proposed transactions. Investors and stockholders will be able to obtain free copies of the information statement and registration statement (when available), and other documents filed with the SEC by Globalstar or Amazon, through the website maintained by the SEC at [http://www.sec.gov](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4547680-1&h=700232227&u=http%3A%2F%2Fwww.sec.gov%2F&a=http%3A%2F%2Fwww.sec.gov). Copies of the documents filed with the SEC by Globalstar will be available free of charge on Globalstar’s website at [https://investors.globalstar.com/financial-information/sec-filings](https://investors.globalstar.com/financial-information/sec-filings). Copies of the documents filed with the SEC by Amazon will be available free of charge on Amazon’s website at [https://ir.aboutamazon.com/sec-filings](https://ir.aboutamazon.com/sec-filings/).\n\n1 Satellite features available on iPhone 14 and later, and Apple Watch Ultra 3.\n\nAmazon to acquire Globalstar and expand Amazon Leo satellite network",
+        "url": "https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-04-14T19:34:29.000Z",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/14Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/14/compartme",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/14Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/14/compartments/)\n\n## Today's links\n\n- [In praise of (some) compartmentalization](https://pluralistic.net/2026/04/14/compartments/#flow): Go with the flow (mostly).\n\n- [Hey look at this](https://pluralistic.net/2026/04/14/compartments/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/14/compartments/#retro): Multitasking teens; Copyrighted dirt; NZ internet disconnection x CHCH quake; Hubble cake; Churchill's booze Rx; Fraud-resistant election tech.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/14/compartments/#upcoming): Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/14/compartments/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/14/compartments/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/14/compartments/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/14/compartments/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/zombie-flow.jpg?w=840&ssl=1)\n\n## In praise of (some) compartmentalization ([permalink](https://pluralistic.net/2026/04/14/compartments/#flow))\n\nIf there's one FAQ I get Q'ed most F'ly, it's this: \"How do you get so much done?\" The short answer is, \"I write when I'm anxious (which is how I came to write nine books during lockdown).\" The long answer is more complicated.\n\nThe first complication to understand is that I have lifelong, degenerating chronic pain that makes me hurt from the base of my skull to the soles of my feet – my whole posterior chain. On a good day, it hurts. On a bad day, it hurts so bad that it's all I can think about.\n\nUnless…I work. If I can find my way into a creative project, the rest of the world just kind of fades back, including my physical body. Sometimes I can get there through entertainment, too – a really good book or movie, say, but more often I find myself squirming and needing to get up and stretch or use a theragun after a couple hours in a movie theater seat, even the kind that reclines. A good conversation can do it, too, and is better than a movie or a book. The challenge and engagement of an intense conversation – preferably one with a chewy, productive and interesting disagreement – can take me out of things.\n\nThere's a degree to which ignoring my body is the right thing to do. I've come to understand a lot of my pain as being a phantom, a pathological failure of my nervous system to terminate a pain signal after it fires. Instead of fading away, my pain messages bounce back and forth, getting amplified rather than attenuated, until all my nerves are screaming at me. Where pain has no physiological correlate – in other words, where the ache is just an ache, without a strain or a tear or a bruise – it makes sense to ignore it. It's actually *healthy* to ignore it, because paying attention to pain is one of the things that can amplify it (though not always).\n\nBut this only gets me so far, because *some* of my pain *does* have a physiological correlate. My biomechanics suck, thanks to congenital hip defects that screwed up the way I walked and sat and lay and moved for most of my life, until eventually my wonky hips wore out and I swapped 'em for a titanium set. By that point, it was too late, because I'd made a mess of my posterior chain, all the way from my skull to my feet, and years of diligent physio, swimming, yoga, occupational therapy and physiotherapy have barely made a dent. So when I sit or stand or lie down, I'm always straining *something*, and I really *do* need to get up and move around and stretch and whatnot, or sure as hell I will pay the price later. So if I get *too* distracted, then I start ignoring the pain I need to be paying attention to, and that's at least as bad as paying attention to the pain I should be ignoring.\n\nWhich brings me to anxiety. These are anxious times. I don't know *anyone* who feels good right now. Particularly this week, as the Strait of Epstein emergency gets progressively worse, and there's this January 2020 sense of the crisis on the horizon, hitting one country after another. Last week, Australia got its last shipment of fossil fuels. This week, restaurants in India are all shuttered because of gas rationing. People who understand these things better than I do tell me that even if Trump strokes out tonight and Hegseth overdoes the autoerotic asphyxiation, it'll be months, possibly years, before things get back to \"normal\" (\"normal!\").\n\nAny time I think about this stuff for even a few minutes, I start to feel that covid-a-comin', early-2020 feeling, only it's worse this time around, because I literally couldn't imagine what covid would mean when it got here, and now I know.\n\nWhen I start to feel those feelings, I can just sit down and start thinking with my fingers, working on a book or a blog-post. Or working on an illustration to go with one of these posts, which is the most delicious distraction, leaving me with just enough capacity to mull over the structure of the argument that will accompany it.\n\nI can't do anything about the impending energy catastrophe, apart from being part of a network of mutual aid and political organizing, so it makes sense not to fixate on it. But there are things that upset me – problems my friends and loved ones are having – where there's such a thing as *too much* compartmentalization. It's one thing to lose myself in work until the heat of emotion cools so I can think rationally about an issue that's got me seeing red, and another to use work as a way to neglect a loved one who needs attention in the hope that the moment will pass before I have to do any difficult emotional labor.\n\nCompartmentalization, in other words, but not *too much* compartmentalization. During the lockdown years, I transformed myself into a machine for turning Talking Heads bootlegs into science fiction novels and technology criticism, and that was better than spending that time boozing or scrolling or fighting – but in retrospect, there's probably more I could have done during those hard months to support the people around me. In my defense – in *all* our defenses – that was an unprecedented situation and we all did the best we could.\n\nCreative work takes me away from my pain – both physical and emotional – because creative work takes me into a \"flow\" state. This useful word comes to us from Mihaly Csikszentmihalyi, who coined the term in the 1960s while he was investigating a seeming paradox: how was it that we modern people had mastered so many of the useful arts and sciences, and yet we seemed no happier than the ancients? How could we make so much progress in so many fields, and so little progress in being happy?\n\nIn his fieldwork, Csikszentmihalyi found that people reported the most happiness while they were doing difficult things well – when your \"body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.\" He called this state \"flow.\"\n\nAs Derek Thompson says, the word \"flow\" implies an effortlessness, but really, it's the *effort* – just enough, not too much – that defines flow-states. We aren't happiest in a frictionless world, but rather, in a world of \"achievable challenges\":\n\n[https://www.derekthompson.org/p/how-zombie-flow-took-over-culture](https://www.derekthompson.org/p/how-zombie-flow-took-over-culture)\n\nThompson relates this to \"the law of familiar surprises,\" an idea he developed in his book *Hit Makers*, which investigated why some media, ideas and people found fame, while others languished. A \"familiar surprise\" is something that's \"familiar but not too familiar.\"\n\nHe thinks that the Hollywood mania for sequels and reboots is the result of media execs chasing \"familiar surprises.\" I think there's something to this, but we shouldn't discount the effect that monopolization has on the media: as companies get larger and larger, they end up committing to larger and larger projects, and you just don't take the kinds of risks with a $500m movie that you can take with a $5m one. If you're spending $500m, you want to hedge that investment with as many safe bets as you can find – big name stars, successful IP, and familiar narrative structures. If the movie still tanks, at least no one will get fired for taking a big, bold risk.\n\nToday, we're living in a world of extremely familiar, and progressively less surprising culture. AI slop is the epitome of familiarity, since by definition, AI tries to make a future that is similar to the past, because all it can do is extrapolate from previous data. That's a fundamentally conservative, uncreative way to think about the world:\n\n[https://pluralistic.net/2020/05/14/everybody-poops/#homeostatic-mechanism](https://pluralistic.net/2020/05/14/everybody-poops/#homeostatic-mechanism)\n\nThe tracks the Spotify algorithm picks out of the catalog are going to be as similar to the ones you've played in the past as it can make them – and the royalty-free slop tracks that Spotify generates with AI or commissions from no-name artists will be even more insipidly unsurprising:\n\n[https://pluralistic.net/2022/09/12/streaming-doesnt-pay/#stunt-publishing](https://pluralistic.net/2022/09/12/streaming-doesnt-pay/#stunt-publishing)\n\nThompson cites Shishi Wu's dissertation on \"Passive Flow,\" a term she coined to describe how teens fall into social media scroll-trances:\n\n[https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=2104&amp;context=doctoral_dissertations](https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=2104&amp;context=doctoral_dissertations)\n\nWu says it's a mistake to attribute the regretted hours of scrolling to addiction or a failure of self-control. Rather, the user is falling into \"passive flow,\" a condition arising from three factors:\n\nI. Engagement without a clear goal;\n\nII. A loss of self-awareness – of your body and your mental state;\n\nIII. Losing track of time.\n\nI instantly recognize II. and III. – they're the hallmarks of the flow states that abstract me away from my own pain when I'm working. The big difference here is I. – I go to work with the clearest of goals, while \"passive flow\" is undirected (Thompson also cites psychologist Paul Bloom, who calls the scroll-trance \"shitty flow.\" In shitty flow, you lose track of the world and its sensations – but in a way that you later regret.)\n\nThompson has his own name for this phenomenon of algorithmically induced, regret-inducing flow: he calls it \"zombie flow.\" It's flow that \"recapitulates the goal of flow while evacuating the purpose.\"\n\nZombie flow is \"progress without pleasure\" – it's frictionless, and so it gives us nothing except that sense of the world going away, and when it stops, the world is still there. The trick is to find a way of compartmentalizing that rewards attention with some kind of productive residue that you can look back on with pride and pleasure.\n\nI wouldn't call myself a happy person. I don't think I know *any* happy people right now. But I'm an extremely *hopeful* person, because I can see so many ways that we can make things better (an admittedly very low bar), and I have mastered the trick of harnessing my unhappiness to the pursuit of things that might make the world better, and I'm gradually learning when to stop escaping the pain and confront it.\n\n(*Image: [marsupium photography](https://commons.wikimedia.org/wiki/File:2.8_hours_later_-_Zombie_Apocalypse_(14315382305).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/14/compartments/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Uncovering Webloc [https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/](https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/)\n\n- \nThe Science of Forced Perspective at Disney Parks [https://www.youtube.com/watch?v=yqefjmRVLTM](https://www.youtube.com/watch?v=yqefjmRVLTM)\n\n- \nThe Reverse Centaur’s Guide to Life After AI: How to Think About Artificial Intelligence—Before It’s Too Late [https://www.publishersweekly.com/9780374621568](https://www.publishersweekly.com/9780374621568)\n\n- \nEFF 🤝 HOPE: Join Us This August! [https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august](https://www.eff.org/deeplinks/2026/04/eff-hope-join-us-august)\n\n- \nHere Are the Finalists for the 2025 Locus Awards [https://reactormag.com/finalists-2025-locus-awards/](https://reactormag.com/finalists-2025-locus-awards/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/14/compartments/#retro))\n\n#25yrsago Pee-Wee Herman on his career [https://web.archive.org/web/20010414033156/https://ew.com/ew/report/0,6115,105857~1~0~paulreubensreturnsto,00.html](https://web.archive.org/web/20010414033156/https://ew.com/ew/report/0,6115,105857~1~0~paulreubensreturnsto,00.html)\n\n#25yrsago Anxious hand-wringing about multitasking teens [https://www.nytimes.com/2001/04/12/technology/teenage-overload-or-digital-dexterity.html](https://www.nytimes.com/2001/04/12/technology/teenage-overload-or-digital-dexterity.html)\n\n#20yrsago Clever t-shirt typography spells “hate” – “love” in mirror-writing [https://web.archive.org/web/20060413102804/https://accordionguy.blogware.com/blog/_archives/2006/4/12/1881414.html](https://web.archive.org/web/20060413102804/https://accordionguy.blogware.com/blog/_archives/2006/4/12/1881414.html)\n\n#20yrsago New Mexico Lightning Field claims to have copyrighted dirt [https://diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-lightning-field#overview](https://diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-lightning-field#overview)\n\n#20yrsago Futuristic house made of spinach protein and soy-foam [https://web.archive.org/web/20060413111650/http://bfi.org/node/828](https://web.archive.org/web/20060413111650/http://bfi.org/node/828)\n\n#15yrsago New Zealand to sneak in Internet disconnection copyright law with Christchurch quake emergency legislation [https://www.stuff.co.nz/technology/digital-living/4882838/Law-to-fight-internet-piracy-rushed-through](https://www.stuff.co.nz/technology/digital-living/4882838/Law-to-fight-internet-piracy-rushed-through)\n\n#10yrsago Bake: An amazing space-themed Hubble cake [https://www.sprinklebakes.com/2016/04/black-velvet-nebula-cake.html](https://www.sprinklebakes.com/2016/04/black-velvet-nebula-cake.html)\n\n#10yrsago Shanghai law uses credit scores to enforce filial piety [https://www.caixinglobal.com/2016-04-11/shanghai-says-people-who-fail-to-visit-parents-will-have-credit-scores-lowered-101011746.html](https://www.caixinglobal.com/2016-04-11/shanghai-says-people-who-fail-to-visit-parents-will-have-credit-scores-lowered-101011746.html)\n\n#10yrsago Walmart heiress donated $378,400 to Hillary Clinton campaign and PACs [https://web.archive.org/web/20160414155119/https://www.alternet.org/election-2016/alice-walton-donated-353400-clintons-victory-fund](https://web.archive.org/web/20160414155119/https://www.alternet.org/election-2016/alice-walton-donated-353400-clintons-victory-fund)\n\n#10yrsago Mass arrests at DC protest over money in politics [https://www.washingtonpost.com/local/public-safety/mass-arrests-of-protesters-in-demonstration-at-capitol-against-big-money/2016/04/11/96c13df0-0037-11e6-9d36-33d198ea26c5_story.html](https://www.washingtonpost.com/local/public-safety/mass-arrests-of-protesters-in-demonstration-at-capitol-against-big-money/2016/04/11/96c13df0-0037-11e6-9d36-33d198ea26c5_story.html)\n\n#10yrsago Churchill got a doctor’s note requiring him to drink at least 8 doubles a day “for convalescence” [https://web.archive.org/web/20130321054712/https://arttattler.com/archivewinstonchurchill.html](https://web.archive.org/web/20130321054712/https://arttattler.com/archivewinstonchurchill.html)\n\n#5yrsago Big Tech's secret weapon is switching costs, not network effects [https://pluralistic.net/2021/04/12/tear-down-that-wall/#zucks-iron-curtain](https://pluralistic.net/2021/04/12/tear-down-that-wall/#zucks-iron-curtain)\n\n#5yrsago Fraud-resistant election-tech [https://pluralistic.net/2021/04/12/tear-down-that-wall/#bmds](https://pluralistic.net/2021/04/12/tear-down-that-wall/#bmds)\n\n#1yrago Blue Cross of Louisiana doesn't give a shit about breast cancer [https://pluralistic.net/2025/04/12/pre-authorization/#is-not-a-guarantee-of-payment](https://pluralistic.net/2025/04/12/pre-authorization/#is-not-a-guarantee-of-payment)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/14/compartments/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/14/compartments/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/14/compartments/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/14/compartments/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/14/compartments/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/14/compartment/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "Tue, 14 Apr 2026 08:32:55 +0000",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Cybersecurity Looks Like Proof of Work Now - 14th April 2026 - Link Blog **[Cybersecurity Looks Like Proof of Work Now](https://www.dbr...",
+    "Trusted access for the next era of cyber defense - 14th April 2026 - Link Blog **[Trusted access for the next era of cyber defense](https://o...",
+    "Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users - After a fake version of the Ledger cryptocurrency wallet app made it onto the normally hig...",
+    "On the Name of Apple’s Foldable iPhone - Apple's first foldable iPhone may not carry the speculative media-derived \"Fold\" branding...",
+    "Speaking of Tips - A required part of this site couldn’t load. This may be due to a browser extension, networ..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 15
+    },
+    {
+      "word": "com",
+      "count": 13
+    },
+    {
+      "word": "access",
+      "count": 7
+    },
+    {
+      "word": "google",
+      "count": 6
+    },
+    {
+      "word": "app",
+      "count": 6
+    },
+    {
+      "word": "apple",
+      "count": 6
+    },
+    {
+      "word": "april",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "cloudflare",
+      "count": 5
+    },
+    {
+      "word": "agents",
+      "count": 5
+    },
+    {
+      "word": "users",
+      "count": 5
+    },
+    {
+      "word": "mcp",
+      "count": 5
+    },
+    {
+      "word": "news",
+      "count": 5
+    },
+    {
+      "word": "like",
+      "count": 4
+    },
+    {
+      "word": "oauth",
+      "count": 4
+    },
+    {
+      "word": "mac",
+      "count": 4
+    },
+    {
+      "word": "parabolas",
+      "count": 3
+    },
+    {
+      "word": "doubleclick",
+      "count": 3
+    },
+    {
+      "word": "acquire",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "developers",
+      "count": 3
+    },
+    {
+      "word": "internal",
+      "count": 3
+    },
+    {
+      "word": "private",
+      "count": 3
+    },
+    {
+      "word": "network",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "store",
+      "count": 3
+    },
+    {
+      "word": "iphone",
+      "count": 3
+    },
+    {
+      "word": "hijacking",
+      "count": 3
+    },
+    {
+      "word": "amazon",
+      "count": 3
+    },
+    {
+      "word": "spheres",
+      "count": 2
+    },
+    {
+      "word": "satellite",
+      "count": 2
+    },
+    {
+      "word": "points",
+      "count": 2
+    },
+    {
+      "word": "artzt",
+      "count": 2
+    },
+    {
+      "word": "search",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "server",
+      "count": 2
+    },
+    {
+      "word": "red",
+      "count": 2
+    },
+    {
+      "word": "telephone",
+      "count": 2
+    },
+    {
+      "word": "receptionist",
+      "count": 2
+    },
+    {
+      "word": "desk",
+      "count": 2
+    },
+    {
+      "word": "never",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "product",
+      "count": 2
+    },
+    {
+      "word": "pretty",
+      "count": 2
+    },
+    {
+      "word": "bruce",
+      "count": 2
+    },
+    {
+      "word": "autonomous",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "scoped",
+      "count": 2
+    },
+    {
+      "word": "permissions",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "architecture",
+      "count": 2
+    },
+    {
+      "word": "managed",
+      "count": 2
+    },
+    {
+      "word": "without",
+      "count": 2
+    },
+    {
+      "word": "service",
+      "count": 2
+    },
+    {
+      "word": "secure",
+      "count": 2
+    },
+    {
+      "word": "nodes",
+      "count": 2
+    },
+    {
+      "word": "workers",
+      "count": 2
+    },
+    {
+      "word": "mesh",
+      "count": 2
+    },
+    {
+      "word": "ever",
+      "count": 2
+    },
+    {
+      "word": "cybersecurity",
+      "count": 2
+    },
+    {
+      "word": "looks",
+      "count": 2
+    },
+    {
+      "word": "proof",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "trusted",
+      "count": 2
+    },
+    {
+      "word": "era",
+      "count": 2
+    },
+    {
+      "word": "cyber",
+      "count": 2
+    },
+    {
+      "word": "defense",
+      "count": 2
+    },
+    {
+      "word": "ycombinator",
+      "count": 2
+    },
+    {
+      "word": "item",
+      "count": 2
+    },
+    {
+      "word": "id",
+      "count": 2
+    },
+    {
+      "word": "cryptocurrency",
+      "count": 2
+    },
+    {
+      "word": "million",
+      "count": 2
+    },
+    {
+      "word": "foldable",
+      "count": 2
+    },
+    {
+      "word": "fold",
+      "count": 2
+    },
+    {
+      "word": "browser",
+      "count": 2
+    },
+    {
+      "word": "sites",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "deceptive",
+      "count": 2
+    },
+    {
+      "word": "known",
+      "count": 2
+    },
+    {
+      "word": "button",
+      "count": 2
+    },
+    {
+      "word": "john",
+      "count": 2
+    },
+    {
+      "word": "calhoun",
+      "count": 2
+    },
+    {
+      "word": "macscene",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "steve",
+      "count": 2
+    },
+    {
+      "word": "lemay",
+      "count": 2
+    },
+    {
+      "word": "steven",
+      "count": 2
+    },
+    {
+      "word": "soderbergh",
+      "count": 2
+    },
+    {
+      "word": "james",
+      "count": 2
+    },
+    {
+      "word": "bond",
+      "count": 2
+    },
+    {
+      "word": "homebrew",
+      "count": 2
+    },
+    {
+      "word": "zerobrew",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "nanobrew",
+      "count": 2
+    },
+    {
+      "word": "globalstar",
+      "count": 2
+    },
+    {
+      "word": "aboutamazon",
+      "count": 2
+    }
+  ]
+}
