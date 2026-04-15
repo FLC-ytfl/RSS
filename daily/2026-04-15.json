@@ -1,0 +1,875 @@
+{
+  "date": "2026-04-15",
+  "stats": {
+    "total_fetched": 287,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 16,
+    "long_articles": 14
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Why is it so hard to passively stalk my friends' locations?",
+        "summary": "I feel terribly guilty when I visit a new city, post photos of my travels, only to have a friend say \"Hey! Why didn't you let me know you were in my neck of the woods?\" Similarly, if I bump into an old acquaintance at a...",
+        "url": "https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Wed, 15 Apr 2026 11:34:45 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?",
+        "summary": "Maybe it didn't really exit. The post Why is there a long delay between a thread exiting and the <CODE>Wait­For­Single­Object</CODE> returning? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Wed, 15 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Intel Celeron 266 introduced April 15, 1998",
+        "summary": "On April 15, 1998, Intel introduced its Celeron 266 processor. It was the first Celeron in a product line that lasted 25 years, but it wasn’t one of Intel’s finest moments. The Celeron was a cut-down Pentium II, designed...",
+        "url": "https://dfarq.homeip.net/intel-celeron-266-introduced-april-15-1998/?utm_source=rss&utm_medium=rss&utm_campaign=intel-celeron-266-introduced-april-15-1998",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Product",
+          "Mobile"
+        ],
+        "published_at": "Wed, 15 Apr 2026 11:00:37 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Agent Lee - a new interface to the Cloudflare stack",
+        "summary": "Agent Lee is an in-dashboard agent that shifts Cloudflare’s interface from manual tab-switching to a single prompt. Using sandboxed TypeScript, it helps you troubleshoot and manage your stack as a grounded technical coll...",
+        "url": "https://blog.cloudflare.com/introducing-agent-lee/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Register domains wherever you build: Cloudflare Registrar API now in beta",
+        "summary": "The Cloudflare Registrar API is now in beta. Developers and AI agents can search, check availability, and register domains at cost directly from their editor, their terminal, or their agent — without leaving their workfl...",
+        "url": "https://blog.cloudflare.com/registrar-api-beta/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Rearchitecting the Workflows control plane for the agentic era",
+        "summary": "Cloudflare Workflows, a durable execution engine for multi-step applications, now supports higher concurrency and creation rate limits through a rearchitectured control plane, helping scale to meet the use cases for dura...",
+        "url": "https://blog.cloudflare.com/workflows-v2/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud",
+          "Mobile"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Add voice to your agent",
+        "summary": "An experimental voice pipeline for the Agents SDK enables real-time voice interactions over WebSockets. Developers can now build agents with continuous STT and TTS in just ~30 lines of server-side code.",
+        "url": "https://blog.cloudflare.com/voice-agents/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "DevOps"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat",
+        "summary": "“If our next several years are a trillion dollars in scale, we have the supply chain to do it\"",
+        "url": "https://www.dwarkesh.com/p/jensen-huang",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML",
+          "Hardware"
+        ],
+        "published_at": "Wed, 15 Apr 2026 15:45:23 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Project Think: building the next generation of AI agents on Cloudflare",
+        "summary": "Announcing a preview of the next edition of the Agents SDK — from lightweight primitives to a batteries-included platform for AI agents that think, act, and persist.",
+        "url": "https://blog.cloudflare.com/project-think/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Browser Run: give your agents a browser",
+        "summary": "Browser Rendering is now Browser Run, with Live View, Human in the Loop, CDP access, session recordings, and 4x higher concurrency limits for AI agents.",
+        "url": "https://blog.cloudflare.com/browser-run-for-ai-agents/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Simdutf Can Now Be Used Without libc++ or libc++abi",
+        "summary": "",
+        "url": "https://mitchellh.com/writing/simdutf-no-libcxx",
+        "source": "Mitchell Hashimoto",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 15 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-15T22:32:39.443Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-15T22:32:39.443Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-15T22:32:39.443Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-15T22:32:39.443Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-15T22:32:39.443Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Kyle Kingsbury",
+        "summary": "15th April 2026\n\n> I think we will see some people employed (though perhaps not explicitly) as *meat shields*: people who are accountable for ML systems under their supervision. The accountability may",
+        "content": "15th April 2026\n\n> I think we will see some people employed (though perhaps not explicitly) as *meat shields*: people who are accountable for ML systems under their supervision. The accountability may be purely internal, as when Meta hires human beings to review the decisions of automated moderation systems. It may be external, as when lawyers are penalized for submitting LLM lies to the court. It may involve formalized responsibility, like a Data Protection Officer. It may be convenient for a company to have third-party subcontractors, like Buscaglia, who can be thrown under the bus when the system as a whole misbehaves.\n\n— [Kyle Kingsbury](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs), The Future of Everything is Lies, I Guess: New Jobs",
+        "url": "https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-15T15:36:02.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting John Gruber",
+        "summary": "15th April 2026\n\n> The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn",
+        "content": "15th April 2026\n\n> The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, *to some extent*, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted idiomatic native apps exclusively for Apple’s platforms.\n\n— [John Gruber](https://daringfireball.net/2026/04/piece_android_iphone_apps)",
+        "url": "https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Mobile",
+          "Database"
+        ],
+        "published_at": "2026-04-15T17:13:57.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Gemini 3.1 Flash TTS",
+        "summary": "15th April 2026 - Link Blog\n\n**[Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/)**. Google released Gemini 3.1 Flash TTS today, a ne",
+        "content": "15th April 2026 - Link Blog\n\n**[Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/)**. Google released Gemini 3.1 Flash TTS today, a new text-to-speech model that can be directed using prompts.\n\nIt's presented via the standard Gemini API using `gemini-3.1-flash-tts-preview` as the model ID, but can only output audio files.\n\nThe [prompting guide](https://ai.google.dev/gemini-api/docs/speech-generation#transcript-tags) is surprising, to say the least. Here's their example prompt to generate just a few short sentences of audio:\n\n```\n# AUDIO PROFILE: Jaz R.\n## \"The Morning Hype\"\n\n## THE SCENE: The London Studio\nIt is 10:00 PM in a glass-walled studio overlooking the moonlit London skyline, but inside, it is blindingly bright. The red \"ON AIR\" tally light is blazing. Jaz is standing up, not sitting, bouncing on the balls of their heels to the rhythm of a thumping backing track. Their hands fly across the faders on a massive mixing desk. It is a chaotic, caffeine-fueled cockpit designed to wake up an entire nation.\n\n### DIRECTOR'S NOTES\nStyle:\n* The \"Vocal Smile\": You must hear the grin in the audio. The soft palate is always raised to keep the tone bright, sunny, and explicitly inviting.\n* Dynamics: High projection without shouting. Punchy consonants and elongated vowels on excitement words (e.g., \"Beauuutiful morning\").\n\nPace: Speaks at an energetic pace, keeping up with the fast music.  Speaks with A \"bouncing\" cadence. High-speed delivery with fluid transitions — no dead air, no gaps.\n\nAccent: Jaz is from Brixton, London\n\n### SAMPLE CONTEXT\nJaz is the industry standard for Top 40 radio, high-octane event promos, or any script that requires a charismatic Estuary accent and 11/10 infectious energy.\n\n#### TRANSCRIPT\n[excitedly] Yes, massive vibes in the studio! You are locked in and it is absolutely popping off in London right now. If you're stuck on the tube, or just sat there pretending to work... stop it. Seriously, I see you.\n[shouting] Turn this up! We've got the project roadmap landing in three, two... let's go!\n\n```\n\nHere's what I got using that example prompt:\n\n  \n  Your browser does not support the audio element.\n\nThen I modified it to say \"Jaz is from Newcastle\" and \"... requires a charismatic Newcastle accent\" and got this result:\n\n  \n  Your browser does not support the audio element.\n\nHere's Exeter, Devon for good measure:\n\n  \n  Your browser does not support the audio element.\n\nI [had Gemini 3.1 Pro](https://gemini.google.com/share/dd0fba5a83c4) vibe code [this UI for trying it out](https://tools.simonwillison.net/gemini-flash-tts):\n\n![](https://static.simonwillison.net/static/2026/gemini-flash-tts.jpg)",
+        "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-15T17:13:14.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+        "summary": "15th April 2026 - Link Blog\n\n**[Zig 0.16.0 release notes: \"Juicy Main\"](https://ziglang.org/download/0.16.0/release-notes.html#Juicy-Main)** ([via](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes)",
+        "content": "15th April 2026 - Link Blog\n\n**[Zig 0.16.0 release notes: \"Juicy Main\"](https://ziglang.org/download/0.16.0/release-notes.html#Juicy-Main)** ([via](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes)) Zig has *really good* release notes - comprehensive, detailed, and with relevant usage examples for each of the new features.\n\nOf particular note in the newly released Zig 0.16.0 is what they are calling \"Juicy Main\" - a dependency injection feature for your program's `main()` function where accepting a `process.Init` parameter grants access to a struct of useful properties:\n\nconst std = @import(\"std\");\n\npub fn main(init: std.process.Init) !void {\n    /// general purpose allocator for temporary heap allocations:\n    const gpa = init.gpa;\n    /// default Io implementation:\n    const io = init.io;\n    /// access to environment variables:\n    std.log.info(\"{d} env vars\", .{init.environ_map.count()});\n    /// access to CLI arguments\n    const args = try init.minimal.args.toSlice(\n        init.arena.allocator()\n    );\n}",
+        "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-15T01:59:21.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-ports 0.3",
+        "summary": "Release\n    \n    [datasette-ports 0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3)\n    — Find all currently running Datasette instances and list their ports\n  \n\nA small update for m",
+        "content": "Release\n    \n    [datasette-ports 0.3](https://github.com/datasette/datasette-ports/releases/tag/0.3)\n    — Find all currently running Datasette instances and list their ports\n  \n\nA small update for my tool for helping me figure out what all of the Datasette instances on my laptop are up to.\n\n> \n> - Show working directory derived from each PID\n\n> - Show the full path to each database file\n\n> \n\nOutput now looks like this:\n\n```\nhttp://127.0.0.1:8007/ - v1.0a26\n  Directory: /Users/simon/dev/blog\n  Databases:\n    simonwillisonblog: /Users/simon/dev/blog/simonwillisonblog.db\n  Plugins:\n    datasette-llm\n    datasette-secrets\nhttp://127.0.0.1:8001/ - v1.0a26\n  Directory: /Users/simon/dev/creatures\n  Databases:\n    creatures: /tmp/creatures.db\n\n```",
+        "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-04-15T02:50:57.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "An Arm Mainboard for the Framework Laptop",
+        "summary": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a [Ryzen AI 5 340 Mainboard](https://github.com/geerlingguy/sbc-reviews/issues/90)), the fastest RISC-V optio",
+        "content": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a [Ryzen AI 5 340 Mainboard](https://github.com/geerlingguy/sbc-reviews/issues/90)), the fastest RISC-V option ([DC-ROMA II](https://github.com/geerlingguy/sbc-reviews/issues/82)), and today I'm publishing results from the only Arm Mainboard, the [MetaComputing AI PC](https://github.com/geerlingguy/sbc-reviews/issues/103), which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.\n\n![MetaComputing AI PC Mainboard next to Framework 13 laptop](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-arm-framework-hero.jpg)My Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'.\n\nThe AI PC Mainboard uses Cix's P1 SoC, an odd duck in the Arm world. There are 12 CPU cores, but they're structured in a way that necessitates disabling four of them to run Windows 11—and yes, this board *should* be able to do that.\n\nI have a video going over my experience swapping out the Framework 13's guts and testing everything (including setting up FEX and playing some x86 games through Steam):\n\n*\n\nIf you'd rather read than watch a video, scroll on!\n\n## Hardware\n\nThe AI PC Mainboard features the Cix P1 CP8180, a chip that's also found in Radxa's [Orion O6](https://github.com/geerlingguy/sbc-reviews/issues/62), [Minisforum's MS-R1](https://github.com/geerlingguy/sbc-reviews/issues/89), and the [Orange Pi 6 Plus](https://amzn.to/4tIDr43).\n\nRAM chips are soldered to the mainboard (16GB of LPDDR5 in the review sample I was provided), and all the typical I/O for a Framework Mainboard is present (a M.2 NVMe slot, a WiFi module slot, display, keyboard, sound, and battery connections, and four USB-C ports for high-speed peripherals, power input, and display out).\n\n![MetaComputing AI PC Mainboard installed inside Framework 13](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-arm-framework-install-mainboard.jpg)It was easy to swap out mainboards so I could test this build in a chassis. And my first question was whether this mainboard fixes the major drawback of the Cix P1 chip: idle power consumption.\n\nAnd it does... a little. Compared to the other Cix P1 systems I've tested:\n\n![MetaComputing AI PC Mainboard compared to Radxa Orion O6 and Minisforum MS-R1 Idle Power Draw](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-ai-pc-mainboard-idle-power-compared-o6-ms-r1.jpg)But we're still far from ideal—here's a comparison to the MacBook Neo, and Framework's lowest-spec AMD Mainboard (which is also faster and about as efficient as the Cix CPU in heavy workloads):\n\n![MetaComputing AI PC Mainboard compared to MacBook Neo and AMD Ryzen AI 5 340 Idle Power Draw](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-ai-pc-mainboard-idle-power-compared-others.jpg)\n## Software\n\nMetaComputing currently provides an 'official' Ubuntu 25.04 ISO you can flash to an NVMe drive to boot with full hardware support, but this laptop has a full BIOS, with UEFI support. However*, not all distros are supported yet... I didn't test any other distros yet, but [Windows for Arm at least partially installed](https://github.com/geerlingguy/sbc-reviews/issues/103#issuecomment-4226472014), which is a good start.\n\nBut running their official Linux build, I was able to run Vulkan and OpenGL on the chip's Arm Mali G720 Immortalis iGPU. I had some trouble with `vkmark`, but [GravityMark scored 7,627](https://gravitymark.tellusim.com/report/?id=8ed048387ccca9a89ba294aed959523bd64bd534), comparable to the graphics in Apple's A14 SoC, and a little faster than Intel's low-end graphics in chips like the N150.\n\n![MetaComputing AI PC Mainboard running GravityMark Benchmark](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-ai-pc-mainboard-gravitymark.jpg)[Geekbench scores](https://browser.geekbench.com/v6/cpu/17448233) are right in line with the other Cix P1 systems I've tested, though [High Performance Linpack scores](https://github.com/geerlingguy/top500-benchmark/issues/94) are not. I'm not sure if it's the slightly slower memory, or what, but this system scored about half as well as the MS-R1 and Orion O6 when running the memory-intensive FP64 HPL benchmark.\n\nBut rather than compare the chip against itself, let's put the numbers in context, using Geekbench, as it's a good proxy for general perceived performance for smaller systems:\n\n![MetaComputing AI PC Mainboard Geekbench comparison to MacBook Neo and AMD Ryzen AI 5 340](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/metacomputing-ai-pc-mainboard-geekbench-compared-others.jpg)Apple Silicon takes the cake in single core performance, but the Cix chip having 12 cores almost makes up for that. Having a *fan* also helps with sustained loads—the Framework Mainboard just about ties the MacBook Neo when running HPL, since the Neo starts throttling after a minute or two of sustained load.\n\nBut when comparing this mainboard to the one closest in price (taking RAM into account) made by Framework themselves—the [Ryzen AI 5 340](https://frame.work/products/mainboard-amd-ai300?v=FRANTE0005)—it falls both in single and multi-core performance. Add in the compatibility issues with Arm Linux and Windows for Arm which currently exist, and it really limits the potential to grow beyond the niche of Arm devs who might be interested in the AI PC Mainboard.\n\n## Fex for Steam Games on Arm\n\nYour browser does not support the video tag.\n\nJust to see whether this system would be useful for Steam games in its current form, I followed Ubuntu's [guide for running Steam games on arm64 with FEX](https://discourse.ubuntu.com/t/tutorial-running-steam-games-on-arm64-with-fex/70215/2), which worked without a hitch. I had also tried installing [box86/box64](https://box86.org/) for comparison, but ran into some problems.\n\nSteam ran without issue (albeit a little slow), and I could download games like Doom Eternal at 500+ Mbps. But when it came to gameplay, the games were quite choppy—even older, simpler games like Horizon Chase Turbo at the lowest resolution settings (see embed above).\n\nPortal 2 ran, but stuttered quite a bit (to the point of being unplayable), and I couldn't get either Obduction or Doom Eternal to launch, possibly due to memory requirements (the 16 GB of RAM is shared between the system and the iGPU).\n\n## Conclusion\n\nYou can find all my test data and any further updates in the [MetaComputing AI PC issue](https://github.com/geerlingguy/sbc-reviews/issues/103) in my SBC Reviews project.\n\nAnd you can buy the MetaComputing AI PC Mainboard (either standalone, or as part of a Framework 13 build) direct from MetaComputing: [AI PC Arm Mainboard](https://metacomputing.io/products/metacomputing-aipc?variant=50604798574898).\n\nIn the end, I think this Mainboard has a lot more potential at the launch price of $550. Unfortunately, with the DRAM crisis, the price is pushed a little above the 'maybe I'll pick one up and tinker with it' range, and thus I can only recommend the AI PC Mainboard to Arm enthusiasts.\n\nFor everyone else looking for the best value low-end Arm laptop: get a MacBook Neo.",
+        "url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Product"
+        ],
+        "published_at": "Wed, 15 Apr 2026 09:49:00 -0500",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Speed is Not Conducive to Wisdom",
+        "summary": "Speed has become the primary virtue of the modern world. Everything is sacrificed to it.\n\nMove fast (and break things, not as a goal but as a consequence).\n\nWisdom requires allowing yourself to be *un",
+        "content": "Speed has become the primary virtue of the modern world. Everything is sacrificed to it.\n\nMove fast (and break things, not as a goal but as a consequence).\n\nWisdom requires allowing yourself to be *undone* by experience:\n\n- An opinion dismantled by reality.\n\n- An artifact torn apart by the real world.\n\n- An idea destroyed by its own shortsightedness.\n\nExperiencing these can be slow and uncomfortable, but if you keep up your speed you can outrun them — never reflecting on what happened in your wake.\n\nSpeed is how you avoid reckoning. It guarantees you miss things, and you can’t learn from what you don’t notice.\n\nWisdom’s feedback loop is slow.\n\nWise people I’ve met seem unhurried. I don’t think it’s because they’re slow thinkers or actors. I think it’s because they’ve learned that important things take the time they take, no amount of urgency changes that.\n\nWisdom is chasing all of us, but we’re going too fast to notice what it’s trying to teach us.",
+        "url": "https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Wed, 15 Apr 2026 19:00:00 GMT",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again",
+        "summary": "[David Pierce, writing at The Verge](https://www.theverge.com/tech/899602/best-phone-android-ios-app-store?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkpKUk05aEQ3ZHYiLCJwIjoiL3RlY2gvODk5NjAyL2Jlc3QtcGhvb",
+        "content": "[David Pierce, writing at The Verge](https://www.theverge.com/tech/899602/best-phone-android-ios-app-store?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkpKUk05aEQ3ZHYiLCJwIjoiL3RlY2gvODk5NjAyL2Jlc3QtcGhvbmUtYW5kcm9pZC1pb3MtYXBwLXN0b3JlIiwiZXhwIjoxNzc2MDMzMDU5LCJpYXQiOjE3NzU2MDEwNTl9.c8VIrq4Kl5DbAbr8ujYsehwxWVKN7dvXMV7yYkqADu0) (gift link):\n\n> The Pixel 10 Pro solidified a feeling I’d been having through all\n> of my tests: Android is a better operating system than iOS. [...]\n\n> \n> If all you got from your phone was the out-of-the-box experience,\n> I’d have picked the Pixel. But unfortunately for Android, app\n> stores exist. And the App Store absolutely wipes the floor with\n> the Play Store. Lots of the apps I use every day — apps like\n> [Puzzmo](https://www.puzzmo.com/today/), [NotePlan](https://noteplan.co/), [Mimestream](https://mimestream.com/), and\n> [Unread](https://www.goldenhillsoftware.com/unread/) — either don’t exist on Android at all or only\n> exist as web apps. Most of the ones that do work on both platforms\n> are better on iOS. And forget about the kind of handcrafted,\n> small-developer stuff — apps like [Acme Weather](https://acmeweather.com/app),\n> [Current](https://www.terrygodier.com/current), and [Quiche](https://quiche.industries/browser/), just to name a few recent\n> favorites — that’s all over the App Store and absolutely nowhere\n> to be found on Android.\n\nPut aside your feelings on whether you agree “Android is a better operating system than iOS”. What’s interesting here is that Pierce, who thinks that’s true, still prefers the overall experience of iOS because the apps are so much better. I first wrote about this in 2010, in “[Where Are the Android Killer Apps?](https://daringfireball.net/2010/11/where_are_the_android_killer_apps)”:\n\n> But, the thing I’ve noticed, eight months after returning a Nexus\n> One I borrowed for six weeks from a friend, is that, well, I don’t\n> seem to be missing much.\n\n> \n> I’ve complained, numerous times, about the “how many total apps\n> are in your store?” metric — the idea that Apple is “winning”\n> because there are more iOS apps than there are apps for any other\n> mobile platform. If quantity of app titles were all that mattered,\n> we’d all be using Windows, not Mac OS X, right? Having the *most*\n> apps matters, but having the *best* apps matters too. The sweet\n> spot for a platform is to do well in both regards.\n\nAnd then, more recently, in 2023, “[Making Our Hearts Sing](https://daringfireball.net/2023/02/making_our_hearts_sing)”:\n\n> I will offer another quote from Kubrick: “The test of a work of\n> art is, in the end, our affection for it, not our ability to\n> explain why it is good.”\n\n> \n> *Art* is the operative word. Either you know that software can be\n> art, and often should be, or you think what I’m talking about here\n> is akin to astrology. One thing I learned long ago is that people\n> who prioritize design, UI, and UX in the software they prefer can\n> empathize with and understand the choices made by people who\n> prioritize other factors (e.g. raw feature count, or the ability\n> to tinker with their software at the system level, or software\n> being free-of-charge). But it doesn’t work the other way: most\n> people who prioritize other things can’t fathom why anyone cares\n> deeply about design/UI/UX *because they don’t perceive it*. Thus\n> they chalk up iOS and native Mac-app enthusiasm to being\n> hypnotized by marketing, Pied Piper style.\n\n> \n> What’s happened over the last decade or so, I think, is that\n> rather than the two platforms reaching any sort of equilibrium,\n> the cultural differences have instead grown because both users and\n> developers have self-sorted. Those who see and appreciate the\n> artistic value in software and interface design have\n> overwhelmingly wound up on iOS; those who don’t have wound up on\n> Android.\n\nApple would be wise to cultivate a further widening of this third-party software-quality gulf through radically improved developer relations, rather than attempting to squeeze additional rent from this advantage — which, while penny-wise in terms of juicing its App Store revenue in the near term, is ultimately pound-foolish in the way that it is souring developer sentiment.\n\nThe real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, *to some extent*, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted idiomatic native apps exclusively for Apple’s platforms.\n\nApple should focus its developer relations on cultivating that motivation, and trust that in the end that will continue to prove lucrative for Apple itself. They should do whatever it takes to make their cut of App Store transactions feel like a beneficial bargain to developers, not an oppressive tax.",
+        "url": "https://daringfireball.net/2026/04/piece_android_iphone_apps",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-15T15:40:02.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A sufficiently comprehensive spec is not (necessarily) code",
+        "summary": "Sorry for missing last week! Was sick and then busy.\n\nThis week I want to cover a pet peeve of mine, best seen in this comic:\n\n[![](https://www.commitstrip.com/wp-content/uploads/2016/08/Strip-Les-spe",
+        "content": "Sorry for missing last week! Was sick and then busy.\n\nThis week I want to cover a pet peeve of mine, best seen in this comic:\n\n[![](https://www.commitstrip.com/wp-content/uploads/2016/08/Strip-Les-specs-cest-du-code-650-finalenglish.jpg)](https://www.commitstrip.com/en/2016/08/25/a-very-comprehensive-and-precise-spec/?)\n\nA \"comprehensive and precise spec\" is not necessarily code. A specification corresponds to a *set* of possible implementations, and code is a single implementation in that set. As long as the set has more than one element, there is a separation between the spec and the code. \n\nConsider a business person (bp) who asks:\n\n> I want a tool to convert miles to kilometers.\n\nIs this a comprehensive spec? Maybe, you can give it to Claude Code and tell it to make all design decisions and it will give you a program that converts miles to km. At the same time, there is a huge amount of details left out of this. What language? What's the UX? Should it be a command line script or a mobile app or an enterprise SaaS? For this reason, if we gave Claude's output to the bp, they'll probably be unsatisfied. The set of possible implementations includes the programs they want, but also lots of programs they don't want.\n\nSo they now they say:\n\n> It should be a textbox on a website.\n\nOkay, this rules out a lot more stuff, but there's still a lot to decide. React or vanillajs or htmx? Should the output be a separate textbox or a popup? Should we use a conversion of `1.6`, `1.61`, or `1.609`? So you could argue that this is still not a \"comprehensive and precise spec\". But what if the bp is happy with whatever Claude makes? Then their spec was sufficiently comprehensive and precise, since they got a program that solved their problem!\n\nNow the comic above makes the more specific claim that a spec \"comprehensive and precise enough *to generate a program*\" is code. That wasn't even true before LLMs. [Program synthesis](https://en.wikipedia.org/wiki/Program_synthesis), the automatic generation of conformant programs from specifications, is an active field of research! Last I checked in 2019 they were only generating local functions from type specifications; I don't know how things have changed with LLMs. But still, it shows that code and comprehensive specs are distinct things. \n\n### Specs are abstractions\n\nWhat I'm getting at here is that a specification is an **abstraction** of code.[1](#fn:abstraction) For every spec, there is a set of possible programs that satisfy that spec. The more comprehensive and precise the spec, the fewer programs in this set. If `spec1` corresponds to a superset of `spec2`, we further say that `spec2` **refines** `spec1`. A specification is **sufficient** if it does not need to be refined further: no matter what implementation (*within reason*[2](#fn:reason)) is provided, the specifier would be satisfied. A spec does not need to be fully comprehensive to be sufficient.\n\n### Programmers are still needed to write specs\n\nThe comic makes a further claim: \"a sufficiently detailed spec is code\" is a reason why programmers won't be out of a job, even with we could automatically generate code from specs. And this is still true.\n\nIt is often the case that we express the abstraction spec via a formal language. Normally this makes me think of TLA+ or UML or even [Planguage](https://syque.com/quality_tools/tools/Tools104.htm), but the most common example of this would be test suites. [Tests are specifications, too](https://buttondown.com/hillelwayne/archive/what-is-a-specification)! And as a rule, it seems impossible to get nonprogrammers to successfully encode things in formal languages. Cucumber was a failed attempt to make business people write formal specs.\n\nBut does this make a comprehensive spec \"code\"? I'd argue no.  It's possible to encode a specification in a programming language (again, test suites), but it is just that, an encoding. The spec still corresponds to a set of possible implementation programs, and the spec is still useful even if we don't encode it. Keeping \"code\" and \"spec\" distinct concepts is useful.",
+        "url": "https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/",
+        "source": "Computer Things",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Wed, 15 Apr 2026 16:18:02 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Tuesday Test",
+        "summary": "[Yesterday](https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html) I wrote about the fast Homebrew rewrites and ended on the line that the bottleneck for that whole class of project",
+        "content": "[Yesterday](https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html) I wrote about the fast Homebrew rewrites and ended on the line that the bottleneck for that whole class of project is not Rust or Ruby, it is the absence of a stable declarative package schema. Someone on Mastodon picked up that thread and asked the obvious follow-on: which package managers actually have one? Going through the list, the honest answer is hardly any of them, and there is a quick test that makes the answer easy to check.\n\nAsk this of any package manager: if I install this package on a Tuesday, could it do something different than if I install it on a Wednesday? If the answer is yes, the package manager is not really declarative, no matter what the manifest file looks like on the surface.\n\nSomewhere in the install pipeline there is a place where arbitrary code runs, and that code can read the clock, check an environment variable, look at the hostname, phone a server, or do anything else a program can do. The Tuesday test is a quick way to separate the declarative tools from the ones that have a programming language hiding underneath a declarative-looking file format.\n\nThe test is not about whether the code is malicious, or whether it is a supply chain risk, or whether it could in principle do something terrible. Those are all separate questions with their own answers.\n\nIt is also not about the registry changing under you between the two days: new versions, yanks and the like are all real concerns, but they are concerns about the data the package manager is fetching rather than about the package manager itself. Pretend the registry is frozen and the lockfile is pinned.\n\nThe question here is narrower. Given the same manifest, the same lockfile and the same registry contents, is the install allowed to read anything the manifest does not declare as an input? The day of the week is the simplest example of such a hidden input, but the real point is that a package that passes the Tuesday test has no way to reach outside its declared inputs at all. A package that fails it can, and once it can, the manifest is no longer the whole story. Going through the list of well known package managers from [the landscape post](https://nesbitt.io/2026/01/03/the-package-management-landscape.html), it turns out that almost none of them pass.\n\n### Homebrew\n\nStart with the one that started this. A [Homebrew formula](https://docs.brew.sh/Formula-Cookbook) is a Ruby class with an `install` method and a `post_install` hook, and the entire class body is evaluated by the Homebrew client every time it touches the formula. Even the parts that look like data, such as `url`, `sha256`, `version`, and `depends_on`, are method calls on the formula class, evaluated in a Ruby context that can `require` anything, shell out to anything, and read the clock from any method.\n\nThe [cask format](https://docs.brew.sh/Cask-Cookbook) is a Ruby DSL with the same property. So is the [`Brewfile`](https://docs.brew.sh/Manpage#bundle-subcommand) consumed by `brew bundle`, which was invented as a Homebrew analogue of Bundler’s `Gemfile` and inherits the same “executable Ruby file posing as a manifest” shape: a Brewfile can call `brew`, `cask`, `tap`, `mas`, `vscode` and friends, but it can also `if Time.now.wday == 2` in between.\n\nHomebrew fails the Tuesday test by design, which is the whole reason the [`formula.json`](https://formulae.brew.sh/api/formula.json) API had to exist as a separate thing for fast clients to consume: there is no other way to extract package metadata without running the package definition. The JSON file is what passes the Tuesday test, and it only exists because the formula format does not.\n\nGenerating it is not free either. Homebrew’s own [`brew generate-formula-api`](https://github.com/Homebrew/brew/blob/master/Library/Homebrew/dev-cmd/generate-formula-api.rb) command has to flip the `Formula` class into a special `generating_hash!` mode and wrap the run in a [`SimulateSystem`](https://github.com/Homebrew/brew/blob/master/Library/Homebrew/simulate_system.rb) block that lies to every formula about the host OS and architecture, so that calls which would normally branch on the real system instead return a stable answer. It is in-process monkey patching to stop the formula from noticing where it is, in order to coax a declarative-looking file out of a format that is anything but.\n\n### Ruby\n\nThe [`Gemfile`](https://bundler.io/man/gemfile.5.html) is a Ruby file. The first line is often `source \"https://rubygems.org\"`, which looks like configuration, but `source` is a method call on an implicit DSL object, and anything else you can write in Ruby is valid above, below, or inside it. You can open a socket in your Gemfile. You can check `Time.now.wday` and add a different gem on Tuesdays.\n\nThe [`.gemspec`](https://guides.rubygems.org/specification-reference/) file that ships inside every gem is also Ruby, and it is evaluated every time someone installs the gem, which means a gem author can put arbitrary code in the specification itself and have it run on the installer’s machine before anything has been built. Native extensions run [`extconf.rb`](https://guides.rubygems.org/gems-with-extensions/), which is yet more Ruby, and post-install messages are generated at install time.\n\nCocoaPods is the same story in a different namespace. The CocoaPods client is itself a Ruby program, a [`Podfile`](https://guides.cocoapods.org/syntax/podfile.html) is a direct descendant of a `Gemfile`, and a [`.podspec`](https://guides.cocoapods.org/syntax/podspec.html) is a direct descendant of a `.gemspec`, right down to the DSL, the block syntax, and the fact that both files are evaluated as Ruby every time you install. Everything said about Ruby above applies to CocoaPods without a single change.\n\n### Python\n\nPython is the same story with different file names. A [`setup.py`](https://setuptools.pypa.io/en/latest/userguide/index.html) is a Python script that runs at install time, and `setup.py` is where Python packaging started, so an enormous amount of the existing ecosystem still goes through it.\n\nThe move to [`pyproject.toml`](https://packaging.python.org/en/latest/specifications/pyproject-toml/) looks like a shift to a declarative manifest, and in the limited sense that the file itself is TOML it is, but the whole job of that TOML file is to nominate a program to run. The `[build-system]` table points at a [build backend](https://peps.python.org/pep-0517/), and the build backend is a Python package that executes arbitrary Python to produce a wheel. [Setuptools](https://setuptools.pypa.io/), [Hatchling](https://hatch.pypa.io/latest/), [Poetry-core](https://python-poetry.org/docs/pyproject/), [PDM-backend](https://backend.pdm-project.org/), [Flit](https://flit.pypa.io/en/stable/), [Maturin](https://www.maturin.rs/) and [scikit-build-core](https://scikit-build-core.readthedocs.io/) are all real programs, all capable of reading the date.\n\nWheels themselves are the one part of the Python pipeline that does pass the test: [PEP 427](https://peps.python.org/pep-0427/) deliberately has no pre or post install hooks, and installing a wheel is meant to be a pure file-unpacking step. If a wheel does not already exist for your platform, pip and uv and Poetry and pdm will transparently build one from the sdist by invoking the build backend, which puts you back in arbitrary-Python territory.\n\n### JavaScript\n\nJavaScript is the canonical example people reach for, because `package.json` is famously JSON, which is as declarative a format as you can get, and yet npm install runs arbitrary code through the `preinstall`, `install`, and `postinstall` [lifecycle scripts](https://docs.npmjs.com/cli/v10/using-npm/scripts). Those scripts are shell commands that run in the package directory, and nothing stops them from checking `date +%u` and branching on the result.\n\nYarn, pnpm, and Bun all inherit the same lifecycle script contract for compatibility with the existing ecosystem, though recent [pnpm](https://pnpm.io/settings) and [Bun](https://bun.com/docs/cli/install) releases have started refusing to run scripts for dependencies that are not on an explicit allowlist. The contract is still there, the defaults have just got more cautious.\n\n### Deno 🌮\n\n[Deno](https://deno.com/) fetches and caches modules on demand, either at import time or up front with `deno install`, and no code the package author supplies runs against the installer’s machine before the module itself is imported. Deno 2 added first-class `package.json` and `node_modules` support on top of the existing `npm:` specifiers, but even then [it refuses to run the npm lifecycle scripts](https://docs.deno.com/runtime/reference/cli/install/) by default and requires an explicit `--allow-scripts=<pkg>` opt-in for any package that wants them.\n\n### Rust\n\nRust looks declarative at a glance. `Cargo.toml` is TOML, Cargo resolves everything from the lockfile, and the whole ecosystem leans heavily on the idea that a crate is a well defined thing.\n\nThen you notice [`build.rs`](https://doc.rust-lang.org/cargo/reference/build-scripts.html), which is a Rust file that Cargo compiles and runs before building the crate proper, so it can generate source code, link against system libraries, probe the host, and, yes, check the date. [Procedural macros](https://doc.rust-lang.org/reference/procedural-macros.html) are the same story from a different angle: they are Rust code that runs at compile time in the compiler’s own process, and they can do anything a Rust program can do. Both mechanisms are considered normal and widely used.\n\n### Go 🌮\n\n[Go modules](https://go.dev/ref/mod) come closer to passing than almost anything else in this list. The `go.mod` file is a small declarative format with no scripting in it, `go get` does not run post-install hooks, and the module proxy and checksum database make the fetch step reproducible and auditable in a way that most other ecosystems are not.\n\nThe escape hatch is [cgo](https://pkg.go.dev/cmd/cgo), which invokes the system C compiler with arguments specified by `#cgo` directives in source files, and those directives can include whatever paths and flags the package author wants. The core dependency resolution and fetching pipeline is declarative. The build pipeline is not, as soon as C is involved.\n\n### JVM languages\n\nThe JVM ecosystem is split between the declarative-looking and the openly imperative. Maven’s [`pom.xml`](https://maven.apache.org/pom.html) is XML and describes the project as data, but a pom can include plugin executions, and Maven plugins are Java code that runs during the build.\n\n[Gradle](https://docs.gradle.org/current/userguide/userguide.html) does not even pretend: `build.gradle` is a Groovy script, and `build.gradle.kts` is a Kotlin script, and both are full programming languages with access to the filesystem, the network, and the clock. [sbt](https://www.scala-sbt.org/)’s build definition is Scala. [Leiningen](https://leiningen.org/)’s `project.clj` is Clojure. [Mill](https://mill-build.org/) is Scala again.\n\nThe JVM world has spent twenty years treating the build file as a program, and the package management step is a side effect of running that program.\n\n### Swift\n\nSwift Package Manager is in the same category. [`Package.swift`](https://developer.apple.com/documentation/packagedescription) is a Swift file that is compiled and run to produce the package description, which means every resolve of a Swift package involves executing Swift code from the package author. Apple added a manifest API version comment at the top of the file so that the compiler knows which stable API to expose, but the underlying mechanism is still “run the author’s Swift program.”\n\n### Zig\n\nZig is worth pulling out because it is a modern language that looked at all of the above and decided, deliberately, that the build file should be a real program. [`build.zig`](https://ziglang.org/learn/build-system/) is Zig source compiled and run by the Zig toolchain, and the package manager is a set of APIs exposed to that program. The rationale is that builds in C-adjacent languages are already programs in disguise (makefiles, shell, CMake), and making the language of the build the same as the language of the project is more honest than pretending otherwise. It is a defensible position, and it fails the test completely.\n\n### Bazel 🌮\n\nBazel is the one entry on this list that tries to pass the Tuesday test at the language design level. `BUILD` files and `.bzl` extensions are written in [Starlark](https://bazel.build/rules/language), a dialect of Python that Google stripped back on purpose: no `while` loops, no recursion, no mutable global state, no way to read the clock, the filesystem outside declared inputs, or the network. Evaluation is guaranteed to terminate, and two evaluations of the same inputs are guaranteed to produce the same output. It is the only manifest language on this page that cannot observe what day it is even if the author wants it to.\n\nThe execution side is hedged the same way. Actions run inside a sandbox with only their declared inputs visible, and Bazel’s remote execution and remote cache assume that identical inputs produce identical outputs, so any non-determinism shows up as a cache miss and gets investigated.\n\nThe usual escape hatches are still there if you want them: `repository_rule` can call out to the host to fetch code, `genrule` runs shell, and custom toolchains can shell out to anything the sandbox allows, so a sufficiently motivated `BUILD` author can still reach the system `date` command. But the default posture is the opposite of everywhere else on this list, and the design is organised around passing the Tuesday test as an explicit goal.\n\n### Haskell\n\nA Haskell package is described by a `.cabal` file, which is a custom declarative format, not Haskell source, so the metadata layer on its own passes the Tuesday test. Tools can parse a `.cabal` file and extract dependencies, versions and compiler flags without running any of the package author’s code.\n\nThe escape hatch is the `build-type` field. `build-type: Simple` uses a stock Setup script and is fine. `build-type: Custom` (and the newer `Hooks`) tells Cabal to compile and run the package’s own [`Setup.hs`](https://cabal.readthedocs.io/en/stable/cabal-package.html), which is a real Haskell program with `preBuild`, `postBuild`, `preInst` and `postInst` hooks that can do anything Haskell can do, including read the clock.\n\nBecause `.cabal` is declarative metadata, it can also be mechanically translated into something else, which is a large part of why Haskell has such a big footprint in the Nix ecosystem. [`cabal2nix`](https://github.com/NixOS/cabal2nix) reads a `.cabal` file and emits a Nix expression, Nixpkgs ships a Haskell package set regenerated from Hackage and Stackage through that pipeline, and [`haskell.nix`](https://input-output-hk.github.io/haskell.nix/) is an alternative infrastructure built around the same idea.\n\n### Everything else with a manifest that’s a program\n\nThe rest of the list is short because the pattern is by now predictable.\n\n  - **PHP / Composer:** `composer.json` is JSON, but a [`scripts` section](https://getcomposer.org/doc/articles/scripts.md) hooks events like `post-install-cmd` and `post-update-cmd` with shell commands or PHP callables.\n\n  - **Elixir / Mix:** [`mix.exs`](https://hexdocs.pm/mix/Mix.html) is Elixir.\n\n  - **Dart / pub:** `pubspec.yaml` is declarative, but pub supports [hook scripts](https://dart.dev/tools/pub/hooks) for native and data assets, written in Dart and run at build time.\n\n  - **Perl / CPAN:** [`Makefile.PL`](https://metacpan.org/pod/ExtUtils::MakeMaker) and [`Build.PL`](https://metacpan.org/pod/Module::Build) are Perl programs, and have been since the nineties.\n\n  - **Lua / LuaRocks:** [rockspecs](https://github.com/luarocks/luarocks/wiki/Rockspec-format) are Lua tables, but the build section can include a `build_command` that runs shell.\n\n  - **Nim / Nimble:** [nimble files](https://github.com/nim-lang/nimble#nimble-reference) support `before install` and `after install` hooks written in NimScript.\n\n  - **Julia / Pkg:** packages run [`deps/build.jl`](https://pkgdocs.julialang.org/v1/creating-packages/) at install time, which is a Julia program.\n\n  - **Raku / zef:** runs Perl or Raku build scripts.\n\n### opam and Portage\n\nOCaml’s [opam](https://opam.ocaml.org/doc/Manual.html#opam) is unusually honest: the opam file is a declarative-looking S-expression format, but the `build` and `install` fields contain explicit lists of shell commands to run, and everyone knows what they are and where they live. The same is true, in a different flavour, of Gentoo’s Portage: an [ebuild](https://devmanual.gentoo.org/ebuild-writing/) is a bash script that sources a set of library functions and defines phases like `src_compile` and `src_install`, so the package is a program and no one pretends otherwise.\n\n### System package managers\n\nSystem package managers all fail, and most of them fail in several places at once. Debian packages carry [`preinst`, `postinst`, `prerm`, and `postrm` maintainer scripts](https://www.debian.org/doc/debian-policy/ch-maintainerscripts.html) that dpkg runs around the unpack step, and they are shell by default. RPM packages embed [`%pre`, `%post`, `%preun`, and `%postun` scriptlets](https://rpm-software-management.github.io/rpm/manual/spec.html), plus file triggers, which are shell scripts.\n\nArch’s pacman runs `.INSTALL` scripts from inside the package tarball, which are again shell, and [PKGBUILDs](https://wiki.archlinux.org/title/PKGBUILD) themselves are shell programs evaluated at build time. Alpine’s apk has pre and post install scripts, plus [APKBUILDs](https://wiki.alpinelinux.org/wiki/APKBUILD_Reference) that are shell scripts.\n\n[MacPorts Portfiles](https://guide.macports.org/chunked/reference.html) are Tcl. [Chocolatey packages](https://docs.chocolatey.org/en-us/create/create-packages) are PowerShell. Conda belongs on this list too, even though it is often filed next to Python: it is a cross-language binary package manager that happens to have grown up in the scientific Python community, and it ships explicit [`pre-link` and `post-link`](https://docs.conda.io/projects/conda-build/en/latest/resources/link-scripts.html) shell scripts that run when a package is linked into an environment.\n\nEvery one of these can look at the clock and do one thing on Monday and a different thing on Tuesday without bending any rules, and Homebrew at the top of the post is the same shape as all of them.\n\n### Nix and Guix 🌮\n\n[Nix](https://nixos.org/) is the interesting case, because it is the one package manager on the list that has been designed from the start around the idea that the install step should not be allowed to notice what day it is. A Nix expression is a program in the Nix language, but it is a pure lazy functional language with no I/O primitives of the sort you would need to read a clock, so the evaluation step that produces a derivation cannot observe the day of the week at all.\n\nThe derivation is then realised by running a builder inside a sandbox that has no network, a scrubbed environment, and its own view of the filesystem. The sandbox itself does not pin the clock, so a determined builder can still call `date` and get a real answer. In practice Nixpkgs and the wider [reproducible-builds.org](https://reproducible-builds.org/) project paper over this with [`SOURCE_DATE_EPOCH`](https://reproducible-builds.org/docs/source-date-epoch/), an environment variable that well-behaved build tools read instead of the real clock when stamping timestamps into their output, often set to the Unix epoch or the commit time of the source. The Tuesday test passes cleanly at the evaluation layer and passes in most cases at the realisation layer, with the remaining gaps treated as bugs rather than features.\n\n[Guix](https://guix.gnu.org/) tells the same story with different syntax. The package definitions are written in Guile Scheme, which is a full language in the way that the Nix language deliberately is not, but package records are a restricted form and the build is run inside the same kind of sandbox, inherited from the same [derivation model](https://edolstra.github.io/pubs/phd-thesis.pdf) that Eelco Dolstra wrote up in his thesis. Guix ships with a `--check` mode that rebuilds a package and compares the output to the previous build, and the whole project treats a mismatch as something to fix. Guix passes the Tuesday test about as well as anything on this list does.\n\nThe common thread in the failing cases is that building a package and installing a package are the same step. A gemspec is Ruby because gems get built on the installer’s machine from it. System package managers are the opposite shape of the same problem: installing a package means dropping files into a live filesystem and reconciling them with whatever was already there.\n\nHappy Taco Tuesday to Deno, Go, Bazel, Nix and Guix. 🌮",
+        "url": "https://nesbitt.io/2026/04/15/the-tuesday-test.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-04-15T10:00:00.000Z",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)",
+        "summary": "*Originally published elsewhere* *on Thursday, April 10, 2014.*\n\nI have no plans to watch that new movie about Steve Jobs. As I have no plans to read Walter Isaacson’s biography of him.\n\nIt’s not beca",
+        "content": "*Originally published elsewhere* *on Thursday, April 10, 2014.*\n\nI have no plans to watch that new movie about Steve Jobs. As I have no plans to read Walter Isaacson’s biography of him.\n\nIt’s not because I think those efforts are somehow not worthy of his memory. It’s just that I have my own recollections of the man. And I’m very jealous in guarding them. I don’t want those few and fleeting memories fractured and confused by other people’s interpretations.\n\nConsider that a fair warning, because I’d like to recount a few of my own stories about Steve here. Not only for you, but for myself. Because maybe in the process I can remember him better.\n\nLet me be up front saying that I did not know Steve well, but I had the opportunity to be around him on occasion. Mostly during design reviews of applications for which I was responsible. There were certainly other meetings, but I never visited his home and very rarely spent time with him unless others were part of the conversation.\n\nAnd I was certainly not some kind of confidant. In fact, he probably always thought of me as the “Safari Person.” Which is fine by me since there were worse ways for Steve Jobs to think of you.\n\nOf course, Steve could recall my real name, too. Anyone at Apple or Pixar—both large organizations—will tell you that Steve knowing your name was an honor. But also occasionally a terrifying responsibility. That was the bargain.\n\nI was privileged to work at Apple during its Renaissance. I thank Scott Forstall for that. For hiring me. And for introducing me to Steve.\n\nBut the first time I met Steve Jobs—actually just saw him in person—wasn’t at Apple. It was at the developer rollout of the original NeXT computer and its software, NeXTSTEP. Software which would eventually become Mac OS X. This was an all-day conference—I forget exactly where—probably during 1988.\n\nSteve was supposed to address us potential NeXT developers at lunch. When the noon hour rolled around, I remember being very hungry and wanting to quickly find a quiet place in the oddly-shaped dining hall to eat my meal. I picked what I thought would be a remote table. Turns out it was right next to where a lectern would soon be placed, followed shortly by the honored speaker.\n\nSteve walked out from some side door and up to the podium. Close enough for me to stand up, walk two steps and shake his hand. Not that I was stupid enough to try that.\n\nHe was dressed in a suit. Apparently he did that a lot in those days before he rediscovered jeans. Very professional looking. Almost too serious. Matching the intensity of his bearing and gaze. Obviously Steve intended to tell us all something very important.\n\nAnd we were all still eating. Some of us hadn’t even started. It was an ungrateful din of crackling sandwich paper, clanging forks, slurping straws, gnashing teeth.\n\nObviously he wanted us to quiet down. You could tell because he paused several times for us to hush ourselves. And out of respect, awe, and probably some fear, we all tried our best to do so. But, dammit, the room was now packed and that many people just swallowing food makes a lot of noise. Sitting so close, I felt especially self-conscious.\n\nWho the hell scheduled him to speak at that time? Knucklehead. It’s entirely possible that person was taken out later and shot.\n\nAnyway, I do remember Steve’s seriousness and apparent impatience that day. But not a thing he said.\n\nAfter I started at Apple in June of 2001, I saw Steve at a few on-campus events, company meetings, walking between buildings and such. You could also see Steve sometimes in the company cafeteria, Caffè Macs. He ate there just like the rest of us. Often sitting with Jony Ive.\n\nI’m not sure whether this incident happened just before or after Apple announced the original iPod, but it was a fine Autumn day in Cupertino and I was eating lunch with Ken Kocienda and Richard Williamson, the first two engineers on my Safari team.\n\nWe were sitting at a table just outside one of the double doors to Caffè Macs. I can’t remember exactly what we were talking about. If we ever discussed “the project”—as we would sometimes refer to it when not in our offices—it was always in quiet tones and extremely obtuse language since Safari was still double secret and known to only a handful.\n\nAnyway, while we were all munching on sandwiches and salads, Ken noticed a familiar face looking for an open table near the other end of the long patio curving around the front of the cafeteria. It was Bud Tribble.\n\nAmong many other achievements, Bud was famous for running the original Macintosh software team and being a co-founder at NeXT, where Richard had worked years earlier. Bud had also hired me at the now defunct Eazel which Ken and I had both worked just prior to joining Apple. Bud, in fact, helped me get the interview at Apple with Scott Forstall.\n\nSo all three of us knew him well.\n\nBud finally sat down with someone else whose back was turned away from us, six or seven tables away. Ken said something like, “Hey, that’s Bud over there! Did you guys see him? What’s he doing here?”\n\nKen and I hadn’t seen Bud in months, not since Eazel shut down, so we were all making guesses about the reason for his visit. Tiring of the conjecture, I finally just stood up, cupped my hands and called out to him.\n\n“Hey, Bud! Come over and see your old pals when you’re done to talking to *that* guy.” Bud looked up—slight pause—and “that guy” turned around to stare at me.\n\nIt was Steve Jobs. Of course.\n\nI will forever remember his look—a slightly lopsided and tight-lipped half-smile, eyebrows narrowed as if to say, “I don’t know who you are but I won’t forget that.”\n\nGulp.\n\nWhen I sat back down at least I didn’t say something smartass like, “I am so fired,” in front of my two engineers. Although that’s what I thought at the time.\n\nKen and Richard thought it was pretty funny once Steve turned back around. Until he did, I think they were holding their breath, too.\n\nSpoiler alert: I did not get fired.\n\nAnd about nine or ten months into the Safari project, Scott Forstall figured we should start preparing to review its features, user interface and various behaviors with Steve. This would have been during the late Spring of 2002.\n\nBy that time Safari was a for-real application which could actually browse the Web. But it wasn’t called Safari yet. That christening wouldn’t happen until December, later that year.\n\nScott briefed me on what to expect and essentially how to behave during my first meeting with Steve and the subsequent reviews. And it was clear I would *not* be at a second meeting with Steve if I fucked up during the first one.\n\nSo I listened to Scott very carefully and took his most excellent advice. In retrospect, it should have been obvious. At least the general guidelines. But there were a few particulars I never would have thought of ahead of time.\n\nLet me be clear. Steve was not some mercurial ogre or cartoon autocrat. He was just very, very busy. He didn’t have time for “yes men,” the easily frightened, or those who didn’t know what the fuck they were doing or talking about.\n\nIn that way, he wasn’t different from any other executive. At least those with good sense.\n\nSteve expected excellence. Which is why he so often got it.\n\nHe knew when something was right, but he didn’t always tell you what he wanted when it wasn’t. And he was very clear when he didn’t like it. Some misinterpreted this behavior as being overly critical, but it was actually time-saving clarity, albeit uncomfortable on occasion.\n\nDesign was an iterative process with Steve. Which meant that it could take several sessions with him to complete that cycle. So patience was not just a virtue.\n\nWhen Steve asked you a question? You didn’t ramble and, whatever you did, you didn’t make up an answer. If you didn’t know, you just said that you didn’t know. But then you told him when you’d have an answer. Again, this was just good advice to anyone “managing up,” as they say.\n\nWhen demoing something to Steve, you had to pace yourself. If Steve said, “Stop,” you fucking stopped. Hands down and waited. And you didn’t jiggle the cursor while he was looking at the screen. Certain death.\n\nIf he wanted to drive the demo machine then, by God, you let him drive.\n\nAnd if your software crashed, you didn’t make excuses. You just made damn sure that particular scenario didn’t happen again. Ever.\n\nMost of all, you remained calm. Because that was *so* easy. Oh, yeah.\n\nAnyway, the other thing Scott warned me about was that Steve might test me. Meaning that he might push me a bit to see what I would do. Sort of like a pitcher brushing back a batter with the high hard one. Fun.\n\nI don’t actually remember much about that first meeting with Steve. Sorry, folks. Probably nothing to do with nervousness, I’m sure. But I was invited back. So I must not have screwed it up too badly. No doubt because not much actually happened.\n\nAt one of those subsequent reviews—it might have been the second meeting—Steve did put me on the spot. With a direct in-your-face question. In fact, I think it was the first thing he ever asked me.\n\nWe were reviewing the bookmarks user interface in the yet-to-be-released Safari. At that time, all bookmarks were contained in a single, separate modeless window. It was homely but easy to implement.\n\nAnd Steve didn’t like it. Probably because he didn’t want the complication of switching between windows. We started looking at how other Mac browsers did it. He didn’t like those solutions either.\n\nSo he turned directly to me, leaned forward with that laser-like focus of his and asked, “What would you do?”\n\nConsidering that what we just demoed was what I *had* done—or, technically, what my engineers had done—I was screwed. Everything else in the world seemed to fade away in a blur around Steve’s face, and for a moment I couldn’t think. But I didn’t panic. Or soil myself.\n\nAfter a beat I said, “I actually like what Internet Explorer for Windows does, with the bookmarks in the same window as the Web content. I just don’t like how it puts them in a sidebar. There’s got to be a better solution than a sidebar, but I don’t know what that is yet.”\n\nAnd instead of being annoyed at my lame-ass answer, Steve said, “Show me what that looks like.”\n\nOf course, he put me on the spot again because we didn’t have any machine running Windows handy. Which shouldn’t be surprising. But I dodged another fastball by finding a screenshot online with Safari itself. Score!\n\nI was in the major leagues now.\n\nOne great take away from working with Steve is that there’s not much anyone can do to intimidate me now. So, bonus.\n\nAfter a few reviews with Steve, I was allowed to do the live application demos of Safari sitting right next to him.\n\nNormally someone from the design team demoed screenshots or non-code prototypes in Macromedia Director. And many times they also demoed the real application. But Scott wanted me to demo the live code because he thought I would be able to avoid the fragile edges and therefore the crashes.\n\nLater, I initiated one of my engineers, John Sullivan, with this honor and doom. But in the beginning, it was me.\n\nToward the end of Summer in 2002, we were making progress with Safari’s look and feel. While reviewing some of the affordances in the main Safari window again with Steve, we focused on the status bar.\n\nSteve didn’t like the status bar and didn’t see the need for it. “Who looks at URLs when you hover your mouse over a link?” He thought it was just too geeky.\n\nFortunately, Scott and I convinced Steve to keep the status bar as an option, not visible by default. But that meant we had a new problem. Where should we put the progress bar to indicate how much of the page was left to load?\n\nBefore, the progress bar lived inside the status bar. So we needed to find it a new home. We discussed all sorts of silly ideas including making it vertical along the edge of the window.\n\nRemember, this was back in the day before the spinning gear or other smaller affordances were widely used to indicate progress. In the age of barber-pole blue Aqua, it had to be a bar.\n\nThe room got quiet. Steve and I sat side-by-side in front of the demo machine staring at Safari. Suddenly we turned to each other and said at the same time, “In the page address field!”\n\nSmiles all around. Which I followed with, “I’ll have a working version of that for you by the end of the week.” Over-committing my engineering team, of course.\n\nBut I didn’t care. I had just invented something with the Big Guy. True, it was a trifle, but there’s no feeling like sharing even a tiny byline with Steve.\n\nThe irony of that invention is that years later I tried to get the whole feature removed. Because even when precision testing showed that Safari loaded pages faster than any other browser, that damn in-your-face progress bar made it seem slower to the user. Its wonderful visibility was killing our reputation.\n\nWhile we never did remove it, we finally changed the appearance and behavior of the progress bar. And that made me sad, even while it made me happy.\n\nSometimes during those design review meetings I got a glimpse of Steve that few were privileged to see.\n\nOnce a co-worker in the room acted a bit unfocused and bleary eyed so Steve paused the review to ask if he felt okay. That person apologized and responded that he’d been in the emergency room late into the night with his daughter after an accident at home.\n\nSteve, visibly concerned, asked if it would be better to do the review later. The fellow thanked him and said no, we could proceed. Then Steve related a story about one of his own children who had a similar mishap a few weeks earlier and how much that had shook him, too. He told the fellow he could take off early that day, after the review.\n\nAnother time Steve himself looked a bit bleary eyed and apologized to all of us. He told us he’d been up all night.\n\nThe family dog had passed away sometime earlier so Steve and his family adopted a new puppy. After a few days with that strain, his wife told him it was his turn to stay up minding the animal so she and the kids could get some sleep. Which meant he had been sitting on the kitchen floor until morning with a cranky little dog trying to keep it quiet.\n\nEven he thought that was funny, a good thing because several of us were trying not to laugh.\n\nYes, Steve could be intense at times. But he was also a real person. He had to deal with the ordinary and mundane aspects of life like everyone else. Maybe even enjoy them.\n\nI’ve written before about being at 2003 Macworld keynote rehearsals, the event where Safari was unveiled. Also where Steve gave the first update on our new Apple Stores, at the time open less than a year.\n\nMany technology and business pundits had already written off our retail effort claiming it would be a huge failure—yet another dumb-ass prediction about Apple. In fact, the stores had succeeded better than we expected. And Steve wanted to make damn sure everyone knew that. Especially the pundits.\n\nDuring the two days of rehearsals, I sat about three or four rows away from the stage in the nearly empty presentation hall with Ken Kocienda. With the brightly lit stage in a dark hall, Ken and I were just visible enough for Steve or the support staff to see us if we were needed to troubleshoot the Safari demo.\n\nBut most of the time, we had nothing to do except sit there and watch The Master Presenter practice his magic.\n\nNear the beginning of the first day Steve asked, “Is Phil here yet?” Meaning Phil Schiller, our head of Marketing. After a quick look around, somebody reported that he hadn’t arrived yet.\n\nSteve explained to all of us that he was planning a little prank, we would see it first, and we had better not say anything about it when Phil did arrive later.\n\nHe then queued up the slides with the Apple Store update and inserted an extra special slide right at the end.\n\nIt. Was. Epic.\n\nLaughter all around while we stared at the slide for a minute, a few moments to calm ourselves, and then the keynote was reset to the beginning. Great timing because that’s when Phil walked into the hall.\n\nSo Steve started the rehearsal, going through slides on the “Switcher” ad campaign and then the Apple Stores.\n\nAt the end of the retail update, he was supposed to conclude with something like “1.4 million visitors in the month of December alone,” but he added, “so to all of you in the press who doubted us…”\n\nAnd then clicked to reveal his special slide—poster art I’m sure everyone has seen before—a 1940’s-style rendering of a grinning man holding a big mug of coffee next to his face with this text alongside like a word balloon:\n\n“How about a nice cup of shut the fuck up.”\n\nAnd then the best part—the part we didn’t know was coming—Steve paused, turned to his VP of Marketing and deadpanned, “What do you think, Phil? Too much?”\n\nKen and I struggled to keep from collapsing in another giggling fit and falling on the floor.\n\nThat Steve made such an effort to punk Phil not only meant he had a wonderful sense of mischief, but it was clear he thought well enough of Phil to know the man could take the joke. Which Phil did after a few moments of what I assume was panic.\n\nSteve didn’t always wear blue jeans and a black turtleneck.\n\nSometime during my early years at Apple, I spoke with a veteran engineer in his first-floor office. He had his back to a window so I had a good view of the big path outside which led to Caffè Macs.\n\nWhile looking out that window, I became distracted trying to figure out who was walking along that path with Jony Ive. The hand gestures seemed familiar, but… Wait. What the hell?\n\nI pointed at who I saw out the window. My host turned around, looked and said, “Yeah, that’s how we know it’s really Summer—Steve is wearing short pants.” And apparently a short-sleeved, almost-tropical shirt with actual buttons.\n\nSeriously, I didn’t recognize him at first. There were always a few strangely dressed folks around campus, including one fellow who regularly wore a plaid kilt. And I’m not even sure that guy was Scottish.\n\nAt least Steve looked like he was cool even if that wasn’t a particularly cool look for him.\n\nAnd in retrospect, he did have a better tan than most of the rest of us geeks.\n\nIn my later years at Apple, I probably saw Steve less often than the early days of Safari development. Partly by circumstance and partly by my choice.\n\nI had fewer new applications to review with him and often when I did, I tried to get someone on my staff to do the demo instead of myself. This made for less crowded reviews and it gave other folks experience dealing with Steve. I didn’t want to hog all the glory. Or all the doom.\n\nOnce there was a longer than usual stretch of time where I hadn’t been in a meeting with Steve. In fact, during that period, I didn’t recall seeing him in the cafeteria or walking around campus either.\n\nAnd then I was called to participate in a design review with Steve.\n\nWhen I walked into the meeting room I was shaken. Steve looked thin and haggard with an unhealthy color, like someone’s grandfather.\n\nJust as unsettling was his demeanor. He seemed tired and without his usual focus.\n\nWe all knew Steve was sick. He had told us about the cancer. But until that time I didn’t realize how much it had ravaged him.\n\nI don’t even remember the subject of that design review. When it was over, I left quickly and headed toward my office.\n\nRealizing that what I saw had bothered me so intensely, I stopped at Darin Adler’s office rather than my own. I needed to talk to someone about it. As a manager, you should never share such things with someone who reports to you. But I had known Darin for years and trusted him not to freak out.\n\nAnd he didn’t. But at the end of the day there wasn’t much for either of us to do except hope for the best and prepare for the worst. And get back to work.\n\nWhich is why, months later, I was actually relieved to hear that Steve would be getting a liver transplant. That idea scared a lot of folks, but I thought it felt hopeful.\n\nWhen he returned from the operation, he still didn’t look like the Steve of old, but he looked much better than that last time. So much better that many of us hoped he would be with us for quite a while.\n\nThe last time I saw Steve we talked about Safari.\n\nThis was earlier in the Summer of 2011 before he resigned. Steve had been on another medical leave since January of that year. Getting thinner and weaker again, he still came into the office to do what he loved.\n\nAt a design review of a new Safari feature, the subject of the Windows version came up. Steve wanted to know what we could do to make it better and more competitive.\n\nBy this time I felt pretty relaxed being around Steve. So relaxed that I decided—what the hell—I’ll just be blunt.\n\nBesides getting more folks at Apple to support development of Windows components the application depended on, I told him this wasn’t an engineering problem—I really needed advertising. And that Safari for Windows couldn’t compete with Chrome when Google put a download button for it on their home page and spent big on television, print and Web views.\n\nScott Forstall, also in the room, backed me up on this. Another reason Scott made a great boss.\n\nDarin Adler, now running Safari and WebKit for me, had the presence of mind to add that the need for promotion wasn’t just a Windows Safari problem—Mac Safari would benefit from it too.\n\nWe were all huddled in the little design review room, some of us in chairs. I sat directly across and just a few feet from Steve.\n\nHe seemed to be thinking about the problem and the proposal for some time. He was actually considering this. And that was heartening. After all, Steve was famous for changing his mind.\n\nBut, in the end, he said no.\n\nWhile not harsh about the decision at all, he didn’t really elaborate on the response. I assume his reason was focus. By then we had focused on iOS, iPhones and iPads. Hell, I don’t think we even advertised Macs or OS X on television at that time.\n\nI wasn’t thrilled, but I could understand.\n\nAnd when you can get the time for thoughtful reflection on your idea from a visionary like Steve—well, that’s a good day.\n\nA few months later, I was home sick in bed with the flu, a little out of it due to medication and not at all aware of the news.\n\nIt’s not like all of us didn’t expect it, but it surprised me when Scott called to tell me that Steve had died. A courtesy that I’ve always greatly appreciated because I know how difficult it must have been to talk then.\n\nAnd it seemed better that Steve passed away at home with his family around him. Because that’s how a good person goes.\n\nAfter I called my staff and made sure they were aware and they were okay, I told them to let any of their team members leave for the day if they thought that was best. Most of them stayed anyway because they didn’t want to be alone.\n\nThen I laid back down, alone, and selfishly realized how fortunate I had been to have known this man, if just for a little while.",
+        "url": "https://lisamelton.net/2023/10/05/memories-of-steve/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-04-15T19:54:17.000Z",
+        "reading_time": 22,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Rights for robots (15 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/15/artificia",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/15/artificial-lifeforms/)\n\n## Today's links\n\n- [Rights for robots](https://pluralistic.net/2026/04/15/artificial-lifeforms/#moral-consideration): Not everything deserves moral consideration.\n\n- [Hey look at this](https://pluralistic.net/2026/04/15/artificial-lifeforms/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/15/artificial-lifeforms/#retro): 7 years under the DMCA; NOLA mayoral candidate x New Orleans Square; Kettling is illegal; AOL won't deliver critical emails; Chris Ware x Charlie Brown; Mossack Fonseca raided; Corporate lobbying budget is greater than Senate and House; Corbyn overpays taxes; What IP means; Bill Gates v humanity; \"Jackpot.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/15/artificial-lifeforms/#upcoming): Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London.\n\n- [Recent appearances](https://pluralistic.net/2026/04/15/artificial-lifeforms/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/15/artificial-lifeforms/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/15/artificial-lifeforms/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/15/artificial-lifeforms/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/rights-for-robots.jpg?w=840&ssl=1)\n\n## Rights for robots ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#))\n\nThe Rights of Nature movement uses a bold tactic to preserve our habitable Earth: it seeks to extend (pseudo) personhood to things like watersheds, forests and other ecosystems, as well as nonhuman species, in hopes of creating legal \"standing\" to ask the courts for protection:\n\n[https://en.wikipedia.org/wiki/Rights_of_nature](https://en.wikipedia.org/wiki/Rights_of_nature)\n\nWhat do watersheds, forests and nonhuman species need protection *from*? That turns out to be a *very* interesting question, because the most common adversary in a Rights of Nature case is *another* pseudo-person: namely, a limited liability corporation.\n\nThese nonhuman \"persons\" have been a feature of our legal system since the late 19th century, when the Supreme Court found that the 14th Amendment's \"Equal Protection\" clause could be applied to a railroad. In the 150-some years since, corporate personhood has monotonically expanded, most notoriously through cases like *Hobby Lobby*, which gave a corporation the right to discriminate against women on the grounds that it shared its founders' religious opposition to abortion; and, of course, in *Citizens United*, which found that corporate personhood meant that corporations had a constitutional right to divert their profits to bribe politicians.\n\nTheoretically, \"corporate personhood\" extends to all kinds of organizations, including trade unions – but in practice, corporate personhood primarily allows the ruling class to manufacture new \"people\" to serve as a botnet on their behalf. A union has free speech rights just like an employer, but the employer's *property* rights mean that it can exclude union organizers from its premises, and *employer* rights mean that corporations can force workers to sit through \"captive audience\" meetings where expensive consultants lie to them about how awful a union would be (the corporation's speech rights also mean that it's free to lie).\n\nIn my view, corporate personhood has been an unmitigated disaster. Creating \"human rights\" for these nonhuman entities led to the catastrophic degradation of the natural world, via the equally catastrophic degradation of our political processes.\n\nIn a strange way, corporate personhood has realized the danger that reactionary opponents of votes for women warned of. In the days of the suffrage movement, anti-feminists claimed that giving women the vote would simply lead to husbands getting *two* votes, since wives would simply vote the way their husbands told them to.\n\nThis libel never died out. Take the recent hard-fought UK by-election in Gorton and Denton (basically Manchester): this was the first test of the Green Party's electoral chances under its new leader, the brilliant and principled leftist Zack Polanski. The Green candidate was Hannah Spencer, a working-class plumber and plasterer who rejected the demonization of the region's Muslim voters, unlike her rivals from Labour (which has transformed itself into a right-wing party), Reform (a fascist party), and the Conservatives (an irrelevant and dying right party). During the race (and especially after Spencer romped to a massive victory) Spencer's rivals accused her of courting \"family voters,\" by which they meant Muslim wives, who would vote the way their Islamist husbands ordered them to. Despite the facial absurdity of this claim – that the Islamist vote would go for the pro-trans party led by a gay Jew – it was widely repeated:\n\n[https://www.bbc.com/news/articles/clyxeqpzz2no](https://www.bbc.com/news/articles/clyxeqpzz2no)\n\n\"Family voting\" isn't a thing, but corporate personhood *has* conferred political rights on the ruling class, who get to manufacture corporate \"people\" at scale, each of which is guaranteed the same right to contribute to politicians and intervene in our politics as any human.\n\nContrast this with the Rights for Nature movement. Where corporate personhood leads to a society with *less* empathy for living things (up to and including humans), Rights for Nature creates a legal and social basis for *more* empathy. In her stunning novel *A Half-Built Garden*, Ruthanna Emrys paints a picture of a world in which the personhood of watersheds and animals become as much of a part of our worldview as corporate personhood is today:\n\n[https://pluralistic.net/2022/07/26/aislands/#dead-ringers](https://pluralistic.net/2022/07/26/aislands/#dead-ringers)\n\nScenes from *A Half-Built Garden* kept playing out in my mind last month while I attended the Bioneers conference in Berkeley, where they carried on their decades-long tradition of centering indigenous activists whose environmental campaigns were intimately bound up with the idea of personhood for the natural world and its inhabitants:\n\n[https://bioneers.org/](https://bioneers.org/)\n\nOn the last morning, my daughter and I sat through a string of inspiring and uplifting presentations from indigenous-led groups that had used Rights of Nature to rally support for legal challenges that had forced those *other* nonhuman \"persons\" – limited liability corporations – to retreat from plans to raze, poison, or murder whole regions.\n\nThe final keynote speaker that morning was the writer Michael Pollan, who spoke about a looming polycrisis of AI, and I found myself groaning and squirming. *Not him, too!* Were we about to be held captive to yet another speaker convinced that AI was going to become conscious and turn us all into paperclips?\n\nThat seemed to be where he was leading, as he discussed the way that chatbots were designed to evince the empathic response we normally reserve for people – the same empathy that all the other speakers were seeking to inspire for nature. But then, he took an unexpected and welcome turn: Pollan compared extending personhood to chatbots to the disastrous decision to extend personhood to corporations, and urged us all to turn away from it.\n\nThis crystallized something that had niggled at me for years. For years, people I respect have used the Rights for Nature movement as an argument for extending empathy to software constructs. The more we practice empathy – and the more rights we afford to more entities – the better we get at it. Personhood for things that are not like us, the argument goes, makes our own personhood more secure, by honing a reflex toward empathy and respect for all things. This is the argument for saying thank you to Siri (and now to other chatbots):\n\n[https://ojs.lib.uwo.ca/index.php/fpq/article/download/14294/12136](https://ojs.lib.uwo.ca/index.php/fpq/article/download/14294/12136)\n\nSiri – like so many of our obedient, subservient, sycophantic chatbots – impersonates a woman. If we get habituated to barking orders at a \"woman\" (or at our \"assistants\") then this will bleed out into our interactions with *real* women and *real* assistants. Extending moral consideration to Siri, though \"she\" is just a software construct, will condition our reflexes to treat *everything* with respect.\n\nFor years, I'd uncritically accepted that argument, but after hearing Pollan speak, I changed my mind. Rather than treating Siri with respect because it impersonates a woman, we should demand that Siri *stop impersonating a woman*. I don't thank my Unix shell when I pipe a command to grep and get the output that I'm looking for, and I don't thank my pocket-knife when it slices through the tape on a parcel. I can appreciate that these are well-made tools and value their thoughtful design, but that doesn't mean I have to respect them in the way that I would respect a *person*.\n\nThat way lies madness – the madness that leads us to ascribe personalities to corporations and declare some of them to be \"immoral\" and others to be \"moral,\" which is always and forever a dead end:\n\n[https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones](https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones)\n\nIn other words: there's an argument from the Rights of Nature movement that says that the more empathy we practice, the better off we are in all our interactions. But Pollan complicated that argument, by raising the example of corporate personhood. It turns out that extending personhood to *constructed* nonhuman entities like corporations *reduces* the amount of empathy we practice. Far from empowering labor unions, the creation of \"human\" rights for groups and organizations has given capital *more* rights over workers. A *labor rights* regime can defend workers – without empowering bosses and without creating new \"persons.\"\n\nThe question is: is a chatbot more like a corporation (whose personhood corrodes our empathy) or more like a watershed (whose personhood strengthens our empathy)? But to ask that question is to answer it – a chatbot is *definitely* more like a corporation than it is like a watershed. What's more: in a very real, non-metaphorical way, giving rights to chatbots means taking away rights from nature, thanks to LLMs' energy-intesivity.\n\nEmpathy then, for the nonhuman world – but not for human constructs.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Khan vs. Cutter: A Tale of Two Careers  [https://prospect.org/2026/04/14/khan-vs-cutter-tale-of-two-careers/](https://prospect.org/2026/04/14/khan-vs-cutter-tale-of-two-careers/)\n\n- \nThe MetaBrainz Foundation is seeking a new Executive Director (ED) [https://blog.metabrainz.org/2026/04/14/seeking-a-new-executive-director/](https://blog.metabrainz.org/2026/04/14/seeking-a-new-executive-director/)\n\n- \nMissouri Town Council Approves Data Center. A Week Later, Voters Fire Half of Council [https://gizmodo.com/missouri-town-council-approves-data-center-a-week-later-voters-fire-half-of-council-2000746005](https://gizmodo.com/missouri-town-council-approves-data-center-a-week-later-voters-fire-half-of-council-2000746005)\n\n- \nWikilinker [https://whitelabel.org/wikilinker/about/](https://whitelabel.org/wikilinker/about/)\n\n- \nFold Catastrophes/Peter Watts [https://tachyonpublications.com/product/fold-catastrophes/?mc_cid=c20986aa78](https://tachyonpublications.com/product/fold-catastrophes/?mc_cid=c20986aa78)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#retro))\n\n#20yrsago Canadian labels pull out of RIAA-fronted Canadian Recording Industry Ass. [https://web.archive.org/web/20060414170111/https://www.michaelgeist.ca/component/option,com_content/task,view/id,1204/Itemid,85/nsub,/](https://web.archive.org/web/20060414170111/https://www.michaelgeist.ca/component/option,com_content/task,view/id,1204/Itemid,85/nsub,/)\n\n#20yrsago EFF publishes “7 Years Under the DMCA” paper [https://web.archive.org/web/20060415110951/https://www.eff.org/deeplinks/archives/004555.php](https://web.archive.org/web/20060415110951/https://www.eff.org/deeplinks/archives/004555.php)\n\n#20yrsago Life of a writer as a Zork adventure [https://web.archive.org/web/20060414115745/http://acephalous.typepad.com/acephalous/2006/04/disadventure.html](https://web.archive.org/web/20060414115745/http://acephalous.typepad.com/acephalous/2006/04/disadventure.html)\n\n#20yrsago NOLA mayoral candidate uses photo of Disneyland New Orleans Square [https://web.archive.org/web/20060414214356/https://www.wonkette.com/politics/new-orleans/not-quite-the-happiest-place-on-earth-166989.php](https://web.archive.org/web/20060414214356/https://www.wonkette.com/politics/new-orleans/not-quite-the-happiest-place-on-earth-166989.php)\n\n#20yrsago AOL won’t deliver emails that criticize AOL [https://web.archive.org/web/20060408133439/https://www.eff.org/news/archives/2006_04.php#004556](https://web.archive.org/web/20060408133439/https://www.eff.org/news/archives/2006_04.php#004556)\n\n#15yrsago UK court rules that kettling was illegal [https://www.theguardian.com/uk/2011/apr/14/kettling-g20-protesters-police-illegal](https://www.theguardian.com/uk/2011/apr/14/kettling-g20-protesters-police-illegal)\n\n#15yrsago If Chris Ware was Charlie Brown [https://eatmorebikes.blogspot.com/2011/04/lil-chris-ware.html](https://eatmorebikes.blogspot.com/2011/04/lil-chris-ware.html)\n\n#10yrsago Piracy dooms motion picture industry to yet another record-breaking box-office year [https://torrentfreak.com/piracy-fails-to-prevent-box-office-record-160413/](https://torrentfreak.com/piracy-fails-to-prevent-box-office-record-160413/)\n\n#10yrsago Panama Papers: Mossack Fonseca law offices raided by Panama authorities [https://www.reuters.com/article/us-panama-tax-raid-idUSKCN0XA020/](https://www.reuters.com/article/us-panama-tax-raid-idUSKCN0XA020/)\n\n#10yrsago Panama Papers reveal offshore companies were bagmen for the world’s spies [https://web.archive.org/web/20160426083004/https://www.yahoo.com/news/panama-papers-reveal-spies-used-mossak-fonseca-231833609.html](https://web.archive.org/web/20160426083004/https://www.yahoo.com/news/panama-papers-reveal-spies-used-mossak-fonseca-231833609.html)\n\n#10yrsago How corporate America’s lobbying budget surpassed the combined Senate and Congress budget [https://web.archive.org/web/20150422010643/https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/](https://web.archive.org/web/20150422010643/https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/)\n\n#10yrsago URL shorteners are a short path to your computer’s hard drive [https://arxiv.org/abs/1604.02734](https://arxiv.org/abs/1604.02734)\n\n#10yrsago UL has a new, opaque certification process for cybersecurity [https://arstechnica.com/information-technology/2016/04/underwriters-labs-refuses-to-share-new-iot-cybersecurity-standard/](https://arstechnica.com/information-technology/2016/04/underwriters-labs-refuses-to-share-new-iot-cybersecurity-standard/)\n\n#10yrsago Jeremy Corbyn overpays his taxes [https://web.archive.org/web/20160413192208/https://www.politicshome.com/news/uk/political-parties/labour-party/news/73724/jeremy-corbyn-overstated-income-his-tax-return](https://web.archive.org/web/20160413192208/https://www.politicshome.com/news/uk/political-parties/labour-party/news/73724/jeremy-corbyn-overstated-income-his-tax-return)\n\n#10yrsago Cassetteboy’s latest video is an amazing, danceable anti-Snoopers Charter mashup [https://www.youtube.com/watch?v=D2fSXp6N-vs](https://www.youtube.com/watch?v=D2fSXp6N-vs)\n\n#10yrsago Texas: prisoners whose families maintain their social media presence face 45 days in solitary [https://www.eff.org/deeplinks/2016/04/texas-prison-system-unveils-new-inmate-censorship-policy](https://www.eff.org/deeplinks/2016/04/texas-prison-system-unveils-new-inmate-censorship-policy)\n\n#5yrsago Data-brokerages vs the world [https://pluralistic.net/2021/04/13/public-interest-pharma/#axciom](https://pluralistic.net/2021/04/13/public-interest-pharma/#axciom)\n\n#5yrsago What \"IP\" means [https://pluralistic.net/2021/04/13/public-interest-pharma/#ip](https://pluralistic.net/2021/04/13/public-interest-pharma/#ip)\n\n#5yrsago Bill Gates will kill us all [https://pluralistic.net/2021/04/13/public-interest-pharma/#gates-foundation](https://pluralistic.net/2021/04/13/public-interest-pharma/#gates-foundation)\n\n#5yrsago Jackpot [https://pluralistic.net/2021/04/13/public-interest-pharma/#affluenza](https://pluralistic.net/2021/04/13/public-interest-pharma/#affluenza)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/15/artificial-lifeforms/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/15/artificial-lifeforms/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Security"
+        ],
+        "published_at": "Wed, 15 Apr 2026 07:06:28 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pressed For Options",
+        "summary": "**As you may or may not know,** I’m somewhat obsessed with tech on the edges, gadgets that do a thing comparable to a more expensive thing, and making the most of the things I have. (See my [Colmi R02",
+        "content": "**As you may or may not know,** I’m somewhat obsessed with tech on the edges, gadgets that do a thing comparable to a more expensive thing, and making the most of the things I have. (See my [Colmi R02](https://tedium.co/2024/11/08/colmi-r02-hacker-ring-review/) smart ring, which I’m wearing now.) And I kind of hate typing in my password a thousand times a day.\n\nSo I bought a fingerprint reader on Temu. And it works pretty well, all things considered.\n\nIn the world of Windows and MacOS, the options have been pretty solid. All modern Mac laptops, besides the base model MacBook Neo, have fingerprint readers. (For desktops, the situation is more complicated. Apple doesn’t make a standalone fingerprint reader, only putting one in its Magic Keyboard, but should.)\n\nMicrosoft has [Windows Hello biometrics](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/windows-hello-face-authentication), a laptop-level approach to Face ID, but it works barely at best. My laptop, which has it, has only sporadically been able to get it to work with Windows. (Ironically, it works a little better on Linux.) But that has problems, too. If you’re in a dark room, for instance, it either doesn’t work at all or floods your face with a flash of light. Not exactly a fun 2 a.m. experience.\n\nThe solution here is to get a fingerprint reader that can help secure logins and offer an alternative to typing your sudo password 100 times per day. But there’s a challenge for Linux users: There are lots of modern fingerprint readers out there, but almost none of them support Linux via its standard security tool [fprint](https://fprint.freedesktop.org/). The ones that do are large and clunky, built not as laptop appendages but as large accessories that make more sense in complex desktop settings.\n\n![Depositphotos_39298245_S.jpg](https://proxy.tedium.co/Vts1GLfPlHpw9RFAnZ67LiB5YYY=/1000x667/filters:quality(80)/uploads/Depositphotos_39298245_S.jpg)ThinkPads famously have pretty good fingerprint support on Linux compared to other platforms. (photos via [DepositPhotos.com](https://depositphotos.com/))So what are laptop users to do? Beyond getting a ThinkPad, the options aren’t easy. When I started thinking about getting a fingerprint reader for my laptop, recently, I felt like I was tilting at windmills. I wasn’t sure what made the most sense, but I wanted something that could live off a USB-A port. What I found was a messy climate of cheap fingerprint readers that only barely do the thing that‘s listed on the tin. Finding a Linux-supporting fingerprint reader is a total crapshoot, and the best you can do is hope that someone else got there first.\n\n(Not helping: The [list of supported devices](https://fprint.freedesktop.org/supported-devices.html) on fprint is thick as mud, presuming that you know the code name for the chip in your fingerprint reader. Plus, the list of [unsupported devices](https://gitlab.freedesktop.org/libfprint/wiki/-/wikis/Unsupported%20Devices) is just as long, thanks to unfinished drivers.)\n\nBut there is a narrow path out of this annoying situation, and we have gamers to thank for all this. See, a few years ago the enthusiast company [GamePad Digital](https://www.gpd.hk/) (GPD) made a series of laptops called the GPD Win Max, which are essentially decked-out, handheld netbooks for gamers. In the days before the Steam Deck, it was the best PC gamers could do for portable gaming. The Win Max is still made today, and it has a fingerprint reader. Users wanted to use the fingerprint reader in Linux, and that led to a community developing a solution. This chip, the Chipsailing CS9711, is used in a number of USB fingerprint readers. If you know where to find them and are willing to [install a fork of libfprint](https://github.com/archeYR/libfprint-CS9711), you can use this device as a fingerprint reader on your laptop.\n\nNot exactly painless—you have to know a few commands—but it’s absolutely doable, if you can find one. I found one, but it wasn’t easy, and I ultimately had to buy the thing via, of all things, Temu.\n\n![usb_fingerprint_reader.jpg](https://proxy.tedium.co/jBaxZ74ZQV26rD-82_XGsPmCYrs=/1000x873/filters:quality(80)/uploads/usb_fingerprint_reader.jpg)If you get a fingerprint reader like this, odds are you’re going to struggle to determine if it’s Linux-compatible. There’s nothing on the device that suggests it might be.\n### So, Is This Safe?\n\nI think the key thing you might be asking yourself is, is buying a random fingerprint reader introducing a security risk to your device?\n\nThe short answer: Well, it’s an attack surface, and attack surfaces are made to be exploited. Even without the influence of Linux, Windows Hello devices have been getting exploited for years. At last year’s Black Hat security conference, a team of researchers figured out how to [shove someone else’s face into the camera stream](https://www.theregister.com/2025/08/07/windows_hello_hell_no/) the feature relies on. Before that, Microsoft itself [found issues](https://www.malwarebytes.com/blog/news/2023/11/windows-hello-fingerprint-authentication-can-be-bypassed-on-popular-laptops) with common fingerprint readers.\n\nThere are some benefits to an external fingerprint reader that an internal one does not have. If you’re concerned someone might try to log into your machine at the coffee shop while you’re hitting the restroom, take the fingerprint reader with you. (As I was writing, I actually tried this. It worked.) This has limits; the reader is generic, so you can’t do something like pair the specific device to your machine, so if anyone else has a fingerprint reader with the same chip, they can use it on your machine.\n\n![YubiKey.jpg](https://proxy.tedium.co/Lema8zHZK-gst-JbRYsGpsFTQfs=/1000x1000/filters:quality(80)/uploads/YubiKey.jpg)The more expensive [YubiKey](https://amzn.to/4tRzxWT), which comes in models with or without fingerprint readers, could be a good alternative to folks who want to skip the Temu lottery.This is not exactly hardened like a [YubiKey](https://www.zdnet.com/article/yubikey-hands-on-hardware-based-2fa-is-more-secure-but-watch-out-for-these-gotchas/) or Titan device might be, but if your goal is to offer a modest amount of convenience, it could be just enough to make your life slightly easier. (Odds are, a snooper isn’t going to have a fingerprint reader of their own that matches yours—much like most people aren’t going to go to the trouble of hacking a device [via its Thunderbolt connection](https://midrange.tedium.co/issues/thunder-on-the-surface/).)\n\nSo, what’s the solution here? I think the best thing would be if manufacturers intentionally took steps to support fingerprint readers on Linux, but that doesn’t seem to be happening any time soon. So the alternative: Chinese manufacturers should probably explain what chip they used in the description of the device they’re selling. Currently, they don’t, and that presumably leads a lot of nerds to buy these devices, learn the devices don’t work on Linux, and immediately return them. That has to be costing them money.\n\nThere’s another solution that might be staring you in the face as you’re reading this: A lot of Android phones have fingerprint scanners already. Why not use one of those as your authentication tool, rather than doing Temu dumpster diving? I didn’t see any projects that formalized this, though I have seen some hacky solutions on GitHub. [KDE Connect](https://kdeconnect.kde.org/), the widely used phone connection tool, could be a great choice for a user-friendly version of this.\n\nAll I know is that it’ll be nice to cut down on the number of times each day that I have to type in my password.\n\n##### Fingerprint-Free Links\n\n**Publishers are getting wary** of AI scraping, and they’re taking it out on the Internet Archive again. [Fight for the Future recently organized](https://www.fightforthefuture.org/news/2026-04-13-100-journalists-applaud-the-internet-archives-role-in-preserving-the-public-record/) an open letter of journalists who want to defend this important resource, and I was happy to be a [signatory](https://www.savethearchive.com/journalists/). We should not take it for granted.\n\n**I didn’t realize the aesthetic of Panera had a name,** but apparently it does: “[Global Village Coffeehouse](https://www.are.na/editorial/the-global-village-coffeehouse-aesthetic).” Jonathan Carson [breaks down](https://www.youtube.com/watch?v=vPySfITcQ14) the design style, which you’ve seen for years but didn’t quite know how to refer to it.\n\n**G. Love, a popular ’90s musician from Philly,** recently lost his life savings in a [crypto scam](https://gizmodo.com/popular-musician-loses-life-savings-through-malicious-crypto-wallet-in-apples-app-store-2000745902) that also nailed [lots of other people](https://www.macrumors.com/2026/04/14/apple-mac-app-store-fake-crypto-wallet/). Probably a good time listen to some G. Love & Special Sauce on a streaming service to help him out. Start with “[Rodeo Clowns](https://www.youtube.com/watch?v=NV6qMkzMVkY),” so Jack Johnson gets some royalties, too.\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/04/14/linux-external-fingerprint-reader-challenges/)! Are you sick of your password? Share it with us, and you’ll never be able to use it again. (Kidding!)\n\nAnd thanks again to [la machine](https://la-machine.fr/?utm_source=newsletter&utm_medium=email&utm_campaign=tedium) for sponsoring. It doesn’t have or need a fingerprint sensor.",
+        "url": "https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Security",
+          "Product",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-15T02:58:42.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Writing an LLM from scratch, part 32k -- Interventions: training a better model locally with gradient accumulation",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    I've been working on a GPT-2-small-style LLM based on\n[Sebastian Raschka](https://sebastianraschka.com/)'s book\n\"[Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)\".\nI've trained various versions of it in the cloud to\n[work out which interventions to the model and training code](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\nhad the best effects on the loss it gets on a specific test dataset, and now\nI wanted to do a training run locally to match the best of those.\nFor that, I wanted to match the batch size I was using for the cloud training\nruns.\n\nWhen I first started learning this stuff, batching seemed like a performance\nthing -- with highly parallel systems like GPUs, it generally turned out that you could run\na batch of (say) two inputs through a model in less than twice the time you could run one, so it made\nsense to batch them up.\n\nFor inference, that is exactly the advantage you get, but when training, it's become increasingly\nclear to me that you can also get an improvement in the quality of the model\nfrom batching.  The best intuitive model I have is that if you run inputs\nthrough one-by-one, adjusting parameters after each, then it's easy for the model to\n\"overcorrect\" each time.  With batches, you get an average set of gradients across\nall of the items -- which smooths things out and stabilises the training.\n\nOf course, it's possible to overdo it.   As an extreme example, imagine that you\nwere somehow able to fit your whole training set into one batch -- then you could\ntrain by running that single batch through, doing a single backward pass, and then adjusting the parameters\nonce.  It's pretty clear that that would not work very well -- just one single update\nof the initially-random parameters.\n\nWhen training on my local machine, I could fit a batch of six sequences into my RTX 3090.  I'd found that\nwhen I moved to cloud machines, it had a very positive effect on the loss I got\nout of the models when I tested them.  From [a quick-and-dirty bit of curve-fitting](https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud#the-results),\nI estimated that the optimal batch size for this model, with that training run,\nwas somewhere around 97.  Conveniently, that was close to the maximum I could fit\nonto an 8x A100 40 GiB/GPU machine, so I used a batch size of 96 to test the different\ninterventions I was trying.\n\nAnd when I finally [put all of the interventions that helped with training together](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud),\nI found (somewhat to my surprise) that their combined effect -- an improvement in\nloss of 0.113765 -- was less than half of the loss improvement of 0.252474 that I had got from\nincreasing the batch size.\n\nWhat that all made clear was that if I wanted to do a local training run that matched\nthe quality of the cloud-trained model, I'd need to not only add on the interventions\nthat I'd been testing in detail, but I'd need to match the cloud batch size.  And for\nthat, I needed to learn about gradient accumulation.\n\n    \n        \n### Gradient accumulation basics\n\nGradient accumulation is pretty much what it sounds like; instead of the normal technique\nof doing a forward pass, working out the loss, getting gradients with a backward pass,\nand then applying them by stepping the optimiser, you do multiple forward-backward phases,\nletting the gradients accumulate, and then do one optimiser step after that.\n\nWhen you do that, you're getting the training stabilisation benefits of a larger batch\nsize, even though you're not getting the performance boost.  Sounds simple enough,\nand it is, in theory, but implementation got a little more complicated.\n\nLet's work through it step-by-step.\n\nTo start with, imagine you have a really simple training loop:\n\n`for inputs, targets in batched_dataset:\n    # Other stuff\n\n    logits = model(inputs)\n    loss = calculate_loss(logits, targets)\n    loss.backward()\n\n    # Other stuff\n\n    optimizer.step()\n    optimizer.zero_grad()\n\n    # Other stuff\n`\n\nAdding gradient accumulation to that is really simple!\n\nLet's assume that `batched_dataset` has a length divisible by `gradient_accumulation_steps`,\nthe number of steps we want to run through before we step the optimiser.  As a first (not quite correct)\ncut, you could just do this:\n\n`for step, (inputs, targets) in enumerate(batched_dataset):\n    # Other stuff\n\n    logits = model(inputs)\n    loss = calculate_loss(logits, targets)\n    loss.backward()\n\n    # Other stuff\n\n    if (step + 1) % gradient_accumulation_steps == 0 or step == len(batched_dataset) - 1:\n        optimizer.step()\n        optimizer.zero_grad()\n\n    # Other stuff\n`\n\nYou can see that we're just stepping the optimiser every `gradient_accumulation_steps` steps.\nAn alternative way to do it would be with an inner loop:\n\n`dataset_ix = 0\nwhile dataset_ix < len(batched_dataset):\n    # Other stuff\n\n    for ii in range(gradient_accumulation_steps):\n        if dataset_ix >= len(batched_dataset):\n            break\n        inputs, targets = batched_dataset[dataset_ix]\n        logits = model(inputs)\n        loss = calculate_loss(logits, targets)\n        loss.backward()\n        dataset_ix += 1\n\n    # Other stuff\n\n    optimizer.step()\n    optimizer.zero_grad()\n\n    # Other stuff\n`\n\nWhich of those is better would depend on the details of the training loop -- in general,\nif you wanted the \"other stuff\" to be done once per training batch, then you'd want to\nuse the first option, whereas if you wanted it to be done once per optimiser step,\nthe second would be easier.  As you'll see in a bit, I went for the second one for my\ncode.\n\nHowever, there's one small correction that we need to do to make either of these properly.  Remember\nthat when you calculate loss across a batch -- for example, cross entropy loss like this:\n\n`torch.nn.functional.cross_entropy(logits.flatten(0, 1), targets.flatten())\n`\n\n...you're getting the *average* loss across the batch, so when you do the backward\npass, you're getting the average gradients.  By contrast, in the code above, we're\ndoing a backward pass on the complete loss at each step, so the gradients that are\nbeing generated in each backward pass are being added to each other -- you wind up\nwith the sum of all of them rather than the average.  So the gradients that the optimizer\napplied would be `gradient_accumulation_steps` times larger than they should be --\nit would be as if we'd multiplied the learning rate by that number!\n\nBut that's easy enough to fix.  The average gradients over a number of steps are the sum divided by the\nnumber of steps, and we can do that division ahead of time just by scaling the loss down.\nAdding that into the first example above:\n\n`for step, (inputs, targets) in enumerate(batched_dataset):\n    logits = model(inputs)\n    loss = calculate_loss(logits, targets)\n    (loss / gradient_accumulation_steps).backward()\n\n    if (step + 1) % gradient_accumulation_steps == 0 or step == len(batched_dataset) - 1:\n        optimizer.step()\n        optimizer.zero_grad()\n`\n\nAnd that's basically it; with those changes, the original basic training loop\nbecomes one that uses gradient accumulation.  The effective batch size is whatever\nthe real batch size is, times the number of gradient accumulation steps.\n\n### Gradient accumulation in practice\n\nHowever, the real training loop that I'm using for these experiments is a bit more\ncomplicated than that simple example.  There's checkpointing, AMP, and -- most importantly\n-- it can handle multi-GPU training using DistributedDataParallel.  That made things\na little bit more complicated.\n\nThe first thing was to look into the way I was selecting the data to train on.  My dataset was already\nin batches, but we had to split those batches up between GPUs.  The solution in the code\nwas to work out how many global steps there were -- each global step being one batch\ngoing through each GPU on the machine -- like this:\n\n`total_global_steps = len(train_ds) // world_size\n`\n\n`world_size`, if you remember from [the DDP post](https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud),\nis the number of processes running in a multi-GPU training run -- one per GPU.\n\nNext, in the training loop, I iterated over the global steps:\n\n`progress_bar = tqdm(\n    range(start_global_step, total_global_steps),\n    disable=(rank != 0)\n)\nfor global_step in progress_bar:\n    # Get the data\n    # Forward and backward pass\n    # Step the optimiser.\n`\n\n...for each one, getting the appropriate batch out for the specific GPU that was\nrunning the code:\n\n`    inputs, targets = train_ds[global_step * world_size + rank]\n`\n\n`rank` is a zero-indexed number, unique to each of the per-GPU processes.  So this\nbasically split `train_ds` into chunks of length `world_size`, and then each GPU\nwas fed the batch at its `rank`'s offset into the chunk.\n\nI wanted to keep things shaped such that when I was running with gradient accumulation\nlocally, it would be similar to a cloud run with per-GPU batching.  Specifically: when\nI was training in the cloud, I had eight GPUs with a per-GPU microbatch size of 12, giving\na total batch size of 96.  Locally, I could fit a batch size of six on my GPU, so I needed\nto do gradient accumulation over 96 / 6 = 16 steps.\n\nTo keep things as similar as possible, I decided that I wanted the concept of a\n\"global step\" to match between the runs.  In other words, it would expand slightly,\nfrom meaning \"one batch per GPU\" to being \"one optimiser step per GPU\".\nSo, each time through that `global_step` loop, we'd do multiple forward-backward\npasses, and then one optimiser step.  That would mean that the best way to do things\nwould be with something much more like the second of the two bits of sample code\nabove -- the one with the inner loop rather than the modulus.\n\nMaybe that's easier to show in code:\n\n`total_global_steps = (len(train_ds) // world_size) // gradient_accumulation_steps\n\n...\n\nfor global_step in progress_bar:\n    ...\n    for accumulation_step in range(gradient_accumulation_steps):\n        # Forward and backward passes\n        ...\n\n    # Step the optimiser\n`\n\nThat required a change to the data lookup; I decided that `train_ds` would be split\ninto chunks of size `gradient_accumulation_steps * world_size`, and then each of those\nwould be split into chunks of size `world_size`, so the code to get the appropriate\nbatch for a given run through the loop became this:\n\n`inputs, targets = train_ds[((global_step * gradient_accumulation_steps) + accumulation_step) * world_size + rank]\n`\n\nThat required a corresponding change in `load_dataset` to make sure that `train_ds` was\ndivisible by both the world size, the per-GPU batch (\"microbatch\") size, and the number of gradient accumulation steps, but that was easy:\n\n`one_full_batch_tokens = world_size * microbatch_size * seq_length\n`\n\n...became this:\n\n`one_full_batch_tokens = world_size * microbatch_size * gradient_accumulation_steps * seq_length\n`\n\nThat was enough to get the gradient accumulation happening!  Next, I needed to change\nthe backward pass code to scale down the loss so that we got averaged rather than summed\ngradients.  Because we might be using AMP with a scaler, the code wasn't just a simple\n`loss.backward`:\n\n`if scaler is not None:\n    scaler.scale(train_loss).backward()\nelse:\n    train_loss.backward()\n`\n\n...but the change was obvious enough:\n\n`if scaler is not None:\n    scaler.scale(train_loss / gradient_accumulation_steps).backward()\nelse:\n    (train_loss / gradient_accumulation_steps).backward()\n`\n\nAll of those changes put together, plus a bit of shuffling around of code,\nwere enough to get a correct gradient accumulation\ntraining loop!  But there was one small tweak I needed to add.\n\nWhen you're using DDP, gradients need to be synchronised between the different\nper-GPU processes.  As a reminder, what happens is:\n\n- Each process does a forward pass.\n\n- Each process does a backward pass.\n\n- When they have the gradients, they essentially share them so that each process has\nan average of the gradients from all of those backward passes.\n\n- Then they all step their optimisers to apply the average gradients to each process's\ncopy of the model.\n\nNow, with my first cut of the gradient accumulation code above, what would have happened is this:\n\n- For each gradient accumulation step:\n\nEach process does a forward pass.\n\n- Each process does a backward pass.\n\n- The average is worked out\n\n- They all step their optimisers based on the most recent average\n\nThat would be correct, but not very efficient.  We're sending out gradients and\naveraging on every accumulation step.  But because each of our per-GPU processes\nis keeping its own \"local\" average (by accumulating the scaled-down gradients), we only\nreally need to send those local averages out and get a global average once, just before we step\nthe optimiser.  If we do that, we can save quite a lot of work.\n\nThe trick to avoid that was to use the method `no_sync` on the `DistributedDataParallel` class\nthat our own model is wrapped in.  What we wanted to do was suppress the gradient\nsynchronisation for each of the accumulation steps apart from the last one.\n\nIt was easy to work out whether we were on the last gradient accumulation step:\n\n`is_last = accumulation_step == gradient_accumulation_steps - 1\n`\n\nNow, what we needed to do was to wrap this:\n\n`if scaler is not None:\n    scaler.scale(train_loss / gradient_accumulation_steps).backward()\nelse:\n    (train_loss / gradient_accumulation_steps).backward()\n`\n\n...in `model.no_sync`, but *only if* `is_last` was false.\n\nConditional `with` statements can be a little fiddly, but Python has a \"do-nothing\"\n[`nullcontext` context manager in `contextlib`](https://docs.python.org/3/library/contextlib.html#contextlib.nullcontext) -- that is,\n\n`with nullcontext():\n    do_something()\n`\n\n...is identical to just:\n\nSo we can combine that with the ternary operator like this:\n\n`    with model.no_sync() if not is_last else nullcontext():\n        if scaler is not None:\n            scaler.scale(train_loss / gradient_accumulation_steps).backward()\n        else:\n            (train_loss / gradient_accumulation_steps).backward()\n`\n\n...which does exactly what we want [1](#fn-1).\n\nWith that change, I had something I was happy with; you can\n[see the diff here](https://github.com/gpjt/ddp-base-model-from-scratch/commit/c5d860e29848287abd2c1f9af11a8b849d260aba).\n\nSo now it was time to do a training run!\n\n### The new local baseline\n\nI'd originally been planning to jump right in and do a training run based on my\n[last cloud run](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud),\nwith all of the interventions I'd decided were worth using, but locally with\ngradient accumulation.\n\nHowever, I decided that it would be interesting to try doing a new \"baseline\" train\nfirst.  I'd done my local training runs, and then established a baseline version in\nthe cloud by taking exactly the same configuration and doing the training run on\nan 8x A100 40 GiB with an overall batch size of 96.  So I could repeat that locally\nwith gradient accumulation, and that would show two things (or perhaps, the same\nthing but in different lights):\n\n- Whether the increased effective batch size had as positive an effect on the loss\nas the increased real batch size did when I did my cloud runs.\n\n- Whether the locally-trained gradient accumulation model was similar to the cloud-trained\nbig-batch model in terms of its loss.\n\nThat would help confirm my understanding that it was the\nincreased batch size that helped in the cloud, and not, say, some architectural difference -- and would also act as a good test\nof the gradient accumulation code.\n\nHere's [the training run config](https://github.com/gpjt/ddp-base-model-from-scratch/tree/main/runs/1xrtx3090-baseline).\nI kicked it off:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run torchrun --nproc_per_node=1 ddp_train.py 1xrtx3090-baseline datasets/\nFetching 4 files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 810.65it/s]\nStarting rank 0 training at global step 0\n  0%|                                                                                                                  | 0/33165 [00:04<?, ?it/s, loss=10.991, tps=20,451]\n\nCheckpoint\n\nContinuing training\n  0%|                                                                                                       | 23/33165 [01:50<43:29:50,  4.72s/it, loss=7.625, tps=20,549]\n`\n\nThat looked like the right number of global steps; it matched the numbers I saw when\ntraining in the cloud.  And 44 hours for the training run seemed correct: my original\nlocal runs took 48, but with them I was spending quite a lot of time on validation,\nwhich this code didn't do.\n\nJust less than two days later:\n\n```\nTraining complete in 155,402.289 seconds\nTokens seen: 3,260,252,160\nThroughput: 20,979 tokens/second\nFinal train loss: 3.738\n\n```\n\nThat all looked good.  The loss chart looked like this:\n\n![The loss chart for the local baseline train](https://www.gilesthomas.com/post-assets/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation/baseline-loss-chart.png)\n\nFor comparison, here's the one from the cloud training run with the same config\n(but using larger batches rather than gradient accumulation):\n\n![Baseline training run on an 8x A100 with 40 GiB/GPU](https://www.gilesthomas.com/post-assets/llm-from-scratch-32a-interventions-baseline-model/baseline-training-run-chart.png)\n\nYou can see that they're similar, but not identical.  That's pretty much what you'd expect!\nThe two training runs were on different architectures -- RTX 3090 vs A100 -- and so there\nwill probably be differences in the CUDA kernels, and also PyTorch's AMP (which uses\n16-bit instead of 32-bit in cases where it makes sense) might make different decisions.\nI think that if we'd run it on a machine with one A100, then the results of using gradient accumulation\nwould be even closer (perhaps even identical) to a larger batch size, especially if we\nwere training without AMP.\n\nI [uploaded the model to Hugging Face](https://huggingface.co/gpjt/1xrtx3090-baseline) and it\nwas time for the evals.  The smoke test first:\n\n```\nEvery effort moves you to a more realistic approach and is always welcome, especially for a younger child!\nI’\n\n```\n\nAs usual, reasonably coherent.  But the important one was the loss on the test set:\n\n```\nLoss against our test dataset: 3.683835\n\n```\n\nThat's solid!  The cloud-trained baseline model got 3.691526, so this local one was\nactually very slightly better, by 0.007691.  But that's very close indeed, which is\nwhat we wanted to see :-)\n\nIt was time to see what effect adding on the interventions would have.\n\n### The local run with the interventions\n\nAs a reminder, here are the changes I made to the config for this run:\n\n- Gradient clipping at 3.5\n\n- Learning rate changed from 0.0004 to 0.0014, with a warmup over 5% of the run then a cosine decay to 0.00014.\n\n- Weight decay changed from 0.1 to 0.01\n\n- Dropout removed\n\nIt did not include QKV bias.\n\n[Here's the config](https://github.com/gpjt/ddp-base-model-from-scratch/tree/main/runs/1xrtx3090-stacked-interventions).\nI kicked it off, and:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run torchrun --nproc_per_node=1 ddp_train.py 1xrtx3090-stacked-interventions datasets\nFetching 4 files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 749.32it/s]\nStarting rank 0 training at global step 0\n  0%|                                                                                                                  | 0/33165 [00:04<?, ?it/s, loss=10.994, tps=21,589]\n\nCheckpoint\n\nContinuing training\n  0%|                                                                                                      | 19/33165 [01:25<40:52:06,  4.44s/it, loss=10.318, tps=21,867]\n`\n\nIt looked like it was going to take 40 hours; that matched what happened in the cloud\nruns, as removing dropout speeds things up quite a lot.\n\nJust less than two days later:\n\n```\nTraining complete in 146,299.816 seconds\nTokens seen: 3,260,252,160\nThroughput: 22,285 tokens/second\nFinal train loss: 3.519\n\n```\n\nThe loss chart over the training run looked like this:\n\n![The loss chart for the local interventions train](https://www.gilesthomas.com/post-assets/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation/interventions-loss-chart.png)\n\nThat's very smooth, with no loss spikes.  For comparison, here's the chart when we did the same training run in the cloud;\nyou can see that it was a bit choppier than the local one.\n\n![The loss chart for the cloud interventions run](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-1-loss-chart.png)\n\nThe gradient norm chart was also interesting:\n\n![The gradient norm chart for the local interventions train](https://www.gilesthomas.com/post-assets/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation/interventions-grad-norm-chart.png)\n\nIf you compare it to the one from the cloud training run below, you can see that\nthe local one was actually noisier -- the cloud run has a few gradient spikes near\nthe start but calms down from around global step 6,000 or so, whereas the local one is\nspiky up to about 3,000, then calm, but has a massive spike at around 10,000.\n\n![The gradient norm chart for the cloud interventions run](https://www.gilesthomas.com/post-assets/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud/stacked-interventions-1-grad-norm-chart.png)\n\nThe learning rate we don't need to compare, but it was worth sanity checking to make sure\nwe really did train the right way:\n\n![The learning rate chart for the local interventions train](https://www.gilesthomas.com/post-assets/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation/interventions-learning-rate-chart.png)\n\nSo that all looked good.  The training run did have some differences to the cloud one,\nbut (as with the previous baseline train) it looked similar enough.  Architectural\ndifferences between the A100s in the cloud and the local RTX 3090 seemed like a plausible\ncause.\n\n### Evals\n\nI [uploaded the model to Hugging Face](https://huggingface.co/gpjt/1xrtx3090-stacked-interventions),\nand it was time to run the evals.  The smoke test first:\n\n```\nEvery effort moves you to give your customers the opportunity you give them in the event of a failure.<|endoftext|>A couple friends\n\n```\n\nReasonably coherent -- and I think that's the first time I've seen an `<|endoftext|>` token\nin a smoke test output!  But the important one is, as ever, the loss, and:\n\n```\nLoss against our test dataset: 3.538161\n\n```\n\nLet's add both this one and the local baseline to the results table for all interventions:\n\n  \n  Test set loss\n  Improvement vs baseline\n\n  [8xa100m40-weight-tying](https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying)\n  3.874305\n  -0.182779\n\n  [8xa100m40-weight-decay-cerebras](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.813856\n  -0.122330\n\n  [8xa100m40-baseline](https://www.gilesthomas.com/2026/02/llm-from-scratch-32a-interventions-baseline-model)\n  3.691526\n  -\n\n  [1xrtx3090-baseline](https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation)\n  3.683835\n  0.007691\n\n  [8xa100m80-no-amp](https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32)\n  3.678968\n  0.012558\n\n  [8xa100m40-gradient-clipping](https://www.gilesthomas.com/2026/02/llm-from-scratch-32b-interventions-gradient-clipping)\n  3.678317\n  0.013209\n\n  [8xa100m40-qkv-bias](https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias)\n  3.669385\n  0.022141\n\n  [8xa100m40-weight-decay-gpt2](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay)\n  3.642940\n  0.048586\n\n  [8xa100m40-remove-dropout](https://www.gilesthomas.com/2026/02/llm-from-scratch-32c-interventions-removing-dropout)\n  3.641282\n  0.050244\n\n  [8xa100m40-stacked-interventions-2](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.604342\n  0.087184\n\n  [8xa100m40-schedule-learning-rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate)\n  3.601917\n  0.089609\n\n  [8xa100m40-stacked-interventions-3](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.590266\n  0.101260\n\n  [8xa100m40-stacked-interventions-1](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud)\n  3.577761\n  0.113765\n\n  [1xrtx3090-stacked-interventions](https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation)\n  3.538161\n  0.153365\n\nThat's really weird!  The local run with the interventions, `1xrtx3090-stacked-interventions`,\nis 0.039600 points better than the cloud version of the\nsame training run, `8xa100m40-stacked-interventions-1`.  That's nice, in that lower loss is always better, but it's also\nrather confusing -- that's a bigger loss improvement than some of the interventions.\n\nIn theory, all that we changed between the cloud version of this training run,\nand the local one\nwas the architecture.  I was expecting that to have an effect, but thought that\nit would be small -- as, indeed, it was with the baseline trains `8xa100m40-baseline`\nand `1xrtx3090-baseline`, where you can see the loss difference was just 0.007691 --\nabout five times smaller.\n\nNow, when I was looking into\n[the effects of noise on training loss](https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise),\nI found that changing the random seed that was used to initialise the weights (but starting\nthe training run itself at the same random seed) had\na much bigger effect on the resulting model quality than keeping the weights identical\nbut varying the seed at the start of the post-initialisation phase of the training run.\nThe standard deviation of the varied-weights, same-train models was about double the SD of the\nsame-weights, varied-train.\n\nThat was interesting, though not directly comparable -- those tests were done with\nthe same training run, but the architecture held constant -- a 8x A100 40 GiB machine\nfor each test.\n\nHowever, it felt like it would be a good idea to at least see whether we started with\nthe same weights locally and when training in the cloud.  My suspicion was that we probably\nwould; the weight initialisation uses deterministic non-GPU code, so with the same seed\nwe'd expect the same weights regardless of the computer.  The similarity of the loss\nresults for the local and cloud baseline training runs also seemed to point in that\ndirection.\n\nBut it was worth testing.  I created a throwaway branch of the training code, which\n-- after creating the model --\njust dumped the model weights to a file, then exited.\nI ran it locally using\nthe `1xrtx3090-stacked-interventions` config, and\nthen I fired up yet another 8x A100 40 GiB machine on Lambda, ran the same code there,\nthis time with the `8xa100m40-stacked-interventions-1` config, and\nthen `scp`ed down the weights.\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (dump-weights)$ diff cloud-init-weights.safetensors local-init-weights.safetensors\ngiles@perry:~/Dev/ddp-base-model-from-scratch (dump-weights)$\n`\n\nIdentical.  That was reassuring!\n\nI considered doing more analysis on this; for example, in my investigations into noise,\nI found that keeping the same weights but altering the random seed for the rest of the\ntraining run, I got results with a standard deviation of 0.008672 -- more than four times\nsmaller than the difference between the local and cloud trains with the interventions.\nMight that be a number I could use for some kind of comparison?\n\nHowever, I decided that it's not really comparable.  That number was from varying the random seed, but\nkeeping the same architecture.  There's not really any solid reason to believe that\nkeeping the seed constant but changing the architecture would cause the same kind of differences.\nThey might be more similar, they might be less.\n\nI think that all we can really say here is that the change of machine changed some\naspects of the training dynamics in a way that happened to get us a lower loss.  I\ncan easily imagine that if I'd done something slightly different -- used a local\nRTX 4090, for example -- it could equally well have gone in the other direction.\n\nAnd at least it's reassuring that the improvement was smaller than the\ninterventions I was most convinced by; the only smaller ones were full-fat float32, gradient clipping, and\nQKV bias -- ones that I'd already decided might have only been beneficial due to noise.\nMost importantly, it was orders of magnitude smaller than the 0.252474 improvement\nI originally saw when I moved from local training to larger-batch cloud training.\n\n### Conclusion\n\nSo, I think that that brings me to the end of this set of training experiments.\nWe started with a locally-trained model that got a loss of 3.943522 on our test set,\ncompared to the original GPT-2 small model, which got 3.499677 [2](#fn-2).\n\nI've tried a bunch of interventions to try to get my model closer, and finally I've\nmanaged to get almost all of the way there, to 3.538161.  That's really pleasing!\n\nI think that there are two things to do before I can fully wrap up this \"interventions\"\nmini-series, and get back to the main-line LLM from scratch stuff.\n\nFirstly, I should\nrevisit the instruction fine-tuning tests, which I put on hold while doing these\ntraining runs.  That would give us some indication as to whether the loss improvement was just a technical improvement\nthat made a number go down, or whether it actually improved the usefulness of the model.\n\nSecondly, I think I really need to write a wrap-up.  I've been working on this stuff\non and off since December, and I think a summary of what I did would be quite nice!\n\nI'll post soon; don't touch that dial :-)",
+        "url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 15 Apr 2026 20:00:00 +0000",
+        "reading_time": 21,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Kyle Kingsbury - 15th April 2026 > I think we will see some people employed (though perhaps not explicitly)...",
+    "Quoting John Gruber - 15th April 2026 > The real goldmine isn’t that Apple gets a cut of every App Store transac...",
+    "Gemini 3.1 Flash TTS - 15th April 2026 - Link Blog **[Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai...",
+    "Zig 0.16.0 release notes: \"Juicy Main\" - 15th April 2026 - Link Blog **[Zig 0.16.0 release notes: \"Juicy Main\"](https://ziglang.org...",
+    "datasette-ports 0.3 - Release [datasette-ports 0.3](https://github.com/datasette/datasette-ports/releases/tag/0...."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 10
+    },
+    {
+      "word": "agents",
+      "count": 8
+    },
+    {
+      "word": "april",
+      "count": 7
+    },
+    {
+      "word": "cloudflare",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "agent",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "code",
+      "count": 4
+    },
+    {
+      "word": "celeron",
+      "count": 4
+    },
+    {
+      "word": "tts",
+      "count": 4
+    },
+    {
+      "word": "browser",
+      "count": 4
+    },
+    {
+      "word": "th",
+      "count": 4
+    },
+    {
+      "word": "release",
+      "count": 4
+    },
+    {
+      "word": "single",
+      "count": 3
+    },
+    {
+      "word": "thing",
+      "count": 3
+    },
+    {
+      "word": "intel",
+      "count": 3
+    },
+    {
+      "word": "voice",
+      "count": 3
+    },
+    {
+      "word": "think",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "best",
+      "count": 3
+    },
+    {
+      "word": "gemini",
+      "count": 3
+    },
+    {
+      "word": "flash",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "zig",
+      "count": 3
+    },
+    {
+      "word": "notes",
+      "count": 3
+    },
+    {
+      "word": "datasette-ports",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "didn't",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "long",
+      "count": 2
+    },
+    {
+      "word": "delay",
+      "count": 2
+    },
+    {
+      "word": "thread",
+      "count": 2
+    },
+    {
+      "word": "exiting",
+      "count": 2
+    },
+    {
+      "word": "wait",
+      "count": 2
+    },
+    {
+      "word": "object",
+      "count": 2
+    },
+    {
+      "word": "returning",
+      "count": 2
+    },
+    {
+      "word": "introduced",
+      "count": 2
+    },
+    {
+      "word": "line",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "lee",
+      "count": 2
+    },
+    {
+      "word": "interface",
+      "count": 2
+    },
+    {
+      "word": "stack",
+      "count": 2
+    },
+    {
+      "word": "register",
+      "count": 2
+    },
+    {
+      "word": "domains",
+      "count": 2
+    },
+    {
+      "word": "build",
+      "count": 2
+    },
+    {
+      "word": "registrar",
+      "count": 2
+    },
+    {
+      "word": "api",
+      "count": 2
+    },
+    {
+      "word": "beta",
+      "count": 2
+    },
+    {
+      "word": "developers",
+      "count": 2
+    },
+    {
+      "word": "without",
+      "count": 2
+    },
+    {
+      "word": "workflows",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "plane",
+      "count": 2
+    },
+    {
+      "word": "higher",
+      "count": 2
+    },
+    {
+      "word": "concurrency",
+      "count": 2
+    },
+    {
+      "word": "limits",
+      "count": 2
+    },
+    {
+      "word": "scale",
+      "count": 2
+    },
+    {
+      "word": "sdk",
+      "count": 2
+    },
+    {
+      "word": "supply",
+      "count": 2
+    },
+    {
+      "word": "chain",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "run",
+      "count": 2
+    },
+    {
+      "word": "view",
+      "count": 2
+    },
+    {
+      "word": "libc",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "quoting",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "apps",
+      "count": 2
+    },
+    {
+      "word": "drawn",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "juicy",
+      "count": 2
+    },
+    {
+      "word": "main",
+      "count": 2
+    },
+    {
+      "word": "html",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "datasette",
+      "count": 2
+    },
+    {
+      "word": "mainboard",
+      "count": 2
+    },
+    {
+      "word": "framework",
+      "count": 2
+    },
+    {
+      "word": "laptop",
+      "count": 2
+    },
+    {
+      "word": "speed",
+      "count": 2
+    },
+    {
+      "word": "wisdom",
+      "count": 2
+    },
+    {
+      "word": "fast",
+      "count": 2
+    },
+    {
+      "word": "things",
+      "count": 2
+    },
+    {
+      "word": "david",
+      "count": 2
+    },
+    {
+      "word": "pierce",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "tech",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "memories",
+      "count": 2
+    },
+    {
+      "word": "steve",
+      "count": 2
+    },
+    {
+      "word": "plans",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    }
+  ]
+}
