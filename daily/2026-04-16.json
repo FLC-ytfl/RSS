@@ -1,0 +1,876 @@
+{
+  "date": "2026-04-16",
+  "stats": {
+    "total_fetched": 287,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 18,
+    "long_articles": 12
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships",
+        "summary": "This is the fifth chapter of my SQLAlchemy 2 in Practice book. If you'd like to support my work, I encourage you to buy this book, either directly from my store or on Amazon. Thank you! You have now learned the design bl...",
+        "url": "https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships",
+        "source": "Miguel Grinberg's Blog",
+        "tags": [
+          "Database",
+          "Product"
+        ],
+        "published_at": "Thu, 16 Apr 2026 11:33:06 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "RSS Club for WordPress",
+        "summary": "What if I told you there was a secret social network, hidden in plain sight? If you're reading this message, you're now a member of RSS Club! RSS Club is a series of posts which are only visible to RSS / Atom subscribers...",
+        "url": "https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 11:34:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What’s up with window message 0x0091? We’re getting it with unexpected parameters",
+        "summary": "Trespassing on system messages. The post What’s up with window message <CODE>0x0091</CODE>? We’re getting it with unexpected parameters appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240",
+        "source": "The Old New Thing",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 16 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Newton diameters",
+        "summary": "Let f(x, y) be an nth degree polynomial in x and y. In general, a straight line will cross the zero set of f in n locations [1]. Newton defined a diameter to be any line that crosses the zero set of f exactly n times. If...",
+        "url": "https://www.johndcook.com/blog/2026/04/16/newton-diameters/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 16 Apr 2026 12:02:13 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I truly hate mostpeopleslop",
+        "summary": "In 2006, Joe Sugarman published a book called The Adweek Copywriting Handbook - and an axiom stuck... \"The sole purpose of the first sentence in an advertisement is to get you to read the second sentence.\" That line, mor...",
+        "url": "https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 04:50:26 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Apple II announced April 16, 1977",
+        "summary": "On April 16, 1977, Apple launched the Apple II, one of the first pre-built desktop computers, although it wouldn’t ship until June of that year. It went on to sell about 6 million units over the course of the next The po...",
+        "url": "https://dfarq.homeip.net/apple-ii-announced-april-16-1977/?utm_source=rss&utm_medium=rss&utm_campaign=apple-ii-announced-april-16-1977",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 16 Apr 2026 11:00:06 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare’s AI Platform: an inference layer designed for agents",
+        "summary": "We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.",
+        "url": "https://blog.cloudflare.com/ai-platform/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Database"
+        ],
+        "published_at": "Thu, 16 Apr 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Building the foundation for running extra-large language models",
+        "summary": "We built a custom technology stack to run fast large language models on Cloudflare’s infrastructure. This post explores the engineering trade-offs and technical optimizations required to make high-performance AI inferenc...",
+        "url": "https://blog.cloudflare.com/high-performance-llms/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AI Search: the search primitive for your agents",
+        "summary": "AI Search is the search primitive for your agents. Create instances dynamically, upload files, and search across instances with hybrid retrieval and relevance boosting. Just create a search instance, upload, and search.",
+        "url": "https://blog.cloudflare.com/ai-search-agent-primitive/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 13:00:22 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Artifacts: versioned storage that speaks Git",
+        "summary": "Give your agents, developers, and automations a home for code and data. We’ve just launched Artifacts: Git-compatible versioned storage built for agents. Create tens of millions of repos, fork from any remote, and hand o...",
+        "url": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "DevOps"
+        ],
+        "published_at": "Thu, 16 Apr 2026 13:00:22 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
+        "summary": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that eas...",
+        "url": "https://blog.cloudflare.com/email-for-agents/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Deploy Postgres and MySQL databases with PlanetScale + Workers",
+        "summary": "Learn how to deploy PlanetScale Postgres and MySQL databases via Cloudflare and connect Cloudflare Workers.",
+        "url": "https://blog.cloudflare.com/deploy-planetscale-postgres-with-workers/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Database",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Thu, 16 Apr 2026 13:00:22 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-16T22:30:30.729Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "So Close to Getting It",
+        "summary": "Hi, friends! Welcome to *Installer* No. 122, your guide to the best and *Verge*-iest stuff in the world. (If you’re new here, welcome, go ’Zona, and also you can read all the old editions at the [*Ins",
+        "content": "Hi, friends! Welcome to *Installer* No. 122, your guide to the best and *Verge*-iest stuff in the world. (If you’re new here, welcome, go ’Zona, and also you can read all the old editions at the [*Installer* homepage](https://www.theverge.com/installer-newsletter).)\n\nThis week, I’ve been reading about [**early Apple employees**](https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html) and [**weather apps**](https://www.newyorker.com/culture/infinite-scroll/why-you-hate-your-weather-app) and [**one-page productivity systems**](https://karpathy.bearblog.dev/the-append-and-review-note/), watching [***Avatar: Fire and Ash***](https://www.themoviedb.org/movie/83533-avatar-fire-and-ash) on my phone in installments the way James Cameron intended, trying and failing to [**find a better Gmail address**](https://www.theverge.com/tech/904005/google-change-gmail-email-address) than the dumb one I picked 20 years ago, watching [**the Artemis II launch**](https://www.youtube.com/watch?v=_eeZQw9PBc0) because space is awesome, buying [**a new mug**](https://yetius.pxf.io/c/482924/1026334/13394?u=https%3A%2F%2Fwww.yeti.com%2Fdrinkware%2Fmugs%2F21071507369.html) that was too expensive but is extremely awesome, replacing my work soundtrack with [**this incredible DJ set**](https://www.youtube.com/watch?v=gfF8jzBVWvM) from Daft Punk’s Thomas Bangalter, listening to the [***Darknet Diaries *****episode about music fraud**](https://darknetdiaries.com/episode/171/) (thanks to Josh for the rec), and fine-tuning the first vibe-coded thing I’ve ever made that’s actually any good.\n\nI also have for you a new way to read the internet, a new *Mario* movie, a more private way to do video chat, and more. Lots of apps this week! You love to see it. Let’s do it.\n\n(As always, the best part of *Installer* is your ideas and tips. What are you watching / playing / reading / listening to / spreading cheese on this week? Tell me everything: [installer@theverge.com](mailto:installer@theverge.com). And if you know someone else who might enjoy *Installer*, forward it to them and tell them to [subscribe here](https://www.theverge.com/subscribe).)\n\n## The Drop\n\n- [**Sofa 5**](https://www.sofahq.com/5)**. **A huge update to an Installerverse favorite, this app is now a great way to manage everything you want to watch, read, play, and even do IRL. I never quite made it stick when it was mostly just movies and shows, but now I think of it as like a Notion for my personal life. Apple devices only, alas, but boy do I love this app.\n- [**Surf**](https://surf.social/)**. **After a long beta, this feed reader / social network / timeline app finally launched, and I still think it’s a great idea. The fediverse doesn’t have to look like Twitter! It can be lots of things! Surf is one of those things.\n- [***The Super Mario Galaxy Movie***](https://www.themoviedb.org/movie/1226863-the-super-mario-galaxy-movie)**.** The cast for this movie is just unbelievably stacked, and while the reviews aren’t great, they weren’t for the last one, either, and I loved that movie! I suspect my kid and I will watch this approximately 446 times.\n- [***Hozy***](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3326230%2FHozy%2F)**.** I’ve only really recently come to appreciate the cozy game genre. Life is hard, y’all; it’s nice to have something calmingly mindless to do. In this case, that thing is home renovation and decoration, and it’s far more fun than it has any right to be. \n- [**Proton Meet**](https://proton.me/meet)**.** There are a lot of good reasons to be worried about the privacy of your meetings, the recordings of those meetings, the AI summaries of those meetings, and everything else. Proton’s new tool is encrypted, simple, and seems to work well. Gonna swap a lot of Google Meets for this.\n- “[***Jeopardy!***** YouTube Edition**](https://www.youtube.com/watch?v=_sQz0TyU7cE)**.**” Do not watch this thinking it’s a terrific episode of *Jeopardy*. Watch it for the nonstop meme references, Ken Jennings trying his best to be young and hip, and a bunch of extremely answerable questions for anyone who’s a little too online. \n- [**Day One Chat**](https://dayoneapp.com/guides/labs/daily-chat/)**.** A chatbot that prompts you through a journal entry, so that every day is a conversation instead of a monologue. It’s definitely not how everybody journals, but it might make the habit easier to start. (You should also worry about giving journal entries to AI tools, by the way, but Day One seems to be handling this one the right way.)\n- [**NewsBlur for Android**](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.newsblur)**.** There are not enough good RSS readers for Android. NewsBlur is one of the best, and the new version got a much-needed redesign plus a bunch of new organization and discovery features. Might be my new go-to feeds app on Android.\n- “[**Cindy Cohn - Fighting for Digital Human Rights in *****Privacy’s Defender***](https://www.youtube.com/watch?v=QkC1aK7jfLo).” A terrific, extended *Daily Show *segment with the head of the Electronic Frontier Foundation, which turns into an incredibly comprehensible take on why privacy matters and what we can do to preserve it. So many conversations about this turn wonky and circular, but Cohn is crystal clear. I need to go read [**her book**](https://www.eff.org/Privacys-Defender) now.\n\nI’ve been using [**Twos**](https://www.twosapp.com/), a note-taking and to-do list app, a lot over the last couple of years. The app does a *lot, *but in a very straightforward way, and it just works the way my brain does. All of my problems with the app have been with its design and its polish — the app just never quite felt done to me.\n\nWell, [**Parker Klein**](https://www.parkerklein.com/), the developer behind Twos, shipped a new version of the app this week that is a huge improvement in that respect. Every corner of the app feels cleaner and more polished, and I’ve been loving it in beta for the last few weeks. The wildest part? The whole thing was made with Claude Code. Parker tells me he’s basically not writing any code himself anymore — he is orchestrating the process, and understands deeply how the whole thing works, but Claude is doing the coding.\n\nI asked Parker to share his AI setup with us, to see what I might be able to steal for my own projects. Here it is, and a few details about it:\n\n[![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Parker-Klein-AI.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Parker-Klein-AI.jpg?quality=90&strip=all&crop=0,0,100,100)\n\n- “I use the [**Claude Mac app**](https://claude.com/download) on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own. Occasionally, I use the [**Claude Code extension in VSCode**](https://code.claude.com/docs/en/vs-code), but it kept crashing while working on New Twos, so I switched to the Claude app. \n- I currently use Opus 4.6 and previously used the Auto mode on [**Cursor**](https://cursor.com/) until they changed their pricing.”\n- “This photo shows Claude on the right and the iOS simulator on the left. I was working on cropping photos for the custom wallpaper in the capture view of New Twos. I use a similar flow for Android and now the new web. You can see I use very simple language and let it do its thing.”\n\nParker said he doesn’t have any special prompts he uses over and over, but did offer a clever trick: have Claude create its own documentation for larger features and architecture, and then share that documentation back with the tool when it’s time to work on bugs or new features. Saves a bunch of “let me go read all these files” time, and keeps everything a lot more organized.\n\nI also asked Parker if he had any tips for the new Twos, and he gave me the one he always gives me: “My advice probably won’t ever change. Write things down. We’ve designed around quickly capturing anything, so that’s what we’re optimizing for. I still heavily use lists, bookmarks, search, and chat for recall, but those are only useful if you’re writing things down.” Friends, he’s not wrong.\n\n## Crowdsourced\n\n*Here’s what the *Installer* community is into this week. I want to know what you’re into right now as well! Email *[*installer@theverge.com*](mailto:installer@theverge.com)* or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week. For even more great recommendations, check out the replies to *[*this post on Threads*](https://www.threads.com/@imdavidpierce/post/DWouYvrESCJ?xmt=AQF0xdFolflscxghdjUQLI0mHtO9efMtE2qwPelfwLCJvA)* and *[*this post on Bluesky.*](https://bsky.app/profile/davidpierce.xyz/post/3mijnhdp5fc2w)\n\n“John Siracusa’s app [**Hyperspace**](https://hypercritical.co/hyperspace/) on the Mac App Store — great for saving space on your Mac (but it doesn’t actually delete any files through the use of APFS).” — Quack\n\n“I got a terrible/wonderful color e-ink photo frame: the [**VidaBay Snap**](https://vidabay.net/). No wires, no battery. Transfer exactly one (1) photo via NFC. It only works on iOS (for now?), I have to transfer a white image to clear it thoroughly before changing the photo, and it’s SUPER janky. But it’s cool and it makes me happy. I want a half dozen of ‘em.” — Daniel\n\n“I’m playing [***Crimson Desert***](https://crimsondesert.pearlabyss.com/en-US/Main), the amazing open-world RPG with characters who have no personality and a main plot with no diegetic quest delivery. But it’s gorgeous and huge, combat is fun, and it lets you pick grasshoppers out of a field. Truly feels like a next-gen Bethesda RPG, albeit with the writing of a bowl of stale crackers.” — Jordan\n\n“One of my favorite YouTube channels that I keep coming back to over and over is [**Ryan’s Edits**](https://www.youtube.com/@RyansEdits). He takes *Star Trek* blooper reels, mainly from *TNG*, and re-edits them back into the episodes, usually with the appropriate music and sound effects. The results are absolutely hilarious and I’d love to watch an entire episode done this way.” — Nicholas\n\n“We just watched this unexpected banger documentary about extreme birdwatching called [***Listers***](https://www.youtube.com/watch?v=zl-wAqplQAo) that deserves more attention.” — Mal\n\n“[***Indie Game Works***](https://readonlymemory.com/pages/indie-game-works)*. *Excellent new book release from ROM on the greatest indie games of the 21st century.” — Andy\n\n“Recently I have been mostly in Google and Claude, searching ‘how to use an old phone as a media server,’ and Reddit has suggested that I should try [**Emby**](https://emby.media/). It is a little slow — maybe I should connect ethernet to my TV — but it is kinda awesome!” — Aftab\n\n“I’m an avid audiobook fan, and thought these recommendations might be of interest. [***The Demon Cycle***](https://www.penguinrandomhouse.com/series/DMN/the-demon-cycle/) series by Peter V. Brett is an epic world of magic, demons and fantasy. A dark and fascinating cultural delight! Also, [***The Stormlight Archive***](https://www.brandonsanderson.com/pages/the-stormlight-archive-series) series by Brandon Sanderson - the epitome of large scale fantasy. Waring realms, gods and evil. What’s not to like!” — Brian\n\n“I recently gave [**Wanderlog**](https://wanderlog.com/) a try for planning my family’s summer road trip. It made it a breeze to co-plan this with my husband. It also saved us from accidentally making a 12 hr driving day. Such a great tool!” — Naomi\n\n## Signing off\n\n[**Guinness World Records**](https://www.tiktok.com/@guinnessworldrecords) is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s [**clapping a billion times a minute**](https://www.tiktok.com/@guinnessworldrecords/video/7620853307237518614), [**driving a truck through an impossibly tiny opening**](https://www.tiktok.com/@guinnessworldrecords/video/7620124614257200387), or just [**being a very large snake**](https://www.tiktok.com/@guinnessworldrecords/video/7602959292437728534). Why are most of these records, or even things people try? Dunno! But this whole concept is perfectly suited to endlessly scrolling short-form video, and boy did I binge that account this week. Zero regrets.\n\nSee you next week!\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- David Pierce\n- \n- \n- \n-",
+        "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-16T01:00:35.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "llm-anthropic 0.25",
+        "summary": "Release\n    \n    [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25)\n    — LLM access to models by Anthropic, including the Claude series\n  \n\n> \n> - New model: `claude-opus",
+        "content": "Release\n    \n    [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25)\n    — LLM access to models by Anthropic, including the Claude series\n  \n\n> \n> - New model: `claude-opus-4.7`, which supports `thinking_effort`: `xhigh`. #66\n\n> - New `thinking_display` and `thinking_adaptive` boolean options. `thinking_display` summarized output is currently only available in JSON output or JSON logs.\n\n> - Increased default `max_tokens` to the maximum allowed for each model.\n\n> - No longer uses obsolete `structured-outputs-2025-11-13` beta header for older models.\n\n>",
+        "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-04-16T20:37:12.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette.io news preview",
+        "summary": "The [datasette.io](https://datasette.io/) website has a news section built from this [news.yaml](https://github.com/simonw/datasette.io/blob/main/news.yaml) file in the underlying GitHub repository. T",
+        "content": "The [datasette.io](https://datasette.io/) website has a news section built from this [news.yaml](https://github.com/simonw/datasette.io/blob/main/news.yaml) file in the underlying GitHub repository. The YAML format looks like this:\n\n```\n- date: 2026-04-15\n  body: |-\n    [Datasette 1.0a27](https://docs.datasette.io/en/latest/changelog.html#a27-2026-04-15) changes how CSRF protection works in a way that simplifies form and API integration, and introduces a new `RenameTableEvent` for when a table is renamed by a SQL query.\n- date: 2026-03-18\n  body: |-\n    ...\n\n```\n\nThis format is a little hard to edit, so I finally [had Claude build a custom preview UI](https://claude.ai/share/c96129b9-bcb0-4eba-aee9-4a7ad236dfb7) to make checking for errors have slightly less friction.\n\nI built it using standard [claude.ai](https://claude.ai/) and Claude Artifacts, taking advantage of Claude's ability to clone GitHub repos and look at their content as part of a regular chat:\n\n> `Clone https://github.com/simonw/datasette.io and look at the news.yaml file and how it is rendered on the homepage. Build an artifact I can paste that YAML into which previews what it will look like, and highlights any markdown errors or YAML errors`\n\n![](https://static.simonwillison.net/static/2026/datasette-io-preview.jpg)",
+        "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-16T00:18:03.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Bonus Thought Regarding the Name ‘iPhone Ultra’",
+        "summary": "[On the Name of Apple’s Foldable iPhone](https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/)\n\nTim Hardwick, last week at MacRumors:\n\n> Apple’s first foldable iPhone may not carry ",
+        "content": "[On the Name of Apple’s Foldable iPhone](https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/)\n\nTim Hardwick, last week at MacRumors:\n\n> Apple’s first foldable iPhone may not carry the speculative\n> media-derived “Fold” branding after all, [according to Chinese\n> leaker Digital Chat Station](https://weibo.com/6048569942/QzJ4xr79B). In a new post on Weibo, the\n> oft-accurate leaker claimed that Apple’s book-style foldable could\n> launch as the “iPhone Ultra.” Meanwhile, domestic Chinese\n> manufacturers are allegedly deciding whether to follow Apple’s\n> lead by tentatively branding their own upcoming foldables as\n> “Ultra” models, but likely with a lighter price tag — Apple’s\n> version is expected to cost between $2,000 and $2,500.\n\nI have no inside knowledge about what Apple plans to name this device, but I’ll eat my proverbial hat if they name it “iPhone Fold”. That name is so dumb it’s what Samsung calls their foldables. You don’t name a device for what it does, you name it for what it connotes. A good name conveys feeling, not just function. “iPhone Ultra” or “iPhone Max” would both work, and *Ultra* sounds more luxe. So while unsurprising, that’s probably the best bet, even without the reliable word of Mr. Digital Chat Station.\n\nBut if you want my take on a wildcard name, one with some [history](https://everymac.com/systems/apple/powerbook_duo/index-powerbook-duo.html), how about “iPhone Duo”?\n\n★ *Tuesday, 14 April 2026*\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-593949-1']);\n  _gaq.push (['_gat._anonymizeIp']);\n  _gaq.push(['_trackPageview']);\n  (function() {\n\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n -->\n\n(function () {\n\tvar ma = document.createElement('script');\n\tma.type = 'text/javascript';\n\tma.src = '/mint/?js';\n\tma.async = true;\n\tvar s = document.getElementsByTagName('script')[0];\n\ts.parentNode.insertBefore(ma, s);\n})();\n\n-->",
+        "url": "https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-04-16T15:26:03.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv.jpg?quality=82&strip=all&w=1600)\n\t\n\nNetflix has once again made a controversial change to its Apple TV app. In recent weeks,",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv.jpg?quality=82&strip=all&w=1600)\n\t\n\nNetflix has once again made a controversial change to its Apple TV app. In recent weeks, the company has stopped using the native tvOS 26 video player in favor of a custom player similar to the one it uses on other TV platforms.\n\nIn practice, this makes the most common interactions more cumbersome and blocks users from using platform-specific Apple TV features.\n\n## Netflix’s Apple TV app is now very bad\n\nThe change began rolling out a few weeks ago, and user frustration is mounting. On Reddit, there’s a [growing thread of Netflix subscribers](https://www.reddit.com/r/appletv/comments/1s5bzfy/latest_neflix_app_update_is_time_to_unsubscribe/) saying they are canceling their subscription because of this change to the Apple TV app.\n\nIn a [separate thread on Reddit](https://www.reddit.com/r/appletv/comments/1s11td4/did_netflix_mess_up_the_app_there_are_two_extra/), one user explains the cumbersome process of simply rewinding or fast-forwarding by 10 seconds:\n\n> Did Netflix mess up the app? There are two extra clicks for a simple 10s rewind or fast forward. Instead of it going back 10s in one click, now it pauses and brings up the frame selector, and then you have to click again. Did they not do any research or usability testing before releasing this?\n\nThe change also means you lose access to full payback controls using the Apple TV Remote app on your iPhone. You can’t enable Enhance Dialogue from the video player. That clever Apple TV feature that automatically enables subtitles when you rewind? Gone.\n\nOne of my most-used tvOS video player features is the ability to [tap the Siri Remote](https://geni.us/PWhNbn4) to see when what I’m currently watching will end. It’s great for trying to decide whether you have time for one more episode before bed. That feature is gone in Netflix as part of this change.\n\n[*FlatpanelsHD* has a great roundup](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1775109419) of all the features on Apple TV that rely on an app using the native video player.\n\n![](https://9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv1.jpeg?quality=82&strip=all&w=1024)\n\n![](https://9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv2.jpeg?quality=82&strip=all&w=1024)\n\nNetflix hasn’t given any public indication of why it made this change. According to “sources within the company” cited by [*Vulture*](https://www.vulture.com/article/netflix-apple-tv-video-player-tvos-change.html?utm_campaign=nym&utm_medium=s1&utm_source=facebook), Netflix’s motivation was consistency across platforms. Netflix largely uses a custom video player across all of its platforms, so the Apple TV was an exception until now.\n\nMy guess is that it has something to do with advertising, and Netflix thinks it can use its own video player for better or more “immersive” advertising opportunities. \n\nNetflix’s switch to a custom video only further exacerbates the company’s poor support for Apple TV in general. The company, for example, does not integrate with Apple’s TV and therefore does not support system tvOS features like the universal “Up Next” queue. Its use of the native Apple TV video player was really its only redeeming quality on the platform.\n\nThe core functionality and controls that this change ruined aren’t minor. They aren’t things you’ll only notice occasionally. Netflix’s video player botches even the most basic of tasks, such as requiring multiple button presses to rewind if you happened to miss a piece of dialogue. Netflix has fundamentally made its experience worse, and you’ll notice every time you use the app.\n\nThe timing is also pretty poetic: Netflix started rolling out this change at almost the exact same time it [announced](https://9to5mac.com/2026/03/26/netflix-announces-price-increases-for-every-streaming-plan/) yet another price increase.\n\n[Here’s John Gruber:](https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player)\n\n> Switching to their own custom video player also broke Netflix’s integration with the iPhone. Until last week, playing video in the Netflix app on Apple TV would put a live activity widget on your iPhone lock screen with the name of the current program, scrub location, and player controls. Now that’s gone.\n\n> \n> \n> \n> This regression dropping the same week that Netflix announced price hikes makes me so angry that I’m giving even more thought to downgrading my family’s Netflix account from the $27/month Premium plan to the $20/month Standard plan. Sending Netflix only $240 per year instead of $324 will show them.\n\n\tI no longer subscribe to Netflix, except for the “[Netflix on Us](https://www.t-mobile.com/tv-streaming/netflix-on-us)” ad-supported plan I get for “free” through T-Mobile. I find the service doesn’t have much content I want to watch, and changes like this mean I definitely don’t want to give the company $27 per month. \n\nHopefully, Netflix sees the growing frustration from users and walks back this change. I wouldn’t hold my breath, though. \n\n**My favorite Apple TV products:**\n\n- [Apple TV 4K](https://geni.us/u0nD)\n\n- [Mount your Apple TV on your wall](https://geni.us/hGSJJOo)\n\n- [Case for Apple TV remote with AirTag built-in](https://geni.us/VX46yM)\n\n- [Hide your Apple TV behind your TV](https://geni.us/FwwwpF)\n\n- [Belkin mount for FaceTime on Apple TV](https://geni.us/mvB3xA)\n\n**Follow Chance**: [Threads](https://www.threads.net/@ChanceHMiller), [Bluesky](https://bsky.app/profile/chancemiller.me), [Instagram](https://www.instagram.com/chancehmiller/), and [Mastodon](https://mastodon.social/@ChanceHMiller).\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5mac.com/wp-content/uploads/sites/6/2026/03/750x150-1.jpg?quality=82&strip=all)](https://amzn.to/4rDvqMk)",
+        "url": "https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-04-16T19:27:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Rory Goss’s Accessibility Story",
+        "summary": "[Watch the video](https://www.apple.com/105/media/us/education/success-stories/2026/9f79ec36-9b86-4e93-ab6b-36bd8629b5b7/films/education-rory-accessibility-tpl-us-2026_16x9.m3u8)\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tStud",
+        "content": "[Watch the video](https://www.apple.com/105/media/us/education/success-stories/2026/9f79ec36-9b86-4e93-ab6b-36bd8629b5b7/films/education-rory-accessibility-tpl-us-2026_16x9.m3u8)\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tStudying Business Studies\nUlster University, Belfast, Class of 2029\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n> It’s not about what I've lost, but what I've found: resilience, patience, and an understanding of the crucial role technology can play in accessibility.\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tOne winter day in January 2024, 16‑year‑old Rory Goss experienced something jarring while in construction class at Abbey Christian Brothers’ Grammar School in Newry, Northern Ireland. He could no longer see the whiteboard at the front of the room.\n\n\t\t\t\t\tAs a straight‑A student in 11th grade, Rory was in the midst of studying for his A‑levels and was about to start applying to university. Passionate about golf and cars, and eager to start driving lessons, he had no idea what was happening to his eyesight.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t![A student stands in a modern building corridor holding a MacBook laptop, smiling at the camera](https://www.apple.com/v/education/success-stories/b/images/college-students/goss/lifestyle_1_goss__b9urxuftp58i_large.jpg)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tWithin weeks, he was diagnosed with Leber's Hereditary Optic Neuropathy, a rare genetic condition that damages the optic nerve and can lead to sudden, severe vision loss. Over the next six months, his vision deteriorated by 95%, meaning he was legally blind as he began his 12th grade exams.\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n> When something like this happens, you can either feel sorry for yourself or you say, 'I’m going to figure this out because there has to be a way.'\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tWhile in the hospital, Rory began exploring the accessibility features built into his iPhone. Using Zoom and Larger Text to make content easier to see, and VoiceOver to hear it read aloud, he discovered how technology could be the answer to his future. “For most people, it would be a really, really small thing. But for me it was massive,” he says. “I thought that if I could work out how to use my phone, everything else would fall into place.\"\n\n\t\t\t\t\tWhen he returned home, he spent hours familiarizing himself with the built‑in accessibility features on his Mac. He relied on Zoom and Follow Focus to magnify the screen and read copy as he typed. The copy on the high‑resolution Apple Studio Display remained crisp after zooming in. He increased text sizes on apps, and discovered he could scan documents directly from his iPhone to his Mac with Continuity Camera.\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t![A student uses an iPhone while sitting in front of a monitor displaying content from his business class in large, zoomed-in text](https://www.apple.com/v/education/success-stories/b/images/college-students/goss/lifestyle_2_goss__evuof02wk2gm_large.jpg)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tBack at school, these features empowered him to continue learning and excelling steadily. Because the features are cohesive across Apple products he only had to learn how to use them once. He used iPhone to capture information from the board or a classmate’s notes, which would sync with his Mac through iCloud. With these tools, he was able to stay in the classroom and keep learning alongside his peers.\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n> Accessibility with Apple is a starting point rather than an afterthought.\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tHis teacher Phyllis McQuillan attests to the power of accessibility. “Without him having Apple devices, I genuinely don’t think he would’ve been able to complete his A-levels. He was able to take ownership of his learning again.”\n\n\t\t\t\t\tFor Rory, the confidence and connection it unlocked meant everything. “Technology has been my bridge to independence. It’s allowed me to say ‘I’ve done that, that was all me.’”\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t![Classmates collaborate on a MacBook, she points at the screen while he types](https://www.apple.com/v/education/success-stories/b/images/college-students/goss/lifestyle_3_goss__bvihi15xw9aq_large.jpg)\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\tThe following year, Rory achieved three A* grades, the highest possible score, and averaged over 90% — among the top in his school. Today, he studies business at Ulster University in Belfast, building a future that once felt uncertain. He continues to rely on his MacBook to help with individual studies and group work. Drawing from his resilience and ingenuity, he proved that with the right tools, potential doesn’t disappear — it adapts.\n\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n## More to explore.\n\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t- [**Alexander Reinicke**](#more-stories-reinicke)\n\n\t\t\t\t\t\t\t- [**Michael Parekh**](#more-stories-parekh)\n\n\t\t\t\t\t\t\t- [**Hannah Pengilly**](#more-stories-pengilly)\n\n\t\t\t\t\t\t\t- [**Gam Preenapun**](#more-stories-preenapun)\n\n\t\t\t\t\t\t\t- [**Isaac Alferos**](#more-stories-alferos)\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t![](https://www.apple.com/v/education/success-stories/b/images/shared/all-stories/router_collage__973sbvq82mqa_large.png)\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t![](https://www.apple.com/v/education/success-stories/b/images/shared/router/router_college_students_alt__fjrgxht999u2_xlarge.jpg)\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n## Apple and College Students\n\n\t\t\t\tDiscover how students are using Apple devices to pursue their passions and bring ideas to life.\n\n\t\t\t\t[Learn more](https://www.apple.com/education/college-students/)",
+        "url": "https://www.apple.com/education/college-students/success-stories/goss/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-04-16T15:00:49.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers",
+        "summary": "An iPhone exploit that involves a linked Visa card can allow attackers to steal money from a locked device using NFC, but the process is complex, requiring physical access and specialized hardware. Th",
+        "content": "An iPhone exploit that involves a linked Visa card can allow attackers to steal money from a locked device using NFC, but the process is complex, requiring physical access and specialized hardware. The exploit was highlighted by popular YouTube channel Veritasium, and it involves tricking an iPhone into thinking it's making a payment at a mass transit terminal, a process that can be completed from a locked iPhone.\n\nCybersecurity researchers from the University of Surrey and the University of Birmingham developed the attack to bypass an iPhone's locked status and steal funds from a mobile wallet. The exploit was first publicized in 2021, and it bypasses traditional limits on transaction size. Veritasium demonstrated the attack by collecting $10,000 from YouTuber Marques Brownlee's locked iPhone.\n\nThe attack works using an NFC card reader that intercepts the communication between an iPhone and a tap-to-pay terminal when a payment is made. The card reader is connected to a laptop that collects payment data and sends it to a separate burner phone, which is then tapped on a legitimate card reader. The NFC device has to be tuned to the same transit terminal identifier as a legitimate transit reader.\n\nThe process requires the victim to have Express Transit Mode enabled for payments, and a Visa card linked for those payments, among other steps. As it turns out, it's a Visa-related security loophole rather than an iPhone issue, and it doesn't work with a Mastercard or an American Express card because other cards use different security methods. It also doesn't work with Samsung Pay on Samsung devices, and it requires the specific combination of a Visa card and an iPhone. Apple told Veritasium that it's an issue with the Visa system, but something unlikely to occur in the real world.\n\n> This is a concern with the Visa system, but Visa does not believe this kind of fraud is likely to take place in the real world. Visa has made it clear that their cardholders are protected by Visa's zero liability policy.\n\nVisa also told Veritasium that the exploit was very unlikely from a scaled real world setting, and any such transactions can be disputed. The researchers who shared the exploit said users can protect themselves by not using a Visa card on the iPhone for transit purposes.",
+        "url": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-16T18:43:44.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "\nAI cybersecurity is not proof of work\n",
+        "summary": "[antirez](http://antirez.com/user/antirez) 11 hours ago. 45699 views.  The proof of work is the wrong analogy: finding hash collisions, while exponentially harder with N, is guaranteed to find, with e",
+        "content": "[antirez](http://antirez.com/user/antirez) 11 hours ago. 45699 views.  The proof of work is the wrong analogy: finding hash collisions, while exponentially harder with N, is guaranteed to find, with enough work, some S so that H(S) satisfies N, so an asymmetry of resources used will see the side with more \"work ability\" eventually winning.\n\nBut bugs are different:\n\n1. Different LLMs executions take different branches, but eventually the possible branches based on the code possible states are saturated.\n\n2. If we imagine sampling the model for a bug in a given code M times, with M large, eventually the cap becomes not \"M\" (because of saturated state of the code AND the LLM sampler meaningful paths), but \"I\", the model intelligence level.\n\nThe OpenBSD SACK bug easily shows that: you can run an inferior model for an infinite number of tokens, and it will never realize(*) that the lack of validation of the start window, if put together with the integer overflow, then put together with the fact the branch where the node should never be NULL is entered regardless, will produce the bug.\n\nSo, cyber security of tomorrow will not be like proof of work in the sense of \"more GPU wins\"; instead, better models, and faster access to such models, will win.\n\n* Don't trust who says that weak models can find the OpenBSD SACK bug. I tried it myself. What happens is that weak models hallucinate (sometimes causally hitting a real problem) that there is a lack of validation of the start of the window (which is in theory harmless because of the start < end validation) and the integer overflow problem without understanding why they, if put together, create an issue. It's just pattern matching of bug classes on code that looks may have a problem, totally lacking the true ability to understand the issue and write an exploit. Test it yourself, GPT 120B OSS is cheap and available.\n\nBTW, this is why with this bug, the stronger the model you pick (but not enough to discover the true bug), the less likely it is it will claim there is a bug. Stronger models hallucinate less, so they can't see the problem in any side of the spectrum: the hallucination side of small models, and the real understanding side of Mythos.\n\n[blog comments powered by Disqus](https://disqus.com/)",
+        "url": "\nhttp://antirez.com/news/163\n",
+        "source": "\n<antirez>\n",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Thu, 16 Apr 2026 12:46:46 +0200",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "summary": "16th April 2026\n\nFor anyone who has been (inadvisably) taking my [pelican riding a bicycle benchmark](https://simonwillison.net/tags/pelican-riding-a-bicycle/) seriously as a robust way to test models",
+        "content": "16th April 2026\n\nFor anyone who has been (inadvisably) taking my [pelican riding a bicycle benchmark](https://simonwillison.net/tags/pelican-riding-a-bicycle/) seriously as a robust way to test models, here are pelicans from this morning’s two big model releases—[Qwen3.6-35B-A3B from Alibaba](https://qwen.ai/blog?id=qwen3.6-35b-a3b) and [Claude Opus 4.7 from Anthropic](https://www.anthropic.com/news/claude-opus-4-7).\n\nHere’s the Qwen 3.6 pelican, generated using [this 20.9GB Qwen3.6-35B-A3B-UD-Q4_K_S.gguf](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF/blob/main/Qwen3.6-35B-A3B-UD-Q4_K_S.gguf) quantized model by Unsloth, running on my MacBook Pro M5 via [LM Studio](https://lmstudio.ai/) (and the [llm-lmstudio](https://github.com/agustif/llm-lmstudio) plugin)—[transcript here](https://gist.github.com/simonw/4389d355d8e162bc6e4547da214f7dd2):\n\n![The bicycle frame is the correct shape. There are clouds in the sky. The pelican has a dorky looking pouch. A caption on the ground reads Pelican on a Bicycle!](https://static.simonwillison.net/static/2026/Qwen3.6-35B-A3B-UD-Q4_K_S-pelican.png)\n\nAnd here’s one I got from Anthropic’s [brand new Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) ([transcript](https://gist.github.com/simonw/afcb19addf3f38eb1996e1ebe749c118)):\n\n![The bicycle frame is entirely the wrong shape. No clouds, a yellow sun. The pelican is looking behind itself, and has a less pronounced pouch than I would like.](https://static.simonwillison.net/static/2026/opus-4.7-pelican.png)\n\nI’m giving this one to Qwen 3.6. Opus managed to mess up the bicycle frame!\n\nI tried Opus a second time passing `thinking_level: max`. It didn’t do much better ([transcript](https://gist.github.com/simonw/7566e04a81accfb9affda83451c0f363)):\n\n![The bicycle frame is entirely the wrong shape but in a different way. Lines are more bold. Pelican looks a bit more like a pelican.](https://static.simonwillison.net/static/2026/opus-4.7-pelican-max.png)\n\n#### I don’t think Qwen are cheating\n\nA lot of people are [convinced that the labs train for my stupid benchmark](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/). I don’t think they do, but honestly this result did give me a little glint of suspicion. So I’m burning one of my secret backup tests—here’s what I got from Qwen3.6-35B-A3B and Opus 4.7 for “Generate an SVG of a flamingo riding a unicycle”:\n\nI’m giving this one to Qwen too, partly for the excellent `<!-- Sunglasses on flamingo! -->` SVG comment.\n\n#### What can we learn from this?\n\nThe pelican benchmark has always been meant as a joke—it’s mainly a statement on how obtuse and absurd the task of comparing these models is.\n\nThe weird thing about that joke is that, for the most part, there has been a direct correlation between the quality of the pelicans produced and the general usefulness of the models. Those [first pelicans from October 2024](https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/) were junk. The [more recent entries](https://simonwillison.net/tags/pelican-riding-a-bicycle/) have generally been much, much better—to the point that Gemini 3.1 Pro produces [illustrations you could actually use somewhere](https://simonwillison.net/2026/Feb/19/gemini-31-pro/), provided you had a pressing need to illustrate a pelican riding a bicycle.\n\nToday, even that loose connection to utility has been broken. I have enormous respect for Qwen, but I very much doubt that a 21GB quantized version of their latest model is more powerful or useful than Anthropic’s latest proprietary release.\n\nIf the thing you need is an SVG illustration of a pelican riding a bicycle though, right now Qwen3.6-35B-A3B running on a laptop is a better bet than Opus 4.7!",
+        "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-16T17:16:52.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Features everyone should steal from npmx",
+        "summary": "For most of the time GitHub has owned npm, the public-facing website at npmjs.com has been effectively frozen, with the issue tracker accumulating years of requests that nobody on the inside seemed to",
+        "content": "For most of the time GitHub has owned npm, the public-facing website at npmjs.com has been effectively frozen, with the issue tracker accumulating years of requests that nobody on the inside seemed to be reading. In January [Daniel Roe](https://roe.dev/) started [npmx.dev](https://npmx.dev/) as an alternative web frontend over the same registry data, posted about it on Bluesky, and within a fortnight years of pent-up demand had turned into a thousand issues and pull requests on a repo that would actually merge them, with the contributor count passing a hundred a couple of days after that. It helps that every npmjs.com URL works with the hostname swapped to `npmx.dev` or `xnpmjs.com`, the same trick Invidious and Nitter used, so browser extensions and muscle memory carry straight over. The competitive pressure appears to have worked: npmjs.com shipped dark mode last month, the single most upvoted feature request on the tracker for something like five years, and there are signs of other long-dormant tickets being picked up.\n\nWhether or not that continues, npmx has turned into a useful catalogue of ideas for anyone building a package registry website, and the [whole thing is MIT licensed](https://github.com/npmx-dev/npmx.dev) where the npm registry and website remain closed source, so every feature below comes with a working reference implementation rather than just screenshots. Prior art from other ecosystems is noted where it exists.\n\n  - \n    **Transitive install size.** The number shown is the unpacked size of the package plus every dependency it pulls in, which is what actually lands on disk, rather than the single tarball size that crates.io and PyPI show. JavaScript developers have been getting this from [bundlephobia](https://bundlephobia.com/) and [packagephobia](https://packagephobia.com/) for years.\n\n  \n\n  - \n    **Install script disclosure.** Any `preinstall`, `install`, or `postinstall` script in the manifest is rendered on the package page along with the `npx` packages those scripts would fetch, with links into the code browser so you can read what runs. Worth having in front of you given how many supply-chain incidents start with a postinstall hook.\n\n  \n\n  - \n    **Outdated and vulnerable dependency trees.** Rather than a flat list of declared dependencies, you get an expandable tree where each node is annotated with how far behind latest it is and whether it appears in [OSV](https://osv.dev/), recursively through transitives. Google’s [deps.dev](https://deps.dev/) does something similar across ecosystems.\n\n  \n\n  - \n    **Version range resolution.** Wherever a semver range like `^1.0.0` appears it is shown alongside the concrete version it currently resolves to, which saves a round trip to the CLI when you are trying to work out what you would actually get.\n\n  \n\n  - \n    **Module replacement suggestions.** Packages that appear in the [e18e module-replacements dataset](https://github.com/es-tooling/module-replacements) get a banner pointing at the native API or lighter alternative, with MDN links for the native cases.\n\n  \n\n  - \n    **Module format and types badges.** ESM, CJS, or dual is shown next to the package name, as is whether TypeScript types are bundled or need a separate `@types/*` install, plus the declared Node engine range. JavaScript-specific in the details but the general idea of “will this work with my toolchain” badges travels; crates.io’s MSRV field and edition badge are in the same spirit.\n\n  \n\n  - \n    **Multi-forge repository stats.** Star and fork counts are fetched from [GitHub, GitLab, Bitbucket, Codeberg, Gitee, Sourcehut, Forgejo, Gitea, Radicle, and Tangled](https://docs.npmx.dev/guide/features#supported-git-providers), depending on where the `repository` field points, rather than special-casing GitHub.\n\n  \n\n  - \n    **Cross-registry availability.** Scoped packages that also exist on [JSR](https://jsr.io/) are flagged as such. The npm/JSR pairing is particular to JavaScript but “this is also on registry X” applies anywhere ecosystems overlap, like Maven and Clojars or the various Linux distro repos, and the same lookup doubles as a dependency-confusion check when the name exists elsewhere but the publisher does not match.\n\n  \n\n  - \n    **Side-by-side package comparison.** Up to ten packages can be loaded into a [compare view](https://npmx.dev/compare) that lays out all the metrics above in a table, plus a scatter plot with aggregate “traction” on one axis and “ergonomics” on the other so the popular-but-heavy and small-but-unknown options separate visually.\n\n  \n\n  - \n    **Version diffing.** Any two published versions can be diffed file-by-file in the browser, which Hex has had for years via [diff.hex.pm](https://diff.hex.pm/) and which exists in the Rust world through `cargo-vet` tooling.\n\n  \n\n  - \n    **Release timeline with size annotations.** Every version of a package is plotted on a timeline with markers where install size jumped by a meaningful percentage, which is a neat way to spot the release where someone accidentally started shipping their test fixtures.\n\n  \n\n  - \n    **Download distribution by version.** The weekly download chart can be broken down by major or minor line so you can see how much of the ecosystem is still on v2 of something now on v5, similar to [RubyGems’ per-version download counts](https://rubygems.org/gems/rails/versions) but rendered as a distribution rather than a table.\n\n  \n\n  - \n    **Command palette.** `⌘K` opens a palette with every action available on the current page plus global navigation, and on a package page typing a semver range filters the version list to matches. Borrowed from editors and from GitHub itself rather than from any registry.\n\n  \n\n  - \n    **Internationalisation.** The interface ships in [over thirty locales](https://github.com/npmx-dev/npmx.dev/tree/main/i18n/locales) including RTL languages, with [PyPI’s Warehouse](https://hosted.weblate.org/projects/pypa/warehouse/) being the other registry that has invested in this.\n\n  \n\n  - \n    **Accessibility as a default.** Charts and demo videos in the release notes carry long-form `aria-label` and `figcaption` text, the command palette works with screen readers, and there is a dedicated [accessibility statement](https://npmx.dev/accessibility).\n\n  \n\n  - \n    **Playground link extraction.** StackBlitz, CodeSandbox, CodePen, JSFiddle, and Replit links found in a package’s README are pulled out into a dedicated panel so you can try the thing without cloning it.\n\n  \n\n  - \n    **Agent skill detection.** Packages that contain [Agent Skills](https://www.anthropic.com/news/skills) manifests have them listed with declared tool compatibility, which is very 2026, though detecting non-code payloads in published packages is useful.\n\n  \n\n  - \n    **Social features on AT Protocol.** Package “likes” are [atproto](https://atproto.com/) records rather than rows in a private database, blog comment threads are Bluesky threads, and the custom record types are [public lexicons in the repo](https://github.com/npmx-dev/npmx.dev/tree/main/lexicons) so other tools can read and write the same data without talking to npmx. If you have ever wanted to add reviews or comments to a registry and balked at the moderation burden of running another silo, borrowing an existing network’s identity and content layer is a defensible answer, and while I am personally sceptical that leaning on Bluesky’s infrastructure will work out long term, npmx at least runs [its own PDS at npmx.social](https://npmx.dev/pds) so the records stay under their control either way.\n\n  \n\n  - \n    **Local-CLI admin connector.** Management actions like claiming a package name or editing access are proxied through your local `npm` CLI rather than requiring you to log into the site, which sidesteps the need for npmx to hold credentials for a registry it does not own.\n\n  \n\n  - \n    **Dark mode and custom palettes.** Listed last because this is the one npm has now copied, joining pkg.go.dev, crates.io, and PyPI which already had it.\n\n  \n\nSomeone in the .NET world has already built an equivalent: [nugx.org](https://nugx.org/), in its own words “inspired by npmx”, is doing the same thing for NuGet.",
+        "url": "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-04-16T10:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sofa 5.0",
+        "summary": "## \nThe Biggest Update Sofa Has Ever Had\n\n \nSofa 5 tracks your shows episode by episode, plays your podcasts, plans your trips, keeps your stats, and a bunch of other stuff. All in one app.\n\n     \n\n  ",
+        "content": "## \nThe Biggest Update Sofa Has Ever Had\n\n \nSofa 5 tracks your shows episode by episode, plays your podcasts, plans your trips, keeps your stats, and a bunch of other stuff. All in one app.\n\n     \n\n      ![Progress Tracking](https://www.sofahq.com/_astro/progress-tracking-alt-1.DS7pqKhO.jpg) \n\n  \n## \nA Highly Flexible Progress Tracking Experience\n\n \nA show you started last month. A book on your nightstand. A game\n          you keep meaning to get back to. Finding something new is easy.\n          Remembering where you left off is the hard part.\n\n \nSofa 5 helps you keep track of this stuff. Progress rings show up on\n          covers throughout the app so you can see where you stand at a\n          glance. Your home screen shows what's next with one-tap checkboxes\n          to keep things moving.\n\n \nFive ways to track, depending on what fits: just enjoy with zero\n          setup, tap to log, count pages, check off episodes, or keep a\n          journal as you go. Pick one and switch anytime.\n\n [\nSee How Tracking Works → ](https://www.sofahq.com/track) \n\n ![Progress Tracking](https://www.sofahq.com/_astro/progress-tracking-alt-2.Bp_FrxH1.jpg) \n\n       \n## \nA Planner for Trips, Tasks, Notes, and a Timeline That Tracks Your TV Schedule Too\n\n ![Planner Overview](https://www.sofahq.com/_astro/planner-alt-2.CzrvV4t2.jpg) \n\n   \nYou're planning a trip and everything lives in a different place. The hotel confirmation is in your email. The restaurant list is in Notes. The flight info is in a screenshot somewhere. You haven't checked the weather yet.\n\n \nThe Planner in Sofa 5 puts all of that in one event. Build a day-by-day itinerary with locations on a map, compare budget scenarios, check live weather forecasts, and attach your confirmations and tickets. A countdown on the cover image shows how many days are left.\n\n \nIt's not just for trips. Create standalone tasks with due dates, priorities, and reminders. Jot down sticky notes for ideas that don't have a date yet. TV shows you're tracking and items with future release dates show up on the timeline automatically, so your episode schedule sits right next to your weekend getaway.\n\n [\nSee the Planner → ](https://www.sofahq.com/plan) \n\n ![Planner](https://www.sofahq.com/_astro/planner-alt-1.BA3UiX2X.jpg) \n\n        ![Podcast Player](https://www.sofahq.com/_astro/player-alt-1.wW9b5qdo.png) \n\n  \n## \nWe Built a Whole Podcast Player. It Has CarPlay and Everything.\n\n \nIf you track podcasts and listen to podcasts, you probably use two separate apps for that. One to remember what you want to try, another to actually play it. Sofa 5 puts the player right inside your library so you can save a podcast, queue up episodes, and hit play without switching apps.\n\n \nDrag your Up Next queue into whatever order you want. Download episodes for offline. Turn on Voice Boost when the audio needs cleaning up. Skip ahead with chapter navigation, or take it on the road with CarPlay. A mini player stays with you across every tab so your audio keeps going while you browse.\n\n \nEverything you listen to flows into your Logbook automatically. Your listening history becomes part of your stats without any extra work.\n\n [\nSee the Player → ](https://www.sofahq.com/play) \n\n        \n## \nLists With A Lot More Power. Maybe Too Much Power?\n\n \nYour list of stuff keeps growing. Some of it you're working through. Some of it you just want to keep around. Sofa 5 gives you the tools to organize all of it.\n\n  ![List Layouts](https://www.sofahq.com/_astro/list-layouts-alt-1.DRXpKVG7.jpg) \n\n      Todo Lists & Collection Lists  Todo Lists hide completed items so you can focus on your backlog. Collection Lists keep everything visible, like an all-time favorites shelf or a curated recommendations list you share with friends.      Four Layouts Including Data Cards  Data Cards turn a list into a property grid where you can see ratings, genres, runtimes, and custom fields on every card and edit them without opening the detail view.      Group, Sort & Filter  Group any list by genre, streaming service, platform, author, release year, or a custom field. Persistent filters let you narrow things down without creating a separate Smart List.      Multi-Select & Watch Again  Grab a handful of items and mark them complete, move, copy, pin, or remove them at once. A \"Watch Again\" action creates a fresh copy with its own date and Logbook entry.           \n## \nRidiculously Smart Lists\n\n ![Smart Lists](https://www.sofahq.com/_astro/smart-lists-alt-1.sPJJEjmi.jpg) \n\n   \nYou know what you're in the mood for. You just can't find it. Maybe it's a short TV show you haven't started yet, or a podcast under thirty minutes from a specific publisher you've been meaning to try. Smart Lists in Sofa 5 can find exactly that, with 28 new filters that cover everything from episode count and air date to runtime, platform, and listening progress.\n\n \nYou can also create your own filters. Custom fields called Ingredients let you add a rating system, tags, a \"Recommended By\" field, or anything else you want to track. Once you've tagged a few items, a Smart List can surface only the ones that match. Pre-built templates get you started with star ratings, thumbs up/down, and status trackers so you don't have to build everything from scratch.\n\n [\nSee How It's Organized → ](https://www.sofahq.com/organize) \n\n ![Smart Lists](https://www.sofahq.com/_astro/smart-lists-alt-2.D82XDCfW.jpg) \n\n        ![Apple Intelligence in Sofa](https://www.sofahq.com/_astro/ai-alt-1.1ndHCNr3.png) \n\n  \n## \nOn-Device AI That is Actually Kind of Helpful\n\n \nOn devices that support Apple Intelligence, you can create Smart Lists\n            by describing what you want. Type something like \"action movies on\n            Netflix I haven't watched, rated four stars or higher\" and Sofa\n            generates a titled Smart List with the right filters already applied.\n            It handles multi-filter queries and works with your custom Ingredients,\n            not just the built-in filters.\n\n \nApple Intelligence also powers automatic summaries in the Planner.\n            When you build out a trip or event with plans, locations, and dates, a\n            summary card appears with a conversational description of your\n            itinerary. It updates as you add or remove plans, adjusts its tense\n            depending on whether the event is upcoming or in the past, and stays\n            under 150 characters so it reads like a quick overview instead of a\n            data dump.\n\n        ![Logbook & Stats](https://www.sofahq.com/_astro/logbook-alt-1.DeFTa2Ad.jpg) \n\n  \n## \nA Logbook That Turns Your History Into Charts, Insights, and Slightly Personal Fun Facts\n\n \nYou finish a show and it just sort of disappears. You read a book last summer but can't remember when exactly, or what you thought of it at the time. The Logbook in Sofa 5 catches everything. Mark something as complete and it lands in your history with its date, notes, and metadata intact. Your Logbook item and your list item are the same thing, so edits stay in sync everywhere.\n\n \nA Stats dashboard turns that history into something you can actually see. An activity timeline shows your last twelve months at a glance. Each content type gets its own detail page with charts, top rankings, and genre breakdowns. TV shows reveal your peak binge day. Podcasts show your preferred listening time. Movies break down by genre and decade.\n\n  ![Logbook Stats Detail](https://www.sofahq.com/_astro/logbook-alt-2.B-bGaMf4.jpg) \n\n  \nStats also surface patterns you wouldn't notice on your own. Year-over-year comparisons, milestone markers like logging your hundredth podcast episode, and an interactive map that clusters your Planner events and tasks by location.\n\n [\nSee the Logbook → ](https://www.sofahq.com/remember) \n\n       \n## \nPlus Widgets, Unified Search, 40 Shortcuts Actions, and a Few More Things We Couldn't Stop Adding\n\n ![And More](https://www.sofahq.com/_astro/more-alt-1.BWeHPYzt.jpg) \n\n   \nA single Search tab now covers your library and new content in one place, with trending results when you open it and smart type detection as you type. Widgets put progress rings and cover art on your home screen and lock screen so you can tap straight into whatever you're watching or reading. Over 40 Shortcuts actions let you automate your library however you want, including things like \"mark next episode of Breaking Bad as watched\" through Siri.\n\n \nThe tab bar is customizable too. If you don't use the Player or the Planner, hide them and the app shrinks to fit. Manually-added items now get the same detail fields as items from search, so everything in your library has full parity no matter how it got there.\n\n  ![And More](https://www.sofahq.com/_astro/more-alt-2.Clw5L-lo.jpg) \n\n    \n## \nStart Organizing \nYour Downtime\n\n \nAll you have to do is press that button.",
+        "url": "https://www.sofahq.com/5",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-16T00:36:05.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/16Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/16/pascals-w",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/16Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/16/pascals-wager/)\n\n## Today's links\n\n- [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/#doomer-challenge): We're already being turned into paperclips.\n\n- [Hey look at this](https://pluralistic.net/2026/04/16/pascals-wager/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/16/pascals-wager/#retro): Every pirate ebook on the internet; Sun's \"Open DRM\"; Untranslatable words; Let's encrypt is encrypting; Boots ruined by hedge fund; Brussels terrorists' opsec; Copyrighted Klingon; Murder Offsets.\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/16/pascals-wager/#upcoming): Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London, NYC.\n\n- [Recent appearances](https://pluralistic.net/2026/04/16/pascals-wager/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/16/pascals-wager/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/16/pascals-wager/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/16/pascals-wager/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/pascals-robot.jpg?w=840&ssl=1)\n\n## A Pascal's Wager for AI Doomers ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#doomer-challenge))\n\nLest anyone accuse me of bargaining in bad faith here, let me start with this admission: I don't think AI is intelligent; nor do I think that the current (admittedly impressive) statistical techniques will lead to intelligence. I think worrying about what we'll do if AI becomes intelligent is at best a distraction and at worst a cynical marketing ploy:\n\n[https://locusmag.com/feature/cory-doctorow-full-employment/](https://locusmag.com/feature/cory-doctorow-full-employment/)\n\nNow, that said: among some of the \"AI doomers,\" I recognize kindred spirits. I, too, worry about technologies controlled by corporations that have grown so powerful that they defy regulation. I worry about how those technologies are used against us, and about how the corporations that make them are fusing with authoritarian states to create a totalitarian nightmare. I worry that technology is used to spy on and immiserate workers.\n\nI just don't think we need AI to do those things. I think we should *already* be worried about those things.\n\nLast week, I had a version of this discussion in front of several hundred people at the Bronfman Lecture in Montreal, where I appeared with Astra Taylor and Yoshua Bengio (co-winner of the Turing Prize for his work creating the \"deep learning\" techniques powering today's AI surge), on a panel moderated by CBC Ideas host Nahlah Ayed:\n\n[https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885](https://www.eventbrite.ca/e/artificial-intelligence-the-ultimate-disrupter-tickets-1982706623885)\n\nIt's safe to say that Bengio and I mostly disagree about AI. He's running an initiative called \"Lawzero,\" whose goal is to create an international AI consortium that produces AI as a \"digital public good\" that is designed to be open, auditable, transparent and safe:\n\n[http://lawzero.org](http://lawzero.org/)\n\nBengio said he'd started Lawzero because he was convinced that AI was going to get a *lot* more powerful, and, in the absence of some public-spirited version of AI, we would be subject to all kinds of manipulation and surveillance, and that the resulting chaos would present a civilizational risk.\n\nNow, as I've stated (and as I said onstage) I am not worried about any of this. I *am* worried about AI, though. I'm worried a fast-talking AI salesman will convince your boss to fire you and replace you with an AI that *can't* do your job (the salesman will be pushing on an open door, since if there's one thing bosses hate, it's paying workers).\n\nI'm worried that the seven companies that comprise 35% of the S&P 500 are headed for bankruptcy, as soon as someone makes them stop passing around the same $100b IOU while pretending it's in all their bank accounts at once. I'm worried that when that happens, the chatbots that badly do the jobs of the people who were fired because of the AI salesman will go away, and nothing and no one will do those jobs. I'm worried that the chaos caused by vaporizing a third of the stock market will lead to austerity and thence to fascism:\n\n[https://pluralistic.net/2026/04/13/always-great/#our-nhs](https://pluralistic.net/2026/04/13/always-great/#our-nhs)\n\nI worry that the workers who did those jobs will be scattered to the four winds, retrained or \"discouraged\" or retired, and that the priceless process knowledge they developed over generations will be wiped out and we will have to rebuild it amidst the economic and political chaos of the burst AI bubble:\n\n[https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/#wash-dishes-cut-wood](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/#wash-dishes-cut-wood)\n\nIn short, I worry that AI is the asbestos we're shoveling into our civilization's walls, and our descendants will be digging it out for generations:\n\n[https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes](https://pluralistic.net/2026/01/06/1000x-liability/#graceful-failure-modes)\n\nBut Bengio disagrees. He's very smart, and very accomplished, and he's *very* certain that AI is about to become \"superhuman\" and do horrible things to us if we don't get a handle on it. Several times at our events, he insisted that the existence of this *possibility* made it wildly irresponsible *not* to take measures to mitigate this risk.\n\nThough I didn't say so at the time, this struck me as an AI-inflected version of Pascal's wager:\n\n> \n> A rational person should adopt a lifestyle consistent with the existence of God and should strive to believe in God… if God does not exist, the believer incurs only finite losses, potentially sacrificing certain pleasures and luxuries; if God does exist, the believer stands to gain immeasurably, as represented for example by an eternity in Heaven in Abrahamic tradition, while simultaneously avoiding boundless losses associated with an eternity in Hell.\n> \n\n[https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)\n\nSmarter people than me have been poking holes in Pascal's wager for more than 350 years. But when it comes to this modern Pascal's AI Wager, I have my own objection: how do you know when you've lost?\n\nAs of this moment, the human race has lit more than $1.4t on fire to immanentize this eschaton, and it remains stubbornly disimmanentized. How much more do we need to spend before we're certain that god isn't lurking in the word-guessing program? Sam Altman says it'll take another $2-3t – call it six months' worth of all US federal spending. If we do that and we still haven't met god, are we done? Can we call it a day?\n\nNot according to Elon Musk. Musk says we need to deconstruct the solar system and build a Dyson sphere out of all the planets to completely encase the sun, so we can harvest every photon it emits to power our word-guessing programs:\n\n[https://www.pcmag.com/news/elons-next-big-swing-dyson-sphere-satellites-that-harness-the-suns-power](https://www.pcmag.com/news/elons-next-big-swing-dyson-sphere-satellites-that-harness-the-suns-power)\n\nSo let's say we do that and we *still* haven't met god – are we done? I don't see why we would be. After all, Musk's contention isn't that our sun emits one eschaton's worth of immanentizing particles. Musk just thinks that we need a *lot* of these sunbeams to coax god into our plane of existence. If one sun won't do it, perhaps two? Or two hundred? Or two thousand? Once we've committed the entire human species to this god-bothering project to the extent of putting two kilosuns into harness, wouldn't we be nuts to stop there? What if god is lurking in the two thousand and *first* sun? Making god out of algorithms is like spelling \"banana\" – easy to start, hard to stop.\n\nBut as Bengio and I got into it together on stage at the Montreal Centre, it occurred to me that maybe there was some common ground between us. After all, when someone starts talking about \"humane technology\" that respects our privacy and works for people rather than their bosses, my ears grow points. Throw in the phrase \"international digital public goods\" and you've got my undivided attention.\n\nBecause there's a sense in which Bengio and I are worried about exactly the same thing. I'm terrified that our planet has been colonized by artificial lifeforms that we constructed, but which have slipped our control. I'm terrified that these lifeforms corrupt our knowledge-creation process, making it impossible for us to know what's true and what isn't. I'm terrified that these lifeforms have conquered our apparatus of state – our legislatures, agencies and courts – and so that these public bodies work *against* the public and *for* our colonizing alien overlords.\n\nThe difference is, the artificial lifeforms that worry me aren't hypothetical – they're here today, amongst us, endangering the very survival of our species. These artificial lifeforms are called \"limited liability corporations\" and they are a concrete, imminent risk to the human race:\n\n[https://pluralistic.net/2026/04/15/artificial-lifeforms/#moral-consideration](https://pluralistic.net/2026/04/15/artificial-lifeforms/#moral-consideration)\n\nWhat's more, challenging these artificial lifeforms will require us to build massive, \"international, digital public goods\": a post-American internet of free/open, auditable, transparent, enshittification-resistant platforms and firmware for every purpose and device currently in service:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nAnd even after we've built that massive, international, digital public good, we'll *still* face the challenge of migrating all of our systems and loved ones out of the enshitternet of defective, spying, controlling American tech exports:\n\n[https://pluralistic.net/2026/01/30/zucksauce/#gandersauce](https://pluralistic.net/2026/01/30/zucksauce/#gandersauce)\n\nEvery moment that we remain stuck in the enshitternet is a moment of existential risk. At the click of a mouse, Trump could order John Deere to switch off all the tractors in your country:\n\n[https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/](https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/)\n\nHe doesn't need tanks to steal Greenland. He can just shut off Denmark's access to American platforms like Office365, iOS and Android and *brick the whole damned country*. It would be another Strait of Hormuz, but instead of oil and fertilizer, he'd control the flow of Lego, Ozempic and deliciously strong black licorice:\n\n[https://pluralistic.net/2026/01/29/post-american-canada/#ottawa](https://pluralistic.net/2026/01/29/post-american-canada/#ottawa)\n\nThese aren't risks that *could* develop in the *future*. They're the risks we're confronted with *today* and frankly, they're fucking *terrifying*.\n\nSo here's my side-bet on Pascal's Wager. If you think we need to build \"international digital public goods\" to head off the future risk of a colonizing, remorseless, malevolent artificial lifeform, then let us agree that the prototype for that project is the \"international digital public goods\" we need *right now* to usher in the post-American internet and save ourselves from the colonizing, remorseless, malevolent artificial lifeforms that have already got their blood-funnels jammed down our throats.\n\nOnce we defeat those alien invaders, we may find that all the people who are trying to summon the evil god have lost the wherewithal to do so, and your crisis will have been averted. But if that's not the case and the evil god still looms on our horizon, then I will make it my business to help you mobilize the legions of skilled international digital public goods producers who are still flush from their victory over the limited liability corporation, and together, we will fight the evil god you swear is in our future.\n\nI think that's a pretty solid offer.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- A Hole in the ‘Open-and-Shut’ Case Against Charlie Kirk’s Alleged Assassin? [https://prospect.org/2026/04/15/hole-in-open-and-shut-case-against-charlie-kirks-alleged-assassin-tyler-robinson/](https://prospect.org/2026/04/15/hole-in-open-and-shut-case-against-charlie-kirks-alleged-assassin-tyler-robinson/)\n\n- \nWORSE ON PURPOSE [https://www.worseonpurpose.com/](https://www.worseonpurpose.com/)\n\n- \nHow Viktor Orbán Bankrolled the Network Around Reform UK [https://bylinetimes.com/2026/04/14/exposed-how-viktor-orban-bankrolled-the-network-around-reform-uk/](https://bylinetimes.com/2026/04/14/exposed-how-viktor-orban-bankrolled-the-network-around-reform-uk/)\n\n- \nTwo Visions [https://www.hamiltonnolan.com/p/two-visions](https://www.hamiltonnolan.com/p/two-visions)\n\n- \nCaught in the Crackdown: As Arrests at Anti-ICE Protests Piled Up, Prosecutions Crumbled [https://www.propublica.org/article/caught-in-crackdown-ice-cbp-doj-trump-arrests-convictions](https://www.propublica.org/article/caught-in-crackdown-ice-cbp-doj-trump-arrests-convictions)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#retro))\n\n#25yrsago Every pirate ebook on the internet [https://web.archive.org/web/20010724030402/https://citizen513.cjb.net/](https://web.archive.org/web/20010724030402/https://citizen513.cjb.net/)\n\n#20yrsago Retired generals diss Donald Rumsfeld [https://nielsenhayden.com/makinglight/archives/007432.html#007432](https://nielsenhayden.com/makinglight/archives/007432.html#007432)\n\n#20yrsago How to break HDCP [https://blog.citp.princeton.edu/2006/04/14/making-and-breaking-hdcp-handshakes/](https://blog.citp.princeton.edu/2006/04/14/making-and-breaking-hdcp-handshakes/)\n\n#20yrsago How Sun’s “open DRM” dooms them and all they touch [https://memex.craphound.com/2006/04/14/how-suns-open-drm-dooms-them-and-all-they-touch/](https://memex.craphound.com/2006/04/14/how-suns-open-drm-dooms-them-and-all-they-touch/)\n\n#20yrsago Benkler's \"Wealth of Networks\" [http://www.congo-education.net/wealth-of-networks/](http://www.congo-education.net/wealth-of-networks/)\n\n#15yrsago Scientific management’s unscientific grounding: the Management Myth [https://web.archive.org/web/20120823212827/https://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/](https://web.archive.org/web/20120823212827/https://www.theatlantic.com/magazine/archive/2006/06/the-management-myth/304883/)\n\n#15yrsago 216 “untranslatable” emotional words from non-English languages [https://www.drtimlomas.com/lexicography/cm4mi/lexicography#!lexicography/cm4mi](https://www.drtimlomas.com/lexicography/cm4mi/lexicography#!lexicography/cm4mi)\n\n#10yrsago New York public employees union will vote on pulling out of hedge funds [https://web.archive.org/web/20160414230326/https://www.bloomberg.com/news/articles/2016-04-13/nyc-pension-weighs-liquidating-1-5-billion-hedge-fund-portfolio](https://web.archive.org/web/20160414230326/https://www.bloomberg.com/news/articles/2016-04-13/nyc-pension-weighs-liquidating-1-5-billion-hedge-fund-portfolio)\n\n#10yrsago Panama’s public prosecutor says he can’t find any evidence of Mossack-Fonseca’s lawbreaking [https://web.archive.org/web/20160419165306/https://www.thejournal.ie/mossack-fonseca-prosecution-2714795-Apr2016/?utm_source=twitter_self](https://web.archive.org/web/20160419165306/https://www.thejournal.ie/mossack-fonseca-prosecution-2714795-Apr2016/?utm_source=twitter_self)\n\n#10yrsago Bernie Sanders responds to CEOs of Verizon and GE: “I welcome their contempt” [https://web.archive.org/web/20160415165051/https://www.businessinsider.com/bernie-sanders-verizon-contempt-2016-4](https://web.archive.org/web/20160415165051/https://www.businessinsider.com/bernie-sanders-verizon-contempt-2016-4)\n\n#10yrsago Let’s Encrypt is actually encrypting the whole Web [https://www.wired.com/2016/04/scheme-encrypt-entire-web-actually-working/](https://www.wired.com/2016/04/scheme-encrypt-entire-web-actually-working/)\n\n#10yrsago City of San Francisco tells man he can’t live in wooden box in friend’s living room [https://www.theguardian.com/us-news/2016/apr/13/san-francisco-new-home-rented-box-illegal?CMP=tmb_gu](https://www.theguardian.com/us-news/2016/apr/13/san-francisco-new-home-rented-box-illegal?CMP=tmb_gu)\n\n#10yrsago How the UK’s biggest pharmacy chain went from family-run public service to debt-laden hedge-fund disaster [https://www.theguardian.com/news/2016/apr/13/how-boots-went-rogue](https://www.theguardian.com/news/2016/apr/13/how-boots-went-rogue)\n\n#10yrsago Ohio newspaper chain owner says his papers don’t publish articles about LGBTQ people [https://ideatrash.net/2016/04/the-owner-of-four-town-papers-in-ohio.html](https://ideatrash.net/2016/04/the-owner-of-four-town-papers-in-ohio.html)\n\n#10yrsago How British journalists talk about people they’re not allowed to talk about [https://web.archive.org/web/20160414152933/https://popbitch.com/home/2016/03/31/up-the-injunction/](https://web.archive.org/web/20160414152933/https://popbitch.com/home/2016/03/31/up-the-injunction/)\n\n#10yrsago Brussels terrorists kept their plans in an unencrypted folder called “TARGET” [https://www.techdirt.com/2016/04/14/brussels-terrorist-laptop-included-details-planned-attack-unencrypted-folder-titled-target/](https://www.techdirt.com/2016/04/14/brussels-terrorist-laptop-included-details-planned-attack-unencrypted-folder-titled-target/)\n\n#10yrsago Ron Wyden vows to filibuster anti-cryptography bill [https://www.techdirt.com/2016/04/14/burr-feinstein-officially-release-anti-encryption-bill-as-wyden-promises-to-filibuster-it/](https://www.techdirt.com/2016/04/14/burr-feinstein-officially-release-anti-encryption-bill-as-wyden-promises-to-filibuster-it/)\n\n#10yrsago Paramount wants to kill a fan-film by claiming copyright on the Klingon language [https://torrentfreak.com/paramount-we-do-own-the-klingon-language-and-warships-160414/](https://torrentfreak.com/paramount-we-do-own-the-klingon-language-and-warships-160414/)\n\n#5yrsago Murder Offsets [https://pluralistic.net/2021/04/14/for-sale-green-indulgences/#killer-analogy](https://pluralistic.net/2021/04/14/for-sale-green-indulgences/#killer-analogy)\n\n#5yrsago The FCC wants your broadband measurements [https://pluralistic.net/2021/04/14/for-sale-green-indulgences/#fly-my-pretties](https://pluralistic.net/2021/04/14/for-sale-green-indulgences/#fly-my-pretties)\n\n#1yrago Machina economicus [https://pluralistic.net/2025/04/14/timmy-share/#a-superior-moral-justification-for-selfishness](https://pluralistic.net/2025/04/14/timmy-share/#a-superior-moral-justification-for-selfishness)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: DemocracyXchange, Apr 16\n\n[https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16](https://www.democracyxchange.org/news/cory-doctorow-to-open-dxc26-on-april-16)\n\n- \nSan Francisco: 2026 Berkeley Spring Forum on M&A and the Boardroom, Apr 23\n\n[https://www.theberkeleyforum.com/#agenda](https://www.theberkeleyforum.com/#agenda)\n\n- \nLondon: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyibuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#recent))\n\n- The internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n- \nLaunch for Cindy's Cohn's \"Privacy's Defender\" (City Lights)\n\n[https://www.youtube.com/watch?v=WuVCm2PUalU](https://www.youtube.com/watch?v=WuVCm2PUalU)\n\n- \nChicken Mating Harnesses (This Week in Tech)\n\n[https://twit.tv/shows/this-week-in-tech/episodes/1074](https://twit.tv/shows/this-week-in-tech/episodes/1074)\n\n- \nThe Virtual Jewel Box (U Utah)\n\n[https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/](https://tanner.utah.edu/podcast/enshittification-cory-doctorow-matthew-potolsky/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/16/pascals-wager/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/16/pascals-wager/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Thu, 16 Apr 2026 11:09:32 +0000",
+        "reading_time": 17,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "So Close to Getting It - Hi, friends! Welcome to *Installer* No. 122, your guide to the best and *Verge*-iest stuff...",
+    "llm-anthropic 0.25 - Release [llm-anthropic 0.25](https://github.com/simonw/llm-anthropic/releases/tag/0.25) —...",
+    "datasette.io news preview - The [datasette.io](https://datasette.io/) website has a news section built from this [news...",
+    "Bonus Thought Regarding the Name ‘iPhone Ultra’ - [On the Name of Apple’s Foldable iPhone](https://www.macrumors.com/2026/04/07/foldable-iph...",
+    "Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’ - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv.jpg?quality=82..."
+  ],
+  "wordcloud": [
+    {
+      "word": "apple",
+      "count": 9
+    },
+    {
+      "word": "ai",
+      "count": 9
+    },
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "com",
+      "count": 9
+    },
+    {
+      "word": "agents",
+      "count": 7
+    },
+    {
+      "word": "search",
+      "count": 7
+    },
+    {
+      "word": "cloudflare",
+      "count": 6
+    },
+    {
+      "word": "models",
+      "count": 6
+    },
+    {
+      "word": "work",
+      "count": 4
+    },
+    {
+      "word": "rss",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "datasette",
+      "count": 4
+    },
+    {
+      "word": "io",
+      "count": 4
+    },
+    {
+      "word": "news",
+      "count": 4
+    },
+    {
+      "word": "iphone",
+      "count": 4
+    },
+    {
+      "word": "book",
+      "count": 3
+    },
+    {
+      "word": "club",
+      "count": 3
+    },
+    {
+      "word": "message",
+      "count": 3
+    },
+    {
+      "word": "re",
+      "count": 3
+    },
+    {
+      "word": "getting",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "line",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "april",
+      "count": 3
+    },
+    {
+      "word": "layer",
+      "count": 3
+    },
+    {
+      "word": "workers",
+      "count": 3
+    },
+    {
+      "word": "built",
+      "count": 3
+    },
+    {
+      "word": "create",
+      "count": 3
+    },
+    {
+      "word": "llm-anthropic",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "antirez",
+      "count": 3
+    },
+    {
+      "word": "sofa",
+      "count": 3
+    },
+    {
+      "word": "sqlalchemy",
+      "count": 2
+    },
+    {
+      "word": "practice",
+      "count": 2
+    },
+    {
+      "word": "chapter",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "series",
+      "count": 2
+    },
+    {
+      "word": "window",
+      "count": 2
+    },
+    {
+      "word": "unexpected",
+      "count": 2
+    },
+    {
+      "word": "parameters",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "newton",
+      "count": 2
+    },
+    {
+      "word": "zero",
+      "count": 2
+    },
+    {
+      "word": "set",
+      "count": 2
+    },
+    {
+      "word": "sentence",
+      "count": 2
+    },
+    {
+      "word": "ii",
+      "count": 2
+    },
+    {
+      "word": "launched",
+      "count": 2
+    },
+    {
+      "word": "inference",
+      "count": 2
+    },
+    {
+      "word": "building",
+      "count": 2
+    },
+    {
+      "word": "developers",
+      "count": 2
+    },
+    {
+      "word": "features",
+      "count": 2
+    },
+    {
+      "word": "language",
+      "count": 2
+    },
+    {
+      "word": "custom",
+      "count": 2
+    },
+    {
+      "word": "infrastructure",
+      "count": 2
+    },
+    {
+      "word": "primitive",
+      "count": 2
+    },
+    {
+      "word": "instances",
+      "count": 2
+    },
+    {
+      "word": "upload",
+      "count": 2
+    },
+    {
+      "word": "artifacts",
+      "count": 2
+    },
+    {
+      "word": "versioned",
+      "count": 2
+    },
+    {
+      "word": "storage",
+      "count": 2
+    },
+    {
+      "word": "email",
+      "count": 2
+    },
+    {
+      "word": "service",
+      "count": 2
+    },
+    {
+      "word": "public",
+      "count": 2
+    },
+    {
+      "word": "beta",
+      "count": 2
+    },
+    {
+      "word": "including",
+      "count": 2
+    },
+    {
+      "word": "deploy",
+      "count": 2
+    },
+    {
+      "word": "postgres",
+      "count": 2
+    },
+    {
+      "word": "mysql",
+      "count": 2
+    },
+    {
+      "word": "databases",
+      "count": 2
+    },
+    {
+      "word": "planetscale",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "welcome",
+      "count": 2
+    },
+    {
+      "word": "stuff",
+      "count": 2
+    },
+    {
+      "word": "simonw",
+      "count": 2
+    },
+    {
+      "word": "access",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "website",
+      "count": 2
+    },
+    {
+      "word": "yaml",
+      "count": 2
+    },
+    {
+      "word": "name",
+      "count": 2
+    },
+    {
+      "word": "foldable",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "macrumors",
+      "count": 2
+    },
+    {
+      "word": "netflix",
+      "count": 2
+    },
+    {
+      "word": "tv",
+      "count": 2
+    },
+    {
+      "word": "video",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "visa",
+      "count": 2
+    },
+    {
+      "word": "card",
+      "count": 2
+    },
+    {
+      "word": "steal",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "proof",
+      "count": 2
+    },
+    {
+      "word": "pelican",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "episode",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    }
+  ]
+}
