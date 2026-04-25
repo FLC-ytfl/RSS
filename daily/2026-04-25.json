@@ -1,0 +1,609 @@
+{
+  "date": "2026-04-25",
+  "stats": {
+    "total_fetched": 271,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Closed-form solution to the nonlinear pendulum equation",
+        "summary": "The previous post looks at the nonlinear pendulum equation and what difference it makes to the solutions if you linearize the equation. If the initial displacement is small enough, you can simply replace sin θ with θ. If...",
+        "url": "https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Sat, 25 Apr 2026 16:16:12 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "nth derivative of a quotient",
+        "summary": "There’s a nice formula for the nth derivative of a product. It looks a lot like the binomial theorem. There is also a formula for the nth derivative of a quotient, but it’s more complicated and less known. We start by wr...",
+        "url": "https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/",
+        "source": "John D. Cook",
+        "tags": [
+          "Database",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Sat, 25 Apr 2026 13:12:39 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "You can parse an .env file as an .ini with PHP - but there's a catch",
+        "summary": "The humble .env file is a useful and low-tech way of storing persistent environment variables. Drop the file on your server and let your PHP scripts consume it with glee. But consume it how? There are lots of excellent p...",
+        "url": "https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Sat, 25 Apr 2026 11:34:15 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 04/25/26",
+        "summary": "Transformer steel manufacturing, textile engineering, bringing power plants online quickly, infrasound, and more.",
+        "url": "https://www.construction-physics.com/p/reading-list-042526",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Sat, 25 Apr 2026 14:16:17 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-25T22:25:17.605Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Romain Huet",
+        "summary": "25th April 2026\n\n> Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore.\n\n> GPT-5.5 takes this further, with strong gains in agentic c",
+        "content": "25th April 2026\n\n> Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore.\n\n> GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer.\n\n— [Romain Huet](https://twitter.com/romainhuet/status/2047955381578838357), confirming OpenAI won't release a GPT-5.5-Codex model",
+        "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-04-25T12:06:55.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GPT-5.5 prompting guide",
+        "summary": "25th April 2026 - Link Blog\n\n**[GPT-5.5 prompting guide](https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5)**. Now that GPT-5.5 is [available in the API](https://developers.o",
+        "content": "25th April 2026 - Link Blog\n\n**[GPT-5.5 prompting guide](https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5)**. Now that GPT-5.5 is [available in the API](https://developers.openai.com/api/docs/models/gpt-5.5), OpenAI have released a wealth of useful tips on how best to prompt the new model.\n\nHere's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response:\n\n```\nBefore any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences.\n\n```\n\nI've already noticed their Codex app doing this, and it does make longer running tasks feel less like the model has crashed.\n\nOpenAI suggest running the following in Codex to upgrade your existing code using advice embedded in their `openai-docs` skill:\n\n```\n$openai-docs migrate this project to gpt-5.5\n\n```\n\nThe upgrade guide the coding agent will follow [is this one](https://github.com/openai/skills/blob/724cd511c96593f642bddf13187217aa155d2554/skills/.curated/openai-docs/references/upgrade-guide.md#model-string--light-prompt-rewrite), which even includes light instructions on how to rewrite prompts to better fit the model.\n\nAlso relevant is the [Using GPT-5.5 guide](https://developers.openai.com/api/docs/guides/latest-model), which opens with this warning:\n\n> To get the most out of GPT-5.5, treat it as a new model family to tune for, not a drop-in replacement for `gpt-5.2` or `gpt-5.4`. Begin migration with a fresh baseline instead of carrying over every instruction from an older prompt stack. Start with the smallest prompt that preserves the product contract, then tune reasoning effort, verbosity, tool descriptions, and output format against representative examples.\n\nInteresting to see OpenAI recommend starting from scratch rather than trusting that existing prompts optimized for previous models will continue to work effectively with GPT-5.5.",
+        "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-25T04:13:36.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WHY ARE YOU LIKE THIS",
+        "summary": "25th April 2026\n\n@scottjla [on Twitter](https://twitter.com/scottjla/status/2047535371664457863) in reply to my [pelican riding a bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle/) ben",
+        "content": "25th April 2026\n\n@scottjla [on Twitter](https://twitter.com/scottjla/status/2047535371664457863) in reply to my [pelican riding a bicycle](https://simonwillison.net/tags/pelican-riding-a-bicycle/) benchmark:\n\n> I feel like we need to stack these tests now\n\n> ![](https://static.simonwillison.net/static/2026/why-are-you-like-this.jpeg)\n\nI checked to confirm that the model (ChatGPT Images 2.0) added the \"WHY ARE YOU LIKE THIS\" sign of its own accord and [it did](https://chatgpt.com/share/69ebff27-2220-839f-b065-8c3516ea9b6d) - the prompt Scott used was:\n\n> `Create an image of a horse riding an astronaut, where the astronaut is riding a pelican that is riding a bicycle. It looks very chaotic but they all just manage to balance on top of each other`\n\nPosted [25th April 2026](https://simonwillison.net/2026/Apr/25/) at 4:44 pm\n\n## Recent articles\n\n  \n    - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/) - 24th April 2026\n\n  \n    - [Extract PDF text in your browser with LiteParse for the web](https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/) - 23rd April 2026\n\n  \n    - [A pelican for GPT-5.5 via the semi-official Codex backdoor API](https://simonwillison.net/2026/Apr/23/gpt-5-5/) - 23rd April 2026\n\n  \n\n \n\nThis is a **note** by Simon Willison, posted on [25th April 2026](https://simonwillison.net/2026/Apr/25/).\n\n    \n        [\n            ai\n            1985\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            generative-ai\n            1761\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            chatgpt\n            196\n        ](https://simonwillison.net/tags/chatgpt/)\n    \n        [\n            slop\n            38\n        ](https://simonwillison.net/tags/slop/)\n    \n        [\n            text-to-image\n            42\n        ](https://simonwillison.net/tags/text-to-image/)\n    \n        [\n            pelican-riding-a-bicycle\n            111\n        ](https://simonwillison.net/tags/pelican-riding-a-bicycle/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-25T16:44:01.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Satisfaction of a ChatGPT Plan ",
+        "summary": "#NoFollowUpNecessary\n\nA couple weeks back, I was arguing that when people come up with ideas, the [satisfaction is in the telling](https://idiallo.com/blog/your-friends-are-hiding-their-ideas), not in",
+        "content": "#NoFollowUpNecessary\n\nA couple weeks back, I was arguing that when people come up with ideas, the [satisfaction is in the telling](https://idiallo.com/blog/your-friends-are-hiding-their-ideas), not in building. And I was making this statement generally for idea sharing. But then, I also mentioned that people share their \"ChatGPT plan\" with me now. Rather than sharing the idea, they share the business plan on how to achieve the idea, entirely generated by AI. \n\nThis resonated with several people who emailed me saying they have experienced the same thing. So someone they know has an idea, rather than risk the potential humiliation from being told their idea is bad, they share it with their favorite AI. Sycophancy being the default behavior, their idea is always validated. Even if not, the AI might suggest slight adjustment to the idea and make it valid.\n\nAnd at the end of a conversation with ChatGPT, the LLM, trying to be helpful, will always ask something in the line of: \"Do you want me to create a step by step plan to achieve this?\" The answer is always yes. Please tell me how I can make millions off my unique idea, and give me the details... make no mistakes.\n\nThe plan that comes back is elaborate. You can even ask ChatGPT to expand on specific sections. Now, this plan is what ends up being shared. Every single time I receive those plans and read them, I notice something funny. When I ask a question about a section, [my friends have no answers](https://idiallo.com/blog/large-language-models-make-us-feel-smarter). They have to go back to the AI to get an answer. Why don't they have an answer? Because they are reading it for the first time with me. \n\nBasically, because the plan is long and elaborate, who has time to read it? The satisfaction is in the format and complexity, not in the execution of the plan.\n\nThey had an idea, ChatGPT improved it, then it built a plan and solution for the problem. So their idea now has a solution, and the solution must be correct because AI came up with it. The problem is solved, we can file it in a cabinet. Executing it was never the issue.\n\nI'm sure there will be a psychological term for this. A term for getting a psychological reward from watching AI come up with a plan of execution for your ideas. This isn't specific to OpenAI's ChatGPT, it's a catch-all for all generative AI in the current market.\n\nEven when I'm doing research for a blog post, I'm often caught in the \"Would you like me to expand further on this?\" questions that can easily lure you into a rabbit hole. I guess AI providers are learning from social media. In social media, the goal isn't to socialize with friends and family anymore. Instead, they are trying to keep you engaged for as long as possible, to expose you to the maximum number of advertisements. \n\nWith AI, the goal isn't to impart you with knowledge. Instead it's to give you the satisfaction of appearing knowledgeable by keeping you engaged with an AI while they expose you to ads and spend your tokens.",
+        "url": "https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Sat, 25 Apr 2026 17:44:16 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What Do You Charge For? ",
+        "summary": "I've written about my journey to learn how to charge a fair price for [building a website](https://idiallo.com/blog/how-much-do-you-charge-for-your-work) before. But even after landing on a strategy, ",
+        "content": "I've written about my journey to learn how to charge a fair price for [building a website](https://idiallo.com/blog/how-much-do-you-charge-for-your-work) before. But even after landing on a strategy, there is still a question that remains unanswered. *What* should I charge for?\n\nAre you charging the price for the product itself? As in, the very cost for building a website? Or are you charging enough to make a living? This question applies to any field, whether you are a consultant, a mechanic, or a private chauffeur.\n\nI once worked with a company that built websites for non-profits. Their price tag? $35,000 for a standard WordPress site. Lucky for me, I got a first-hand view of their price breakdown because they were trying to expand their reach to smaller customers. They needed to figure out how to lower the price, so they invited me to the meeting.\n\n> Every single person in the room was involved in building the website. The standard time frame to complete it was 6 weeks. So, the manager named each person, their title and how much time they spend on the project. There were the designers, the copy writers, the consultants that gathered the information. There were the sales people who started the process, the 2 developers that included me. Everyone at the table was indispensable. Then he gave a ball park estimate of salaries using glassdoor standards, and the price jumped to 35k. It was completely fair.\n\n> \n> \"What if we have Ibrahim as the sole developer on this tier?\" the director asked. \"And we use only one designer, and we can reuse copy.\" The manager crunched the numbers and we were still going to charge 25k. \"What if I don't get involved at all in this tier?\" the manager removed the director's name from the list. He contributed only a couple of hours of work, yet the number went down to 22k.\n\nI originally thought $35k was an astronomical amount for a website, but their breakdown showed it didn't even include profit. The salary costs alone ate up the budget. The actual profit for the company came later, from managing the marketing campaign.\n\nThis is Cost-Plus pricing. You add up what it costs to make the thing, and that becomes the price. It feels logical, but it relies entirely on your costs, not the value you provide.\n\nBut then, there is another way. The market-based pricing.\n\nTake a car, for example. A vehicle costs $35k because that is what the market is willing to pay for that specific make and model. The materials and labor to build the car might be significantly cheaper, or on occasion even more expensive (Rivian) than the sticker price. The price is dictated by the buyer's perceived value, not just the manufacturer's receipt.\n\nThis method became clearer to me after I started consulting. When I would get a new client, I initially tried to price based on the old model of calculating what I thought my time was worth from a salaried perspective. I later found that the recruiting company I worked with was charging clients $78 per hour for my services, while paying me $40. The market (or the recruiter's markup) was valuing my time at nearly double what I was charging myself.\n\n    ![The tire shop](https://cdn.idiallo.com/images/assets/648/mechanic.jpg)\n\nYou know the mechanic is gonna charge you extra for that flat\n\nThen, there is the wild card method. I've been the unlucky guy who finds himself out of town with a flat tire. I stop at the first tire shop I can find, and the worker doesn't size up my car; he sizes *me* up.\n\nHe decides how much to charge based on how desperate I look.\n\nIn those misadventures, the price has ranged anywhere from $20 to $150. I'm usually in no position to argue when I'm stranded on the side of the road. But how do they decide on those numbers? Are they making a profit? Or are they just charging whatever they think fills their quota for the day? This is opportunistic pricing, highly effective for a quick buck, but I don't think you can build trust like that.\n\nAll these methods for charging have their pros and cons. My goal isn't to tell you which number to pick, but to encourage you to decide how you pick that number. My advice, in the simplest terms, is this: Be consistent.\n\nOnce you choose a method, it becomes your standard. Do not deviate. If you charge based on value today, but switch to charging based on your mood tomorrow, your clients will never trust your pricing. They will always wonder if they are getting the \"real\" price or just the price you felt like charging that morning. They will start looking for other consultants.\n\nPick the method that works for you, stick to it, and let your clients know exactly where they stand. Personally, I apply a value based pricing with my clients, where the cost is tied to their specific needs and the time required to meet them. It's a method that requires trust and communication, but it can be the most fair and profitable for both parties when applied consistently. When they end up with [an obscene bill](https://idiallo.com/blog/18000-dollars-static-web-page), at the very least they are prepared.",
+        "url": "https://idiallo.com/blog/what-do-you-charge-for?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Systems",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "Sat, 25 Apr 2026 05:00:00 GMT",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition",
+        "summary": "In May 2024, Bloomberg ran a feature story by Mark Gurman under the headline, “[Tim Cook Can’t Run Apple Forever. Who’s Next?](https://www.bloomberg.com/news/articles/2024-05-08/apple-s-next-ceo-list-",
+        "content": "In May 2024, Bloomberg ran a feature story by Mark Gurman under the headline, “[Tim Cook Can’t Run Apple Forever. Who’s Next?](https://www.bloomberg.com/news/articles/2024-05-08/apple-s-next-ceo-list-of-aapl-insiders-who-could-succeed-tim-cook)” The subhead: “John Ternus, the head of hardware engineering, is emerging as a potential successor to the CEO.” The nut grafs from that piece:\n\n> There’s no reason to assume that a change at the helm is imminent.\n> Cook may be older than the CEOs of the other tech companies at the\n> top of the S&P 500, but he’s hardly the oldest person running a\n> major corporation. “If Trump or Biden can be president at 80, Tim\n> Cook can be CEO of Apple for many more years. It used to be\n> automatic that CEOs are moved out at 65,” says someone who knows\n> him. “The world has changed.”\n\n> \n> While Cook hasn’t given any indication how long he’ll remain in\n> charge — other than telling Dua Lipa it would be “a while” — people close to him believe he’ll be CEO at least another three\n> years. After that, they say, he’ll start a charitable foundation\n> to donate the wealth he accumulated at Apple.\n\n> \n> If Cook were to stay that long, people within Apple say, the most\n> likely successor would be John Ternus, the hardware engineering\n> chief. In a company whose success has always come from building\n> category-defining gadgets, the ascension of a hardware engineering\n> expert to the CEO job would seem logical. Ternus, who’s not yet\n> 50, would also be more likely than other members of the executive\n> team to stick around for a long time, potentially providing\n> another decade or more of Cook-esque stability.\n\n> \n> Ternus is well-liked inside Apple, and he’s earned the respect of\n> Cook, Williams and other leaders. “Tim likes him a lot, because he\n> can give a good presentation, he’s very mild-mannered, never puts\n> anything into an email that is controversial and is a very\n> reticent decision-maker,” says one person close to Apple’s\n> executive team. “He has a lot of managerial characteristics like\n> Tim.” Christopher Stringer, a former top Apple hardware designer,\n> called Ternus a “trustworthy hand” who’s “never failed with any\n> role he’s been elevated to.” Eddy Cue, the Apple executive known\n> as Cook’s closest confidant, has privately told colleagues that\n> Ternus should be the next CEO, according to a person with\n> knowledge of the matter.\n\nLinking to Gurman’s report, [I wrote](https://daringfireball.net/linked/2024/05/08/ternus-gurman):\n\n> I wouldn’t have linked to this if not for the above line about\n> Eddy Cue. If Cue is telling people that, that means a lot. No\n> executive at Apple is more juiced-in company-wide than Cue. Cook’s\n> first action as CEO [was to promote Cue](https://9to5mac.com/2011/09/01/itunes-chief-eddy-cue-gets-promoted-to-senior-vice-president-of-internet-software-and-services/), and Cue was arguably\n> just as tight with and trusted by Steve Jobs.\n\nIt was two more years, not three, but Gurman was the first to report that Ternus was the guy at the top of the list.\n\nThere was no significant additional reporting between Gurman’s May 2024 Bloomberg report until November 15 last year, when the Financial Times published a blockbuster story under the headline “[Apple Intensifies Succession Planning for CEO Tim Cook](https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e)”, with four bylines: “Tim Bradshaw, Stephen Morris and Michael Acton in San Francisco and Daniel Thomas in London”. Bradshaw is the FT’s lead Apple reporter, and it’s no coincidence his name was first among the four. The article gets right to the point at the start:\n\n> Apple is stepping up its succession planning efforts, as it\n> prepares for Tim Cook to step down as chief executive as soon as\n> next year. Several people familiar with discussions inside the\n> tech group told the Financial Times that its board and senior\n> executives have recently intensified preparations for Cook to hand\n> over the reins at the $4tn company after more than 14 years.\n\n> \n> John Ternus, Apple’s senior vice-president of hardware\n> engineering, is widely seen as Cook’s most likely successor,\n> although no final decisions have been made, these people said.\n\n> \n> People close to Apple say the long-planned transition is not\n> related to the company’s current performance, ahead of what is\n> expected to be a blockbuster end-of-year sales period for the\n> iPhone. [...]\n\n> \n> The company is unlikely to name a new CEO before its next earnings\n> report in late January, which covers the critical holiday period.\n> An announcement early in the year would give its new leadership\n> team time to settle in ahead of its big annual keynote events, its\n> developer conference in June and its iPhone launch in September,\n> the people said. These people said that although preparations have\n> intensified, the timing of any announcement could change.\n\nSo, per the FT in November, Apple’s plan was to name Ternus as the company’s next CEO “early in the year”, after their Q1 results (January 29) but ahead of WWDC (June 8). The halfway point between those dates was April 4; [Apple announced Ternus as the company’s next CEO on April 20](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/). Every single word of the FT report, in hindsight, was exactly correct. I can’t think of a way that their November story could have been more prescient. It was a home run. A report for the ages, like when CNet and The Wall Street Journal [scooped the Mac’s transition to Intel processors on the eve of WWDC 2005](https://daringfireball.net/2005/06/see_you_intel).\n\n[My own take](https://daringfireball.net/linked/2025/11/15/ft-apple-tim-cook-succession), back in November when the FT report dropped, was that it had the distinct aroma of a deliberate expectations-setting [leak](https://daringfireball.net/linked/2026/04/13/john-martellaro-rip), and was almost certainly accurate:\n\n> That “several people” spoke to the FT about this says to me that\n> those sources (members of the board?) did so with Cook’s blessing,\n> and they want this announcement to be no more than a little\n> surprising. [...]\n\n> \n> I would also bet that Cook moves into the role of executive\n> chairman, and will still play a significant, if not leading, role\n> for the company when it comes to domestic and [international](https://daringfireball.net/2024/01/vestager_cook)\n> [politics](https://daringfireball.net/linked/2025/05/27/cook-trump-middle-east). [Especially](https://www.wsj.com/politics/elections/tim-cook-ceo-trump-relationship-ad106f36?st=KRSbZa&reflink=desktopwebshare_permalink) with [regard](https://daringfireball.net/linked/2025/01/04/consider-cook-as-a-tragic-figure) to\n> [Trump](https://daringfireball.net/linked/2025/09/10/trump-hosts-dinner-humiliating-tech-ceos).\n\nCook moving into the position of executive chairman and continuing to play a leading role as the company’s political ambassador was my own speculation, and that proved out. Easy money, making that prediction.\n\nOne week after the FT’s report, in his Bloomberg “Power On” newsletter on November 23, [Gurman wrote](https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8):\n\n> In October, I wrote that the [internal spotlight on Ternus was\n> “intensifying,”](https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad) and that barring unforeseen circumstances\n> he would be the leading candidate. But I didn’t put a date on when\n> a change might happen. Then, around midnight two Fridays ago, the\n> Financial Times published a report with three central claims:\n> Apple is “intensifying” succession planning; Ternus is likely the\n> next CEO; and Cook is expected to step down between late January\n> and June.\n\n> \n> The first two points are anything but revelations if you’ve read\n> Bloomberg coverage and Power On, or have simply been paying\n> attention to the realities of Cook’s age and tenure. The timing,\n> however, is another matter entirely. It’s a huge deal that the FT\n> did this: A respected publication should only predict the CEO\n> transition date for a company of Apple’s scale with a high level\n> of confidence — based on people legitimately in the know.\n\n> \n> This is where I have concerns. Based on everything I’ve learned in\n> recent weeks, I don’t believe a departure by the middle of next\n> year is likely. In fact, I would be shocked if Cook steps down in\n> the time frame outlined by the FT. Some people have speculated\n> that the story was a “test balloon” orchestrated by Apple or\n> someone close to Cook to prepare Wall Street for a change, but\n> that isn’t the case either. I believe the story was simply false.\n\nGurman must be well and truly “shocked” by this week’s announcements, because as it turns out, Cook is stepping aside exactly “in the time frame outlined by the FT”. The FT’s report was not “simply false”. It was, in fact, completely true. The Financial Times, which truly is a respected publication (with no black marks on its record, like, say, Bloomberg’s to-this-day-still-uncorrected [“The Big Hack” fiasco](https://daringfireball.net/search/the+big+hack+bloomberg)), obviously did have a high level of confidence in Apple’s plans, because they were, in fact, briefed by people “legitimately in the know”. Gurman’s reading comprehension is questionable as well, because the FT did *not* report that Cook would “step down” between January and June. The FT report spoke only of “naming a new CEO” and making an “announcement” between January and June. That’s exactly what happened. Nor is anyone “departing” — but a change in leadership will occur in the middle of the year.\n\nIn January, [Gurman reiterated his stance that the FT was wrong](https://www.macrumors.com/2026/01/25/when-will-tim-cook-step-down-as-apple-ceo/):\n\n> It’s just a question of timing. The Financial Times [reported last\n> year](https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e) that the change would happen as early as the beginning\n> of 2026. But let me be clear: This seems unlikely.\n\nBy [pooh-poohing](https://daringfireball.net/linked/2025/12/01/gurman-pooh-poohs-ft-on-cook) the FT’s completely accurate reporting as “simply false”, Gurman wound up poo-pooing the bed. Calibrate the grains of salt with which you take his [other reporting](https://daringfireball.net/linked/2025/12/08/srouji) on Apple executive goings-on accordingly. A humble correction and sincere apology to the Financial Times — and Tim Bradshaw personally — are surely forthcoming in this weekend’s edition of Power On.[1](#fn1-2026-04-24)",
+        "url": "https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "2026-04-25T00:56:12.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/25Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/25/machiavel",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/25Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/25/machiavellian/)\n\n## Today's links\n\n- [Ada Palmer's \"Inventing the Renaissance\"](https://pluralistic.net/2026/04/25/machiavellian/#brackets-good): A tour-de-force, a magnum opus, a work of utter brilliance.\n\n- [Hey look at this](https://pluralistic.net/2026/04/25/machiavellian/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/25/machiavellian/#retro): Gloating about the dot-bomb; RIAA sues PC-less family; John Deere v infosec; Foxconn v Wisconsin; Copyfraud x torturers' reputations; \"Careless People.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/25/machiavellian/#upcoming): London, Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC.\n\n- [Recent appearances](https://pluralistic.net/2026/04/25/machiavellian/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/25/machiavellian/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/25/machiavellian/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/25/machiavellian/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/inventing-the-renaissance.jpg?w=840&ssl=1)\n\n## Ada Palmer's \"Inventing the Renaissance\" ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#brackets-good))\n\nAda Palmer may just be the most bewilderingly talented person I know: a genius sf writer, incredible librettist and singer, wildly innovative educator, *and* a leading historian of the Renaissance, and last year, she published her *magnum opus*, *Inventing the Renaissance*, a stunning book about so much more than history:\n\n[https://press.uchicago.edu/ucp/books/book/chicago/I/bo246135916.html](https://press.uchicago.edu/ucp/books/book/chicago/I/bo246135916.html)\n\nAll of my friends seem to be writing their magnum opuses these days! When (modern) historian Rick Perlstein and I did an event last year for my *Enshittification* tour, he told me he'd just finished his 1,000 page (ish? I may be misremembering slightly) history of the American conservative movement. And I recently had dinner with China Mieville, who told me he'd just turned in the manuscript for a novel he'd been trying to figure out how to write all his life.\n\nI can't wait to read these books! And I couldn't wait to read *Inventing the Renaissance*, and I would have been much quicker off the mark but for the exigencies of book tours and books due and so on – but I've been reading it for the past two months or so, and I think I've pitched it about a hundred times to strangers and friends as I savored it, because it's *just that good*.\n\n*Inventing the Renaissance* isn't a work of history, it's a work of \"historiography\" – the study of how histories get written and rewritten. Palmer's point here isn't to make us merely understand the Renaissance – she wants us to understand how the *idea* of a Renaissance, a rebirth out of a \"dark age\" into a \"golden age\" – has been used, abused, created and demolished, for centuries and centuries, *including* during the centuries when the Renaissance was actually underway.\n\nPalmer teaches Renaissance history at the University of Chicago, where she is legendary for a unique annual pedagogical exercise in which she leads her students through a weeks-long live-action role-playing game that re-enacts the election of the Medicis' Pope. Every student is given a detailed biography of their character's position, goals, proclivities and history, and for weeks, the students scheme, ally, betray and assassinate each other. At the climax, the students take over the university's faux-Gothic cathedral, dressed in Renaissance drag (Palmer has a Google alert for theater companies that are selling off their costumes, and her tiny office at the university overflows with racks of cardinals' robes and other period garb), and they invest a Pope:\n\n[https://pluralistic.net/2021/10/17/against-the-great-forces-of-history/](https://pluralistic.net/2021/10/17/against-the-great-forces-of-history/)\n\nThis exercise is nothing short of genius, and the students who experience it often report that it is life-changing. That's because the final candidates are *never* quite the same, nor are the cardinals who cast votes for the winner. And yet, there are certain bedrocks that *never* shift, including the fact that Italy is *always* invaded by some of the factions involved in the election, though which cities burn *also* changes.\n\nThe point of this exercise is to expose the students to the power and limits of both \"great historical forces\" *and* the human agency that every one of us has within the envelope defined by those forces. Palmer wants her students to get a bone-deep understanding that while every moment has great forces bearing down on it, that the *people* of each moment have an enormous amount of leeway to channel the floodwaters that history will unleash. From the servant who bears a message from one great power to another, up to those great powers themselves, each person guides the course of history, even if they can't halt some of its outcomes.\n\nThough Palmer unpacks this exercise and its meaning and results in the final part of her *magnum opus*, this message about forces and people is really the key to her historiography. She develops these themes in the most charming, accessible manner imaginable, weaving her own journey into history with her accounts of how different eras consciously created and deployed the *idea* of \"the Renaissance\" and how these ideas were bolstered, undermined, or ultimately demolished by new evidence. You could not ask for a better account of why there is not, and can never be, a single, canonical \"history\" of an era or a moment. There will *always* be multiple histories, overlapping each other, warring with one another, supplanting each other, or being revived as \"lost\" histories that reveal a truth that \"they\" have buried.\n\nThis is *such* an ambitious book, and the ambition pays off in so many ways. Take the book's structure: there's a long middle section in which Palmer describes how more than a dozen figures from the Renaissance experienced their era, with many overlapping events and timelines. Palmer's sensitive, beautifully researched and written accounts of the lives of these figures – highborn and lowly, sinister and virtuous – highlights the contradictions of this centuries-long \"moment\" we call \"the Renaissance\" and shows us how those contradictions can't ever be resolved, only acknowledged and understood.\n\nThis is Palmer the novelist, blending seamlessly with Palmer the historian. Palmer is a close literary – and personal – ally of the equally brilliant sf/fantasy writer Jo Walton, whose work has mined classical and Renaissance history to great effect since she and Palmer struck up their friendship. First, there were Walton's \"Philosopher Kings\" books, a three-book long thought experiment in which every person of every era who ever dreamed of living in Plato's Republic is brought through time and space to the doomed volcanic island that will someday give rise to the story of Atlantis, to try out Plato's ideal society for real:\n\n[https://memex.craphound.com/2015/01/13/jo-waltons-the-just-city/](https://memex.craphound.com/2015/01/13/jo-waltons-the-just-city/)\n\nThen there was *Lent*, Walton's story of the fanatical reformer Savonarola, who is forced to re-live his life over and over, with breaks in hell where he is tormented by his failure:\n\n[https://web.archive.org/web/20190516170659/https://www.latimes.com/books/la-ca-jc-review-jo-walton-lent-20190516-story.html](https://web.archive.org/web/20190516170659/https://www.latimes.com/books/la-ca-jc-review-jo-walton-lent-20190516-story.html)\n\nAnd this June, she'll bring out *Everybody's Perfect*, a novel that uses Palmer's trick of telling a story from many viewpoint characters, each of whom perceives the events so differently that their versions can't really be reconciled, except by understanding that there is no one history and there cannot be one history. There are only the histories, ever changing. The omnipotent third person narrator is a lie. I don't know if Palmer got this idea from Walton, or if Walton was inspired by Palmer, but it is a wonderful living example of how intellectual and creative movements (like those that are attributed to the Renaissance) feed one another.\n\nOne of Palmer's areas of specialty is free speech and censorship. Along with Adrian Johns, we co-taught a grad seminar called \"Censorship, Information Control, and Information Revolutions from Printing Press to Internet\" that connected Ada's work to the current battles over online speech:\n\n[https://neubauercollegium.uchicago.edu/research/censorship-information-control-and-information-revolutions-from-printing-press-to-internet](https://neubauercollegium.uchicago.edu/research/censorship-information-control-and-information-revolutions-from-printing-press-to-internet)\n\nPalmer wants us to understand that the majority of censorship is *self*-censorship – that the Inquisition could only intervene in a tiny minority of cases of prohibited thought and word, and they had to rely on key people – printers, for example – anticipating the Inquisitors' tastes and limiting their speech without an Inquisitorial edict (if this seems relevant to the Trump administration's \"war on woke,\" then you're clearly paying attention):\n\n[https://pluralistic.net/2024/02/22/self-censorship/#hugos](https://pluralistic.net/2024/02/22/self-censorship/#hugos)\n\nThose correspondences between the deep historical record and our current moment make *Inventing the Renaissance* extremely important and timely – a book hundreds of years in the making, and bang up to date.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Coyote vs. ACME | Official Trailer [https://www.youtube.com/watch?v=H-43VeYGiPM](https://www.youtube.com/watch?v=H-43VeYGiPM)\n\n- \nFrom the Jew Bill to the Mamdani Act [https://coreyrobin.com/2026/04/22/from-the-jew-bill-to-the-mamdani-act/](https://coreyrobin.com/2026/04/22/from-the-jew-bill-to-the-mamdani-act/)\n\n- \nThis Alberta Startup Sells No-Tech Tractors for Half Price [https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)\n\n- \nHalf of AI health answers are wrong even though they sound convincing [https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512](https://theconversation.com/half-of-ai-health-answers-are-wrong-even-though-they-sound-convincing-new-study-280512)\n\n- \nEmails show Amazon colluding with other firms to raise prices, California authorities allege [https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california](https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#retro))\n\n#25yrsago Gloating NYT editorial about the dotcom crash [https://www.nytimes.com/2001/04/23/opinion/editorial-observer-after-the-fall-the-new-economy-goes-retro.html](https://www.nytimes.com/2001/04/23/opinion/editorial-observer-after-the-fall-the-new-economy-goes-retro.html)\n\n#20yrsago RIAA sues family that doesn’t own a PC [https://www.techshout.com/riaa-sues-local-family-without-computer-for-illegal-music-file-sharing/](https://www.techshout.com/riaa-sues-local-family-without-computer-for-illegal-music-file-sharing/)\n\n#15yrsago Righthaven copyright troll loses domain [https://web.archive.org/web/20110425035158/http://www.domainnamenews.com/legal-issues/righthavencom-invalid-whois/9232](https://web.archive.org/web/20110425035158/http://www.domainnamenews.com/legal-issues/righthavencom-invalid-whois/9232)\n\n#15yrsago Steampunk Venetian mask [https://bob-basset.livejournal.com/160226.html](https://bob-basset.livejournal.com/160226.html)\n\n#5yrsago John Deere's dismal infosec [https://pluralistic.net/2021/04/23/reputation-laundry/#deere-john](https://pluralistic.net/2021/04/23/reputation-laundry/#deere-john)\n\n#5yrsago Foxconn's Wisconsin death-rattle [https://pluralistic.net/2021/04/23/reputation-laundry/#monorail](https://pluralistic.net/2021/04/23/reputation-laundry/#monorail)\n\n#5yrsago Laundering torturers' reputations with copyfraud [https://pluralistic.net/2021/04/23/reputation-laundry/#dark-ops](https://pluralistic.net/2021/04/23/reputation-laundry/#dark-ops)\n\n#1yrago Sarah Wynn-Williams's 'Careless People' [https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- London: Resisting Big Tech Empires (LSBU), Apr 25\n\n[https://www.tickettailor.com/events/globaljusticenow/2042691](https://www.tickettailor.com/events/globaljusticenow/2042691)\n\n- \nNYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyebuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBarcelona: Internet no tiene que ser un vertedero (Global Digital Rights Forum), May 13\n\n[https://encuentroderechosdigitales.com/en/](https://encuentroderechosdigitales.com/en/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton\n\n(The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#recent))\n\n- Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas)\n\n[https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor](https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor)\n\n- \nWhen Do Platforms Stop Innovating and Start Extracting? (InnovEU)\n\n[https://www.youtube.com/watch?v=cccDR0YaMt8](https://www.youtube.com/watch?v=cccDR0YaMt8)\n\n- \nPete \"Mayor\" Buttigieg (No Gods No Mayors)\n\n[https://www.patreon.com/posts/pete-mayor-with-155614612](https://www.patreon.com/posts/pete-mayor-with-155614612)\n\n- \nThe internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/25/machiavellian/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/25/machiavellian/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "AI/ML"
+        ],
+        "published_at": "Sat, 25 Apr 2026 11:17:58 +0000",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Romain Huet - 25th April 2026 > Since GPT-5.4, we’ve unified Codex and the main model into a single syst...",
+    "GPT-5.5 prompting guide - 25th April 2026 - Link Blog **[GPT-5.5 prompting guide](https://developers.openai.com/api/...",
+    "WHY ARE YOU LIKE THIS - 25th April 2026 @scottjla [on Twitter](https://twitter.com/scottjla/status/204753537166445...",
+    "The Satisfaction of a ChatGPT Plan  - #NoFollowUpNecessary A couple weeks back, I was arguing that when people come up with idea...",
+    "What Do You Charge For?  - I've written about my journey to learn how to charge a fair price for [building a website]..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "gpt-",
+      "count": 6
+    },
+    {
+      "word": "ideas",
+      "count": 4
+    },
+    {
+      "word": "equation",
+      "count": 3
+    },
+    {
+      "word": "nth",
+      "count": 3
+    },
+    {
+      "word": "derivative",
+      "count": 3
+    },
+    {
+      "word": "file",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "april",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "nonlinear",
+      "count": 2
+    },
+    {
+      "word": "pendulum",
+      "count": 2
+    },
+    {
+      "word": "looks",
+      "count": 2
+    },
+    {
+      "word": "simply",
+      "count": 2
+    },
+    {
+      "word": "quotient",
+      "count": 2
+    },
+    {
+      "word": "formula",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "env",
+      "count": 2
+    },
+    {
+      "word": "php",
+      "count": 2
+    },
+    {
+      "word": "consume",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "model",
+      "count": 2
+    },
+    {
+      "word": "prompting",
+      "count": 2
+    },
+    {
+      "word": "guide",
+      "count": 2
+    },
+    {
+      "word": "developers",
+      "count": 2
+    },
+    {
+      "word": "api",
+      "count": 2
+    },
+    {
+      "word": "scottjla",
+      "count": 2
+    },
+    {
+      "word": "twitter",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "satisfaction",
+      "count": 2
+    },
+    {
+      "word": "idiallo",
+      "count": 2
+    },
+    {
+      "word": "charge",
+      "count": 2
+    },
+    {
+      "word": "bloomberg",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    }
+  ]
+}
