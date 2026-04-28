@@ -1,0 +1,794 @@
+{
+  "date": "2026-04-28",
+  "stats": {
+    "total_fetched": 285,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Matthew Yglesias",
+        "summary": "<blockquote cite=\"https://twitter.com/mattyglesias/status/2049105745132585161\"><p>Five months in, I think I've decided that I don't want to vibecode — I want professionally managed software companies to use AI coding ass...",
+        "url": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "2026-04-28T13:25:29.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Turning a trick into a technique",
+        "summary": "Someone said a technique is a trick that works twice. I wanted to see if I could get anything interesting by turning the trick in the previous post into a technique. The trick created a high-order approximation by subtra...",
+        "url": "https://www.johndcook.com/blog/2026/04/28/even-series-trick/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Tue, 28 Apr 2026 21:44:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AI's Economics Don't Make Sense [Ad Free]",
+        "summary": "Hello premium subs! This is your ad-free free newsletter for the week. Questions? Queries? Email me at ez@betteroffline.com, and if you have a scoop, ezitron.76 is my Signal. Yesterday morning, GitHub Copilot users got c...",
+        "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 28 Apr 2026 16:33:46 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore",
+        "summary": "A pot of tokens. The post Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 28 Apr 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Circular arc approximation",
+        "summary": "Suppose you have an arc a, a portion of a circle of radius r, and you know two things: the length c of the chord of the arc, and the length b of the chord of half the arc, illustrated below. Here θ is the central angle o...",
+        "url": "https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 28 Apr 2026 13:09:42 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AI's Economics Don't Make Sense",
+        "summary": "If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed a...",
+        "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 28 Apr 2026 16:35:07 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "TRS-80 Model 100",
+        "summary": "The TRS-80 Model 100 was an early laptop computer manufactured by Kyocera in Japan and marketed in North America by Radio Shack. Kyocera’s own version, the Kyotronic-85, didn’t set any sales records. But the TRS-80 Model...",
+        "url": "https://dfarq.homeip.net/trs-80-model-100/?utm_source=rss&utm_medium=rss&utm_campaign=trs-80-model-100",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 28 Apr 2026 13:03:48 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Anthropic Mythos – We’ve Opened Pandora’s Box",
+        "summary": "This article previously appeared in The Cipher Brief. For a decade the cybersecurity community was predicting a cyber apocalypse tied to a single event – the day a Cryptographically Relevant Quantum Computer could run Sh...",
+        "url": "https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/",
+        "source": "Steve Blank",
+        "tags": [
+          "Security",
+          "Algorithms",
+          "AI/ML"
+        ],
+        "published_at": "Tue, 28 Apr 2026 13:00:48 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 501",
+        "summary": "This is so \"peak 2026\" - writing an equality policy to ensure people treat our AI bot with the same respect as they do their human counterparts. It's intentionally a bit tongue-in-cheek, but it's there for a purpose: we...",
+        "url": "https://www.troyhunt.com/weekly-update-501/",
+        "source": "Troy Hunt",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 28 Apr 2026 05:01:42 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+        "summary": "The first quarter of 2026 saw a surge in Internet disruptions, from nationwide shutdowns in Uganda and Iran to unprecedented drone strikes on cloud infrastructure. We explore the data behind these events using Cloudflare...",
+        "url": "https://blog.cloudflare.com/q1-2026-internet-disruption-summary/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud"
+        ],
+        "published_at": "Tue, 28 Apr 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)",
+        "summary": "Executive Summary: The Information reports that OpenAI projects that its $20-a-month ChatGPT Plus subscriptions will decrease from 44 Million subscribers in 2025 to a projected 9 million subscribers in 2026. OpenAI proje...",
+        "url": "https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Tue, 28 Apr 2026 22:40:34 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Spring 2026 Dev Contest Results!",
+        "summary": "Over 500 new Pebble apps and watchfaces! Thank you to all the developers who entered the developer contest It was so much fun following the…",
+        "url": "https://repebble.com/blog/spring-2026-dev-contest-results",
+        "source": "Eric Migicovsky's Blog RSS Feed",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree",
+        "summary": "yeehaw",
+        "url": "https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition",
+        "source": "Experimental History",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Tue, 28 Apr 2026 17:48:50 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ghostty Is Leaving GitHub",
+        "summary": "",
+        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+        "source": "Mitchell Hashimoto",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-04-28T22:45:26.806Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting OpenAI Codex base_instructions",
+        "summary": "28th April 2026\n\n> `Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.`\n\n— [Ope",
+        "content": "28th April 2026\n\n> `Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query.`\n\n— [OpenAI Codex base_instructions](https://github.com/openai/codex/blob/66b0781502be5de3b1909525c987643b9e5e407d/codex-rs/models-manager/models.json#L55), for GPT-5.5",
+        "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-04-28T22:02:53.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+        "summary": "28th April 2026 - Link Blog\n\n**[What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/)** ([via](https://lobste.rs/s/w2oiaq/what_s",
+        "content": "28th April 2026 - Link Blog\n\n**[What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/)** ([via](https://lobste.rs/s/w2oiaq/what_s_new_pip_26_1_lockfiles_dependency)) Richard Si describes an excellent set of upgrades to Python's default `pip` tool for installing dependencies.\n\nThis version drops support for Python 3.9 - fair enough, since it's been EOL [since October](https://devguide.python.org/versions/). macOS still ships with `python3` as a default Python 3.9, so I tried out the new Python version against Python 3.14 like this:\n\n```\nuv python install 3.14\nmkdir /tmp/experiment\ncd /tmp/experiment\npython3.14 -m venv venv\nsource venv/bin/activate\npip install -U pip\npip --version\n\n```\n\nThis confirmed I had `pip 26.1` - then I tried out the new lock files:\n\n```\npip lock datasette llm\n\n```\n\nThis installs Datasette and LLM and all of their dependencies and writes the whole lot to a 519 line `pylock.toml` file - [here's the result](https://gist.github.com/simonw/ff52c33f4d3a381b8e53c6a3aa0213f8).\n\nThe new release also supports dependency cooldowns, [discussed here previously](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/), via the new `--uploaded-prior-to PXD` option where X is a number of days. The format is `P-number-of-days-D`, following [ISO duration format](https://en.wikipedia.org/wiki/ISO_8601#Durations) but only supporting days.\n\nI shipped a new release of LLM, version 0.31, [three days ago](https://simonwillison.net/2026/Apr/24/llm/). Here's how to use the new `--uploaded-prior-to P4D` option to ask for a version that is at least 4 days old.\n\n```\npip install llm --uploaded-prior-to P4D\nvenv/bin/llm --version\n\n```\n\nThis gave me version 0.30.",
+        "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-04-28T05:23:05.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Rec League",
+        "summary": "Share what you're into.\n\nRec League is an app for sharing the things you love. Catalog your recommendations into tidy collections (your guide to Rome, your open tabs, auction lots, bookshelf, things y",
+        "content": "Share what you're into.\n\nRec League is an app for sharing the things you love. Catalog your recommendations into tidy collections (your guide to Rome, your open tabs, auction lots, bookshelf, things you can't put down). Follow people whose perspective you admire, connect over your shared interests, and find brilliant, unexpected intel.\n\n\"My cortisol lowers when I'm on Rec League\"\n\n— Londyn\n\n\"The only social media I feel better after using\"\n\n— Sophie\n\n\"A windowsill I can stack things up on\"\n\n— Stephanie",
+        "url": "https://recleague.com/?lyr_campaign=df",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-04-28T00:48:30.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Introducing talkie: a 13B vintage language model from 1930",
+        "summary": "**[Introducing talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** ([via](https://news.ycombinator.com/item?id=47927903)) New project from [Nick Levine](https:/",
+        "content": "**[Introducing talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** ([via](https://news.ycombinator.com/item?id=47927903)) New project from [Nick Levine](https://nlevine.org/), [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/), and [Alec Radford](https://en.wikipedia.org/wiki/Alec_Radford) (of GPT, GPT-2, Whisper fame).\n\n[talkie-1930-13b-base](https://huggingface.co/talkie-lm/talkie-1930-13b-base) (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". \n\n[talkie-1930-13b-it](https://huggingface.co/talkie-lm/talkie-1930-13b-it) (26.6 GB) is a checkpoint \"finetuned using a novel dataset of instruction-response pairs extracted from pre-1931 reference works\", designed to power a chat interface. You can [try that out here](https://talkie-lm.com/chat).\n\nBoth models are Apache 2.0 licensed. Since the training data for the base model is entirely out of copyright (the USA copyright cutoff date is currently January 1, 1931), I'm hoping they later decide to release the training data as well.\n\n*Update* on that: [Nick Levine on Twitter](https://twitter.com/status_effects/status/2049065134014726301):\n\n> Will publish more on the corpus in the future (and do our best to share the data or at least scripts to reproduce it).\n\nTheir report suggests some fascinating research objectives for this class of model, including:\n\n- How good are these models at predicting the future? \"we calculated the surprisingness of short descriptions of historical events to a 13B model trained on pre-1931 text\"\n\n- Can these models invent things that are past their knowledge cutoffs? \"As Demis Hassabis has asked, could a model trained up to 1911 independently discover General Relativity, as Einstein did in 1915?\"\n\n- Can they be taught to program? \"Figure 3 (left-hand side) shows an early example of such a test, measuring how well models trained on pre-1931 text can, when given a few demonstration examples of [Python programs](https://github.com/openai/human-eval), write new correct programs.\"\n\nI have a long-running interest in what I call \"vegan models\" - LLMs that are trained entirely on licensed or out-of-copyright data. I think the base model here qualifies, but the chat model isn't entirely pure due to the reliance on non-vegan models to help with the fine-tuning - emphasis mine:\n\n> First, we generated instruction-response pairs from historical texts with regular structure, such as etiquette manuals, letter-writing manuals, cookbooks, dictionaries, encyclopedias, and poetry and fable collections (see Figure 7), and fine-tuned our base model on them using a simple chat format.\n\n> Next, to improve instruction-following abilities, we generated synthetic prompts covering different types of tasks, such as summarizing documents, responding to direct information requests, and continuing multi-turn conversations coherently. We then ran online direct preference optimization on rollouts generated from these prompts, **using Claude Sonnet 4.6 as a judge**. [...]\n\n> Finally, we did another round of supervised fine-tuning, this time on rejection-sampled **multi-turn synthetic chats between Claude Opus 4.6 and talkie**, to smooth out persistent rough edges in its conversational abilities.\n\nA major challenge in training talkie was avoiding accidental contamination, either from post-1931 text that snuck into the training corpus or from the fine-tuning assistance from modern LLMs introducing anachronistic knowledge to the chat model. \n\nI recently [wrote about Mr. Chatterbox](https://simonwillison.net/2026/Mar/30/mr-chatterbox/), a similar vintage language model project which also had to turn to modern LLMs to create synthetic conversations to help train the chat model.\n\nThe talkie team aspire to eventually move beyond this limitation:\n\n> While we have tried to post-train talkie free from modern influence, reinforcement learning with AI feedback inevitably shapes talkie’s behavior anachronistically. (The 7B version of talkie emerged from RL speaking in listicles.) As we scale up, we hope to be able to use our vintage base models themselves as judges to enable a fully bootstrapped era-appropriate post-training pipeline.\n\nI couldn't resist hitting the talkie demo with my classic test prompt:\n\n> `Generate an SVG of a pelican riding a bicycle`\n\nIt replied:\n\n> An SVG of a pelican riding a bicycle was generated in 1860. The pelican was represented as perched on the saddle, with its long bill pointed forward, and its legs astride the handles. The idea was suggested by the fact that pelicans are sometimes seen fishing on horseback, on the banks of the Rhine.",
+        "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-04-28T02:47:42.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Illegal vs Unwanted States",
+        "summary": "An **illegal state** is a state we never want our system to be in. An **unwanted state** is a state we don't want to stay in. Many states that we wish were illegal are actually unwanted.\n\nConsidering ",
+        "content": "An **illegal state** is a state we never want our system to be in. An **unwanted state** is a state we don't want to stay in. Many states that we wish were illegal are actually unwanted.\n\nConsidering a calendaring software which stores calendar events as `{user: {events: [event]}}`, where each event has a start and end time. This allows one person to attend two events at the same time. We might consider this illegal and replace the data type with `{user: {time: optional event}}` which makes this impossible. However, a scheduling conflict isn't illegal, only unwanted! It is possible for a person to sign up for two overlapping events. Maybe they're supposed to choose one event, maybe they'll decide which event to go to later, maybe one of the events doesn't actually represent an in-person meeting. \n\nIn that case it's acceptable, if not ideal, to remain in the unwanted state. Other unwanted states lead to invalid states if not exited quickly. An airline flight is in an unwanted state if there are more passengers booked to fly than seats available. This must be resolved before passengers actually board, as \"more passengers physically on the plane than seats available\" is an illegal state.\n\nIn some cases, an unwanted state does not lead to illegal states, but permanently remaining in the unwanted state is still a problem. We might guarantee that a network partition does not ever lead to inconsistent data. Even though the unwanted state of a network partition cannot cause the illegal state of corrupt data, we still have a big problem if we don't ever fix the partition.\n\n## Why systems must represent unwanted states\n\nGenerally, unwanted states can happen if we don't have complete control over our system's behavior. We can't guarantee our network is perfectly reliable, our servers are always up, our users all put in correct data. If our system gets input from the external world then the world can push us into an unwanted state. We need to be able to detect these states so we can resolve them.\n\nEven when we have complete control over the system, we still may want to be able to temporarily dip into unwanted states. If they wanted, airlines could make overbooking flights impossible. But airlines want to be able to overbook because they expect some number of no-shows. We need to allow them their unwanted state and then put systems in place to prevent it evolving into an illegal state.\n\nSometimes we need unwanted states to make certain workflows possible. It may be the case that 95% never, ever want to accepted conflicting events, and preventing that unwanted state would make their lives better. But without that unwanted state, intentionally double booking yourself is impossible. Some people might need that! In these cases we want to make it very clear to users that they're entering an unwanted state, and then let them decide for themselves how to leave it. \n\n(The airlines and users want the unwanted state! It's us engineers who consider it \"unwanted\" because it can lead to problems down the road.) \n\n## Formal models of unwanted states\n\nIllegal states correspond to violated invariants. Conventionally speaking we write this as `[]!Illegal`: it should be true at all times that `Illegal` is not true. If a single state ever satisfies `Illegal` then our system has a bug. \n\nUnwanted states are trickier, since they can be both [safety and liveness properties](https://www.hillelwayne.com/post/safety-and-liveness/). If modeling an airline system, we don't necessarily want to check properties of overbooking, we only need to check that no overflights happen.[1](#fn:overflight) We may discover in the process of verifying that that overbooking is the main cause of overflights and/or that if overbooking is not resolved, then we will eventually have an overflight. Further, if \"we never overbook\" guarantees \"we never overflight\", we'd say that \"no overbooks\" is a [stronger](https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/) property than \"no overflights\". \n\n\"We never remain in a network partition\" is [formalized](https://buttondown.com/hillelwayne/archive/formalizing-stability-and-resilience-properties/) as `[]<>!Partition`: we can enter a partition and stay partitioned a long time but must eventually heal the partition. The [P specification language](https://p-org.github.io/P/) calls these [hot states](https://p-org.github.io/P/manual/monitors/#liveness-specification).\n\n(PS: if all goes well, there should be a new [Logic for Programmers](https://logicforprogrammers.com/) release next week!)",
+        "url": "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/",
+        "source": "Computer Things",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Tue, 28 Apr 2026 15:14:09 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Before GitHub",
+        "summary": "written on April 28, 2026\n\n  \n\n  GitHub was not the first home of my Open Source software.  [SourceForge\nwas](https://sourceforge.net/projects/pocoo/).\n\nBefore GitHub, I had my own Trac installation. ",
+        "content": "written on April 28, 2026\n\n  \n\n  GitHub was not the first home of my Open Source software.  [SourceForge\nwas](https://sourceforge.net/projects/pocoo/).\n\nBefore GitHub, I had my own Trac installation.  I had Subversion repositories,\ntickets, tarballs, and documentation on infrastructure I controlled.  Later I\nmoved projects to Bitbucket, back when Bitbucket still felt like a serious\nalternative place for Open Source projects, especially for people who were not\nall-in on Git yet.\n\nAnd then, eventually, GitHub became the place, and I moved all of it there.\n\nIt is hard for me to overstate how important GitHub became in my life.  A large\npart of my Open Source identity formed there.  Projects I worked on found users\nthere.  People found me there, and I found other people there.  Many professional\nrelationships and many friendships started because some repository, issue, pull\nrequest, or comment thread made two people aware of each other.\n\nThat is why I find what is happening to GitHub today so sad and so\ndisappointing.  I do not look at it as just the folks at Microsoft making\nproduct decisions I dislike.  GitHub was part of the social infrastructure of\nOpen Source for a very long time.  For many of us, it was not merely where the\ncode lived; it was where a large part of the community lived.\n\nSo when I think about GitHub’s decline, I also think about what came before it,\nand what might come after it.  I have written a few times over the years about\ndependencies, and in particular about the problem of [micro\ndependencies](https://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/).  In my mind, GitHub gave\nlife to that phenomenon.  It was something I definitely did not completely\nsupport, but it also made Open Source more inclusive.  GitHub changed how Open\nSource feels,\nand later npm and other systems changed how dependencies feel.  Put them\ntogether and you get a world in which publishing code is almost frictionless,\nconsuming code is almost frictionless, and the number of projects in the world\nexplodes.\n\nThat has many upsides.  But it is worth remembering that Open Source did not\nalways work this way.\n\n## A Smaller World\n\nBefore GitHub, Open Source was a much smaller world.  Not necessarily in the\nnumber of people who cared about it, but in the number of projects most of us\ncould realistically depend on.\n\nThere were well-known projects, maintained over long periods of time by a\ncomparatively small number of people.  You [knew the\nnames](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/).  You knew the mailing lists.  You knew who\nhad been around for years and who had earned trust.  That trust was not perfect,\nand the old world had plenty of gatekeeping, but reputation mattered in a very\ndirect way.  We took pride (and got frustrated) when the Debian folks came and\ntold us our licensing stuff was murky or the copyright headers were not up to\nsnuff, because they packaged things up.\n\nA dependency was not just a package name.  It was a project with a history, a\nwebsite, a maintainer, a release process, a lot of friction, and often a place in\na larger community.  You did not add dependencies casually, because the act of\ndepending on something usually meant you had to understand where it came from.\n\nNot all of this was necessarily intentional, but because these projects were\ncomparatively large, they also needed to bring their own infrastructure.  Small\nprojects might run on a university server, and many of them were on SourceForge,\nbut the larger ones ran their own show.  They grouped together into larger\ncollectives to make it work.\n\n## We Ran Our Own Infrastructure\n\nMy first Open Source projects lived on infrastructure I ran myself.  There was a\nTrac installation, Subversion repositories, tarballs, documentation, and release\nfiles served from my own machines or from servers under my control.  That was\nnormal.  If you wanted to publish software, you often also became a small-time\nsystem administrator.  [Georg](https://github.com/birkenfeld) and I ran our own\ncollective for our Open Source projects: [Pocoo](http://www.pocoo.org/).  We\nshared server costs and the burden of maintaining Subversion and Trac, mailing\nlists and more.\n\nSubversion in particular made this “running your own forge” natural.  It was\ncentralized: you needed a server, and somebody had to operate it.\nThe project had a home, and that home was usually quite literal: a hostname, a\ndirectory, a Trac instance, a mailing list archive.\n\nWhen Mercurial and Git arrived, they were philosophically the opposite.  Both\nwere distributed.  Everybody could have the full repository.  Everybody could\nhave their own copy, their own branches, their own history.  In principle, those\ndistributed version control systems should have reduced the need for a single\ncenter.  But despite all of this, GitHub became the center.\n\nThat is one of the great ironies of modern Open Source.  The distributed version\ncontrol system won, and then the world standardized on one enormous centralized\nservice for hosting it.\n\n## What GitHub Gave Us\n\nIt is easy now to talk only about GitHub’s failures, of which there are currently\nmany, but that would be unfair: GitHub was, and continues to be, a tremendous\ngift to Open Source.\n\nIt made creating a project easy and it made discovering projects easy.  It made\ncontributing understandable to people who had never subscribed to a development\nmailing list in their life.  It gave projects issue trackers, pull requests,\nrelease pages, wikis, organization pages, API access, webhooks, and later CI.\nIt normalized the idea that Open Source happens in the open, with visible\nhistory and visible collaboration.  And it was an excellent and reasonable\ndefault choice for a decade.\n\nBut maybe the most underappreciated thing GitHub did was archival work: GitHub\nbecame a library.  It became an index of a huge part of the software commons\nbecause even abandoned projects remained findable.  You could find forks, and\nold issues and discussions all stayed online.  For all the complaints one can\nmake about centralization, that centralization also created discoverable memory.\nThe [leaders there once\ncared](https://github.blog/news-insights/policy-news-and-insights/advancing-developer-freedom-github-is-fully-available-in-iran/)\na lot about keeping GitHub available even in countries that were sanctioned by\nthe US.\n\nI know what the alternative looks like, because I was living it.  Some of my\nearliest Open Source projects are [technically still on\nPyPI](https://pypi.org/project/Colubrid/0.9/), but the actual packages are gone.\nThe metadata points to my old server, and that server has long stopped serving\nthose files.\n\nThat was normal before the large platforms.  A personal domain expired, a VPS\nwas shut down, a developer passed away, and with them went the services they\npaid for.  The web was once full of little software homes, and many of them are\ngone [1](#fn-1).\n\n## npm and the Dependency Explosion\n\nThe micro-dependency problem was not just that people published very small\npackages.  The hosted infrastructure of GitHub and npm made it feel as if there\nwas no cost to create, publish, discover, install, and depend on them.\n\nIn the pre-GitHub world, reputation and longevity were part of the dependency\nselection process almost by necessity, and it often required vendoring.  Plenty\nof our early dependencies were just vendored into our own Subversion trees by\ndefault, in part because we could not even rely on other services being up when\nwe needed them and because maintaining scripts that fetched them, in the pre-API\ndays, was painful.  The implied friction forced some reflection, and it resulted\nin different developer behavior.  With npm-style ecosystems, the package graph can\ngrow faster than anybody’s ability to reason about it.\n\nThe problem that this type of thinking created also meant that solutions had to\nbe found along the way.  GitHub helped compensate for the accountability problem\nand it helped with licensing.  At one point, the newfound influx of developers\nand merged pull requests left a lot of open questions about what the state of\nlicenses actually was.  GitHub even attempted to [rectify\nthis](https://github.blog/news-insights/new-github-terms-of-service/) with their\nterms of service.\n\nThe thinking for many years was that if I am going to depend on some tiny\npackage, I at least want to see its repository.  I want to see whether the\nmaintainer exists, whether there are issues, whether there were recent changes,\nwhether other projects use it, whether the code is what the package claims it\nis.  GitHub became part of the system that provides trust, and more recently it has\neven become one of the few systems that can publish packages to npm and other\nregistries with trusted publishing.\n\nThat means when trust in GitHub erodes, the problem is not isolated to source\nhosting.  It affects the whole supply chain culture that formed around it.\n\n## GitHub Is Slowly Dying\n\nGitHub is currently losing some of what made it feel inevitable.  Maybe that’s\njust the life and death of large centralized platforms: they always disappoint\neventually.  Right now people are tired of the instability, the product churn,\nthe Copilot AI noise, the unclear leadership, and the feeling that the platform\nis no longer primarily designed for the community that made it valuable.\n\nObviously, GitHub also finds itself in the midst of the agentic coding revolution\nand that causes enormous pressure on the folks over there.  But the site has no\nleadership!  It’s a miracle that things are going as well as they are.\n\nFor a while, leaving GitHub felt like a symbolic move mostly made by smaller\nprojects or by people with strong views about software freedom.  I definitely\ncringed when Zig moved to Codeberg!  But I now see people with real weight and\nsignal talking about leaving GitHub.  The most obvious one is Mitchell\nHashimoto, who [announced that Ghostty will\nmove](https://mitchellh.com/writing/ghostty-leaving-github).  Where it will\nmove is not clear, but it’s a strong signal.  But there are others, too.\n[Strudel moved to Codeberg](https://codeberg.org/uzu/strudel) and so did\n[Tenacity](https://codeberg.org/tenacityteam/tenacity).  Will they cause enough\nof a shift?  Probably not, but I find myself on non-GitHub properties more\nfrequently again compared to just a year ago.\n\nOne can argue that this is good: it is healthy for Open Source to stop\npretending that one company should be the default home of everything.  Git\nitself was designed for a world with many homes.\n\n## Dispersion Has a Cost\n\nGoing back to many forges, many servers, many small homes, and many independent\ncommunities will increase decentralization, and in many ways it will force\nsystems to adapt.  This can restore autonomy and make projects less\ndependent on the whims of Microsoft leadership.  It can also allow different\ncommunities to choose different workflows.  What’s happening in\n[Pi](https://pi.dev/)‘s issue tracker currently is largely a result of GitHub’s\nproduct choices not working in the present-day world of Open Source.  It was\nbuilt for engagement, not for maintainer sanity.\n\nIt can also make the web forget again.  [I quite like software that\nforgets](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/) because it has a cleansing element.\nMaybe the real risk of loss will make us reflect more on actually taking\nadvantage of a distributed version control system.\n\nBut if projects move to something more akin to self-hosted forges, to their own\nself-hosted Mercurial or cgit servers, we run the risk of losing things that we\ndon’t want to lose.  The code might be distributed in theory, but the social\ncontext often is not.  Issues, reviews, design discussions, release notes,\nsecurity advisories, and old tarballs are fragile.  They disappear much more\neasily than we like to admit.  Mailing lists, which carried a lot of this in\nearlier years, have not kept up with the needs of today, and are largely a user\nexperience disaster.\n\n## We Need an Archive\n\nAs much as I like the idea of things fading out of existence, we absolutely need\nlibraries and archives.\n\nRegardless of whether GitHub is here to stay or projects find new homes, what I\nwould like to see is some public, boring, well-funded archive for Open Source\nsoftware.  Something with the power of an endowment or public funding to keep it\nafloat.  Something whose job is not to win the developer productivity market but\njust to make sure that the most important things we create do not disappear.\n\nThe bells and whistles can be someone else’s problem, but source archives,\nrelease artifacts, metadata, and enough project context to understand what\nhappened should be preserved somewhere that is not tied to the business model or\nleadership mood of a single company.\n\nGitHub accidentally became that archive because it became the center of Open\nSource activity.  Once that no longer holds, we should not assume some magic\narchival function will emerge or that GitHub will continue to function as such.\nWe have already seen what happens when project homes are just personal servers\nand good intentions, and we have seen what happened to Google Code and\nBitbucket.\n\nI hope GitHub recovers, I really do, in part because a lot of history lives\nthere and because the people still working on it inherited something genuinely\nimportant.  But I no longer think it is responsible to let the continued memory\nof Open Source depend on GitHub remaining a healthy product.\n\nThe world before GitHub had more autonomy and more loss, and in some ways, we’re\nprobably going to move back there, at least for a while.  Whatever people want\nto start building next should try to keep the memory and lose the dependence.\nIt should be easier to move projects, easier to mirror their social context,\neasier to preserve releases, and harder for one company’s drift to become a\ncultural crisis for everyone else.\n\nI do not want to go back to the old web of broken tarball links and abandoned\nTrac instances.  I also do not want Open Source to pretend that the last twenty\nyears were normal or permanent.  GitHub wrote a remarkable chapter of Open\nSource, and if that chapter is ending, the next one should learn from it and also\nfrom what came before.\n\n  \n  This entry was tagged\n    \n      [github](https://lucumr.pocoo.org/tags/github/), \n      [open-source](https://lucumr.pocoo.org/tags/open-source/) and \n      [thoughts](https://lucumr.pocoo.org/tags/thoughts/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/4/28/before-github.md) / [view](https://lucumr.pocoo.org/2026/4/28/before-github.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "Systems",
+          "Product",
+          "Web Dev"
+        ],
+        "published_at": "2026-04-28T00:00:00.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "10Gb Ethernet: what I had to (re)learn",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    My ISP recently started offering a 10Gb option, and my \"shiny new thing!\" Pavlovian\nresponse immediately kicked in.  So of course, I\nhad to upgrade the wired networking in my home -- which meant I had to learn a few things to get\nit all working, and relearn a bunch of stuff I'd forgotten over the years.\n\nWired networking for home and small offices hasn't really moved forward that much in the last 20-odd years.\nBack in 2006, gigabit Ethernet was standard for businesses, and most home users moved\nto it not long after.  Perhaps due to the rise of WiFi for most \"last few metres\" connections,\nit's pretty much stagnated there, perhaps with a bit of a push towards 2.5Gb/s more\nrecently.\n\nBut with faster ISP connections arriving, I think things are starting to become\na bit more interesting.  Even the fastest WiFi 7 connections are only able to get up\nto around 6Gb/s to a single device -- and that's in an ideal \"super-fast machine sitting right next\nto the AP in a shielded lab\" setup.\n\nHere's what I had to drag up from my memory, and the new stuff I had to learn, in\norder to get this all working.  I'll write about the background in this post, and\nthen tomorrow I'll post about what I actually put in place.\n\n    \n        \n### A bit of history\n\nLet's start with a bit of the backstory.  Bear with me, it's not just self-indulgent\nreminiscing!\n\nWhen I first started using networked computers, back in the early 90s, the most popular\nstandard was [10BASE2](https://en.wikipedia.org/wiki/10BASE2).  We had this in the first\noffice that I worked in, and in the university computer labs.  In the back of your\ncomputer, you'd have a T-shaped connector like this:\n\n![BNC Tee connector, with Ethernet cable connected](https://www.gilesthomas.com/post-assets/10g-ethernet-what-i-relearned/BNC_Tee_connector,_with_Ethernet_cable_connected-92166.jpg)\n© Raimond Spekking / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed) (via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:BNC_Tee_connector,_with_Ethernet_cable_connected-92166.jpg))\n\nThe end facing the camera in that photo was the bit that went into your computer.\nComputers were daisy-chained together; you might have a server connected to workstation\none, workstation one to workstation two, and so on, until you reached the last workstation.\nYou'd have to cap the unused end of the T connectors at each end of the chain with a special terminator.\n\nEssentially it was a single coaxial cable, so every computer saw every\nbit that was sent along the bus.  In turn, that meant that everyone was sharing the same bandwidth, a meagre\n10Mb/s.  The cool thing about Ethernet (compared to older networking technologies) was\nthat the computers shared it without any need for coordination -- if two of them started\n\"speaking\" at the same time, they'd notice, and stop.  They would then start again after\na random back-off, so one of them would randomly wait for less time than the other and\nstart first.  The other would notice that \"the line was busy\" and would wait again for another\nchance.\n\nOf course, this limited the number of computers you could have on one network, as past\naround 20 or so, they'd spend all of their time interrupting each other and never actually\nbe able to send anything -- and anyway, sharing 10Mb/s across a large number of computers\nwould be an issue.  On top of that, there was a hard cap of 30 machines per network.\nYou'd use more specialised networking equipment to link\ndifferent networks together -- bridges, switches and routers.  More about switches later.\n\nBy the time we started setting up networking in a house that I shared with friends,\nin around 1996 or so [1](#fn-1), the most popular option had changed: now people were using\n10BASE-T.  Still 10Mb/s, but using the RJ45 connectors and twisted-pair cables that we've come to know and love.\nAll of the computers would have a single cable going to a hub, in a star topology.\nYou might link multiple hubs together to build larger networks.\n\nHowever, these\nhubs were still little more than a convenient form factor to electrically link all\nof the wires together into a single bus.  You still had the problem that every computer could see\nevery bit on the bus, and the same bandwidth-sharing and limits with the number of computers that you\ncould handle as a result.\n\nOver the years after that, things moved on.  Switches had been relatively expensive\nthings; they would be used to interlink hubs, or 10BASE2 networks.  They would learn (from seeing the\nsource MAC address on incoming packets) which machines were sending to each of their ports,\nand use that to know where to send packets that came in on other ports.  If, say, a switch\nlearned that addresses A, B, and C were on port 1, then if a packet for one of those machines\ncame in on port 2, it would know it could just send it out on port 1 and not on the others.\nThat helped to address the bandwidth-sharing and the problems with collisions.\n\nPrices for switches got lower and lower, and eventually -- I think sometime between 2005 and\n2010 -- they became so cheap that\nthere was little point in bothering with hubs -- you'd just connect every computer\ndirectly to a switch.  That meant that any two computers on the same switch\ncould talk to each other at the full network speed, as packets would just be\nswitched from port to port [2](#fn-2).  The connections between switches were still a bottleneck, of course,\nbut that was much less of a problem.\n\nAt the same time, speeds increased, from 10Mb/s\nto 100Mb and then finally to 1Gb/s, which was standard for business machines by 2005 or so --\nI remember that when we bought our first computers for Resolver Systems back then, that's what they\ncame with by default.\n\nHome computers weren't far behind -- and that's where we've been ever since. [3](#fn-3)\n\n### ISPs and larger networks: the move to SFP\n\nBack to that bottleneck between the switches.  Even back in the days of 10Mb/s\nnetworks, if you were managing a larger network, you would want a faster network to interlink them -- so, for example, if\ntwo computers on the same switch both wanted to access some external resource, they\nwouldn't be competing for the same 10Mb/s uplink.  Once you went past small office-sized\nnetworks, that kind of thing started becoming important.  ISPs and datacenters, of course,\nhad the same problem in spades.\n\nWhat you would need was an uplink on the switch that could run at a faster data rate.\nSo even when 1Gb/s Ethernet was too expensive for the connections to the computers themselves,\nyou might have a switch with a 1Gb/s uplink to connect it to the larger network,\nand a bunch of 100Mb/s ports for the local stuff.\n\nAdditionally, for larger networks you would have another problem -- physical\ndistance.  All of these RJ45-based networking technologies had a maximum cable length\nof 100m.  You could extend that by putting a repeater (or even just a switch) every 100m or so as a \"signal booster\" --\nbut if, for example, you wanted to link two buildings, that could be tricky.  You'd\nneed to run both the data cable and power, and you'd need to have some way of getting\naccess to the repeaters if they went wrong.\n\nEthernet over fibre optic connections had been a standard thing for years, though, and\nit had much better range -- for single-mode, many kilometers.  So while it was too fiddly for LANs,\nit made great sense as a backbone technology.\n\nWhat that meant, though, was that in order to set up some particular network topology,\nyou might wind up having to get a whole bunch of different switches.  For short connections\nbetween two of them, you might use an RJ45 uplink connection, while for longer ones you\nmight want fibre.  More complex topologies might need some entirely different mix of\nports.\n\nTo make this worse, there were a bunch of different fibre optic standards -- multi-mode\nand single mode fibres, different connectors, and so on.\n\nRather than manufacturing a large range of different kinds of switches with all of the\ncombinations that people needed, manufacturers\nseparated out the physical layer of the transport from the switching hardware.  A switch,\ninstead of having specific RJ45 or fibre connectors for its ports, would have Small\nForm-factor Pluggable (SFP) \"cages\", essentially a new kind of socket.  These allow people to mix and match different kinds of\ntransceiver modules, which would slot into the cage to provide an actual usable interface  -- one for RJ45 for gigabit Ethernet, or one for the particular\nkind of fibre connection they were using -- whatever configuration worked best for them.\n\nA typical switch for a larger network might have one or two of those for backbone\nconnections, and then RJ45s for local connections.  Over time, gigabit backbones\nwere no longer enough, and SFP was followed by SFP+, which could handle 10Gb/s.\nSince then, there have been extensions for even faster speeds, way up to hundreds of\nGb/s.\n\nBack in the day, this stuff was only important to network admins for medium-sized networks and larger,\nof course.  But now, 10Gb Ethernet means that we've now hit the point where it matters\neven for home users, and that's because of thermals.\n\n### 10GBASE-T is so hot (right now)\n\nHere's the problem.  Somewhat loosely speaking, the faster a network connection on a particular\nkind of wiring, the hotter it runs.  Over an RJ45/twisted pair connection, 10Mb/s Ethernet basically shed no heat, 100Mb/s\na little more, even gigabit Ethernet just left your switches somewhat warm.\nThe jump up to 10Gb over RJ45, called 10GBASE-T, makes things decidedly toasty --\nyou'll see just how toasty in tomorrow's post.\n\nThere's also the issue of cabling.  Because network speeds have been stable\nfor some time -- Gigabit Ethernet being the standard for ~20 years --\nmost buildings with structured cabling (the kind of thing where there are RJ45 sockets\nin the walls wired together) will have the standard for that -- CAT-5E.  Unfortunately 10Gb/s Ethernet\nwon't officially work over it -- you might be lucky, especially with short cables,\nbut in general it won't work, or if it does it won't be reliable.\n\nCAT-6 cabling helps -- it can handle 10Gb/s over runs up to about 55 metres.  And\nthe ideal is CAT-6A, which can handle 10Gb/s over the same 100 metre cable lengths\nthat you'd expect for the older, slower setups.\n\nWhat this meant was that an interim standard was created.  10GBASE-T is hot and needs\ncables that people don't necessarily have, especially when you're talking about what's\ninstalled in the walls of their building.  But if you run it a bit slower, you can\ndo so over older cables and without melting them.\n\nThat's why I didn't mention 2.5Gb/s Ethernet earlier (or indeed the rarer 5Gb/s).\nThey were introduced as slowed-down versions of 10Gb/s to get it to work on existing\ninfrastructure without major upgrades.  And that's great, right up until the point\nyour ISP emails you to say that they're offering 10Gb/s to your home now...\n\nSo, what can you do to run 10Gb/s without melting things?\n\n### SFP+, DAC, fibre\n\nLet's think about what an SFP or SFP+ module actually is.  It slots into a cage on a\nswitch.  On one side, there's an electrical connection to the switch hardware, which\nis carrying the signal -- incoming and outgoing -- using a particular protocol [4](#fn-4).\nThe module does its magic, and on the other side we have -- say -- 10GBASE-T to an RJ45\nsocket, or a blinking laser with an appropriate interface for optical fibre.\n\nWhat would happen if you just had a dumb electrical cable to connect an SFP+ cage on\none switch to another on another switch?  That actually works pretty well!  It's called a\npassive Direct Attach Copper (DAC) cable.  The interfacing is a little more complicated\nthan just a completely dumb wire -- the switch\nwill want to query the module in the cage to find out some details about it, so you need\na tiny bit of electronics -- but it's still really simple.\n\nOn top of that, if you add a bit of amplification to the DAC, then you get an active\nDAC, which can double that kind of length (though these are relatively rare).\n\nThe neat thing about DACs is that they run *much* cooler than 10GBASE-T, using about\na third of the power.  Of course,\nthey lose out in terms of range.  But for simple stuff within one room, and especially\nbetween switches in a rack, they work really well.\n\nThe next step on top of DACs is that you can convert the underlying SFP(+) protocol\ndirectly to light, and send it down an optical fibre -- normally called an Active Optical\nCable, or an AOC for short\n(though I've seen the rather confusing terminology \"optical DAC\" in various places).\nWith that, you can normally get up to 100m.  These are cheap and easy to use (because\nthey're all-in-one units, so you don't have any fiddly alignment of the fibre to do),\nso they're the best option once you pass passive-DAC distances.\n\nAfter that, though, you really need to switch to the official standards, and go to\nmore traditional fibre-optic setups.  I've done much less research into those, so\nwon't try to explain them.  Either way, for the home, anything above this level is\nprobably overkill right now...\n\n### Wrapping up\n\nSo: moving from the 2.5Gb/s networks that work smoothly with the same infrastructure\nwe've been using for the last 20 years or so to 10Gb/s is a tricky step change.  Suddenly,\nthings that didn't matter -- thermal management, cable lengths, and so on -- become\nimportant.  And there are solutions, but you need to start actually understanding things\nagain rather than just plugging stuff in and assuming it will work.\n\nFun!  Time to put it into practice :-)  In my\nnext post, I'll show exactly the changes I had to make to get my existing 2.5Gb/s\nnetwork ported over to 10Gb/s -- the hardware I wound up buying, how well it works,\nand (importantly) how hot it all runs.",
+        "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned",
+        "source": "Giles' blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Tue, 28 Apr 2026 18:45:00 +0000",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/28Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/28/mousekete",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/28Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/28/mouseketeers/)\n\n## Today's links\n\n- [Vicky Osterweil's \"The Extended Universe\"](https://pluralistic.net/2026/04/28/mouseketeers/#): How Disney killed the movies and took over the world.\n\n- [Hey look at this](https://pluralistic.net/2026/04/28/mouseketeers/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/04/28/mouseketeers/#retro): Zappa v censorship; Chemistry set with no chemicals; Short cons; Mitsubishi's Dieselgate; \"Bellwether.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/04/28/mouseketeers/#upcoming): Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC.\n\n- [Recent appearances](https://pluralistic.net/2026/04/28/mouseketeers/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/04/28/mouseketeers/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/04/28/mouseketeers/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/04/28/mouseketeers/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/extended-universe.jpg?w=840&ssl=1)\n\n## Vicky Osterweil's \"The Extended Universe\" ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#))\n\nVicky Osterweil's *The Extended Universe: How Disney Killed the Movies and Took Over the World* makes the kind of long, polemical, startling and illuminating argument that defines great cultural criticism; it's the sort of book that encapsulates the reasons I read criticism in the first place:\n\n[https://www.haymarketbooks.org/books/2525-the-extended-universe](https://www.haymarketbooks.org/books/2525-the-extended-universe)\n\nMy first brush with this kind of criticism came more than two decades ago, when I read John Kessel's now-classic \"Creating the Innocent Killer,\" a critique of Orson Scott Card's *Ender's Game*, a book I had read and enjoyed enough to re-read several times:\n\n[https://johnjosephkessel.wixsite.com/kessel-website/creating-the-innocent-killer](https://johnjosephkessel.wixsite.com/kessel-website/creating-the-innocent-killer)\n\nKessel's argument is that Card used *Ender's Game* to smuggle in some very ugly ideas, wrapped in a story that was compelling, even exhilarating. In *Ender's Game*, we meet Andrew \"Ender\" Wiggin, a small, physically weak boy possessed of a prodigious intellect and a great deal of sensitivity and empathy. Ender is tormented by an escalating series of aggressors, whom he retaliates against with overwhelming force, first to the point of lethality and then all the way to literal genocide. And here's where Card makes his move: Ender's sensitivity and empathy and intellect tell him that he *must* respond this way, because he can tell that his aggressors will not back off from their intention to harm him; and because Ender is so small and weak, he has to use whatever tactic his brilliant mind can devise, and if that tactic results in the death penalty for mere bullying, well, that's the bully's fault, not Ender's. Indeed, in dying at Ender's hands, these bullies *re-victimize Ender*, because Ender is a gentle, smart, wise, weak person, and these inescapable murders that he is goaded into committing are a stain on his soul that he can never wash away.\n\nBefore reading \"Creating the Innocent Killer,\" I confess I didn't really understand what criticism was for. Like many people, I conflated \"criticism\" with \"reviews,\" thinking of critical works as a species of inconveniently difficult-to-digest essays that might help me figure out which books to read and which movies to see.\n\nKessel's magnificent essay changed all that, and not in spite of the fact that Kessel had pointed out some very important problems with a book that I loved, but *because* of that fact. In helping me understand the ugliness hidden within something whose beauty and virtues I saw very clearly, Kessel taught me more about *myself* – about where my aesthetics and my values overlapped, and where they diverged. It was literally life-changing.\n\nLike Kessel, Osterweil's 'Extended Universe' deals with media that I have a great deal of affection for – the products of the Walt Disney Company. Though I'm primarily interested in theme parks – I love a big, ambitious built environment of any description and Disney pursues these with a seriousness that few others can touch – the Disney films (and the films of the studios Disney purchased, like Marvel and Lucasfilm) are obviously intimately bound up in those theme park designs.\n\nOsterweil has her own ambivalent affection for these movies. Like so many of us, she's been raised on them, and they've shaped how she sees the world and its stories. But – like me – Osterweil is deeply suspicious of capitalism, American imperialism, and the notion of \"intellectual property,\" and she uses reviews of a dozen Disney films to make the case that Walt Disney and the studio he founded with his brother are standards-bearers for these odious forces, and not just in the overt ways that might immediately spring to mind, but also in subtle ways that can be teased out of a close reading of the films.\n\nIn so doing, Osterweil also makes a sharp and well-argued case that intellectual property, colonialism and racial oppression are all facets of the same drive, the drive of people who fancy themselves born to rule to dominate others, which requires that those others also be dehumanized and their work denigrated. When Walt Disney insisted that his be the only name associated with \"his\" movies, he was playing out the same logic that underpinned his virulent opposition to labor unions and his participation in American imperialism in Latin America.\n\nAs with Kessel, Osterweil's argument is full of surprises and illuminations that are especially vivid for those of us who have great affection for these works. As her chapter on *Black Panther* shows, this contradiction need not go unresolved. There is plenty of scope for fans to seize the reins of the narrative (and as her chapter on the reactionary backlash to the later *Star Wars* movies shows, it's not just the forces of progress and anti-racism who can pull off this move).\n\nLike the very best criticism, Osterweil's book is more than a way to deepen your understanding of the material she dissects – it's a way to deepen your understanding of the world that produced it, and to deepen your understanding of *yourself*.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- BRIEF OF PENN & TELLER AS AMICI CURIAE IN SUPPORT OF PETITIONER [https://www.supremecourt.gov/DocketPDF/25/25-6774/400679/20260312113948009_25-6774%20Penn%20and%20Teller%20Amicus%20Brief.pdf](https://www.supremecourt.gov/DocketPDF/25/25-6774/400679/20260312113948009_25-6774%20Penn%20and%20Teller%20Amicus%20Brief.pdf)\n\n- \nZack Polanski calls for Trump to be 'kicked out' of his Scottish golf courses [https://www.bbc.com/news/articles/c8954xe8yjpo](https://www.bbc.com/news/articles/c8954xe8yjpo)\n\n- \nUncovering Global Telecom Exploitation by Covert Surveillance Actors [https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/](https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/)\n\n- \nWhat's Missing in the 'Agentic' Story [https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains](https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains)\n\n- \nLicensed to Loot [https://static1.squarespace.com/static/65c9daef199ea70aa66592fe/t/69e7b2f2949631007bb3d969/1776792306864/Licenced+to+loot+AI+Data+Centre+Report.pdf](https://static1.squarespace.com/static/65c9daef199ea70aa66592fe/t/69e7b2f2949631007bb3d969/1776792306864/Licenced+to+loot+AI+Data+Centre+Report.pdf)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#retro))\n\n#20yrsago Frank Zappa’s anti-censorship letter [https://www.flickr.com/photos/mudshark/117551768/in/set-72057594090059726/](https://www.flickr.com/photos/mudshark/117551768/in/set-72057594090059726/)\n\n#15yrsago Chemistry kit with no chemicals [https://web.archive.org/web/20110427212354/http://blog.makezine.com/archive/2011/04/chemistry-set-boasts-no-chemicals.html](https://web.archive.org/web/20110427212354/http://blog.makezine.com/archive/2011/04/chemistry-set-boasts-no-chemicals.html)\n\n#15yrsago Russian corruption: crooked officials steal multi-billion-dollar company, $230M tax refund, then murder campaigning lawyer [https://web.archive.org/web/20110426045152/http://www.foreignpolicy.com/articles/2011/04/20/russia_s_crime_of_the_century?](https://web.archive.org/web/20110426045152/http://www.foreignpolicy.com/articles/2011/04/20/russia_s_crime_of_the_century?)\n\n#15yrsago Golden-age short-change cons [https://web.archive.org/web/20110429014539/https://blog.modernmechanix.com/2011/04/26/tricks-of-short-change-artists/](https://web.archive.org/web/20110429014539/https://blog.modernmechanix.com/2011/04/26/tricks-of-short-change-artists/)\n\n#10yrsago Campaigners search Londoners’ phones to help them understand the Snoopers Charter [https://www.youtube.com/watch?v=szN7DlmMLYg](https://www.youtube.com/watch?v=szN7DlmMLYg)\n\n#10yrsago Mitsubishi’s dieselgate: cheating since 1991 [https://web.archive.org/web/20160427145038/https://www.cnet.com/roadshow/news/mitsubishi-cheated-fuel-economy-tests-since-1991/#ftag=CAD590a51e](https://web.archive.org/web/20160427145038/https://www.cnet.com/roadshow/news/mitsubishi-cheated-fuel-economy-tests-since-1991/#ftag=CAD590a51e)\n\n#10yrsago Bellwether: Connie Willis’s classic, hilarious novel about the science of trendiness [https://memex.craphound.com/2016/04/26/bellwether-connie-williss-classic-hilarious-novel-about-the-science-of-trendiness/](https://memex.craphound.com/2016/04/26/bellwether-connie-williss-classic-hilarious-novel-about-the-science-of-trendiness/)\n\n#5yrsago The Big U [https://pluralistic.net/2021/04/26/moolah-boolah/#poison-ivies](https://pluralistic.net/2021/04/26/moolah-boolah/#poison-ivies)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- NYC: Enshittification at Commonweal Ventures, Apr 29\n\n[https://luma.com/ssgfvqz8](https://luma.com/ssgfvqz8)\n\n- \nNYC: Techidemic with Sarah Jeong, Tochi Onyebuchi and Alia Dastagir (PEN World Voices), Apr 30\n\n[https://worldvoices.pen.org/event/techidemic/](https://worldvoices.pen.org/event/techidemic/)\n\n- \nBarcelona: Internet no tiene que ser un vertedero (Global Digital Rights Forum), May 13\n\n[https://encuentroderechosdigitales.com/en/](https://encuentroderechosdigitales.com/en/)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#recent))\n\n- Artificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas)\n\n[https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor](https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor)\n\n- \nWhen Do Platforms Stop Innovating and Start Extracting? (InnovEU)\n\n[https://www.youtube.com/watch?v=cccDR0YaMt8](https://www.youtube.com/watch?v=cccDR0YaMt8)\n\n- \nPete \"Mayor\" Buttigieg (No Gods No Mayors)\n\n[https://www.patreon.com/posts/pete-mayor-with-155614612](https://www.patreon.com/posts/pete-mayor-with-155614612)\n\n- \nThe internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n- \nDo you feel screwed over by big tech?  (Ontario Today)\n\n[https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech](https://www.cbc.ca/listen/live-radio/1-45-ontario-today/clip/16203024-do-feel-screwed-big-tech)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/04/28/mouseketeers/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/04/27/mouseketeers/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "Tue, 28 Apr 2026 05:57:01 +0000",
+        "reading_time": 11,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GitHub Actions is the weakest link",
+        "summary": "Pick almost any open source supply chain incident from the past eighteen months and trace it back, and you end up reading a `.github/workflows` YAML file. Ultralytics shipping a crypto miner to PyPI, ",
+        "content": "Pick almost any open source supply chain incident from the past eighteen months and trace it back, and you end up reading a `.github/workflows` YAML file. Ultralytics shipping a crypto miner to PyPI, the nx packages that turned thousands of developer machines into credential harvesters, tj-actions leaking secrets from 23,000 repositories, Trivy getting compromised twice in three weeks, elementary-data publishing a malicious wheel ten minutes after a stranger left a GitHub comment. Different headline payloads, different victims, and in each case a GitHub Actions feature behaving exactly as documented.\n\nI [wrote in December](https://nesbitt.io/2025/12/06/github-actions-package-manager.html) about the narrow problem of Actions being a package manager with no lockfile, no integrity hashes and no transitive visibility, and that the `uses:` line is a dependency declaration that the runner re-resolves on every execution against mutable git tags. That argument still stands and has since been demonstrated rather thoroughly in production, but it’s only one face of a larger problem.\n\nThe whole product is a collection of features that are each convenient on their own and very easy to assemble into something dangerous, and the workflows building and publishing most of the world’s open source run on a platform whose defaults were chosen for a private-repo enterprise CI tool and never really rethought for anonymous forks and drive-by pull requests.\n\n### The incidents\n\nThe earliest link in the recent chain is [spotbugs](https://www.wiz.io/blog/github-action-tj-actions-changed-files-supply-chain-attack-cve-2025-30066) in November 2024, which had a workflow on the `pull_request_target` trigger that checked out and built code from an untrusted fork. That trigger exists so that workflows can do things like label PRs from forks, and to make that work it runs in the context of the base repository with full secret access and a write-scoped token.\n\nCombining it with a checkout of the fork’s `head.sha` hands an attacker code execution inside your trust boundary, which is what happened: a malicious PR lifted a maintainer’s PAT, that PAT had access to reviewdog, and four months later the same actor used it to seed the [tj-actions/changed-files compromise](https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/). GitHub’s own documentation has [warned about this combination since 2021](https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/) and still ships the trigger with no guardrail beyond a paragraph in the docs.\n\nA month after spotbugs, [Ultralytics](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection) was hit through the same trigger with a different second stage. The fork PR couldn’t reach the publishing credentials directly, so instead it poisoned a GitHub Actions cache entry, and when the legitimate release workflow later restored that cache it executed the payload while building wheels. Two versions of `ultralytics` reached PyPI with a miner inside.\n\nThe cache is keyed by branch and shared down to children, the `pull_request_target` job runs as the default branch, and nothing in the UI or the API tells you that an entry was written by a job processing untrusted input.\n\nThe tj-actions incident in March 2025 is the one most people have heard of because [CISA put out an advisory](https://www.cisa.gov/news-events/alerts/2025/03/18/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction) and because the original target turned out to be [Coinbase](https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/). With the PAT harvested from spotbugs the attacker pushed a malicious commit to `reviewdog/action-setup` and moved the `v1` tag to point at it. `tj-actions/eslint-changed-files` referenced reviewdog by tag, `tj-actions/changed-files` referenced that, and 23,000 downstream repositories referenced `changed-files` by tag. Every one of them ran a memory scraper that dumped runner secrets into public build logs.\n\nThe platform feature at fault is that action versions are git refs in someone else’s repository, force-pushable by anyone with write access to that repository, and consumed by default through a moving tag rather than a content hash.\n\nUnpinned tags are by far the most common finding in any scan of public workflows, but I suspect a good chunk of that risk could be closed inside the action loader without anyone editing their YAML. GitHub stores a repository and all its forks in one shared object pool, and the runner resolves `uses: owner/action@<ref>` against anything in that pool, so a SHA that only exists in a stranger’s fork, never reviewed and never on an upstream branch, is fetchable through the parent’s namespace as if the maintainers had put it there. Chainguard [documented this as “imposter commits”](https://www.chainguard.dev/unchained/what-the-fork-imposter-commits-in-github-actions-and-ci-cd) back in 2022.\n\nThe malicious tj-actions commit was a dangling object that [didn’t belong to any branch](https://www.stepsecurity.io/blog/the-github-warning-everyone-ignores-this-commit-does-not-belong-to-any-branch) in the repository, and the runner executed it anyway because a tag pointed at it. Having the loader verify that a resolved SHA is reachable from a branch in the canonical repo, rather than just present somewhere in the fork network, would make tag hijacking need a real push to a real branch and would make a SHA pin actually mean the code had been in the upstream at some point.\n\nAugust brought [s1ngularity](https://www.wiz.io/blog/s1ngularity-supply-chain-attack), where the nx build system’s repository had a `pull_request_target` workflow that interpolated the pull request title into a shell step. The `$` template syntax expands before the shell sees the script, so a PR titled with a command substitution becomes code, and because of the trigger that code ran with an npm publishing token in scope.\n\nThe malicious nx releases that followed went looking for AI coding assistant credentials on developer machines and used them to enumerate and exfiltrate private repositories, which is how a single unsanitised string in a CI workflow ended up with [over five thousand private repos briefly made public](https://www.wiz.io/blog/s1ngularity-supply-chain-attack).\n\nBy 2026 attackers had stopped finding these one at a time and started running campaigns. The [prt-scan operation](https://ebuildersecurity.com/cyber-news/prt-scan-ai-github-actions-supply-chain-attack-2026/) spent six weeks across March and April opening hundreds of pull requests against repositories with `pull_request_target` misconfigurations, rotating through throwaway accounts and using generated, language-appropriate diffs to look like plausible contributions until the workflow fired.\n\nAround the same time [Trivy’s action repository was compromised](https://snyk.io/articles/trivy-github-actions-supply-chain-compromise/) through, again, a `pull_request_target` workflow, which an attacker found in late February. Aqua cleaned up, but the credential rotation wasn’t atomic, and three weeks later the same actor used tokens harvested in the first round to [force-push 76 of 77 historical version tags](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release) so that even users pinned to an old “known good” `@0.x.y` ran the credential stealer.\n\nThen last week a GitHub account two days old [left a comment](https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection) on an old elementary-data pull request. The repository had a workflow listening on `issue_comment` that echoed `$` into bash, the comment body closed the echo string and curled a stager, and because the workflow had no `permissions:` block the stager got a write-scoped `GITHUB_TOKEN` by default. It pushed a commit with a forged `github-actions[bot]` author, dispatched the existing release workflow, and put a credential-stealing wheel on PyPI and a matching image on GHCR within ten minutes, without any maintainer accepting a PR or clicking a button or being awake.\n\n### Common factors\n\nI don’t think any of the maintainers above were doing anything unusual, for what it’s worth. These workflows look like the examples in GitHub’s docs and like thousands of other repos.\n\nLaying the incidents out side by side, the same GitHub Actions features keep recurring: `pull_request_target` and `issue_comment` triggers that run untrusted-event workflows with full secrets, `$` expansion that does textual substitution into shell scripts with no quoting, a `GITHUB_TOKEN` that defaults to write on any repo created before February 2023, action versions that are mutable git refs, and a cache that crosses trust boundaries silently.\n\nNone of these are bugs in the strict sense, and as far as I can tell none of them are going away. A few have grown warnings in the documentation, and `pull_request_target` got a [behavioural tweak last November](https://github.blog/changelog/2025-11-07-actions-pull_request_target-and-environment-branch-protections-changes/) so it always reads the workflow file from the default branch, but the change that would have stopped most of the list above, which is simply not handing write tokens and secrets to workflows triggered by people who’ve never been near the repo, hasn’t happened.\n\nThe vulnerable workflow at the root of each of these trips at least one audit in [zizmor’s](https://docs.zizmor.sh/) default ruleset: `dangerous-triggers` for spotbugs, Ultralytics, nx, prt-scan and Trivy, `cache-poisoning` for the Ultralytics escalation, `unpinned-uses` for everyone downstream of tj-actions and Trivy, `template-injection` for nx and elementary-data, `excessive-permissions` for the default-write token that turned the elementary-data injection into a release. The elementary-data one was sitting in my own results from running zizmor across every PyPI package’s workflows for an upcoming talk, marked High/High three weeks before the comment was posted.\n\nAdding `zizmorcore/zizmor-action` to a repository takes about four lines of YAML and is probably the single most useful thing a maintainer can do about this today, short of moving off GitHub Actions entirely, which I’d also understand. I mean that as a strong endorsement of the tool, but it’s a slightly uncomfortable thing to say about the platform when the best available defence for GitHub Actions is a third-party linter maintained largely by [one person](https://github.com/woodruffw) that catches footguns GitHub put there and could remove.\n\n### Trusted publishing\n\nThe reason I keep worrying at this rather than any of the dozen other places a package can be compromised is that the package registries have collectively decided to bet on it. PyPI, npm, RubyGems and crates.io have all adopted OIDC-based trusted publishing from CI, specifically to get long-lived API tokens out of repository secrets, and that’s a real improvement over a `PYPI_API_TOKEN` sitting in a repo for years and eventually turning up in someone’s dotfiles. But it means the integrity guarantee of those registries is now roughly as strong as the GitHub Actions workflow that holds the `id-token: write` permission.\n\nWe’ve spent a decade hardening package managers with lockfiles, 2FA mandates, signatures, audit logs and provenance attestations, and the net effect of wiring all of that to OIDC has been to take trust we used to spread across thousands of individual maintainer credentials and concentrate it on one CI platform that has none of those properties itself. There are other trusted publisher identity providers, GitLab and Google Cloud Build among them, but in practice the overwhelming majority of OIDC publishes to the big registries come from GitHub-hosted runners. An attacker who wants to get something malicious onto PyPI or npm today is, more often than not, looking at workflow files rather than phishing maintainers, which puts rather a lot of weight on GitHub to get this right.\n\n### GitHub’s response\n\nGitHub did publish a [security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) last month, and to their credit it contains real fixes: a workflow lockfile that pins direct and transitive action dependencies to SHAs, policy controls that can ban `pull_request_target` outright, secrets scoped to specific workflows rather than whole repos, an egress firewall on hosted runners. It’s the framing I find frustrating, because everything is opt-in, everything is “public preview in three to six months”, and the lockfile arrives roughly three years after [the issue asking for it was closed as not planned](https://github.com/actions/runner/issues/2195). Meanwhile the [community discussion on secure-by-default Actions](https://github.com/orgs/community/discussions/179107) is full of GitHub staff explaining that changing defaults would break existing workflows, which is true, and I do understand the bind they’re in.\n\nI’d argue breaking existing workflows is rather the point though, because the existing workflows are what keeps going wrong: 91% of PyPI packages that use third-party actions reference at least one by mutable tag, two thirds have no `permissions:` block on at least one workflow, and a year after tj-actions there are still hundreds of packages pointing at it by tag. Opt-in security features get adopted by the projects that were already paying attention and ignored by the long tail of repos whose maintainers reasonably assume the platform defaults are safe.\n\nFor private repositories there’s a fair argument for caution, since a broken internal pipeline mostly hurts the people who own it. Public repositories building artefacts that get published to package registries and pulled by millions of downstream users feel like a different risk calculus to me, not least because the people who’d be inconvenienced by a defaults flip and the people currently getting compromised are largely different populations. I think GitHub could justify treating the two cases differently.\n\nThere are a handful of changes I’d happily trade some broken builds for. Flip the token default to read-only for every public repo regardless of creation date, refuse to expand `github.event.*` inside `run:` steps, refuse to restore caches in jobs on `pull_request_target`, require immutable references for actions in any workflow that requests `id-token: write`. Each of those would break things and annoy people, and each would have taken at least one of the incidents above off the board.\n\nUntil GitHub is willing to make changes that break things, run zizmor, pin your SHAs, set `permissions: {}` at the top of every workflow file, and assume that anything an unauthenticated user can put in a PR title, branch name or issue comment will eventually be a shell script. Otherwise sooner or later it’s your repo that’s the weakest link. Goodbye.[1](#fn:1)\n\n**Incidents referenced:**\n\n  - [spotbugs `pull_request_target` to reviewdog to tj-actions chain](https://unit42.paloaltonetworks.com/github-actions-supply-chain-attack/), Nov 2024 - Mar 2025\n\n  - [Ultralytics cache poisoning](https://blog.yossarian.net/2024/12/06/zizmor-ultralytics-injection), Dec 2024\n\n  - [tj-actions/changed-files CVE-2025-30066](https://www.wiz.io/blog/github-action-tj-actions-changed-files-supply-chain-attack-cve-2025-30066) and [reviewdog/action-setup CVE-2025-30154](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup), Mar 2025\n\n  - [CISA advisory on tj-actions/reviewdog](https://www.cisa.gov/news-events/alerts/2025/03/18/supply-chain-compromise-third-party-tj-actionschanged-files-cve-2025-30066-and-reviewdogaction)\n\n  - [nx / s1ngularity](https://www.wiz.io/blog/s1ngularity-supply-chain-attack), Aug 2025\n\n  - [Trivy action compromise](https://snyk.io/articles/trivy-github-actions-supply-chain-compromise/) and [second-round tag hijack](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release), Feb-Mar 2026\n\n  - [prt-scan `pull_request_target` campaign](https://ebuildersecurity.com/cyber-news/prt-scan-ai-github-actions-supply-chain-attack-2026/), Mar-Apr 2026\n\n  - [elementary-data comment injection](https://www.stepsecurity.io/blog/elementary-data-compromised-on-pypi-and-ghcr-forged-release-pushed-via-github-actions-script-injection), Apr 2026\n\n  - [Orca “pull_request_nightmare” research](https://orca.security/resources/blog/pull-request-nightmare-github-actions-rce/)\n\n  - [Chainguard: imposter commits in GitHub Actions](https://www.chainguard.dev/unchained/what-the-fork-imposter-commits-in-github-actions-and-ci-cd)\n\n  - [StepSecurity: “This commit does not belong to any branch”](https://www.stepsecurity.io/blog/the-github-warning-everyone-ignores-this-commit-does-not-belong-to-any-branch)\n\n  - [Sysdig: insecure Actions in MITRE, Splunk et al.](https://www.sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories)",
+        "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-04-28T10:00:00.000Z",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting OpenAI Codex base_instructions - 28th April 2026 > `Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, o...",
+    "What's new in pip 26.1 - lockfiles and dependency cooldowns! - 28th April 2026 - Link Blog **[What's new in pip 26.1 - lockfiles and dependency cooldowns...",
+    "Rec League - Share what you're into. Rec League is an app for sharing the things you love. Catalog your...",
+    "Introducing talkie: a 13B vintage language model from 1930 - **[Introducing talkie: a 13B vintage language model from 1930](https://talkie-lm.com/intro...",
+    "Illegal vs Unwanted States - An **illegal state** is a state we never want our system to be in. An **unwanted state** i..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "github",
+      "count": 8
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "want",
+      "count": 6
+    },
+    {
+      "word": "model",
+      "count": 5
+    },
+    {
+      "word": "don't",
+      "count": 4
+    },
+    {
+      "word": "trick",
+      "count": 4
+    },
+    {
+      "word": "arc",
+      "count": 4
+    },
+    {
+      "word": "openai",
+      "count": 4
+    },
+    {
+      "word": "million",
+      "count": 4
+    },
+    {
+      "word": "state",
+      "count": 4
+    },
+    {
+      "word": "technique",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "newsletter",
+      "count": 3
+    },
+    {
+      "word": "things",
+      "count": 3
+    },
+    {
+      "word": "trs-",
+      "count": 3
+    },
+    {
+      "word": "projects",
+      "count": 3
+    },
+    {
+      "word": "subscriptions",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "april",
+      "count": 3
+    },
+    {
+      "word": "open",
+      "count": 3
+    },
+    {
+      "word": "illegal",
+      "count": 3
+    },
+    {
+      "word": "unwanted",
+      "count": 3
+    },
+    {
+      "word": "quoting",
+      "count": 2
+    },
+    {
+      "word": "months",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "turning",
+      "count": 2
+    },
+    {
+      "word": "approximation",
+      "count": 2
+    },
+    {
+      "word": "ai's",
+      "count": 2
+    },
+    {
+      "word": "economics",
+      "count": 2
+    },
+    {
+      "word": "sense",
+      "count": 2
+    },
+    {
+      "word": "free",
+      "count": 2
+    },
+    {
+      "word": "premium",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "developing",
+      "count": 2
+    },
+    {
+      "word": "cross-process",
+      "count": 2
+    },
+    {
+      "word": "reader",
+      "count": 2
+    },
+    {
+      "word": "writer",
+      "count": 2
+    },
+    {
+      "word": "lock",
+      "count": 2
+    },
+    {
+      "word": "limited",
+      "count": 2
+    },
+    {
+      "word": "readers",
+      "count": 2
+    },
+    {
+      "word": "part",
+      "count": 2
+    },
+    {
+      "word": "semaphore",
+      "count": 2
+    },
+    {
+      "word": "appeared",
+      "count": 2
+    },
+    {
+      "word": "length",
+      "count": 2
+    },
+    {
+      "word": "chord",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "kyocera",
+      "count": 2
+    },
+    {
+      "word": "relevant",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "shutdowns",
+      "count": 2
+    },
+    {
+      "word": "internet",
+      "count": 2
+    },
+    {
+      "word": "disruptions",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "plus",
+      "count": 2
+    },
+    {
+      "word": "subscribers",
+      "count": 2
+    },
+    {
+      "word": "contest",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "never",
+      "count": 2
+    },
+    {
+      "word": "what's",
+      "count": 2
+    },
+    {
+      "word": "pip",
+      "count": 2
+    },
+    {
+      "word": "lockfiles",
+      "count": 2
+    },
+    {
+      "word": "dependency",
+      "count": 2
+    },
+    {
+      "word": "cooldowns",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "via",
+      "count": 2
+    },
+    {
+      "word": "rec",
+      "count": 2
+    },
+    {
+      "word": "league",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "talkie",
+      "count": 2
+    },
+    {
+      "word": "vintage",
+      "count": 2
+    },
+    {
+      "word": "language",
+      "count": 2
+    },
+    {
+      "word": "states",
+      "count": 2
+    },
+    {
+      "word": "source",
+      "count": 2
+    },
+    {
+      "word": "sourceforge",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "apr",
+      "count": 2
+    }
+  ]
+}
