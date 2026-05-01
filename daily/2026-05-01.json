@@ -1,0 +1,801 @@
+{
+  "date": "2026-05-01",
+  "stats": {
+    "total_fetched": 279,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 18,
+    "long_articles": 12
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Approximating even functions by powers of cosine",
+        "summary": "A couple days ago I wrote a post about turning a trick into a technique, finding another use for a clever way to construct simple, accurate approximations. I used as my example approximating the Bessel function J(x) with...",
+        "url": "https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 01 May 2026 00:06:12 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "NHS Goes To War Against Open Source",
+        "summary": "The NHS is preparing to close nearly all of its Open Source repositories. Throughout my time working for the UK Government - in GDS, NHSX, i.AI, and others - I championed Open Source. I spoke to dozens of departments abo...",
+        "url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 01 May 2026 11:44:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment",
+        "summary": "Recovering from death of the owner. The post Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 01 May 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain",
+        "summary": "This series of articles chronicles the history, both real and pseudo, behind Gabriel Knight 3: Blood of the Sacred, Blood of the Damned. It is possible to trace the Plantard family tree a fair ways back without relying o...",
+        "url": "https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Fri, 01 May 2026 15:46:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ad Lib bankruptcy: May 1, 1992",
+        "summary": "Ad Lib, Inc. was a Canadian manufacturer of sound cards founded by Martin Prevel, a former professor of music and vice-dean of the music department at the Université Laval in Quebec City. Ad Lib’s best known product was...",
+        "url": "https://dfarq.homeip.net/ad-lib-bankruptcy-may-1-1992/?utm_source=rss&utm_medium=rss&utm_campaign=ad-lib-bankruptcy-may-1-1992",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Fri, 01 May 2026 11:00:55 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Code Orange: Fail Small is complete. The result is a stronger Cloudflare network",
+        "summary": "We have completed a massive engineering effort to make our infrastructure more resilient. Through new tools like Snapstone and the Engineering Codex, we've implemented safer configuration changes and automated best pract...",
+        "url": "https://blog.cloudflare.com/code-orange-fail-small-complete/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud",
+          "AI/ML"
+        ],
+        "published_at": "Fri, 01 May 2026 21:07:30 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Dynamic Workflows: durable execution that follows the tenant",
+        "summary": "Dynamic Workflows is a library that lets you route durable execution to tenant-provided code on the fly. Built on Dynamic Workers, it enables platforms to serve millions of unique workflows at near-zero idle cost.",
+        "url": "https://blog.cloudflare.com/dynamic-workflows/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Fri, 01 May 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-01T22:40:06.852Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "SBC Clusters are a terrible value, but they're fun anyway",
+        "summary": "![DeskPi Super4C SBC Cluster Board in Waveshare HomeRack Mini Rack](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-in-waveshare-homerack-mini-rack.jpg)Pictured above ",
+        "content": "![DeskPi Super4C SBC Cluster Board in Waveshare HomeRack Mini Rack](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-in-waveshare-homerack-mini-rack.jpg)Pictured above is the new [DeskPi Super4C](https://amzn.to/4w4rUOq) installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older [Super6C](https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard/).\n\nI was testing this board around the same time I helped kick off the [SBCC 2026](https://sbcc.sdsc.edu/main-page.html), the Single Board Cluster Competition for students. A dozen or so university teams squared off to run the best mini HPC cluster with a budget of $6,000, and a couple days to benchmark [six HPC workloads](https://single-board-cluster-competition.github.io/sbcc26-competition-site/grading.html).\n\nI decided to populate the Super4C DeskPi sent me to test with four 16GB CM5s I got *last year*, back when they were $125 each. They're about *$300* today, after the [latest round of price increases](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/).\n\nI made a video reviewing the Super4C and a new mini rack from Waveshare, the [HomeRack](https://amzn.to/3P9T8CR), and I posted it on YouTube:\n\n*\n\nIn that rack build, I also tested Waveshare's [HomeRack Pi 7\" Touch Panel mount](https://amzn.to/4t7nlQU), as well as a [Tripp-Lite mini UPS](https://amzn.to/4n3hfzH) that slots nicely into the bottom. If you're interested in the hardware, go watch the video.\n\n## The Goldilocks Cluster\n\nThe main thing I wanted to point out in this blog post are the two annoyances DeskPi fixed in the Super4C—which I think they fixed by reducing the number of Compute Modules from 6 to 4 (thus gaining valuable board space):\n\n- **Remote Management**: There's now an ESP32 you can access over WiFi (or, soon, Ethernet) for 'lights out' management of the cluster—at least for power control and monitoring[1](#fn:1).\n- **Redundant Ethernet and Power**: This board has two Ethernet connections to each CM5 slot (one 2.5 Gbps NIC off the USB 3.0 bus, and one 1 Gbps connection through the CM5's own Broadcom NIC). It also has dual 19V DC barrel jack power inputs, and will switch between them to whichever one has the higher voltage.\n\nThe video has more detail about other board features, but I mention that it's kind of a 'Goldilocks' board for the SBC Cluster enthusiast; it has just enough features to solve the pain points I had with the Super6C, but not so much complexity the price is pushed beyond a hobbyist's budget.\n\n![DeskPi Super4C with ESP32 for remote management](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-esp32.jpeg)I don't recommend a cluster like this for value*. The reason you'd buy something like this is for HPC tinkering, on a tiny scale, at your desk, without a bunch of power-hungry used mini PCs or old servers heating up your room.\n\nIt could also be useful in some other niche use cases:\n\n- A multi-camera / multi-node vision processing system, with one or two cameras per CM5 (up to 8 cameras total, with an AI accelerator for each Pi)\n- A tiny 4-computer board that has an HDMI display on each node\n- A small build farm for Arm projects or CI\n- A tiny redundant edge cluster for lightweight applications\n\nIf you just want to build a little homelab, though, and you don't care about learning networking or multi-node deployment/coordination: buy a mini PC. You can get a decent one nowadays for $500-600 with 32 GB of RAM, even with inflated memory pricing.\n\n![DeskPi Super4C with 16GB CM5s](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/deskpi-super4c-4x-raspberry-pi-cm5.jpeg)As it is, a minimum cluster build with four Pi CM5s with eMMC and 2 GB of RAM will cost nearly $600. And the cluster as pictured above is closer to $1,400! Like I said, it's not about value, versus a single beefy machine.\n\n## The Competition\n\nIt's fun to see how this cluster running on four CM5s with a total of 16 A76 CPU cores and 64 GB of LPDDR5 RAM compares to the SBCC student clusters.\n\nHere's how it stacks up running HPL:\n\n![DeskPi Super4C compared to SBCC 2026 HPL results](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/hpl-graphs.002.performance-with-super4c.jpg)Not a bad showing, overall! In my kickoff speech, I told the students I suspected the team with a cluster of Orange Pi 5 Max boards would have a good shot at the title—and running HPL at least, they were second!\n\nLooking at efficiency, my Super4C cluster was also in the middle of the pack:\n\n![DeskPi Super4C HPL Efficiency compared to SBCC 2026 results](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/hpl-graphs.003.efficiency.jpg)The other cluster (PlumJuice) that's neck-in-neck is also running on Raspberry Pi 5s (9 of them), so it's nice to see that consistency in efficiency from cluster to cluster.\n\nThe outlier in *both* cases was a cluster of four [Minisforum X1 Pro-370](https://store.minisforum.com/products/minisforum-ai-x1-pro-370-mini-pc) mini PCs—with their boards ripped out of them so they were more in the spirit of 'Single Board' computers :)\n\nHere's a look at all the specs for the clusters in the top of the HPL results:\n\n![DeskPi Super4C compared to other HPL SBCC result node types](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/hpl-graphs.004.nodes.jpg)The NTHU team's AMD nodes were underclocked for better efficiency (AMD and Intel seem to push default clocks way beyond what's necessary, I guess to one-up each other), and they also [compiled HPL with ROCm against the iGPU](https://single-board-cluster-competition.github.io/sbcc26-competition-site/teams/nthu.html#benchmarks) for a bit of a speedup, too.\n\nYou can call that cheating, since most people don't look at Minisforum PCs and think \"SBC\", but I call it a creative interpretation of the rules.\n\nBesides, the NTHU team *didn't* win the overall competition. Team Kent Ridge did, with a cluster of 16 Orange Pi 5 Max's.\n\nI wish the SBCC existed back when I was in college. Since it didn't, I'm glad I can at least [Cosplay as a Sysadmin](https://www.redshirtjeff.com/shop/p/cosplaying-as-a-sysadmin-shirt) and build my own little clusters to compare today.\n\nThese cluster projects don't make sense anymore if you just need to run a homelab. But they're quite fun if you want to learn HPC with a cluster that sits on your desk.",
+        "url": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 01 May 2026 09:00:00 -0500",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "iNaturalist Sightings",
+        "summary": "I wanted to see my [iNaturalist](https://www.inaturalist.org/) observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phon",
+        "content": "I wanted to see my [iNaturalist](https://www.inaturalist.org/) observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web.\n\nI started by building an [inaturalist-clumper](https://github.com/simonw/inaturalist-clumper) Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other.\n\nThen I setup [simonw/inaturalist-clumps](https://github.com/simonw/inaturalist-clumps) as a [Git scraping](https://simonwillison.net/series/git-scraping/) repository to run that tool and record the result to [clumps.json](https://github.com/simonw/inaturalist-clumps/blob/main/clumps.json).\n\nThat JSON file is hosted on GitHub, which means it can be fetched by JavaScript using CORS.\n\nFinally I ran this prompt against my [simonw/tools](https://github.com/simonw/tools) repo:\n\n> `Build inat-sightings.html - an app that does a fetch() against https://raw.githubusercontent.com/simonw/inaturalist-clumps/refs/heads/main/clumps.json and then displays all of the observations on one page using the https://static.inaturalist.org/photos/538073008/small.jpg small.jpg URLs for the thumbnails - with loading=lazy - but when a thumbnail is clicked showing the large.jpg in an HTML modal. Both small and large should include the common species names if available`",
+        "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-01T19:35:41.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Talk Show: ‘Food and Beverage Director’",
+        "summary": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Food and Beverage Director’, With MG Siegler\n\nMG Siegler returns to the show to discuss Apple’s announcement that Tim Cook is stepping ",
+        "content": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Food and Beverage Director’, With MG Siegler\n\nMG Siegler returns to the show to discuss Apple’s announcement that Tim Cook is stepping aside (into the role of executive chairman) and John Ternus will become CEO.\n\n**Sponsored by:**\n\n- [Squarespace](https://squarespace.com/talkshow): Save 10% off your first purchase of a website or domain using code **TALKSHOW**.\n\n- [Drafts](https://getdrafts.com/thetalkshow): The Swiss Army knife for text on all your Apple devices. Act now to get your first year of Drafts Pro for 50% off.\n\n- [Finalist](https://finalist.works/talkshow):  A daily planner for iPhone, iPad and Mac, built on proven paper-based planning methods. Use this link to get six months free.\n\n**Transcripts:** [Unofficial but surprisingly good](http://podsearch.david-smith.org/shows/11).\n\n**Links:**\n\n- Apple Newsroom:\n“[Tim Cook to become Apple Executive Chairman; John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)”.\n\n- “[Johny Srouji named Apple’s Chief Hardware Officer](https://www.apple.com/newsroom/2026/04/johny-srouji-named-apples-chief-hardware-officer/)”.\n\n- MG, at Spyglass:\n“[A Cook’s Tour](https://spyglass.org/tim-cook-steps-down-as-ceo-of-apple/)”.\n\n- “[John Ternus’s Magic Show](https://spyglass.org/the-pledge-the-ternus-the-prestige/)”.\n\n- Yours truly:\n“[Another Day Has Come](https://daringfireball.net/2026/04/another_day_has_come)”.\n\n- “[Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition](https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition)”.\n\n- “[The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid)”.\n\n- Steven Levy:\n“[Apple’s Next CEO Needs to Launch a Killer AI Product](https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/)” ([paywall-busting Apple News+ link](https://apple.news/AdCC7y43rTQq6SZH2bDmqxA)).\n\n- 2008: “[Joe Nocera Gets a Call From Steve Jobs](https://daringfireball.net/linked/2008/07/26/nocera-jobs)”.\n\n- 2010, regarding Mark Papermaster, whom Steve Jobs fired just weeks after the iPhone 4 antennagate press conference: “[Papermaster and That Damn Antenna](https://daringfireball.net/2010/08/papermaster_damn_antenna).”\n\n- “[Look at how many blueberries your muffin has, and how many mine has. Yours is falling apart. I have nothing.](https://www.youtube.com/watch?v=5oF1Rd5kis4)”\n\n*This episode of The Talk Show was edited by Caleb Sexton.*",
+        "url": "https://daringfireball.net/thetalkshow/2026/04/30/ep-446",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-01T02:58:44.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Scientology ‘Speed Running’ Trend",
+        "summary": "On any given day, Los Angeles’s Hollywood Boulevard teems with tourists and street performers clustered near the area’s many landmarks. But in recent months, the strip has been set abuzz for a new rea",
+        "content": "On any given day, Los Angeles’s Hollywood Boulevard teems with tourists and street performers clustered near the area’s many landmarks. But in recent months, the strip has been set abuzz for a new reason.\n\nThrongs of mostly adolescent boys and young men have been rushing the Church of Scientology’s international headquarters on the famed street.\n\nThe so-called “speed runs” appear to be bids for social media valor – clips of the raids have amassed millions of views on TikTok – as much as they are an outgrowth of public intrigue surrounding the church, which has previously drawn accusations of being a cult. Some users have developed blueprints for the building based on information gathered from [videos of the raids](https://www.tiktok.com/@nbcnews/video/7634662091441360141).\n\nThe church issued a Wednesday statement to the Guardian about a “large-scale incident” on Saturday, during which “dozens of individuals” forced their way into its facilities, knocking down staff members in the process.\n\n“These are peaceful spaces designed to welcome parishioners, visitors and members of the public. Turning them into targets for viral stunts is not journalism, protest or civic activity. It is trespass, harassment and disruption of religious facilities,” the church wrote.\n\nChurch officials said they were “reviewing all available remedies” and had made reports to law enforcement. At least one staff member had sustained injuries that required medical attention from the incidents, spokesperson David Bloomberg said.\n\nLos Angeles police have received five reports of trespassing incidents – two of which appeared correlated to speed-running attempts, according to the Los Angeles Times.\n\nNo arrests have been made, an LAPD spokesperson told the Guardian.\n\nAn 18-year-old content creator with the handle Swhileyy appears to have initiated the trend. In March he posted an Instagram video, which has since been removed, showing himself breaching the property. Swhileyy said he heard of the church through Streets LA, a TikTok account with more than 330,00 followers.\n\nSwhileyy, who has not been publicly identified, has distanced himself from the trend.\n\n“I do not condone what I did, even though I didn’t break any laws,” he [told](https://www.hollywoodreporter.com/news/general-news/tiktoker-scientology-run-inspired-a-trend-1236573730/) the Hollywood Reporter. “I never once in any video or any comment section or anywhere promoted the idea of running through there or beating my record.”\n\nScientology, founded by the sci-fi writer L Ron Hubbard in the 1950s, has been the subject of fierce scrutiny and public speculation. Many celebrities, including Tom Cruise and John Travolta, belong to the church, which has an outsize presence in Los Angeles.\n\nDefectors, including the actor Leah Remini, have accused the church of fostering a culture of abuse.\n\nLast week, Remini weighed in on the social media trend, calling it “unhelpful”.\n\n“If someone is brainwashed for years into believing the outside world is filled with dangerous lunatics who wish to impede Scientology, a group of people running through a Scientology building is only going to confirm that belief and lead them to dedicate themselves even more to the cause they believe in,” Remini wrote on X.\n\n“Please focus on exposing the dangers of Scientology, not making a spectacle out of it.”",
+        "url": "https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-05-01T02:36:36.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Tim Cook’s Clever Solution to the Tariff Refund Puzzle",
+        "summary": "![Tim Cook](https://i0.wp.com/sixcolors.com/wp-content/uploads/2017/01/cook-2016-bleed.jpg?ssl=1)\nPretty soon, we aren’t going to have Tim Cook to kick around anymore. Or at least, when we kick him ar",
+        "content": "![Tim Cook](https://i0.wp.com/sixcolors.com/wp-content/uploads/2017/01/cook-2016-bleed.jpg?ssl=1)\nPretty soon, we aren’t going to have Tim Cook to kick around anymore. Or at least, when we kick him around, it’ll be a sort of executive chair kind of kicking. (Wait, I was told there would be no more kicking!)\n\nRegardless of pending executive transitions, Apple [released its corporate earnings](https://sixcolors.com/post/2026/04/apple-announces-record-fiscal-second-quarter/) for the second fiscal quarter of 2026, and Tim Cook got to bask in the sun — [and dodge questions from analysts](https://sixcolors.com/post/2026/04/this-is-tim-and-john-and-kevin-transcript-of-apples-q2-2026-financial-call/) — for one of the last times.\n\nThe charts have all been generated, and Tim Cook hasn’t yet [regenerated](https://www.youtube.com/watch?v=mb6hbGQPtik) into John Ternus, so here’s a quick set of additional observations about what’s going on in the business of Apple.\n\n## A new definition of boring\n\nApple’s business has been very, very seasonal for a long time—certainly back to the introduction of the iPod, if not before. Apple sells a lot of stuff in the last three months of the year, not only because it’s the holiday season, but these days because it’s also new iPhone season.\n\nThose holiday quarters are huge. They stand out on any chart you make. The other quarters, well, they’re the sag in the saddle. They’re important because you need 12 months to make a calendar, but they’ve never had the sizzle of the holiday quarter.\n\nWhich is why it’s so impressive that, for two successive “boring” quarters, Apple has generated more than $100 billion in revenue. In 2020, Apple’s “boring” quarters averaged $60.9 billion in revenue. That a company this large can still grow this much in five years is astounding. When I describe Apple as the world’s foremost machine that generates cash, I am not kidding.\n\nSpeaking of cash, back in 2018, Apple [declared](https://sixcolors.com/post/2018/02/this-is-tim-transcript-of-apples-q1-2018-earnings-call/) that its policy was to become “cash neutral over time,” because its cash flow had gotten so ridiculous that it was sitting on $163 billion in net cash. In practice, Apple attempted to spend its extra money largely through stock buybacks and shareholder dividends.\n\nEight years later and more than a trillion dollars of cash return later, things are changing, at least a little. “As we move ahead, we are no longer providing net cash neutral as a formal target, and we will independently evaluate cash and debt,” Apple CFO Kevan Parekh said on Thursday’s call.\n\nNow, I’m sure there are a lot of complex financial reasons Apple has decided to back away from net cash neutral, and Parekh was quick to point out that Apple’s board had authorized $100 billion to be used in future stock buybacks. The company, he said, is still “very committed to returning excess cash to shareholders.”\n\nThe key concept here seems to be *flexibility*. It sure sounds to me like Apple wants the ability to, for example, stash a little extra cash away so that it’s capable of making big moves if it needs to. Maybe that’s capital expenditures involving AI stuff. Maybe it’s keeping enough cash ready to spring if there’s a company it feels like it can acquire, in whole or in part. (Apple’s cash flow is an enormous advantage should it come across a relevant company that’s in fiscal distress.)\n\nI also have to wonder if the company might be considering larger investments to normalize its component supplies. Right now, RAM is at a premium, and Apple’s using every chip TSMC can manufacture for it. Maybe Apple wants the leeway to give billions of dollars to a partner to build a factory and pre-buy all the output of that factory for a certain number of years. Not cheap, but if you’ve got the cash, maybe a good longer-term investment.\n\nWe’ll see what happens. I just think it’s interesting that Apple went to the trouble of formally disengaging from its old monetary policy so it can get a little more room to maneuver. Usually, if you’re looking for that, it means you are thinking of maneuvering, right?\n\n## Memory costs are starting to affect Apple\n\nApple’s careful planning meant it could combat the rising cost of memory for a little while, but that time seems to be coming to an end. Here’s what Cook said Thursday:\n\n> \n> In the December quarter, we really had a minimal impact due to memory, and you can kind of see that in the gross margin results. We said it would be a bit more in the March quarter, and we did see higher memory costs in the March quarter, and they were partially offset by benefits from carry-in inventory that we had. For the June quarter and what’s embedded in the guidance that Kevan went through earlier, we expect significantly higher memory costs. They are also partly offset by the benefit of carry-in inventory. And then, where we don’t give color beyond June, I can tell you that beyond the June quarter, we believe memory costs will drive an increasing impact on our business. And we’ll continue to evaluate this, and as we’ve said before, we’ll look at a range of options.\n> \n\nWhat are those options? Cook said he didn’t really want to go into it, but we can all probably guess: Lowering margins and/or raising prices. Apple tends to go about this in very careful ways—base prices may stay the same, with the cost of higher-end configurations seeing price increases. Its huge product margins give it room to maneuver, but Apple’s not ever going to want to give away margin. That’s not how it’s wired. Bottom line: Some Apple products are going to become more expensive in the near future, but it may be more complicated (and less obvious) than you expect.\n\n## Can’t sell ’em if you can’t make ’em\n\nWhile having more demand for your products than you can fulfill is a *good* problem to have, it’s still a problem. Ideally, every person who wants to buy an Apple product would have their credit cards immediately charged and their product shipped. Unfortunately, we live in a world that suddenly has some dramatic tech supply constraints, and it bit Apple in the second quarter.\n\n*Oh, it’s the memory thing again*, you might be thinking. But no! Apple’s current supply constraints are actually at Taiwan Semiconductor (TSMC), which can’t make Apple’s key SoCs (Systems on Chips) fast enough to fulfill Apple’s demand. Apple uses TSMC’s most advanced nodes, and according to Cook, “we’re not at the point where we’re saying this is going to end anytime soon.” There’s no button to push to make the conveyor belt at TSMC run faster.\n\nWho does Cook blame? Himself, more or less. “We just under-called the demand,” he said. This constraint is hitting the iPhone as well as the Mac, and especially the Mac mini and Mac Studio, due to increased demands due to Apple silicon being a pretty great platform for agentic AI applications.\n\nThe MacBook Neo was also constrained, which is interesting, since I’m [not sure that’s a TSMC supply problem](https://sixcolors.com/post/2026/04/solving-the-problem-of-macbook-neos-popularity/). But Apple rolled it into its description of all the other issues it’s having. “We were very bullish on the product before announcing it, but we undercalled the level of enthusiasm that would be with it,” Cook said.\n\nMemory is going to hit Apple, yes. And this quarter was already a record. And yet… if Apple had correctly forecast demand and made sure TSMC was able to supply that demand, it would’ve sold more iPhones and Macs in the last quarter. As I said, as bad stories go, it’s got good roots—but it’s still not ideal.\n\n## Tariff Talk with Tim\n\nDuring a complicated question from J.P. Morgan analyst Samik Chatterjee about product margins, Parekh unusually half-answered the question and then stopped and “turned it over to Tim” so that Cook could read an obviously prepared statement about tariffs, which included this bit:\n\n> \n> In terms of applying for a refund of tariffs paid, we’re following the established processes, and we plan to reinvest any amount we receive back into U.S. innovation and advanced manufacturing. These would be new investments and would be in addition to our prior commitments in the U.S.\n> \n\nThis is the sort of politics Cook will continue to be plying from the boardroom. Sure, Apple’s going to try to get its tariff money back. But it’s going to do so using the perfectly normal and established process, and if it *does* get billions back from the U.S. government, it double-promises to reinvest that money in the United States, above and beyond its already stated commitments. Trump Administration, take note.\n\n## Remember this moment with Bullish Tim\n\nI’m going to miss Cook on these quarterly calls. He pointed out that Thursday’s call was his 89th, which, yes, predates his era as CEO. (Steve Jobs only attended the calls occasionally, leaving Cook to preside over them even as Chief Operating Officer.)\n\nAnyway, one of Cook’s signature earnings call moves is being bullish on emerging markets. So a tip o’ the cap to Wells Fargo analyst Aaron Rakers, who used his allotted two questions to ask Cook to play the hits—namely, to ask how he felt about Apple’s business in China and India.\n\nAfter a few years in the doldrums, Apple’s last two quarters in China have been solid. Cook was quick to point out that the iPhone was the top-selling phone in urban China, the Mac mini was the top desktop in China, and the MacBook Air was the top laptop.\n\nIn terms of India, Cook got to point out (as he loves to do) that even with all of Apple’s growth there, it’s still got enormous growth potential:\n\n> \n> It’s the second-largest smartphone market in the world and the third-largest PC market, and despite doing extremely well there for quite some time, we still have a modest share. And so I think that really speaks to the opportunity that we have…. Net-net, I’m over the moon excited about India.\n> \n\nI’m going to miss hearing from Tim Cook, the man who can generate the requisite enthusiasm about international business to use a phrase like “net-net over the moon.”\n\n## Some advice for John Ternus\n\nDuring Cook’s introductory remarks on the earnings call, he allowed future CEO John Ternus to drop in and read a 250-word prepared statement. It was a necessary mutual-admiration society where Cook praised Ternus (“a brilliant engineer, a deep thinker, a person of remarkable character, and a born leader”), followed by Ternus immediately praising Cook (“one of the greatest business leaders of all time”). The whole point of this is to send the message to Wall Street that Apple’s got this and nobody needs to be worried.\n\nWhat wasn’t quite as necessary was the door opened by Evercore analyst Amit Daryanani, who asked Cook if he could share any advice he had for John Ternus, given that Steve Jobs famously told Cook not to ask what he would do, but focus on doing what was right.\n\nHere was Cook’s response:\n\n> \n> I think Steve’s advice to me lifted a huge burden, and so that advice did well for me over the 15 years. For John… what I’ve told him is that one of the most important decisions he’ll make is where to spend his time. And I would spend it where the greatest benefit to the company and the users are, and never forget the north star for the company. We’re about making the best products in the world that really enrich other people’s lives, and if you keep focusing on that and make your decisions around that, it will produce a great business, and we’ll be able to build more products and do it all over again.\n> \n\nNow don’t get all misty on us, Tim. There’s still your 90th analyst call to come, sometime in late July. I hope someone remembers to bake a cake for that one.\n\n\t**If you appreciate articles like this one, support us by [becoming a Six Colors subscriber](https://sixcolors.com/subscribe/). Subscribers get access to an exclusive podcast, members-only stories, and a special community.**",
+        "url": "https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-01T20:30:47.000Z",
+        "reading_time": 11,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Offline command line translation with TranslateGemma + Ollama",
+        "summary": "I wrote a simple script that translates text at the command line, completely offline. Here’s an example of how it works on my computer:\n\n```\necho '¿Cómo estás?' | translate\n# => How are you?\n\n```\n\nIt ",
+        "content": "I wrote a simple script that translates text at the command line, completely offline. Here’s an example of how it works on my computer:\n\n```\necho '¿Cómo estás?' | translate\n# => How are you?\n\n```\n\nIt combines a few tools:\n\n- [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/), a special-purpose language model for translation\n- [Ollama](https://ollama.com/), a tool for running language models locally\n- [Efficient Language Detector](https://www.npmjs.com/package/eld), a library that detects the language for a piece of text\n\nHere’s the pseudocode of how it works:\n\n```\nsource = read_stdin()\n\n# Uses Efficient Language Detector\nsource_language = detect_language(source)\n\n# Uses JavaScript's `navigator.language`\ntarget_language = get_system_language()\n\n# Uses Ollama + TranslateGemma\nreturn translate(source, source_language, target_language)\n\n```\n\nI built this because I couldn’t find anyone else who had done it. It’s written in Deno for my specific needs—for example, it only translates text into your system’s language—but could easily be adapted if you need something else.\n\nI like that I can do offline, private, automatic translation. It’s imperfect, but useful for me!\n\n[Here’s the source code.](https://codeberg.org/EvanHahn/translate-cli)",
+        "url": "https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/",
+        "source": "Evan Hahn (dot com)",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Fri, 01 May 2026 00:00:00 +0000",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Q2 2026 Results",
+        "summary": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n                    \n                    \n                        PRESS RELEASE\n                    \n                    \n         ",
+        "content": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n                    \n                    \n                        PRESS RELEASE\n                    \n                    \n                        April 30, 2026\n                    \n                    \n                \n\n        \n                \n                \n                \n                    \n## \n                        \n    \n        Apple reports second quarter results\n    \n\n                    \n\n                \n            \n\n        \n                \n                \n                    March quarter records for total company revenue, iPhone revenue, and EPS \nServices revenue reaches new all-time high\n                \n            \n\n        \n            \n    \n    \n    \n    \n    \n\n        \n\n    \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 **CUPERTINO, CALIFORNIA** Apple today announced financial results for its fiscal 2026 second quarter ended March 28, 2026. The Company posted quarterly revenue of $111.2 billion, up 17 percent year over year. Diluted earnings per share was $2.01, up 22 percent year over year.\n\n                 \n             \n                 “Today Apple is proud to report our best March quarter ever, with revenue of $111.2 billion and double-digit growth across every geographic segment,” said Tim Cook, Apple’s CEO. “iPhone achieved a March quarter revenue record, fueled by such extraordinary demand for the iPhone 17 lineup. During the quarter, Services achieved yet another all-time record, and we were excited to introduce remarkable new products to our strongest lineup ever. That included the addition of the iPhone 17e and the M4-powered iPad Air, along with the launch of MacBook Neo, which is captivating customers all around the world.”\n\n                 \n             \n                 “Our strong business performance during the March quarter generated over $28 billion in operating cash flow and drove new March quarter records for both operating cash flow and EPS,” said Kevan Parekh, Apple’s CFO. “Continued strong customer demand for our products and services once again helped us achieve a new all-time high for our installed base of active devices across all major product categories and geographic segments.”\n\n                 \n             \n                 Apple’s board of directors has declared a cash dividend of $0.27 per share of the Company’s common stock, an increase of 4 percent. The dividend is payable on May 14, 2026, to shareholders of record as of the close of business on May 11, 2026. The board of directors has also authorized an additional program to repurchase up to $100 billion of the Company’s common stock.\n\n                 \n             \n                 Apple will provide live streaming of its Q2 2026 financial results conference call beginning at 2:00 p.m. PT on April 30, 2026, at [apple.com/investor/earnings-call](https://apple.com/investor/earnings-call). The webcast will be available for replay for approximately two weeks thereafter.\n\n                 \n             \n         \n \n\n    \n    \n    \n\n\t\t\n\t\t\n        \n\t\t\t\n\t\t\t- \n                \n                \n                    Consolidated Financial Statements\n\n                    \n                \n            \n\n        \n\n    \n\n    \n    \n    \n\n    \n\n    \n    \n    \n\n    \n\n    \n    \n    \n\n    \n\n    \n    \n    \n\n    \n    \n    \n            © 2026 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.\n\n        \n\n\t\n\n            Stay up to date with the latest articles from Apple Newsroom.",
+        "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-01T00:41:20.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "AI will create jobs",
+        "summary": "It’s nice to see [Jensen talk about this](https://x.com/firstadopter/status/2050225746753331562), and it’s super obvious when you think about it.\n\nAI and immigration are fundamentally the same. There’",
+        "content": "It’s nice to see [Jensen talk about this](https://x.com/firstadopter/status/2050225746753331562), and it’s super obvious when you think about it.\n\nAI and immigration are fundamentally the same. There’s new people showing up, and hopefully everyone understands how and why immigration creates jobs.\n\nWants are effectively unlimited. It’s classic [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox) that if we make something more efficient, we end up using more of it. Or a cool aphorism I learned at Facebook, if you make the site 10% faster, people spend 5% more *total* time on it.\n\nNow, just like you get the wahh wahh crying people about how immigration lowers wages for native born Americans and we gotta keep the hard working immigrants out because you have some right to be lazy or something, you’ll get this about AI. AI will outcompete some humans at some jobs. But protectionism is for losers. The important thing is that the overall pie grows, and inequality stays somewhat in check, not by redistribution but by design.\n\nThere will be more to do than ever before.",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html",
+        "source": "the singularity is nearer",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-05-01T07:00:00.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Touch Typing Number Keys",
+        "summary": "By **Susam Pal** on 01 May 2026\n\n  I learnt touch typing about two decades ago when I was still at\n  university.  Although I took some typewriter lessons as a child,\n  those lessons did not stick with",
+        "content": "By **Susam Pal** on 01 May 2026\n\n  I learnt touch typing about two decades ago when I was still at\n  university.  Although I took some typewriter lessons as a child,\n  those lessons did not stick with me.  It was at university, when I\n  found a Java applet-based touch typing tutor on the web, that I\n  really learnt to touch type.  Since then, touch typing has been an\n  important part of my computing life.  I've sometimes read arguments\n  on the web downplaying touch typing as a skill, with claims like\n  'typing isn't the bottleneck, thinking is'.  While that may be true,\n  I still consider touch typing a useful skill, since it makes writing\n  documents, code and email feel much more fluid and pleasant.  It's\n  like playing a musical instrument with the correct technique, rather\n  than simply getting by without it.  One feels smooth and expressive\n  and the other feels raw and laboured.\n\n  Later in life, I also wrote a tool named\n  [QuickQWERTY](https://susam.net/quickqwerty.html) so that I could share the\n  joy of touch typing with my friends.  The tool teaches typing only\n  with the QWERTY layout.  I wrote it at a time when I did not know\n  much about the computing world, so I was not even aware that other\n  keyboard layouts existed.  As a result, only QWERTY is supported.\n  The tool is free and open source, so motivated individuals can\n  modify the lessons to support other keyboard layouts.  Some people\n  have indeed done so over the years.  Several of my friends used this\n  tool.  I know at least a few who benefitted from it and shared\n  similar sentiments about how touch typing made their computing\n  experience smoother.\n\n  Back in my university days, I had learnt a method in which the\n  digits 1 and 2 are typed with the left little\n  finger, 3 with the left ring finger and so on.  In this\n  approach, the digits 1 to 6 are typed with the\n  left hand and 7 to 0 with the right.\n\n  There is an alternative method in which only 1 is typed\n  with the left little finger, 2 with the left ring finger\n  and so on.  In this approach, the digits 1\n  to 5 are typed with the left hand and 6\n  to 0 with the right.\n\n  Both methods require typing 1 with the left little\n  finger.  I have often felt that this may not be the most efficient\n  way to type 1.  The little finger is shorter than the\n  others and reaching 1 often requires shifting the whole\n  hand slightly diagonally upwards.  I have therefore felt that using\n  the left ring finger for 1 might be more comfortable.\n\n  Last month, I trained myself to use the left ring finger to type\n  both 1 and 2.  This goes against almost every\n  typing guide out there, but I decided to forgo established practices\n  and explore on my own to find what feels right.  At first, I was\n  sceptical about whether I would be able to learn this method, since\n  it meant overcoming 20 years of muscle memory that I have relied on\n  almost every day.  However, developing the new muscle memory has\n  been surprisingly easy.\n\n  In fact, both the old and the new muscle memories now coexist and I\n  can switch between them at will without much trouble.  It is\n  remarkable how the brain can store conflicting muscle memories so\n  effortlessly.  So far, I am finding this new way of typing\n  1 and 2 more comfortable than either of the\n  two popular methods I described above.  I will continue typing this\n  way for the rest of this month and see how it feels.",
+        "url": "https://susam.net/touch-typing-number-keys.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 01 May 2026 00:00:00 +0000",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ On the Future of Apple’s Vision Platform",
+        "summary": "Juli Clover, writing at MacRumors under the rather incendiary headline “[Apple Has Given Up on the Vision Pro After M5 Refresh Flop](https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/)”:\n\n",
+        "content": "Juli Clover, writing at MacRumors under the rather incendiary headline “[Apple Has Given Up on the Vision Pro After M5 Refresh Flop](https://www.macrumors.com/2026/04/29/apple-vision-pro-m5-flop/)”:\n\n> Apple has all but given up on the Vision Pro after the M5 model\n> failed to revitalize interest in the device, MacRumors has\n> learned. Apple updated the Vision Pro with a faster M5 chip and a\n> more comfortable band in October 2025, but there were no other\n> hardware changes, and consumers still weren’t interested. [...]\n\n> \n> The Vision Pro has been unpopular since it first launched, and\n> Apple only sold around 600,000 units in total. Insider sources\n> told MacRumors that Apple has received an unusually high\n> percentage of returns, far exceeding any other modern Apple\n> product.\n\n> \n> Apple has apparently stopped work on the Vision Pro and the Vision\n> Pro team has been redistributed to other teams within Apple. Some\n> former Vision Pro team members are working on Siri, which is not a\n> surprise as Vision Pro chief Mike Rockwell has been leading the\n> Siri team since March 2025.\n\nThis report comes as news to everyone at Apple working in the Vision Product Group (VPG). Nothing about the future of the platform has changed recently. When it was a secret project, prior to unveiling, it was called the Technology Development Group (TDG) inside Apple. Then, when Vision Pro was unveiled, it became VPG. And then at some point the hardware went under Apple’s hardware group (led by John Ternus) and the software under the software group (led by Craig Federighi). So there have been changes, yes, but only the sort of changes that are natural when a product shifts from being a secret to being one of Apple’s regular non-secret platforms.\n\nAs for poor sales, I think it’s unquestionable that Vision Pro sales — and general enthusiasm — have been a disappointment. What momentum they had out of the gate [has seemingly petered out](https://www.techmeme.com/260101/p1#a260101p1). But the *optimistic* scenario inside Apple was not all that high. The best-case scenario was surely a bigger number of units than they’ve actually sold, but not *that* much more. There’s no realistic scenario where Vision Pro was an out-of-the-gate hit like, say, the iPad was. It’s an all-new device in an all-new product category that starts at $3,500 and costs more like $4,000 if you need corrective lenses. Before it debuted, [there were multiple reports from multiple sources](https://daringfireball.net/2024/10/vision_pro_bites_dog) that suggested (a) that Sony could only manufacture [a maximum of 900,000 displays per year](https://www.thelec.net/news/articleView.html?idxno=4559), capping dual-display Vision Pro headsets at 450,000 per year; and (b) that Apple itself “expected to ship fewer than half a million headsets in the first year of its release, according to people involved in its supply chain” ([per Wayne Ma at The Information](https://www.theinformation.com/articles/apples-learning-curve-how-headsets-design-caused-production-challenges)).\n\nLook at [how Apple unveiled the second-gen Vision Pro with M5](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/) — it was the definition of “low key”. I don’t think there was a single person in Cupertino — not one — who looked at first-generation Vision Pro sales and thought, “*I know what will turn this around in a big way: a second-generation speed bump where the M2 chip is upgraded to an M5!*” That speed bump [in October](https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/) was not intended to make a huge difference. It was just a signal that they’re still at it. [Speed bumps are good](https://daringfireball.net/2026/03/the_iphone_17e). (And it probably helps, not hurts, margins because the M5 is used on Macs and iPads too, and no other product still in production uses the M2.) Rather than anyone — literally anyone — at Apple being surprised that the October second-gen M5 update did not meaningfully change the sales trajectory, I think the entire company would have been flabbergasted (and caught flat-footed on supply) if it had.\n\nThis sentence from Clover’s report is doing a lot of work:\n\n> Apple has apparently stopped work on the Vision Pro and the Vision\n> Pro team has been redistributed to other teams within Apple. \n\nThere’s only one Vision hardware product to date, and that product, through two generations, is named Vision Pro. If Clover is saying that no one is working on a third-generation revision of the Vision Pro product we know today, maybe that’s correct. I don’t know. I certainly hope it’s correct. I think it was fine for Apple to do one new-generation speed bump of the original hardware. But going forward, they clearly need to do something significant for the *next* hardware. Ideally, two things: a much more appealing “Vision Pro” *and* a lower-priced “Vision Air” or just plain “Vision” or, hell, a “Vision Neo”. Take a new crack at the high end with a lighter-weight higher-resolution Vision Pro and open up new markets with something starting at under $2,000.\n\nBut I don’t think anyone is reading that sentence from Clover’s report that way. It implies — along with the headline — that Apple is just giving up on the whole platform. [That’s how everyone is reading it](https://bsky.app/profile/carnage4life.bsky.social/post/3mkoaloygjc25), and it’s clearly what the article, and especially headline, implies.\n\nI don’t think that’s true, at all. There’s a VisionOS 27 update coming at WWDC and new hardware in the works. Not just AR glasses, but immersive Vision headsets. There are, I believe, as many people at Apple working on VisionOS software and immersive content today as there ever have been. It’s full steam ahead. The pressure is on, I’m sure, but there’s no doom and gloom. The Apple folks in the Vision group aren’t oblivious.[1](#fn1-2026-04-30) They actually know the roadmap, and they know just how much work is between where the platform is today and where it needs to be for it to be a meaningful contributor to Apple’s bottom line. But they’re there, working on it. I don’t know who told MacRumors what (and their sourcing is just “MacRumors has learned”), but I know for a fact that it is not true that the teams working on the Vision platform have “been redistributed to other teams within Apple.”\n\nIt’s a strange thing for MacRumors to state so categorically something I believe has no truth to it whatsoever. And if there is *some* truth to it, it’s not what the article implies, which is that the whole thing has been shut down, somehow without the world knowing until now. Just two weeks ago John Ternus and Greg Joswiak were interviewed by Mark Spoonauer at Tom’s Guide, and [both spoke of a bright future for spatial computing](https://www.youtube.com/watch?v=kkBudtxgor0&t=746s). Joz describing Vision Pro as a product pulled into the present from the future is a good way of emphasizing the *yet* regarding a product — and category — that’s not there yet. Apple executives know how to give a non-answer answer to a question they don’t want to answer honestly. (Exhibit A: [Tim Cook “squashing” rumors that he was about to retire](https://daringfireball.net/2026/03/squashing) ... one month before he announced he was stepping aside as CEO.) The way Ternus and Joz were talking about the platform, and immersive content, *this month* was not lacking in enthusiasm. It was asking for patience.\n\nIt’s certainly possible that this Vision thing ultimately isn’t going to work out and Apple *will* throw in the towel on it. But that hasn’t happened, and if it does, it’s not going to come out of nowhere as a story on MacRumors for the people in VPG working on it. When Apple threw in the towel on Project Titan (the car project) in February 2024, [an all-hands was held to break the news](https://techcrunch.com/2024/02/27/apple-cancels-electric-car-project-titan/), led by then-COO Jeff Williams and Titan project lead Kevin Lynch. The team didn’t learn it from a fucking leak.",
+        "url": "https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-05-01T00:11:15.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Patching and forking in package managers",
+        "summary": "When a dependency has a known vulnerability and no maintainer to release a fix, you have to fix it yourself. Clone the source, apply the patch, get the patched version back into your dependency tree. ",
+        "content": "When a dependency has a known vulnerability and no maintainer to release a fix, you have to fix it yourself. Clone the source, apply the patch, get the patched version back into your dependency tree. The volume of reported CVEs is going to rise, and many will land in packages where nobody is around to cut a release.\n\nSystem package managers handled this a long time ago. Debian’s `debian/patches/` with quilt and DEP-3 headers, RPM’s `Patch0:` directives in spec files, Gentoo’s `/etc/portage/patches/`, Nix’s `patches` attribute in derivations, Homebrew’s `patch do ... end` blocks in formulae. Distribution maintainers are expected to carry deltas against upstream, and the tooling is designed around that assumption.\n\nLanguage package managers were designed around a different assumption: the registry version is authoritative, the user picks which version they want, and nobody modifies what’s inside. When upstream can’t or won’t release a fix, users hit tooling that wasn’t built for the situation they’re in.\n\nWhat you need depends on the situation. Redirecting a dependency to a fork you control is the most common workaround. Overriding what the resolver picks for a transitive dependency buried in your tree requires different tooling. Patching a package in place without maintaining a fork is the lightest option when it’s available. And sometimes you need to substitute one package for another entirely.\n\n### Redirecting to a fork\n\nNearly every language package manager can point a dependency at a git repository or local path instead of the registry. Cargo uses a [`[patch]`](https://doc.rust-lang.org/cargo/reference/overriding-dependencies.html) section in `Cargo.toml`:\n\n```\n[patch.crates-io]\nserde = { git = \"https://github.com/yourfork/serde.git\", branch = \"fix-cve\" }\n\n```\n\nGo modules have the [`replace`](https://go.dev/ref/mod#go-mod-file-replace) directive:\n\n```\nreplace github.com/original/pkg => github.com/yourfork/pkg v1.4.1-fixed\n\n```\n\nBundler takes [`:git` or `:path`](https://bundler.io/guides/git.html) on any gem:\n\n```\ngem 'httpclient', git: 'https://github.com/yourfork/httpclient.git', branch: 'fix-ssl'\n\n```\n\nThe rest of the field:\n\n  - [npm](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#git-urls-as-dependencies), pnpm, Yarn, and Bun accept git URLs and the `npm:` aliasing protocol in `package.json`.\n\n  - [pip](https://pip.pypa.io/en/stable/topics/vcs-support/), [Poetry](https://python-poetry.org/docs/dependency-specification/#git-dependencies), and [uv](https://docs.astral.sh/uv/concepts/projects/dependencies/#dependency-sources) support VCS URLs in their respective Python config formats.\n\n  - [Mix](https://hexdocs.pm/mix/Mix.Tasks.Deps.html) and [Pub](https://dart.dev/tools/pub/dependencies) take git and path options on dependency entries.\n\n  - [Composer](https://getcomposer.org/doc/05-repositories.md#vcs) adds a VCS repository that shadows the Packagist version.\n\n  - [Swift PM](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0219-package-manager-dependency-mirroring.md) has dependency mirroring via CLI config.\n\n  - [Gradle](https://docs.gradle.org/current/userguide/composite_builds.html) has composite builds. Maven uses the local repository. [NuGet](https://learn.microsoft.com/en-us/nuget/hosting-packages/local-feeds) supports local package feeds.\n\n  - [Stack](https://docs.haskellstack.org/en/stable/configure/yaml/project/#extra-deps) and [Cabal](https://cabal.readthedocs.io/en/latest/cabal-project-description-file.html#taking-a-dependency-from-a-source-code-repository) take git dependencies in their project config files.\n\nGo’s [gohack](https://github.com/rogpeppe/gohack) automates the manual part of this workflow: it checks out a module’s source to a local directory and adds the `replace` directive to `go.mod` in one command, so you can start editing immediately without setting up a fork repo.\n\n### Overriding transitive dependencies\n\nRedirecting a direct dependency is straightforward. The harder case is when the vulnerable package is transitive, pulled in by a dependency of a dependency rather than anything in your manifest.\n\nbyroot described this well in [a recent post about Bundler](https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html). He wanted to upgrade the `openssl` gem, but `web-push` pinned it to `~> 2.2`. Upgrading `web-push` required a new version of `jwt`, which four other gems pinned to `~> 2.0`. None of those gems had seen a release in years. The dependency tree was stuck on pessimistic version constraints written by maintainers who were no longer around to relax them.\n\nHis proposed fix: a `force: true` option that tells Bundler to override any upstream constraint:\n\n```\ngem 'openssl', '>= 3.0', force: true\n\n```\n\nBundler doesn’t support this. The workaround is pointing each blocking dependency at a git repo with relaxed constraints, which means maintaining multiple forks to fix what is really a version-bounds problem.\n\nCargo’s [`[patch]`](https://doc.rust-lang.org/cargo/reference/overriding-dependencies.html) handles this case because a patch entry replaces the dependency everywhere in the tree, direct or transitive. The patched version must be semver-compatible with the original, so it won’t help if you need to cross a major version boundary. Go’s [`replace`](https://go.dev/ref/mod#go-mod-file-replace) works the same way but has no such constraint. Go also has [`exclude`](https://go.dev/ref/mod#go-mod-file-exclude) to block specific versions and force the resolver to pick the next valid one.\n\nnpm has [`overrides`](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#overrides) in `package.json`:\n\n```\n{\n  \"overrides\": {\n    \"lodash\": \"4.17.21\"\n  }\n}\n\n```\n\nNested objects scope the override to a specific path through the tree. The other JavaScript package managers have the same capability:\n\n  - [pnpm](https://pnpm.io/settings#overrides) has `pnpm.overrides` with a `parent>child` scoping syntax, and supports the `npm:` protocol inside overrides to substitute one package for another as part of the override.\n\n  - [Yarn](https://yarnpkg.com/configuration/manifest#resolutions) has had `resolutions` since v1.\n\n  - Bun reads both `overrides` and `resolutions`.\n\nOther ecosystems with built-in override mechanisms:\n\n  - [Mix](https://hexdocs.pm/mix/Mix.Tasks.Deps.html) uses `override: true` on dependency entries to force the top-level version constraint.\n\n  - [Pub](https://dart.dev/tools/pub/dependencies#dependency-overrides) `dependency_overrides` replaces all references to a package throughout the tree.\n\n  - [Gradle](https://docs.gradle.org/current/userguide/resolution_rules.html) has `strictly` constraints and `resolutionStrategy.force`.\n\n  - [Maven](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#dependency-management) `dependencyManagement` controls versions for both direct and transitive dependencies.\n\n  - [NuGet](https://learn.microsoft.com/en-us/nuget/consume-packages/central-package-management) Central Package Management with transitive pinning does the same.\n\nHaskell takes a different angle with [`allow-newer`](https://cabal.readthedocs.io/en/latest/cabal-project-description.html#cfg-field-allow-newer), which relaxes upper version bounds rather than forcing a specific version:\n\n```\nallow-newer: my-package:aeson, my-package:text\n\n```\n\nWhen a package declares it needs `base < 4.19` and you’re on 4.20, `allow-newer` tells the resolver to ignore the upper bound and try it anyway.\n\nuv added [`override-dependencies`](https://docs.astral.sh/uv/concepts/projects/dependencies/#dependency-overrides) in `pyproject.toml`:\n\n```\n[tool.uv]\noverride-dependencies = [\"werkzeug==2.3.0\"]\n\n```\n\npip has no override mechanism. Constraint files add bounds but can’t contradict what packages declare. Poetry had a [feature request](https://github.com/python-poetry/poetry/issues/4991) for overrides in 2022, closed as not planned.\n\n### Applying patches\n\nApplying a diff to a package as it comes off the registry is the lightest-weight fix. You keep the original package, the original version in your lockfile, and layer a change on top. When upstream publishes a proper fix, you drop the patch and update normally. System package managers all work this way. Among language package managers, three have it built in.\n\n[pnpm](https://pnpm.io/cli/patch): run `pnpm patch <package>`, edit the extracted source, run `pnpm patch-commit <path>`. A `.patch` file is saved to the project and recorded in `package.json` under `patchedDependencies`. Patches are reapplied on every install.\n\n[Yarn Berry](https://yarnpkg.com/cli/patch): `yarn patch` with the same workflow. Patches integrate with the `patch:` protocol in the lockfile and go through Yarn’s checksum verification.\n\n[Bun](https://bun.sh/docs/install/patch): `bun patch <package>`, edit in `node_modules/`, `bun patch --commit <package>`.\n\nFor npm and Yarn Classic, the third-party [patch-package](https://github.com/ds300/patch-package) library fills the gap. Modify the package in `node_modules/`, run `npx patch-package <pkg>`, and wire up a `postinstall` script to reapply on install.\n\nComposer has [cweagans/composer-patches](https://github.com/cweagans/composer-patches), whose 2.0 release added a `patches.lock.json` for reproducibility. Patches can be local files or remote URLs and are applied during `composer install`. [vaimo/composer-patches](https://github.com/vaimo/composer-patches) is an alternative that adds per-package patch definitions (so libraries can ship patches for their own dependencies) and more control over patch application order and depth.\n\nCargo has the third-party [cargo-patch](https://crates.io/crates/cargo-patch) crate, which downloads crate source, applies `.patch` files, and writes the result to a directory for use with a `[patch.crates-io]` entry pointing at the patched output. [patch-crate](https://github.com/mokeyish/cargo-patch-crate) takes a workflow closer to patch-package: edit the crate source in place and generate the diff automatically.\n\nMaven once had an [official patch plugin](https://maven.apache.org/plugins/maven-patch-plugin/) that applied diffs using GNU `patch` under the hood, but it’s been retired.\n\nBeyond those, the remaining language ecosystems expect you to fork. Bundler, Go, uv, Poetry, Mix, Swift PM, NuGet, Stack, and Cabal have no patch-file mechanism, built-in or third-party. pip has [patch-package](https://pypi.org/project/patch-package/), Pub has [patch_package](https://pub.dev/packages/patch_package), and Gradle has [brambolt/gradle-patching](https://github.com/brambolt/gradle-patching), but none are widely adopted.\n\n### Substituting packages\n\nbyroot’s other proposal for Bundler was the ability to install one gem as a drop-in replacement for another:\n\n```\ngem \"byroot-httpclient\", as: \"httpclient\"\n\n```\n\nThe context was the `httpclient` gem, which went unreleased from 2016 until 2025 while its vendored SSL root certificates expired and broke users. Everyone who needed a working version had to maintain their own fork. If someone publishes a maintained fork under a new name, you need it to satisfy the dependency constraints that other packages declare on the original.\n\nThe `npm:` protocol does this in the JavaScript ecosystem:\n\n```\n{\n  \"dependencies\": {\n    \"original-name\": \"npm:@yourorg/forked-name@^2.0.0\"\n  }\n}\n\n```\n\npnpm, Yarn, and Bun support it too. Other ecosystems with substitution mechanisms:\n\n  - [Composer](https://getcomposer.org/doc/04-schema.md#replace) `replace` declares that your package provides the same thing as another, preventing both from being installed.\n\n  - [Gradle](https://docs.gradle.org/current/userguide/resolution_rules.html#sec:dependency_substitution_rules) `dependencySubstitution` rules can swap any module for another at resolution time.\n\n  - ManageIQ’s [bundler-inject](https://github.com/ManageIQ/bundler-inject) plugin adds an `override_gem` command that redirects gems to forks or local paths via `bundler.d/*.rb` files without touching the Gemfile itself, the closest thing in the Ruby ecosystem to a built-in substitution mechanism.\n\nbyroot’s broader argument is about control: the application developer’s manifest is their domain, and they should be able to override any upstream constraint in it, especially when the person who wrote that constraint is no longer around. Without override and substitution capabilities, the alternative is maintaining forks for what could be a two-line fix, and maintaining them indefinitely if upstream never comes back.\n\nBoth approaches bring their own maintenance burden. A fork needs to stay in sync with upstream changes unrelated to the vulnerability. GitHub forks have issues, Actions, Dependabot, and security features all disabled by default, so a fork needs manual setup before it works as a proper maintained project. For a two-line security fix, that’s a lot of infrastructure to carry.\n\nPatches are lighter, but they change what the lockfile entry means: you’re running code that doesn’t match the version recorded in the lock, and tools that audit dependencies against the lockfile won’t see the patch. SBOMs generated from the lockfile will list the unpatched version. Under the EU Cyber Resilience Act, which requires accurate dependency inventories for products with digital elements, that gap between what you’re running and what your tooling reports becomes a compliance problem.\n\nVendoring the source into your repository sidesteps the package manager entirely, but trades one set of problems for another: you’re now responsible for the entire package, not just the patch.\n\nSystem package managers were designed around the assumption that carrying patches is part of the job. Language package managers were designed around the assumption that it shouldn’t be. As AI tooling makes vulnerability discovery faster, the number of dead packages with known CVEs will grow.",
+        "url": "https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-05-01T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet ",
+        "summary": "## Meta in row after workers who say they saw smart glasses users having sex lose jobs\n\n2 days ago\n\nChris VallanceSenior technology reporter\n\n![](https://static.files.bbci.co.uk/bbcdotcom/web/20260427",
+        "content": "## Meta in row after workers who say they saw smart glasses users having sex lose jobs\n\n2 days ago\n\nChris VallanceSenior technology reporter\n\n![](https://static.files.bbci.co.uk/bbcdotcom/web/20260427-074339-4d487e3684-web-3.2.0-4/grey-placeholder.png)![AFP via Getty Images A set of black Meta Ray-Ban smart glasses on a table.](https://ichef.bbci.co.uk/news/480/cpsprodpb/ef60/live/2404fb20-4498-11f1-b4a4-6ff2bccf200b.jpg.webp)AFP via Getty Images\n\nMeta is under pressure to explain why it cancelled a major contract with a company it was using to train AI, shortly after some of its Kenya-based workers alleged they had to view graphic content captured by Meta smart glasses.\n\nLess than two months later, Meta ended its contract with Sama, which Sama said would result in 1,108 workers being made redundant.\n\nMeta says it's because Sama did not meet its standards, a criticism Sama rejects. A Kenyan workers' organisation alleges Meta's decision was caused by the staff speaking out.\n\nMeta has not addressed that allegation but told BBC News in a statement it had \"decided to end our work with Sama because they don't meet our standards\".\n\nSama has defended its work.\n\n\"Sama has consistently met the operational, security and quality standards required across our client engagements, including with Meta,\" it said in a statement.\n\n\"At no point were we notified of any failure to meet those standards, and we stand firmly behind the quality and integrity of our work.\"\n\n## 'Naked bodies'\n\nIn late February, Swedish newspapers Svenska Dagbladet (SvD) and Goteborgs-Posten (GP) published an investigation which included the accounts of unnamed workers who had been asked to review videos filmed by Meta's glasses.\n\n\"We see everything - from living rooms to naked bodies,\" one worker reportedly said.\n\nAt the time of the publication, Meta admitted subcontracted workers might sometimes review content filmed on its smart glasses when people shared it with Meta AI.\n\nIt said this was for the purpose of improving the customer experience, and was a common practice among other companies.\n\nHowever, the revelations have prompted regulators to act.\n\nShortly after the Swedish investigation, the UK data watchdog, the Information Commissioners Office (ICO) [wrote to Meta](https://www.bbc.co.uk/news/articles/c0q33nvj0qpo) about what it called a \"concerning\" report.\n\nThe Office of the Data Protection Commissioner in Kenya also announced it was commencing an investigation into privacy concerns raised by the glasses.\n\nIn a statement in response to news of the redundancies a Meta spokesperson told the BBC, \"last month, we paused our work with Sama while we looked into these claims. \n\n\"We take them seriously. Photos and videos are private to users. Humans review AI content to improve product performance, for which we get clear user consent.\"\n\n## 'Standards of secrecy'\n\nFeatures can include translating text, or responding to questions about what the user is looking at - particularly useful for those who are blind or partially sighted.\n\nHowever, as the devices have grown in popularity, so too have concerns about their misuse.\n\nThe workers the Swedish newspapers spoke to were data annotators, teaching Meta's AI to interpret images by manually labelling content. \n\nThe workers said they also reviewed transcripts of interactions with the AI to check it had answered questions adequately.\n\nIn one instance, a worker told the newspapers, a man's glasses were left recording in a bedroom where they later filmed a woman, apparently the man's wife, undressing.\n\nMeta's glasses have a light in the corner of the frames that is turned on when the built-in camera is recording.\n\nSama, a US headquartered outsourcing business, which began as a non-profit organisation with the aim of increasing employment through the provision of tech jobs, is now an \"ethical\" B-corp.\n\nBut this is not the first time a contract with Meta has soured. \n\nAn earlier deal to moderate Facebook [posts attracted criticism](https://www.bbc.co.uk/news/technology-66465231), alongside legal action by former employees - some of whom described being exposed to graphic, traumatising content.\n\nSama later said it regretted taking the work.\n\nNaftali Wambalo of the Africa Tech Workers Movement, who is a petitioner in the continuing legal action around that case, told the BBC he had also spoken with workers involved in the smart glasses contract. \n\nWambalo believed the reason for Meta's ending the work was that it didn't want workers speaking out about human workers sometimes reviewing content captured by the smart glasses.\n\n\"What I think are the standards they are talking about here are standards of secrecy,\" he told BBC News.\n\nThe BBC has asked Meta to respond to this point. \n\nThe tech giant has previously said that users were made aware of the possibility of human review in the its terms of service.\n\nMercy Mutemi a lawyer representing the petitioners, who is also executive director of campaign group the Oversight Lab, said Meta's statement should be a warning to the Kenyan government.\n\n\"We've been told that this is our entry route into the AI ecosystem,\" she told the BBC. \"This is a very flimsy foundation to build your entire industry on.\"\n\n![](https://static.files.bbci.co.uk/bbcdotcom/web/20260427-074339-4d487e3684-web-3.2.0-4/grey-placeholder.png)![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/480/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)",
+        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-05-01T21:00:36.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "SBC Clusters are a terrible value, but they're fun anyway - ![DeskPi Super4C SBC Cluster Board in Waveshare HomeRack Mini Rack](https://www.jeffgeerli...",
+    "iNaturalist Sightings - I wanted to see my [iNaturalist](https://www.inaturalist.org/) observations - across two s...",
+    "The Talk Show: ‘Food and Beverage Director’ - ## [The Talk Show](https://daringfireball.net/thetalkshow/) ## ‘Food and Beverage Director...",
+    "Scientology ‘Speed Running’ Trend - On any given day, Los Angeles’s Hollywood Boulevard teems with tourists and street perform...",
+    "Tim Cook’s Clever Solution to the Tariff Refund Puzzle - ![Tim Cook](https://i0.wp.com/sixcolors.com/wp-content/uploads/2017/01/cook-2016-bleed.jpg..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "com",
+      "count": 5
+    },
+    {
+      "word": "source",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "tim",
+      "count": 4
+    },
+    {
+      "word": "cook",
+      "count": 4
+    },
+    {
+      "word": "ago",
+      "count": 3
+    },
+    {
+      "word": "open",
+      "count": 3
+    },
+    {
+      "word": "part",
+      "count": 3
+    },
+    {
+      "word": "ad",
+      "count": 3
+    },
+    {
+      "word": "lib",
+      "count": 3
+    },
+    {
+      "word": "dynamic",
+      "count": 3
+    },
+    {
+      "word": "workflows",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "inaturalist",
+      "count": 3
+    },
+    {
+      "word": "talk",
+      "count": 3
+    },
+    {
+      "word": "show",
+      "count": 3
+    },
+    {
+      "word": "approximating",
+      "count": 2
+    },
+    {
+      "word": "days",
+      "count": 2
+    },
+    {
+      "word": "wrote",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "clever",
+      "count": 2
+    },
+    {
+      "word": "simple",
+      "count": 2
+    },
+    {
+      "word": "example",
+      "count": 2
+    },
+    {
+      "word": "nhs",
+      "count": 2
+    },
+    {
+      "word": "uk",
+      "count": 2
+    },
+    {
+      "word": "developing",
+      "count": 2
+    },
+    {
+      "word": "cross-process",
+      "count": 2
+    },
+    {
+      "word": "reader",
+      "count": 2
+    },
+    {
+      "word": "writer",
+      "count": 2
+    },
+    {
+      "word": "lock",
+      "count": 2
+    },
+    {
+      "word": "limited",
+      "count": 2
+    },
+    {
+      "word": "readers",
+      "count": 2
+    },
+    {
+      "word": "abandonment",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "behind",
+      "count": 2
+    },
+    {
+      "word": "blood",
+      "count": 2
+    },
+    {
+      "word": "tree",
+      "count": 2
+    },
+    {
+      "word": "music",
+      "count": 2
+    },
+    {
+      "word": "best",
+      "count": 2
+    },
+    {
+      "word": "known",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "engineering",
+      "count": 2
+    },
+    {
+      "word": "durable",
+      "count": 2
+    },
+    {
+      "word": "execution",
+      "count": 2
+    },
+    {
+      "word": "built",
+      "count": 2
+    },
+    {
+      "word": "workers",
+      "count": 2
+    },
+    {
+      "word": "returns",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "smart",
+      "count": 2
+    },
+    {
+      "word": "sbc",
+      "count": 2
+    },
+    {
+      "word": "super",
+      "count": 2
+    },
+    {
+      "word": "deskpi-super",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "food",
+      "count": 2
+    },
+    {
+      "word": "beverage",
+      "count": 2
+    },
+    {
+      "word": "director",
+      "count": 2
+    },
+    {
+      "word": "mg",
+      "count": 2
+    },
+    {
+      "word": "siegler",
+      "count": 2
+    },
+    {
+      "word": "given",
+      "count": 2
+    },
+    {
+      "word": "kick",
+      "count": 2
+    },
+    {
+      "word": "offline",
+      "count": 2
+    },
+    {
+      "word": "command",
+      "count": 2
+    },
+    {
+      "word": "line",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "jobs",
+      "count": 2
+    },
+    {
+      "word": "touch",
+      "count": 2
+    },
+    {
+      "word": "typing",
+      "count": 2
+    },
+    {
+      "word": "lessons",
+      "count": 2
+    },
+    {
+      "word": "vision",
+      "count": 2
+    },
+    {
+      "word": "macrumors",
+      "count": 2
+    },
+    {
+      "word": "flop",
+      "count": 2
+    },
+    {
+      "word": "dependency",
+      "count": 2
+    },
+    {
+      "word": "fix",
+      "count": 2
+    },
+    {
+      "word": "meta",
+      "count": 2
+    },
+    {
+      "word": "glasses",
+      "count": 2
+    }
+  ]
+}
