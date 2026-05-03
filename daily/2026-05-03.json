@@ -1,0 +1,607 @@
+{
+  "date": "2026-05-03",
+  "stats": {
+    "total_fetched": 272,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Vertically Aligning Roman Numerals in Code",
+        "summary": "I have a PHP function which uses Roman Numerals. It looks like this: $romanNumerals = [ \"Ⅿ\" => 1000, \"ⅭⅯ\" => 900, \"Ⅾ\" => 500, \"ⅭⅮ\" => 400, \"Ⅽ\" => 100, \"ⅩC\" => 90, \"Ⅼ\" => 50, \"ⅩⅬ\" => 40, \"Ⅹ\" => 10, \"Ⅸ\" => 9, \"Ⅷ\" => 8, \"Ⅶ\"...",
+        "url": "https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Sun, 03 May 2026 11:34:59 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The shape of a guitar pick",
+        "summary": "I saw a post on X that plotted the function (log x)² + (log y)² = 1. Of course the plot of x² + y² = 1 is a circle, but I never thought what taking logs would do to the shape. Here’s what the contours look like setting t...",
+        "url": "https://www.johndcook.com/blog/2026/05/03/guitar-pick/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 03 May 2026 20:49:41 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft’s open sourcing of 86-DOS and what it means",
+        "summary": "On April 28, 2026, Microsoft unexpectedly open sourced 86-DOS. This is the direct ancestor to PC DOS 1.0. I’ve written a number of things about the controversies around PC DOS 1.0 and early versions of MS-DOS, so of cour...",
+        "url": "https://dfarq.homeip.net/microsofts-open-sourcing-of-86-dos-and-what-it-means/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-open-sourcing-of-86-dos-and-what-it-means",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 03 May 2026 17:20:17 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "callgraph analysis",
+        "summary": "I recently wrote a post for work titled \"Callgraph Analysis\", about how to write a custom lint with access to the full call graph of a program. You can read it on my work's blog.",
+        "url": "https://jyn.dev/callgraph-analysis/",
+        "source": "the website of jyn",
+        "tags": [
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "2026-05-03T00:00:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-03T22:30:07.472Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Punk, or why I don’t stream anymore",
+        "summary": "> If you’re the sun, I’m a black hole\n\n> – The Stephen Hawking, Say Anything\n\nWhat killed the hacker culture I grew up in was spectacle. You can consume it without participating, and even worse it has",
+        "content": "> If you’re the sun, I’m a black hole\n\n> – The Stephen Hawking, Say Anything\n\nWhat killed the hacker culture I grew up in was spectacle. You can consume it without participating, and even worse it has signaling value. I never did CTFs to put them on my resume. I don’t even have a resume I take seriously. Just a battle between me and a machine and the glorification of my ego, sometimes public, but never performative. There was no purpose beyond the thing. The streams by their nature became no longer any truthful reflection of self, just a prediction of what you want on them, and you can’t stop this because we are permeable.\n\nI’ve been scraping dating sites and feeding them to ChatGPT, and it’s amazing how few of the profiles still say anything about the person. There are no rough edges, it’s basically marketing copy. Reflected back and forth in their heads with this “society” mirror so many times that there’s no identity or coherence left, just a mush of diffuse monochrome light.\n\nThe streams are wireheading, aka ‘felt completion without world contact.’ You watch and you feel a version of what I feel. But the difference is that you didn’t do anything. And in so much as there is a you, it isn’t steering. Now I realize that the non steering you is everywhere. I’d say they still claim they are people, but I’m not totally sure they would.\n\nAI is making this all so much worse. When you are prompting you feel like you are steering, but are you really? Would you know if you weren’t? I love analysis YouTube videos but it’s really the same thing and I need to stop. Your food is prechewed for you. The caged tiger prefers a pot of meat slop to an antelope they have to chase.\n\nAnd it’s not like there’s anywhere to go. The real world is strip malls and axe throwing and escape rooms. Oh god people actually go on a hinge date to axe throwing and think it’s the real world.\n\nIsolation is basically impossible because the Internet follows you everywhere. And it’s perfectly uniform, there is no other Internet, just a place with five corporate towns and some Chinese ones that are really hard to visit if you don’t speak Chinese.\n\nI tried having a flip phone once (2014), but you couldn’t find out what time the movies were playing because moviephone just redirected you to their app. You can’t isolate in that old world, because the old world doesn’t exist. It was outcompeted.\n\nThe normal strategies you have against this won’t work. They didn’t take away the thing, they built an awful cancerous version of it that outcompetes yours. The early pickup stuff was so good, then you get the transition with Roosh and now you all get the Andrew Tate you deserve.\n\nMan I wish tattoos still made you unemployable then I’d go get some. Maybe the new tattoos are just like being racist or something, but that’s hard to do when your heart isn’t in it and they will eventually find some way to absorb that. The machine takes your culture and sells a shitty version of it back to you.\n\nI don’t think I’m properly capturing the scope of the machine. First you build the fence to keep the animals out then you build the fence to keep the animals in. It’s a Fullmetal Alchemist homunculus maybe it has already eaten your soul.\n\nI don’t really see how this gets better, I just know that everything eventually ends. But it was never the terminator you had to worry about, it was the price required to create the philosopher’s stone. You won’t be killed by bullets, you’ll be transmuted into compatible material.\n\nChatGPT told me to end it there. I’m still smarter than it, but by less and less each year. I really am excited to see what happens, I don’t think it’s what a lot of people think. The SF takes are so hilariously out of touch, it will actually be them who AI eats first, so there will be some schadenfreude in that, but then we are all still here.\n\nAfter the revolution, there’s reconstruction. A reminder that most revolutions suck balls and make things worse, you just remember the good ones. And this revolution isn’t AI, AI is just the atomic bomb of a brutal information war that’s been raging for decades.\n\nWe aren’t going to get the World Wars, they were products of the Industrial Revolution. They only wanted your body, not your soul. The new war demands your inner reality. The new war will be weird in all sorts of new ways we can’t even imagine yet.\n\nlol remember all the idiots who said we were at the end of history?",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+        "source": "the singularity is nearer",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-03T07:00:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "png-cmp: like cmp for PNGs",
+        "summary": "[`png-cmp`](https://codeberg.org/EvanHahn/png-cmp) is a program I built that checks if two PNGs are visually equivalent. It’s inspired by the [`cmp` command](https://pubs.opengroup.org/onlinepubs/9799",
+        "content": "[`png-cmp`](https://codeberg.org/EvanHahn/png-cmp) is a program I built that checks if two PNGs are visually equivalent. It’s inspired by the [`cmp` command](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/cmp.html). Here’s how you use it:\n\nLike `cmp`, it silently exits if the images are identical, and gives an error if they’re different.\n\nUnlike `cmp`, it checks pixel data, not binary data. PNGs can *look* the same but be stored differently. For example, `png-cmp` ignores text metadata.\n\nI was recently doing an experiment where I wanted to check if two PNGs were visually identical, so I built a tool for it!\n\n[Grab the source code here.](https://codeberg.org/EvanHahn/png-cmp)",
+        "url": "https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/",
+        "source": "Evan Hahn (dot com)",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Sun, 03 May 2026 00:00:00 +0000",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Anthropic",
+        "summary": "3rd May 2026\n\n> We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to ",
+        "content": "3rd May 2026\n\n> We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situations, Claude expressed no sycophancy—only 9% of conversations included sycophantic behavior (Figure 2). But two domains were exceptions: we saw sycophantic behavior in 38% of conversations focused on spirituality, and 25% of conversations on relationships.\n\n— [Anthropic](https://www.anthropic.com/research/claude-personal-guidance), How people ask Claude for personal guidance",
+        "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-03T15:13:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "QuickQWERTY 1.2.3",
+        "summary": "By **Susam Pal** on 03 May 2026\n\n  [QuickQWERTY 1.2.3](https://susam.net/quickqwerty.html) is now\n  available.  QuickQWERTY is a web-based touch typing tutor for QWERTY\n  keyboards that runs directly ",
+        "content": "By **Susam Pal** on 03 May 2026\n\n  [QuickQWERTY 1.2.3](https://susam.net/quickqwerty.html) is now\n  available.  QuickQWERTY is a web-based touch typing tutor for QWERTY\n  keyboards that runs directly in the browser.\n\n  This release includes two small bug fixes.  In the\n  [previous release](https://susam.net/code/news/quickqwerty/1.2.2.html), QuickQWERTY source code\n  management moved from GitHub to Codeberg.  During that update, the\n  licence link in the footer was updated incorrectly.  The broken\n  licence link has now been fixed.\n\n  Further, there was a minor bug that caused a redundant dialog box to\n  appear while switching between 6-7 split and 5-6 split.  Units 16 to\n  20 contain two links labeled '6-7 split' and '5-6 split' which allow\n  you to select how you want to split the number keys between left and\n  right hands.  Clicking either of those links brings up a dialog that\n  explains what the two splits mean and prompts you to confirm in\n  order to make the switch.  Say, the '6-7 split' was already the\n  chosen split.  Clicking the '6-7 split' label triggered the dialog\n  box unnecessarily.  A dialog was unnecessary in that case since if\n  you were already on the '6-7 split', clicking the '6-7 split' label\n  resulted in no switch.  This unnecessary dialog has now been\n  eliminated.\n\n  To try out QuickQWERTY, please visit\n  [quickqwerty.html](https://susam.net/quickqwerty.html).  The\n  source code of QuickQWERTY is available under the terms of the MIT\n  licence at [codeberg.org/susam/quickqwerty](https://codeberg.org/susam/quickqwerty).",
+        "url": "https://susam.net/code/news/quickqwerty/1.2.3.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-03T00:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Minimal Viable Zig Error Contexts",
+        "summary": "May 3, 2026\n        \n\n        \n          \n```\nfn process_file(io: Io, path: []const u8) !void {\n    errdefer log.err(\"path={s}\", .{path});\n\n    const fd = try Io.Dir.cwd().openFile(io, path, .{});\n   ",
+        "content": "May 3, 2026\n        \n\n        \n          \n```\nfn process_file(io: Io, path: []const u8) !void {\n    errdefer log.err(\"path={s}\", .{path});\n\n    const fd = try Io.Dir.cwd().openFile(io, path, .{});\n    defer fd.close(io);\n\n    // ...\n}\n```\n\n        \n        \n          Out of the box, Zig provides minimal and sufficient facilities for\n          error *handling* —\n          [strongly-typed error codes](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html). Error *reporting* is left to\n          the user. Idiomatic solution is to pass a `Diagnostics` out\n          parameter (“sink”) to materialize human-readable strings as needed.\n        \n\n        \n          Diagnostics pattern works well for “production” code, but for more\n          script-y code it adds too much friction relative to the default option\n          of a plain\n          `try fallible()`,\n          which of course gives a less than ideal message on failure:\n        \n\n        \n          \n```\nλ zig build\nerror: FileNotFound\n~/.cache/zig/p/../lib/std/Io/Threaded.zig:4866:35: 0x1044126c7 in dirOpenFilePosix (fail)\n                        .NOENT => return error.FileNotFound,\n                                  ^\n~/.cache/zig/p/../lib/std/Io/Dir.zig:578:5: 0x104347d8b in openFile (fail)\n    return io.vtable.dirOpenFile(io.userdata, dir, sub_path, options);\n    ^\n~/fail/main.zig:10:16: 0x10443da5f in f (fail)\n    const fd = try Io.Dir.cwd().openFile(io, path, .{});\n               ^\n~/fail/main.zig:6:5: 0x10443db47 in main (fail)\n    try process_file(io, \"data.txt\");\n    ^\n```\n\n        \n        \n          Error trace is helpful, but knowing *which* file is the problem\n          is even more so.\n        \n\n        \n          The first attempt at finding a middle ground between fully-fledged\n          diagnostics sink pattern and a plain try is something like this:\n        \n\n        \n          \n```\nconst fd = dir.openFile(io, path, .{}) catch |err| {\n    log.err(\"failed to open file '{s}': {t}\", .{path, err});\n    return err;\n}\n```\n\n        \n        \n          Unsatisfactory. The friction is high, you need to come up with a\n          reasonably-sounding error message, the “happy path” of the code is\n          obscured, and you need to repeat this for every fallible operation.\n        \n\n        A worse-is-better version of the above code is\n\n        \n          \n```\nerrdefer log.err(\"path={s}\", .{path});\nconst fd = try dir.openFile(io, path, .{});\n```\n\n        \n        \n          That is, just log error context as `key=value` pairs,\n          guarded by `errdefer`. The result is not pretty, but\n          passable:\n        \n\n        \n          \n```\nλ zig build\nerror: path=./data.txt\nerror: FileNotFound\n~/.cache/zig/p/../lib/std/Io/Threaded.zig:4866:35: 0x1044126c7 in dirOpenFilePosix (fail)\n                        .NOENT => return error.FileNotFound,\n                                  ^\n~/.cache/zig/p/../lib/std/Io/Dir.zig:578:5: 0x104347d8b in openFile (fail)\n    return io.vtable.dirOpenFile(io.userdata, dir, sub_path, options);\n    ^\n~/fail/main.zig:10:16: 0x10443da5f in f (fail)\n    const fd = try Io.Dir.cwd().openFile(io, path, .{});\n               ^\n~/fail/main.zig:6:5: 0x10443db47 in main (fail)\n    try process_file(io, \"data.txt\");\n    ^\n```\n\n        \n        The friction is reduced a lot:\n\n        \n          - \n            No need to come up with any error messages beyond existing variable\n            names.\n          \n\n          - \n            No need to change any of the `try`s.\n          \n\n          - \n            The context is set per-block. If a function does several fallible\n            operations on a file, the path needs to be specified only once.\n          \n\n          - \n            The context is “telescopic” every function in the call-stack can add\n            its own context.\n          \n\n        \n\n        \n          There’s one huge drawback though — the error message is logged, even\n          if the error is subsequently handled. This is especially important in\n          Zig 0.16, where cancelation ([serendipitous-success](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1677r2.pdf)) is a possible error for any IO-ing\n          operation, and which is intended to be handled, rather than reported.\n        \n\n        \n        Generalizing:\n\n        \n          - \n            Happy path adds context to all operations in-progress.\n          \n\n          - \n            Errors materialize current context.\n          \n\n        \n\n        \n          This does feel like a better error management strategy than decorating\n          errors individually, when they happen. I wonder which language\n          features facilitate this style?",
+        "url": "https://matklad.github.io/2026/05/03/zig-error-context.html",
+        "source": "matklad",
+        "tags": [
+          "Systems",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-05-03T00:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Why I don't like the \"staff engineer archetypes\"",
+        "summary": "The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s [*Staff engineer archetypes*](https://staffeng.com/guides/staff-archetypes/). He argues that the ",
+        "content": "The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s [*Staff engineer archetypes*](https://staffeng.com/guides/staff-archetypes/). He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For [both](https://seangoedecke.com/staff-engineer-promotions) of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.\n\nThese archetypes definitely exist[1](#fn-1). However, I think it’s bad practical advice to tell engineers to try and target them.\n\n### Archetypes do not make good goals\n\nTo see why, let’s take the “team lead” archetype. Larson describes this as an informal technical leadership role: not necessarily an explicit authority figure, but someone who’s good at scoping work, planning projects, and maintaining the kind of relationships (e.g. with other teams) needed to successfully [ship](https://seangoedecke.com/how-to-ship). If you want to fill this role, shouldn’t you start trying to do these things? No! You don’t become a technical leader by trying really hard to be a technical leader, much like you don’t become a writer by trying really hard “to be a writer”. You become a technical leader by *doing good technical work* until your skills and relationships emerge organically.\n\nI wrote about this process in [*Ratchet effects determine engineer reputation at large companies*](https://seangoedecke.com/ratchet-effects). To get good at shipping large complex projects, you must start by shipping tiny pieces of work, until you’re familiar enough with the system and you’ve built enough trust to take on slightly larger pieces. At each stage, if you do good work - “good work” here means “deliver [shareholder value](https://seangoedecke.com/shareholder-value/)” - you will very naturally be given opportunities to work on more complex and important things. If you try to jump ahead, you’re going to run into all kinds of problems:\n\n- Important projects are usually assigned top-down, not bottom-up, so you’ll either be trying to muscle out the planned engineering lead for a project or to pitch your own (complex, important) engineering task to senior management. Either way, good luck with that!\n\n- You likely won’t have a good enough relationship with senior management to know what their real priorities are.\n\n- If you’re not yet trusted to execute, you may get assigned “minders” (often current staff engineers) who will ghost-lead the project through you[2](#fn-2).\n\n- You’ll likely make [poor technical decisions](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/).\n\nThe other archetypes are like this as well. If you want to become a successful architect, you do not get there by studying software architecture in the abstract, because [you can’t design software you don’t work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/). The “solver” and “right hand” archetypes both rely on having an enormous amount of trust and influence. You can’t aim for those archetypes directly, because trust and influence accumulate over time. In fact, the idea of “aiming for” a particular staff engineer archetype reflects a misunderstanding of what the staff engineer role is. What is the defining attribute of the staff engineering role, then?\n\n### What is a staff engineer?\n\n **A staff engineer has to be useful to the company.** Of course, a senior or mid-level software engineer ought to be useful too, but all they *have* to do is execute on the job in front of them. If they end up not providing value (maybe their project turns out to be unimportant, or they don’t get the support needed to succeed) that’s their manager’s problem, not theirs[3](#fn-3). In contrast, staff engineers are expected to deliver value regardless: to make the project work, or to find something else useful to do if the project truly can’t be salvaged.\n\nThis is an unfair expectation. Often projects really do fail through no fault of your own, and sometimes it just isn’t possible to conjure useful work from thin air. That’s actually by design: **the staff engineer role is supposed to be unfair**. Something many engineers don’t realize is that all senior management and executive leadership roles are unfair too, in the same way. That’s just part of the deal: executives are given power and great compensation, and in return they get thrown off the boat in bad weather[4](#fn-4). “Staff engineer” is the first engineering role where you are held largely responsible for outcomes you don’t control.\n\nDeveloping a “staff engineer mindset” thus has very little to do with the archetypes. Instead, you should:\n\n- Develop the habit of constantly asking yourself “is this useful to the company” (and answering correctly).\n\n- Lose the habit of worrying about if you’re being treated “fairly”. Instead, try to think about your role in terms of incentives and consequences.\n\nAt the beginning, you won’t look much like any of the staff engineer archetypes. You will look like being a level-headed engineer who can be trusted to move projects forward with a minimum of fuss, and who can be re-tasked to different work without complaining. You’ll also look like someone who’s [paying a lot of attention](https://seangoedecke.com/getting-the-main-thing-right/) to what their manager’s actual priorities are, and who is thinking hard about how to fulfil those priorities (instead of their own goals).\n\nIf you do this for long enough, you’ll eventually find yourself in one of the staff engineer archetypes. However, it probably won’t be the one you’re “aiming for”. The whole point of being a staff engineer is that you’re willing to fill whatever archetype the company needs at the time.\n\n### Final thoughts\n\nIn his original staff engineer post, Larson is pretty clear that these archetypes are more of an anthropological description of some of the varied niches staff engineers fill, not a how-to guide for succeeding in the role[5](#fn-5). At the time, the “staff engineer” role was fairly new and people were still trying to figure out what it even meant. Pointing out that there were a few very different ways to succeed in the role was a genuinely novel observation.\n\nThe staff engineer archetypes are a good list of ways an engineer can be very useful to their organization - but only once they’ve built a deep relationship of trust with their organization’s leadership. Advice on how to succeed as a staff engineer should be about **how to build that trust**, not about what to do once you have it.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https://www.seangoedecke.com/staff-engineer-archetypes/&t=Why%20I%20don%27t%20like%20the%20%22staff%20engineer%20archetypes%22).\n\nHere's a preview of a related post that shares tags with this one.\n\n> The more senior engineers get, the more results matter\n\nIn my experience, people tend to overrate how much moving up the org chart changes the fundamentals of the job. As a staff engineer, I do more or less the same thing as I did as an intern: write code, respond to tickets, create my own tickets for work that needs doing, and ship projects. The work I do is faster and better, since I have many more tools in my toolbox, and I do move from project to project more often, but it’s not *qualitatively* different. My job is still more like a software engineering intern’s job than it is like an equivalently-leveled product manager’s job.\n[Continue reading...](https://seangoedecke.com/being-accountable-for-results/)",
+        "url": "https://seangoedecke.com/staff-engineer-archetypes/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Systems",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "Sun, 03 May 2026 00:00:00 GMT",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Testing MacOS on the Apple Network Server 2.0 ROMs",
+        "summary": "It's time for another save point in the continuing saga of the various ROMs for the [Apple Network Server](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html), Apple's first th",
+        "content": "It's time for another save point in the continuing saga of the various ROMs for the [Apple Network Server](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html), Apple's first through-and-through Unix server ([previously](https://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html), [previously](https://oldvcr.blogspot.com/2025/10/the-apple-network-server-macos-roms.html)). The Apple Network Server was only ever officially able to boot AIX, IBM's proprietary Power ISA-specific Unix, though it was originally intended to run [Novell NetWare](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html) and was demonstrated booting Mac OS with early pre-production ROMs. However, much to industry surprise, late in its life cycle then-CTO Ellen Hancock announced that the ANS would be able to boot Mac OS and even Windows NT as well using ROM upgrades. Neither ROM was officially released before Steve Jobs convinced Gil Amelio to cancel the line, and for many years they were believed to be vapourware.\n\nBut they've started to surface, first with an ex-Apple employee who had both the preproduction ROM and the Mac OS ROM on a flash ROM SIMM, and later another employee turned up with the NT ROM, though sadly more is needed to make it actually run NT. It turned out that I also had the preproduction ROM in a box gathering dust, and a couple months ago [we put both the preproduction ROMs and NT ROMs through their paces](https://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html).\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s320/PXL_20260502_014328812.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXZIlwkgbzMDQSeO1eFvF63o9Urg8_VlObnVKcE_ovWUUC02CDFsUfKhmowIAYWznCYi9IJFXyj74dUdgXwT_W0ejYCHnfw5yuIhr6uM57YkaTqqdD9GhOuzlgbwgtaH3-mAUsPF3hK9kzAMjc47Xe5q2Dm0dP9Y7AFWMuwPUynDxycaF6KpjVrmQoI5Q/s4080/PXL_20260502_014328812.jpg)\n\nWell, thanks to Jeff Walther who generously built a few replica ROM SIMMs for me to test, we can now try the \"2.0\" MacOS ROMs on \n\nholmstock, our hard-working Apple Network Server 700 test rig (\n\nstockholm, my original ANS 500, is still officially a production unit). And there are some interesting things to report, especially when we pit the preproduction ROMs and this set head-to-head in MacBench, and even try booting Rhapsody on it.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s320/PXL_20260503_070151542.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_8jv948YyBwKB0Vp-rxd18nP5HA-VkD9o1RcexrM0w7Oiov8rSg_JfdmoAOZiYsgIW6pWOJLMrayKyKU49EVbjhcuDTA61I4BDsOOQFx3HHl0iN1W33r8b78EenBoJc2dHfy8feZJ1-kXHpRXt4GKP9VBvNmmlZH8J2k9T2UW_y5qRGnjuXKy_rmYWXY/s4080/PXL_20260503_070151542.jpg)\n\nWhen [we last left the 700](https://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html), it still had the preproduction 1.1.20.1 ROM installed, which can be used to boot either MacOS or AIX and makes it look to MacOS like a Power Macintosh 9500, the ANS's closest relative. However, the ANS has unique hardware: two Symbios Logic 53C825A SCSI-2 Fast and Wide controllers (20MB/s) for the internal SCSI bays and on-board Cirrus Logic 54M30 graphics used in no other Apple product. MacOS never supported these and the preproduction ROM does not contain support for them, so to boot Mac OS you have to use the external 5MB/s CURIO SCSI (the ANS doesn't have the typical Power Macintosh MESH controller) and a Mac-compatible PCI video card. I selected a IMS TwinTurbo, the same card shipped with the Power Macintosh 9500, and booted it off an external BlueSCSI, both of which work well for this purpose. Once you get everything set up, versions up to at least Mac OS 9.1 are compatible, though with various annoying glitches you have to work around because it's not *really* a 9500.\n  \n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUw5nO2Ax_vqdf_As4e2WsiwqGU4sPJgyVu5X1Kwmpy6tS8gBQx253eZDNN-IFkVS9eYUofRWCh9uliC5o0bhGMdqiA6bJ_VIoPcH9snu4cPlBgIwx9CMGCvX-nO4Cvvy9vzPPZiq6iNdRjnUj1O68yygmqBfdP62m5b12asf59HojWyeYSlNfUJcaR6A/s320/PXL_20260502_005039406.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUw5nO2Ax_vqdf_As4e2WsiwqGU4sPJgyVu5X1Kwmpy6tS8gBQx253eZDNN-IFkVS9eYUofRWCh9uliC5o0bhGMdqiA6bJ_VIoPcH9snu4cPlBgIwx9CMGCvX-nO4Cvvy9vzPPZiq6iNdRjnUj1O68yygmqBfdP62m5b12asf59HojWyeYSlNfUJcaR6A/s4080/PXL_20260502_005039406.jpg)\n\nThe value proposition of the 2.0 ROM is that support for Cirrus video and 53C825A SCSI comes standard — the drivers are built-in to the firmware. You can then boot Mac OS from the internal CD and install it to an internal SCSI disk at full speed, and connect your monitor directly to the ANS's VGA port (one of the only Apple systems of this era to have a standard HDI-15 video connector instead of the usual Mac DA-15). To test this, we'll unplug the BlueSCSI, remove the TwinTurbo and also take out the ANS-specific 10Mbit Ethernet card I installed because the onboard MACE Ethernet wasn't working, just in case it makes a difference. (More on that in a bit.)\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr78deqf4hyphenhyphenz5b6VVYqZUS2GcQOzFQZzs5uitsM43F7EnYgZ63TN_dHBeCVJMRe6R3nCGkSKnxAtGEyhFdrMhxvNjc_P3QCTIBS905K6rYL1FBDPaJlapaB7CCy87bjRS4kYfu9WLq1sk9gsjx93Ppyk7nBpD4DtlOje2dfJ-fW-wUaWqqrQNzjm8XfxE/s320/PXL_20260502_204622536.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr78deqf4hyphenhyphenz5b6VVYqZUS2GcQOzFQZzs5uitsM43F7EnYgZ63TN_dHBeCVJMRe6R3nCGkSKnxAtGEyhFdrMhxvNjc_P3QCTIBS905K6rYL1FBDPaJlapaB7CCy87bjRS4kYfu9WLq1sk9gsjx93Ppyk7nBpD4DtlOje2dfJ-fW-wUaWqqrQNzjm8XfxE/s4080/PXL_20260502_204622536.jpg)\n\nThe ANS also has a front-mounted LCD which can be used for displaying system status or other notifications. AIX and NetBSD both directly support it. Ordinarily this would be full of diagnostics and POST messages while the system boots, but the LCD is completely blank with the 2.0 ROMs installed and never shows any activity. In fact, it's the same kind of blank you'd get if the processor board went wacky, which is a little unnerving to an old ANS hand like me.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFx7K-oWmIOyjVCe0_80nT0029DmxafCAgfE0zqxirnZ2wynrvoS98DUXdl4n8hE9MhOA0vRb8W5hO5iADin7erJit_wi_8DcEucq4PHNyZZfGujnvnfs_AjDvvxgi_bqNKQ4Sbd9bpLOtRCBwvOpEj-4czsLBJusMKvvBU373UQ4gYXI9sqi6fYZUXAs/s320/PXL_20260502_030025778.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFx7K-oWmIOyjVCe0_80nT0029DmxafCAgfE0zqxirnZ2wynrvoS98DUXdl4n8hE9MhOA0vRb8W5hO5iADin7erJit_wi_8DcEucq4PHNyZZfGujnvnfs_AjDvvxgi_bqNKQ4Sbd9bpLOtRCBwvOpEj-4czsLBJusMKvvBU373UQ4gYXI9sqi6fYZUXAs/s4080/PXL_20260502_030025778.jpg)\n\nFor some reason, and it could be my system because I usually have the PRAM battery out to let the logic board more quickly reset between experiments, I always had to three-finger reset it with Control-Command-Reset to get it to bong. The bong this ROM makes also seems a little truncated, and compared to regular ROMs with the extensive Long RAM test, these ROMs come up *very* quickly to the patterned Toolbox background. We have nothing installed it can boot from, so it almost immediately displays a gimme-disk animation, just like a regular Mac. But unlike most other Old World Macs (and the preproduction ROMs), the icon is in colour, because this is Open Firmware 2.0.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHe2b6fvQudwoBr98FbbRinx4hAZryqGHcILhVUiJ5kXJLuYkuAMprpf-zpVD43mWyhtZwVpcw-QmIoKmVrTtcjXSLV6NYzgHV10njOSduioFLzGdOZkty2T3FGqQyQIfP5-cMNg1MlGvcGrqWCr5VfKgke7dPK7cXB688OTRfc-M_0g68XW0CRYogrGs/s320/PXL_20260502_014813024.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHe2b6fvQudwoBr98FbbRinx4hAZryqGHcILhVUiJ5kXJLuYkuAMprpf-zpVD43mWyhtZwVpcw-QmIoKmVrTtcjXSLV6NYzgHV10njOSduioFLzGdOZkty2T3FGqQyQIfP5-cMNg1MlGvcGrqWCr5VfKgke7dPK7cXB688OTRfc-M_0g68XW0CRYogrGs/s4080/PXL_20260502_014813024.jpg)\n\nI reset it again and held down Command-Option-O-F to force Open Firmware to start. This also comes up immediately, and on the main screen as it would on a regular ANS.\n\nThis ROM is notable in that, besides the usual bye and boot words, there is an io word to redirect output for you. If you type ttya io at the console, it immediately switches to serial on rear port 2 at 38400bps by default. We want to see if it does anything interesting when we start it, so we'll setenv input-device ttya:57600, setenv output-device ttya:57600 and reset-all to default it to serial startup, but we still have to hold down Cmd-Opt-O-F or it snaps back into the Toolbox ROM. Let's dump the device tree.\n\nOpen Firmware, 2.0\nTo continue booting the MacOS type:\nBYE<return>\nTo continue booting from the default boot device type:\nBOOT<return>\nFor Open Firmware serial I/O type:\nTTYA IO<return>\n ok\n0 > printenv \n\nVARIABLE            CURRENT             DEFAULT\nlittle-endian?      false               false\nreal-mode?          false               false\nauto-boot?          true                true\ndiag-switch?        false               false\nfcode-debug?        false               false\noem-banner?         false               false\noem-logo?           false               false\nuse-nvramrc?        false               false\nreal-base           -1                  -1 \nreal-size           100000              100000 \nvirt-base           -1                  -1 \nvirt-size           100000              100000 \nload-base           4000                4000 \npci-probe-list      -1                  -1 \nscreen-#columns     64                  64 \nscreen-#rows        28                  28 \nselftest-#megs      0                   0 \nboot-device         /AAPL,ROM           /AAPL,ROM\nboot-file                               \ndiag-device         fd:\\diags           fd:\\diags\ndiag-file                               \ninput-device        ttya:57600          kbd\noutput-device       ttya:57600          screen\noem-banner                              \noem-logo                                \nnvramrc                                 \nboot-command        boot                boot\n ok\n0 > dev /  ok\n0 > ls \n\nChildren of the node:\nFF82A4C8: /                             [AAPL,9500 MacRISC]\n\nNode Adr    Node Name                     Compatible\n\nFF82B8B8: /cpus@0\nFF82B9D0:   /PowerPC,604@0\nFF82BDE8:     /l2-cache@0,0\nFF82C528: /chosen@0\nFF82C658: /memory@0\nFF82C7A0: /openprom@0\nFF82C860: /AAPL,ROM@FFC00000\nFF82CA78: /options@0\nFF82CF28: /aliases@0\nFF82D168: /packages@0\nFF82D1F0:   /deblocker@0,0\nFF82D9C8:   /disk-label@0,0\nFF82E4B8:   /obp-tftp@0,0\nFF830710:   /mac-files@0,0\nFF832508:   /mac-parts@0,0\nFF8336F0:   /aix-boot@0,0\nFF833B40:   /fat-files@0,0\nFF835158:   /iso-9660-files@0,0\nFF835AC0:   /xcoff-loader@0,0\nFF836388:   /terminal-emulator@0,0\nFF836420: /bandit@F2000000\nFF837848:   /gc@10\nFF837C80:     /53c94@10000\nFF839490:       /sd@0,0                [sd]\nFF83A1E0:       /st@0,0                [st]\nFF83AE80:     /mace@11000\nFF83BD10:     /escc@13000\nFF83BE68:       /ch-a@13020\nFF83C4C0:       /ch-b@13000\nFF83CB18:     /awacs@14000\nFF83CC00:     /swim3@15000\nFF83E050:     /via-cuda@16000\nFF83EF00:       /adb@0,0\nFF83EFF0:         /keyboard@0,0\nFF83F910:         /mouse@1,0\nFF83F9C0:       /pram@0,0\nFF83FA70:       /rtc@0,0\nFF83FF10:       /power-mgt@0,0\nFF83FFD0:     /lcd@1C000\nFF840908:     /nvram@1D000\nFF8426D0:   /pci106b,1@B\nFF8428A8:   /54m30@F                   [pci1013,a0]\nFF8445F8:   /apple53C8xx@11            [53c825]\nFF8471E0:     /sd@0,0\nFF8480D8:   /apple53C8xx@12            [53c825]\nFF84ACC0:     /sd@0,0\nFF840AA0: /bandit@F4000000\nFF84BD60:   /pci106b,1@B\nFF841F30: /hammerhead@F8000000\n\nThis is a little different from the device trees on our other ROMs, and not everything seems to work or was updated, suggesting this was unfinished at the time the product was cancelled. For example, if we look at the list of device aliases ...\n\n ok\n0 > devalias \nvci0                /chaos@F0000000\npci1                /bandit@F2000000\npci2                /bandit@F4000000\nfd                  /bandit/gc/swim3\nkbd                 /bandit/gc/via-cuda/adb/keyboard\nttya                /bandit/gc/escc/ch-a\nttyb                /bandit/gc/escc/ch-b\nenet                /bandit/gc/mace\nscsi                /bandit/gc/53c94\nscsi-int            /bandit/gc/mesh\nscreen              /bandit@F2000000/54m30@F\n\n... the definition for the internal SCSI doesn't actually exist. You'd think that scsi-int would point to the internal SCSI, and a path like /bandit/gc/mesh (GC in this case is Grand Central) *would* do so on a regular Power Mac, but the ANS doesn't have a MESH. That means trying to list the contents of a CD-ROM in the internal optical drive, ordinarily SCSI 0 on an ANS ...\n\n ok\n0 > dir scsi-int/sd@0,0:,\\  unable to open the DIR device\n\n... doesn't work. You have to do it in long-hand:\n\n ok\n0 > dir /bandit/apple53C8xx@11/sd@0,0:,\\ \n.                   00000010 000023 000002048 000 000\n..                  00000010 000023 000002048 000 000\nDIAGS.              00000000 000024 000189345 000 000\nNWSTART.            00000000 000117 003603460 000 000\nOFWBOOT.            00000000 001877 000349998 000 000\nTRANS.TBL           00000000 002048 000000655 000 000\n\nAlso, even though there is an AIX loader package in the 2.0 ROMs, it doesn't work either (using a bootable 4.1.5 CD):\n\n ok\n0 > boot /bandit/apple53C8xx@11/sd@0,0:aix loader: unrecognized client program format\nstate not valid\n\nIn fact, if you have a bootable AIX drive plugged in, the system will crash. I found that out when the ANS was freezing up shortly after POST and I eventually tracked down the culprit.\n\nBy comparison, the 1.1.20 preproduction ROMs show a much more sensible list of device aliases.\n\ndisk2:aix  \nDevice isn't there! can't OPEN: /bandit/53c825@11/sd@2,0:aixOpenFirmware1.1.20\nTo continue booting the MacOS type:\nBYE<return>\nTo continue booting from the default boot device type:\nBOOT<return>\n ok\n0 > devalias \nvci0                /chaos@F0000000\npci1                /bandit@F2000000\npci2                /bandit@F4000000\nfd                  /bandit/gc/swim3\nkbd                 /bandit/gc/via-cuda/adb/keyboard\nttya                /bandit/gc/escc/ch-a\nttyb                /bandit/gc/escc/ch-b\nenet                /bandit/gc/mace\nscsi                /bandit/gc/53c94\nscsi-int            /bandit/53c825@11\nlcd                 /bandit/gc/lcd\nscreen              /bandit/54m30@F\nscsi-int2           /bandit/53c825@12\ndisk0               /bandit/53c825@11/sd@0,0\ndisk1               /bandit/53c825@11/sd@1,0\ndisk2               /bandit/53c825@11/sd@2,0\ndisk3               /bandit/53c825@11/sd@3,0\ndisk4               /bandit/53c825@12/sd@4,0\ndisk5               /bandit/53c825@12/sd@5,0\ndisk6               /bandit/53c825@12/sd@6,0\n ok\n0 > \n\nAccordingly, a command like boot disk0:aix or boot /bandit/53c825@11/sd@0,0:aix will boot AIX from the internal CD-ROM.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s320/PXL_20260503_040208778.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjvq-8pTqmXNtEmBxtA_UaeNTNiuEpkVyCAkc7nK7_N2_1zsoy9-UkbihKpbDzVwGPjLR-8dFFI6L99XR2sCg5McWaYPgmAtUK_vkSIQgk7bRgzW6DRR3BGs8BYrMi4AFANpwtLEKweCN7jdTRa8Meq-DfbMMvEtxxUkKMdWwVtvYXr3B7dACTlkVSZrw/s4080/PXL_20260503_040208778.jpg)\n\nThe Network Server Diagnostic Utility (NSDU) shows other strange stuff. Because it never runs a Long RAM test, the RAM is never marked parity (even though it is; we labouriously dug out every parity FPM DIMM we had in stock to put in this thing). On ANS production ROMs (and the preproduction ROMs), the ROM will set the RAM timing to 70ns instead of 60ns if any stick of RAM is not parity, a rare case of where having parity memory *improves* performance. It's not clear what this ROM does in that instance, and in any case there are bigger problems such as the absolutely preposterous processor speed (this is a 150MHz PowerPC 604e). The L2 cache, at least, is correctly detected as the standard 700 1MB. We'll come back to this too.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s320/PXL_20260503_034116048.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEillWvIJM-kBkOLHR_hWy3_Mc3HtRhpPwTVv5l3aF0HCkA1Eva-B-aV7n3cudfTEK6gQmVXR014Eg4QDIcZkCw6BRUFSRTCwLdxwDqgoET2wRQBFlVB5_MLeBu1UwEiF1gyPigAORUOtj_yG8YtstM5VUrx3Var9wgneH_FhtuWtZQPf2iELWrWRM9aDCU/s4080/PXL_20260503_034116048.jpg)\n\nFor comparison, here's what a proper diagnostics readout would look like with the preproduction ROMs (slots 1 and 6 contain our video and Ethernet cards).\n\nWell, let's try to start it up. I got out a retail Mac OS 9.1 CD and put it into the internal CD-ROM, with no other drives installed.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAquKEYZnfPy4Fl1eTzglxxpa0pYzTyFw9XLqtoNDs1B0hEW3XpQvrC9oU9QBaIlly59qT8LcHALc5xzIGE8m4rwBPRv8tXUqNqa9ON2STnDS4IJQ7Qo4EAaJDUmXlaIIJPsq-Gz95d8QsO4soVcWKnIYFLAX0Y-lJ0v3HGQF3iaqjK130LCt8d5iJU1c/s320/PXL_20260502_021653691.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAquKEYZnfPy4Fl1eTzglxxpa0pYzTyFw9XLqtoNDs1B0hEW3XpQvrC9oU9QBaIlly59qT8LcHALc5xzIGE8m4rwBPRv8tXUqNqa9ON2STnDS4IJQ7Qo4EAaJDUmXlaIIJPsq-Gz95d8QsO4soVcWKnIYFLAX0Y-lJ0v3HGQF3iaqjK130LCt8d5iJU1c/s4080/PXL_20260502_021653691.jpg)\n\nThe system immediately booted. Again, the Happy Mac is colour, because this is a later Open Firmware.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZmIFvCeTp_GHQsxFYHV2xJ5Au0XRw3hsx9SycJgWbrFBzyU3kDRYQLJjGoqvkjRFNC-Idh6LtH9KPFrInf4jOK9Gz7-J2MpbVg7Ok91ePnj4m9vQLGZoOCRbHI5hEbVYjxsMqbn-6xY3xmHDn75n-wbXAKkjAE0H-zKqidLo1tRLs6xsh_8m5EN0IRw/s320/PXL_20260502_021809804.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbZmIFvCeTp_GHQsxFYHV2xJ5Au0XRw3hsx9SycJgWbrFBzyU3kDRYQLJjGoqvkjRFNC-Idh6LtH9KPFrInf4jOK9Gz7-J2MpbVg7Ok91ePnj4m9vQLGZoOCRbHI5hEbVYjxsMqbn-6xY3xmHDn75n-wbXAKkjAE0H-zKqidLo1tRLs6xsh_8m5EN0IRw/s4080/PXL_20260502_021809804.jpg)\n\nStarting up. There is nothing connected to the external SCSI port — it's booting entirely on the fast internal SCSI — and the video is coming from the logic board. It all \"just worked.\"\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_F-hKURNPGfPUd_Ic7HNL8TiH59OdCmwvaDB4_PzLPl0FFdpIySjjFw1B9SEnXp5mGCMSOipd__lqgslk7bMgIh1KoXW_zrd-Gm8lNvOWd1MNTYcioghdJpWf96XP5mOIkY-JllHeA7mLqt5HfoQpdHAE-G0cOfwI2Eg4FM-71ggv2-q7boVd2YPUfk/s320/PXL_20260502_021940143.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO_F-hKURNPGfPUd_Ic7HNL8TiH59OdCmwvaDB4_PzLPl0FFdpIySjjFw1B9SEnXp5mGCMSOipd__lqgslk7bMgIh1KoXW_zrd-Gm8lNvOWd1MNTYcioghdJpWf96XP5mOIkY-JllHeA7mLqt5HfoQpdHAE-G0cOfwI2Eg4FM-71ggv2-q7boVd2YPUfk/s4080/PXL_20260502_021940143.jpg)\n\nAnd it gets to the desktop just fine. Still, it seemed a little poky and I didn't remember it being quite that bad with the preproduction firmware. It wasn't clear to me if this was the video hardware or something more intrinsic to the system, so we should really set up an OS install and do a proper benchmark.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YwVtYsJBqxj07W0rBPdskRNzza0rz8c0Y6cbhUBjOiV6Q3-rOQ2aY7Zeh7hMwkNeWR9vMUa8k2F4xWQu6WXzQALpr4GRLEp9JenDxdB9QjTLI5zRpFoyefDobF8geMDr_i_M_hYA9vQZpgGLM8Ss6EL7aQAET3rF2f1CeTTQ5OvYK6HAExCtT8BcoRY/s320/PXL_20260503_051037372.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YwVtYsJBqxj07W0rBPdskRNzza0rz8c0Y6cbhUBjOiV6Q3-rOQ2aY7Zeh7hMwkNeWR9vMUa8k2F4xWQu6WXzQALpr4GRLEp9JenDxdB9QjTLI5zRpFoyefDobF8geMDr_i_M_hYA9vQZpgGLM8Ss6EL7aQAET3rF2f1CeTTQ5OvYK6HAExCtT8BcoRY/s4080/PXL_20260503_051037372.jpg)\n\nTo put the internal SCSI through its paces requires hardware capable of keeping up with it, so I got out a newer ZuluSCSI Wide, installed it in a drive tray with a 68-pin SCSI mezz interposer, created a 4GB blank disk image and ran a clean Mac OS 9.1 installation. To my surprise, on rebooting I was able to plug in an AAUI dongle to the internal MACE Ethernet and it worked just fine when it wasn't working before, so I then added TattleTech, Gauge PRO and MacBench 5.0 from the home AppleShare server. Since I figured I'd want to compare this to the preproduction ROMs, rather than find an external CD-ROM I also used Disk Copy 6.5b11 to make an image of the MacBench CD for the graphics tests. We'll then use the same disk image in the external BlueSCSI for consistency.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaWKQJWa5OSVrhRLKOKzNJtrSO6dxmjSWJ4NugTxJAHsyaQonxJuNWo9VTDSSSAQ7-2uXojr95rxMuQGTWsWuWHXkKAGlM9c3UapsfQ-SLdQCkxKEdo3wJqLYoQxWmhq6y8DIaRe3ChZpNVj2ZDJnNH1txzBev_75pnUyU4Ryyk1LlNsUEt_kXstl-xiA/s320/Picture%201.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaWKQJWa5OSVrhRLKOKzNJtrSO6dxmjSWJ4NugTxJAHsyaQonxJuNWo9VTDSSSAQ7-2uXojr95rxMuQGTWsWuWHXkKAGlM9c3UapsfQ-SLdQCkxKEdo3wJqLYoQxWmhq6y8DIaRe3ChZpNVj2ZDJnNH1txzBev_75pnUyU4Ryyk1LlNsUEt_kXstl-xiA/s1024/Picture%201.PNG)\n\nAs before, the Gestalt ID (as reported in both Apple System Profiler and TattleTech) is the same as the Power Macintosh 9500 and Workgroup Server 9650. However, the ROM version is $772.7DD0. To the best of my knowledge, this is unique to this ROM.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia5RK6Bko_RLpxYYF5nBSuQMUIHFpwziFW3dv2kSR3Q0Ldhiw57EqFbT4FbB64MJL-ICii4PWUYB8rPqmi8d8uVCNu5F0aW1kBEnVf0rh1LhpmBalsIBQq9qo1qU6AbdifS7IvskcXcXjPPKrBJmr0P2hUK0PbPmgvzFsAvHJ70NDw4k2QGhhsJQ6LQc4/s320/Picture%202.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia5RK6Bko_RLpxYYF5nBSuQMUIHFpwziFW3dv2kSR3Q0Ldhiw57EqFbT4FbB64MJL-ICii4PWUYB8rPqmi8d8uVCNu5F0aW1kBEnVf0rh1LhpmBalsIBQq9qo1qU6AbdifS7IvskcXcXjPPKrBJmr0P2hUK0PbPmgvzFsAvHJ70NDw4k2QGhhsJQ6LQc4/s1024/Picture%202.PNG)\n\nApple System Profiler was taking an inordinately long amount of time to update the screen and I *knew* it hadn't been that bad. It also reported a bogus amount of L2 cache (2MB) despite the figure in the NSDU. But both Gauge PRO and TattleTech said there was *no* cache.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjL7A1sjFPrFur16dIJJ-uKCgrY_KQ4MMo1FC9pIQcXgAoV9_uK2mPO3meK-FZ7CgVoRquDXD0QLiefdDf_nzg4WBVqj1rne8AJR0MnVNEHFvdDyeD9hbrx42bOCjHuUvEtyhZ2n20nj3o6QDVf6501MusAUy0rahnRWxIT6kBtTOylIGmbbqJV8wUWDg/s320/Picture%203.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjL7A1sjFPrFur16dIJJ-uKCgrY_KQ4MMo1FC9pIQcXgAoV9_uK2mPO3meK-FZ7CgVoRquDXD0QLiefdDf_nzg4WBVqj1rne8AJR0MnVNEHFvdDyeD9hbrx42bOCjHuUvEtyhZ2n20nj3o6QDVf6501MusAUy0rahnRWxIT6kBtTOylIGmbbqJV8wUWDg/s1024/Picture%203.PNG)\n\nAlso as the NSDU had reported, the RAM was not seen as parity and parity checking was disabled.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkWA5xzrpUnkdJXrGWIONb-ZWCyjlXZLqkNj9EcAnkJ8FGNCoUldang9Dice0nvqYf_MlWPfQjMjPv8ugdS1mSZbhjZAAQwplsN1e0Xooxv7buN2Ta34BzyaySlRWOrMCA2VL_gXGQOF5p6tkQX1bdDwYkhp4M6bhPZrcsTPloyinH57bHFvPPkKypXtI/s320/Picture%204.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkWA5xzrpUnkdJXrGWIONb-ZWCyjlXZLqkNj9EcAnkJ8FGNCoUldang9Dice0nvqYf_MlWPfQjMjPv8ugdS1mSZbhjZAAQwplsN1e0Xooxv7buN2Ta34BzyaySlRWOrMCA2VL_gXGQOF5p6tkQX1bdDwYkhp4M6bhPZrcsTPloyinH57bHFvPPkKypXtI/s1024/Picture%204.PNG)\n\nThe Shiner-specific hardware is all correctly enumerated by Apple System Profiler. Both SCSI controllers appear and would have their own bus. In this case we're only using one bus, but there could potentially be three if you had a whole lot of drives installed and were using the external SCSI as well. They appear as PCI devices hanging off the on-board Bandit PCI controllers.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFUeeA7NA_Tro08uiVtMbo3k1gaesZQNk1fgg1zgT8lVb1LsISEA2PX-FKr9rWl1ayNKi3dco-Gwt9TXXDp4RXzhexuGpkUDy78NA5an-vE0qdEOpbUxdBoe0XdGtjsFPUK9J_i_c-1b8WpteLm3BAFwdS2BllK7GBP6fwX5WUnRvehlK4X00U5A1PqJ8/s320/Picture%205.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFUeeA7NA_Tro08uiVtMbo3k1gaesZQNk1fgg1zgT8lVb1LsISEA2PX-FKr9rWl1ayNKi3dco-Gwt9TXXDp4RXzhexuGpkUDy78NA5an-vE0qdEOpbUxdBoe0XdGtjsFPUK9J_i_c-1b8WpteLm3BAFwdS2BllK7GBP6fwX5WUnRvehlK4X00U5A1PqJ8/s1024/Picture%205.PNG)\n\nThe Cirrus Logic 54M30 also appears, but its maximum colour depth is still limited to 8-bit (256 colours) like it is in AIX, even though there is more than enough VRAM to support a higher colour depth. The reason is, according to the Network Server Hardware Developer's Notes, \"This controller implements only a little-endian window into the packed-pixel frame buffer, hence Big Endian operating systems are limited to 8 bits per pixel unless low-level transformation routines are written.\" [sic] It looks like that wasn't done here either.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd3vCgQmPWmqIyjk7vN6POpBYjzakiGhU6VePMsSElWG83KtqtQqj3ywtS9Ru0c24KKPJEK-9Siw3gOiEmkWSQn6wQ77wbT1nHuykrO5xm2qH9Y5qCd41WF-QRM_axC7fUZZzJvLgml-9P2a15XU451_trOG9xAbB8Z4w9rsl5618EJ13D7d96pjq4vqk/s320/Picture%206.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd3vCgQmPWmqIyjk7vN6POpBYjzakiGhU6VePMsSElWG83KtqtQqj3ywtS9Ru0c24KKPJEK-9Siw3gOiEmkWSQn6wQ77wbT1nHuykrO5xm2qH9Y5qCd41WF-QRM_axC7fUZZzJvLgml-9P2a15XU451_trOG9xAbB8Z4w9rsl5618EJ13D7d96pjq4vqk/s1024/Picture%206.PNG)\n\nThe Ethernet is shown coming from \"Built-In,\" off the on-board MACE, and our AppleShare server is connected from it. Nice to see that the logic board wasn't at fault after all.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGfZVcVYSoaqXSDet4VDtUQNWPbONSUKBaFxsVmcea8WWBxowL4sCN1uYEWHNI5vXZrGNtMbGlnlCf7otdx0ZcFlL_NidTf_-O1fFHUvkm02HiUbLKzytLEZSE0cKt3HqPs4s_U2wNS3ueykzCRVzML8pzsJc244nJhxpLK-zHsxkMkqC7qrE04-HsLk/s320/Picture%207.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGfZVcVYSoaqXSDet4VDtUQNWPbONSUKBaFxsVmcea8WWBxowL4sCN1uYEWHNI5vXZrGNtMbGlnlCf7otdx0ZcFlL_NidTf_-O1fFHUvkm02HiUbLKzytLEZSE0cKt3HqPs4s_U2wNS3ueykzCRVzML8pzsJc244nJhxpLK-zHsxkMkqC7qrE04-HsLk/s1024/Picture%207.PNG)\n\nOur ZuluSCSI Wide that we booted from is also rated for the full 20MB/s. It should run like a bat out of hell.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsXWksekN6ZTu2Zcu_xVgzgjV-PTIh4sVkM6iNav1YagLOOkATecl2liTmzEaywtCMRJQPLC672Cm9ixluhgPySrNtLtBlIlMFYeqVhTngPfHoMgkLXs_3a6oaH_oZM_1cLKZvu0RzlO4aZ8nN1mFfV429x3L234PQlDGHUeu-Ap8KZfnT-3TcL-wQgdk/s320/Picture%208.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsXWksekN6ZTu2Zcu_xVgzgjV-PTIh4sVkM6iNav1YagLOOkATecl2liTmzEaywtCMRJQPLC672Cm9ixluhgPySrNtLtBlIlMFYeqVhTngPfHoMgkLXs_3a6oaH_oZM_1cLKZvu0RzlO4aZ8nN1mFfV429x3L234PQlDGHUeu-Ap8KZfnT-3TcL-wQgdk/s1024/Picture%208.PNG)\n\nAnd the problem is ... this system doesn't. Even considering the reference comparison for this version of MacBench 5.0 is a 300MHz Power Macintosh G3, the 2.0 ROM's performance in Mac OS is absolutely dismal. Graphics, CPU and FPU testing are all between three and five times slower than the G3 reference. Although the disk performance seems superficially decent at sixty percent of the G3's, with the fast SD card in the ZuluSCSI and the full 20MB/s available we should have done a lot better.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyWKT6qyEvjdBxKdh7z5ZychyrmeFqG6hlXPmVskNpQzlOhXLVsje3Xfujd1HL6Tx13owU8VbOV6YTizBCQMncfNutJlY4bjjBe0CWcRH_DvnhpVLpSkmVUuOXRCiV487MPkEkl44qKYrghkA9s0UeusNgoSnJOk45M1ChUtBAFtHldFHSyaf9uQBJXA/s320/Picture9c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyWKT6qyEvjdBxKdh7z5ZychyrmeFqG6hlXPmVskNpQzlOhXLVsje3Xfujd1HL6Tx13owU8VbOV6YTizBCQMncfNutJlY4bjjBe0CWcRH_DvnhpVLpSkmVUuOXRCiV487MPkEkl44qKYrghkA9s0UeusNgoSnJOk45M1ChUtBAFtHldFHSyaf9uQBJXA/s1024/Picture9c.png)\n\nI tried to make it a fair fight by putting in the TwinTurbo video card again, since we'll need it to run the tests on the preproduction ROMs. I used 24-bit colour depth since that would be the major advantage of using it. (Interestingly, when you start the system this way, there is a pause at the beginning where you see what looks like an Open Firmware cursor, then some garbage, then the Toolbox pattern.)\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAehZyTvFg9lSTc-RKbxd3UdIHDPSVmqUp5Au6NPbNU7Oy3ijlDfOlNFbFQm8Sg6EVDnZcVD19NJ0sC0f8pMvB4VR2r6QtQrFG4-sZ2NTeIsnVWr_VxTGSTTTTjwr8j1t8vexPus3qmylzMQJoE6NWlUNKC_r7PtDnH1CxCeXn6MpXRnxlJ7pVqwZ3Cqs/s320/Picture10c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAehZyTvFg9lSTc-RKbxd3UdIHDPSVmqUp5Au6NPbNU7Oy3ijlDfOlNFbFQm8Sg6EVDnZcVD19NJ0sC0f8pMvB4VR2r6QtQrFG4-sZ2NTeIsnVWr_VxTGSTTTTjwr8j1t8vexPus3qmylzMQJoE6NWlUNKC_r7PtDnH1CxCeXn6MpXRnxlJ7pVqwZ3Cqs/s1024/Picture10c.png)\n\nEven with its hands tied behind its back, as it were, the TwinTurbo still managed 20 percent of the G3 reference despite pushing three times the pixel data as the on-board Cirrus. That doesn't speak well of the Cirrus video's performance, or at least of the ROM driver for it.\n\nAt this point I had to know if I was imagining things, so I yanked the 2.0 ROMs, put back in my 1.1.20 ROMs, copied the disk image to the BlueSCSI and booted from the external SCSI port. The Ethernet immediately stopped working, using the same AAUI dongle, same Ethernet cable and same port, so it looks like these ROMs don't support the on-board Ethernet after all and I had to put the ANS 10Mbit Tulip Ethernet card back in. But hey, it's not the board!\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyXG84tQ0bbJ-YBSOg0qi1ETHS7YJkna1YOUucmqM4Mf567CIYH8ECQNG47pN4KC61sArQtKZCfS8saYZ6SxRlOlF-s7BJiDIqfNpZ_lfZIhIdGWCxxaF-fo9qaGP2mJ46IhRhVPjFcEZWMHnq0Eulus_8jeawwswO9_Dvp_HIXPUWP6WGh4OKw5oMkoI/s320/Picture%201X.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyXG84tQ0bbJ-YBSOg0qi1ETHS7YJkna1YOUucmqM4Mf567CIYH8ECQNG47pN4KC61sArQtKZCfS8saYZ6SxRlOlF-s7BJiDIqfNpZ_lfZIhIdGWCxxaF-fo9qaGP2mJ46IhRhVPjFcEZWMHnq0Eulus_8jeawwswO9_Dvp_HIXPUWP6WGh4OKw5oMkoI/s1024/Picture%201X.PNG)\n\nThe $77D.28F2 version for this ROM as reported by Apple System Profiler is the same as the 9500 and related systems. Although TattleTech still doesn't see the L2 cache, Gauge PRO does, and both Apple System Profiler and Gauge PRO agree on the correct size (1MB).\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4PikuxciGxlzRLS7Rrp0S6LwNEvm4MDQ52PQX1DiiAxIO1-hhH-koNOQm8CfZOpOKhO3fUIFd87X3XLPxFWC5ypmrSV2f-YrMfMSvmzLdL4LjF0t5drbomyB1PhOXwbf7Dq7QSLwHwgti4uur6xIw_17bPXgaNLWOxTvMApWNReQ0cOceoHPqbUkWEE8/s320/Picture%202X.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4PikuxciGxlzRLS7Rrp0S6LwNEvm4MDQ52PQX1DiiAxIO1-hhH-koNOQm8CfZOpOKhO3fUIFd87X3XLPxFWC5ypmrSV2f-YrMfMSvmzLdL4LjF0t5drbomyB1PhOXwbf7Dq7QSLwHwgti4uur6xIw_17bPXgaNLWOxTvMApWNReQ0cOceoHPqbUkWEE8/s1024/Picture%202X.PNG)\n\nOn the other hand, TattleTech does not report the RAM as being parity, despite a successful Long RAM test. We'll go with the NSDU's assessment here. I'm also not sure what to make of the lower \"moving memory\" rating, so let's run everything through MacBench again.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWs-c5EaR02tcsyIXVbWyJ4fhDf0osNUtCh-JcH85lOBdHnGdQWoP1hF9YYD97_RBynsiV_fh84Oc5NWtoMrV6_kcMJYP3N11PAzxN0LGAyGS0IVGyzqJQVaTc_YYY4BQya-OwApqA20noVoVGqhfZnCTC5rI1vLwQ9gWi6Klfyed2qfrd-nWqisgp_kg/s320/Picture%203X.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWs-c5EaR02tcsyIXVbWyJ4fhDf0osNUtCh-JcH85lOBdHnGdQWoP1hF9YYD97_RBynsiV_fh84Oc5NWtoMrV6_kcMJYP3N11PAzxN0LGAyGS0IVGyzqJQVaTc_YYY4BQya-OwApqA20noVoVGqhfZnCTC5rI1vLwQ9gWi6Klfyed2qfrd-nWqisgp_kg/s1024/Picture%203X.PNG)\n\nIt's not even close, folks. CPU was 35% of the reference G3 (a whopping 75% faster), FPU 47% (47% faster), and graphics 33% at millions of colours (65% faster). But the real shame is the disk score: despite being on an interface up to four times slower, the preproduction ROMs get *eighty-nine percent* of the reference G3 — 48% faster!\n\nMy suspicion is this can be chalked up largely to the complete fail on the L2 cache and possibly also to the RAM speed, but either way, it was shocking how badly the 2.0 ROMs performed.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYVJgvoeYgAEcFKt4_E85KNQkuGpmny71wsxKl00HgJhdgfWrUWcTaXCPWde190C0sQ134p8M7_wDKWlrVs2QoYXj7e2aWlhMYqlZD3-keDmdY4NVTawC9EL1X6jPbZG6VIYVlP5x0pDnUDGsxrIHif_3pWLM76EYnLiY2JXwJIts_nFIwGxmL2Em1wng/s320/PXL_20260502_023136011.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYVJgvoeYgAEcFKt4_E85KNQkuGpmny71wsxKl00HgJhdgfWrUWcTaXCPWde190C0sQ134p8M7_wDKWlrVs2QoYXj7e2aWlhMYqlZD3-keDmdY4NVTawC9EL1X6jPbZG6VIYVlP5x0pDnUDGsxrIHif_3pWLM76EYnLiY2JXwJIts_nFIwGxmL2Em1wng/s4080/PXL_20260502_023136011.jpg)\n\nStill, if the 2.0 ROM can boot other operating systems, that might redeem it for certain purposes. We already had a fully installed Rhapsody 5.6 (essentially pre-Mac OS X NeXTSTEP ported to PowerPC and sold as Mac OS X Server v1.2) image on a BlueSCSI we tried to boot without success on the preproduction ROMs, so let's try that here — if Rhapsody works, we might get Mac OS X working next.\n\nThe magic boot string from the BlueSCSI on the external port, for a disk image set to device 2, turned out to be boot scsi/sd@2,0:0 scsi/sd@2,0:8,mach_kernel (using a \"partition zero\" loader to chain into the actual Rhapsody kernel). On the preproduction ROMs, we got a CLAIM failed from Open Firmware no matter what settings I tried.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PKAv3ZZrsGFhY32KFFskq9Ux0zf8ls15b9clVJk439mzyuuX3TAchgKiS9LejBx6uOAPLaY4i41O1cwr-rIAnHdaNMRUkCItfB-1Xmocf9Ekgy9H6fhqmpmIqYfy_cSlLIC12nOdCWjdEtyGIpnGiT-vsaE15RHdgP8gJK-pLQCtGKoVZmCSj4jfYzQ/s320/PXL_20260502_025851914.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PKAv3ZZrsGFhY32KFFskq9Ux0zf8ls15b9clVJk439mzyuuX3TAchgKiS9LejBx6uOAPLaY4i41O1cwr-rIAnHdaNMRUkCItfB-1Xmocf9Ekgy9H6fhqmpmIqYfy_cSlLIC12nOdCWjdEtyGIpnGiT-vsaE15RHdgP8gJK-pLQCtGKoVZmCSj4jfYzQ/s4080/PXL_20260502_025851914.jpg)\n\nOn the 2.0 ROMs, it started immediately, though on the internal video it just made some colourful displays. On the TwinTurbo I actually got a proper startup screen, and I thought we were getting somewhere until I abruptly got this kernel panic. (What a pretty icon for a kernel panic window!) The problem seems to be that \n\nwaitForInterrupt bombed out, possibly because of the different interrupt setup on the ANS compared to the 9500. \n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4R0hJsfzNZLigZGm1K9VsqilRjhGOV_XzkcJuGhk1-WvjNHuP6VsDAxuz5-u8sP9-bt_h6utqo78JmbV19xRoexk0BMB8cwHTqjFC_RKmMtwz-T7gi1ksD4y1zjvJrVPSKFF6KOVlDuse_nAS97vnsL958pm2CCKHTNpBFrQPCEJ78fbJAoYnwEAJrQA/s320/PXL_20260502_063810255.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4R0hJsfzNZLigZGm1K9VsqilRjhGOV_XzkcJuGhk1-WvjNHuP6VsDAxuz5-u8sP9-bt_h6utqo78JmbV19xRoexk0BMB8cwHTqjFC_RKmMtwz-T7gi1ksD4y1zjvJrVPSKFF6KOVlDuse_nAS97vnsL958pm2CCKHTNpBFrQPCEJ78fbJAoYnwEAJrQA/s4080/PXL_20260502_063810255.jpg)\n\nI tried a verbose boot (hold down V as you're entering that boot command) to see if I could get more information. It seemed to be loading drivers just fine from the Rhapsody partition ... \n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4E9O2v-JoN5WO12KcT3aJSqwKcNo3cckBas7_OYJlLy2z5aI6c41lygTUM87FbBEJoFfUJF1i6vGz4TDJNvrk63eKkzJ2WQe6W4DXhFx6k3Z07u_0RgQZY5GpqBijpj62ioFUNJzbTNdV1Eo1CY2TG5W1K83NES1xc-6Sa_oTxX8OPntMQ9UUTHtGa0M/s320/PXL_20260502_064046125.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4E9O2v-JoN5WO12KcT3aJSqwKcNo3cckBas7_OYJlLy2z5aI6c41lygTUM87FbBEJoFfUJF1i6vGz4TDJNvrk63eKkzJ2WQe6W4DXhFx6k3Z07u_0RgQZY5GpqBijpj62ioFUNJzbTNdV1Eo1CY2TG5W1K83NES1xc-6Sa_oTxX8OPntMQ9UUTHtGa0M/s4080/PXL_20260502_064046125.jpg)\n\n... but it still crashed in the same way, though we can see from the bigger window this time that much of the system *is* correctly detected.\n\n[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtisIi9K1s420X3nzetDO7VT72-b44asmGrh6a0biZppqJU0AB_44ECLGw4ky9E0h0VG1T1M7x70-XevuSz4WdW97HgXav8Dm0nX6Mbmz-n1Csc7Zko2Sp6eLzuB9eYgAR0eZEfL6u8cjaM0tkHwO6ztJkBAZuyu1DX7GIEi4vLwzfTRYyitdQ3vSFFdU/s320/PXL_20260502_030544312.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtisIi9K1s420X3nzetDO7VT72-b44asmGrh6a0biZppqJU0AB_44ECLGw4ky9E0h0VG1T1M7x70-XevuSz4WdW97HgXav8Dm0nX6Mbmz-n1Csc7Zko2Sp6eLzuB9eYgAR0eZEfL6u8cjaM0tkHwO6ztJkBAZuyu1DX7GIEi4vLwzfTRYyitdQ3vSFFdU/s4080/PXL_20260502_030544312.jpg)\n\nJust for yuks I tried Rhapsody Developer Release 2 instead. The Mac OS-side installer will run, but I couldn't get it into the second installer stage despite poking around on partition 10 where it claimed to want to boot from. I also tried booting from the Mac OS X 10.0.3 and 10.2 CDs, but while I got a Happy Mac, the system simply locked up after.\n\nSo after all that, if you want to run Mac OS with top performance on the Apple Network Server, you need to be running the preproduction ROMs — not the 2.0 ROMs. I don't think the 2.0 ROMs were ever actually finished, or at least not *these* 2.0 ROMs, or more elemental issues like the L2 cache support would have gotten fixed. It certainly does smooth out certain rough spots, it supports all the ANS hardware as advertised, and it was more reliable with reboots, but the speed penalty you'll take running it just doesn't seem worth it. I could only see myself running this version if I had to have the biggest, baddest, meanest AppleShare server with tons of SCSI drives in Mac OS. Is there a later version out there yet to be found that *does* deal with those problems?\n\nMeanwhile, I'm going to work on a patched version of Mac OS for this machine to fix [the reboot problems in 1.1.20](https://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html), which I believe should be solveable with some resource hacking. That said, I'm not done with these ROMs just yet: I think Rhapsody, at least, *can* be made to work but it clearly needs a kernel patch, and I suspect the former Apple employee who got it working on the 2.0 ROMs did just that. Performance might still be hideously bad, but it's nevertheless another solid Un*xy option for Apple's best beige Unix box, and it even has historical value. To be continued if I can get my hands on some Rhapsody source code. Anybody feel leaky? Post in the comments or drop me a line (no worries keeping you anonymous) at ckaiser at floodgap dawt com.",
+        "url": "https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+        "source": "Old Vintage Computing Research",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "Product"
+        ],
+        "published_at": "2026-05-03T06:44:00.000Z",
+        "reading_time": 20,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Reinventing the Wheel",
+        "summary": "**Today in Tedium:** Wheels (along with mousetraps) are the iconic inventions. And why not? The wheel is among the simplest of machines, and yet, just in terms of its applications for locomotion, the ",
+        "content": "**Today in Tedium:** Wheels (along with mousetraps) are the iconic inventions. And why not? The wheel is among the simplest of machines, and yet, just in terms of its applications for locomotion, the speed and volume of transportation it enabled was literally revolutionary. Despite this, the wheel has two major downsides: One, it requires an entire infrastructure of roads to unlock its full capability; and two, the wheel only goes in the direction it’s pointing. For the past nearly 200 years, a mostly obscure lineage of inventions attempted to address these problems, largely unsuccessfully. These are the new wheels. *— John @ Tedium*\n\n[![… Well, Us](https://static.tedium.co/uploads/t-logo_v3_square.jpg)](https://ko-fi.com/tedium)\n\n##### [ Sponsored By … Well, Us ](https://ko-fi.com/tedium)\n\n**Ever wanted to read Tedium** without having those annoying ads all over the site? We have just the plan for you. **[Sign up for a $3 monthly membership](https://ko-fi.com/tedium)** on our Ko-Fi, and we promise we can get rid of them. We have the technology. And it beats an ad blocker. (Web-only for now, email coming soon!)\n\n![agricultural-machine.jpg](https://proxy.tedium.co/qalicb2neZA7qQKNdn4PAXJWDsQ=/1000x1469/filters:quality(80)/uploads/agricultural-machine.jpg)Morath’s patent for an “Agricultural Machine.” ([Google Patents](https://patents.google.com/patent/US635501A/en))\n### Driving the Screw: A twist on a classic\n\n**In 1899, Jacob Morath filed [a patent](https://patents.google.com/patent/US635501A/en) for a tractor** that had, in place of wheels, a pair of sharp augers that would plough the field while propelling the vehicle over it.\n\nThese augers rotated in opposite directions—a stabilizing technique used across the so-called archimedes screw vehicles of which the Morath device was the first, but also now common across aviation. Since the two screws are counter-revolving, they compensate for any side-to-side motion, particularly since they’re so much longer than they are wide. Such a device could drive in a straight line across reasonably stable terrain, tearing up the earth as it did. But steering presented a problem, which Morath solved by also having wheels (which would raise as the screws lowered and vice versa). Eight years later, before Morath’s patent was expired, competitor Peevey solved this problem by [raising or lowering one screw](https://patents.google.com/patent/US864106A/en), thus changing the amount of contact it has with the ground. The raised screw would mostly slip, so the vehicle would move in the direction of the lowered screw—a feature we’ll later see in some wheel assemblies.\n\nScrew vehicles did not meet success in agriculture: Morath’s design seems never to have been built, and later variations couldn’t compete with the new technology of tank treads. However, in the 1920s, the Armstead Snow Motor showed that there was a market for screw drives (this time, beefy barrels) to hook to your existing car or tractor so that it could whiz along the top of deep snow.\n\nDuring the second world war, ice-obsessed spy/mad scientist Geoffrey Pyke pushed the British to adopt screws over treads for snow warfare (the same way he pushed them to adopt [aircraft carriers made of frozen paper mache](https://web.archive.org/web/20161015153801/http://www.thewarillustrated.info/230/strange-story-of-hms-habbakuk.asp)), unsuccessfully. Again, tank treads won out.\n\n![riverine-utility-vehicle.jpg](https://proxy.tedium.co/_qHpdXJByEZ-EqrW60AJyJQMxb8=/619x748/filters:quality(80)/uploads/riverine-utility-vehicle.jpg)A Riverine Utility Vehicle, a true example of an all-terrain vehicle. ([Unusual Locomotion](https://www.unusallocomotion.fr/pages/more-documentation/screw-vehicles.html))Finally, in the 1960s, screw vehicles found their (very small) niche: the water. A large hollow barrel with a screw along the outside will function semi-acceptably on snow, dirt, and mud while also acting as a floating propeller, so these machines are truly all-terrain—[at least in theory](https://www.scribd.com/document/976107150/Performance-of-Riverine-Utility-Craft-Ruc). In practice, it typically makes more sense to use a vehicle suited for your particular environment, rather than a single vehicle that works poorly everywhere—unless, like the intended users of the [ZIL](https://www.youtube.com/watch?v=1uynmApjhWI), you are a lost cosmonaut.\n\n![omni-wheel.jpg](https://proxy.tedium.co/5jWgV8qX7yLT1J2SERrFJA8kQxo=/1000x1469/filters:quality(80)/uploads/omni-wheel.jpg)An “omni wheel,” dating to 1919. ([Google Patents](https://patents.google.com/patent/US1305535A/en?oq=US1305535A)).\n### Wheels Within Wheels: It’s wheels all the way down\n\n**One interesting thing about screw locomotion** is that you move at a right angle to the direction you would move if you were using a wheel, despite the screws themselves being wheel shaped. So, combining the notion of the wheel and the screw opened up new possibilities for compound wheels—strange lumpy multi-ocular things that, by mounting wheels on (or embedding wheels in) other wheels, allow you to change direction without steering.\n\nThe simplest version of this is the [omni wheel](https://patents.google.com/patent/US1305535A/en?oq=US1305535A), where powered wheels are wrapped perpendicularly around the edge of a wheel. By stopping your large wheel and activating the smaller ones, you can move at a right angle, albeit much more slowly, since you are rolling on much smaller wheels.\n\n![ilon-wheel.jpg](https://proxy.tedium.co/TpnsLJ_lF2TEjw6xKYGW2AnTm94=/1000x1469/filters:quality(80)/uploads/ilon-wheel.jpg)An example of an Ilon wheel, dating to 1972. ([Google Patents](https://patents.google.com/patent/US3876255A/en))Another variation is the [Ilon wheel](https://patents.google.com/patent/US3876255A/en) (after its inventor—also known as the Mechanum wheel, after the company that manufactured it, and the Swedish wheel, after the inventor’s nationality), a wheel wrapped in powered wheels mounted at a 45-degree angle. It is essentially a screw made of wheels mounted on a wheel. A single Ilon wheel can move back and forth along two axes, but four can rotate in place as well as moving side to side.\n\nThe problem with all of these is that the actual amount of surface area you are rotating against the ground depends upon the direction you’re moving. And so, all of the exotic motions that these wheels are capable of are very slow when used on something heavy (like a vehicle). Instead, these wheels are largely used in robots and sorting machines.\n\n![star-wheeled-vehicle.jpg](https://proxy.tedium.co/PLiE3VA0gY5gigDdyN24UKqlRG8=/1000x1469/filters:quality(80)/uploads/star-wheeled-vehicle.jpg)A tri-star wheel assembly going over rugged terrain. ([Google Patents](https://patents.google.com/patent/US3348518A/en))\n### Tri-Star Pictures, the segue to the Segway\n\n**In the late 1960s, some engineers at Boeing** tried using the wheels-within-wheels concept for an all-terrain vehicle—by reducing the central wheel to an abstraction. [The tri-star wheel arrangement](https://patents.google.com/patent/US3348518A/en) gives you three wheels in a triangle, linked together in such a way that the group of wheels may turn freely while each wheel is driven by a shared power source.\n\nOn solid ground, you drive on two wheels; if you hit a pothole deep enough to trap an ordinary vehicle, instead, the whole assembly will flip over and you’ll drive on barely noticing a bump.\n\nUnlike the screw drive, whose relationship with the ground is tenuous at best and who wastes a huge amount of energy in slippage, each wheel in the tri-star configuration is potentially quite ordinary. And if you want it, you can have the nice thick contact patch you’d expect from car tires: a car retrofitted with these can still drive at highway speeds.\n\nHowever, you need three times the number of wheels and tires, along with a bunch of extra hardware for the framework and power transfer, and then you also can’t turn very well because your front wheels are twice as long.\n\nNot even the military was encountering massive potholes often enough to make these tradeoffs worthwhile: the full extent of their interest in this technology seems to have been sticking one on [a prototype howitzer in the 70s](https://www.army.mil/article/220947/ria_self_guided_tour_m2a2_experimental_105mm_auxillary_propelled_howitzer).\n\n![damnnation-alley-landmaster.jpg](https://proxy.tedium.co/v21MG3snYG_OJVzTAUIbcn5KIuQ=/1000x787/filters:quality(80)/uploads/damnnation-alley-landmaster.jpg)The Landmaster from Damnation Alley. (via [IMDb](https://www.imdb.com/title/tt0075909/mediaviewer/rm1162387969/))Instead, tri-star wheels went to the movies, as the most interesting visual element of [the Landmaster](https://books.google.com/books?id=KAEAAAAAMBAJ&pg=PA83#v=onepage&q&f=false), the armored amphibious tank that’s the only memorable part of [the 1977 nuclear-winter flop Damnation Alley](https://letterboxd.com/film/damnation-alley/).\n\n(The Landmaster is so memorable that it appears in [lots](https://www.youtube.com/watch?v=3ldOTw60Ozg#t=1032) [of](https://www.youtube.com/watch?v=F9fFhwGoVNo) [other](https://www.youtube.com/watch?v=TP2KhfQ8Pm8&list=RDTP2KhfQ8Pm8) [things](https://www.youtube.com/watch?v=GZX3VOizD0M) and has inspired [an unrelated electric tractor that has taken its name but lacks the signature wheel system](https://www.youtube.com/watch?v=hErwILzYhUM). The movie, on the other hand, ruined the reputation of an otherwise well-liked short story already damaged by a weak novelization.)\n\n![kamen.jpg](https://proxy.tedium.co/flzLLMPgUJT8ZGNZq4rbzFCPF4w=/500x648/filters:quality(80)/uploads/kamen.jpg)Dean Kamen demonstrates the iBOT wheel chair for Bill Clinton. We’ll let you search online to see what else they have in common besides this photo. ([White House/Internet Archive](https://web.archive.org/web/20070928062108/http://www.technology.gov/Medal/2000/p_Photos-Clinton.htm)).Today, tri-stars are mostly used for [stair-climbing wheelchairs](https://www.nbcnews.com/id/wbna3079872) (notably those by Dean Kamen, who was best known for these before he became much better known for the Segway). NASA, for its part, prefers to solve the same problems with its spidery [rocker-bogie suspension](https://patents.google.com/patent/US4840394A/en), which keeps the body of the vehicle steady better and requires fewer moving parts, while simultaneously [looking deeply upsetting](https://youtu.be/af8ywA6JdAA?t=55).\n\n![platform-wheels1.jpg](https://proxy.tedium.co/M1TuRWyWIGwcJ12Dux1D_Wcve8A=/640x480/filters:quality(80)/uploads/platform-wheels1.jpg)([Michael Chan, Ben Hulse, & Peter Kasting / Harvey Mudd College](https://www.cs.hmc.edu/~dodds/projects/RobS01/Assignment4/holo.htm))\n### Platforms, which aren’t just limited to Lego\n\n**There is a wheel that we have,** so far, been ignoring: the circle formed by the arrangement of drive wheels on the bottom of our vehicle. We turn this abstract wheel when we rotate the vehicle.\n\nWith two independently-powered ordinary wheels and a caster, we can drive forward and back (by keeping the power to both wheels consistent), turn gradually (by pushing more power to one wheel than the other), or do tight spins (by turning one wheel off entirely).\n\nThis is a [differential drive platform](https://rossum.sourceforge.net/papers/DiffSteer/DiffSteer.html#d2), and if you balance things perfectly, you can even remove the caster. The problem with two-wheel differential drives is that, without a caster creating a third point of contact with the ground, and if you go too fast your vehicle is going to flip forward and back. The center of gravity has to be maintained very carefully. (And casters get stuck, as anyone who has ever used a shopping cart or office chair can tell you.)\n\nEnter [the holonomic drive](https://web.archive.org/web/20181118081502/http://www.technicbricks.com/2008/08/going-to-all-places-in-all-directions_29.html): rather than using the differential between two parallel wheels, use the differential between [three wheel assemblies arranged in a triangle](https://www.mrob.com/pub/lego/rilybot3.html). [Use rotating wheels](https://www.convict.lu/Jeunes/SynchroDrive.htm) and you have [a synchro drive](https://www.youtube.com/watch?v=0p7OMVMWD3A). If these wheel assemblies are omni or Ilon wheels, then this is called [a kiwi platform](https://makezine.com/projects/kiwi//).\n\n![b64-VGVkaXVtIFVwbG9hZHMva2lsbG91Z2guanBn.jpg](https://proxy.tedium.co/meRX8MBxiXOvzHRmf_0f5qTCJvo=/2272x1704/filters:quality(80)/uploads/b64-VGVkaXVtIFVwbG9hZHMva2lsbG91Z2guanBn.jpg)An example of a Killough platform. ([Leo Dorst/University of Amsterdam](https://staff.fnwi.uva.nl/l.dorst/lego/killough.html))If instead these are “linear wheels” (i.e., a [pair of thick wheels at right angles to each other, resting on the ground along their edges](https://www.cs.hmc.edu/~dodds/projects/RobS01/Assignment4/holo.htm)), then this is called a [Killough platform](https://robocatz.com/holonomic-drive.htm).\n\nWith three wheel assemblies, rotation and movement is possible with less slipping than a four-wheel arrangement. With linear wheels, it’s not necessary to adjust for the size difference between the rollers and the main wheel body found in omni wheels.\n\n![kiwi-drive.jpg](https://proxy.tedium.co/D2SMu3l3QZrkNoSUPymmUjCReig=/1000x750/filters:quality(80)/uploads/kiwi-drive.jpg)An example of a “kiwi drive” omniwheel robot that is capable of quickly moving in any direction. Shockingly, this mechanism doesn’t use Legos. ([Dick Swart/Wicked Device LLC/Make Magazine](https://makezine.com/projects/kiwi//))These platforms can do all sorts of impressive acrobatics, but they require computer control—steering involves a lot of math—so they are mostly used in robots, and not in manned or remote-control vehicles. In fact, it was hard for me to find pictures of holonomic drive platforms not made of Legos!\n\nWhile there are industrial uses, they appear to be downstream of a short-lived vogue for holonomic drives in high school and college robotics clubs about 20 years ago—feeding the imaginations of kids who have now become senior engineers.\n\n**Our list so far has been skirting the outlines of a few massive gaps:** new wheels like the ones we have been discussing, but so successful and omnipresent that we do not consider them exotic. A couple you might be familiar with:\n\n![casterwheel.jpg](https://proxy.tedium.co/a7Ea5cH3vBCb6LWYC-tgQfEbrAE=/1000x667/filters:quality(80)/uploads/casterwheel.jpg)The caster wheel, which you probably use constantly without realizing it. (via [DepositPhotos](https://depositphotos.com/))- **The caster wheel** only dates to the middle of the eighteenth century, and wasn’t used outside of furniture manufacturing until the middle of the nineteenth; the conceptual innovation that it represents is similar to technical wheels.\n- **The tank tread** came up at the same time as the archimedes screw drive, and out-competed it along with its cousins, the pedrail and dreadnought wheels.\n\n![tanktread.jpg](https://proxy.tedium.co/IRM8xW0tiNCqETrM7vV4Smc9kcw=/960x828/filters:quality(80)/uploads/tanktread.jpg)The tank tread, which you might use if you drive a tank. ([MathKnight-At-Tau/Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rear-D9-0002.jpg))In many ways, the wheel itself is “new”: the myth of the wheel as the most monumental invention is itself an invention of the 20th century, when road infrastructure was massively expanded to support those new wheeled inventions—cars and bicycles. Only with nicely-paved and well-maintained modern asphalt roads going everywhere you want to go does it become obviously better to take a vehicle with wheels rather than riding an animal or walking.\n\nIn fact, there is a pattern, which we can see in the history of the wheel itself and in its many variations: The wheel spends centuries or millennia after its invention in toy, low-load operations. It remained limited until design refinements coincide with changes to infrastructure to suddenly make it widespread.\n\nThe era of tri-star-configured linear screw wheelsets is at hand after the squid people invade, I’m sure.\n\n--\n\nThanks to John for sharing his piece. Be sure to check out [his website](https://www.lord-enki.net/).\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/05/03/wheel-reinvention-technology-history/)!\n\n**Develop your analytical side:** Check out our sponsor [Scrimba](https://scrimba.com/tedium), which mixes video lessons with interactive code windows—and makes it feel downright approachable. [Sign up here for a 20% discount](https://scrimba.com/tedium).",
+        "url": "https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "2026-05-03T13:41:32.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Punk, or why I don’t stream anymore - > If you’re the sun, I’m a black hole > – The Stephen Hawking, Say Anything What killed th...",
+    "png-cmp: like cmp for PNGs - [`png-cmp`](https://codeberg.org/EvanHahn/png-cmp) is a program I built that checks if two...",
+    "Quoting Anthropic - 3rd May 2026 > We used an automatic classifier which judged sycophancy by looking at wheth...",
+    "QuickQWERTY 1.2.3 - By **Susam Pal** on 03 May 2026 [QuickQWERTY 1.2.3](https://susam.net/quickqwerty.html) is...",
+    "Minimal Viable Zig Error Contexts - May 3, 2026 ``` fn process_file(io: Io, path: []const u8) !void { errdefer log.err(\"path={..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 5
+    },
+    {
+      "word": "like",
+      "count": 4
+    },
+    {
+      "word": "dos",
+      "count": 4
+    },
+    {
+      "word": "quickqwerty",
+      "count": 4
+    },
+    {
+      "word": "io",
+      "count": 4
+    },
+    {
+      "word": "path",
+      "count": 4
+    },
+    {
+      "word": "log",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "png-cmp",
+      "count": 3
+    },
+    {
+      "word": "staff",
+      "count": 3
+    },
+    {
+      "word": "roman",
+      "count": 2
+    },
+    {
+      "word": "numerals",
+      "count": 2
+    },
+    {
+      "word": "function",
+      "count": 2
+    },
+    {
+      "word": "shape",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "pc",
+      "count": 2
+    },
+    {
+      "word": "callgraph",
+      "count": 2
+    },
+    {
+      "word": "analysis",
+      "count": 2
+    },
+    {
+      "word": "program",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "cmp",
+      "count": 2
+    },
+    {
+      "word": "pngs",
+      "count": 2
+    },
+    {
+      "word": "org",
+      "count": 2
+    },
+    {
+      "word": "susam",
+      "count": 2
+    },
+    {
+      "word": "html",
+      "count": 2
+    },
+    {
+      "word": "const",
+      "count": 2
+    },
+    {
+      "word": "engineer",
+      "count": 2
+    },
+    {
+      "word": "archetypes",
+      "count": 2
+    },
+    {
+      "word": "com",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "network",
+      "count": 2
+    },
+    {
+      "word": "server",
+      "count": 2
+    },
+    {
+      "word": "roms",
+      "count": 2
+    },
+    {
+      "word": "wheel",
+      "count": 2
+    }
+  ]
+}
