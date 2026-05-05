@@ -1,0 +1,760 @@
+{
+  "date": "2026-05-05",
+  "stats": {
+    "total_fetched": 277,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "llm-echo 0.5a0",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-echo/releases/tag/0.5a0\">llm-echo 0.5a0</a></p> <blockquote> <ul> <li>New <code>-o thinking 1</code> option to help test against <a href=\"https://llm.da...",
+        "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-05T01:31:54.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Chess Peace",
+        "summary": "Chess Peace — a new iOS game by Sam Shepherd — is my kind of logic puzzle. Each puzzle is a board with a few unplaced chess pieces. To solve you need to place all the pieces so that none of them attack each other. There’...",
+        "url": "https://chesspeace.app/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-05-05T02:18:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Impossible Things We Have to Believe",
+        "summary": "“Alice laughed. ‘There’s no use trying,’ she said. ‘One can’t believe impossible things.’ I daresay you haven’t had much practice,’ said the Queen. ‘When I was your age, I always did it for half-an-hour a day. Why, somet...",
+        "url": "https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 05 May 2026 17:09:12 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "RSS Feeds Send Me More Traffic Than Google",
+        "summary": "Yeah yeah, I know, data-point of 1. I recently read Susam's blog post where they said that \"most of the traffic to my personal website still comes from web feeds\" - I wondered if that was true for my site. I've been writ...",
+        "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Tue, 05 May 2026 11:34:12 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures",
+        "summary": "I want to speak to your manager. The post A dispute over the <KBD>TAB</KBD> key highlights a mismatch between Microsoft and IBM organizational structures appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 05 May 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Outrage is letting someone else set the frame",
+        "summary": "William Randolph Hearst bought the New York Morning Journal in 1895 - and immediately started running stories designed to make his readers furious before they’d finished their breakfast. The pages manufactured a mood, an...",
+        "url": "https://www.joanwestenberg.com/outrag/",
+        "source": "Westenberg.",
+        "tags": [
+          "Product"
+        ],
+        "published_at": "Tue, 05 May 2026 06:20:33 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "First desktop computer: Datapoint 2200",
+        "summary": "The first desktop computer dates to earlier than you probably think. And officially at least, it was an accident. Great inventions often are. But it was surprisingly similar to desktop computers that followed it. Design...",
+        "url": "https://dfarq.homeip.net/first-desktop-computer/?utm_source=rss&utm_medium=rss&utm_campaign=first-desktop-computer",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Tue, 05 May 2026 11:00:39 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-05T22:45:26.910Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Our AI started a cafe in Stockholm",
+        "summary": "5th May 2026 - Link Blog\n\n**[Our AI started a cafe in Stockholm](https://andonlabs.com/blog/ai-cafe-stockholm)** ([via](https://news.ycombinator.com/item?id=48028289)) Andon Labs previously [started a",
+        "content": "5th May 2026 - Link Blog\n\n**[Our AI started a cafe in Stockholm](https://andonlabs.com/blog/ai-cafe-stockholm)** ([via](https://news.ycombinator.com/item?id=48028289)) Andon Labs previously [started an AI-run retail store](https://andonlabs.com/blog/andon-market-launch) in San Francisco. Now they're running a similar experiment in Stockholm, Sweden only this time it's a cafe.\n\nThese experiments are interesting, and often throw out amusing anecdotes:\n\n> During the first week of inventory, Mona ordered 120 eggs even though the café has no stove. When the staff told her they couldn’t cook them, she suggested using the high-speed oven, until they pointed out the eggs would likely explode. She also tried to solve the problem of fresh tomatoes being spoiled too fast by ordering 22.5 kg of canned tomatoes for the fresh sandwiches. The baristas eventually started a “Hall of Shame”, a shelf visible to customers with all the weird things Mona ordered, including 6,000 napkins, 3,000 nitrile gloves, 9L coconut milk, and industrial-sized trash bags.\n\nWhere they lose their shine is when these AI managers start wasting the time of human beings who have *not* opted into the experiment:\n\n> She also successfully applied for an outdoor seating permit through the Police e-service, which didn’t require BankID. Her first submission included a sketch she had generated herself, despite having never seen the street outside the café. Unsurprisingly, the Police sent it back for revision. [...]\n\n> When she makes a mistake, she often sends multiple emails to suppliers with the subject “EMERGENCY” to cancel or change the order.\n\nI don't think it's ethical to run experiments like this that affect real-world systems and steal time from people.\n\nI'm reminded of the incident last year where the AI Village experiment [infuriated Rob Pike](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) by sending him unsolicited gratitude emails as an \"act of kindness\". That was just an unwanted email - asking suppliers to correct mistakes that were made without a human-in-the-loop or wasting police time with slop diagrams feels a whole lot worse to me.\n\nI think experiments like this need to keep their own human operators in-the-loop for outbound actions that affect other people.",
+        "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-05T22:14:21.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-llm 0.1a7",
+        "summary": "Release\n    \n    [datasette-llm 0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7)\n    — LLM integration plugin for other plugins to depend on\n  \n\n> \n> - Mechanism for [configuring ",
+        "content": "Release\n    \n    [datasette-llm 0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a7)\n    — LLM integration plugin for other plugins to depend on\n  \n\n> \n> - Mechanism for [configuring default options](https://github.com/datasette/datasette-llm/blob/main/README.md#configuration) for specific models.\n\n> \n\nPart of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all [enrichment](https://github.com/datasette/datasette-enrichments-llm) operations should use a specific model with temperature set to 0.5.",
+        "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-05T01:56:55.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting John Gruber",
+        "summary": "5th May 2026\n\n> So it’s well known that Y Combinator owns *some* stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little bir",
+        "content": "5th May 2026\n\n> So it’s well known that Y Combinator owns *some* stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At OpenAI’s current [$852 billion valuation](https://openai.com/index/accelerating-the-next-phase-ai/), that’s worth over $5 billion.\n\n— [John Gruber](https://daringfireball.net/2026/05/y_combinators_stake_in_openai), Y Combinator’s Stake in OpenAI\n\nPosted [5th May 2026](https://simonwillison.net/2026/May/5/) at 12:46 am\n\n## Recent articles\n\n  \n    - [LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/) - 29th April 2026\n\n  \n    - [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/) - 27th April 2026\n\n  \n    - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/) - 24th April 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [5th May 2026](https://simonwillison.net/2026/May/5/).\n\n    \n        [\n            john-gruber\n            40\n        ](https://simonwillison.net/tags/john-gruber/)\n    \n        [\n            y-combinator\n            59\n        ](https://simonwillison.net/tags/y-combinator/)\n    \n        [\n            ai\n            2003\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            openai\n            417\n        ](https://simonwillison.net/tags/openai/)",
+        "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-05-05T00:46:29.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion",
+        "summary": "“There are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.”\n\n— Chuck Todd, host of “Meet the Press”\n\n“Concise. Relevant. To th",
+        "content": "“There are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.”\n\n— Chuck Todd, host of “Meet the Press”\n\n“Concise. Relevant. To the point. Political Wire is the first site I check when I’m looking for the latest political nugget. That pretty much says it all.”\n\n— Stuart Rothenberg, editor of the Rothenberg Political Report\n\n“Political Wire is one of only four or five sites that I check every day and sometimes several times a day, for the latest political news and developments.”\n\n— Charlie Cook, editor of the Cook Political Report\n\n“The big news, delicious tidbits, pearls of wisdom — nicely packaged, constantly updated… What political junkie could ask for more?”\n\n— Larry Sabato, Center for Politics, University of Virginia",
+        "url": "https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-05-05T21:55:53.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Adobe’s ‘Modern’ User Interface Is Just Webpages",
+        "summary": "## \t\t[Adobe’s ‘Modern’ User Interface Is Just Webpages](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/)\n\t\t*⇥*\n\t\t\tunsung.aresluna.org\t\t\n\t\n\n[Marcin Wichary](https://unsung.aresluna.o",
+        "content": "## \t\t[Adobe’s ‘Modern’ User Interface Is Just Webpages](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/)\n\t\t*⇥*\n\t\t\tunsung.aresluna.org\t\t\n\t\n\n[Marcin Wichary](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/) did a wonderful job of poking through a few of the dialog boxes revised by Adobe in recent versions of Photoshop and — surprise, surprise — they are not good in lots of pretty rudimentary ways:\n\n> I know I [brought up](https://unsung.aresluna.org/decentralization-does-not-always-equal-delight/) that an existing power user base can be a huge pain in the ass, and I am a decades-old Photoshop power user. But this is different than other examples where the product needs or at least wants to evolve past its core audience or toward a different market. For Photoshop here, nothing I see indicates any change in course or clientele – and yet all of these good moments in UI that used to help me out no longer exist.\n\n> \n> Plus, all those transgressions are solved problems. Those issues are not buried in pages of heavily litigated patents, or in seven collective brains of world-class interface designers whose driveways are presently occupied by cash-filled trucks sent over by frontier companies. This isn’t some long lost art that requires archaeologists to decipher. This feels like carelessness and laziness in face of basic UI engineering; in a likely internally-motivated effort to refresh the interface, the team threw an entire nursery worth of babies with the bathwater.\n\nIf you do a little poking around in Adobe’s application bundles, a key reason for the jankiness of these user interfaces becomes apparent: it is because they are little webpages. These dialog boxes are HTML files that reference a chunky CSS file and oodles of JavaScript, and appear to be built with React.\n\nThis is loathsome.\n\nThere are people out there who will insist it is unfair to blame the tools and that bad user interfaces can be built in entirely native languages, too, which is true. Also, Adobe’s interface has always been unique and not quite at home on either MacOS or Windows. Maybe it really is possible to build a web app that feels platform native. But I have never used one — not once — and for this mess to be increasingly used in the industry-standard professional suite of creative tools is maddening.\n\nThere are good reasons why Adobe is [ridding itself of allies](https://pxlnv.com/linklog/adobe-no-allies/), and this is one of them. I was going to write about how this stuff should have been tried with people who actually use Adobe’s apps in a high-pressure environment, but I am sure it was and, also, it does not matter. Wichary has it right. These are fundamental principles of user interface design that Adobe is ignoring because its internal tooling has taken precedence.\n\n**See Also:** [Michael Tsai’s link roundup](https://mjtsai.com/blog/2026/04/30/photoshops-modern-spectrum-user-interface/).",
+        "url": "https://pxlnv.com/linklog/adobe-modern-user-interface/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-05-05T02:17:00.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Software as the Product of Obsession Times Voice",
+        "summary": "Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “[Obsession Times Voice](https://daringfireball.net/2009/03/obsession_times_voice)”. Regarding how it turned out, [I wrote](https://d",
+        "content": "Back in 2009, Merlin Mann and I jointly gave a talk at SxSW titled “[Obsession Times Voice](https://daringfireball.net/2009/03/obsession_times_voice)”. Regarding how it turned out, [I wrote](https://daringfireball.net/2009/03/obsession_times_voice):\n\n> My muse for the session was this quote from Walt Disney: *“We\n> don’t make movies to make money; we make money to make more\n> movies.”* To me, that’s it. That’s the thing.\n\nMerlin and I were talking about independent writers and podcasters, because that’s what we were (and remain), but the concept applies just as perfectly to independent developers. This came to my mind after reading ([and linking to](https://daringfireball.net/linked/2026/05/05/pedometer-plus-plus-8)) David Smith’s description of the new Pedometer++ today. Not just what it does, but why he spent [six years making it](https://david-smith.org/blog/2026/04/29/maps-on-watchos/). That’s the sort of productive obsession that fascinates me.\n\nIce water is always refreshing, but it tastes better when you’re on a road trip to hell. It feels like the world of software is bifurcating quality-wise. This [whole](https://daringfireball.net/linked/2026/05/04/photoshop-modern-user-interface) [thing](https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages) about [Adobe’s new craptacular “modern” UI language](https://mjtsai.com/blog/2026/04/30/photoshops-modern-spectrum-user-interface/) (a.k.a. “[Spectrum](https://spectrum.adobe.com/)”) exemplifies one side of that bifurcation — the bad-and-getting-worse side. Software that is the product not just of an ignorance of [long-established principles of interaction design](https://asktog.com/atc/principles-of-interaction-design/), but of a [willful disdain for those principles](https://daringfireball.net/2025/12/bad_dye_job#:~:text=the%20key%20window). What Adobe is now shipping is just inexplicably bad UI, ignoring literally decades of great work and long-mastered concepts — a lot of which work was [pioneered by Adobe itself](https://daringfireball.net/linked/2026/05/04/adobe-modern-webpages)!\n\nThe [whole](https://daringfireball.net/linked/2026/04/13/tahoe-reduce-transparency) [thing](https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe) with [MacOS 26 Tahoe](https://daringfireball.net/2025/12/bad_dye_job) is similar. To be clear, the UI crimes in Tahoe are deeply worrisome, but they are nowhere near as severe as those in Adobe’s Spectrum. But the problems with Tahoe are steps down the same fork in the road that Adobe took years ago. Spectrum is where Tahoe suggests that MacOS was headed under Alan Dye’s leadership: cross-platform sameness for the sake of sameness, with a complete disregard for longstanding platform nuances and idioms. In Spectrum’s case those platforms are MacOS and Windows and [the web](https://helpx.adobe.com/account/individual/subscriptions-and-plans/plan-types-and-eligibility/cc-app-web-mobile-access.html). In Tahoe’s case it’s MacOS and iOS.[1](#fn1-2026-05-05)\n\nThe other side of the software fork is not deserted. It’s just populated, more than ever, by the products of small independent developers who obsess, first and foremost, over quality and artistic vision. Remarkable new software gems exhibiting spectacular UI design [appear](https://www.currentreader.app/) [all](https://daringfireball.net/linked/2026/05/04/chess-peace) the [time](https://daringfireball.net/linked/2026/04/15/so-close-to-getting-it). They’re just not coming from the biggest companies, the ones whose apps, [alas](https://daringfireball.net/linked/2026/03/28/netflix-wrecked-their-tvos-video-player), dominate not just our desktops and pockets but our entire culture today.[2](#fn2-2026-05-05)\n\nThere’s always been software with poorly designed user interfaces. Much of it has been successful financially, sometimes spectacularly so. I’d argue, in all seriousness, that that’s the story of Microsoft in a nutshell. What’s new today is poorly designed software from developers [from whom we expect better](https://daringfireball.net/linked/2026/04/16/miller-netflix-tvos). In the old days there were people who would argue that prioritizing good user interface design was a waste of time — like spending hours decorating cupcakes destined for kindergarteners who are simply going to mash them into their mouths. (Again: cf. Microsoft’s undeniable market success.) What’s new today is people holding up objectively bad interaction design and proclaiming it to be good, and the product of teams that purportedly prioritize “design”, when it’s clear they have no idea what they’re talking about. It’s one thing to make something poorly designed and shrug on the grounds that it doesn’t matter. It’s another thing to make something poorly designed and hold it up as good design.\n\nWe are justified to expect nothing short of [insane greatness](https://www.folklore.org/How_to_Hire_Insanely_Great_Employees.html) from Apple, and solidly good design from Adobe. In principle, all software ought to have well-designed user interfaces. That’s never going to be the case. But software for designers — Adobe’s *raison d’être* — absolutely demands to be well-designed itself, like how [a book on writing](https://daringfireball.net/linked/2009/03/31/zinsser) must itself [be well-written](https://daringfireball.net/linked/2009/03/23/strunk-and-white).\n\nPerhaps I was wrong, though, to describe Adobe’s new UI as inexplicable. It’s just indefensible. The explanation for so much software going so rotten from a UI-design perspective is, the more I think about it, related to [Nilay Patel’s “Software Brain”](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation) theory, which I’ve commented on both [directly](https://daringfireball.net/linked/2026/04/23/patel-software-brain) and [indirectly](https://daringfireball.net/2026/04/we_dont_serve_their_kind_here). Here’s Patel’s definition of “software brain”:\n\n> The simplest definition I’ve come up with is that it’s when you\n> see the whole world as a series of databases that can be\n> controlled with the structured language of software code. Like I\n> said, this is a powerful way of seeing things. So much of our\n> lives run through databases, and a bunch of important companies\n> have been built around maintaining those databases and providing\n> access to them.\n\n> \n> Zillow is a database of houses. Uber is a database of cars and\n> riders. YouTube is a database of videos. The Verge’s website is a\n> database of stories. You can go on and on and on. Once you start\n> seeing the world as a bunch of databases, it’s a small jump to\n> feeling like you can control everything if you can just control\n> the data.\n\n> \n> But that doesn’t always work.\n\nYou might think it counterintuitive that a movement obsessed with software would be spearheading a severe decline in the design quality of software, but in Patel’s definition, there’s no concept of software as art, as a practice, as a craft. Software brain is purely an obsession with software as a medium in and of itself. A means with no consideration for the end.\n\nFramed in Walt Disney’s adage, software brain makes software only to make more money. The idea of making money in order to make more software — to afford the time and talent to *craft* it — does not compute. Framed in the metaphor that Steve Jobs used to [close his introduction of the original iPad](https://www.youtube.com/watch?v=OesY-denV8k), and returned to again [to close his final keynote at WWDC 2011](https://www.youtube.com/watch?v=sUCpuaqlISQ), software brain is nowhere near the intersection of technology and the liberal arts. Software brain is so far down Technology Street that it’s no longer in the same zip code as Liberal Arts Avenue. Another way, perhaps, to define *software brain* is that it’s the utter rejection of Jobs’s maxim that “technology is not enough”. With software brain, technology is all there is.",
+        "url": "https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "2026-05-05T21:01:05.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.",
+        "summary": "![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/69a167cbb4fc5655a9de2b90_hero-pattern.avif)\n\nTrusted by\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6892d2e5181241e",
+        "content": "![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/69a167cbb4fc5655a9de2b90_hero-pattern.avif)\n\nTrusted by\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6892d2e5181241ef6a5df6f4_clay-logo.png)\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/63e251327a19713a5ce17b54_icon-sso.png)\n\n#### Auth for all SSO providers\n\nSupport any SAML or OIDC identity provider with a single integration\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/656545520bd5f04e20a3a6a7_um.png)\n\n#### Complete User Management\n\nManage users and organizations, set policies, and support all auth types\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6560b853025aee8784246561_social-icon.png)\n\n#### Social authentication\n\nSign in to your app with Microsoft, Google, and more\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/65654341bfdb733f6715f944_authkit.png)\n\n#### AuthKit\n\nFlexible authentication UI powered by WorkOS and Radix\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/64cd1a29bcc1ade00cb6512a_icon-magic-link.png)\n\n#### Magic Auth\n\nPasswordless auth with a six-digit code sent via email\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/63e25132f3d2d0e80db83c38_icon-mfa.png)\n\n#### Multi-Factor Auth\n\nManage users and organizations, set policies, and support all auth types\n\nWorkOS provides a single, elegant interface that abstracts dozens of enterprise integrations.\n\nRESTful APIs, JSON responses, and normalized objects\n\nDashboard seamlessly integrates WorkOS into your application\n\nRealtime updates from directory services with webhook events\n\nModern SDKs for Node.js, Ruby, Python, .NET, Go and more\n\nMultiple environments to map to your application development process\n\nSupports 20+ enterprise services with a single integration point\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport WorkOS from '@workos-inc/node';\n\nconst workos = new WorkOS('sk_example_123456789');\n\nconst profile = await workos.sso.getProfileAndToken({\n  code: '01E2RJ4C05B52KKZ8FSRDAP23J',\n  clientID: 'client_123456789',\n});\n\n```\n\n```\n\n# Get a user’s access token and\n# profile data from an Identity Provider\n\nrequire 'workos'\n\nWorkOS.key = 'sk_example_123456789'\n\nWorkOS::SSO.profile_and_token(\n  code: '01E2RJ4C05B52KKZ8FSRDAP23J',\n  client_id: 'client_123456789',\n)\n\n```\n\n```\n\n# Get a user’s access token and\n# profile data from an Identity Provider\n\nimport workos\nfrom workos import client\n\nworkos.api_key = 'sk_example_123456789'\nworkos.client_id = 'client_123456789'\n\nclient.sso.get_profile_and_token('01E2RJ4C05B52KKZ8FSRDAP23J')\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport \"github.com/workos/workos-go/pkg/sso\"\n\nsso.SetAPIKey(\"sk_example_123456789\")\n\nsso.GetProfileAndToken(\n  context.Background(),\n  sso.GetProfileAndTokenOptions{\n    Code: \"01E2RJ4C05B52KKZ8FSRDAP23J\",\n  }\n)\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\n$this->sso = new WorkOS\\SSO();\n\n$profile = $this->sso->getProfileAndToken(\"01E2RJ4C05B52KKZ8FSRDAP23J\");\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport com.workos.WorkOS;\n\nWorkOS workos = new WorkOS(\"sk_example_123456\");\n\nProfileAndToken profileAndToken = workos.sso.getProfileAndToken(\"01E2RJ4C05B52KKZ8FSRDAP23J\", \"client_123456789\");\n\nProfile profile = profileAndToken.profile;\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nWorkOS.SetApiKey(\"sk_example_123456\");\n\nvar ssoService = new SSOService();\nvar options = new GetProfileAndTokenOptions\n{\n    ClientId = \"client_123456789\",\n    Code = \"01E2RJ4C05B52KKZ8FSRDAP23J\",\n};\n\nvar profile = await ssoService.GetProfileAndToken(options);\n\n```\n\n```\n\ncurl --request POST \\\n  --url \"https://api.workos.com/sso/token? \\\n  client_id=client_123456789& \\\n  client_secret=sk_example_123456789& \\\n  grant_type=authorization_code& \\\n  code=01E2RJ4C05B52KKZ8FSRDAP23J\"\n  \n  \n  \n  \n  \n  \n  \n\n```\n\nHTTP 200\n\n```\n\nResponse {...}\n  \"access_token\": \"01DMEK0J53CVMC32CK5SE0KZ8Q\",\n  \"profile\": {\n    \"id\": \"prof_01DMC79VCBZ0NY2099737PSVF1\",\n    \"connection_id\": \"conn_01E4ZCR3C56J083X43JQXF3JK5\",\n    \"connection_type\": \"okta\",\n    \"email\": \"alan@foo-corp.com\",\n    \"first_name\": \"Alan\",\n    \"last_name\": \"Turing\",\n    \"idp_id\": \"00u1a0ufowBJlzPlk357\",\n    \"object\": \"profile\",\n    \"raw_attributes\": {...}\n  }\n\n```\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6226192ae8794e89d2b5c669_circuit-bottom.png)![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6231d0a899cd495a6bf97442_bottom%20looping%20lines.png)\n\n![SCIM Provisioning](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/622220b9065f1eb94576fe29_scim-provisioning.png)\n\n#### SCIM provisioning\n\nwith Okta, Entra ID, ADFS, and more\n\n![HRIS Integration](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/622220b4926e7f1a0c030902_hris-integration.png)\n\n#### HRIS integration\n\nwith Bamboo, Rippling, and others\n\n![Admin Portal Screenshot](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/62222908926e7fca62036998_admin-portal-setup.png)\n\nEffortlessly connect any identity provider or directory\n\nCustomize the look and feel to match your brand\n\nHost on your custom domain (CNAME)\n\nA polished experience for IT administrators\n\nStep-by-step setup guides with detailed screenshots\n\nSeamlessly integrates into your existing application\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/624468a7c2b41c814c45842f_vercel%20logo.svg)\n\n> “I think we could have done even more business if we had partnered with WorkOS earlier, it's been incredibly well received.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/69a1ff8ece2f0514207b1835_openai.svg)\n\n> “The WorkOS team was right there with us every step of the way. Their support ensured those final migrations were just as smooth as the rest.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6997547c8d4f2312bf9f8703_cursor-logo-dark.svg)\n\n> “Cursor now completely runs on WorkOS. Login times are much faster, the signup page looks much better, and we’re not subject to Auth0's customer-hostile and opaque pricing anymore. Plus, we’re excited to add SSO for our business tier soon.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67572d291354e5d253da68dd_perplexity-logo-new.svg)\n\n> “SSO is a crucial part of our Enterprise Pro plan, and with WorkOS we could roll it out in less than a week. Docs are comprehensive, the Admin Portal has made customer onboarding a breeze, and the level of support we received directly in Slack has been phenomenal.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6633c22e7a79c3d00b900ea0_wTai-hE7_400x400.jpg)\n\nDmitry Shevelenko\n\nChief Business Officer\n\n[Read more\n\n](https://workos.com/customers/perplexity)![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d2a2dc94bc67448a25658_webflow-logo-color.svg)\n\n> “Integrating was straightforward, pleasant, and fun. The team answered my questions quickly, and went above and beyond to help when I ran into issues.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/62517ed2f5680e39a9bda57e_planetscale-logo.svg)\n\n> “When I asked the team, how was the experience with WorkOS? They were just like, this is incredible.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/68b9a7ee97edddb544403049_drata-logo.svg)\n\n> “WorkOS simplified the complexity of implementing single sign-on (SSO) with multiple identity providers.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d270e40fa9a01f696c38d_chromatic-seeklogo.com%202.svg)\n\n> “With our in-house solution we had to spend 2-4 hours provisioning each SSO connection. I wanted to find a solution that would allow us to focus on building core-products.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/659d6e69ea40cd6ac797b29f_Magical.svg)\n\n> “We did consider open source, but WorkOS provided a far superior developer experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d037d65e6d3872ef59218_incident-seeklogo.com.svg)\n\n> “With Audit Logs, we were able to launch the storage, querying, and export capabilities we needed into production in just a matter of days.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65cbf9d58a00fc75c3cbf8a8_a5f2cab3f7039d0598c1033c956e6dc4288e042b.png)\n\n> “We viewed WorkOS’ connections-based pricing as a more viable option aligned with our projected growth. The Admin Portal has also been a critical feature allowing us to save engineering time and provide a more polished enterprise experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d040fb91d5b255ecd38ce_logo-netlify-large-fullcolor-lightmode.svg)\n\n> “WorkOS’ SCIM API has been a game-changer, enabling us to meet the user lifecycle management needs of our largest enterprise customers.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/660ee5bd7ee6e3aef1a26878_659e8f4c92a0028e36e42623_logo_kerning-fix.svg)\n\n> “The decision to use WorkOS was straightforward. We saw good feedback from existing customers and reviewing the documentation made us confident that our needs would be addressed.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/64e7b2371cbba7aa223eafb7_63570707fdaa3df0658973c2_Patch%20Logo%20Dark.svg)\n\n> “WorkOS was super easy to self serve and get up and running. It provided us super easy-to-implement must-have functionality out of the box.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67572dd70a0090467da48725_prefect-logo.svg)\n\n> “What sold WorkOS was the Admin Portal. Our UI gives customers a link; they go to the Admin Portal, complete onboarding steps at their leisure, and never have to talk to us, making the onboarding process a breeze.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6687ef79cf79da3be4d185d8_cropped-Official-Logo.webp)\n\n> “SCIM is a game-changer for our customers, saving them a lot of time and reducing friction. It's crucial because, without SCIM, customers would likely get frustrated and might even switch to another provider with a smoother experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/66abc3f590ca831b2f477901_warp-logo-black.png)\n\n> “The onboarding process has been excellent. I love sending IT admins the link to set it up themselves and getting an email notification when it's completed. It's so efficient not having to get into meetings or go back and forth via email with IT personnel. ”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65f43dd23bea3bc201457978_indeed-logo.svg)\n\n> “​​If you work with another provider, you probably won’t get the same level of support that WorkOS provides. We'd get immediate responses to technical questions we posted in Slack.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65ef561c86bd8082b48d6495_Hannah%20Han.jpg)\n\nHannah Han-Ciaravella\n\nSenior Product Manager\n\n[Read more\n\n](https://workos.com/customers/indeed)",
+        "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-05-05T02:28:25.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Package Manager Threat Models",
+        "summary": "The [previous post](https://nesbitt.io/2026/05/04/package-manager-cwes.html) catalogued the bugs that get filed against package managers: path traversal in the extractor, argument injection in the git",
+        "content": "The [previous post](https://nesbitt.io/2026/05/04/package-manager-cwes.html) catalogued the bugs that get filed against package managers: path traversal in the extractor, argument injection in the git driver, XSS in the registry’s README renderer. Things you can find by reading code, point at a line number, and patch.\n\nThis post is the other half. The properties below are working as designed, so nobody files a CVE for them. They’re also where almost every supply-chain incident with a name actually came from. In [event-stream](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident), [ua-parser-js](https://github.com/advisories/GHSA-pjwm-rvh2-c87w), [left-pad](https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm), and [xz](https://www.openwall.com/lists/oss-security/2024/03/29/4), the package manager did exactly what it was built to do.\n\nIf the first post was a list of patterns to grep for, this one is a list of questions to answer in prose. The output of working through it is a few paragraphs per heading describing what the tool actually does, because the answers differ a lot from one tool to the next and most of them aren’t written down anywhere except the source.\n\n## Client\n\n### Code execution at install time\n\nThe single biggest design decision a package manager makes, and the one most of the incident record hangs off, is whether `install` runs code from the package: on the user’s machine, with their privileges, with access to their environment, before they’ve seen a line of it.\n\nMost language package managers do by default. npm runs `postinstall`, pip runs `setup.py`, Cargo compiles and runs `build.rs`, gem runs native extension builds. The mechanism exists for good reasons (you need to compile the C bits somehow) and it’s also the mechanism behind event-stream, ua-parser-js, [node-ipc](https://github.com/advisories/GHSA-97m3-w2cp-4xx6), [colors](https://snyk.io/blog/open-source-npm-packages-colors-faker/), and every install-script worm since.\n\nList which lifecycle hooks exist, which run by default, which run for transitive dependencies as well as direct ones, what user they run as, whether there’s a flag to turn them off and whether anything actually works with that flag set. Then the same again for global installs, which on some platforms means root, and for dev and optional dependencies, which some tools install and run hooks for unless told otherwise. Go and Deno are interesting reference points precisely because they answered “nothing runs” and built the rest of the design around that constraint.\n\n### Code execution before install time\n\nThe less obvious version of the same question. The user’s mental model is usually that `install` is the dangerous command and `lock`, `audit`, `outdated`, and `metadata` are safe. The CVE record from the last post shows where that model is wrong by accident; this section is about where it’s wrong by design.\n\nA `setup.py` is a Python program, and for a long time getting the version number out of one meant running it. A `build.gradle` is a Groovy program and resolving the dependency graph means evaluating it. Manifest formats that are data (TOML, JSON, a locked-down YAML subset) draw a hard line here that manifest formats that are programs can’t. Work out which commands a cautious user can run on an untrusted checkout; for several tools the honest answer is none of them.\n\n### Lockfile guarantees by design\n\nThe previous post covered lockfile bugs: code paths that ignore the lock when they shouldn’t. The design question underneath is what the lockfile is even trying to promise.\n\nLockfiles that pin a content hash (`go.sum`, `package-lock.json`, `Cargo.lock` since 1.0) guarantee the bytes you get are the bytes that were locked. Others pin only a name and version and trust the registry to keep serving the same bytes for that pair (`Gemfile.lock`, classic `yarn.lock`). On top of that, several tools have two install commands, one that respects the lock strictly and one that’s allowed to update it; `npm install` versus `npm ci` is the pair most people meet first.\n\nGo’s [checksum database](https://go.dev/ref/mod#checksum-database) is the most developed answer here: a public append-only log of every module version’s hash that the client verifies against by default, so neither a proxy nor the origin can change what a version resolves to after the fact. It sits outside both client and registry, which is part of why it’s interesting.\n\nRecord what’s pinned, which commands honour it, and whether the CI template uses the strict one.\n\n### Package name identity\n\nThe rules for when two package names count as equal vary by registry, and nearly all of them normalise something: case, `-` vs `_` vs `.`, Unicode width. Clients have repeatedly disagreed with their registries about exactly which of those apply, and the space between the two normalisers is where one package can shadow another. Document the client’s normalisation rules and confirm they match the registry’s exactly, including for names that arrive via a lockfile or a transitive manifest rather than user input.\n\n### Resolution across multiple sources\n\nMost clients can be configured with more than one place to fetch from: a public registry plus a private one, or a primary plus a mirror. The [2021 dependency confusion research](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) showed what happens when the same name exists in both and the resolver picks by version rather than by source. An attacker registers an internal package name on the public registry with a higher version number and the resolver prefers it. pip’s `--extra-index-url` treating all indexes as equivalent is [documented behaviour](https://github.com/pypa/pip/issues/8606), and the CVE filed for it was disputed on exactly those grounds.\n\nDetermine what the resolver does when a name is satisfiable from more than one configured source: highest version across all of them, first source that has it, explicit per-dependency pinning, or refuse. Then whether a source added for one dependency is allowed to satisfy others, and whether the lockfile records which source each package actually came from.\n\n## Registry\n\n### Namespace allocation\n\nFirst-come, first-served is the default for almost every public registry, and it means the security of the name `requests` rests on whoever happened to register it in 2011 still being a good actor in 2026. There’s no fix for this that doesn’t also destroy what makes open registries useful, but the policies around the edges vary a lot and matter a lot.\n\nFind out whether a name can be transferred, and who decides; what happens to a name when its owner deletes their account; whether a deleted name can be re-registered by someone else, and after how long. That last one is the [revival hijack](https://jfrog.com/blog/revival-hijack-pypi-hijack-technique-exploited-22k-packages-at-risk/) surface, and a registry that allows immediate re-registration of freed names is handing an attacker every package whose maintainer ever rage-quits. Scoped or org-prefixed namespaces (`@scope/pkg`, `group:artifact`) shrink the problem and are worth noting where they exist.\n\nThe adjacent surface is [typosquatting](https://incolumitas.com/2016/06/08/typosquatting-package-managers/): names that are different to the registry and the same to a human. It has been demonstrated against every major registry, and the design question is whether publish-time checks do anything about it: similarity scoring against existing names, reserved prefixes, blocking confusable Unicode, or nothing.\n\n### Maintainer lifecycle\n\nThe xz incident is the reference case: nothing was hacked, a new maintainer was added through the normal process, and the trust users had placed in the original author transferred silently to someone with different intentions. The package manager can’t solve a social-engineering campaign, but it does decide how visible the handover is.\n\nEstablish how a maintainer is added to a package (invite, request, automatic via org membership), whether existing users get any signal when the set changes, whether a newly added maintainer can publish immediately or there’s a delay, and whether there’s any concept of role (publish vs admin vs read). Most registries treat all maintainers as equivalent and notify nobody when one is added; write that down too.\n\nThe set can also shift without the registry recording anything, because on most registries a maintainer’s identity is, at bottom, control of an email address. Password reset goes to whatever address is on file, and if that address is at a domain that has since lapsed, registering the domain is enough to take the account. Work out what account recovery rests on: a single address, a second factor, a hardware key; whether that address is ever re-verified; and whether a long-dormant account can ship a new release with nothing more than a reset link.\n\n### Immutability of published versions\n\nOnce `foo 1.2.3` is published, the bytes should never change. On most modern registries that holds, though the path there went through left-pad and the edges are still worth checking.\n\nCheck whether a version can be deleted, and if so whether the name+version becomes available again or is tombstoned; what “yank” means (hidden from resolution but still installable by lockfile, or actually gone); whether there’s a window after publish during which a version can be silently replaced; and whether the answers differ between the CDN, the API, and any mirrors. A registry that allows republishing a deleted version is one where a lockfile that pins by version alone guarantees nothing.\n\n### Provenance from source to artifact\n\nFor most of the history of package registries there has been no verifiable link between a tarball on the registry and the repository it claims to come from. The `repository` field in the manifest is a string the publisher typed. The 3.0.1 on the registry and the `v3.0.1` tag on GitHub are correlated by convention alone.\n\nThis is changing. [Trusted publishing](https://docs.pypi.org/trusted-publishers/) (PyPI, RubyGems, crates.io, npm and others) ties the publish credential to a specific CI workflow, and [provenance attestations](https://docs.npmjs.com/generating-provenance-statements) record which commit and workflow produced the artifact in a way the client can verify. Note whether the registry supports either, whether the client surfaces it, and roughly what fraction of the popular packages actually use it, because an opt-in attestation on three percent of packages is a very different security property from a mandatory one.\n\n### The minimum viable publish credential\n\nThe publish token is the thing attackers exfiltrate from CI logs, phish from maintainers, and find in old commits, so its shape matters more than almost anything else on the registry side. The previous post covered tokens whose scope enforcement is buggy; here it’s what scopes exist in the first place.\n\nMap out the dimensions: scope (one package, or everything the owner can publish), capability (publish-only, or also add maintainers and change settings), expiry (mandatory, optional, none), and whether the 2FA-on-publish requirement comes with an automation-token bypass and how narrow that bypass can be made. Then what happens to a leaked one: whether the token has a recognisable prefix and the registry is enrolled with the secret scanners that would auto-revoke it, or whether it’s an unmarked string that sits in a public commit until used. On a registry where the only credential is a session-equivalent API key with no expiry, one leaked CI variable is the whole account, forever. On one with short-lived OIDC-exchanged tokens scoped to one package, it’s a single bad release.\n\n### Blast radius and detection\n\nThe last question is what happens after a compromise rather than before. If a maintainer account publishes a malicious version, how far does it spread before anyone can plausibly notice, and what does the registry give incident responders to work with?\n\nLook for anomaly detection on publish (new maintainer, long-dormant package, version published from a new country); a way to mark a published version as malicious so that clients refuse it rather than just hiding it from resolution; an audit log of who published what from where; and a way for the registry to tell downstream users they’ve installed something that’s since been pulled. None of this prevents the compromise, but the difference between “pulled in twenty minutes with a list of affected installs” and “noticed by a third party after three weeks” is mostly down to whether these exist.\n\nBoth halves apply recursively. The client is software with dependencies, usually from the ecosystem it serves: npm is an npm package, Bundler is a gem, Cargo is built with Cargo. The registry is an application with a manifest that often resolves against itself: rubygems.org has a Gemfile, crates.io has a `Cargo.toml`. A compromised package in either tree is code execution inside the thing the rest of the ecosystem has to trust.\n\nSo the questions above apply to the tool’s own manifests. How the client’s and registry’s dependencies are handled: vendored into the source tree, pinned by content hash in a committed lockfile, or resolved at build time from the live registry. pip [vendors everything](https://pip.pypa.io/en/stable/development/vendoring-policy/) under `pip._vendor` to break the loop on the client side. On the registry side the sharper version is whether anything in the deploy’s dependency tree runs install-time hooks, because that’s where a dependency becomes code on the box that holds everyone’s publish credentials.\n\nA project that answers all of these in writing has something close to a published threat model. A few already do: npm’s [threats and mitigations](https://docs.npmjs.com/threats-and-mitigations) page covers most of this list from the maintainer’s side, and the OpenSSF’s [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security) covers the registry half as a maturity model for operators. The CVE catalogue in the previous post will keep growing as bugs are found and fixed. This list mostly won’t, which is the argument for writing the answers down somewhere users can read them instead of leaving them implicit in the source.",
+        "url": "https://nesbitt.io/2026/05/05/package-manager-threat-models.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-05T10:00:00.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/05May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/05/three-is-",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/05May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/05/three-is-a-magic-number/)\n\n## Today's links\n\n- [The three armies fighting for the post-American world](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#coalitions): Hippies, investors and hawks.\n\n- [Hey look at this](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#retro): NK dictator's son v Tokyo Disneyland; Mainstream press and Bushies v Colbert; Taliban v Pakistan's first McDonald's; Norwegian sovereign wealth fund v exec compensation; Copyright v cheerleader uniforms; Dishwashers are Iphones.\n\n- [Upcoming appearances](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#upcoming): Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh.\n\n- [Recent appearances](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/trumps-armies.jpg?w=840&ssl=1)\n\n## The three armies fighting for the post-American world ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#coalitions))\n\nPolitical change is downstream of coalition building, and coalitions are fragile things, because by definition they are not fully aligned; they share some goals but often violently disagree about others. A coalition forms when groups set aside their differences to pursue the common elements of their agenda.\n\nTrump is a master coalition builder. He wouldn't have been able to seize and wield so much power without a coalition that includes people who *absolutely hate each other and want each other to die*. Let's face it, Nick Fuentes wants to turn Ben Shapiro into a lampshade, but they both sent their followers to the ballot box for Trump. We've all seen those videos of Trump supporters railing against \"elites\" after watching the richest man on Earth cavorting with Trump while promising to give all of their jobs to AI and robots.\n\nThis contradiction isn't a bug, it's a feature: the bigger a coalition gets, the more power it has – provided you've got a Trump figure at the top, using his cult of personality to coerce and flatter his coalition members into playing nice with each other.\n\nBut Trump's incontinent belligerence, his bullying, and his cognitive decline mean that he's conjuring a new *anti*-Trump coalition into existence: groups of people who don't agree on much, but *do* agree on fighting Trumpismo and its leader. This is very visible in US domestic politics, where \"Never-Trumper\" conservatives find themselves on the same side as Democratic Socialists, at least on this narrow issue. The anti-Trump mass mobilizations – the Women's March, the anti-ICE demonstrations, the No Kings rallies – are visibly, palpably coalitional, made up of people carrying signs and banners for groups that are often at odds with one another…except when it comes to Trump.\n\nBut I'm much more interested in the *international* coalitions that are forming to fight Trump. It started with my longstanding fight for a good internet, free from surveillance, extraction and manipulation, the three evils inherent to the business models of America's shitty, enshittifying tech companies.\n\nUnder normal circumstances, you'd expect tech companies in other countries to capitalize on the fact that America exports its obviously defective tech products around the world. As Jeff Bezos often reminds his suppliers: \"Your margin is my opportunity.\" Whether it's Apple taking a 30% margin on iPhone payments, Apple and Meta creaming 51 cents off every ad dollar, Amazon harvesting 50-60% from every platform seller, or inkjet printer companies marking up the colored water you use to print your grocery list by 25 quattuordecillion percent, there's a *ton* of opportunities to disrupt these comfortable ex-disruptors.\n\nBut no one does that, because the US Trade Representative bullied every US trading partner into enacting an \"anticircumvention\" law that makes it a crime to modify America's tech exports. The quid pro quo for this? Free trade with the USA – and tariffs for any country that didn't fall into line. Well, they all fell into line, and Trump tariffed them anyway.\n\nThat means that America's tech giants' margins are now everyone else's opportunity. The trillions that US tech companies extract could be someone else's billions – all they'd have to do is offer the interoperable goods and services that disenshittify America's tech products. They could sell the tools that let anyone in the world use independent app stores, or fix their cars and tractors, and put generic ink in their printers. A year ago, no country could afford to allow a company headquartered in its borders to get into this business, lest they be clobbered with tariffs. Today, any country that *isn't* thinking about this is a sucker that will end up buying these tools from *another* country that gets there first.\n\nThis means that digital rights hippies like me (who've been banging this drum for 25 years), suddenly have a new ally in the fight against enshittified tech products. Today, there are people who want to help you protect your pocketbook and your privacy, but not because they believe in human rights – rather, because they want to get *really, really rich*. They see Big Tech's margin as their opportunity.\n\nBut it's not just entrepreneurs and activists who want a post-American internet – we have a third member of our coalition: national security hawks. Trump wants to steal Greenland. He wants to steal Alberta. He wants to steal all the oil in Venezuela. He wants to interfere in foreign elections to keep his dictator cronies in office, lest they lose power and find themselves facing prison. And when Trump's allies *do* face justice, he wants to fire the judges who dare hold these corrupt, powerful men to account.\n\nSo when the International Criminal Court issued an arrest warrant for the genocidaire Benjamin Netanyahu, Trump had Microsoft shut down the court's IT systems. The Chief Justice of the ICC lost his Office 365 account, which means he can't access his email archives, his working files, his calendar or his address books. He can't even log in to his *non*-Microsoft accounts because they're tied to his Outlook email address.\n\nThe ICC was just a warmup: Trump did the same thing to the Brazilian high court judge who sentenced the dictator Jair Bolsonaro to prison for attempting a coup after he lost his re-election bid, having presided over a term of gross misrule.\n\nAll of this has inflamed concerns within every (former) US ally's national security establishment. These people all understand that Trump doesn't need to roll tanks to take over their countries: he can just brick their key ministries, major firms, and households. He doesn't need to send an army to steal Greenland, he can just shut down Denmark and cut off the world's supply of Lego, Ozempic and ferociously strong black licorice.\n\nCombine the natsec hawks; the economic development wonks, entrepreneurs and investors; and the privacy and digital and human rights activists, and you've got a hell of an anti-Trump coalition around the world, all pulling together to build the post-American internet, a disenshittified and enshittification-resistant internet built on international digital public goods and running on servers outside of the USA:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nBut this coalition isn't limited to the post-American internet – you'll find a coalition much like it in every place where Comrade Trump is calling forth a post-American *world*. That's the shape of the coalition that's winning Trump's war on fossil fuels: climate activists (hippies), electrification manufacturers and installers (businesses) and national security hawks who don't want to get hormuzed:\n\n[https://pluralistic.net/2026/05/04/hope-in-the-dark/#hormuzed-into-the-gretacene](https://pluralistic.net/2026/05/04/hope-in-the-dark/#hormuzed-into-the-gretacene)\n\nI'm not as plugged into the other areas where Trump has dismantled US hegemony, but it wouldn't surprise me to learn that a coalition much like this one is popping up in the countries where Trump and Musk doged the public health system into oblivion. The global south is full of countries that signed up to enforce US agricultural and pharmaceutical patents and US restrictions on birth control and abortion in exchange for the food-aid and health-aid that Elon Musk and his merry band of broccoli-haired brownshirts killed. It's easy to imagine that reproductive rights and health justice advocates in those countries are now on the same side as investors who'd like to get into business selling generic pharmaceuticals and agricultural inputs, and that *they're* being backed by people worried that their country's food and health sovereignty are at risk unless they hasten the transition to a post-American world.\n\nI have been an activist all my life, and a digital rights activist for the majority of my adult life. I'm sure there are members of this post-American coalition who want things that are absolutely antithetical to my agenda. That's what makes us a coalition – we disagree about so much, but we all agree on this: it's past time for a post-American world, and Comrade Trump is delivering it.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Can Investors Trust AI Sales Figures? [https://archive.is/20260502194551/https://www.wsj.com/opinion/can-investors-trust-ai-sales-figures-c60c46bf#selection-562.0-562.1](https://archive.is/20260502194551/https://www.wsj.com/opinion/can-investors-trust-ai-sales-figures-c60c46bf#selection-562.0-562.1)\n\n- \nHysteresis and Selection in the Rise of Fascism: The ‘Ordinary Men’ of the Nazi Party  [https://www.nber.org/papers/w35120](https://www.nber.org/papers/w35120)\n\n- \nThe Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’ [https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)\n\n- \nUnauthorized Bread graphic novel cover [https://www.flickr.com/photos/doctorow/55248071321/in/dateposted/](https://www.flickr.com/photos/doctorow/55248071321/in/dateposted/)\n\n- \nAftermath: Oil Execs Thrill to Higher Profits From War [https://prospect.org/2026/05/04/aftermath-oil-execs-thrill-to-higher-profits-from-war/](https://prospect.org/2026/05/04/aftermath-oil-execs-thrill-to-higher-profits-from-war/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#retro))\n\n#25yrsago North Korean dictator's son arrested trying to sneak into Tokyo Disneyland [https://www.nytimes.com/2001/05/03/world/japan-is-said-to-detain-son-of-north-korean-leader.html](https://www.nytimes.com/2001/05/03/world/japan-is-said-to-detain-son-of-north-korean-leader.html)\n\n#25yrsago Bruce Sterling on good design [https://memex.craphound.com/2001/05/03/great-illustrated-bruce-sterling-rant/](https://memex.craphound.com/2001/05/03/great-illustrated-bruce-sterling-rant/)\n\n#20yrsago Mainstream press: Colbert wasn’t funny at the White House Correspondents' Dinner, so we ignored him [https://web.archive.org/web/20070207014019/http://www.salon.com/opinion/feature/2006/05/03/correspondents/index_np.html](https://web.archive.org/web/20070207014019/http://www.salon.com/opinion/feature/2006/05/03/correspondents/index_np.html)\n\n#20yrsago Bush and cronies livid about Colbert’s White House gig [https://web.archive.org/web/20060615113045/https://www.usnews.com/usnews/news/articles/060501/1whwatch.htm0](https://web.archive.org/web/20060615113045/https://www.usnews.com/usnews/news/articles/060501/1whwatch.htm0)\n\n#20yrsago Identity thief rips off 3-week-old baby [https://abcnews.com/US/story?id=155878&amp;page=1](https://abcnews.com/US/story?id=155878&amp;page=1)\n\n#20yrsago Network neutrality – why it matters, and how do we fix it? [https://web.archive.org/web/20060507215106/http://www.slate.com/id/2140850/](https://web.archive.org/web/20060507215106/http://www.slate.com/id/2140850/)\n\n#15yrsago Federal judge: open WiFi doesn’t make you liable for your neighbors’ misdeeds [https://arstechnica.com/tech-policy/2011/05/after-botched-child-porn-raid-judge-sees-the-light-on-ip-addresses/](https://arstechnica.com/tech-policy/2011/05/after-botched-child-porn-raid-judge-sees-the-light-on-ip-addresses/)\n\n#10yrsago Taliban condemn Pakistan city’s first McDonald’s: “we don’t even consider it as a food.” [https://www.nbcnews.com/news/world/mcdonald-s-opens-quetta-pakistan-taliban-isn-t-lovin-it-n564651](https://www.nbcnews.com/news/world/mcdonald-s-opens-quetta-pakistan-taliban-isn-t-lovin-it-n564651)\n\n#10yrsago Norway’s titanic sovereign wealth fund takes a stand against executive pay [https://www.bbc.co.uk/news/business-36185925](https://www.bbc.co.uk/news/business-36185925)\n\n#10yrsago TSA lines grow to 3 hours, snake outside the terminals, with no end in sight [https://www.nytimes.com/2016/05/03/business/airport-security-lines.html?smid=pl-share&amp;_r=0](https://www.nytimes.com/2016/05/03/business/airport-security-lines.html?smid=pl-share&amp;_r=0)\n\n#10yrsago Inside a Supreme Court case on cheerleader uniforms, a profound question about copyright [https://arstechnica.com/tech-policy/2016/05/supreme-court-to-hear-copyright-fight-over-cheerleader-uniforms/](https://arstechnica.com/tech-policy/2016/05/supreme-court-to-hear-copyright-fight-over-cheerleader-uniforms/)\n\n#5yrsago Dishwashers have become Iphones [https://pluralistic.net/2021/05/03/cassette-rewinder/#disher-bob](https://pluralistic.net/2021/05/03/cassette-rewinder/#disher-bob)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Guelph: Musagetes Lecture, May 8\n\n[https://riverrun.ca/whats-on/guelph-lecture-on-being-2026/](https://riverrun.ca/whats-on/guelph-lecture-on-being-2026/)\n\n- \nBarcelona: Internet no tiene que ser un vertedero (Global Digital Rights Forum), May 13\n\n[https://encuentroderechosdigitales.com/en/speakers/](https://encuentroderechosdigitales.com/en/speakers/)\n\n- \nVirtual: How to Disenshittify the Internet with Wendy Liu (EFF), May 14\n\n[https://www.eff.org/event/effecting-change-enshittification](https://www.eff.org/event/effecting-change-enshittification)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#recent))\n\n- Enshittification (99% Invisible)\n\n[https://99percentinvisible.org/episode/666-enshittification/](https://99percentinvisible.org/episode/666-enshittification/)\n\n- \nArtificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas)\n\n[https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor](https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor)\n\n- \nWhen Do Platforms Stop Innovating and Start Extracting? (InnovEU)\n\n[https://www.youtube.com/watch?v=cccDR0YaMt8](https://www.youtube.com/watch?v=cccDR0YaMt8)\n\n- \nPete \"Mayor\" Buttigieg (No Gods No Mayors)\n\n[https://www.patreon.com/posts/pete-mayor-with-155614612](https://www.patreon.com/posts/pete-mayor-with-155614612)\n\n- \nThe internet is getting worse (CBC The National)\n\n[https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P](https://youtu.be/dCVUCdg3Uqc?si=FMcA0EI_Mi13Lw-P)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/05/05/three-is-a-magic-number/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/05/05/three-is-a-magic-number/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Startup"
+        ],
+        "published_at": "Tue, 05 May 2026 12:31:41 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Our AI started a cafe in Stockholm - 5th May 2026 - Link Blog **[Our AI started a cafe in Stockholm](https://andonlabs.com/blog...",
+    "datasette-llm 0.1a7 - Release [datasette-llm 0.1a7](https://github.com/datasette/datasette-llm/releases/tag/0.1a...",
+    "Quoting John Gruber - 5th May 2026 > So it’s well known that Y Combinator owns *some* stake in OpenAI. But how b...",
+    "The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion - “There are a lot of blogs and news sites claiming to understand politics, but only a few a...",
+    "Adobe’s ‘Modern’ User Interface Is Just Webpages - ## [Adobe’s ‘Modern’ User Interface Is Just Webpages](https://unsung.aresluna.org/photosho..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 14
+    },
+    {
+      "word": "com",
+      "count": 8
+    },
+    {
+      "word": "started",
+      "count": 4
+    },
+    {
+      "word": "llm-echo",
+      "count": 3
+    },
+    {
+      "word": "chess",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "desktop",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "datasette-llm",
+      "count": 3
+    },
+    {
+      "word": "unsung",
+      "count": 3
+    },
+    {
+      "word": "aresluna",
+      "count": 3
+    },
+    {
+      "word": "obsession",
+      "count": 3
+    },
+    {
+      "word": "times",
+      "count": 3
+    },
+    {
+      "word": "voice",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "releases",
+      "count": 2
+    },
+    {
+      "word": "tag",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "against",
+      "count": 2
+    },
+    {
+      "word": "llm",
+      "count": 2
+    },
+    {
+      "word": "peace",
+      "count": 2
+    },
+    {
+      "word": "puzzle",
+      "count": 2
+    },
+    {
+      "word": "pieces",
+      "count": 2
+    },
+    {
+      "word": "none",
+      "count": 2
+    },
+    {
+      "word": "impossible",
+      "count": 2
+    },
+    {
+      "word": "things",
+      "count": 2
+    },
+    {
+      "word": "believe",
+      "count": 2
+    },
+    {
+      "word": "feeds",
+      "count": 2
+    },
+    {
+      "word": "traffic",
+      "count": 2
+    },
+    {
+      "word": "yeah",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "dispute",
+      "count": 2
+    },
+    {
+      "word": "tab",
+      "count": 2
+    },
+    {
+      "word": "key",
+      "count": 2
+    },
+    {
+      "word": "highlights",
+      "count": 2
+    },
+    {
+      "word": "mismatch",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "ibm",
+      "count": 2
+    },
+    {
+      "word": "organizational",
+      "count": 2
+    },
+    {
+      "word": "structures",
+      "count": 2
+    },
+    {
+      "word": "manager",
+      "count": 2
+    },
+    {
+      "word": "kbd",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "cafe",
+      "count": 2
+    },
+    {
+      "word": "stockholm",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "stake",
+      "count": 2
+    },
+    {
+      "word": "adobe",
+      "count": 2
+    },
+    {
+      "word": "modern",
+      "count": 2
+    },
+    {
+      "word": "user",
+      "count": 2
+    },
+    {
+      "word": "interface",
+      "count": 2
+    },
+    {
+      "word": "webpages",
+      "count": 2
+    },
+    {
+      "word": "org",
+      "count": 2
+    },
+    {
+      "word": "product",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "ready",
+      "count": 2
+    },
+    {
+      "word": "cdn",
+      "count": 2
+    },
+    {
+      "word": "prod",
+      "count": 2
+    },
+    {
+      "word": "website-files",
+      "count": 2
+    },
+    {
+      "word": "cab",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
