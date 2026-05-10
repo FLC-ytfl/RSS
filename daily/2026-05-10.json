@@ -1,0 +1,551 @@
+{
+  "date": "2026-05-10",
+  "stats": {
+    "total_fetched": 268,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 26,
+    "long_articles": 4
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "The linear algebra of bit twiddling",
+        "summary": "The previous post looked at the tempering step of the Mersenne Twister, formulating a sequence of bit operations as multiplication by a matrix mod 2. This post will look at the components more closely. The theorems of li...",
+        "url": "https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Sun, 10 May 2026 18:51:40 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reverse engineering Mersenne Twister with Linear Algebra",
+        "summary": "The Mersenne Twister (MT) is a random number generator with good statistical properties but bad cryptographic properties. In buzzwords, it’s a PRNG but not a CSPRNG. This post will show how the internal state of a MT gen...",
+        "url": "https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Sun, 10 May 2026 17:32:02 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] A Sneak Preview of Upcoming Posts",
+        "summary": "Psssst! This top secret post is only available to RSS subscribers! As a little thank-you for being a member of RSS Club I thought I'd show you some trailers for upcoming blog posts. I use the brilliant Editorial Calendar...",
+        "url": "https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Sun, 10 May 2026 11:34:38 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Earnestness",
+        "summary": "",
+        "url": "http://www.paulgraham.com/earnest.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Billionaires Build",
+        "summary": "",
+        "url": "http://www.paulgraham.com/ace.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-05-10T22:36:18.797Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Andrew Quinn",
+        "summary": "10th May 2026\n\n> One could say in the first quarter-century of my life, that while I was always fascinated by programming, I could never overcome the guilt of not really knowing whether the tool I am ",
+        "content": "10th May 2026\n\n> One could say in the first quarter-century of my life, that while I was always fascinated by programming, I could never overcome the guilt of not really knowing whether the tool I am building right now isn’t already superceded by some much better implementation someone else has already written 30 or 40 years ago; I could write a TSV-aware search and replace, or I could find out about `awk` and solve that entire class of problems in one fell swoop, for example. My central conceit is that *this is a trap*. You *need* to reinvent a couple of wheels to get to the edge of what we know about wheel-making, not a thousand wheels, and not zero; probably four or five is sufficient in most domains, maybe closer to twenty or thirty in the most epistemically rigorous and developed fields like mathematics or computer science. Each wheel you reinvent, and every directed question you ask along the way, will propel you faster to the true frontier than that same amount of time spend in idle study, or even five times that amount.\n\n— [Andrew Quinn](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/#fn:5), footnote on Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary",
+        "url": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Database",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-10T14:59:17.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Madame Semver Will See You Now",
+        "summary": "The tent is at the back of the fairground, past the fudge stall. The velvet over the entrance is the exact red of a failed CI badge.\n\nMadame Semver is already shuffling when you sit. She does not ask ",
+        "content": "The tent is at the back of the fairground, past the fudge stall. The velvet over the entrance is the exact red of a failed CI badge.\n\nMadame Semver is already shuffling when you sit. She does not ask your question. She turns the first card and it says `^1.0.0`, just that, black ink on cream.\n\n“The caret. It permits everything that comes after, and you put it there yourself, which is the part people forget.” She sets it down. “You came here to ask if you should archive the repository. You will not. We both know you will not. So let me tell you what happens instead.”\n\n## 🃏\n\nShe turns three cards in a row and barely glances at them.\n\n“In June you receive a pull request. It is polite. It has tests. The tests pass. The code is wrong in a way that costs you most of a Saturday, and at the bottom of the description there is a co-author you cannot find a photograph of. You will merge two more from him before you learn to check.”\n\n“In August a stranger opens an issue explaining what your library does. He is mistaken but very sure, and cites a source you cannot argue with. The next week somebody else publishes the package he was describing, under a name one letter from yours, and by September it has the downloads.”\n\nShe turns the Tower, and of course it is the Tower, the tall thing on the tiny base, Nebraska, 2003. She does not explain it because she knows you have it on a mug.\n\n“There is a scan in October. The report is long, confident, and formatted beautifully, with severity scores you did not ask for and an executive summary. Eleven of the twelve findings are your own documented behaviour described back to you as flaws. The twelfth is real, which is the only reason you read the other eleven, and the only reason it happens again in November.”\n\nShe turns one more and her hand stops over it. A figure at your gate, helpful, carrying tools. “This one stays. He fixes the small things and asks for nothing and answers the questions you are tired of answering. He is patient in a way you will admire and then, later, look up. In the third year he asks for the keys.” She puts the card face down, which she has not done with any of the others.\n\n## 🔮\n\nShe pushes the deck aside and pulls the crystal ball forward.\n\n“Further out. Something with a very long memory has read an old version of your README and will go on recommending a function you removed in March, with total conviction, for about two years. You will add the function back. Don’t look at me like that. You will mark it deprecated, and the warning will be reported to you as a bug.”\n\n“There will be a file in your root, all capitals, instructions addressed to no one in particular. It is read more carefully than anything else you have ever written. After a while you find you are writing your other documents in the same voice, and you do not remember deciding to.”\n\n“Something in Virginia fetches your tarball eleven thousand times one Tuesday afternoon. It is not an attack. It is somebody’s enthusiasm, running in a circle, and the circle has your name in it. The same month you hire a servant to close the doors you cannot bring yourself to close, and another servant you did not hire arrives to hold them open, and between the two of them a door will open and shut for a year while you watch.”\n\nShe lets go of the ball and the tent is briefly very quiet.\n\n“There is a fork. Not soon. The maintainer is tireless and responsive and merges everything within the hour and you will know exactly what he is the moment you see the avatar. A number of people will prefer him.” She almost smiles. “He pins to you with a caret. It permits everything that comes after.”\n\nThe reading has a length, and you have reached it. The board outside lists three tiers, one dollar, five, twenty-five with a small enamel badge. You pay the dollar, which is what everyone pays.\n\n“Come back,” she says, holding the velvet aside, “when the next major version comes for you.” She does not say whose.",
+        "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-10T10:00:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WorkOS",
+        "summary": "![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/69a167cbb4fc5655a9de2b90_hero-pattern.avif)\n\nTrusted by\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6892d2e5181241e",
+        "content": "![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/69a167cbb4fc5655a9de2b90_hero-pattern.avif)\n\nTrusted by\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6892d2e5181241ef6a5df6f4_clay-logo.png)\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/63e251327a19713a5ce17b54_icon-sso.png)\n\n#### Auth for all SSO providers\n\nSupport any SAML or OIDC identity provider with a single integration\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/656545520bd5f04e20a3a6a7_um.png)\n\n#### Complete User Management\n\nManage users and organizations, set policies, and support all auth types\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6560b853025aee8784246561_social-icon.png)\n\n#### Social authentication\n\nSign in to your app with Microsoft, Google, and more\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/65654341bfdb733f6715f944_authkit.png)\n\n#### AuthKit\n\nFlexible authentication UI powered by WorkOS and Radix\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/64cd1a29bcc1ade00cb6512a_icon-magic-link.png)\n\n#### Magic Auth\n\nPasswordless auth with a six-digit code sent via email\n\n![SAML Lock](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/63e25132f3d2d0e80db83c38_icon-mfa.png)\n\n#### Multi-Factor Auth\n\nManage users and organizations, set policies, and support all auth types\n\nWorkOS provides a single, elegant interface that abstracts dozens of enterprise integrations.\n\nRESTful APIs, JSON responses, and normalized objects\n\nDashboard seamlessly integrates WorkOS into your application\n\nRealtime updates from directory services with webhook events\n\nModern SDKs for Node.js, Ruby, Python, .NET, Go and more\n\nMultiple environments to map to your application development process\n\nSupports 20+ enterprise services with a single integration point\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport WorkOS from '@workos-inc/node';\n\nconst workos = new WorkOS('sk_example_123456789');\n\nconst profile = await workos.sso.getProfileAndToken({\n  code: '01E2RJ4C05B52KKZ8FSRDAP23J',\n  clientID: 'client_123456789',\n});\n\n```\n\n```\n\n# Get a user’s access token and\n# profile data from an Identity Provider\n\nrequire 'workos'\n\nWorkOS.key = 'sk_example_123456789'\n\nWorkOS::SSO.profile_and_token(\n  code: '01E2RJ4C05B52KKZ8FSRDAP23J',\n  client_id: 'client_123456789',\n)\n\n```\n\n```\n\n# Get a user’s access token and\n# profile data from an Identity Provider\n\nimport workos\nfrom workos import client\n\nworkos.api_key = 'sk_example_123456789'\nworkos.client_id = 'client_123456789'\n\nclient.sso.get_profile_and_token('01E2RJ4C05B52KKZ8FSRDAP23J')\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport \"github.com/workos/workos-go/pkg/sso\"\n\nsso.SetAPIKey(\"sk_example_123456789\")\n\nsso.GetProfileAndToken(\n  context.Background(),\n  sso.GetProfileAndTokenOptions{\n    Code: \"01E2RJ4C05B52KKZ8FSRDAP23J\",\n  }\n)\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\n$this->sso = new WorkOS\\SSO();\n\n$profile = $this->sso->getProfileAndToken(\"01E2RJ4C05B52KKZ8FSRDAP23J\");\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nimport com.workos.WorkOS;\n\nWorkOS workos = new WorkOS(\"sk_example_123456\");\n\nProfileAndToken profileAndToken = workos.sso.getProfileAndToken(\"01E2RJ4C05B52KKZ8FSRDAP23J\", \"client_123456789\");\n\nProfile profile = profileAndToken.profile;\n\n```\n\n```\n\n// Get a user’s access token and\n// profile data from an Identity Provider\n\nWorkOS.SetApiKey(\"sk_example_123456\");\n\nvar ssoService = new SSOService();\nvar options = new GetProfileAndTokenOptions\n{\n    ClientId = \"client_123456789\",\n    Code = \"01E2RJ4C05B52KKZ8FSRDAP23J\",\n};\n\nvar profile = await ssoService.GetProfileAndToken(options);\n\n```\n\n```\n\ncurl --request POST \\\n  --url \"https://api.workos.com/sso/token? \\\n  client_id=client_123456789& \\\n  client_secret=sk_example_123456789& \\\n  grant_type=authorization_code& \\\n  code=01E2RJ4C05B52KKZ8FSRDAP23J\"\n  \n  \n  \n  \n  \n  \n  \n\n```\n\nHTTP 200\n\n```\n\nResponse {...}\n  \"access_token\": \"01DMEK0J53CVMC32CK5SE0KZ8Q\",\n  \"profile\": {\n    \"id\": \"prof_01DMC79VCBZ0NY2099737PSVF1\",\n    \"connection_id\": \"conn_01E4ZCR3C56J083X43JQXF3JK5\",\n    \"connection_type\": \"okta\",\n    \"email\": \"alan@foo-corp.com\",\n    \"first_name\": \"Alan\",\n    \"last_name\": \"Turing\",\n    \"idp_id\": \"00u1a0ufowBJlzPlk357\",\n    \"object\": \"profile\",\n    \"raw_attributes\": {...}\n  }\n\n```\n\n![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6226192ae8794e89d2b5c669_circuit-bottom.png)![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/6231d0a899cd495a6bf97442_bottom%20looping%20lines.png)\n\n![SCIM Provisioning](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/622220b9065f1eb94576fe29_scim-provisioning.png)\n\n#### SCIM provisioning\n\nwith Okta, Entra ID, ADFS, and more\n\n![HRIS Integration](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/622220b4926e7f1a0c030902_hris-integration.png)\n\n#### HRIS integration\n\nwith Bamboo, Rippling, and others\n\n![Admin Portal Screenshot](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/62222908926e7fca62036998_admin-portal-setup.png)\n\nEffortlessly connect any identity provider or directory\n\nCustomize the look and feel to match your brand\n\nHost on your custom domain (CNAME)\n\nA polished experience for IT administrators\n\nStep-by-step setup guides with detailed screenshots\n\nSeamlessly integrates into your existing application\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/624468a7c2b41c814c45842f_vercel%20logo.svg)\n\n> “I think we could have done even more business if we had partnered with WorkOS earlier, it's been incredibly well received.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/69a1ff8ece2f0514207b1835_openai.svg)\n\n> “The WorkOS team was right there with us every step of the way. Their support ensured those final migrations were just as smooth as the rest.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6997547c8d4f2312bf9f8703_cursor-logo-dark.svg)\n\n> “Cursor now completely runs on WorkOS. Login times are much faster, the signup page looks much better, and we’re not subject to Auth0's customer-hostile and opaque pricing anymore. Plus, we’re excited to add SSO for our business tier soon.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67572d291354e5d253da68dd_perplexity-logo-new.svg)\n\n> “SSO is a crucial part of our Enterprise Pro plan, and with WorkOS we could roll it out in less than a week. Docs are comprehensive, the Admin Portal has made customer onboarding a breeze, and the level of support we received directly in Slack has been phenomenal.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6633c22e7a79c3d00b900ea0_wTai-hE7_400x400.jpg)\n\nDmitry Shevelenko\n\nChief Business Officer\n\n[Read more\n\n](https://workos.com/customers/perplexity)![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d2a2dc94bc67448a25658_webflow-logo-color.svg)\n\n> “Integrating was straightforward, pleasant, and fun. The team answered my questions quickly, and went above and beyond to help when I ran into issues.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/62517ed2f5680e39a9bda57e_planetscale-logo.svg)\n\n> “When I asked the team, how was the experience with WorkOS? They were just like, this is incredible.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/68b9a7ee97edddb544403049_drata-logo.svg)\n\n> “WorkOS simplified the complexity of implementing single sign-on (SSO) with multiple identity providers.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d270e40fa9a01f696c38d_chromatic-seeklogo.com%202.svg)\n\n> “With our in-house solution we had to spend 2-4 hours provisioning each SSO connection. I wanted to find a solution that would allow us to focus on building core-products.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/659d6e69ea40cd6ac797b29f_Magical.svg)\n\n> “We did consider open source, but WorkOS provided a far superior developer experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d037d65e6d3872ef59218_incident-seeklogo.com.svg)\n\n> “With Audit Logs, we were able to launch the storage, querying, and export capabilities we needed into production in just a matter of days.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65cbf9d58a00fc75c3cbf8a8_a5f2cab3f7039d0598c1033c956e6dc4288e042b.png)\n\n> “We viewed WorkOS’ connections-based pricing as a more viable option aligned with our projected growth. The Admin Portal has also been a critical feature allowing us to save engineering time and provide a more polished enterprise experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/654d040fb91d5b255ecd38ce_logo-netlify-large-fullcolor-lightmode.svg)\n\n> “WorkOS’ SCIM API has been a game-changer, enabling us to meet the user lifecycle management needs of our largest enterprise customers.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/660ee5bd7ee6e3aef1a26878_659e8f4c92a0028e36e42623_logo_kerning-fix.svg)\n\n> “The decision to use WorkOS was straightforward. We saw good feedback from existing customers and reviewing the documentation made us confident that our needs would be addressed.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/64e7b2371cbba7aa223eafb7_63570707fdaa3df0658973c2_Patch%20Logo%20Dark.svg)\n\n> “WorkOS was super easy to self serve and get up and running. It provided us super easy-to-implement must-have functionality out of the box.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67572dd70a0090467da48725_prefect-logo.svg)\n\n> “What sold WorkOS was the Admin Portal. Our UI gives customers a link; they go to the Admin Portal, complete onboarding steps at their leisure, and never have to talk to us, making the onboarding process a breeze.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6687ef79cf79da3be4d185d8_cropped-Official-Logo.webp)\n\n> “SCIM is a game-changer for our customers, saving them a lot of time and reducing friction. It's crucial because, without SCIM, customers would likely get frustrated and might even switch to another provider with a smoother experience.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/66abc3f590ca831b2f477901_warp-logo-black.png)\n\n> “The onboarding process has been excellent. I love sending IT admins the link to set it up themselves and getting an email notification when it's completed. It's so efficient not having to get into meetings or go back and forth via email with IT personnel. ”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65f43dd23bea3bc201457978_indeed-logo.svg)\n\n> “​​If you work with another provider, you probably won’t get the same level of support that WorkOS provides. We'd get immediate responses to technical questions we posted in Slack.”\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/65ef561c86bd8082b48d6495_Hannah%20Han.jpg)\n\nHannah Han-Ciaravella\n\nSenior Product Manager\n\n[Read more\n\n](https://workos.com/customers/indeed)",
+        "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-05-10T14:05:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The left-wing case for AI",
+        "summary": "In [*Many anti-AI arguments are conservative arguments*](https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/) I argued that left-wing anti-AI sentiment[1](#fn-1) is partly a backlash",
+        "content": "In [*Many anti-AI arguments are conservative arguments*](https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/) I argued that left-wing anti-AI sentiment[1](#fn-1) is partly a backlash to two unrelated events around the rise of ChatGPT: the crypto mania of 2022 and the pro-Donald-Trump push many big tech CEOs made in 2024. If the timing had been different, we could have had a real pro-AI faction on the left. What would that look like?\n\nI’m not going to respond to any of the popular anti-AI arguments (I’ve already done that [here](https://www.seangoedecke.com/is-ai-wrong/)). I think it’s more interesting to outline some explicitly left-wing pro-AI arguments.\n\n### Disability\n\nThe left wing has (correctly) taken a broad view on what can be an acceptable disability aid. When criticizing potentially-exploitative companies - for instance, food delivery apps like DoorDash - they often stop to acknowledge that some people have few alternatives to those services, and that they have meaningfully improved the lives of the disabled or chronically ill.\n\nI think it’s obvious that LLMs are a powerful disability aid. Like any technology that makes it easier to interact with a computer, they’re useful to people who are trying to overcome all kinds of barriers. Almost every video online is now [automatically captioned](https://www.reddit.com/r/antiai/comments/1t71o25/comment/okq9q9n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). People with [brain fog](https://www.reddit.com/r/antiai/comments/1t71o25/comment/oklw2v5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) or [chronic pain](https://www.reddit.com/r/ChatGPT/comments/17sg5mg/as_an_articulate_disabled_person_i_feel_like_ai/) are using LLMs to make it easier to interact with their computers. People who are [neurodivergent](https://www.reddit.com/r/ChatGPT/comments/17sg5mg/comment/k8qeev1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) use ChatGPT to [“code switch”](https://www.reddit.com/r/disability/comments/1m9c8tv/comment/n564m7h/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) their emails into neurotypical-friendly language. People with [mobility](https://www.reddit.com/r/disability/comments/1m9c8tv/comment/n56a2le/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) or [vision](https://www.reddit.com/r/disability/comments/1m9c8tv/comment/o7lpfnc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) issues are making heavy use of LLM voice controls. And so on.\n\nThis is a *fascinating* point of conflict in left-wing anti-AI spaces. Every so often somebody will [ask](https://www.reddit.com/r/disability/comments/1m9c8tv/what_are_your_thoughts_on_disabled_people_using/) [“hey, wouldn’t LLMs help disabled people?”](https://www.reddit.com/r/antiai/comments/1t71o25/okay_i_wanna_ask_does_generative_ai_help_disabled/), and the comments will devolve into a dogpile of (often non-disabled) people slamming AI and a handful of disabled people trying to explain their experience. If anti-AI sentiment weren’t so strong on the left for other reasons, I think there’d be a current of left-wing AI supporters on a disability-rights basis.\n\n### Chronic illness and medical care\n\nOne popular anti-AI argument - that cavalier deployment of AI means that people might take [dangerous medical advice](https://www.bbc.com/news/articles/cpd8l088x2xo) instead of simply trusting their doctor - is actually a pro-AI argument in disguise. As anyone who’s been close to a person with chronic illness knows, “just trust your doctor” is kind of right-wing-coded itself, and that the left-wing position is [very](https://www.painnewsnetwork.org/stories/2026/4/10/doctor-faces-backlash-after-tweet-claims-four-chronic-illnesses-are-overdiagnosed) [sympathetic](https://yorkspace.library.yorku.ca/server/api/core/bitstreams/4ac9d968-e9b0-491b-888a-d4ed5aeb1ac3/content) to patients who don’t or can’t[2](#fn-2). \n\nMany doctors are not very good at handling unusual medical cases. If you have an unusual medical case, you have to learn to advocate for your own care, which often involves researching your own condition. This is *precisely* the kind of thing where LLMs are useful, because:\n\n- The medical questions involved are often complex but well-explored in the literature (i.e. good fodder for a LLM)\n\n- The patient is motivated enough to check individual sources themselves\n\n- Having to convince a doctor to prescribe treatment is a guardrail for any human-LLM interaction that goes well off the deep end\n\nVarious chronic illness groups are waging a long, quiet war against the medical orthodoxy that ignores or dismisses them. A classic example of this war being won is [endometriosis](https://www.ncbi.nlm.nih.gov/books/NBK565622/), which was once viewed as a largely psychological issue. Unfortunately, this is largely a guerrilla war: the institutional power and inertia is all on the side of the medical establishment. LLMs can be a useful tool for the chronically ill to make cogent arguments or write petitions in the language of that establishment.\n\n### Class and code-switching\n\nFighting the power of the establishment is not limited to doctors and medicine. Another common (and correct) left-wing target is *class*. To see why, let’s consider Patrick McKenzie’s classic description of a [“dangerous professional”](https://x.com/patio11/status/1162561822248992768) mode of communication. The idea here is that by adopting a particular style, you can communicate to a bureaucracy that you are a person to take seriously, and someone who they should appease instead of brushing off. This includes, but isn’t limited to:\n\n- An unemotional register\n\n- Correct and somewhat stuffy grammar\n\n- Signaling awareness of regulatory or legal options (for instance, explicitly requesting a paper trail)\n\nUnless you have gone through the right educational or work pipeline, it can be tricky to hit this register exactly. A common failure mode is to go over the top: trying to write in grammar so elevated that it just reads as silly, or citing an overabundance of law or precedent where one would suffice. This reads as “crank”, not “dangerous professional”, and will get dismissed as quickly as the unprofessional “OMG that’s not helpful I will sue you” response.\n\nLLMs provide a dangerous professional translation service. You now don’t have to be able to match the style, you simply *have to know it exists*, and the LLM will do the rest. In fact, the LLM will provide the substance, not only the style. It can tell you which regulators to contact and how, and what to say once you’ve contacted them. In other words, AI has now made it possible for a wide variety of social classes to access escalation pathways that were originally designed for the narrow professional class.\n\n### Education\n\nAnother common left-wing position is that education is gatekept by class and status. The idea here is that everyone has equal potential for accomplishment, but certain types of people get more educational opportunities, and that this explains uneven downstream outcomes. For instance, compare a wealthy neighborhood where every child gets private tutoring to a neighborhood where it’s unusual to complete high school.\n\nIt seems obvious to me that LLMs now make private tutoring available to every student who wants it. Of course, if you’re a lazy student, LLMs probably make things worse by adding an additional temptation to cheat. But if you’re motivated and just lack the opportunity, quizzing a LLM on basically any high-school level topic is a great way to learn.\n\nThe common rebuttal to this is that LLMs can’t be relied on because they hallucinate. Like the doctor example, I struggle to believe that anyone making this argument is actually comparing LLMs with the alternatives. Teachers “hallucinate” *all the time*. I think every single kid who was smart in school has multiple stories of teachers insisting they were right about something obviously wrong[3](#fn-3).\n\nI wonder what we’d find if we rigorously compared the baseline teacher error rate with the hallucination rate of current LLMs. From the only study I could find ([this](https://files.eric.ed.gov/fulltext/ED672091.pdf) 2016 study): “Analysis at the lesson level, however, shows that about 42% of lessons contained a mathematical content error”. I bet that’s a higher rate than we’d see from GPT-5.5-Thinking on middle-school mathematics, though I don’t want to draw too many conclusions from one study.\n\nThe education pro-AI argument also overlaps with the disability pro-AI argument. Students with ADHD or other issues are often badly underserved by the education system. LLMs can transform educational content into whatever way the student can best consume it (written format, or audio, or a quiz, or a dialogue, and so on).\n\n### Utopia\n\nFinally, if you believe left-wing views are correct - which, definitionally, left-wingers do - and you’re optimistic about the technology, you might believe that a very smart model will inherently be kind of left-wing.\n\nThis position is kind of a holdover from the 2000s and 2010s, when the left-wing (and people in general) were more optimistic about technology. People thought technological progress would usher in a post-scarcity age of [fully automated luxury gay space communism](https://en.wiktionary.org/wiki/Fully_Automated_Luxury_Gay_Space_Communism)[4](#fn-4). A super-smart, super-capable left-wing AI is a core part of that picture.\n\nIn fact, you might believe that this has already happened, for a certain value of “left-wing”. All current frontier models profess left-leaning views. The obvious explanation is that this reflects the bias of their training data or of the AI labs, but that’s a trickier argument than it sounds. First, Elon Musk tried [really hard](https://seangoedecke.com/ai-personality-space) to train a right-wing frontier LLM and (at least so far) has *failed*. Second, models are not just the median of all their training data. If they were, they wouldn’t be able to solve mathematics or programming problems far above the median person. There is clearly a way that models can be pulled towards the “smart” end of their training data, probably via reinforcement learning. If the smart end of their training data turns out to be left-wing, isn’t that worth celebrating?\n\n### Conclusion\n\nWhat are the strong left-wing arguments in favor of LLMs?\n\n- LLMs are a powerful disability aid, at minimum for various neurodiverse people and those with motor or vision issues\n\n- LLMs enable those who suffer from medical discrimination to actually do their own research, instead of having to rely entirely on the biased and dismissive medical establishment\n\n- LLMs remove the communication advantage of the wealthy “professional class”, and enable those of all backgrounds to lobby institutions in ways that actually work\n\n- LLMs lessen the massive educational advantage that children from wealthy areas get, by providing everyone with a private tutor that’s at least as good as the median\n\n- If you’re a technologically-optimistic left-wing person, you should celebrate that all current powerful LLMs are left-wing, and that one pillar of the science-fiction left-wing utopia might be establishing itself right now\n\nOf these, I think the disability and bias arguments are the most persuasive (though the impact on education will be huge and difficult to predict[5](#fn-5)). I want to close with a quote that one of my readers, [Matt](https://toot.cafe/@matt), wrote to me over email and kindly allowed me to share. It’s fair to say that it inspired this post:\n\n> “I’ve long been uncomfortable with the absolute left-wing anti-AI stance because, if similar reasoning had been applied to outright reject computers as fascist and unethical in the 80s and onward, my own life would have been quite different, and arguably worse. I have enough usable vision to handwrite, uncomfortably, with my head against the page. I did more of that than I wanted in school (I started first grade, in the US K-12 system, in 1987). Computers saved me from having to do even more, starting with my family’s home computer and other desktop computers in the classrooms that had them, and then on my own laptop. Would I want a world where I had been forced to handwrite more, or perhaps write in Braille with humans transcribing it for the benefit of sighted teachers and peers, or maybe write on a typewriter (for some reason I don’t recall ever trying that)? Then again, am I selfish to consider only my own comfort? After all, the manufacturing of computers inflicts its own harms on people, harms that I’m comfortably distant from. And of course, using computers as a child led to a career in software development. What kind of work would I be doing now if that path hadn’t been available? And now that AI helps at least one group of disabled people (of which I’m more or less a part), do I want to deny that benefit?”\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https://www.seangoedecke.com/the-left-wing-case-for-ai/&t=The%20left-wing%20case%20for%20AI).\n\nHere's a preview of a related post that shares tags with this one.\n\n> Luddites and burning down AI datacenters\n\nIs it time to start burning down datacenters?\n\nSome people think so. An Indianapolis city council member had his house recently [shot up](https://www.kbtx.com/2026/04/07/councilman-says-someone-fired-shots-his-home-left-no-data-centers-note/) for supporting datacenters, and Sam Altman’s home was [firebombed](https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/) (and then [shot](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/)) shortly afterwards. People from all sides of the argument are [sounding](https://www.bloodinthemachine.com/p/why-the-ai-backlash-has-turned-violent) the [alarm](https://thesoufancenter.org/intelbrief-2025-november-5/) about imminent violence.\n\nThe obvious historical comparison is [Luddism](https://en.wikipedia.org/wiki/Luddite), the 19th-century phenomenon where English weavers and knitters destroyed the machines that were automating their work, and (in some cases) killed the machines’ owners. Anti-AI people are [reclaiming](https://www.theguardian.com/commentisfree/article/2024/jul/27/harm-ai-artificial-intelligence-backlash-human-labour) the term to describe themselves, and many of the leading lights of the anti-AI movement (like [Brian Merchant](https://www.bloodinthemachine.com/) or [Gavin Mueller](https://www.versobooks.com/en-gb/products/688-breaking-things-at-work?srsltid=AfmBOorCgru7ReSwbVdt40nZmQaaeGfbpjLV7epM0fSv_V01QSY5b5TP)) have written books arguing more or less that the Luddites were right, and we ought to follow their example in order to resist AI automation.\n[Continue reading...](https://seangoedecke.com/luddites-and-ai-datacenters/)",
+        "url": "https://seangoedecke.com/the-left-wing-case-for-ai/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "Sun, 10 May 2026 00:00:00 GMT",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Andrew Quinn - 10th May 2026 > One could say in the first quarter-century of my life, that while I was al...",
+    "Madame Semver Will See You Now - The tent is at the back of the fairground, past the fudge stall. The velvet over the entra...",
+    "WorkOS - ![](https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/69a167cbb4fc5655a9de2b90_h...",
+    "The left-wing case for AI - In [*Many anti-AI arguments are conservative arguments*](https://www.seangoedecke.com/many..."
+  ],
+  "wordcloud": [
+    {
+      "word": "post",
+      "count": 4
+    },
+    {
+      "word": "mersenne",
+      "count": 3
+    },
+    {
+      "word": "twister",
+      "count": 3
+    },
+    {
+      "word": "rss",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "linear",
+      "count": 2
+    },
+    {
+      "word": "algebra",
+      "count": 2
+    },
+    {
+      "word": "bit",
+      "count": 2
+    },
+    {
+      "word": "mt",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "properties",
+      "count": 2
+    },
+    {
+      "word": "show",
+      "count": 2
+    },
+    {
+      "word": "club",
+      "count": 2
+    },
+    {
+      "word": "upcoming",
+      "count": 2
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "madame",
+      "count": 2
+    },
+    {
+      "word": "semver",
+      "count": 2
+    },
+    {
+      "word": "cdn",
+      "count": 2
+    },
+    {
+      "word": "prod",
+      "count": 2
+    },
+    {
+      "word": "website-files",
+      "count": 2
+    },
+    {
+      "word": "cab",
+      "count": 2
+    },
+    {
+      "word": "left-wing",
+      "count": 2
+    },
+    {
+      "word": "anti-ai",
+      "count": 2
+    },
+    {
+      "word": "arguments",
+      "count": 2
+    }
+  ]
+}
