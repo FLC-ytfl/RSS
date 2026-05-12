@@ -1,0 +1,749 @@
+{
+  "date": "2026-05-12",
+  "stats": {
+    "total_fetched": 283,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Bambu Lab is abusing the open source social contract",
+        "summary": "Last year I said I'd probably never recommend another Bambu Lab printer again. I still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default: I blocked the printer from...",
+        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Tue, 12 May 2026 09:00:00 -0500",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Initialize and print 128-bit integers in C",
+        "summary": "If you look very closely at my previous post, you’ll notice that I initialize a 128-bit integer with a 64-bit value. The 128-bit unsigned integer represents the internal state of a random number generator. Why not initia...",
+        "url": "https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Tue, 12 May 2026 12:20:20 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hacking the lehmer64 RNG",
+        "summary": "A couple days ago I wrote about hacking the Mersenne Twister. I explained how to recover the random number generator’s internal state from a stream of 640 outputs. This post will do something similar with the lehmer64 ra...",
+        "url": "https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Tue, 12 May 2026 11:07:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Patch Tuesday, May 2026 Edition",
+        "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on...",
+        "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+        "source": "Krebs on Security",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Tue, 12 May 2026 21:46:45 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[Sponsor] Drata",
+        "summary": "Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture. ★",
+        "url": "https://drata.com/daring",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-05-12T00:54:08.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Euler function",
+        "summary": "This morning I wrote a post about the probability that a random matrix over a finite field is invertible. If the field has q elements and the matrix has dimensions n × n then the probability is In that post I made observ...",
+        "url": "https://www.johndcook.com/blog/2026/05/11/euler-function/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 12 May 2026 00:49:41 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Position or Perish: The Narrative Blueprint",
+        "summary": "Avis was losing $3.2 million a year; and they'd been unprofitable for thirteen straight. In 1962, they sat at number two in American car rental, well behind Hertz, with no plausible path to catching up. Robert Townsend,...",
+        "url": "https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/",
+        "source": "Westenberg.",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 12 May 2026 10:15:17 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Where Are All The Data Centers?",
+        "summary": "If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed a...",
+        "url": "https://www.wheresyoured.at/where-are-all-the-data-centers/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 12 May 2026 16:17:30 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why the Wannacry outbreak was so bad",
+        "summary": "On May 12, 2017, ransomware named Wannacry started spreading across the globe, infecting and encrypting Windows systems by exploiting CVE-2017-0144, a flaw that a two-month-old Microsoft patch, MS17-010, had fixed. It qu...",
+        "url": "https://dfarq.homeip.net/why-the-wannacry-outbreak-was-so-bad/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-wannacry-outbreak-was-so-bad",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 12 May 2026 11:00:06 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+        "summary": "We investigated a bug where CUBIC's congestion window became pinned at its minimum floor, causing a performance to plummet. The fix involved correctly measuring idle periods to distinguish RTT wait times from actual appl...",
+        "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Tue, 12 May 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Shame them, shun them, ban them, beat them!",
+        "summary": "OR: crock pots and lightning bolts",
+        "url": "https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat",
+        "source": "Experimental History",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 12 May 2026 13:23:30 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-12T22:51:57.771Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Mitchell Hashimoto",
+        "summary": "12th May 2026\n\n> The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend",
+        "content": "12th May 2026\n\n> The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are people that work 9 to 5, get paid, go home, and NEVER THINK ABOUT WORK AGAIN. So to achieve all that, they follow secular trends supported by analysts and broad public sentiment. Oh, Gartner said that \"AI strategy\" is most important? McKinsey said \"context\" needs to be managed? Well, \"Context Engine for AI Apps\" is going to be defensible. Buy it.\n\n— [Mitchell Hashimoto](https://lobste.rs/s/oznirn/redis_cost_ambition#c_dzrja0), in a conversation about the design of the [Redis homepage](https://redis.io/)",
+        "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-12T22:21:51.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Seriously, Give Kagi a Try",
+        "summary": "Aaron Pressman, writing earlier this month in The Boston Globe, “[Why I Abandoned Google Search After 27 Years — and What I’m Using Instead](https://www.bostonglobe.com/2025/04/01/business/google-sear",
+        "content": "Aaron Pressman, writing earlier this month in The Boston Globe, “[Why I Abandoned Google Search After 27 Years — and What I’m Using Instead](https://www.bostonglobe.com/2025/04/01/business/google-search-problems-alternatives-kagi/)”:\n\n> The UK now requires travelers from America to obtain an electronic\n> travel authorization, or ETA. I wasn’t sure of the exact name of\n> the ETA, so I just searched “travel to UK.”\n\n> \n> The results were all about obtaining an ETA and I picked a link\n> that looked like the official UK government site. It was not; the\n> official site was lower, below an AI summary, some sponsored\n> links, and other junk on the results page. Luckily for me, I did\n> get a legitimate travel pass — but the site I picked overcharged\n> me by about $70.\n\nI don’t know what the name for this sort of thing is, but it’s like a semi-scam. There are similar services to what Pressman ran into here for expedited passport renewals, for example — third-party companies that present themselves as official partners of the government that charge you extra for a service. But they just handle for you what you could just as easily do yourself, if you found the right place on the web to do it. A complete scam would be taking your money and giving you nothing (or a bogus document) in return. These semi-scams deliver the thing they’re promising, but charge you more than you should pay.\n\nI just tried searching for “expedited passport renewal” [in Google](https://www.google.com/search?q=expedited+passport+renewal) and [in Kagi](https://kagi.com/search?q=expedited+passport+renewal). Kagi presents as its first response the US State Department’s “[How to Get my U.S. Passport Fast](https://travel.state.gov/content/travel/en/passports/get-fast.html)” page. Google has that same link listed 7th, below the fold even on a desktop browser window on a 27-inch display, behind four sponsored links (all of which look pretty official but aren’t), an AI Overview (which itself includes, in its own AI Overview sidebar, another link to the same “How to Get my U.S. Passport Fast” page), and another U.S. State Department webpage with general instructions for applying for a passport.\n\n> In the second case, last week, I needed to book a hotel for a\n> Passover trip to my brother’s in Connecticut. I knew there was a\n> cool hotel we had stayed at before near his house but I couldn’t\n> remember the name. I asked Google for hotels in the town where my\n> brother lives. Sure enough, one of the top results appeared on\n> first glance to be the official site of the hotel I wanted to\n> book. It was not. Once again, somewhat nefarious search engine\n> optimization techniques allowed a hotel aggregation site to jump\n> ahead in the results. And this time my error was even more costly,\n> to the tune of several hundred dollars in extra charges for two\n> hotel rooms.\n\n> \n> Google has worked hard to eliminate truly fraudulent websites from\n> ending up in its results, and for that I am grateful. It is\n> undeniable that, in both instances, I should have been a more\n> careful consumer. But decades of relying on Google had taught me\n> that I didn’t have to be.\n\n> \n> After I learned my lesson, I did some research in search of better\n> search. People I trust on the Internet, including the [Apple\n> blogger John Gruber](https://daringfireball.net/linked/2024/01/19/bray-google-kagi) and [novelist Cory Doctorow](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/),\n> recommended a new search engine called [Kagi](https://kagi.com/).\n\n> \n> I gave it a few test runs. A search for “[travel to UK](https://kagi.com/search?q=travel+to+uk)”\n> brought up the UK government page to apply for an ETA as the first\n> result. A search for a hotel in my brother’s town was topped by\n> the official site of the hotel I wanted. So I switched all my\n> default searches to Kagi.\n\nI keep trying to emphasize that I recommend switching to Kagi not because it’s more private (although it clearly is), not as a protest against Google (although for some, switching could be), not as a rejection of search ads dominating the top of Google’s results (although that’s true too), but simply because Kagi’s results are clearly better.\n\nLike, even if I [use the magic `&udm=14` parameter](https://udm14.com/) with Google search, [to get “disenshittified” results from Google](https://daringfireball.net/linked/2024/05/23/udm14), I find I get *better* results from Kagi. When I know there’s one right answer (say, a specific article I remember reading and want to find again), Kagi is more likely than Google to list it first. If it’s a years-old article, Kagi is *way* more likely than Google to find it at all. For me, Google (and, alas, DuckDuckGo too) have largely stopped working reliably for finding not-recent stuff on the web. Not true with Kagi.\n\nI used DuckDuckGo for years as my default search, and for those years, I found it largely on par with Google. But it felt like every once in a while — maybe, say, once or twice a month — DuckDuckGo would come up dry in its results. DuckDuckGo pioneered a trick [they call Bangs](https://duckduckgo.com/bangs). Include `!g` to any search terms, and instead of performing the search itself, DuckDuckGo will redirect that search to Google. They have a whole bunch of these Bangs — “!a” for Amazon search, “!nf” for Netflix. There are literally thousands of them (which of course they allow you to search for). The only one I ever really used though was `!g`, for redirecting my current search to Google because DuckDuckGo’s own results for the same terms was unsatisfying. My memory may not match with my actual usage, but like I said, I *feel* like I used this about once or twice a month for the several years I was using DuckDuckGo as my default search engine. Infrequently enough that it didn’t annoy me to the point of considering switching back to Google for default in-browser search, but frequently enough that I was annoyed enough to remember that I needed to use it at all.\n\n[Kagi supports Bangs too](https://help.kagi.com/kagi/features/bangs.html), including `!g` for Google web search. I can’t remember the last time I felt the need to try using it. It’s been months, many months. And, the last few times I’ve tried it, Google’s results were no more help than Kagi’s. Your mileage may vary, of course, but for me, unlike with DuckDuckGo, I effectively *never* find myself redirecting the same search to Google because I wasn’t happy with the results from Kagi. For context on my search usage, [my Kagi usage report](https://daringfireball.net/misc/2025/04/kagi-usage.png) shows that I perform 400–800 web searches per month. (Kagi counts how often you search, for billing purposes, but [does not keep a history](https://kagi.com/privacy) of *what* you searched for.)\n\nPaying for Kagi today feels a *lot* like paying for HBO back in the cable TV heyday. Part of the deal is that you are paying for ad-free service, yes. But you’re also paying for noticeably higher quality. There were no shows like *The Sopranos*, *The Wire*, and *The Larry Sanders Show* on “free” TV channels, albeit with commercial interruptions. With HBO you got commercial-free entertainment *and* higher-quality shows and movies. Kagi is like that.[1](#fn1-2025-04-28) It’s that good. No ads, no unwanted AI (but very good AI results if you want — just end your query with a question mark), *and* better search results.",
+        "url": "https://daringfireball.net/2025/04/try_switching_to_kagi",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-05-12T20:31:49.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Kagi Snaps",
+        "summary": "**Snaps** allows you to easily limit search results to a specific website by using the `@` symbol followed by a short code for the site and then your search query.\n\n## Example [​](#example)\n\nTyping `@",
+        "content": "**Snaps** allows you to easily limit search results to a specific website by using the `@` symbol followed by a short code for the site and then your search query.\n\n## Example [​](#example)\n\nTyping `@r headphones` will search for \"headphones\" but limit the results to reddit.com (`r` is the short code for Reddit). This allows you to quickly find relevant content on a specific site using Kagi's powerful index. It is effectively the same as doing `headphones site:old.reddit.com`.\n\nIts relative, [Bangs](https://help.kagi.com/kagi/features/bangs.html) feature, invoked by using \"!r headphones\", would redirect the user to reddit's internal search.\n\n## How to Use Snaps [​](#how-to-use-snaps)\n\n- Type the `@` symbol in the search bar.\n- Enter the short code for the site you want to search. If you don’t know the short code, type a few letters of the site’s name and autosuggest options will appear.\n- Navigate these options using your arrow keys or mouse.\n\n- Enter your search query.\n- Press enter or click the search button.\n\n## Contributing to Snaps [​](#contributing-to-snaps)\n\nThe short codes used in Snaps are the same as those used in our [Bangs](https://help.kagi.com/kagi/features/bangs.html) feature. The list of bangs is [open source](https://github.com/kagisearch/bangs), so anyone can contribute to it. If you don't see a short code for a site you want to search, feel free to submit a pull request to add it to the list.",
+        "url": "https://help.kagi.com/kagi/features/snaps.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-05-12T21:06:21.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Teresa Ribera Visited the U.S. and No One Noticed",
+        "summary": "![Brussels does Delaware: Von der Leyen chases startups, but unions see danger](https://www.politico.eu/cdn-cgi/image/width=380,height=254,quality=80,onerror=redirect,format=auto/wp-content/uploads/20",
+        "content": "![Brussels does Delaware: Von der Leyen chases startups, but unions see danger](https://www.politico.eu/cdn-cgi/image/width=380,height=254,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/04/24/Delaware.jpg)\n\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n## \n\t\t\t\t\t\t\t\t\t\t[\n\t\t\t\t\t\tBrussels does Delaware: Von der Leyen chases startups, but unions see danger\t\t\t\t\t](https://www.politico.eu/article/eu-leaders-dream-delaware-nightmare-labor-entrepreneurs-employment-rights/)\n\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\tA new EU-wide company form is meant to stop fledgling firms fleeing to America. Trade unions say it would sacrifice the European social model. And experts say it might not work anyway.\n\n\t\t\t\n\t\t\t\n\t\t\tApr 27\t\t\n\t\n\t\n\t\n\n\t6 mins read\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t![At anti-Trump rally, Sánchez promises to ‘twist the arm’ of the global right](https://www.politico.eu/cdn-cgi/image/width=380,height=253,quality=80,onerror=redirect,format=auto/wp-content/uploads/2025/09/18/GettyImages-2235909762-scaled.jpg)\n\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n## \n\t\t\t\t\t\t\t\t\t\t[\n\t\t\t\t\t\tAt anti-Trump rally, Sánchez promises to ‘twist the arm’ of the global right\t\t\t\t\t](https://www.politico.eu/article/sanchez-to-twist-the-arm-of-global-right-wing-at-anti-trump-rally-progressive-left-barcelona/)\n\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\tThe Spanish leader pointed a finger in particular at U.S. tariffs and the war in the Middle East for leading to a broad erosion of multilateral institutions.\n\n\t\t\t\n\t\t\t\n\t\t\tApr 18\t\t\n\t\n\t\n\t\n\n\t2 mins read\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t![French peacekeeper killed by Hezbollah in Lebanon, Macron says](https://www.politico.eu/cdn-cgi/image/width=380,height=253,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/04/18/GettyImages-2271201224-scaled.jpg)\n\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n## \n\t\t\t\t\t\t\t\t\t\t[\n\t\t\t\t\t\tFrench peacekeeper killed by Hezbollah in Lebanon, Macron says\t\t\t\t\t](https://www.politico.eu/article/french-peacekeeper-killed-hezbollah-lebanon-emmanuel-macron/)\n\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\tThe killing came on the second day of a fragile 10-day ceasefire between Israel and Hezbollah brokered by Washington.\n\n\t\t\t\n\t\t\t\n\t\t\tApr 18\t\t\n\t\n\t\n\t\n\n\t1 min read\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\n\n\t\t\t\n\n\t\t\t![Trump rejects ‘blackmail’ by Tehran as Iranian military shuts Hormuz again](https://www.politico.eu/cdn-cgi/image/width=380,height=253,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/04/18/GettyImages-2271223326-scaled.jpg)\n\n\t\t\t\t\t\n\n\t\n\t\n\t\t\n\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\n## \n\t\t\t\t\t\t\t\t\t\t[\n\t\t\t\t\t\tTrump rejects ‘blackmail’ by Tehran as Iranian military shuts Hormuz again\t\t\t\t\t](https://www.politico.eu/article/iran-strait-of-hormuz-irgc-gunboats-fire-on-tanker/)\n\t\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\tIran’s military said the U.S. must lift its blockade of Iranian ports before the vital waterway is reopened.\n\n\t\t\t\n\t\t\t\n\t\t\tApr 18\t\t\n\t\n\t\n\t\n\n\t4 mins read",
+        "url": "https://www.politico.eu/article/eu-big-tech-rulebook-shifting-digital-economy-ribera-dma-pulse-forum/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Startup",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-12T20:05:28.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Building Software Requires Digestion",
+        "summary": "Here’s Scott Jenson in his insightful piece [“The Ma of a New Machine”](https://jenson.org/ma/):\n\n> the chatbot interface [makes us] feel like deep cognitive work is happening. But the interface is fu",
+        "content": "Here’s Scott Jenson in his insightful piece [“The Ma of a New Machine”](https://jenson.org/ma/):\n\n> the chatbot interface [makes us] feel like deep cognitive work is happening. But the interface is fundamentally reactive. It spits complex text at you, you skim it quickly, and you immediately type a reaction to keep the momentum going.\n\n> My hypothesis is that the very structure of the chatbot interface (type, read, type again) actively discourages reflection. When you are moving too fast, you get stuck in a groove. You literally need to take a break, step back, and basically step out of this groove so you can view the problem from a new angle. We’ve all walked away from a tough problem only to have the solution arrive unbidden into our thoughts later in the day.\n\nIn my decades+ experience designing and developing software, I can’t count the number of times I’ve stepped away from a problem at the computer only to return and find the problem magically resolved in my brain.\n\nBut the human-computer interaction of prompting doesn’t encourage the use of that skill in our subconscious.\n\nIn fact, I think it actively *discourages* it (our tools shape us).\n\nScott talks about this Japanese concept called “Ma” which is about deliberately creating pauses between things. He quotes Studio Ghibli director Hayao Miyazaki who says “if you just have non-stop action with no breathing space at all, it’s just busyness.” Here’s Scott (emphasis mine):\n\n> Ma provides a framework for understanding that **a pause is not a lack of work**\n\nAs humans we need pauses. We need space to breathe. We need time to digest.\n\nPausing, breathing, synthesizing, digesting — these are all necessary *work*.\n\n“Digestion” is an interesting word here.\n\nPutting food in your body is merely the beginning of feeding yourself. Our bodies must digest that food, break it down, absorb it, and get rid of the waste.\n\nBut that’s all happening mostly without our attentive oversight, so I guess it’s not “real” work — right?\n\nWrong.\n\nBuilding good, healthy software requires digestion.",
+        "url": "https://blog.jim-nielsen.com/2026/software-requires-digestion/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 12 May 2026 19:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Learning Software Architecture",
+        "summary": "May 12, 2026\n        \n        \n          In reply to an email asking about learning software design skills as a\n          researcher physicist:\n        \n\n        \n          I was attached to [a bioinf",
+        "content": "May 12, 2026\n        \n        \n          In reply to an email asking about learning software design skills as a\n          researcher physicist:\n        \n\n        \n          I was attached to [a bioinformatics lab](https://lp.jetbrains.com/biolabs/) early in my career, so I think I understand\n          what you are talking about, the phenomenon of “scientific code”! My\n          thoughts:\n        \n\n        \n          **First** meta observation is that “software design” is\n          something best learned by doing. While I had some formal “design”\n          courses at the University, and I was even “an architect” for our\n          course project, that stuff was mostly make-believe, kindergarteners\n          playing fire-fighters. What really taught me how to do stuff was an\n          accident of my career, where my second real project ([IntelliJ Rust](https://github.com/intellij-rust/intellij-rust)) propelled me to a position of software leadership,\n          and made design my problem. I did make a few mistakes in IJ Rust, but\n          nothing too horrible, and I learned a lot. So that’s good news —\n          software engineering is simple enough that an inquisitive mind can\n          figure it out from first principles (and reading random blog posts).\n        \n\n        \n          **Second** meta observation, the bad news:\n          [Conway’s law](https://en.wikipedia.org/wiki/Conway%27s_law)\n          is important. Softwaregenesis repeats the social architecture of the\n          organization producing software. Or, as put eloquently by [neugierig](https://neugierig.org/software/blog/2020/05/ninja.html),\n        \n\n        \n          \n> \n> If I were to summarize what I learned in a single sentence, it\n> would be this: we talk about programming like it is about writing\n> code, but the code ends up being less important than the\n> architecture, and the architecture ends up being less important\n> than social issues.\n> \n\n        \n        \n          I suspect that the difference you perceive between industrial and\n          scientific software is not so much about software-building knowledge,\n          but rather about the field of incentives that compels people to\n          produce the software. Something like “my PhD needs to publish a paper\n          in three months” is perhaps a significant explainer?\n        \n\n        \n          Two things you can do here. *One*, at times you get a chance to\n          design or nudge an incentive structure for a project. This happens\n          once in a blue moon, but is very impactful. *This* is the\n          secret sauce behind [TIGER_STYLE](https://github.com/tigerbeetle/tigerbeetle/blob/0.17.4/docs/TIGER_STYLE.md), not the set of rules per se, but the social context\n          that makes this set of rules a good idea.\n        \n\n        \n          *Two*, you can speedrun the four stages of grief to acceptance.\n          Incentive structure is almost never what you want it to be, but, if\n          you can’t change it, you can adapt to it. This is also true about most\n          industrial software projects — there’s never a time to do a thing\n          properly, you must do the best you can, given constraints.\n        \n\n        \n          Let me use [rust-analyzer](https://github.com/rust-lang/rust-analyzer) as an example. The physical reality of the project\n          is that it’s simultaneously very deep (it’s a compiler! Yay!) and very\n          wide (opposite to an LLM, a classical IDE is *a lot* of\n          purpose-built special features). The social reality is that “deep\n          compiler” can attract a few brilliant dedicated contributors, and that\n          the “breadth features” can be a good fit for an army of weekend\n          warriors, people who learn Rust, who don’t have sustained capacity to\n          participate in the project, but who can sink an hour or two to scratch\n          their own itch.\n        \n\n        \n          My insistence that `rust-analyzer` doesn’t require building\n          `rustc`, that it builds on stable, that it doesn’t have any\n          C dependencies, and that the entire test suite takes seconds, was in\n          the service of the goal of attracting high-impact contributors. I was\n          wrangling the build system to make sure people can work on the borrow\n          checker without thinking about anything else.\n        \n\n        \n          To attract weekend warriors, the internals of rust-analyzer are split\n          into multiple independent features, where each feature is guarded by\n          `catch_unwind` at runtime. The thinking was that I\n          *explicitly* don’t want to care too much about quality there,\n          that the bar for getting a feature PR in is “happy path works &\n          tested”. It’s fine if the code crashes, it will only attract further\n          contributors, provided that:\n        \n\n        \n          - \n            the quality is isolated to a feature, and doesn’t spill over,\n          \n\n          - \n            at runtime, the crash is invisible to the user (it’s crucial that\n            rust-analyzer features work with an immutable snapshot, and can’t\n            poison the data).\n          \n\n        \n\n        \n          In contrast, when working on the core *spine* which provided\n          support for features, I was very relatively more pedantic about\n          quality.\n        \n\n        \n          A word of caution about adapting to, rather than fixing incentive\n          structure — the future is uncertain, and tends to happen in the least\n          convenient manner. The original motivation behind rust-analyzer *experiment* was to avoid the need to write a parallel compiler\n          (the one in IntelliJ Rust), and to *prototype* a better\n          architecture for LSP, so that the learnings could be backported to\n          `rustc`. So, even in core (especially in core), the code\n          was *very* experimental. Oh well. Stuck with one more compiler\n          now, I guess?\n        \n\n        \n          I might hazard a guess that something similar happened to uutils\n          project, which started as the primary destination for people learning\n          Rust, and ended up as Ubuntu coreutils implementation.\n        \n\n        \n          **Third**, now to some concrete recommendations. Sadly, I\n          don’t know of a single book I can recommend which contains the truths.\n          I suspect one can only find such a book in an apocryphal short story\n          by Borges: practice seems to be an essential element here. But here\n          are some things worth paying attention to:\n        \n\n        \n          [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) talk by Gary Bernhardt is all-time favorite. It\n          contains solid object-level advice, and, for me, it triggered the meta\n          inquiry.\n        \n\n        \n          [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) is something I wish I had. I immediately understood\n          the importance of testing, but it took me a long time to grow arrogant\n          enough to admit that most widely-cited testing advice is shamanistic\n          snake-oil, and to conceptualize what actually works.\n        \n\n        \n          [∅MQ guide](https://zguide.zeromq.org/docs/chapter6/) and,\n          more generally,\n          [writings by Pieter Hintjens](http://hintjens.com/)\n          introduced me to Conway’s Law thinking. That “feature development”\n          architecture of rust-analyzer? –\n          [optimistic merging](http://hintjens.com/blog:106),\n          applied.\n        \n\n        \n          [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/)\n          by Jamii is excellent, goes very meta. It is intentionally the first\n          of [my links](https://matklad.github.io/links.html).\n        \n\n        \n          [Ted Kaminski](https://www.tedinski.com/archive/) blog is\n          the closest there is to a coherent theory of software development,\n          appropriately framed as a set of notes to a non-existing book!\n        \n\n        \n          As for the actual books, [*Software Engineering at Google*](https://abseil.io/resources/swe-book)\n          and Ousterhout’s *The Philosophy of Software Design* are often\n          recommended. They are good. SWE, in particular, helped me with\n          [a couple of important names](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html). But they weren’t ground breaking for\n          me.",
+        "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+        "source": "matklad",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-05-12T00:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Thinking Machines and interaction models",
+        "summary": "Thinking Machines just released [*Interaction Models*](https://thinkingmachines.ai/blog/interaction-models/). This is their first real AI model release[1](#fn-1) after a year of work and two billion d",
+        "content": "Thinking Machines just released [*Interaction Models*](https://thinkingmachines.ai/blog/interaction-models/). This is their first real AI model release[1](#fn-1) after a year of work and two billion dollars of capital. What is an “interaction model”? First, **it’s not a frontier model**. Thinking Machines is not yet competing with OpenAI, Anthropic and Google.\n\nInstead, they’re working on the problem of better real-time interaction with models. Some parts of what they’re doing are not new at all, other parts are slightly-questionable benchmark gaming, and still other parts represent a genuine technological advancement. I’ll try to lay it all out.\n\n### Fully-duplex voice models\n\nIf you’ve used ChatGPT in audio mode, you know that you can’t talk to it exactly how you’d talk to a human. There’s a big latency gap between when you finish talking and when the model jumps in. The model won’t interrupt you like a human, and doesn’t react to you interrupting it like a human would either. And of course you can’t give the model visual feedback like facial expressions.\n\nThat’s because **ChatGPT is either speaking or listening at any given time**. When you’re talking, it’s in “listening” mode; when it’s talking, it’s in “speaking” mode, and isn’t absorbing any information from you. It relies on VAD (“voice activity detection”) to figure out if you’re talking. The alternative (and what “interaction models” do) is a fully-duplex system, where the model is constantly both in listening and speaking mode at the same time.\n\nOf course, the model can’t literally do this. Like all language models, it’s either doing prefill (ingesting prompt tokens) or decode (producing completion tokens). But what fully-duplex models *can* do is switch from listening to speaking mode in tiny chunks, called “micro-turns”. Instead of listening for ten seconds (or however long it takes you to stop talking), then speaking for ten seconds (or however long it takes to pass the model output through TTS), the model can listen for 200ms, then output for 200ms, then listen for 200ms, and so on. While the user is speaking, the model will know to output silence - most of the time. But if it decides it’s good to interrupt you or speak at the same time as you, it’s capable of doing that.\n\nSo far, so unoriginal. There are plenty of examples of fully duplex audio systems that the Thinking Machines blog post already cites: [Moshi](https://github.com/kyutai-labs/moshi), [PersonaPlex](https://github.com/NVIDIA/personaplex), [Nemotron-VoiceChat](https://build.nvidia.com/nvidia/nemotron-voicechat), and so on. But at least this outlines the space that “interaction models” are playing in: not “superintelligence from a frontier model”, but “better real-time conversational interaction”[2](#fn-2). Given that, what is Thinking Machines doing that’s new?\n\n### Delegating reasoning\n\nFor existing fully-duplex models, you talk to the model itself. That’s a fairly big problem, since fully-duplex models have to be fast: fast enough that they can operate in tiny 200ms turns[3](#fn-3). A model that fast cannot be particularly intelligent.\n\nThinking Machines’ solution is to introduce an actual smart model - any regular language model will do here - in the background that the interaction model can delegate tasks to. In practice this is probably implemented as a tool call. The interaction model keeps chatting while the smart model works away, and then the smart model output is directly integrated into the interaction model’s context in the same way as audio and video input (a genuinely cool idea, I think).\n\nThis is kind of neat, though it remains to be seen how well it works in practice. Will the model do a lot of “oh wait, the last thing I said was dumb, never mind” self-correction as the smarter model output trickles in? Will the fast interaction model be smart enough to delegate the right tasks at the right time? In general, the “start with a fast dumb model and have it hand off tasks” approach has been tricky for the AI labs to get right for a variety of reasons.\n\nIf I’m being uncharitable, I might say that bolting on a strong reasoning model was an easy way for Thinking Machines to post impressive values for competitive benchmarks like FD-bench V3 (where they barely beat GPT-realtime-2.0) and BigBench Audio (where introducing the reasoning model bumps their score from 76% to 96%, only 0.1% below GPT-realtime-2.0). If I’m being charitable, I might say that a model fast enough for realtime conversation will have to have some way to punt hard tasks to a slower, smarter model. Both of those things are probably true.\n\n### Scale\n\nIt’s also worth noting that Thinking Machines have also bolted on video input to their fully-duplex model. This is more exciting than it sounds, because face-to-face human conversation is very dependent on being able to read human expressions. In theory, this could unlock the ability to have genuine human-like conversations.\n\nThe other reason why this is exciting is that it means Thinking Machines have been able to make a pretty big fully-duplex model (maybe twice the size of Moshi in terms of active parameters, and 40x the size in terms of total parameters).\n\nIn fact, this is probably the biggest real technical achievement here. Other fully-duplex models are already doing micro-turns and interruptions, and could delegate reasoning fairly easily if they wanted to, but they aren’t doing video because they *can’t*. Being able to make a fully-duplex model the size of DeepSeek V4-Flash is pretty impressive.\n\nMuch of the Thinking Machines blog post is dedicated to explaining how they’ve managed to do this: ingesting data in a more lightweight way, optimizing their inference libraries for tiny prefill/decode chunks, various decisions to make inference deterministic (a long-held [hobbyhorse](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) for Thinking Machines).\n\n### Conclusion\n\nThere’s a lot of pressure on Thinking Machines to produce a genuine AI advancement. It doesn’t seem like they’re willing or able to compete in the frontier-model space (which makes sense, I wouldn’t want to either). Given that, I can see why they’re highlighting the parts of interaction models that are impressive to laypeople - all the fully-duplex interaction stuff - even though those parts are not truly innovative.\n\nSo what are Interaction Models? **A scaled-up, multimodal version of existing fully-duplex models like Moshi, with a real model bolted on for extra intelligence** (and maybe better benchmarks). The scale and video parts are new and cool, and something like the overall approach has to be right. In general, I’m glad that we’ve got well-funded and high-profile AI labs tackling problems other than “build a smarter frontier model”. I think there’s a lot of low-hanging fruit waiting to be picked in other areas of AI research.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https://www.seangoedecke.com/interaction-models/&t=Thinking%20Machines%20and%20interaction%20models).\n\nHere's a preview of a related post that shares tags with this one.\n\n> The left-wing case for AI\n\nIn [*Many anti-AI arguments are conservative arguments*](https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/) I argued that left-wing anti-AI sentiment is partly a backlash to two unrelated events around the rise of ChatGPT: the crypto mania of 2022 and the pro-Donald-Trump push many big tech CEOs made in 2024. If the timing had been different, we could have had a real pro-AI faction on the left. What would that look like?\n[Continue reading...](https://seangoedecke.com/the-left-wing-case-for-ai/)",
+        "url": "https://seangoedecke.com/interaction-models/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "Tue, 12 May 2026 00:00:00 GMT",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Not a Security Issue",
+        "summary": "Daniel Stenberg [wrote yesterday](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) about Mythos finding a real curl vulnerability, which sent me poking around the curl tree w",
+        "content": "Daniel Stenberg [wrote yesterday](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) about Mythos finding a real curl vulnerability, which sent me poking around the curl tree with a couple of AI-assisted scanners to see what else turned up in a codebase that has already had every fuzzer and auditor on earth pointed at it. The findings were better than expected, and one reason stood out: the scanners had read [`docs/VULN-DISCLOSURE-POLICY.md`](https://github.com/curl/curl/blob/master/docs/VULN-DISCLOSURE-POLICY.md) and applied it.\n\nA whole class of results came back labelled in effect “real bug, worth fixing, but not a security issue per the project’s own policy”: server-triggered NULL dereferences, small leaks, things that only fire if you can already control the command line. The tool had found them, checked them against curl’s published list of what doesn’t count, and demoted them before I had to.\n\nOne example from the demoted pile: the scanner found that `tool_formparse.c` walks a linked list of `-F` form parts recursively with no depth limit, built a 150k-line config file to prove it, and got an ASan stack-overflow trace out the other end. It then wrote, in its own summary, “trigger requires user to run curl with attacker-supplied config or args, so excluded by policy,” filed it under quality bugs, and moved on. A small `ber_free` leak on an LDAP error path got the same treatment with a terser “policy excludes small leaks.” The noise floor was lower than comparable runs on projects without a written policy.\n\nAlmost everything written about AI-generated security reports over the past few months is about what to do once they land in your inbox. Daniel has [written](https://daniel.haxx.se/blog/) and [spoken](https://opensourcesecurity.io/2025/2025-05-curl_vs_ai_with_daniel_stenberg/) about it at length, Seth Larson [called it early](https://sethmlarson.dev/slop-security-reports) from the Python side, ISC [reported](https://www.isc.org/blogs/2026-04-16-How-to-report-a-vulnerability/) an 89% false-positive rate on one platform, and there’s an [OpenSSF working group effort](https://github.com/ossf/wg-vulnerability-disclosures/issues/178) collecting triage practices. All of that addresses the receiving end, whereas the curl scan suggested the same documents that help a human triager can be loaded into the scanner’s context and suppress findings before anyone has to read them.\n\nAgentic scanners read the repository as they go, pulling in `SECURITY.md`, `CONTRIBUTING.md`, and anything that looks like policy, because they’re built on the same scaffolding as coding agents. A maintainer has no say over who points a scanner at the repo, but the files sitting there when it arrives are entirely theirs.\n\n## VULN-DISCLOSURE-POLICY.md\n\nThe [section](https://github.com/curl/curl/blob/master/docs/VULN-DISCLOSURE-POLICY.md#not-security-issues) that did the work is headed “Not security issues” and lists sixteen named categories, covering things like small memory leaks, never-ending transfers, NULL dereferences triggered by a malicious server, busy-loops that eventually end, escape sequences in terminal output, weak algorithms that a protocol requires, and anything that depends on tricking the user into running a crafted command line.\n\nEach entry gets a paragraph of reasoning: the busy-loop one says applications already have to handle the transfer loop legitimately running at 100% CPU, so a prolonged one is a bug rather than a vulnerability, and the command-line one points out that an attacker who can make you run a crafted curl invocation could make you run `sudo rm -rf /` instead.\n\nThe reasoning is what lets a reader, human or otherwise, apply the rule to cases the list didn’t anticipate, and the categories only work because they’re specific to curl. A generic “DoS is out of scope” line wouldn’t have helped, but “never-ending transfers are not security issues because applications already need countermeasures for stalled connections” is something a tool can match a finding against.\n\n## Prior art\n\n[Node.js](https://github.com/nodejs/node/blob/main/SECURITY.md) embeds a full threat model in `SECURITY.md` with explicit trust boundaries, listing what the runtime does not trust (inbound network data, file content opened via the API) against what it does (the operating system, the developer’s own code), and sets a high bar for DoS reports by requiring asymmetric resource consumption and ruling out anything mitigable by ordinary process recycling.\n\n[Django’s policy](https://docs.djangoproject.com/en/dev/internals/security/) gives worked code examples of reports that are “not considered valid”, mostly variations on passing unsanitised input to an internal function and blaming the function. It also asks reporters not to include CVSS scores, severity assessments, or “lengthy background sections”, which is a fairly direct description of what an LLM produces by default.\n\n[Chrome’s security FAQ](https://chromium.googlesource.com/chromium/src/+/main/docs/security/faq.md) is the source of the most-borrowed single exclusion in the genre, that a physically-local attacker who can already run code as you is out of scope because the browser can’t defend against the operating system.\n\nI [collected](https://gist.github.com/andrew/4002775fc189c5ce7a05e058b84c5348) around five hundred repositories that ship a threat model file of some kind. The filenames are all over the place, `THREAT-MODEL.md`, `threat_model.md`, `ThreatModel.md`, sometimes buried three directories into `docs/`, which means a tool has to go looking rather than checking a known path.\n\nThe OpenSSF [SECURITY-INSIGHTS](https://github.com/ossf/security-insights) schema has had `in-scope` and `out-of-scope` arrays under `vulnerability-reporting` for a couple of years, which would be the obvious machine-readable home for this, but I’ve not seen a scanner that consumes them.\n\n## What to write\n\nThe baseline is having a [`SECURITY.md`](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/adding-a-security-policy-to-your-repository) at all, which a surprising share of widely-depended-on repos still lack, and on GitHub turning on [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) so there’s somewhere for a report to go that isn’t a public issue. An empty policy file with a contact address is still better than nothing because it’s the first place both humans and tools look.\n\nThe exclusion list is the cheap part and the part that did the work in the curl scan. Each entry needs the name of the pattern, a flat statement that it doesn’t qualify, and enough reasoning that the rule generalises beyond the exact case you wrote down.\n\nUnderneath that sits a short threat model describing who the attacker is assumed to be and what they control, against what the project is actually trying to protect, which for most projects fits in three or four paragraphs. The exclusion list is really just the threat model restated as concrete cases. In practice most maintainers will write the exclusions first because that’s where the pain is, accumulating entries as bad reports come in, and only later write down the model that explains why they hold together, which is fine, though the list does tend to get sharper once the model exists. The [CNCF self-assessment template](https://github.com/cncf/tag-security/blob/main/community/assessments/guide/self-assessment.md) is a reasonable starting shape if you want one.\n\nOne category worth adding that I haven’t seen written down is documentation not matching behaviour. AI scanners flag this constantly because “docs say X, code does Y” is a finding template they’ve learned, and it is technically a defect, but it’s only a security issue if the documented behaviour was a security guarantee somebody relied on. A function that the docs say returns null on error but actually throws belongs in the public tracker, whereas a function documented as escaping HTML that turns out not to is a real vulnerability.\n\nStating that distinction in the policy file would have trimmed the curl results further, and Piotr Karwasz [made much the same observation](https://github.com/ossf/wg-vulnerability-disclosures/issues/178#issuecomment-3897627638) from the Log4j side, where most of the borderline reports describe real behaviour that the threat model excludes and the fix is usually a Javadoc line saying whether an argument is trusted.\n\nNone of this stops someone pasting a hallucinated buffer overflow into your HackerOne queue without reading anything, and the bottom of the report-quality distribution is unreachable by documentation. But the better-built tools, the ones that read the repo before reporting, are the ones a policy file can steer, and those are increasingly the ones doing the scanning. Writing the threat model down was always good practice for human reporters, and it turns out the new readers take it more literally than the old ones ever did.\n\nWhatever mythical models turn up next will be reading the same files.",
+        "url": "https://nesbitt.io/2026/05/12/not-a-security-issue.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-05-12T10:00:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: A fascist paradigm (12 May 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/12May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/12/donella-m",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/12May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/12/donella-meadows/)\n\n## Today's links\n\n- [A fascist paradigm](https://pluralistic.net/2026/05/12/donella-meadows/#paradigmatic): The change that changed everything.\n\n- [Hey look at this](https://pluralistic.net/2026/05/12/donella-meadows/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/05/12/donella-meadows/#retro): Openstreetmap x Isle of Wight; Found grocery lists; Mayor wants to pray away potholes; Designing a D120; \"Too Like the Lightning.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/05/12/donella-meadows/#upcoming): Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh.\n\n- [Recent appearances](https://pluralistic.net/2026/05/12/donella-meadows/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/05/12/donella-meadows/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/05/12/donella-meadows/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/05/12/donella-meadows/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/paradigm-shift.jpg?w=840&ssl=1)\n\n## A fascist paradigm ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#paradigmatic))\n\nYesterday, I attended a workshop on systems thinking and political change, which included a presentation on the work of Donella Meadows, whose *Thinking in Systems* is a canonical work on the subject:\n\n[https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer](https://en.wikipedia.org/wiki/Thinking_In_Systems:_A_Primer)\n\n\"Systems thinking\" is an analytical framework that treats the world as a mesh of interconnected, nonlinear components and relationships that can't be easily understood or steered. A complex system isn't merely \"complicated.\" A mechanical watch is complicated, in that it has many parts that work together in ways that require training and specialized knowledge to understand. But it isn't \"complex\" because each part has a specific function that can be understood and adjusted.\n\nIn a complex system – say, an ecosystem – the parts are meshed in a web of unobvious relationships that make it difficult to predict what effect will follow from a given perturbation. When a blight kills off a plant species, the soil stability declines, resulting in landslides during the rainy season, changing the mineral content of nearby waterways, which creates microbial blooms or fish die-offs in a distant, downstream lake.\n\n![](https://i0.wp.com/craphound.com/images/meadows-changes.jpg?w=840&ssl=1)\n\nBut systems thinking isn't a counsel of despair that insists that you shouldn't do anything because you can never predict what will come of your actions. In *Thinking in Systems*, Meadows presents a hierarchy of leverage points for changing a system, ranked from least effective (\"Constants, numbers, parameters\") to most (\"The power to shift paradigms to deal with new challenges\"):\n\n[https://www.flickr.com/photos/doctorow/55264856861/](https://www.flickr.com/photos/doctorow/55264856861/)\n\nIn all, Meadows theorizes 12 different \"places to intervene in a system.\" The least effective of these – constants like taxes and standards, negative and positive feedback loops – are the sites of most of our political fights, and rightly so. They are the fine-tuning knobs of the system that adjust its margins. Once you have the rule of law (\"the rules of the system\"), you can drive change by amending, repealing or passing a law:\n\n[https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)\n\nBut when you're confronted with a system that is significantly, persistently dysfunctional, you will likely have to work at sites that are further up the hierarchy, such as \"the distribution of power over the rules of the system\" or \"the goals of the system\"; or the most profound of all, \"the paradigm out of which the system — its goals, power structure, rules, its culture — arises.\"\n\nThinking about paradigms is a form of \"meta-cognition,\" which is to say, \"thinking about how you think.\" Your paradigm encompasses all your assumptions, including your assumptions about how to proceed from your other assumptions: \"if x, then y\" is a paradigm.\n\nThe workshop where we were discussing all of this is part of a group whose goal is reversing the antidemocratic movement in our society and the climate emergency that is its backdrop. But as I listened to the speaker and the ensuing discussion, it occurred to me that Meadows' theoretical work was a very good way of describing the successes of the fascist movement in the UK and around the world.\n\nFascists like Farage and Trump are, at their root, anti-democratic. Their pitch is that the people are incapable of self-determination (as Peter Thiel puts it, \"democracy is incompatible with freedom\"). They want us to think that all our neighbors are irrational and foolish, and that we, too, are irrational and foolish, and that our safety and prosperity can only be safeguarded if we seek out those few people who are born to rule and liberate them from the petty niceties and regulations that democracy and the rule of law demand.\n\nIn other words, the paradigm of democracy is that all of us are capable of both wise self-governance and self-rationalized misgovernance, and each of us has a useful perspective to contribute. The fascist paradigm is that we can't be trusted to rule ourselves, and only the people who are born with \"good blood\" are capable of directing our lives:\n\n[https://pluralistic.net/2025/05/20/big-cornflakes-energy/#caliper-pilled](https://pluralistic.net/2025/05/20/big-cornflakes-energy/#caliper-pilled)\n\nThis is the theory behind \"race realism\" and \"human diversity\" and all the other polite names the modern fascist uses to obscure the fact that they're reviving eugenics. It explains the panic over DEI, a panic driven by the belief that lesser people are being elevated to positions of rule and authority that they are genetically incapable of carrying out.\n\nThat's why, whenever a disaster arises, fascists demand to know the gender, race and sexual orientation of the pilot, the ship's captain, or the official in charge. If the person who crashed the cargo ship into the bridge has brown skin, we can add another line to the ledger of costs associated with the doomed project to put people who were born to be bossed around in the boss's seat (of course, if the pilot turns out to be a white guy, that proves nothing, except that mistakes sometimes happen).\n\nThe revival of fascism in this century has been scarily effective, and at times it can feel unstoppable. Meadows' work on systems thinking provides an explanation for that efficacy – and suggests a theory of change for dispatching fascism back to the graveyard of history. Fascists have made changes to things like laws and feedback loops, rules and distribution of power, but this all stems from a more profound alteration to the system, at the level of the paradigm.\n\nWhich suggests that the real fight we have is over that paradigm: we have to convince our neighbors that they are smart enough to rule themselves, and so are we, and so is everyone else. We have to convince them that even the smartest and wisest person (including us, including them) is capable of folly and needs to have checks on their (our) authority.\n\nWe need to attack the theory of the \"unitary executive\" and every other autocratic ideology head on. We have to insist that these aren't just unconstitutional, but that they are ideologically catastrophic. \"No kings,\" because even an omnibenevolent king isn't omniscient, and that means that omnipotence is always omnidestructive in the long run.\n\nThe fascist revival has been scarily effective and resilient – and systems thinking offers an explanation for both that efficacy and that resiliency.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- I knew my writing students were using AI. Their confessions led to a powerful teaching moment [https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai](https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai)\n\n- \nReporters at McClatchy withhold bylines in dispute over AI content [https://www.spokesman.com/stories/2026/may/01/reporters-at-mcclatchy-withhold-bylines-in-dispute/](https://www.spokesman.com/stories/2026/may/01/reporters-at-mcclatchy-withhold-bylines-in-dispute/)\n\n- \nSomeone Built an App to Fight Surveillance Pricing With a Flipper Zero… for Research Purposes [https://gizmodo.com/someone-built-an-app-to-fight-surveillance-pricing-with-a-flipper-zero-for-research-purposes-2000755224](https://gizmodo.com/someone-built-an-app-to-fight-surveillance-pricing-with-a-flipper-zero-for-research-purposes-2000755224)\n\n- \nLife without US tech [https://www.ft.com/content/4c3aad70-e0cb-46a2-95d5-15d11b6bf818?accessToken=zwAAAZ4VoJdukc9MOq1w4MtGotOV1RXRG2v4GA.MEQCIFXG2BBi81XpJ8D4_1uEUIencLlX2h_fjR9DN9YSKjmdAiA9W8XTlEm0uuh0SQioErfqHFu5R_9gkFTD4L54Bmg-cQ&amp;sharetype=gift&amp;token=3519ae98-a671-4dbe-9058-4ebf21385c9a&amp;syn-25a6b1a6=1](https://www.ft.com/content/4c3aad70-e0cb-46a2-95d5-15d11b6bf818?accessToken=zwAAAZ4VoJdukc9MOq1w4MtGotOV1RXRG2v4GA.MEQCIFXG2BBi81XpJ8D4_1uEUIencLlX2h_fjR9DN9YSKjmdAiA9W8XTlEm0uuh0SQioErfqHFu5R_9gkFTD4L54Bmg-cQ&amp;sharetype=gift&amp;token=3519ae98-a671-4dbe-9058-4ebf21385c9a&amp;syn-25a6b1a6=1)\n\n- \nWhat Challenging a Bowling Monopoly Says About America [https://www.thebignewsletter.com/p/monopoly-round-up-what-challenging](https://www.thebignewsletter.com/p/monopoly-round-up-what-challenging)\n\n- \nThe Oligarchs Are Starting to Lose Their Grip on Power [https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html](https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#retro))\n\n#25yrsago First aid for the dying dotcom [http://modernhumorist.com/mh/0010/dotcom/](http://modernhumorist.com/mh/0010/dotcom/)\n\n#20yrsago OpenStreetMap maps Isle of Wight, Manchester next [https://wiki.openstreetmap.org/wiki/Mapchester_Mapping_Party_2006](https://wiki.openstreetmap.org/wiki/Mapchester_Mapping_Party_2006)\n\n#20yrsago Fueling model rockets with Oreo fillings [https://web.archive.org/web/20060616192646/https://www.popsci.com/popsci/how20/600152d7d441b010vgnvcm1000004eecbccdrcrd.html](https://web.archive.org/web/20060616192646/https://www.popsci.com/popsci/how20/600152d7d441b010vgnvcm1000004eecbccdrcrd.html)\n\n#20yrsago Legal guide for podcasters [https://wiki.creativecommons.org/wiki/Welcome_To_The_Podcasting_Legal_Guide](https://wiki.creativecommons.org/wiki/Welcome_To_The_Podcasting_Legal_Guide)\n\n#20yrsago Collection of 1100+ found grocery lists [https://grocerylists.org/](https://grocerylists.org/)\n\n#10yrsago Mayor of Jackson, MS: “I believe we can pray potholes away” [https://www.wjtv.com/news/jackson-mayor-tony-yarber-we-can-pray-potholes-away/](https://www.wjtv.com/news/jackson-mayor-tony-yarber-we-can-pray-potholes-away/)\n\n#10yrsago What’s the best way to distribute numbers on the faces of a D120? [https://web.archive.org/web/20160510182023/https://www.wired.com/2016/05/mathematical-challenge-of-designing-the-worlds-most-complex-120-sided-dice/](https://web.archive.org/web/20160510182023/https://www.wired.com/2016/05/mathematical-challenge-of-designing-the-worlds-most-complex-120-sided-dice/)\n\n#10yrsago Billionaire Paypal co-founder Peter Thiel will be a California Trump delegate [https://web.archive.org/web/20160510155226/https://www.wired.com/2016/05/investor-peter-thiel-will-california-delegate-trump/](https://web.archive.org/web/20160510155226/https://www.wired.com/2016/05/investor-peter-thiel-will-california-delegate-trump/)\n\n#10yrsago McClatchy newspapers’ CEO pleased to announce that he’s shipping IT jobs overseas [https://web.archive.org/web/20160510102956/https://www.computerworld.com/article/3067304/it-careers/newspaper-chain-sending-it-jobs-overseas.html](https://web.archive.org/web/20160510102956/https://www.computerworld.com/article/3067304/it-careers/newspaper-chain-sending-it-jobs-overseas.html)\n\n#10yrsago Peace in Our Time: how publishers, libraries and writers could work together [https://locusmag.com/feature/cory-doctorow-peace-in-our-time/](https://locusmag.com/feature/cory-doctorow-peace-in-our-time/)\n\n#10yrsago Too Like the Lightning: intricate worldbuilding, brilliant speculation, gripping storytelling [https://memex.craphound.com/2016/05/10/too-like-the-lightning-intricate-worldbuilding-brilliant-speculation-gripping-storytelling/](https://memex.craphound.com/2016/05/10/too-like-the-lightning-intricate-worldbuilding-brilliant-speculation-gripping-storytelling/)\n\n#5yrsago LA traveling toward free public transit [https://pluralistic.net/2021/05/10/comrade-ustr/#get-on-the-bus](https://pluralistic.net/2021/05/10/comrade-ustr/#get-on-the-bus)\n\n#5yrsago Biden's shift on vaccine patents is a Big Deal [https://pluralistic.net/2021/05/10/comrade-ustr/#vaccine-diplomacy](https://pluralistic.net/2021/05/10/comrade-ustr/#vaccine-diplomacy)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Barcelona: Internet no tiene que ser un vertedero (Global Digital Rights Forum), May 13\n\n[https://encuentroderechosdigitales.com/en/speakers/](https://encuentroderechosdigitales.com/en/speakers/)\n\n- \nVirtual: How to Disenshittify the Internet with Wendy Liu (EFF), May 14\n\n[https://www.eff.org/event/effecting-change-enshittification](https://www.eff.org/event/effecting-change-enshittification)\n\n- \nBerlin: Re:publica, May 18-20\n\n[https://re-publica.com/de/news/rp26-sprecher-cory-doctorow](https://re-publica.com/de/news/rp26-sprecher-cory-doctorow)\n\n- \nBerlin: Enshittification at Otherland Books, May 18\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow-in-der-friesenstrasse-23-kreuzberg-praesentiert-von-otherland.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow-in-der-friesenstrasse-23-kreuzberg-praesentiert-von-otherland.html)\n\n- \nBerlin: Enshittification at Otherland Books, May 19\n\n[https://www.otherland-berlin.de/de/event-details/cory-doctorow.html](https://www.otherland-berlin.de/de/event-details/cory-doctorow.html)\n\n- \nHay-on-Wye: HowTheLightGetsIn, May 22-25\n\n[https://howthelightgetsin.org/festivals/hay/big-ideas-2](https://howthelightgetsin.org/festivals/hay/big-ideas-2)\n\n- \nSXSW London, Jun 2\n\n[https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901](https://www.sxswlondon.com/session/how-big-tech-broke-the-internet-b3c4a901)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#recent))\n\n- The “Enshittification” of Everything (Bioneers)\n\n[https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/](https://bioneers.org/cory-doctorow-enshittification-of-everything-zstf2605/)\n\n- \nEnshittification (99% Invisible)\n\n[https://99percentinvisible.org/episode/666-enshittification/](https://99percentinvisible.org/episode/666-enshittification/)\n\n- \nArtificial Intelligence: The Ultimate Disruptor, with Astra Taylor and Yoshua Bengio (CBC Ideas)\n\n[https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor](https://www.cbc.ca/listen/live-radio/1-23-ideas/clip/16210039-artificial-intelligence-the-ultimate-disruptor)\n\n- \nWhen Do Platforms Stop Innovating and Start Extracting? (InnovEU)\n\n[https://www.youtube.com/watch?v=cccDR0YaMt8](https://www.youtube.com/watch?v=cccDR0YaMt8)\n\n- \nPete \"Mayor\" Buttigieg (No Gods No Mayors)\n\n[https://www.patreon.com/posts/pete-mayor-with-155614612](https://www.patreon.com/posts/pete-mayor-with-155614612)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/05/12/donella-meadows/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/05/12/donella-meadows/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "Product"
+        ],
+        "published_at": "Tue, 12 May 2026 07:22:17 +0000",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)",
+        "summary": "iOS 26.5 introduces several interoperability changes for third-party wearables, which means European iPhone users have access to new capabilities when using non-Apple accessories.\n\n![european union eu",
+        "content": "iOS 26.5 introduces several interoperability changes for third-party wearables, which means European iPhone users have access to new capabilities when using non-Apple accessories.\n\n![european union eu](https://images.macrumors.com/t/H2kQEgDHZZXOa0mv5NFfWIaAcJA=/400x0/article-new/2025/12/european-union-eu.jpg?lossy)\nTo comply with the EU's Digital Markets Act, Apple is letting third-party wearables access some features that have historically been limited to the Apple Watch and AirPods.\n\n- **Proximity pairing** - Third-party earbuds are able to use proximity pairing to connect to an iPhone, similar to the AirPods. Bringing a set of earbuds that support the feature near an iPhone will initiate an AirPods-like one-tap pairing process, so third-party wearables like earbuds will no longer require multiple steps to pair.\n\n- **iPhone notifications** - Third-party accessories like smartwatches are able to receive notifications from the iPhone, and users are able to view and react to them. Interactive notifications from the iPhone have been limited to the Apple Watch, while third-party wearables have only been able to display read-only notifications. Notifications can only be forwarded to a single connected device at a time, so turning on notifications for a third-party wearable disables notifications on Apple Watch.\n\n- **Live Activities** - Live Activities from the iPhone can be displayed on a third-party wearable, similar to how Live Activities are shown on an Apple Watch.\n\nAccessory makers will need to add support for the interoperability updates, so they may not be available right away. Third-party TVs, smartwatches, and headphones will be able to use the features.\n\nApple has been testing the interoperability changes in betas for the last several months, starting with iOS 26.3, but they're available for all EU users with the launch of iOS 26.5.\n\nApple updated its Developer Program License Agreement to reflect the EU changes. Forwarded notifications and Live Activities cannot be used for advertising, profiling, training models, or monitoring location. Forwarded information can't be sent to any other app or device besides the authorized target accessory, nor can it be modified in a way that \"materially changes the meaning.\"\n\nExpanded support for third-party wearables is limited to iPhone users in the European Union with an Apple account set to an EU country or region.\n\nApple [has warned](https://www.macrumors.com/2025/09/25/apple-challenges-eu-digital-markets-act/) that the Digital Markets Act (DMA) is forcing it to make \"concerning changes\" to its products and services in the EU, and exposing customers to new risks while also disrupting the way that Apple products work together. In September, Apple urged European regulators to scrap the DMA, and in November, it [shared a study](https://www.macrumors.com/2025/11/12/dma-no-lower-fees-study/) it commissioned that found the DMA has not resulted in lower prices for consumers.\n\n## Popular Stories\n\n### [Apple Wins EU Challenge Over Keyboard Maker's Citrus Logo](https://www.macrumors.com/2026/05/06/apple-eu-trademark-challenge-citrus-logo/)\n\nWednesday May 6, 2026 11:48 am PDT by [Juli Clover](https://www.macrumors.com/author/juli-clover/)\n\nApple objected to a European trademark filing from a Chinese keyboard maker because the logo the company wanted to use was too close to Apple's own logo. The EU Intellectual Property Office (EUIPO) partially refused to grant a European Union Trade Mark after Apple opposed the filing.\nThe company, Yichun Qinningmeng Electronics Co., makes mechanical keyboards and keycaps, according to its...\n\n### [Apple Offers 10% Off AirPods and More for Earth Day Device Recycling](https://www.macrumors.com/2026/04/16/apple-offers-discount-for-earth-day/)\n\nApple is offering 10% off AirPods, Beats, or accessories to customers who recycle an eligible iPhone, iPad, Apple Watch, or Mac at a participating Apple Store through May 16.\nThe discount applies when the recycling and purchase are completed in the same transaction. The promotion runs from today, April 16, through to May 16. Products brought in for recycling undergo screenings, with eligible ...\n\n### [Apple Watch Hypertension Alerts and AirPods Hearing Aid Feature Expand to More Countries](https://www.macrumors.com/2026/05/12/apple-health-features-more-countries/)\n\nTuesday May 12, 2026 10:53 am PDT by [Juli Clover](https://www.macrumors.com/author/juli-clover/)\n\nApple today said Hearing Aid features are now available for the AirPods Pro 2 and AirPods Pro 3 in Italy, Romania, and Czechia, while Hypertension alerts have expanded to Israel.\nThe Hearing Aid option allows the AirPods Pro to be used as an over-the-counter alternative to a traditional set of hearing aids. The AirPods Pro can improve sound to mitigate mild to moderate hearing loss,...",
+        "url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "2026-05-12T18:52:12.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Mitchell Hashimoto - 12th May 2026 > The thing about 90% of TDMs [Technical Decision Makers] is that they're mo...",
+    "Seriously, Give Kagi a Try - Aaron Pressman, writing earlier this month in The Boston Globe, “[Why I Abandoned Google S...",
+    "Kagi Snaps - **Snaps** allows you to easily limit search results to a specific website by using the `@`...",
+    "Teresa Ribera Visited the U.S. and No One Noticed - ![Brussels does Delaware: Von der Leyen chases startups, but unions see danger](https://ww...",
+    "Building Software Requires Digestion - Here’s Scott Jenson in his insightful piece [“The Ma of a New Machine”](https://jenson.org..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "year",
+      "count": 4
+    },
+    {
+      "word": "bit",
+      "count": 4
+    },
+    {
+      "word": "post",
+      "count": 4
+    },
+    {
+      "word": "eu",
+      "count": 4
+    },
+    {
+      "word": "bambu",
+      "count": 3
+    },
+    {
+      "word": "lab",
+      "count": 3
+    },
+    {
+      "word": "internal",
+      "count": 3
+    },
+    {
+      "word": "random",
+      "count": 3
+    },
+    {
+      "word": "number",
+      "count": 3
+    },
+    {
+      "word": "wrote",
+      "count": 3
+    },
+    {
+      "word": "security",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "idle",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "users",
+      "count": 3
+    },
+    {
+      "word": "search",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "software",
+      "count": 3
+    },
+    {
+      "word": "social",
+      "count": 2
+    },
+    {
+      "word": "printer",
+      "count": 2
+    },
+    {
+      "word": "started",
+      "count": 2
+    },
+    {
+      "word": "initialize",
+      "count": 2
+    },
+    {
+      "word": "integer",
+      "count": 2
+    },
+    {
+      "word": "state",
+      "count": 2
+    },
+    {
+      "word": "generator",
+      "count": 2
+    },
+    {
+      "word": "hacking",
+      "count": 2
+    },
+    {
+      "word": "lehmer",
+      "count": 2
+    },
+    {
+      "word": "patch",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "finding",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "compliance",
+      "count": 2
+    },
+    {
+      "word": "third-party",
+      "count": 2
+    },
+    {
+      "word": "probability",
+      "count": 2
+    },
+    {
+      "word": "matrix",
+      "count": 2
+    },
+    {
+      "word": "field",
+      "count": 2
+    },
+    {
+      "word": "piece",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "month",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "wannacry",
+      "count": 2
+    },
+    {
+      "word": "globe",
+      "count": 2
+    },
+    {
+      "word": "became",
+      "count": 2
+    },
+    {
+      "word": "bug",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "kagi",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "snaps",
+      "count": 2
+    },
+    {
+      "word": "example",
+      "count": 2
+    },
+    {
+      "word": "jenson",
+      "count": 2
+    },
+    {
+      "word": "ma",
+      "count": 2
+    },
+    {
+      "word": "interface",
+      "count": 2
+    },
+    {
+      "word": "learning",
+      "count": 2
+    },
+    {
+      "word": "thinking",
+      "count": 2
+    },
+    {
+      "word": "machines",
+      "count": 2
+    },
+    {
+      "word": "interaction",
+      "count": 2
+    },
+    {
+      "word": "models",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "daniel",
+      "count": 2
+    },
+    {
+      "word": "curl",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "ios",
+      "count": 2
+    },
+    {
+      "word": "european",
+      "count": 2
+    }
+  ]
+}
