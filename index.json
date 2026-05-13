@@ -1,6 +1,17 @@
 {
   "daily_reports": [
     {
+      "date": "2026-05-13",
+      "file": "daily/2026-05-13.json",
+      "stats": {
+        "total_fetched": 276,
+        "after_filter": 150,
+        "final_count": 30,
+        "short_news": 19,
+        "long_articles": 11
+      }
+    },
+    {
       "date": "2026-05-12",
       "file": "daily/2026-05-12.json",
       "stats": {
@@ -1057,8 +1068,18 @@
       }
     }
   ],
-  "lastUpdated": "2026-05-12T22:53:03.453Z",
+  "lastUpdated": "2026-05-13T22:57:29.459Z",
   "reports": [
+    {
+      "date": "2026-05-13",
+      "stats": {
+        "total_fetched": 276,
+        "after_filter": 150,
+        "final_count": 30,
+        "short_news": 19,
+        "long_articles": 11
+      }
+    },
     {
       "date": "2026-05-12",
       "stats": {
