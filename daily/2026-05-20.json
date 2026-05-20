@@ -1,0 +1,652 @@
+{
+  "date": "2026-05-20",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "How fast is 10 tokens per second really?",
+        "summary": "<p><strong><a href=\"https://mikeveerman.github.io/tokenspeed/\">How fast is 10 tokens per second really?</a></strong></p> Neat little HTML app by Mike Veerman (<a href=\"https://github.com/MikeVeerman/tokenspeed/blob/maste...",
+        "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-20T17:57:45.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Square root of x² − 1",
+        "summary": "How should we define √(z² − 1)? Well, you could square z, subtract 1, and take the square root. What else would you do?! The question turns out to be more subtle than it looks. When x is a non-negative real number, √x is...",
+        "url": "https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 20 May 2026 00:49:50 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] Let's meet up AFK",
+        "summary": "Shhhh! This post is only available to RSS subscribers like you 😊 My wife and I are preparing for a big Interrail journey through Europe. Whenever we go on holiday, we like to meet up with friendly locals to have a drink...",
+        "url": "https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 20 May 2026 11:34:04 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance",
+        "summary": "I just finished reading Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance, by my friend Cindy Cohn. It's excellent and you should buy a copy. Cindy is the Executive Director of the Electronic Frontier...",
+        "url": "https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/",
+        "source": "micahflee",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Wed, 20 May 2026 22:36:13 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Kaypro II launched May 20, 1982",
+        "summary": "On May 20, 1982, Kaypro shipped its very successful Kaypro II computer, a portable computer that ran CP/M and its associated software. Its main innovation was bundling a selection of popular software with the computer an...",
+        "url": "https://dfarq.homeip.net/kaypro-ii-launched-may-20-1982/?utm_source=rss&utm_medium=rss&utm_campaign=kaypro-ii-launched-may-20-1982",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 20 May 2026 11:00:01 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.836Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-20T23:04:21.837Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "What will better AI mean?",
+        "summary": "I thought about posting [this paper](https://arxiv.org/pdf/2602.15763) but rebranding it as the Claude Mythos technical report. As far as I can tell, there’s no secret tricks the US frontier labs have",
+        "content": "I thought about posting [this paper](https://arxiv.org/pdf/2602.15763) but rebranding it as the Claude Mythos technical report. As far as I can tell, there’s no secret tricks the US frontier labs have, and that basically describes how Mythos was trained. What’s in that paper just works, and for verifiable domains, it’s only a matter of fixing bugs and scaling up. That’s why Anthropic is so desperate for regulatory capture, AI has no moat.\n\nAI (and any form of search) has this property where you spend exponentially more money to get linear returns. So for a bit we’ll live in an era where AI can in theory solve very hard problems, but it’s very expensive to do so.\n\nThe Internet has been fully mined, and it yielded 20T good tokens. For a Chinchilla optimal model, that’s only 1T weights (1e26 training run if dense). 500 GB gets you all of human knowledge in a simple to query archive. For comparison, Wikipedia is 24 GB with mediocre compression.\n\nTechnology proceeds in terms of S-curves, and AI has gone through a few of them already. I know I’m quite late to this, but I’m feeling optimistic that scaling will mostly stop yielding results. GPT 5.5 is to a point where it’s really hard for me to stump it with any problem. What does “superhuman intelligence” even mean at that point if humans can’t detect it if it’s superhuman?\n\nThere will be some domains where it’s still detectable. Any form of optimization where the humans can marvel at how low it got the number qualifies. And there will be creepy Medusa systems that directly optimize for engagement, be careful not to look at them directly. But what does it mean for a song to be superhuman? Contrary to the beliefs of the rationality cult, most things aren’t optimization problems. The whole hard problem is determining what to optimize for.\n\nThe era of scaling yields clearly better AI is over, now we enter an era of efficiency and taste. Let’s get the tools to hit the end of this S-curve distributed to as many people as possible. Taste is an arena where tons of people can play.",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html",
+        "source": "the singularity is nearer",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-05-20T07:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting SpaceX S-1",
+        "summary": "20th May 2026\n\n> We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access ",
+        "content": "20th May 2026\n\n> We have the ability to use compute resources to support our proprietary AI applications (such as Grok 5, which is currently being trained at COLOSSUS II), while also providing access to select compute capacity to third-party customers. For example, in May 2026, we entered into **Cloud Services Agreements with Anthropic PBC** (“Anthropic”), an AI research and development public benefit corporation, with respect to access to **compute capacity across COLOSSUS and COLOSSUS II**. Pursuant to these agreements, the customer **has agreed to pay us $1.25 billion per month** through May 2029, with capacity ramping in May and June 2026 at a reduced fee. The agreements may be terminated by either party upon 90 days’ notice.\n\n— [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm), highlights mine",
+        "url": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-20T22:26:36.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Google I/O, Gemini Spark, Antigravity",
+        "summary": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".\n\nI a",
+        "content": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".\n\nI actually prefer to write about things that are in general availability, because I've had instances in the past where the previews didn't match what was released to the general public later on.\n\nAside from [Gemini 3.5 Flash](https://simonwillison.net/2026/May/19/gemini-35-flash/) the most interesting announcement looks to be Google's upcoming OpenClaw competitor [Gemini Spark](https://gemini.google/overview/agent/spark/), described as \"your personal AI agent\" which can \"connect natively with your favorite Google apps like Gmail, Calendar, Drive, Docs, Sheets, Slides, YouTube, and Google Maps\". The FAQ for that also includes this confusing detail:\n\n> **What Gemini model does Gemini Spark run on?**\n\n> Gemini Spark runs on Gemini 3.5 Flash and Antigravity.\n\nThe [antigravity.google](https://antigravity.google/) website currently lists Antigravity as a desktop app, a CLI agent tool (written in Go), the [Antigravity SDK](https://github.com/google-antigravity/antigravity-sdk-python) (an open source Python wrapper around a bundled closed source Go binary), and the original Antigravity IDE (a VS Code fork).\n\nI guess Gemini Spark, the user-facing hosted agent product, might be running on that Go binary, but I'm not sure why that's worth mentioning in the FAQ!\n\nNaturally I went looking for notes on how Gemini Spark intends to handle the risk of prompt injection. The best information I could find on that was in the [Everything Google Cloud customers need to know coming out of Google I/O](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud) post aimed at enterprise customers, which includes:\n\n> Spark operates in a fully managed, secure runtime on Google Cloud, meaning you get enterprise-grade security without ever having to manage the underlying infrastructure. Every task executes in a fresh, strictly isolated, ephemeral VM to help ensure data never overlaps between sessions. To protect your enterprise, all traffic routes through our secure Agent Gateway that enforces Data Loss Prevention (DLP) policies, while user credentials remain fully encrypted and are never exposed directly to the agent.\n\nGiven how many people are going to be piping *very* sensitive data through Gemini Spark in the near future I hope they've made this bullet-proof, or this could be a top candidate for the agent security [challenger disaster](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#1-year-a-challenger-disaster-for-coding-agent-security) that we still haven't seen.\n\nAlso of note: in [Transitioning Gemini CLI to Antigravity CLI](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/) Google announce that the [open source Gemini CLI](https://github.com/google-gemini/gemini-cli) tool (Apache 2.0 licensed TypeScript) will stop working with their AI subscription plans on June 18th, replaced by the new closed source [Antigravity CLI](https://github.com/google-antigravity/antigravity-cli).",
+        "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Cloud"
+        ],
+        "published_at": "2026-05-20T15:32:17.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "\"No way to prevent this\" say users of only language where this regularly happens",
+        "summary": "Protected by [Anubis](https://github.com/TecharoHQ/anubis) From [Techaro](https://techaro.lol/). Made with ❤️ in 🇨🇦.\n\nMascot design by [CELPHASE](https://bsky.app/profile/celphase.bsky.social).\n\nThi",
+        "content": "Protected by [Anubis](https://github.com/TecharoHQ/anubis) From [Techaro](https://techaro.lol/). Made with ❤️ in 🇨🇦.\n\nMascot design by [CELPHASE](https://bsky.app/profile/celphase.bsky.social).\n\nThis website is running Anubis version `v1.25.0-51-gb57508a`.",
+        "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Wed, 20 May 2026 00:00:00 GMT",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Prompts are technical debt too",
+        "summary": "It’s [common](https://www.tokyodev.com/articles/all-code-is-technical-debt) and correct to say that “all code is technical debt”. Adding code is a necessary evil for developing new features: you almos",
+        "content": "It’s [common](https://www.tokyodev.com/articles/all-code-is-technical-debt) and correct to say that “all code is technical debt”. Adding code is a necessary evil for developing new features: you almost always have to do it, but each line of code adds to the complexity and maintenance burden of the system. All future changes to the system have to work with the existing code, or at least avoid breaking it. Once systems accumulate enough code, they become impossible for a single person to understand: instead of reading the code and understanding what it does, you must rely on guesses, theories and heuristics[1](#fn-1). Sensible engineers write as little code as possible.\n\nThey write a lot of prompts, though! Many large projects now have a set of codebase-specific prompt files: AGENTS.md, CLAUDE.md, those same files in sub-directories, and [skills](https://github.com/anthropics/skills). If you’re building a program that uses AI[2](#fn-2), you’ll have separate prompts for [capabilities](https://github.com/anomalyco/opencode/tree/dev/packages/opencode/src/agent/prompt) and for each [tool](https://github.com/anomalyco/opencode/blob/dev/packages/opencode/src/tool/lsp.txt), as well as a whole set of [system prompts](https://github.com/anomalyco/opencode/tree/dev/packages/opencode/src/session/prompt).\n\nPrompts are important. Minor tweaks to a LLM’s prompt can unlock *significant* performance improvements. If the same model feels different across Codex, Cursor, OpenCode, and Copilot, it’s almost certainly due to subtle differences in prompting. AI companies spend a lot of time testing and tweaking their prompts, so it makes sense why engineers would spend a lot of time tweaking their AGENTS.md files[3](#fn-3) for their projects. I’d even call switching tools or workflows to be a form of prompting. If I start wrapping my agents in a [Ralph loop](https://github.com/anomalyco/opencode/tree/dev/packages/opencode/src/session/prompt), pull in a new skill file, or install an [MCP](https://www.seangoedecke.com/model-context-protocol/) server, that’s still a change to my prompts even though I’m not the one who wrote it.\n\n**I think it is a bad idea to spend a ton of time tweaking a bespoke agentic coding setup.** Why is that, given that prompt adjustments can deliver a lot of value? Because prompt adjustments are *model-specific*. Earlier I said that AI companies spend a lot of time tweaking their prompts. In fact, they spend that amount of time for each new model release. A prompt that worked great for GPT-5.4 won’t necessarily work as well for GPT-5.5. You have to “learn how to hold the model” each time. \n\nIn other words, a set of prompts that you carefully crafted in January this year might be out of date or actively harmful by February. Worse still, you might not even notice. Model capabilities are already so hard to pin down (unless you’re running every problem through different models and tools), and even weak AI systems are surprisingly good at some problems. You might just think “huh, the new Anthropic model isn’t as impressive as the hype”, or “wow, Claude Code has gotten worse recently”.\n\nIn this sense, **prompts are a worse form of technical debt than code**. When technical debt blows up, it usually causes errors or a tangible slowdown as you try to understand the code. Prompts will decay silently. Also, even janky code tends to be relatively stable when untouched, but every single model upgrade could turn a functional prompt into a non-functional one.\n\nCould you simply decide not to upgrade models? Some people are trying this, but the pace of improvement is fast enough that that isn’t really practical. A delicately-prompted agentic harness built around GPT-4.1 is always going to underperform a bare-bones harness built around Opus 4.7. This might be a sensible strategy at some point in the future, when the rate of model improvement slows down (or when models are so capable that you don’t need the extra intelligence for normal engineering tasks), but I don’t believe it’s a good strategy today.\n\nIn my view, most people should just be picking an AI coding tool maintained by a third-party company (Claude Code, Codex, Cursor, Copilot, etc) and leaving it as unconfigured as possible, so they can piggyback on the work of teams of engineers who are evaluating and tweaking prompts with each new model. Avoid MCP and skills unless absolutely necessary, and keep them off by default. At least this way if one of those teams gets it badly wrong, users will notice eventually and complain about it.\n\nWhen you write AGENTS.md files, try to avoid behavior steering (like the now-outdated “think step by step”, “you are a skilled engineer”, or “if you get a task right I will tip you $200”). Keep them limited to specific, concrete facts about the project. Don’t let models fill your AGENTS.md with pages of barely-reviewed text, for the same reason that you wouldn’t let them fill your codebase with pages of barely-reviewed code. Write your prompts yourself, and delete them whenever you get the chance.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fprompts-are-technical-debt-too%2F&t=Prompts+are+technical+debt+too).\n\nHere's a preview of a related post that shares tags with this one.\n\n> How I use LLMs as a staff engineer in 2026\n\nA bit over a year ago I wrote [*How I use LLMs as a staff engineer*](https://www.seangoedecke.com/how-i-use-llms/). Here’s a brief summary of what I used AI for last year:\n\nHere are some tasks I explicitly *didn’t* use AI for last year:\n\nFebruary 2025 was a long time ago. Back then the best model was the first reasoning model, OpenAI’s o1. Agents *sort of* worked, but would often get stuck or thrown off by compaction. What’s changed since then?\n[Continue reading...](https://seangoedecke.com/how-i-use-llms-in-2026/)",
+        "url": "https://seangoedecke.com/prompts-are-technical-debt-too/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Algorithms",
+          "Security"
+        ],
+        "published_at": "Wed, 20 May 2026 00:00:00 GMT",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Assumptions weaken properties",
+        "summary": "In [some tests are stronger than others](https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/), I defined `STRONG => WEAK` to mean \"any system passing test STRONG is also gu",
+        "content": "In [some tests are stronger than others](https://buttondown.com/hillelwayne/archive/some-tests-are-stronger-than-others/), I defined `STRONG => WEAK` to mean \"any system passing test STRONG is also guaranteed to pass WEAK\". This uses the logical implication operator, defined as `P => Q = !P || (P && Q)`.\n\nImplication may be the most overworked operator in logic. Among other things, it's also used in formal specification, where `Spec => Prop` means \"any system satisfying `Spec` has property `Prop`\" and `ASSUME => Spec` means \"The assumption `ASSUME` must hold in order for the system to satisfy `Spec`.\"\n\nNow let's mush these all together and do some math. To start, \"the system has property `Prop`\" is the same as \"the system passes the test that checks `Prop`\", so test strength is also property strength. Now let \"`ASSUME => Prop`\" mean \"the system passes `Prop` assuming `ASSUME` is true.\" In classic logic, if `P` is true, then obviously `!Q || P` is true. Further, that is equivalent (just draw the truth table!) to `!Q || (P && Q)`. So for *any* propositions `P` and `Q`, `P => (Q => P)`.\n\nIn other words, `Prop => (ASSUME => Prop)`. In other other words, \"the system passes `Prop`\" is a stronger property than \"the system passes `Prop` whenever our assumptions hold.\"\n\nIn other other other words, any assumption added makes a property weaker.\n\nThis makes intuitive sense to me. A JSON parser that's only been verified with ASCII strings has the property \"input only uses ASCII && is valid json => correctly parsed\". A better JSON parser that works for all Unicode will have the property \"is valid json => correctly parsed\", which has fewer assumptions, meaning it's guaranteed to work in a strict superset of cases. \n\nIt also matches the intuition that \"more assumptions means more likely to go wrong\". We have a bug whenever `Prop` is false. The only way for `Spec => Prop` to be true and `Prop` be false is if `Spec` is false, eg our system doesn't satisfy the specification we intended to implement. On the other hand, `Spec => (ASSUME => Prop) && !Prop` is true whenever `Spec` *and/or* `ASSUME` is false, meaning a correctly-implemented system could still show a bug if a runtime assumption is false. \n\n...Looking back the last two paragraphs have a lot of conceptual leaps. Does that all make sense to you? It all feels natural to me but that might just be my familiarity with the topic talking. \n\nRegardless, a couple more notes on assumptions:\n\n## Why we have assumptions\n\nWhy not just build our systems to satisfy `ASSUME => Prop` when we can \"just\" build it to satisfy `Prop`? At least three reasons.\n\n**First**, sometimes `Prop` is simply impossible to satisfy and we need to add assumptions to make this property. We do this a lot in formal methods with [fairness](https://www.hillelwayne.com/post/fairness/). The property \"`mergesort` always returns a sorted list\" is unsatisfiable because we can dropkick the computer before it returns. Instead, we have to verify a weaker property like \"`mergesort` always returns => it returns a sorted list\" or \"`mergesort` always makes progress => it will eventually return a sorted list.\"\n\nAnother example is Rust. Rust *does not* guarantee the property \"the program is memory safe\". It guarantees the weaker property \"all `unsafe` blocks are memory safe => the program is memory safe\". Making the language satisfy the stronger property would rule out too many use cases of Rust. Note you also get memory safety if you don't use `unsafe`, but that still satisfies the assumption, as all *zero* blocks are safe!\n\n**Second**, sometimes the strong property is satisfiable, but it's simply not worth the extra cost. Like it's possible to make our software resistant against cosmic rays, but if your code isn't running in space, why bother? Just say \"No cosmic bit flips => things work\". Or if your plugin works Neovim `0.12` but not 0.11, you could put in the effort to make it run on older versions, or you could tell everybody that they need to upgrade to use your plugin. \"Neovim version is at least 0.12 => the plugin works\".\n\n**Third**, sometimes the strong property is satisfiable in the system but not easily *verifiable*. Say your algorithm makes a lot of API calls and you don't want to hit rate limits while testing. If you [mock out the API](https://en.wikipedia.org/wiki/Mock_object) you're testing the weaker property \"The mock is accurate to the API => the algorithm is correct\".\n\n## Assumptions are a second level of system effect\n\nI notice that almost all of the examples in the last two sections are exoprogram factors:\n\n- The JSON parser assumptions are about user input\n\n- Fairness assumptions are about the OS/hardware/operating environment\n\n- Unsafe assumptions are about things the Rust compiler can't verify\n\n- Cosmic ray assumptions depend on the physical location of the hardware\n\n- The plugin assumptions are about the Neovim team's release schedule and social compatibility contract\n\nThe edge case is replacing a third party call with a mock. The assumption is intraprogram because the program could just hit the API during testing. We still have the assumption because of an exoprogram constraint. Maybe this is why mocks are considered an antipattern in Agile.\n\nOne consequence of this is that checking whether assumptions hold is a different problem from verifying that your code works given the assumptions. Like to make sure \"all unsafe blocks are safe\" can't use the rust compiler, you need a second tool like [Miri](https://github.com/rust-lang/miri). I wonder if checking assumptions is, in practice, generally more difficult than checking everything else.",
+        "url": "https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/",
+        "source": "Computer Things",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Algorithms"
+        ],
+        "published_at": "Wed, 20 May 2026 15:13:16 +0000",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "What will better AI mean? - I thought about posting [this paper](https://arxiv.org/pdf/2602.15763) but rebranding it a...",
+    "Quoting SpaceX S-1 - 20th May 2026 > We have the ability to use compute resources to support our proprietary AI...",
+    "Google I/O, Gemini Spark, Antigravity - It's hard to find much to write about Google I/O this year because I have a policy of not...",
+    "\"No way to prevent this\" say users of only language where this regularly happens - Protected by [Anubis](https://github.com/TecharoHQ/anubis) From [Techaro](https://techaro....",
+    "Prompts are technical debt too - It’s [common](https://www.tokyodev.com/articles/all-code-is-technical-debt) and correct to..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 8
+    },
+    {
+      "word": "strong",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 3
+    },
+    {
+      "word": "square",
+      "count": 3
+    },
+    {
+      "word": "cindy",
+      "count": 3
+    },
+    {
+      "word": "kaypro",
+      "count": 3
+    },
+    {
+      "word": "ii",
+      "count": 3
+    },
+    {
+      "word": "computer",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "technical",
+      "count": 3
+    },
+    {
+      "word": "fast",
+      "count": 2
+    },
+    {
+      "word": "tokens",
+      "count": 2
+    },
+    {
+      "word": "per",
+      "count": 2
+    },
+    {
+      "word": "really",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "mikeveerman",
+      "count": 2
+    },
+    {
+      "word": "tokenspeed",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "root",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "rss",
+      "count": 2
+    },
+    {
+      "word": "meet",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "big",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "privacy's",
+      "count": 2
+    },
+    {
+      "word": "defender",
+      "count": 2
+    },
+    {
+      "word": "thirty-year",
+      "count": 2
+    },
+    {
+      "word": "fight",
+      "count": 2
+    },
+    {
+      "word": "against",
+      "count": 2
+    },
+    {
+      "word": "digital",
+      "count": 2
+    },
+    {
+      "word": "surveillance",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "frontier",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "write",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "mean",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "anubis",
+      "count": 2
+    },
+    {
+      "word": "techaro",
+      "count": 2
+    },
+    {
+      "word": "celphase",
+      "count": 2
+    },
+    {
+      "word": "bsky",
+      "count": 2
+    },
+    {
+      "word": "debt",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    }
+  ]
+}
