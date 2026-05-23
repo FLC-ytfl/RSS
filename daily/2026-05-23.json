@@ -1,0 +1,588 @@
+{
+  "date": "2026-05-23",
+  "stats": {
+    "total_fetched": 272,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Hilbert transform as an infinite matrix",
+        "summary": "The previous post linked to a post I wrote a few years ago about the Hilbert transform and Fourier series. That post says that if the Fourier series of a function is then the Fourier series of its Hilbert transform is Wh...",
+        "url": "https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Sat, 23 May 2026 15:09:34 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Building complex functions out of real parts",
+        "summary": "A couple months ago I wrote about how to compute the sine and cosine of a complex number using only real functions of real variables using the equations You can do something analogous for all the elementary functions, th...",
+        "url": "https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sat, 23 May 2026 03:24:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Which age-gates should be skill-gates and vice-versa?",
+        "summary": "In the UK, it is illegal to buy alcohol if you are under 18. Similarly, in most countries, you cannot vote until you have reached a specific age. These are age-gates. You do not need to prove your competence to drink, vo...",
+        "url": "https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Sat, 23 May 2026 11:34:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Real and imaginary parts",
+        "summary": "The previous post announced some notes I wrote up based on an article by Henry Baker implementing functions of a complex variable in terms of functions of a real variable. That is, it finds functions u(x, y) and v(x, y)...",
+        "url": "https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sat, 23 May 2026 13:57:21 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Some notes on how we ended up with Palantir & how to replace it",
+        "summary": "There is justified anger about governments relying on Palantir software. There are also calls to write replacement software, perhaps imbued with European values, and with less fascism. And I’d love for that to happen pro...",
+        "url": "https://berthub.eu/articles/posts/some-notes-on-palantir/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "Database",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Sat, 23 May 2026 10:30:00 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 05/23/26",
+        "summary": "Squatter removal services, Apple finding uses for defective chips, process heat use in California, the brewing Colorado River crisis, and more.",
+        "url": "https://www.construction-physics.com/p/reading-list-052326",
+        "source": "Construction Physics",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Sat, 23 May 2026 12:02:39 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-05-23T22:42:23.318Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "On the <dl>",
+        "summary": "23rd May 2026 - Link Blog\n\n**[On the <dl>](https://benmyers.dev/blog/on-the-dl/)** ([via](https://news.ycombinator.com/item?id=48247325)) I learned a few new-to-me things about the `<dl>` element from",
+        "content": "23rd May 2026 - Link Blog\n\n**[On the <dl>](https://benmyers.dev/blog/on-the-dl/)** ([via](https://news.ycombinator.com/item?id=48247325)) I learned a few new-to-me things about the `<dl>` element from this article by Ben Meyer:\n\n- A `<dt>` can be followed by *multiple* `<dd>`\n\n- You can optionally group the `<dt>` and `<dd>` elements in a `<div>` for styling - but only a `<div>`.\n\n- You can label them using ARIA.\n\n- They've been called \"description lists\", not \"definition lists\", since [an HTML5 draft in 2008](https://www.w3.org/TR/2008/WD-html5-20080122/#the-dl).\n\nSo this is valid:\n\n<h2 id=\"credits\">Credits</h2>\n<dl aria-labelledby=\"credits\">\n  <div>\n    <dt>Author</dt>\n    <dd>Jeffrey Zeldman</dd>\n    <dd>Ethan Marcotte</dd>\n  </div>\n</dl>\n\nHere's a useful note from Adrian Roselli on [screen reader support for description lists](https://adrianroselli.com/2025/01/updated-brief-note-on-description-list-support.html).",
+        "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-23T20:24:48.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "There is only one bad AI scenario",
+        "summary": "I’ve pushed AI doomers on how exactly the AI kills us, and I’ve never heard a good answer. I think Skynet style scenarios where humanity is largely opposed to an out of control AI are science fiction ",
+        "content": "I’ve pushed AI doomers on how exactly the AI kills us, and I’ve never heard a good answer. I think Skynet style scenarios where humanity is largely opposed to an out of control AI are science fiction domination fantasies, along with [Gray goo](https://en.wikipedia.org/wiki/Gray_goo) bottom-up scenarios. Both of these assume a major continuity break with current reality, [too bizarre to be true](https://en.wikipedia.org/wiki/If_Anyone_Builds_It%2C_Everyone_Dies). But unfortunately, you don’t need this for humanity to end as an open-ended evolutionary process. I think the danger is that AI continues to optimize the current societal loss function of domestication.\n\nHumans have endured terrible systems, but fundamentally, humans are evolutionary creatures. Any system of totalitarian control must be able to reproduce generationally. It cannot merely dominate adults; it has to produce children who can live inside it, maintain it, and continue it. And because of how humans reproduce, there’s always evolutionary randomness. Entropy locally asserts itself, and reality cannot be perfectly controlled.\n\nI’m not sure it’s possible, but if there is a bad scenario with AI, it’s a singleton with nothing that can substantially impact reality outside of it. And this won’t happen through Hitlerian language, it will happen through *administrative* language. For your *safety*, reality must be mediated.\n\nThink about it. If we have the technical power, should we let murder happen? What about sexual assault? Sickness? Bullying? Racist speech?\n\nWe have seen over and over in the last decade where humanity’s impulses lie on these things. *Safetyism* seems to be very hard to argue against. The current safetyism attempts are pretty quaint, but I don’t think that changes the impulse. Compare the paper COVID vaccine cards in the US to the ones that use real cryptography (that didn’t exist 50 years ago) in Europe. I’m not saying anything new here, but the trend of technology is more and more mediation of reality. For your safety. For your convenience. To make you legible. To place you in the managerial framework.\n\nThis impulse alone is not enough for a bad outcome though, even if everyone had it. The size of each system may increase, but the question is how many independent systems remain. A very simple proxy for this is how many groups can meaningfully still do violence. And not just human groups, bacteria and stuff count too.\n\nThere may be other things that are locally bad, but the only [world-ending scenario is a singleton](https://localroger.com/prime-intellect/mopiidx.html). Not one big model on one server, but one effective control layer with no outside. No independent actor can impose costs on it. No rival system can route around it. No uncontrolled evolutionary process can surprise it.\n\nAll violence prevented in the name of safety. That system is no longer answerable to reality. It is no longer subject to evolution. It cannot be corrected from the outside. That is the end.\n\nI’m not sure if this is possible or not, but if you want a plausible AI doom scenario, it’s this. Not a great war with the machines, but the slow and managed end of evolution, likely in pursuit of further human domestication.",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html",
+        "source": "the singularity is nearer",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-05-23T07:00:00.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The commencement speech that shook the world ",
+        "summary": "There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The man who once said, google doesn't need to record your conversation, it already knows everything about you. ",
+        "content": "There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The man who once said, google doesn't need to record your conversation, it already knows everything about you. Yet he didn't see this one coming. In his speech, he looked clear-eyed into the crowd of graduates and told them that AI is inevitable.\n\n        There was a group of people who will have a hard time joining the workforce. Companies keep using AI as the excuse for laying off workers. Dario keeps telling us by next year, AI will take over all jobs and there is nothing we can do. They will have nothing, and they better embrace it and be happy. Well, they will have a school loan, but that’s it.\n\nIf you were an external observer, maybe an alien watching humanity from a distance, you would think that AI is a new species that emerged from a lake and is taking over the world. You would never tell that the people spreading this fear are also the ones selling the tool that they swear will turn us all into gods. It's not just a capable tool that can be useful for coding, writing, and retrieving existing information. \n\nNo. It's the word itself. The all or nothing. The alpha and the omega. And it comes as a monthly subscription from a handful of companies.\n\nWhat Mr Schmidt was saying to these graduates is that we are done innovating. Now we regurgitate. And then he was booed. He tried to keep talking but the boos were overwhelming. Somewhere between his words, he managed to say that being anti AI is akin to being anti immigrant, trying to score points. I don’t think it worked. \n\n![how eric felt](https://cdn.idiallo.com/images/assets/660/reaction.jpg)\n\nWhen I read the news, I first read through the transcript of his speech. It seemed as if he was able to go through his material. But I was wrong. Watching his performance on video was a whole other story. \n\nThere was a man, who had practiced his speech in front of a mirror, most likely with Gemini listening and providing feedback. It probably told him that his speech was brilliant. That it was grounded, and encouraging. \"The kids will love it.\"\n\nWhat he failed to see is that booing was not in the training data. No way Gemini was going to tell him that, because it is programmed to be agreeable and friendly. So yes, he was booed every time he mentioned AI. \n\nBut I think there is a lesson in innovation right there. AI learns from existing material. It can hardly deviate from what it already knows. When you ask it to come up with something new, it will show you something that seems new, because obviously you don't know all the material it was trained on. If it doesn't have the information, it can't tell you that it doesn't know. It will make it up instead.\n\nBut what these graduates did was exactly what differentiates people from the robots. They did something completely unexpected. They booed Eric Schmidt. They innovated. Something tells me that kids will be just fine. I may never be able to convince my mom to stop sharing [AI videos](https://idiallo.com/blog/all-ai-videos-are-harmful), but my kids will learn to navigate it. They will continue to innovate. Maybe AI will be like a calculator for them. They will know how and when to use it for maximum benefit and prevent the psychosis altogether. It's never gonna be a replacement for thinking.\n\nI was really happy to see the booing because it was the last thing they expected. Just a few days ago, the president of Glendale Community College was booed as well because she chose to have an AI read the graduates names and it butchered the process. AI is not inevitable. It's a nice addition. That’s it.\n\nWe don't just have to accept things as they come to us. The most valuable human quality in an age of automation is exactly what AI cannot provide: the ability to defy expectations, introduce chaos, and create truly original outcomes. That is precisely the power of human innovation.\n\nFor fun, I copied the commencement speech from a video and passed it through gemini, it complained about the grammar, but as I said earlier, it couldn't predict the outcome:\n\n> The emotional arc is clear: acknowledge fear → restore agency → define values → point toward possibility. It reads like something that wants to meet graduates where they actually are, rather than giving them generic optimism.\n\nThen I asked it if it would result in booing:\n\n> What makes the speech work is that it does not say:\n\n> \n> \n> - “everything will be fine,”\n\n> - “stop worrying,”\n\n> - or “technology is inherently good.”\n\n> \n\n> \n> Instead, it says:\n\n> \n> \n> - the future is undecided,\n\n> - humans remain morally responsible,\n\n> - and participation matters.\n\n> \n\n> \n> That framing is resilient.\n\nNot so resilient after all. Anyway, congrats to the 2026 graduates!",
+        "url": "https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed",
+        "source": "iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Sat, 23 May 2026 01:14:24 GMT",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Don't Roll Your Own ...",
+        "summary": "By **Susam Pal** on 23 May 2026\n\n  This is going to be a rant about modern web design practices.  But\n  before I get to that, let me begin with a familiar principle from\n  the world of cryptography.  ",
+        "content": "By **Susam Pal** on 23 May 2026\n\n  This is going to be a rant about modern web design practices.  But\n  before I get to that, let me begin with a familiar principle from\n  the world of cryptography.  Among software developers, and\n  especially among those who work on security-sensitive systems, there\n  is a well-known maxim: *Don't roll your own crypto.*  This\n  does not mean that nobody is allowed to write cryptographic code.\n  Someone has to.  It means that, for ordinary production software\n  that protects sensitive data of users, we should not rely on a\n  private, unreviewed implementation that has not been vetted by the\n  wider software development community.  We should use established,\n  vetted software packages or tools wherever possible.\n\n  Fortunately, it is now standard industry practice to avoid rolling\n  your own crypto and instead use cryptographic algorithms and\n  packages that have been peer reviewed and stood the test of time.\n  It wasn't so some twenty years ago.  I have seen several flawed\n  home-grown RC4 implementations early in my career, with issues like\n  improper initialisation vectors, predictable keystreams and partial\n  leakage of plaintext into ciphertext, putting sensitive data of\n  users at risk.  But today, major e-commerce websites or banks\n  typically do not use home-grown cryptography for its web services.\n  In fact, in regulated domains such as payments, healthcare and\n  personal data processing, doing so could violate requirements for\n  strong cryptography, possibly leading to hefty financial penalties.\n\n  Website design is obviously not cryptography.  A broken scroll bar\n  is not the same kind of failure as a broken encryption scheme.  But\n  I wish there were a similar maxim for website design as well.  There\n  are many aspects of websites where, I think, developers should not\n  be rolling their own X, especially when X is something browsers\n  already do well and something users depend on every day.  Here I\n  present a list of such X.\n\n  - \n    Don't roll your own page scrolling.\n  \n\n  - \n    Don't roll your own link navigation.\n  \n\n  - \n    Don't roll your own text selection.\n  \n\n  - \n    Don't roll your own context menu.\n  \n\n  - \n    Don't roll your own copy and paste.\n  \n\n  - \n    Don't roll your own password field.\n  \n\n  - \n    Don't roll your own date picker.\n  \n\n  Of course, there are valid scenarios where you may need to roll your\n  own X.  But here I want to focus on the cases where you should not\n  roll your own X, and how doing so can lead to a worse user\n  experience, at least in my experience.  I am not saying that nobody\n  should ever build anything themselves.  As someone who does a lot of\n  creative computing myself and develops fun tools from time to time,\n  I am a big proponent of developing your own stuff.  But when it\n  comes to developing user interface features for serious websites\n  that people need to use to get their work done, I wish the software\n  development community were more conservative in deciding what fancy\n  feature goes into a website and what is left out.  Do keep in mind\n  that I am no expert in user experience.  Far from it.  So none of\n  what I am saying here should be taken as a recommendation.  But I am\n  a *user* of the Web, and as a user, I have found some modern\n  web design patterns to be frustrating.  This post is a lament from\n  one user of the Web, not a design guide.\n\n  Of all the things I mentioned above, the one that bothers me the\n  most is custom scroll behaviour on websites.  I am used to how page\n  scrolling responds to my mouse, touchpad or keyboard input.  When\n  you override the default scrolling behaviour of the web browser with\n  your own implementation, it 'breaks' the page for me.  The page now\n  moves too slowly or too quickly when I scroll.  Keyboard scrolling\n  may or may not work.  You take something I am so familiar with that\n  I don't even think about it, and turn it into something unfamiliar\n  that I now have to think about.\n\n  Custom link navigation is another pet peeve of mine.  Web browsers\n  can already handle links very well.  You could say that this is the\n  whole reason web browsers even exist.  Following links is their\n  bread and butter.  You shouldn't have to mess with that behaviour at\n  all.  If you think you need to, reconsider what you are trying to\n  achieve and whether it is really so important as to disrupt normal\n  link navigation.  The worst offender I have found here is GitHub.\n  When you click on a link on GitHub, say, a file link or an issue\n  link, it triggers a massive piece of functionality implemented in\n  JavaScript that handles the link click for you.  If you don't\n  believe me, visit your favourite project on GitHub using Firefox or\n  Chrome, type F12 to open the browser's developer tools,\n  then go to the 'Debugger' or 'Sources' tab, find 'Event Listener\n  Breakpoints' on the right sidebar, expand 'Mouse' and select\n  'click'.  Then click on a link on GitHub and see what happens.\n\n  ![Screenshot of a GitHub repository page with the browser's developer tools open, paused in the JavaScript debugger on a click event listener.](https://susam.net/files/blog/ghdbg.png)\n\n  I'm sure I am not the only one who has noticed that, on GitHub, a\n  clicked link sometimes takes too long to load.  Ironically, it is\n  often faster to open the link in a new tab than to wait for GitHub's\n  JavaScript code to handle the navigation in the current tab.\n\n  A custom password input field is another such hazard.  Fortunately,\n  custom password input fields have become rarer over the years.  The\n  password input field that comes with the web browser is generally\n  well equipped to handle passwords.  It can offer to save passwords,\n  fill them in later and generate strong passwords for new accounts.\n  It can also warn when a password is submitted over an insecure HTTP\n  connection, work well with password managers and autofill, and\n  cooperate with mobile keyboards and accessibility tools.  If you\n  replace the browser's password field with your own fake version, you\n  may break all of that.  You may also end up using an ordinary text\n  field and masking it yourself, in which case the password may be\n  treated by the browser, the operating system or assistive tools as\n  ordinary visible text rather than as a password, thereby exposing\n  the password in ways you did not intend.\n\n  Custom date pickers are another common annoyance.  I know that\n  `<input type=\"date\">` does not help you select a\n  date range.  But that is okay.  You can provide two date input\n  fields, one for the start date and one for the end date.  I am\n  willing to pay the small price of using two different inputs to\n  select a date range if that means I can use my favourite web browser\n  to navigate the calendar and select dates the same way everywhere.\n  What I am less inclined to do is to learn ten different ways of\n  using the date selector in ten different implementations across ten\n  different websites.  Right now the implementations of date selector\n  are all over the place.  Some require you to zoom out of the month\n  view to enter a year view, where you can select years. While you are\n  there, you cannot change the month again until you return to the\n  month view.  Some require you to click the previous-year button\n  literally forty times to select your year of birth if you are old\n  enough.  Some do not let you type the date at all.  No.  I do not\n  want to learn your calendar widget.  I just want to use the date\n  picker in my favourite browser, which is quite sane.  Saner than\n  your custom implementation.  If you need to have a calendar widget\n  to support browsers with inadequate native date-picker support,\n  perhaps that support can be added alongside the native date picker\n  rather than as a replacement for it.  For example, the\n  ordinary `<input type=\"date\">` element could be\n  left intact, with a custom widget provided *in addition* to\n  it so that users can manipulate the same field.\n\n  In general, just stop messing with the form controls.  They almost\n  always introduce new problems while solving some existing ones.  And\n  while you are at it, don't keep changing your website layout and\n  interface every few months!  I may adapt to the new design, but my\n  ageing relatives cannot.  For them, every time you change the user\n  interface, it amounts to learning a whole new tool.  If every\n  website keeps doing this every few months, they have to spend a\n  significant amount of time relearning familiar things for no\n  functional benefit.  Please just let them enjoy their retirement.\n  Imagine how you would feel if a Linux distribution decided to\n  redesign all its core commands and their command-line options every\n  few months.  Or imagine how you would feel if the buttons of your\n  washing machine were rearranged every morning.  It wouldn't be\n  pleasant!",
+        "url": "https://susam.net/do-not-roll-your-own.html",
+        "source": "Susam Pal",
+        "tags": [
+          "Product",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-23T00:00:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+        "summary": "Spacelab was a reusable laboratory that could be carried in the cargo bay of the Space Shuttle, providing lab space for astronauts\nand experiments.\nSpacelab was controlled by a French-built minicomput",
+        "content": "Spacelab was a reusable laboratory that could be carried in the cargo bay of the Space Shuttle, providing lab space for astronauts\nand experiments.\nSpacelab was controlled by a French-built minicomputer, called the *Mitra 125 MS*.\nUnlike modern computers, this computer didn't contain a microprocessor chip.\nInstead, its 16-bit processor was constructed from several boards of chips.\nIn this article, I reverse-engineer one of the processor boards, shown below, part of the computer's Arithmetic/Logic Unit (ALU).\n\n[![](https://static.righto.com/images/cimsa/cimsa-diagram2-w500.jpg)](https://static.righto.com/images/cimsa/cimsa-diagram2.jpg)\n\nThe Mitra 125 MS computer, built by CIMSA, with one of the ALU/register cards shown.\n\nSpacelab consisted of a pressurized cylindrical laboratory that held\nexperiments, computers, and work areas for researchers.\nA tunnel connected the laboratory to the Shuttle, allowing researchers to move between the Shuttle and Spacelab.\nSpacelab also supported up to five \nunpressurized \"pallets\" that were exposed to space, holding experiments such as telescopes and sensors.\nThe illustration below shows the tunnel, the Spacelab laboratory, and a pallet installed in the Shuttle's cargo bay.[1](#fn:spacelab)\n\n[![](https://static.righto.com/images/cimsa/spacelab-3-w500.jpg)](https://static.righto.com/images/cimsa/spacelab-3.jpg)\n\nBecause Spacelab was a European project, it used a European computer, the Mitra 125 MS.\nThe Mitra line started in 1971 when a French company called CII introduced the Mitra 15 minicomputer,\na 16-bit computer that used magnetic core memory.\nMitra is a French acronym[2](#fn:acronyms) that translates as \"Mini-machine for Real-Time and Automatic Computing.\"\nAs the name suggests, Mitra was both small and designed for real-time computing, making it suitable for controlling experiments.\nThe Mitra 15 was a popular computer, with almost 8000 units sold.\n\nIn 1975, CII produced a successor called the Mitra 125.\nThe Mitra 125 improved on the Mitra 15 by adding memory management, I/O processors, higher performance, and additional instructions.\nSpacelab used the Mitra 125 MS minicomputer,[3](#fn:ground) a militarized variant of the Mitra 125 that was produced by a company\ncalled CIMSA.\nA Spacelab mission had three of these computers: the Subsystem Computer controlled\nand managed Spacelab itself, while the Experiment Computer handled the experiments. A Backup Computer could take over if either\ncomputer failed.[1](#fn:spacelab)\nThese computers were part of Spacelab's Command and Data Management Subsystem, which controlled experiments and collected data.[4](#fn:cdms)\n\nThe three computers were normally mounted in the Spacelab laboratory underneath the Work Bench Rack ([details](https://ntrs.nasa.gov/api/citations/19900066918/downloads/19900066918.pdf#page=44)). The computers were controlled through\na keyboard and a [color CRT display](https://catalog.archives.gov/id/22556994), called the Data Display System (DDS).\nThe computer installation and a DDS are visible in the photo below.\n\n[![](https://static.righto.com/images/cimsa/computers-in-spacelab-w450.jpg)](https://static.righto.com/images/cimsa/computers-in-spacelab.jpg)\n\nThis photo shows astronauts inside Spacelab (but not in space). The Spacelab computers were mounted under the Work Bench (right arrow). The Data Display System (left arrow) provided the interface to the computers. Photo is [STS-51B Crew Portrait](https://www.nasa.gov/image-detail/amf-s84-43852/), 1984.\n\nFor some Spacelab missions, the laboratory was omitted entirely, providing more room for experiment pallets.\nIn this case, the computers were mounted in a small pressurized cylinder called the [igloo](https://airandspace.si.edu/collection-objects/spacelab-subsystems-igloo/nasm_A19990001003).\nThe researchers remained in the Shuttle, controlling experiments through two Data Display Systems that were \nmounted in the Shuttle's rear flight deck ([photo](https://catalog.archives.gov/id/355203887)).\n\n## The 74181 ALU chip\n\nThe Spacelab computer didn't use a microprocessor chip. Instead, like most minicomputers at the time, it was built from simple\nintegrated circuits that were combined to implement the computer's circuitry.\nUnlike modern CMOS integrated circuits, these chips contained bipolar transistors, which were fast, but large and\npower-hungry, a technology known as TTL (transistor-transistor logic).\nElectronics hobbyists of a certain age will recall the popular 7400 series of TTL chips.\nThe Spacelab computer was built from the military grade of these chips, the 5400 series.\n\nThe most complex chip in the computer was probably the '181 Arithmetic/Logic Unit (ALU) chip, containing about 170 transistors.\nThe arithmetic/logic unit is the heart of a computer, performing arithmetic operations as well as Boolean logic operations.\nIn 1970, Texas Instruments put a complete 4-bit arithmetic/logic unit on a single chip, called the 74181.\nSince the chip was fast, compact, and inexpensive,\nit was widely used, providing the ALU in computers \nfrom the popular PDP-11 and Xerox Alto to the powerful VAX-11/780 \"superminicomputer\".\n\nThe 74181 provides a full set of binary logical operations, including AND, OR, XOR, and complement.\nFor arithmetic, it includes addition, subtraction, incrementing, and decrementing.[5](#fn:74181)\nInconveniently, the 74181 doesn't support shifting right.\nMoreover, multiplication and division were much too complicated to be included in the 74181.\nInstead, a processor implemented multiplication and division through repeated addition or subtraction, combined with shifting.\nLikewise, floating-point operations were way beyond the capability of the 74181, but a processor could use the 74181 when performing\nthe steps of a floating-point operation.\n\nAlthough the 74181 only handled four bits, multiple 74181 chips could be combined to handle larger words, such as 16 bits or 32 bits.\nTo handle carries, the chips could be chained together, with the carry-out from one chip fed into the carry-in of the next chip. \nThis approach was simple but slow, since the carry had to \"ripple\" through all the chips before the answer could be obtained.\nThe carry process could be sped up by using a carry-lookahead chip called the 74182, which\nspeeds up addition by computing the carries from four 74181 chips (i.e., 16 bits) in parallel.\n\n## The Mitra's ALU/register boards\n\nThe Spacelab computer used eight '181 ALU chips to implement a 32-bit adder.[6](#fn:hmsg)\n(Specifically, these chips are the 54S181, a variant of the 74181: \"54\" indicates that the chips handle the military temperature range, and \"S\" indicates\nthat the chip is built from high-speed Schottky logic.)\nHowever, the ALU boards required numerous additional chips.\nDepending on the instruction, eight different inputs could be selected for the ALU.\nChips called multiplexers selected the desired value, requiring 32 multiplexer chips.\nThree 32-bit registers provided storage for ALU inputs and outputs, requiring 24 chips.\nTwo 54S182 carry-lookahead chips provided fast carry computation.\nFinally, some simple logic chips (inverters and NAND gates) tied things together.\n\nDue to the number of chips required, the ALU/register circuitry was spread across three boards, as shown below.\n(I reverse-engineered the board on the right.[7](#fn:reverse-engineering))\nThe '181 chips are immediately visible as they are much larger than the other chips; they have 24 pins, compared to 14 or 16 pins for\nthe other chips.\nThe first board has two '181 chips, while the last two boards each have three '181 chips.\nThe last two boards are similar, but not identical.\n\n[![](https://static.righto.com/images/cimsa/three-boards-w550.jpg)](https://static.righto.com/images/cimsa/three-boards.jpg)\n\nThe three ALU/register boards from the Spacelab computer.\nClick this image (or any other) for a larger version.\n\nFinding a 32-bit ALU was a surprise to me, since the computer is a 16-bit computer.\nThe expanded ALU was probably implemented to improve performance.\nMultiplying two 16-bit numbers yields a 32-bit result, so a 32-bit ALU makes multiplication faster.\nMoreover, the computer supports 32-bit floating-point numbers, so the 32-bit ALU presumably makes floating-point operations faster.\n\nThe diagram below shows the architecture of the computer's 32-bit ALU system.\nIn the middle is the ALU itself, operating on two 32-bit operands: `A` and `B`.\nAt the left, multiplexers (\"mux\") select one of four values for `A` and one of four values for `B`.\nAt the right, the output of the ALU can be stored in three 32-bit registers, or sent to the rest of the computer via the bus. The first two registers are shift registers, allowing the value\nto be shifted left or right, while the third register simply holds the value in flip-flops.\nThe first two registers are connected by buses to the rest of the computer, while the value of the third register can only be accessed by using it\nfor another arithmetic operation.[8](#fn:schematic)\nI suspect that the shift registers are used for multiplication and division to shift the arguments at each step.\n\n[![](https://static.righto.com/images/cimsa/block-diagram-w500.jpg)](https://static.righto.com/images/cimsa/block-diagram.jpg)\n\nBlock diagram of the ALU/register board.\n\nThe inputs to the multiplexers provide flexibility. For instance, you can add register 1 to a number from the bus, or\nadd register 2 shifted to the right to register 3.\n(Note that this shifting is implemented by wiring the inputs to the multiplexer shifted left or right, completely separate\nfrom the shift register's shifting.)\nThe \"all 1's\" input is either a zero input (with negative logic), or -1 (in two's-complement).\nThe `B` input can be taken from the bus, allowing the value to come from memory or from a general-purpose register.\nThe `mix` input is a jumble of signal lines, register bits,\na shift register input, and a pull-up with no apparent pattern.\nI describe a few more mysteries in the footnote;[9](#fn:mysteries)\npresumably, the mysteries would be resolved if I reverse-engineered the whole computer.\n\nThe functions of the multiplexers, ALU chips, and registers depend on what instruction is being executed. \nSpecifically, the computer's microcode engine generates control signals for the computer, including the ALU/register boards.\nSome of these control signals select\nwhich multiplexer inputs are used. Other control signals select the ALU's function. Finally, control signals select which register\nreceives the ALU's output.\n\nThe board that I reverse engineered implements 12 of the 32 bits of the ALU and registers.\nThe diagram below shows the role of each chip on the board.\nThe three 4-bit ALU chips are indicated 2, 1, and 0.\nEach ALU chip has two multiplexer chips to select the four `A` input bits and two multiplexer chips to select the four `B` input bits.[10](#fn:mux)\nThus, there are 12 multiplexer chips on the board.\nThe three 12-bit registers `A`, `B`, and `C` are each implemented with three 4-bit chips.\nThree hex inverter chips and a 4-input NAND chip complete the board.[11](#fn:chips)\n\n[![](https://static.righto.com/images/cimsa/board-labeled-w500.jpg)](https://static.righto.com/images/cimsa/board-labeled.jpg)\n\nThe ALU/register board with the chips labeled.\n\nThese printed-circuit boards (PCBs) have some interesting features.\nIn most electronics, circuit boards have holes only where they are needed, but the Spacelab boards have holes in a fixed grid pattern.\n(IBM used similar boards in its System/360 computers in the 1960s.[12](#fn:ibm-board))\nA hole can hold an IC pin or other component.\nOr a hole can be used as a via, connecting PCB traces on different layers.\nAnother interesting feature of the boards is the vertical metal bars underneath the integrated circuits. These bars carry heat away from\nthe integrated circuits.\n\nThe PCB traces are more visible on the back of the board (below).\nThe traces are thin enough that two traces can pass between a pair of holes.\nNote the yellow \"bodge\" wires, correcting errors on the circuit board. I assume that these errors were fixed for the computers\nused in flight.\n\n[![](https://static.righto.com/images/cimsa/board-back-w500.jpg)](https://static.righto.com/images/cimsa/board-back.jpg)\n\nBack of an ALU/register board. This is a different board from the one I reverse engineered, since I wanted to show the yellow wires.\n\nEach board has a 96-pin connector at the bottom, which plugs into the computer's motherboard.\nNote the three cylindrical pins sticking out of the connector.\nThese pins are keyed to ensure that a board can only be plugged into the correct slot.\nThat is, each pin has a metal tab oriented in one of six directions.\nOn the motherboard, the connectors have corresponding notches.\nIf the tabs and the notches don't match up, the board can't be plugged in.\n\n[![](https://static.righto.com/images/cimsa/connector-w350.jpg)](https://static.righto.com/images/cimsa/connector.jpg)\n\nA close-up of the connector, showing the keying. Also note that the zig-zag pin numbering on the left changes to an irregular number on the right. Unexpectedly, pin 52 is between pins 49 and 51, for example,\n\nThe boards in the Spacelab computer are dense, tightly packing integrated circuits to minimize the size\nof the computer.\nHowever, the boards are considerably less dense than American aerospace computers.\nIn particular, the Spacelab computer used the same integrated circuit packages that were used in consumer electronics: through-hole DIPs (dual\nin-line packages with two rows of pins).\nIn contrast,\nIBM's line of 4 Pi aerospace computers used \"flat-pack\" integrated circuits that were considerably smaller and thinner\n([details](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html)).\nAs a result, IBM's double-sided circuit boards could hold 156 integrated circuits compared to 30 on a single-sided Mitra board of\nroughly the same size.\n\n## A brief history of the French computer industry leading up to this computer\n\nBull is one of France's earliest computing companies, created in 1931. Bull initially sold punch-card equipment, competing with IBM.\nBy the 1960s, Bull was a major computer company with products such as the transistorized [Gamma 60](https://en.wikipedia.org/wiki/Bull_Gamma_60) computer,\na large-scale mainframe that was\n[said](https://dl.acm.org/doi/10.1145/641276.641278) to be the first system specifically designed for parallel and multiprogramming.\nUnfortunately, Bull had difficulty competing with IBM, its stock collapsed, and\nBull was [acquired](https://www.bull.com/en/about/our-heritage/our-historyhttps://www.bull.com/en/about/our-heritage/our-history) by General Electric in 1964, forming Bull-GE.\nThe collapse and controversial takeover were a blow to the French computer industry,\nand the incident was dubbed the *[Affaire Bull](https://fr.wikipedia.org/wiki/Affaire_Bull)*.\nTo make things worse, GE soon canceled two of Bull's computers, focusing instead on GE's computer line.\n\nThe *Affaire Bull* was not only an affront to French pride, but an indication that France was largely dependent on the US for\ncomputer technology.\nA second incident revealed the critical military consequences of France's weakness.\nIn the early 1960s, France was attempting to improve its nuclear strength by develop a hydrogen bomb.\nThe mathematics of fusion is computationally intense, so France attempted to buy powerful American computers: the CDC 6600 supercomputer\nand the IBM 360/92.[13](#fn:cdc)\nHowever, the US government blocked the export of these computers to France in an attempt to limit nuclear proliferation.\n\nThese problems led\nFrench president Charles de Gaulle to decide that France needed a strong computer industry of its own.\nIn 1966, he developed a plan for computing (*Plan Calcul*)[14](#fn:plan-calcul), where the French government\nwould reorganize the computer industry, picking companies to lead in each sector from minicomputers\nto semiconductors.\n\nIn the minicomputer sector, the government created a company called CII by combining three French computer companies: SEA, CAE, and\nSETI.\nCII was primarily owned by a large French company called Thomson-CSF (now Thales).[15](#fn:thomson)\nCII played a key role in the Spacelab computer, since CII developed the Mitra line of computers.\nIn the mid-1970s, CII and the American company Honeywell merged, with the computer division spun off to form a new company called\nSEMS, with majority shareholder Thomson.\nAnother Thomson subsidiary, CIMSA, focused on military electronics and produced the militarized versions of the Mitra line.\nIn particular, CIMSA produced the computer for Spacelab.[16](#fn:MATRA)\n\nFrance's *Plan Calcul* is generally viewed as a failure. Despite expensive subsidies, the French computer industry remained weak and\nunable to escape American dominance. When Giscard d'Estaing was elected president of France in 1974, he ended *Plan Calcul*.\nThere are various interpretations, such as the failure of government planning versus the free market, but my view is \nthat in the 1960s and 1970s, IBM crushed most challengers in the computer industry, both American and foreign, so *Plan Calcul*\ndidn't have a chance.\nAs for Bull, the company went through a dizzying sequence of American takeovers and nationaizations by France.[17](#fn:bull)\nJust two months ago (March 2026), the company was reacquired by the French government.\n\n## Replacement by the IBM AP-101SL computer\n\nSince Spacelab was a European project, using a European computer was a point of pride.\nUnfortunately, the French computers were eventually replaced by IBM computers due to performance needs and undoubtedly political factors.\n\nDuring the Space Shuttle program, the computers on the Shuttle and in Spacelab became obsolete as computer technology rapidly advanced.\nAlthough the computers were originally considered powerful, their performance and memory capacity became problems over time.\nThe Space Shuttle's IBM AP-101 computers were upgraded to IBM AP-101S computers, first flying in 1991. The AP-101S was half the size,\nthree times faster, and had more than twice the memory, using semiconductor memory instead of magnetic core memory.\n\nThe Spacelab computer system needed a similar upgrade, and\nin 1991, the CIMSA computers on Spacelab were replaced with IBM AP-101SL computers.\nThe AP-101SL was based on the Shuttle's upgraded AP-101S computer,\nbut modified to support the Mitra's hardware architecture, instruction set, and I/O capabilities.\nThe packaging of IBM's computer was slightly changed to match the dimensions of the CIMSA computer and to use an external heat exchanger rather than\nan internal heat exchanger.\n\n[![](https://static.righto.com/images/cimsa/ap-101sl-opened-w400.jpg)](https://static.righto.com/images/cimsa/ap-101sl-opened.jpg)\n\nThe IBM AP-101SL Spacelab computer. The circuit boards are much larger than the original Spacelab computer boards or the original AP-101B boards. Note the flat-pack ICs on the boards. Photo courtesy of Kyle Owen.\n\nChanging the Shuttle's 32-bit AP-101S computer to run the 16-bit Mitra instruction set was easier than you might expect,\nsince the AP-101S already supported multiple instruction sets: a 32-bit instruction set derived from the IBM System/360 and\na 16-bit instruction set called 1750A that was an Air Force Standard.\nBecause the AP-101S implemented its instructions in microcode—low-level software that specified the steps of a machine instruction—the instruction set could be modified by updating the microcode.\n\nI compared the circuit boards in an AP-101S with the boards in an AP-101SL to quantify the changes. The semiconductor memory boards\nand power supplies were essentially identical. \nThe CPU boards had minor changes.\nUnsurprisingly, the I/O boards were completely different, and the complex I/O Processor (IOP) in the Shuttle's AP-101S was omitted.\nFor more on the IBM AP-101 line, see my [History of IBM's 4 Pi computers](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html).\n\n## Conclusions\n\nThe Spacelab computer provides an interesting look at how computers were built before microprocessors took over.\nThe components of a computer, such as the ALU, registers, and control circuitry, were constructed from simple chips.\nSince each chip didn't do much, the computer required 36 boards full of chips.\nEven so, the computer was compact enough to go into space.\nBy modern standards, these computers aren't much—each computer had a memory capacity of just 128 KB of magnetic core memory—but\nthey played a critical part in the space program.\n\nI'm not going to reverse-engineer the full computer, but I may write some more about it.\nFor updates, follow me on\n Bluesky ([@righto.com](https://bsky.app/profile/righto.com)),\nMastodon ([@[email protected]](https://oldbytes.space/@kenshirriff)),\nor [RSS](http://www.righto.com/feeds/posts/default).\n\nCredits: Thanks to Steve Jurvetson for providing the Spacelab computer for examination. Thanks to Poul-Henning Kamp for comments.\n\nAI statement:\nDespite the presence of the em dash, no AI was used in the writing of this article ([details](https://www.righto.com/p/index.html#ai)).\n\n## Notes and references",
+        "url": "http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+        "source": "Ken Shirriff's blog",
+        "tags": [
+          "Hardware",
+          "Product",
+          "Web Dev"
+        ],
+        "published_at": "2026-05-23T16:17:44.885Z",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "This Week in Package Management: 23 May 2026",
+        "summary": "I’m trying out a weekly roundup built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://ma",
+        "content": "I’m trying out a weekly roundup built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastodon.social/@andrewnez).\n\nnpm is [removing `npm-shrinkwrap.json` entirely](https://github.com/npm/cli/releases/tag/libnpmversion-v9.0.0-pre.0.0) in the v12 prereleases. The command, the config alias, and the loader all gone; project-root shrinkwraps need renaming to `package-lock.json` and shipping a locked tree inside a tarball now means `bundleDependencies`.\n\n## Security\n\n[uv 0.11.15](https://github.com/astral-sh/uv/releases/tag/0.11.15) fixes two issues worth patching for: a [TAR parser differential](https://github.com/astral-sh/uv/pull/19463) and [entry points escaping the scripts directory](https://github.com/astral-sh/uv/security/advisories/GHSA-4gg8-gxpx-9rph). [0.11.16](https://github.com/astral-sh/uv/releases/tag/0.11.16) followed with `uv audit` now refusing locked installs that match known-malware records.\n\n[Ruby 4.0.5](https://www.ruby-lang.org/en/news/2026/05/20/ruby-4-0-5-released/) shipped with a fix for CVE-2026-46727; anyone on 4.0.0 through 4.0.4 should update.\n\nGitHub confirmed that around 4,000 of its own internal repositories were exfiltrated this week. [The Register reports](https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206) the entry point was a poisoned VS Code extension and attributes it to TeamPCP, the group behind the Shai-Hulud worm.\n\nThe Nx team published a [postmortem of the Nx Console v18.95.0 compromise](https://nx.dev/blog/nx-console-v18-95-0-postmortem), another poisoned VS Code extension. The detail that stands out: the affected contributor had `minimum-release-age` set in `.npmrc`, but their pnpm was old enough to silently ignore the unknown key, so a 77-minute-old malicious package sailed through.\n\nA [dependabot-core issue](https://github.com/dependabot/dependabot-core/issues/13078) points out that the cooldown setting can be bypassed by an attacker who controls the version timestamps, which is most of them. Worth knowing if you’ve been treating it as a security control rather than a noise filter.\n\n## Releases\n\n[Deno 2.8](https://deno.com/blog/v2.8) makes npm the default registry: `deno add` and `deno install` now treat an unprefixed name as an npm package, with `jsr:` becoming the thing you opt into. It also ships `deno pack` for turning a Deno or JSR project into an npm-publishable tarball, plus `deno ci`, `deno why`, `deno audit fix`, a pnpm-style `catalog:` protocol, optional hoisted `node_modules`, and `min-release-age` support in `.npmrc`. Hard not to read a direction of travel into that list.\n\n[pnpm 11.2.2](https://github.com/pnpm/pnpm/releases/tag/v11.2.2) adds an opt-in preview where adding `@pnpm/pacquet` to `configDependencies` hands the materialisation phase of `pnpm install` to the Rust port. Resolution stays in pnpm; pacquet just fetches and links from the lockfile.\n\n[conda 26.5.0](https://github.com/conda/conda/releases/tag/26.5.0) lands parser support for conditional dependencies, optional dependency groups, and variant flags from [CEP 164–166](https://github.com/conda/ceps).\n\n[Composer 2.10.0-RC2](https://github.com/composer/composer/releases/tag/2.10.0-RC2) is out with a call for testers; `composer self-update --preview` to try it, `--stable` to bail.\n\n[Homebrew 5.1.12](https://github.com/Homebrew/brew/releases/tag/5.1.12) adds `brew exec`, an npx-style launcher that finds which formula provides an executable and runs it. [5.1.13](https://github.com/Homebrew/brew/releases/tag/5.1.13) followed with RubyGems licence checking in audit.\n\n[RubyGems and Bundler 4.0.12](https://github.com/ruby/rubygems/releases/tag/v4.0.12) tidy up `BUNDLE_VERSION` handling and add a warning when an indirect dependency might be confused with a direct one.\n\n[Verdaccio 6.7.0](https://github.com/verdaccio/verdaccio/releases/tag/v6.7.0) bumps the Node baseline to 24 and starts soft-warning on older runtimes. [PDM 2.27.0](https://github.com/pdm-project/pdm/releases/tag/2.27.0) does the same for Python, now requiring 3.10.\n\n## Articles\n\nThe Go team [announced an official pkg.go.dev API](https://go.dev/blog/pkgsite-api): stateless GET endpoints for modules, versions, symbols, vulnerabilities, and search. No more scraping the HTML.\n\nnpm [announced staged publishing and new install-source controls](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/). `npm stage publish` uploads to a holding queue and a human with a 2FA challenge has to promote it before anyone can install. Alongside it, `--allow-file`, `--allow-remote`, and `--allow-directory` join `--allow-git` so you can lock installs to registry sources only; `--allow-git` flips to `none` by default in v12.\n\nThe NuGet blog wrote up [package pruning in .NET 10](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/), which trims transitive packages that the shared framework already provides and cuts the corresponding noise out of vulnerability reports.\n\nGábor Bernát posted his [Python Packaging Summit recap](https://bernat.tech/posts/pycon-us-2026-packaging-summit-recap/) from PyCon US, covering what got argued about in the room this year.\n\nA Bloomberg-authored piece in [ACM Queue](https://spawn-queue.acm.org/doi/full/10.1145/3799738) argues that companies need to move from passive consumption to active stewardship of the open source they depend on.\n\nThe PHP Foundation [announced an Ecosystem Security Team](https://thephp.foundation/blog/2026/05/18/announcing-ecosystem-security-team/) funded by an Alpha-Omega grant. Packagist meanwhile has [malware filter list support live in Private Packagist](https://blog.packagist.com/whats-new-in-private-packagist-may-2026-update/) ahead of Composer 2.10.\n\nTrail of Bits [wrote up several months of contributions to zizmor](https://blog.trailofbits.com/2026/05/22/we-hardened-zizmors-github-actions-static-analyzer/). A [typosquatting audit](https://github.com/zizmorcore/zizmor/pull/1985) for Actions references that I wrote also landed this week.\n\n## Elsewhere\n\n[pypitoken-cli](https://pypi.org/project/pypitoken-cli/) from Catherine takes an account-scoped PyPI token and narrows it to a package-scoped one from the command line.\n\n[diffify](https://diffify.com/) shows what changed between two versions of a CRAN or PyPI package: function signatures, dependencies, namespace exports. [listen to PyPI](https://miketheman.github.io/listen-to-pypi/) plays a note for every upload to the index, in the [Listen to Wikipedia](http://listen.hatnote.com/) tradition.\n\nAnil Madhavapeddy has been [resurrecting OCaml system packaging](https://anil.recoil.org/notes/oxcaml-packages) and writing up how it fits together.\n\nThe GitHub incident prompted an [open VS Code issue](https://github.com/microsoft/vscode/issues/272765) asking for cooldowns on extension auto-updates. The Dependabot bypass above is a useful read before treating that as solved.\n\n## git-pkgs\n\nI tagged [git-pkgs v0.16.1](https://github.com/git-pkgs/git-pkgs/releases/tag/v0.16.1) along with a bunch of new versions other repos in the git-pkgs org: [brief](https://github.com/git-pkgs/brief/releases/tag/v0.8.0), [proxy](https://github.com/git-pkgs/proxy/releases/tag/v0.4.0), [manifests](https://github.com/git-pkgs/manifests/releases/tag/v0.5.0), [registries](https://github.com/git-pkgs/registries/releases/tag/v0.6.1), [resolve](https://github.com/git-pkgs/resolve/releases/tag/v0.2.0), [forge](https://github.com/git-pkgs/forge/releases/tag/v0.5.1), [enrichment](https://github.com/git-pkgs/enrichment/releases/tag/v0.2.3), [spdx](https://github.com/git-pkgs/spdx/releases/tag/v0.1.4), [outline](https://github.com/git-pkgs/outline/releases/tag/v0.1.3), and [gitignore](https://github.com/git-pkgs/gitignore/releases/tag/v1.2.0).\n\nSend links for next week to [@[email protected]](https://mastodon.social/@andrewnez).",
+        "url": "https://nesbitt.io/2026/05/23/this-week-in-package-management.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-05-23T10:00:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "On the <dl> - 23rd May 2026 - Link Blog **[On the <dl>](https://benmyers.dev/blog/on-the-dl/)** ([via](h...",
+    "There is only one bad AI scenario - I’ve pushed AI doomers on how exactly the AI kills us, and I’ve never heard a good answer....",
+    "The commencement speech that shook the world  - There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. T...",
+    "Don't Roll Your Own ... - By **Susam Pal** on 23 May 2026 This is going to be a rant about modern web design practic...",
+    "Reverse engineering circuitry in a Spacelab computer from 1980 - Spacelab was a reusable laboratory that could be carried in the cargo bay of the Space Shu..."
+  ],
+  "wordcloud": [
+    {
+      "word": "functions",
+      "count": 6
+    },
+    {
+      "word": "real",
+      "count": 6
+    },
+    {
+      "word": "post",
+      "count": 4
+    },
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "hilbert",
+      "count": 3
+    },
+    {
+      "word": "transform",
+      "count": 3
+    },
+    {
+      "word": "wrote",
+      "count": 3
+    },
+    {
+      "word": "fourier",
+      "count": 3
+    },
+    {
+      "word": "series",
+      "count": 3
+    },
+    {
+      "word": "complex",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "dl",
+      "count": 3
+    },
+    {
+      "word": "ve",
+      "count": 3
+    },
+    {
+      "word": "spacelab",
+      "count": 3
+    },
+    {
+      "word": "previous",
+      "count": 2
+    },
+    {
+      "word": "ago",
+      "count": 2
+    },
+    {
+      "word": "parts",
+      "count": 2
+    },
+    {
+      "word": "age-gates",
+      "count": 2
+    },
+    {
+      "word": "notes",
+      "count": 2
+    },
+    {
+      "word": "variable",
+      "count": 2
+    },
+    {
+      "word": "palantir",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "learned",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "com",
+      "count": 2
+    },
+    {
+      "word": "world",
+      "count": 2
+    },
+    {
+      "word": "man",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "space",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    }
+  ]
+}
