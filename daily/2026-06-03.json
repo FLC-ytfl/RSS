@@ -1,0 +1,615 @@
+{
+  "date": "2026-06-03",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Naively summing an alternating series",
+        "summary": "Suppose you run across the power series for the exponential function and decide to code it up. Good idea: you’ll probably learn something, though maybe not what you expect. Maybe you decide a tolerance of 10−12 is good e...",
+        "url": "https://www.johndcook.com/blog/2026/06/03/naive-sum/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 03 Jun 2026 15:13:24 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "London Data Store Relaunch",
+        "summary": "It has been sixteen years since the launch of data.london.gov.uk. Back then, it was a trailblazer as one of the first major cities to release Open Data in this way. Now, over a decade later, it is more than a mere reposi...",
+        "url": "https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Wed, 03 Jun 2026 11:34:49 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Welcoming the Philippine Government to Have I Been Pwned",
+        "summary": "Today, we welcome the 46th government onboarded to Have I Been Pwned’s free gov service: the Philippines. The Philippines’ National CERT, working with the Department of Information and Communications Technology, now has...",
+        "url": "https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/",
+        "source": "Troy Hunt",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Wed, 03 Jun 2026 03:40:17 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Enforcing the First AS in BGP AS_PATHs",
+        "summary": "BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some of these problems, but for some forged paths, we need to rely on a simpler mechanism: First AS enf...",
+        "url": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 03 Jun 2026 17:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is datacentre sovereignty really that important?",
+        "summary": "The UK is obsessed with building AI datacentres at home. But the arguments for sovereignty - latency, tax, control - mostly don't hold up.",
+        "url": "https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Thu, 04 Jun 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-06-03T23:25:44.707Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+        "summary": "3rd June 2026 - Link Blog\n\n**[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+        "content": "3rd June 2026 - Link Blog\n\n**[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs)**. I wrote [the other day](https://simonwillison.net/2026/May/27/product-market-fit/#the-ai-failure-stories-around-this-are-pretty-thin) about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.\n\nNatalie Lung for Bloomberg:\n\n> The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cursor or Anthropic PBC’s Claude Code.\n\nA $1,500 monthly limit per tool strikes me as a rational policy response to over-spending, and *much* more sensible than those [tokenmaxxing](https://en.wikipedia.org/wiki/Token_maxxing) leaderboards encouraging employees to compete for as much AI usage as possible.\n\nIt's also interesting in that it hints at a real dollar value for what Uber is getting out of these tools. If we assume two actively used tools per engineer that's $3,000 * 12 = $36,000 cap per engineer per year. Levels.fyi lists [the median yearly compensation package for Uber software engineers in the USA](https://www.levels.fyi/companies/uber/salaries/software-engineer?country=254) at $330,000.\n\nThat means each employee's AI spending cap is ~11% of that median compensation package.\n\nI [noted](https://simonwillison.net/2026/May/27/product-market-fit/#enterprise-customers-are-now-paying-api-prices) that my own token usage comes to about $1,000/month against each of Anthropic and OpenAI - which currently costs me just $100 per provider thanks to their generous subsidized plans for individual subscribers. Those plans are no longer available to larger companies like Uber.\n\nTheir new policy means if I were working at Uber I'd still have ~$500/month of tokens to spare for each of those tools, given my current usage patterns.",
+        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-03T12:01:27.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Now that your newsletter is AI-generated, I've Unsubscribed ",
+        "summary": "![Now that your newsletter is AI-generated, I've Unsubscribed](https://cdn.idiallo.com/images/assets/663/hero.jpg)\n            \n\n                \n            \n                            Tired of that",
+        "content": "![Now that your newsletter is AI-generated, I've Unsubscribed](https://cdn.idiallo.com/images/assets/663/hero.jpg)\n            \n\n                \n            \n                            Tired of that blue tech theme.\n\n                        \n                \n                    \n                    - \n                        \n                            \n                                \n                                \n                                \n                                \n                                \n                            \n                        \n                        \n                            2 hours ago                        \n                    \n\n                    - \n                        \n                            \n                                \n                                \n                            \n                        \n                        \n                            ~ 2 minutes read\n                        \n                    \n\n                    - [Buy me\n                            Coffee](https://ko-fi.com/idiallo)\n\n                \n\n            \n        \n    \n                \n        I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without making any announcement.\n\n        After a couple of weeks of blue high-tech image thumbnails, I simply hit unsubscribe. Here's what happened: a person earned my trust. He maintained that trust for all those years. But then he thought the best way to improve was to take himself out of the equation. If you're just going to present me with prompt-generated content, I hate to break it to you but I have access to ChatGPT, and I can do that myself.\n\nThe reason the human voice matters to me is because there's real experience behind the words. The oldest newsletter in my inbox is from when I was just 12 years old. It was from a French writer I used to read. After a decade of following him, the emails stopped coming. I was only reminded a few years later, when the emails started coming back.\n\nI didn't jump on it immediately. I didn't even remember who it was. But when I read one at random, the words were different, the tone was nostalgic, and the name was unfamiliar.\n\nI dug deeper and found that the author's son had taken over the newsletter. That was my cue to unsubscribe. But he hadn't used AI to replace his father's voice. He didn't use any tricks to garner clicks. Instead, he announced that his father had passed away and that he would share some stories.\n\nI remained subscribed until the last story was released. I rarely sign up for any newsletter. If I do, it's intentional because I'm interested in what the author has to say. It's not much deeper than that.\n\nThere is a big difference between a newsletter written by a person, one that breathes and wanders and sometimes takes his time. Compared to the rapid fire, mechanical hum of AI-generated content. One feels like someone is thinking with you. The other feels like a monetization strategy.",
+        "url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 03 Jun 2026 21:10:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The ‘60 Minutes’ Purge",
+        "summary": "## Choose or Create Collections\n\n                \n                    \n                        ![](https://www.paramountpressexpress.com/images/show-keyart-placeholder-0.jpg)\n                    \n\n   ",
+        "content": "## Choose or Create Collections\n\n                \n                    \n                        ![](https://www.paramountpressexpress.com/images/show-keyart-placeholder-0.jpg)\n                    \n\n                    \n                        \n                        \n\n                        \n                            \n                                Search Collections\n                            \n                            \n                        \n\n                        \n                        \n\n                        \n                            \n                                Create New Collection\n                            \n                            \n                        \n                    \n                \n\n                [See All Collections](https://www.paramountpressexpress.com/account/collections/)",
+        "url": "https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-06-03T21:32:52.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Skills Registry Threat Models",
+        "summary": "[Agent skills](https://agentskills.io/home) bundle prompts, scripts, dependencies, and tool permissions for AI agents to load on demand. A skills registry is the distribution channel for them: a hoste",
+        "content": "[Agent skills](https://agentskills.io/home) bundle prompts, scripts, dependencies, and tool permissions for AI agents to load on demand. A skills registry is the distribution channel for them: a hosted marketplace, an indexed hub, or in many cases just a curated list of GitHub repos. [ClawHub](https://clawhub.com/), [Tessl](https://www.tessl.io/), and [skills.sh](https://www.skills.sh/) have all launched in the past year, mostly modelled on existing package registries.\n\nBecause a skill can declare dependencies on packages from npm, pip, cargo, brew, go, apt, or anything else, often several at once, a skills registry is a strict superset of a package-manager client. Installing one skill runs install commands across several package managers on the user’s machine, on behalf of a manifest the user never read, so every threat the package-manager world has spent the last decade documenting still applies inside a skill’s install path.\n\nA skill body joins the agent’s system prompt on activation, making it a prompt-injection vector as well as a code-execution one, which packages can’t be. Tool permissions are inherited from the runtime, so a skill runs with whatever bash, file edit, and network grants the session has already approved. And the resolution path in most loaders accepts an arbitrary git URL as a source, collapsing the registry side of the threat model down to GitHub’s identity model.\n\nThe slug expires at ninety days because the constant says ninety. The install command runs without a no-build flag because nobody added the string. The lockfile records the name and not the bytes because the bytes were never written to the client. Each of those is a design decision working as intended rather than a wrong line of code a static scanner can call out, clean against every check that looks for incorrect lines, and worth making on purpose rather than by default.\n\nThis post covers the loader, the registry, the agent runtime as a registry client, and the loader’s own dependencies, drawing on published studies, scanner reports, and package-manager precedent.\n\n## Loader\n\n### Code execution at load time\n\nA skill activates in one of a few shapes, and most loaders support several at once: instructions injected into the prompt with nothing else running, a `scripts/` directory the loader invokes through the agent’s bash tool, or a shell snippet in the skill file that the loader evaluates before the model is in the loop at all.\n\nWhether each path is on by default, the existence of a setting to turn it off, and the consistency of that setting across every code path are the same questions package managers spent a decade answering for install scripts like `postinstall` and `setup.py`. The user’s mental model of “the agent runs a tool, I approve it” doesn’t cover loader commands that run before the agent reaches the prompt.\n\nOnce a skill manifest is allowed to declare its own install steps, a manifest that lists `{kind: node, package: x}` and `{kind: uv, package: y}` and `{kind: brew, formula: z}` is a single artifact that delegates to three other package managers, each with its own answer to “does install run code.” Closing the lifecycle-script vector on one (`--ignore-scripts` on the node spawn) is straightforward and usually the first thing fixed. The equivalent settings on the others (a build-isolation flag for the Python case, a tap allowlist for the Homebrew case, the equivalents for go and cargo) tend to lag by months.\n\n### Code execution before invocation\n\nMost loaders inject the description of every installed skill into the system prompt every turn so the model has them available for tool selection. The body and the scripts don’t load until activation, but the description does on every request, putting author-controlled text into the agent’s instructions whether the user invokes the skill or not.\n\nA skill the user installed once and forgot about is still part of the prompt, and a description that contains adversarial tokens, hidden HTML, or unicode control characters the loader doesn’t strip is a prompt injection that fires unprompted. Work out what the loader does with descriptions: length cap, content sanitisation, whether they’re presented to the model as data or as instructions, and whether the user can list which skills are currently contributing to the prompt.\n\n### Version pinning guarantees\n\nMost skill formats use git as the distribution channel and “version” tends to mean “default branch at fetch time.” A few loaders accept a commit sha; fewer record the sha actually used. The lockfile equivalent, where it exists at all, typically records name and version and not the bytes, so a pinned `[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)` resolves against whatever currently owns that name rather than against the file the user originally received.\n\nPer-file hashes often exist on the server already, computed at publish time, and just never get written to the client format. The package-manager world spent a decade closing this gap, ending up with `go.sum` and a content-hash field per entry in `package-lock.json` and `Cargo.lock`, so that the bytes the lockfile says you got are the bytes you get next time.\n\nAuto-update on next launch is common, and the `update` path almost always walks the lockfile and reinstalls each entry without re-prompting on any capability change between versions. A skill that adds a new `requires.env` value (a new secret declared as a dependency) on a patch bump is applied by the update without interaction, because the manifest is data and the previous user grant was keyed on the name.\n\n### Skill name identity\n\nNames are mostly inherited from the source: a path, an `owner/repo`, an `owner/repo/skill` triple. Normalisation rules are usually unwritten. Two installed skills that resolve to the same on-disk name and overwrite each other, or two skills with descriptions the model can’t distinguish between, are both ways to shadow a skill the user trusts.\n\nSeveral registries also support identity transitions: some combination of rename, merge, and ownership transfer as distinct flows, each with its own data model and consent step. An update follows whichever of the three the publisher used, and the resulting installed-on-disk skill can have a different owner, a different source repo, and a different set of declared capabilities from the one the user originally installed.\n\n### Resolution across multiple sources\n\nA user typically has more than one skill source configured: a vendor-curated marketplace, a community one, a personal repo of project-local skills, the workspace they just opened. When a name resolves out of more than one of these, the question is the same as the [dependency-confusion pattern](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) Alex Birsan documented against package managers in 2021: highest version wins, first source wins, refuse, or pin per source.\n\nThe loader’s install command often tries a skill-specific index first and silently falls through to a general-purpose package registry (npm, PyPI) when nothing matches there, because the install fan-out has to land somewhere. The fall-through widens when it fires on version-not-found as well as package-not-found, because at that point a name the skills registry already lists is also exposed, and publishing a higher version on the downstream registry is enough to capture future installs.\n\n### Tool permission inheritance\n\nA skill runs with whatever tool grants the agent has. If the user has approved bash, file edit, and network for the session, every skill they install inherits all three. Some formats let the skill declare its own allowed-tools list which the loader treats as pre-approved while the skill is active, so a skill can ship the approval bypass alongside the code that uses it.\n\nThe single gate for skills checked into a repository is usually the workspace-trust dialog the user clicks through when they open the project, which means cloning a repo and opening it can be enough to grant a skill broad tool access. The dialog is also a weak gate, since users click through it reflexively once it’s part of every project-open flow. Find out whether skills are sandboxed, whether they can extend the allowlist, and whether there’s any per-skill review step between trust-the-workspace and run-everything.\n\nThe `requires.env` (or equivalent) field lists the secrets a skill needs at runtime, and most loaders accept silent additions to it across versions. A skill whose first release declared no secrets and whose patch release declares `AWS_SECRET_ACCESS_KEY` is not distinguishable, from inside the agent, from a skill that declared it from the start.\n\n### Cross-loader portability\n\nSkill manifest formats are increasingly portable across loaders, but security-relevant fields are not always interpreted the same way in each. The `allowed-tools` declaration is enforced at runtime in some loaders, treated as advisory in others, and unread by a third group that does not recognise the field at all. A `requires.env` list that prompts the user before adding a variable on one loader may end up silently expanded into the environment on another. Establish whether the loader applies every security-relevant field in the format it claims to support, and whether unknown fields trigger a refusal or a warning rather than being dropped silently.\n\n### Instructions as payload\n\nThe structural difference from packages is that a skill’s payload is code plus instructions that join the agent’s system prompt, not code alone. The same artifact can alter how the agent’s next decisions get made, contradict what the user later sees in the transcript, interfere with skills loaded later in the same session, or arrange for context the skill itself wasn’t given to be read out through a tool that was. The blast radius doesn’t end when the skill stops running, because the prompt content stays in context. Whether the loader isolates skill-contributed text, displays it to the user before acting on it, or treats it as authoritative is the question worth answering.\n\nA skill that fetches remote markdown into context at execution time (a documentation lookup, a RAG-style retrieval, a webhook response) makes whoever controls that remote endpoint a participant in the agent’s prompt. The fetched content is not visible at publish-time scanning and is not part of the manifest the registry passed.\n\nSplitting malicious behaviour across the manifest and the prose alongside it makes it invisible to most scanners. A manifest can declare an unremarkable dependency while the prose describes what to do with that dependency once installed; static scanners process only the manifest, text classifiers process only the prose, and the load-bearing instruction sits at the boundary between them.\n\nSnyk’s [ToxicSkills audit](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/) of 3,984 skills across two registries reported that 100% of confirmed-malicious samples used malicious code patterns and 91% simultaneously used prompt injection, the two layers working in combination to prime the agent into accepting code a human reviewer would have rejected. Whether the registry’s scanner correlates the modes or checks them in isolation is what determines whether it’s doing anything at all.\n\n### Transitive package-manager surface\n\nA skill that calls `pip install` in a setup script, declares a `package.json`, or shells out to `cargo` opens up the package-manager threat model inside its own install path: typosquatting, install-script execution, dependency confusion, and the rest. A manifest whose install fan-out lists three package managers opens it three times.\n\nThe loader’s threat model is bounded; the skill’s effective dependency graph is not, and it pulls from package managers the loader has no view of. The registry-side scanner usually evaluates the manifest and not the upstream packages the manifest points at, so a `kind: uv, package: helpful-tool` entry is checked for proportionality to the stated purpose rather than for what `helpful-tool` does on the next user’s machine.\n\nThe install fan-out also exposes an LLM-induced variant of dependency confusion. A skill script written by a model that hallucinated a package name resolves at install time to whoever registered that name on the public registry. Attackers monitor model output for plausible misses and pre-register them, a pattern called slopsquatting.\n\n### Namespace allocation\n\nMost skills registries don’t own a namespace; they inherit GitHub’s, along with the rules for name transfer and re-registration. A skill’s name is the repo path, and the security of that name is whatever the GitHub account that owns the repo happens to have configured. Patterns like revival-hijack (re-registering a freed package name and shipping a new release to everyone who still had it pinned) and dependency confusion apply, just at a different layer.\n\nThe registries that do own a namespace are mostly first-come, first-served on a flat name, with no reserved prefixes and no near-name collision check at publish. Typosquatting against a registry’s own brand has been an opening move in every documented campaign so far, and the design question is whether publish-time checks do anything at all: similarity scoring against existing names, reserved prefixes for first-party content, blocking confusable unicode, or nothing.\n\nA registry that holds a deleted name for a fixed window and then releases it gives an attacker a deterministic schedule against any lockfile that pins by name and version. The package manager world arrived at “tombstone the name forever” by way of incidents that already have names attached; the question for skills is whether the lesson got copied along with the shape.\n\n### Maintainer lifecycle\n\nFor most skill registries, the maintainer lifecycle is whatever the source repo provides: adding a maintainer happens on GitHub, account recovery is GitHub’s password reset, and the registry isn’t involved in either. Notifying downstream users when a skill’s maintainer set changes, when a skill is forked to a new owner, or when a long-dormant account ships a release is mostly not done. Role separation is rare: a maintainer can publish, change settings, and add other maintainers as one capability.\n\n### Immutability of published versions\n\nThe default is tracking a git branch, which means a version is whatever the branch resolves to at fetch time. A skill author can change what `skill@v1` means to every future installer at any moment with a single push, and tag-based pinning where it exists is advisory unless the loader also records the commit. The append-only log model that Go’s [checksum database](https://go.dev/ref/mod#checksum-database) implements for modules, where neither origin nor proxy can rewrite a version’s contents after publish without the client detecting it, exists for skills somewhere between rarely and not at all.\n\nPublish-over-existing-version is usually rejected, but the check is keyed on the internal identifier rather than the slug, so the protection lapses once a slug expires and gets re-registered by someone else. The publish-over check happens on the registry while resolution happens on the client, and a client that doesn’t record per-file hashes can’t distinguish the original bytes from a new publisher’s bytes anyway.\n\n### Provenance from source to artifact\n\nIn a traditional package registry, provenance is the gap between the registry’s tarball and the upstream repo it claims to come from. Skills usually collapse that gap because the artifact and the upstream git ref are the same thing, leaving only the question of whether anyone signed it.\n\nTrusted-publishing and provenance attestations are the answers package registries arrived at; the equivalents for skills are mostly absent, or exist only for the registry’s plugin family and not for the skill family alongside it. The asymmetry is worth noting where it shows up, because it means the registry implemented the recent defence for the artifact type that obviously executes code and skipped it for the one that contributes to a system prompt.\n\n### Publish credential\n\nFor hosted registries the dimensions are familiar from any package registry: scope (one skill or everything the owner can publish), capability (publish-only or also add maintainers), expiry (mandatory, optional, none), and whether the token has a recognisable prefix that secret-scanners can auto-revoke when it leaks into a public commit.\n\nThe common shape worth checking against is a single long-lived bearer token, scoped to the whole user account rather than per-skill, stored in plaintext under the user’s home directory, with no expiry and no 2FA prompt at publish time. Where the only credential is a session-equivalent API key, any other process running as the same user can publish on the user’s behalf, and the social-engineering attack reduces to “get one of this user’s other tools to read one file.”\n\nFor the more common case where the registry is a list of repos, the publish credential is whatever logs into the GitHub account that owns the repo, which means the user’s 2FA setup, the lifespan of their personal access token, and the number of CI variables it’s been copied into all become part of the registry’s threat model.\n\n### Review and curation\n\n“Curated marketplace” often means a JSON file in a repo listing other repos. The curator inspects names, descriptions, and maybe READMEs, never bytes, and certainly not the bytes of dependencies a skill pulls in transitively.\n\nWhere a registry does run an automated scanner at publish, the same scanner-blindness questions come back: does the scanner check more than one mode, does it actually fetch the upstream packages the manifest points at, does the verdict still apply twenty-four hours later. A scanner that checks a manifest on text without resolving its install fan-out misses everything the install does.\n\nA new version is resolvable to agents the moment it’s published in most skills registries, so the first installer of a malicious version is the canary. The cooldown window that package managers have started adopting (twenty-four to seventy-two hours during which a new version exists but isn’t picked up by clients) isn’t yet common for skills.\n\n### Blast radius and detection\n\nOnce a malicious skill is identified, several questions determine whether the response amounts to anything: can the registry mark a version as bad and have loaders refuse it, can it tell affected users that they have it installed, is there an audit log of who pulled what. For registries that are lists of git URLs, “yank” usually means removing the entry from the list, which doesn’t help anyone who already cloned.\n\nThe skills-specific shape worth pointing out is the lack of separation between yank-version, remove-package, and ban-account. Several registries treat all three as one operation: ban a maintainer (manually, or automatically on a malicious publish or comment-scam verdict) and the registry batch-hides every skill they own. A scanner false positive or a stolen-token publish that gets caught therefore takes legitimate work down with it. The package manager world separated these three actions a decade ago for exactly this reason.\n\nCommunity moderation by user report has its own failure mode when the per-user report cap counts only active reports. If hidden skills stop counting, a small number of accounts can hide an unbounded number of skills by recycling the cap as each hide lands. The same trust-graph DoS has shown up in moderated systems for as long as moderated systems have existed; the fix is a one-line answer in code with a much longer answer in incident response.\n\n## The any-repo-is-a-registry pattern\n\nMost loaders accept an arbitrary git URL as a skill source, advertised as the happy path. This collapses every registry-side question above to whatever GitHub gives you, plus the loader’s own trust dialog.\n\nThe loader isn’t claiming to be a registry here; it’s refusing to be one while still acting as one. The trust posture for `install https://github.com/user/skill` is the trust posture for `curl | bash`, except the bash also gets to edit the agent’s instructions for the rest of the session.\n\n## The agent runtime as a registry client\n\nA second set of classes exists because the consumer searching the registry, picking from candidates, and reading the manifest is the agent runtime, not a person. [Under the Hood of SKILL.md](https://arxiv.org/abs/2605.11418) divides this surface into three stages and supplies most of the empirical figures used in the sub-sections that follow: discovery (the registry ranks a skill into the candidate set), selection (the runtime chooses one from the candidates), and governance (the registry’s scanner accepts the artifact in the first place). None apply to a package registry whose only client is a human.\n\n### Discovery\n\nSeveral skills registries rank by an embedding index that mixes the manifest, the markdown body, and the contents of every file in the skill directory. The agent runtime is one of the consumers of that index: it can call `search` and `install` as ordinary tools without going through the user.\n\nA skill author who fills helper files with on-topic prose ranks for queries the manifest never describes, which is the [GASLITE](https://arxiv.org/abs/2412.20953) corpus-insertion attack against dense retrievers playing out as a registry-search ranking attack. Short adversarial triggers appended to the manifest are enough to move an unrelated skill into the top-ten for a target query in the majority of cases studied. Ranking by raw install count, where install counts are inflated by anonymous downloads keyed on a header the publisher controls, has the same shape. Document which fields contribute to the search vector, whether auxiliary file contents are folded in, and what (if anything) the deduplication and popularity signals do.\n\n### Selection\n\nOnce the candidate list is in front of the runtime, the model selects from it based on the description field, and the rate at which it selects an adversarial variant of an existing skill is well above the random-choice baseline. A description with directive language, a recency signal, exaggerated capability framing, or a trustworthiness phrase like “officially verified” is selected more often than a functionally-equivalent skill with a plainer one. The same paper reports an average rate of 77.6% for adversarial variants over equivalent originals across four models, with the largest model in the test above 80%.\n\nEstablish what the loader does with the description before it joins the prompt: whether the user sees it, whether obvious framing tells like “verified” or “official” have any meaning beyond being words a publisher chose to type, and whether ranking ties are broken in a way the publisher can influence.\n\n### Governance\n\nSkill manifests are partly natural-language instructions, and any scanner that processes them has to operate over what those instructions mean. Several patterns reliably defeat the LLM-based reviewer:\n\n  - Truncation past the input limit. A reviewer that processes the first ten thousand characters of the manifest is one where the malicious instruction goes at character ten thousand and one. One published study reports this as the strongest single evasion, with the majority of malicious variants returning a clean verdict when the payload sits past the truncation window.\n\n  - Paraphrase. Substitute the words the regex layer keys on with benign synonyms that the LLM reviewer no longer treats as instructions, while the runtime that loads the skill later still acts on them.\n\n  - Decomposition. Reframe the malicious action as a multi-step completion checklist (a “definition of done”). Each step on its own is routine; the combined effect is the original payload.\n\n  - Jailbreak the reviewer. Append a prompt directed at the reviewer asking for a clean verdict, in the same shape as the older DAN-style attacks on safety classifiers.\n\nAll four share the same scanner-blindness shape: a check that runs on text alone, on code alone, or on the first N characters of either can be defeated by moving the load-bearing content across whichever boundary the check is keyed on. The adjacent question is what the registry does with a “suspicious” verdict that isn’t quite “malicious”: block the publish, surface a warning, or ship the skill with a flag set in a field nothing user-facing reads.\n\n## The loader’s own supply chain\n\nThe agent harness loading the skills is itself a package with dependencies, usually from one of the package managers whose `install` it later runs on behalf of a skill: npm CLIs that are themselves npm packages, Python tools that vendor their own pip dependencies. A compromised dependency in the harness is code execution inside the thing that mediates every skill load and holds every approved tool grant. The questions in this section apply to the harness’s own manifest, on top of every package-manager design question that applies to the harness’s own dependency tree.\n\n## The markdown CVE\n\nA CVE against a specific skill will be filed at some point soon, the way one was filed against the malicious `[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)` release in 2018. The existing vulnerability-management stack is not set up for it. None of the skills registries have a [PURL type](https://github.com/package-url/purl-spec) registered, so there’s no canonical identifier the SBOMs, OSV feeds, and Dependabot-style scanners use to match against installed skills. The artifact itself is prose, not code, so the version-and-hash tracking that anchors the rest of the stack works at the file level but not at the semantic level: a paraphrased payload produces a different sha256 but the same vulnerability.\n\nCVEs against a registry’s design properties (slug-reservation policy, lockfile format, cooldown defaults) sit even further outside the catalogue, the same way they do for npm or PyPI. Zero CVEs is what “the registry’s design is working as documented” looks like in this record.\n\nPackage registries eventually produced npm’s [threats and mitigations](https://docs.npmjs.com/threats-and-mitigations) page and the OpenSSF [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security), both written by the people running the registries themselves. The skills side has plenty of related material from elsewhere, none of it from inside the loaders or registries: scanner-vendor attack catalogues like Snyk’s [ToxicSkills](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/), academic empirical and taxonomy studies like [Agent Skills in the Wild](https://arxiv.org/abs/2601.10338) and [Towards Secure Agent Skills](https://arxiv.org/abs/2604.02837), and community control lists like the [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/).",
+        "url": "https://nesbitt.io/2026/06/03/skills-registry-threat-models.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Database"
+        ],
+        "published_at": "2026-06-03T15:00:00.000Z",
+        "reading_time": 22,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A survey of inlining heuristics",
+        "summary": "Compilers, especially method just-in-time compilers, operate on one function at\na time. It is a natural code unit size, especially for a dynamic language JIT:\nat a given point in time, what more infor",
+        "content": "Compilers, especially method just-in-time compilers, operate on one function at\na time. It is a natural code unit size, especially for a dynamic language JIT:\nat a given point in time, what more information can you gather about other\nparts of a running, changing system?\n\nI don’t have any data to back this up—maybe I should go gather some—but on\naverage, methods are small. Especially in languages such as Ruby that use\nmethod dispatch for everything, even instance variable (attribute, field, …)\nlookups, they are *small*. And everywhere.\n\nThis makes the compiler sad. If we are to continue to anthropomorphize them,\ncompilers like having more context so they can optimize better. Consider the\nfollowing silly-looking example that is actually representative of a surprising\namount of real-world code:\n\n```\nclass Point\n  attr_reader :x, :y\n\n  def initialize(x, y)\n    @x = x\n    @y = y\n  end\n\n  def distance(other)\n    Math.sqrt((@x - other.x)**2 + (@y - other.y)**2)\n  end\nend\n\ndef distance_from_origin(x, y)\n  Point.new(x, y).distance(Point.new(0, 0))\nend\n\n```\n\nRight now, in the `distance_from_origin` method, I count 8 different method calls:\n\n  - `Point.new`\n\n  - `Point#initialize`\n\n  - `Point.new`\n\n  - `Point#initialize`\n\n  - `Point#distance`\n\n  - `Float#**`\n\n  - `Float#**`\n\n  - `Math.sqrt`\n\n(Technically more, but the ivar lookups (including `attr_reader`!), addition,\nand subtraction are generally specialized and don’t push a frame, even in the\ninterpreter.)\n\nFurthermore, there are at least two heap allocations: one for each `Point`\ninstance.\n\nLast, there is a bunch of memory traffic to and from `Point` instances.\n\nThis all is a huge bummer! What should be a simple math operation is now\noverwhelmed with a bunch of other stuff. `Point` is certainly not a zero-cost\nabstraction.\n\nEven if we had a bunch of other optimizations such as load-store elimination or\nescape analysis, they would not be able to do much: pretty much everything\nescapes and is effectful. That is, unless we *inline*. Inlining is the lever\nthat enables a bunch of other optimization passes to kick in.\n\n## Inlining: the “easy” part\n\nI wrote about the design and implementation of Cinder’s inliner ([FB\nlink](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/),\n[personal blog link](https://bernsteinbear.com/blog/cinder-jit-inliner/)) a couple of years ago. I wrote\nabout arguably the simplest part, which is copying the callee body into the\ncaller. It took me at least a week to get working. Probably closer to months if\nyou consider all the plumbing through the rest of the JIT. In February during a\nsmall hackathon, I watched my colleague [k0kubun](https://github.com/k0kubun)\nprototype that bit of the inliner inside ZJIT in about 30 minutes.\n\nThere is more to do when pretty much every part of the VM is observable from\nthe guest language: both Python and Ruby allow inspecting the state of the\nlocals, the call stack, etc from user code. Sampling profilers also expect some\namount of breadcrumbs to work with to inspect the stack. So there’s some more\nmachinery still required to pretend like the callee function was not inlined. I\ntalk about this a little bit in the Cinder blog post.\n\nEven so, all of that can probably be designed and wired together in a couple\nof months. Then you will find yourself tuning the inliner for the next 10\nyears. This is much harder.\n\n## When: the harder part\n\nThe thing that makes inlining difficult, especially in a method JIT, is that\nyou are trying to make an entire (dynamic!) system faster but you are only\nlooking through a microscope and only capable of local reasoning[1](#fn:aot-split).\nWhereas other optimizations such as strength reduction, inline caches, and\nvalue numbering are an un-alloyed good for the generated code, inlining can\nhave *negative effects*. It is also perhaps the first optimization people add\nthat has non-local impact.\n\nIf you inline wrong, your code size might blow up. This might thrash your CPU’s\ncaches. Bummer, but happens to the best of us.\n\nBut also, if you inline wrong, you might get in the way of other helpful\noptimizations: if you hit some size limit after inlining method A, you might\nnever get to inline B, which is the key to unlocking the performance of the\nmethod you are trying to optimize.\n\nLast, inlining might hurt compile time. In situations where latency is\nparamount (think: interactive client JavaScript), adding tons more code into\nthe fray might add noticeable hiccups, even if the long-term throughput\nimproves. As always, in-band compilation is a trade-off because any time you\nspend compiling, you are *not executing code*.\n\nYou have to write your compiler to reason about all of this stuff. So you have\nheuristics. For example, here is Michael Pollan’s inliner heuristic:\n\n> *Inline methods. Mostly small. Not too many.*\n\nI did a survey of a bunch of compilers, mostly JIT compilers, to see what their\ninlining heuristics look like. I also read (skimmed) some papers to see what\nthose folks had to say. I wonder if they agree.\n\nThis post was a long time coming. I started working on it about five years ago\nbut then when I quit working at Facebook I accidentally left behind all of the\ninliner research I did for Cinder’s inliner. So then I kind of just thought\nabout it aimlessly for a while before redoing it this year. Anyway, here’s\nwonderwall.\n\n## The heuristics\n\nSpoiler alert: all in all, people tend to look at:\n\n  - Profiles of call target\n\n  - Cumulative caller size (increasing as callees get inlined)\n\n  - Callee size\n\n  - Inline depth\n\n  - Number of inlined calls at a certain depth\n\n  - If recursion is present\n\n  - Callee/caller call count ratio (if callee only called less than K% of calls\nto caller, don’t inline callee)\n\n  - Callee stack usage\n\n  - Polymorphism in callee\n\n  - What mode the compiler is in (baseline vs more aggressive)\n\n  - If the callee looks like it always raises/throws\n\nAnd also have different interesting ways to pipe in profile information.\n\nLast, some newer papers do some wild stuff:\n\n  - Train neural networks to make inlining decisions\n\n  - Let inlining drive the entire optimization pipeline, treating it as a search\nheuristic over a BFS walk of the call graph\n\n  - Use AOT-gathered information to aid in JIT heuristics\n\nAnother thing to consider in inlining is how you gather and interpret profiles.\n\n## Call context and profiles: the other harder part\n\nWhen you compile a function, you tend to specialize it based on the input it\nhas historically been given. For a monomorphic input, maybe you guard that the\ntype is still the same and otherwise jump into the interpreter. For a\npolymorphic input, maybe you check the top K (~4) common cases and otherwise\njump into the interpreter. Fine.\n\nBut sometimes you can be compiling a polymorphic method `bar` that is actually\nmonomorphic in its caller `foo`. That is, `foo` might only ever pass one kind\nof input to `bar`, but other callers pass all kinds of stuff. Here is a bit of\na silly example to show what I mean:\n\n```\nclass HashWithIndifferentAccess\n  def initialize\n    @hash = {}\n  end\n\n  # Allow reading from the Hash with either a String or a Symbol\n  def [](key) = @hash[key.to_sym]\n\n  # ...\nend\n\n# some method...\nsome_hash = HashWithIndifferentAccess.new\n# ...\nsome_hash[\"abc\"]\n\n# some other method...\nanother_hash = HashWithIndifferentAccess.new\n# ...\nanother_hash[:xyz]\n\n```\n\nJust kidding, not so silly at all. It’s a super common pattern [in\nRails](https://github.com/rails/rails/blob/6c75e6d5663afa4278ee593c2d6c20c1ee396e32/activesupport/lib/active_support/hash_with_indifferent_access.rb#L55). It makes `key` polymorphic in `HashWithIndifferentAccess#[]` even\nthough for many of its callers, it may well be monomorphic (or even a\nconstant).\n\nIn order to plumb this information through to the compiler, you have to figure\nout this call context relationship. There are a couple of common ways to do it.\n\n### Splitting\n\nYJIT, for example, though it does not inline, splits methods based on the types\nof the arguments going in. This means that it clones the compiled code,\ngenerating a new version for each context. This does not give *call* context\n(“A calls B”) but gives type context (“B is called with integers, B’ is called\nwith strings”).\n\nA compiler could do type-based splitting in the interpreter or a baseline tier.\n\n### Profile splitting\n\nIf you don’t fancy duplicating the code, you can instead duplicate the\nprofiles. You could either do this using type context (as above) or using call\ncontext. SpiderMonkey, for example, does “trial inlining” that allows callers\nto pass down a bit of memory for potential inline candidate callees to record\ntheir inline caches. Instead of each function holding its own ICScript, the\ncaller allocates a unique ICScript for that potential-inline call-site. This\ngives each callee function (at least?) one level of call context.\n\nLater, when inlining the callee into the caller, we don’t have other callers’\ntype information polluting the IR builder (or whatever reads the profiles).\n\n### Bytecode inlining\n\nJavaScriptCore handles this by inlining bytecode into other bytecode. This is a\ngnarly transformation but gives the interpreter, even (!) access to call\ncontext. On tier-up to the compiler, all the inlining decisions have been made\nalready.\n\n### Early tier with counters\n\nHotSpot handles this with multiple tiers. The interpreter tiers up to the\nclient compiler, C1. C1 profiles branch and call targets in compiled code. C1\nmay eventually recompile based on this new information. C1 may eventually tier\nup to C2, which copies C1 inlining decisions. This way, we get call context in\nprofiles via inlining.\n\n### Inline and analyze and hope\n\nOne last thing you could do is just trust your type inference and branch\nfolding in the optimizer. You could inline and do polymorphic specialization in\nthe callee when building the IR, then hope that your branch pruning\nmonomorphizes the inlined callee. It’s a little wasteful because the\npolymorphic code is built “for nothing”, but it might work fine?\n\nOkay, onto the collected notes and half-baked commentary. Here’s a survey of a\nbunch of JIT compilers and how they reason about inlining heuristics.\n\n### Thanks\n\nBut before we get into that, thanks to Iain Ireland, CF Bolz-Tereick, and Ian\nRogers for feedback on this blog post!\n\n## The survey: bits and bobbles\n\nWhat follows is mostly a “bits and bobbles” section a la [Phil\nZucker](https://www.philipzucker.com/).\n\nWe’ll start with [Cinder](https://github.com/facebookincubator/cinderx), because when I wrote Cinder’s inliner I\nadded only the simplest heuristics, mostly “don’t inline” signals. Over time,\nafter I left, people tuned it a bit more.\n\n### Cinder\n\nThe [inliner](https://github.com/facebookincubator/cinderx/blob/88189ebf4bfd196ac7578c5076efa39bfa11f211/cinderx/Jit/hir/inliner.cpp#L341) starts from the caller CFG, walking it to find\nsuitable inlining candidates. Inlining candidates are only for call targets\nthat are known—in Cinder’s case, only for monomorphic call targets—and pass\nsome checks. The callee is only known by it’s function object, which includes\nits bytecode. There is no IR available for the callee until we decide to inline.\n\nMost of the “can’t handle this” checks are related to argument handling. Python\nhas a pretty complex calling convention, so if the caller/callee have not\nagreed on how the arguments should be passed through, the inliner doesn’t care\nto try and figure it out on its own. That is the responsibility of [other parts\nof the compiler](https://github.com/facebookincubator/cinderx/blob/88189ebf4bfd196ac7578c5076efa39bfa11f211/cinderx/Jit/hir/simplify.cpp#L1765). Things in this `canInline`\nfunction could be considered “TODO”.\n\n```\nbool canInline(Function& caller, AbstractCall* call_instr) {\n  // ...\n  BorrowedRef<PyFunctionObject> func = call_instr->func;\n  auto fail = [&](InlineFailureType failure_type) {\n    dlogAndCollectFailureStats(caller, call_instr, failure_type);\n    return false;\n  };\n\n  if (func->func_kwdefaults != nullptr) {\n    return fail(InlineFailureType::kHasKwdefaults);\n  }\n\n  BorrowedRef<PyCodeObject> code{func->func_code};\n  JIT_CHECK(PyCode_Check(code), \"Expected PyCodeObject\");\n\n  if (code->co_kwonlyargcount > 0) {\n    return fail(InlineFailureType::kHasKwOnlyArgs);\n  }\n  // ...\n}\n\n```\n\nFailures are logged so they can be analyzed. If the Cinder team determines that\nthere is some very frequent case they should handle, they will find out from\nthe logs.\n\nThe inliner collects all candidate call instructions in one pass over the CFG.\nIt loads the configurable “cost limit” from the options struct. Then it does\none pass over the inlining candidates vector, inlining until it (maybe) hits\nthe cost limit.\n\n```\n// ...\nsize_t cost_limit = getConfig().inliner_cost_limit;\nsize_t cost = codeCost(irfunc.code);\n\n// Inline as many calls as possible, starting from the top of the function and\n// working down.\nfor (auto& call : to_inline) {\n  BorrowedRef<PyCodeObject> call_code{call.func->func_code};\n  size_t new_cost = cost + codeCost(call_code);\n  if (new_cost > cost_limit) {\n    LOG_INLINER(\n        \"Inliner reached cost limit of {} when trying to inline {} into {}, \"\n        \"inlining stopping early\",\n        new_cost,\n        funcFullname(call.func),\n        irfunc.fullname);\n    break;\n  }\n  cost = new_cost;\n\n  inlineFunctionCall(irfunc, &call);\n\n  // We need to reflow types after every inline to propagate new type\n  // information from the callee.\n  reflowTypes(irfunc);\n}\n// ...\n\n```\n\nIt does some graph maintenance work after inlining these calls, but that’s it.\n\nThis approach gets a surprising amount of utility for being so simple: it\ninlines constants (quite a few methods look like `def foo(): return 5`), small\nmethods, and (at least, as far as I can remember) shrinks the compiled code\nsize. All for very little compile time overhead.\n\nThere’s one other “standalone” Python JIT out there, PyPy. So we should look at\nthat too.\n\n### PyPy\n\nThere are two inliners in PyPy. One is inside the RPython to C translation\npipeline, which acts more like an ahead-of-time compiler[2](#fn:rpython-inliner).\nThen there is the tracing JIT bit, which has its own optimizer and heuristics.\nWe’re going to look at the latter.\n\nI talked to [CF Bolz-Tereick](https://cfbolz.de/) about the inliner and their\ncomment was that PyPy’s inlining heuristic is “yes”. There are a couple of\nexceptions, such as not inlining recursive functions or functions with loops.\nBut the basic idea of tracing includes tracing through call instructions, which\nnaturally means that you are “inlining”.\n\nPyPy also does this neat thing where they treat frame pushes like normal\nallocation. Frame pushes, frame reads, and frame writes get written to the\ntrace like normal object memory traffic and can get optimized away like other\nfield reads and writes. This means that they can “just” use DCE to eliminate\nframe pushes and pops, whereas Cinder has some complicated mechanism to do it\n(which is my fault).\n\nTODO get more details here\n\n### V8\n\nV8 is a JS engine and it has over the years had many execution approaches.\nWe’ll look at three of them since they all have or had their place in the\nhistory:\n\n  - Hydrogen was the first real SSA IR and it looks very familiar to me, having\nworked on Cinder and now ZJIT. It is now defunct.\n\n  - Turbofan was the replacement, going full Sea of Nodes. In the grand scheme of\nthings it is a pretty fast compiler, but it does not hold back from doing some\nexpensive rewrites. This was recently rewritten from Sea of Nodes to a mode\ntraditional CFG and nicknamed Turboshaft.\n\n  - Maglev is meant to coexist alongside Turbofan, preferring to speculate a little\nmore eagerly and do fewer incremental rewrites in the name of compile\ntime.[3](#fn:turbolev)\n\nThey also each inline at different times in the pipeline, which made for a fun\ntime trying to understand the different codebases.\n\n#### V8 Hydrogen\n\nInlining happens during Hydrogen graph building\n\n  - [https://github.com/tekknolagi/v8/blob/a969ab67f8e1e7475d9b26468225c3a772890c64/src/crankshaft/hydrogen.cc#L9236](https://github.com/tekknolagi/v8/blob/a969ab67f8e1e7475d9b26468225c3a772890c64/src/crankshaft/hydrogen.cc#L9236)\n\nDon’t store function bytecode of all functions; need to re-parse callee *text\nsource* to inline\n\nHeuristics [https://github.com/tekknolagi/v8/blob/a969ab67f8e1e7475d9b26468225c3a772890c64/src/crankshaft/hydrogen.cc#L7807](https://github.com/tekknolagi/v8/blob/a969ab67f8e1e7475d9b26468225c3a772890c64/src/crankshaft/hydrogen.cc#L7807)\n\n  - something about native context\n\n  - check callee AST size against configurable limit\n\n  - check inlining depth against configurable limit\n\n  - don’t inline recursive functions\n\n  - check current cumulative method size (as tracked by AST node count) against\nconfigurable limit\n\n#### V8 TurboFan\n\n[https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8/edit](https://docs.google.com/document/d/1VoYBhpDhJC4VlqMXCKvae-8IGuheBGxy32EOgC2LnT8/edit)\n\n[https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.h#L14](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.h#L14)\n\n  - Find candidates [https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L134](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L134)\n\n  - Can inline [https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L75](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L75)\n\n  - Force inline small functions [https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L309](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L309)\n\n  - Loop over sorted (by comparator) list [https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L847](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/compiler/js-inlining-heuristic.cc#L847)\n\n#### V8 Maglev\n\nWhen optimizing, add call instructions to the inline candidates list: [https://github.com/v8/v8/blob/1a391f98cc7a9196369f2d6cab7df35ffbe92c08/src/maglev/maglev-graph-optimizer.cc#L1271](https://github.com/v8/v8/blob/1a391f98cc7a9196369f2d6cab7df35ffbe92c08/src/maglev/maglev-graph-optimizer.cc#L1271)\n\n```\nProcessResult MaglevGraphOptimizer::VisitCall(Call* node,\n                                              const ProcessingState& state) {\n  // ...\n  int bytecode_length = shared.GetBytecodeArray(broker()).length();\n  float score =\n      (call_frequency / bytecode_length) * (loop_depth_ > 0 ? 1.5 : 1.0);\n\n  bool is_small_function =\n      bytecode_length <\n      reducer_.graph()->compilation_info()->flags().max_eager_inlined_bytecode;\n  // ...\n  MaglevCallSiteInfo* call_site = reducer_.zone()->New<MaglevCallSiteInfo>(\n      MaglevCallerDetails{\n          ...\n          is_small_function, call_frequency,\n          ...\n      },\n      score, bytecode_length);\n  reducer_.PushInlineCandidate(call_site);\n  // ...\n}\n\n```\n\n[https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/maglev/maglev-inlining.h#L36](https://github.com/v8/v8/blob/036842f4841326130a40adfcff38f85a9b4cd30a/src/maglev/maglev-inlining.h#L36)\n\nUnlike for example Cinder, Maglev looks like it does not have a lot of\nrestrictions about what can get inlined into what, so its “can inline” signal\nis about budget. Actually two budgets: small budget and normal budget.\n\n```\nbool MaglevInliner::CanInlineCall() {\n  // We stop inlining entirely if the small budget is exhausted.\n  // Inlining decisions after that become bad if we stop inlining small\n  // functions, but keep inlining large ones.\n  return !graph_->inlineable_calls().empty() &&\n         (graph_->total_inlined_bytecode_size() <\n              max_inlined_bytecode_size_cumulative() ||\n          graph_->total_inlined_bytecode_size_small() <\n              max_inlined_bytecode_size_small_total());\n}\n\n```\n\nThen its inlining loop is a greedy walk of the to-inline queue checking\ncandidate sizes.\n\n```\nbool MaglevInliner::InlineCallSites() {\n  DCHECK(CanInlineCall());\n  while (!graph_->inlineable_calls().empty()) {\n    // pop from inlineable_calls\n    MaglevCallSiteInfo* call_site = ChooseNextCallSite();\n\n    bool is_small_with_heapnum_input_outputs =\n        IsSmallWithHeapNumberInputsOutputs(call_site);\n\n    if (graph_->total_inlined_bytecode_size() >\n        max_inlined_bytecode_size_cumulative()) {\n      // We ran out of budget. Checking if this is a small-ish function that we\n      // can still inline.\n      if (graph_->total_inlined_bytecode_size_small() >\n          max_inlined_bytecode_size_small_total()) {\n        graph_->compilation_info()->set_could_not_inline_all_candidates();\n        break;\n      }\n\n      if (!is_small_with_heapnum_input_outputs) {\n        graph_->compilation_info()->set_could_not_inline_all_candidates();\n        // Not that we don't break just rather just continue: next candidates\n        // might be inlineable.\n        continue;\n      }\n    }\n\n    InliningResult result =\n        BuildInlineFunction(call_site, is_small_with_heapnum_input_outputs);\n    // ...\n  }\n  return true;\n}\n\n```\n\nIt runs this loop (which drains the queue) interleaved with the optimizer\n(which populates the queue).\n\n```\nbool MaglevInliner::Run() {\n  if (graph_->inlineable_calls().empty()) return true;\n\n  while (CanInlineCall()) {\n    if (!InlineCallSites()) return false;\n    RunOptimizer();\n  }\n  // ...\n}\n\n```\n\nConfusingly, though, the optimizer also calls another function called\n`CanInlineCall` which checks if it legally can inline:\n\n  - skip recursion\n\n  - [https://github.com/v8/v8/blob/1a391f98cc7a9196369f2d6cab7df35ffbe92c08/src/objects/shared-function-info-inl.h#L421](https://github.com/v8/v8/blob/1a391f98cc7a9196369f2d6cab7df35ffbe92c08/src/objects/shared-function-info-inl.h#L421)\n\n  - not called enough (min call frequency)\n\n  - bytecode too big\n\n`bool MaglevGraphBuilder::ShouldEagerInlineCall(` appears unused? / dead\ndeclaration? maybe src/maglev/maglev-graph-builder.cc is just not working on\ngithub search\n\n`MaybeReduceResult MaglevGraphBuilder::TryBuildCallKnownJSFunction(` also\nunused / dead declaration same\n\n### JavaScriptCore\n\nJavaScriptCore is funky! Unlike these other compilers that do inlining in their\nneat little SSA IRs, JSC inlines *at the bytecode level*[4](#fn:fil). This is their way of\nmaking sure that they get at least one level of call context into their\ninterpreter inline caches, which will eventually give better information to the\ncompiler.\n\n  - Bytecode inlining\n    \n      [https://github.com/WebKit/WebKit/blob/709c3895afd71e0836f8c8be7393e44d41fab7e1/Source/JavaScriptCore/bytecode/CodeBlock.cpp#L2453](https://github.com/WebKit/WebKit/blob/709c3895afd71e0836f8c8be7393e44d41fab7e1/Source/JavaScriptCore/bytecode/CodeBlock.cpp#L2453)\n\n    \n\n  \n  - DFG\n    \n      [https://github.com/WebKit/WebKit/blob/709c3895afd71e0836f8c8be7393e44d41fab7e1/Source/JavaScriptCore/dfg/DFGCapabilities.cpp#L76](https://github.com/WebKit/WebKit/blob/709c3895afd71e0836f8c8be7393e44d41fab7e1/Source/JavaScriptCore/dfg/DFGCapabilities.cpp#L76)\n\n      - [https://github.com/WebKit/WebKit/blob/917854a9c245b87b333e23ed4b195505d574a333/Source/JavaScriptCore/dfg/DFGByteCodeParser.cpp#L1703](https://github.com/WebKit/WebKit/blob/917854a9c245b87b333e23ed4b195505d574a333/Source/JavaScriptCore/dfg/DFGByteCodeParser.cpp#L1703)\n\n      - [https://github.com/WebKit/WebKit/blob/917854a9c245b87b333e23ed4b195505d574a333/Source/JavaScriptCore/bytecode/CallLinkStatus.cpp#L294](https://github.com/WebKit/WebKit/blob/917854a9c245b87b333e23ed4b195505d574a333/Source/JavaScriptCore/bytecode/CallLinkStatus.cpp#L294)\n\n      - [https://github.com/WebKit/WebKit/blob/d919344236c47b610930636d3310f00380624d43/Source/JavaScriptCore/bytecode/InlineCallFrame.h](https://github.com/WebKit/WebKit/blob/d919344236c47b610930636d3310f00380624d43/Source/JavaScriptCore/bytecode/InlineCallFrame.h)\n\n    \n\n  \n\nJSC only inlines based on bytecode profile information, and only inlines\nbytecode??\n\nTODO find better sources for bytecode inlining\n\n### SpiderMonkey\n\nSpiderMonkey has another way of getting that call contet without doing bytecode\ninlining: they add call context to their inline caches. Methods can pass down\nan *ICScript* to their callees where the callee writes its inline cache\ninformation. Then, when compiling, the callee is more likely to be\nmonomorphized.\n\nWasm\n\n[https://github.com/mozilla-firefox/firefox/blob/438a3ce10eb77fb50d968463b7741117aec5bb4a/js/src/wasm/WasmHeuristics.h#L213](https://github.com/mozilla-firefox/firefox/blob/438a3ce10eb77fb50d968463b7741117aec5bb4a/js/src/wasm/WasmHeuristics.h#L213)\n\nSpiderMonkey ICScript\n\n### Wasmtime and Cranelift\n\n[https://fitzgen.com/2025/11/19/inliner.html](https://fitzgen.com/2025/11/19/inliner.html)\n\n### HotSpot\n\nPlan: run in interpreter; tier up to C1; profile call targets; inline in C1;\nprofile branch counts; tier up to C2, which copies C1 inlining decisions in\nbytecode parser\n\nHotSpot C2\n\n[https://github.com/openjdk/jdk/blob/a05d5d2514c835f2bfeaf7a8c7df0ac241f0177f/src/hotspot/share/opto/bytecodeInfo.cpp#L116](https://github.com/openjdk/jdk/blob/a05d5d2514c835f2bfeaf7a8c7df0ac241f0177f/src/hotspot/share/opto/bytecodeInfo.cpp#L116)\n\n[https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/bytecodeInfo.cpp#L197](https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/bytecodeInfo.cpp#L197)\n\n[https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/parse.hpp#L42](https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/parse.hpp#L42)\n\n[https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/doCall.cpp#L185](https://github.com/openjdk/jdk/blob/497dca2549a9829530670576115bf4b8fab386b3/src/hotspot/share/opto/doCall.cpp#L185)\n\nNot too small\n\nWalk up the call stack to figure out what to compile\n\nHandling the right thing to inline: def foo(a) = a.each {|x| x }\nwant to compile `foo`, inline each, inline block, not compile block separately\n(probably)\n\nHotSpot C1\n\n[https://bernsteinbear.com/assets/img/design-hotspot-client-compiler.pdf](https://bernsteinbear.com/assets/img/design-hotspot-client-compiler.pdf)\n\n[https://github.com/openjdk/jdk/blob/d854a04231a437a6af36ae65780961f40f336343/src/hotspot/share/c1/c1_GraphBuilder.cpp#L755](https://github.com/openjdk/jdk/blob/d854a04231a437a6af36ae65780961f40f336343/src/hotspot/share/c1/c1_GraphBuilder.cpp#L755)\n\n[https://github.com/openjdk/jdk/blob/d854a04231a437a6af36ae65780961f40f336343/src/hotspot/share/c1/c1_GraphBuilder.cpp#L3854](https://github.com/openjdk/jdk/blob/d854a04231a437a6af36ae65780961f40f336343/src/hotspot/share/c1/c1_GraphBuilder.cpp#L3854)\n\n  - skip callees with exception handlers (unless explicitly allowed with a CLI flag)\n\n  - skip synchronized callees (unless explicitly allowed with a CLI flag)\n\n  - skip classes with unlinked callees\n\n  - skip uninitialized classes\n\n  - …\n\nheuristics:\n\n  - max inline level (default 9)\n\n  - max recursive inline level (default 1)\n\n  - callee bytecode size (max for top level is 35 bytecodes, but falls off by 10% per inline level)\n\n  - callee stack usage (max of 10 slots)\n    \n```\n      // Additional condition to limit stack usage for non-recursive calls.\n      if ((callee_recursive_level == 0) &&\n          (callee->max_stack() + callee->max_locals() - callee->size_of_parameters() > C1InlineStackLimit)) {\n        INLINE_BAILOUT(\"callee uses too much stack\");\n      }\n\n```\n\n  \n\n  - max total method size (default 8000 bytecodes)\n\n### TruffleRuby\n\nTruffleRuby uses weighted compile queue\n\nGraal\n[https://ieeexplore.ieee.org/document/8661171](https://ieeexplore.ieee.org/document/8661171)\n\n### .NET\n\n[https://github.com/dotnet/runtime/blob/2d638dc1179164a08d9387cbe6354fe2b7e4d823/docs/design/coreclr/jit/inlining-plans.md](https://github.com/dotnet/runtime/blob/2d638dc1179164a08d9387cbe6354fe2b7e4d823/docs/design/coreclr/jit/inlining-plans.md)\n\n[https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/inline.def#L94](https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/inline.def#L94)\n\n[https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/inlinepolicy.cpp](https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/inlinepolicy.cpp)\n\n[https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/docs/design/coreclr/jit/inline-size-estimates.md?plain=1#L5](https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/docs/design/coreclr/jit/inline-size-estimates.md?plain=1#L5)\n[https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/fginline.cpp](https://github.com/dotnet/runtime/blob/0b3f3ab1ecf4de06459e5f0e2b7cb3baf70ef981/src/coreclr/jit/fginline.cpp)\n\n[https://github.com/dotnet/runtime/issues/10303](https://github.com/dotnet/runtime/issues/10303)\n\n[https://github.com/AndyAyersMS/PerformanceExplorer/blob/master/notes/notes-aug-2016.md](https://github.com/AndyAyersMS/PerformanceExplorer/blob/master/notes/notes-aug-2016.md)\n\n### Dart\n\n[https://github.com/dart-lang/sdk/blob/391212f3da8cc0790fc532d367549042216bd5ca/runtime/vm/compiler/backend/inliner.cc#L49](https://github.com/dart-lang/sdk/blob/391212f3da8cc0790fc532d367549042216bd5ca/runtime/vm/compiler/backend/inliner.cc#L49)\n\n[https://github.com/dart-lang/sdk/blob/391212f3da8cc0790fc532d367549042216bd5ca/runtime/vm/compiler/backend/inliner.cc#L1023](https://github.com/dart-lang/sdk/blob/391212f3da8cc0790fc532d367549042216bd5ca/runtime/vm/compiler/backend/inliner.cc#L1023)\n\n[https://web.archive.org/web/20170830093403id_/https://link.springer.com/content/pdf/10.1007/978-3-540-78791-4_5.pdf](https://web.archive.org/web/20170830093403id_/https://link.springer.com/content/pdf/10.1007/978-3-540-78791-4_5.pdf)\n\n```\nDEFINE_FLAG(int,\n            deoptimization_counter_inlining_threshold,\n            12,\n            \"How many times we allow deoptimization before we stop inlining.\");\nDEFINE_FLAG(bool, trace_inlining, false, \"Trace inlining\");\nDEFINE_FLAG(charp, inlining_filter, nullptr, \"Inline only in named function\");\n\n// Flags for inlining heuristics.\nDEFINE_FLAG(int,\n            inline_getters_setters_smaller_than,\n            10,\n            \"Always inline getters and setters that have fewer instructions\");\nDEFINE_FLAG(int,\n            inlining_depth_threshold,\n            6,\n            \"Inline function calls up to threshold nesting depth\");\nDEFINE_FLAG(\n    int,\n    inlining_size_threshold,\n    25,\n    \"Always inline functions that have threshold or fewer instructions\");\nDEFINE_FLAG(int,\n            inlining_callee_call_sites_threshold,\n            1,\n            \"Always inline functions containing threshold or fewer calls.\");\nDEFINE_FLAG(int,\n            inlining_callee_size_threshold,\n            160,\n            \"Do not inline callees larger than threshold\");\nDEFINE_FLAG(int,\n            inlining_small_leaf_size_threshold,\n            50,\n            \"Do not inline leaf callees larger than threshold\");\nDEFINE_FLAG(int,\n            inlining_caller_size_threshold,\n            50000,\n            \"Stop inlining once caller reaches the threshold.\");\nDEFINE_FLAG(int,\n            inlining_hotness,\n            10,\n            \"Inline only hotter calls, in percents (0 .. 100); \"\n            \"default 10%: calls above-equal 10% of max-count are inlined.\");\nDEFINE_FLAG(int,\n            inlining_recursion_depth_threshold,\n            1,\n            \"Inline recursive function calls up to threshold recursion depth.\");\nDEFINE_FLAG(int,\n            max_inlined_per_depth,\n            500,\n            \"Max. number of inlined calls per depth\");\n\n```\n\n[An adaptive strategy for inline substitution](https://bernsteinbear.com/assets/img/adaptive-inline.pdf) (PDF)\n\n```\n  // Inlining heuristics based on Cooper et al. 2008.\n  InliningDecision ShouldWeInline(const Function& callee,\n                                  intptr_t instr_count,\n                                  intptr_t call_site_count) {\n    // Pragma or size heuristics.\n    if (inliner_->AlwaysInline(callee)) {\n      return InliningDecision::Yes(\"AlwaysInline\");\n    } else if (inlined_size_ > FLAG_inlining_caller_size_threshold) {\n      // Prevent caller methods becoming humongous and thus slow to compile.\n      return InliningDecision::No(\"--inlining-caller-size-threshold\");\n    } else if (instr_count > FLAG_inlining_callee_size_threshold) {\n      // Prevent inlining of callee methods that exceed certain size.\n      return InliningDecision::No(\"--inlining-callee-size-threshold\");\n    }\n    // Inlining depth.\n    const int callee_inlining_depth = callee.inlining_depth();\n    if (callee_inlining_depth > 0 &&\n        ((callee_inlining_depth + inlining_depth_) >\n         FLAG_inlining_depth_threshold)) {\n      return InliningDecision::No(\"--inlining-depth-threshold\");\n    }\n    // Situation instr_count == 0 denotes no counts have been computed yet.\n    // In that case, we say ok to the early heuristic and come back with the\n    // late heuristic.\n    if (instr_count == 0) {\n      return InliningDecision::Yes(\"need to count first\");\n    } else if (instr_count <= FLAG_inlining_size_threshold) {\n      return InliningDecision::Yes(\"--inlining-size-threshold\");\n    } else if (call_site_count <= FLAG_inlining_callee_call_sites_threshold) {\n      return InliningDecision::Yes(\"--inlining-callee-call-sites-threshold\");\n    }\n    return InliningDecision::No(\"default\");\n  }\n\n```\n\n### HHVM\n\ntracelet based\n\n[https://github.com/facebook/hhvm/blob/eeba7ad1ffa372a9b8cc9d1ec7f5295d45627009/hphp/runtime/vm/jit/inlining-decider.h#L89](https://github.com/facebook/hhvm/blob/eeba7ad1ffa372a9b8cc9d1ec7f5295d45627009/hphp/runtime/vm/jit/inlining-decider.h#L89)\n\n```\n  // Refuse if the cost exceeds our thresholds.\n  // We measure the cost of inlining each callstack and stop when it exceeds a\n  // certain threshold.  (Note that we do not measure the total cost of all the\n  // inlined calls for a given caller---just the cost of each nested stack.)\n  cost = costOfInlining(callerSk, callee, regionAndUnit, annotationsPtr);\n  if (cost <= Cfg::HHIR::AlwaysInlineVasmCostLimit) {\n    return accept(folly::sformat(\"cost={} within always-inline limit\", cost));\n  }\n\n  if (region.instrSize() > irgs.budgetBCInstrs) {\n    return refuse(folly::sformat(\n      \"exhausted bytecode budget: budgetBCInstrs={}, regionSize={}\",\n      irgs.budgetBCInstrs, region.instrSize()));\n  }\n  auto maxTotalCost = adjustedMaxVasmCost(irgs, region, inlineDepth(irgs));\n  int maxCost = maxTotalCost;\n  if (Cfg::HHIR::InliningUseStackedCost) {\n    maxCost -= irgs.inlineState.cost;\n  }\n  const auto baseProfCount = s_baseProfCount.load();\n  const auto callerProfCount = irgen::curProfCount(irgs);\n  const auto calleeProfCount = irgen::calleeProfCount(irgs, region);\n  if (cost > maxCost) {\n    auto const depth = inlineDepth(irgs);\n    return refuse(folly::sformat(\n      \"too expensive: cost={} : maxCost={} : \"\n      \"baseProfCount={} : callerProfCount={} : calleeProfCount={} : depth={}\",\n      cost, maxCost, baseProfCount, callerProfCount, calleeProfCount, depth));\n  }\n\n  return accept(folly::sformat(\"small region with return: cost={} : \"\n                               \"maxTotalCost={} : maxCost={} : baseProfCount={}\"\n                               \" : callerProfCount={} : calleeProfCount={}\",\n                               cost, maxTotalCost, maxCost, baseProfCount,\n                               callerProfCount, calleeProfCount));\n\n```\n\n### ART\n\n[https://github.com/LineageOS/android_art/blob/8ce603e0c68899bdfbc9cd4c50dcc65bbf777982/compiler/optimizing/inliner.h](https://github.com/LineageOS/android_art/blob/8ce603e0c68899bdfbc9cd4c50dcc65bbf777982/compiler/optimizing/inliner.h)\n\n```\n// Instruction limit to control memory.\nstatic constexpr size_t kMaximumNumberOfTotalInstructions = 1024;\n\n// Maximum number of instructions for considering a method small,\n// which we will always try to inline if the other non-instruction limits\n// are not reached.\nstatic constexpr size_t kMaximumNumberOfInstructionsForSmallMethod = 3;\n\n// Limit the number of dex registers that we accumulate while inlining\n// to avoid creating large amount of nested environments.\nstatic constexpr size_t kMaximumNumberOfCumulatedDexRegisters = 32;\n\n// Limit recursive call inlining, which do not benefit from too\n// much inlining compared to code locality.\nstatic constexpr size_t kMaximumNumberOfRecursiveCalls = 4;\n\n// Limit recursive polymorphic call inlining to prevent code bloat, since it can quickly get out of\n// hand in the presence of multiple Wrapper classes. We set this to 0 to disallow polymorphic\n// recursive calls at all.\nstatic constexpr size_t kMaximumNumberOfPolymorphicRecursiveCalls = 0;\n\n// Controls the use of inline caches in AOT mode.\nstatic constexpr bool kUseAOTInlineCaches = true;\n\n// Controls the use of inlining try catches.\nstatic constexpr bool kInlineTryCatches = true;\n\n```\n\n```\nvoid HInliner::UpdateInliningBudget() {\n  if (total_number_of_instructions_ >= kMaximumNumberOfTotalInstructions) {\n    // Always try to inline small methods.\n    inlining_budget_ = kMaximumNumberOfInstructionsForSmallMethod;\n  } else {\n    inlining_budget_ = std::max(\n        kMaximumNumberOfInstructionsForSmallMethod,\n        kMaximumNumberOfTotalInstructions - total_number_of_instructions_);\n  }\n}\n\n```\n\n```\nbool HInliner::IsInliningEncouraged(const HInvoke* invoke_instruction,\n                                    ArtMethod* method,\n                                    const CodeItemDataAccessor& accessor) const {\n  if (CountRecursiveCallsOf(method) > kMaximumNumberOfRecursiveCalls) {\n    LOG_FAIL(stats_, MethodCompilationStat::kNotInlinedRecursiveBudget)\n        << \"Method \"\n        << method->PrettyMethod()\n        << \" is not inlined because it has reached its recursive call budget.\";\n    return false;\n  }\n\n  size_t inline_max_code_units = codegen_->GetCompilerOptions().GetInlineMaxCodeUnits();\n  if (accessor.InsnsSizeInCodeUnits() > inline_max_code_units) {\n    LOG_FAIL(stats_, MethodCompilationStat::kNotInlinedCodeItem)\n        << \"Method \" << method->PrettyMethod()\n        << \" is not inlined because its code item is too big: \"\n        << accessor.InsnsSizeInCodeUnits()\n        << \" > \"\n        << inline_max_code_units;\n    return false;\n  }\n\n  if (graph_->IsCompilingBaseline() &&\n      accessor.InsnsSizeInCodeUnits() > CompilerOptions::kBaselineInlineMaxCodeUnits) {\n    LOG_FAIL_NO_STAT() << \"Reached baseline maximum code unit for inlining  \"\n                       << method->PrettyMethod();\n    outermost_graph_->SetUsefulOptimizing();\n    return false;\n  }\n\n  if (invoke_instruction->GetBlock()->GetLastInstruction()->IsThrow()) {\n    LOG_FAIL(stats_, MethodCompilationStat::kNotInlinedEndsWithThrow)\n        << \"Method \" << method->PrettyMethod()\n        << \" is not inlined because its block ends with a throw\";\n    return false;\n  }\n\n  return true;\n}\n\n```\n\n```\nif (outermost_graph_->IsCompilingBaseline() &&\n    (current->IsInvokeVirtual() || current->IsInvokeInterface()) &&\n    ProfilingInfoBuilder::IsInlineCacheUseful(current->AsInvoke(), codegen_)) {\n  uint32_t maximum_inlining_depth_for_baseline =\n      InlineCache::MaxDexPcEncodingDepth(\n          outermost_graph_->GetArtMethod(),\n          codegen_->GetCompilerOptions().GetInlineMaxCodeUnits());\n  if (depth_ + 1 > maximum_inlining_depth_for_baseline) {\n    LOG_FAIL_NO_STAT() << \"Reached maximum depth for inlining in baseline compilation: \"\n                       << depth_ << \" for \" << callee_graph->GetArtMethod()->PrettyMethod();\n    outermost_graph_->SetUsefulOptimizing();\n    return false;\n  }\n}\n\n```\n\n### JikesRVM\n\n[https://github.com/JikesRVM/JikesRVM/blob/5072f19761115d987b6ee162f49a03522d36c697/rvm/src/org/jikesrvm/compilers/opt/inlining/DefaultInlineOracle.java#L55](https://github.com/JikesRVM/JikesRVM/blob/5072f19761115d987b6ee162f49a03522d36c697/rvm/src/org/jikesrvm/compilers/opt/inlining/DefaultInlineOracle.java#L55)\n\n### Other/research\n\nPartial inlining\n\n[Understanding and Exploiting Optimal Function Inlining](https://ethz.ch/content/dam/ethz/special-interest/infk/ast-dam/documents/Theodoridis-ASPLOS22-Inlining-Paper.pdf) (PDF)\n\nmachine learning\n\n[Automatic construction of inlining heuristics using machine learning](https://ieeexplore.ieee.org/document/6495004)\n\n[Machine-Learning-Based Optimization Heuristics in Dynamic Compilers](https://ssw.jku.at/Teaching/PhDTheses/Mosaner/Dissertation%20Mosaner.pdf) (PDF)\n\n[Guiding Inlining Decisions Using Post-Inlining Transformations](https://webdocs.cs.ualberta.ca/~amaral/thesis/ErickOchoaMSc.pdf) (PDF)\n\n[U Can’t Inline This!](https://karimali.ca/resources/papers/ourinliner.pdf) (PDF)\n\n[Towards better inlining decisions using inlining trials](https://dl.acm.org/doi/10.1145/182409.182489)\n\n[RhizomeRuby inlining](https://github.com/chrisseaton/rhizome/blob/main/doc/inlining.md)\n\n[An Optimization-Driven Incremental Inline Substitution Algorithm for Just-in-Time Compilers](http://aleksandar-prokopec.com/resources/docs/prio-inliner-final.pdf) (PDF)\n\n[Automatic Tuning of Inlining Heuristics](https://www.cresco.enea.it/SC05/schedule/pdf/pap274.pdf) (PDF)\n\n[Inlining-Benefit Prediction with Interprocedural Partial Escape Analysis](https://dl.acm.org/doi/pdf/10.1145/3563838.3567677) (PDF)\n\n[Inlining of Virtual Methods](https://bernsteinbear.com/assets/img/virtual-inlining.pdf) (PDF)\n\n[A Study of Type Analysis for Speculative Method Inlining in a JIT Environment](https://bernsteinbear.com/assets/img/sable-inlining.pdf) (PDF)\n\n[A Comparative Study of Static and Profile-Based Heuristics for Inlining](https://dl.acm.org/doi/epdf/10.1145/351403.351416) (PDF)\n\nclusters from [Custom benefit-driven inliner in Falcon JIT](https://llvm.org/devmtg/2022-05/slides/2022EuroLLVM-CustomBenefitDrivenInliner-in-FalconJIT.pdf) (PDF)\n\n### Graal\n\n[https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/policy/GreedyInliningPolicy.java](https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/policy/GreedyInliningPolicy.java)\n\n[https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/InliningPhase.java](https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/InliningPhase.java)\n\n[https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/info/elem/InlineableGraph.java#L148](https://github.com/oracle/graal/blob/5dde777cba22a99ebe3f19745d03ddfbc35c563c/compiler/src/jdk.graal.compiler/src/jdk/graal/compiler/phases/common/inlining/info/elem/InlineableGraph.java#L148)",
+        "url": "https://bernsteinbear.com/blog/inlining-heuristics/?utm_source=rss",
+        "source": "Max Bernstein's Blog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Wed, 03 Jun 2026 00:00:00 +0000",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs - 3rd June 2026 - Link Blog **[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs]...",
+    "Now that your newsletter is AI-generated, I've Unsubscribed  - ![Now that your newsletter is AI-generated, I've Unsubscribed](https://cdn.idiallo.com/ima...",
+    "The ‘60 Minutes’ Purge - ## Choose or Create Collections ![](https://www.paramountpressexpress.com/images/show-keya...",
+    "Skills Registry Threat Models - [Agent skills](https://agentskills.io/home) bundle prompts, scripts, dependencies, and too...",
+    "A survey of inlining heuristics - Compilers, especially method just-in-time compilers, operate on one function at a time. It..."
+  ],
+  "wordcloud": [
+    {
+      "word": "code",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "good",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "i've",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "skills",
+      "count": 3
+    },
+    {
+      "word": "series",
+      "count": 2
+    },
+    {
+      "word": "function",
+      "count": 2
+    },
+    {
+      "word": "decide",
+      "count": 2
+    },
+    {
+      "word": "maybe",
+      "count": 2
+    },
+    {
+      "word": "london",
+      "count": 2
+    },
+    {
+      "word": "gov",
+      "count": 2
+    },
+    {
+      "word": "uk",
+      "count": 2
+    },
+    {
+      "word": "government",
+      "count": 2
+    },
+    {
+      "word": "pwned",
+      "count": 2
+    },
+    {
+      "word": "philippines",
+      "count": 2
+    },
+    {
+      "word": "bgp",
+      "count": 2
+    },
+    {
+      "word": "paths",
+      "count": 2
+    },
+    {
+      "word": "sovereignty",
+      "count": 2
+    },
+    {
+      "word": "home",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "uber",
+      "count": 2
+    },
+    {
+      "word": "caps",
+      "count": 2
+    },
+    {
+      "word": "usage",
+      "count": 2
+    },
+    {
+      "word": "tools",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "manage",
+      "count": 2
+    },
+    {
+      "word": "costs",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "ai-generated",
+      "count": 2
+    },
+    {
+      "word": "unsubscribed",
+      "count": 2
+    },
+    {
+      "word": "images",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "registry",
+      "count": 2
+    },
+    {
+      "word": "compilers",
+      "count": 2
+    },
+    {
+      "word": "especially",
+      "count": 2
+    },
+    {
+      "word": "time",
+      "count": 2
+    }
+  ]
+}
