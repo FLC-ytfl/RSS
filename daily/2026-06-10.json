@@ -1,0 +1,636 @@
+{
+  "date": "2026-06-10",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Pulling on a thread",
+        "summary": "Often there’s a thread running through a sequence of my posts. Sometimes I make this explicit and sometimes I don’t. The latest thread started with this post commenting on a tweet that observed that exp(−x²) ≈ (1 + cos(s...",
+        "url": "https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Wed, 10 Jun 2026 13:34:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+        "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affi...",
+        "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 10 Jun 2026 14:03:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: The Husbands by Holly Gramazio ★★★★★",
+        "summary": "Ooooh! This is a lovely treat of a book. Every time Lauren sends her husband into the loft, a different man comes down. Her past is rewritten and she has now been married to Dave/Gary/Bob/Whoever for a year, a month, a d...",
+        "url": "https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Wed, 10 Jun 2026 11:34:55 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Texas Instruments Speak and Spell",
+        "summary": "My first experience with a computer wasn’t with a desktop machine or a game console. It was with an orange handheld device called a Texas Instruments Speak and Spell. Many Gen Xers born in the early 70s can probably say...",
+        "url": "https://dfarq.homeip.net/texas-instruments-speak-and-spell/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-speak-and-spell",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 10 Jun 2026 11:00:54 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 507",
+        "summary": "1,000 breaches is one hell of a milestone. It's not just the process of getting data, verifying it, loading it, sending notifications etc, it's all the other stuff that goes into keeping the whole thing afloat. Legal doc...",
+        "url": "https://www.troyhunt.com/weekly-update-507/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 10 Jun 2026 05:31:56 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Route public traffic to private applications with Cloudflare",
+        "summary": "Application Services for Private Origins is available now in closed beta. Route public hostnames to private IP origins over your existing IPsec, GRE, CNI, or Cloudflare Mesh paths. No public IPs or extra connector softwa...",
+        "url": "https://blog.cloudflare.com/private-origins-dns-routing/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Wed, 10 Jun 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-10T23:18:12.967Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Jeremy Howard",
+        "summary": "10th June 2026\n\n> Easy solution to slow down recursive AI self improvement:\n\n> \n> - The lab with the top-ranked model must agree THEY must not use it for working on frontier AI\n\n> - But everyone else ",
+        "content": "10th June 2026\n\n> Easy solution to slow down recursive AI self improvement:\n\n> \n> - The lab with the top-ranked model must agree THEY must not use it for working on frontier AI\n\n> - But everyone else should have access to it.\n\n> \n\n> By definition, this means the frontier doesn't advance.\n\n> It also has the critical benefit of avoiding a dangerous power imbalance.\n\n> Anthropic has chosen the *opposite* of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll sabotage others who try.\n\n> This means the AI frontier advances, & power imbalance increases.\n\n> (To be clear, *I* don't think we should try to slow down recursive AI self improvement - I think we should open it up and democratize it as much as possible. My point is: if *you* claim we should slow down, and you have the best model, you should ensure your org can't use it.)\n\n— [Jeremy Howard](https://twitter.com/jeremyphoward/status/2064595816875217362), in a Twitter thread",
+        "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-06-10T15:23:34.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "summary": "10th June 2026 - Link Blog\n\n**[If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)** ([via](",
+        "content": "10th June 2026 - Link Blog\n\n**[If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)** ([via](https://news.ycombinator.com/item?id=48467896)) Jonathon Ready highlights one of the more eyebrow-raising details from the [319 page system card](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf) for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine:\n\n> In light of the ability of recent models to [accelerate their own development](https://www.anthropic.com/institute/recursive-self-improvement), we’ve **implemented new interventions** that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on **building pretraining pipelines, distributed training infrastructure, or ML accelerator design**). Using Claude to develop competing models already violates our [Terms of Service](https://www.anthropic.com/legal/consumer-terms), but enforcing this restriction through our safeguards avoids accelerating the actors most willing to violate these terms.\n\n> Unlike our interventions for cybersecurity, biology and chemistry, and distillation attempts, **these safeguards will not be visible to the user**. Fable 5 will not fall back to a different model. Instead, the safeguards will limit effectiveness through methods such as prompt modification, steering vectors, or parameter-efficient fine-tuning (PEFT). These interventions will not affect the vast majority of coding work. We estimate they will impact ~0.03% of traffic, concentrated in fewer than 0.1% of organizations.\n\nI believe this is the first time Anthropic have announced these kinds of silent interventions. The justification still feels pretty science-fiction to me - the linked article talks about \"recursive self-improvement\". I'm not at all keen on a model that silently corrupts its replies to questions about \"ML accelerator design\" purely to slow down research that might conflict with Anthropic's own goals!",
+        "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-06-10T00:37:25.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Gaslighting Openness",
+        "summary": "written on June 10, 2026\n\n  \n\n  I have been a staunch supporter of Open Source for a long time, including\n[experiments](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)\n[in](https",
+        "content": "written on June 10, 2026\n\n  \n\n  I have been a staunch supporter of Open Source for a long time, including\n[experiments](https://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing/)\n[in](https://lucumr.pocoo.org/2024/9/23/fsl-agpl-open-source-businesses/)\n[funding](https://lucumr.pocoo.org/2024/9/19/open-source-tax/) [it](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/).\nI’m a true believer in the idea that Open Source always wins in the long run,\nbut not automatically and not quickly.  Right now it is being stressed by AI\nslop, shifting contributor dynamics, the falling cost of producing code, and\nlarge companies learning to close doors behind them.\n\nA lot of that battle today is manipulation of the narrative.  Opinion makers on\nsocial media and in business circles increasingly frame access as\nirresponsibility.  That is why the EU’s DMA matters, even if many people\n(including myself) reflexively hate EU regulation.  Apple’s fight over [delayed\nAI features in\nEurope](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/)\nis not about Brussels being annoying: it is about whether users can access their\nown devices and data.  The phone is yours, the data is yours, yet Apple decides\nwho may reach it and takes the agency away from you and then tries to make that\nsound like it is in your interest (supposedly it’s for your safety and security).\n\nThe closer you get to the core of AI, the more this shows up.  Anthropic has\nevery financial incentive to restrict what people can do with [Mythos and\nFable](https://www.anthropic.com/news/claude-fable-5-mythos-5), and they wrap\nthose restrictions in safety and (national) security language.  Some\nrestrictions may be defensible, but not all of them are.  They trained their\nmodels on public works, then block Open Source attempts to learn from and\ndistill these systems.\n\nDisliking the EU, China, or any other large government should not make us forget\nthat true democratized access to technology including AI is in all our interest.\nSome temporary product pain, including delayed Apple AI features, will be worth\npaying if it keeps gates open.  We should not let companies own the narrative\nthat preventing access is in our interest, particularly not as Europeans where\nthe odds are already stacked against us by our underdeveloped capital markets,\nbrain drain and internal fighting.\n\n  \n  This entry was tagged\n    \n      [ai](https://lucumr.pocoo.org/tags/ai/), \n      [licensing](https://lucumr.pocoo.org/tags/licensing/) and \n      [thoughts](https://lucumr.pocoo.org/tags/thoughts/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/6/10/gaslighting.md) / [view](https://lucumr.pocoo.org/2026/6/10/gaslighting.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/6/10/gaslighting/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-06-10T00:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "DiffusionGemma",
+        "summary": "10th June 2026 - Link Blog\n\n**[DiffusionGemma](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)** ([via](https://news.ycombinator.com/item?id=",
+        "content": "10th June 2026 - Link Blog\n\n**[DiffusionGemma](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)** ([via](https://news.ycombinator.com/item?id=48478471)) Last May Google briefly released an experimental Gemini Diffusion model. I [tried the preview at the time](https://simonwillison.net/2025/May/21/gemini-diffusion/) and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it.\n\nThat research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, [google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it).\n\nNVIDIA are currently [hosting the model for free](https://build.nvidia.com/google/diffusiongemma-26b-a4b-it) on their NIM cloud API. I used that API to [generate this pelican](https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Fe5e234a6dc6eef61e209ce1629620042), which took 4.4s (according to `time uv run generate.py`) to return 2,409 tokens - so at least 500 tokens/second.\n\n![](https://static.simonwillison.net/static/2026/diffusiongemma-pelican.png)\n\nPosted [10th June 2026](https://simonwillison.net/2026/Jun/10/) at 8 pm\n\n## Recent articles\n\n  \n    - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/) - 9th June 2026\n\n  \n    - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/) - 6th June 2026\n\n  \n    - [Claude Opus 4.8: \"a modest but tangible improvement\"](https://simonwillison.net/2026/May/28/claude-opus-4-8/) - 28th May 2026\n\n  \n\n \n\nThis is a **link post** by Simon Willison, posted on [10th June 2026](https://simonwillison.net/2026/Jun/10/).\n\n    \n        [\n            google\n            412\n        ](https://simonwillison.net/tags/google/)\n    \n        [\n            ai\n            2,065\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            generative-ai\n            1,823\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1,791\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            nvidia\n            18\n        ](https://simonwillison.net/tags/nvidia/)\n    \n        [\n            pelican-riding-a-bicycle\n            118\n        ](https://simonwillison.net/tags/pelican-riding-a-bicycle/)\n    \n        [\n            gemma\n            15\n        ](https://simonwillison.net/tags/gemma/)\n    \n        [\n            llm-release\n            205\n        ](https://simonwillison.net/tags/llm-release/)\n    \n        [\n            llm-performance\n            16\n        ](https://simonwillison.net/tags/llm-performance/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-10T20:00:54.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Being “Good” at Things",
+        "summary": "Golf content on social media is [my online junk food](https://blog.jim-nielsen.com/2024/just-build-websites/) and the other day I came across [a video](https://www.reddit.com/r/golf/comments/1tdv00k/w",
+        "content": "Golf content on social media is [my online junk food](https://blog.jim-nielsen.com/2024/just-build-websites/) and the other day I came across [a video](https://www.reddit.com/r/golf/comments/1tdv00k/what_does_an_amateur_golfer_have_to_shoot_to_be/) interviewing professional golfers that asks: “What does an amateur golfer have to shoot to be considered good?”\n\nIt’s a leading question because the phrasing implicitly frames a number as the answer for [a qualitative measurement](https://blog.jim-nielsen.com/2025/measurement-and-numbers/), but I digress.\n\nAll the pros give their answers. Some say you gotta shoot a number in 90’s. Others say the 80’s. Some even say the 70’s. Then along comes Collin Morikawa:\n\n> I don’t think there’s a number, but I think you have to be able to finish out every hole without, like, picking up a two-footer.\n\nLove it! I don’t want to go too deep on a social media golf interview clip, but…\n\nI love how he breaks out of the question’s implicit framing and really strikes at the heart of the qualitative question: “What does it mean to be good at golf?”\n\nBeing “good”, in his eyes, is not shooting a specific number. Numbers are standardized proxies for measurement across a wide variety of players, skill levels, and — to be quite frank — degrees of honesty. Anyone who has played golf knows that scores can be easily manipulated. On a casual outing amongst friends, my “82” may be very different than the “82” of the players in front of me — or even the players in my own group. It all depends on how you play the game.\n\nSo saying “if you can shoot number ___” is a very lossy picture of what it means to be “good” at golf — at least for amateurs.\n\nThat’s why I love Morikawa’s answer: if you finish every hole and don’t get a double bogey, you’re “good” at golf.\n\nBecause guess what? Finishing is the hard part. The consistency. Showing up to every hole, finishing out based on the actual rules of the game, not taking mulligans, not picking up a two-footer and saying “That’s good.” (Or even missing a two-footer and re-putting and giving yourself the make.)\n\nRelieving yourself of the exacting burden of the reality of the game is the easy way to play, but it doesn’t make you a better golfer.\n\nI think that’s true of so many things we do as humans: programming, design, writing, etc. If you want to be “good” at what you do, do the hard, little things that others gloss over. Do them consistently and well, with discipline and perseverance.\n\nIf you do, then I’d say you’re “good” at what you do because “good” isn’t a number. It’s quality. A disposition. A way of being.",
+        "url": "https://blog.jim-nielsen.com/2026/good-at-things/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Wed, 10 Jun 2026 19:00:00 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Please, use a link! ",
+        "summary": "This is a rant. It didn't start today, but I think I've reached the end of the line. The straw that broke the camel's back, so to say. I used an internal tool for the first time. I logged in and navig",
+        "content": "This is a rant. It didn't start today, but I think I've reached the end of the line. The straw that broke the camel's back, so to say. I used an internal tool for the first time. I logged in and navigated through the web app, making some updates here and there. All was well. But then I made the mistake of wanting to go back to the initial dashboard. I clicked the back button, and instead of returning to the previous page, I saw Chrome's default tab page staring right back at me.\n\n        How is it possible? I had navigated through at least a dozen pages, yet one back button click and the web app was completely gone. If you've ever experienced something similar, it's probably because you were using a single-page app. Nothing wrong with single-page apps, of course, but over the years I've concluded that people who only know how to build single-page apps don't know what a link is.\n\nSo let's start with examples of what a link isn't.\n\n```\n<div onclick=\"navigate('home')\">Home</div>\n```\n\nNot a link. It's a div with an `onclick` event handler. You can style it all you want, but it's not a link.\n\n```\n<button onclick=\"navigate('home')\">Home</button>\n```\n\nThis may be a button, but it is not a link. With the advent of React, this has become so common. Because it's called a button, learners naturally gravitate toward it to link different pages. But there is worse.\n\n[![square hole](https://cdn.idiallo.com/images/assets/666/square-hole.jpg)](https://www.youtube.com/watch?v=6pDH66X3ClA)\n\n```\n<a onclick=\"navigate('home')\">Home</a>\n```\n\nThis almost feels intentional. As if the developer is teasing me. Why would you use an anchor tag but then omit its most important attribute? Here is what a link is supposed to look like:\n\n```\n<a href=\"/home\">Home</a>\n```\n\nThat's it. Simple. You don't have to add any configuration for the browser to support it. You don't even have to style it. All user agents have sensible default styling for the different states of a link: unvisited, visited, and active. It works well with browser history. On desktop, when you hover over it, you get a preview of the destination URL in the bottom-left corner of your screen. On mobile, you can press and hold to get several options on how to open it. You don't even have to worry about accessibility. It just works.\n\nBut when a developer is deep in their React app thinking about functionality, they might say, \"When you click this button, go to the home page.\" They will naturally think of `onClick` as an event. And since it's a single-page app, they're thinking about state, not a page. They might write something like this:\n\n```\nimport { navigate } from 'somewhere'; \nfunction Home() {\n  return (\n    <div style={{ padding: '20px' }}>\n      <h1>Home Page</h1>\n\n      <button onClick={() => navigate('/about')}>\n        Go to About Page\n      </button>\n      <div \n        onClick={() => navigate('/about')} \n        style={{ cursor: 'pointer', marginTop: '10px', color: 'blue' }}\n      >\n        Click this text to navigate\n      </div>\n    </div>\n  );\n}\nexport default Home;\n```\n\nThis is already bad enough. But depending on how the `navigate` function is implemented, it can make or break the entire browser history. In the internal tool I was using, `navigate` was essentially replacing the current URL with the new one using `location.replace()`.\n\nYou can avoid all of these issues by just using an anchor tag. If you need it to play nicely with your React app, React Router has a `Link` component.\n\n```\nimport { Link } from 'react-router-dom';\nfunction Navbar() {\n  return (\n    <nav>\n      <Link to=\"/home\">Home</Link>\n    </nav>\n  );\n}\n```\n\nPlease, just use a native link and you won't have to worry about anything else.",
+        "url": "https://idiallo.com/blog/use-a-link-please",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "Wed, 10 Jun 2026 20:30:00 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Nontrailing separators do not spark joy",
+        "summary": "This is valid JSON:\n\n`{\n    \"a\": 1,\n    \"b\": 2,\n    \"c\": 3\n}\n`\n\nThis is invalid JSON:\n\n`{\n    \"a\": 1,\n    \"b\": 2,\n    \"c\": 3,\n}\n`\n\nThe difference is the last comma. The [JSON grammar](https://www.json",
+        "content": "This is valid JSON:\n\n`{\n    \"a\": 1,\n    \"b\": 2,\n    \"c\": 3\n}\n`\n\nThis is invalid JSON:\n\n`{\n    \"a\": 1,\n    \"b\": 2,\n    \"c\": 3,\n}\n`\n\nThe difference is the last comma. The [JSON grammar](https://www.json.org/json-en.html) specifies that a comma can separate two members of an object but not postcede (\"trail\") a member. I think this was a design mistake. Say we want to add two new keys to the struct, one before the `\"a\"` member and one after the `\"c\"` member. Here's what it would look like if trailing commas were permitted:\n\n`{\n+   \"x\": 0,\n    \"a\": 1,\n    \"b\": 2,\n    \"c\": 3,\n+   \"y\": 4,\n}\n`\n\nIt's the exact same text transformation regardless of where we add the key. In the current model, we instead have this:\n\n`{\n+   \"x\": 0,\n    \"a\": 1,\n    \"b\": 2,\n-   \"c\": 3\n+   \"c\": 3,\n+   \"y\": 4\n}\n`\n\nThose are different transformations! Similarly if you want to remove an element, you can't just delete the corresponding line[1](#fn:objects), you have to delete the line *and then* check that the last line doesn't have a trailing comma. Don't even get me started on all the special cases involved in swapping two lines.\n\nJSON isn't the only language with this problem. Haskell writes record types like this:\n\n`-- from https://play.haskell.org/\ndata Drone = Drone\n  { xPos :: Int\n  , yPos :: Int\n  , zPos :: Int\n  }\n`\n\nThis \"partial bullet point\" style of putting separators at the beginning of rows makes it easier to change the last row but harder to change the first one. \n\nTLA+ has this problem too:\n\n`\\* both valid\nVARIABLES a, b, c\nvars == <<a, b, c>>\n\n\\* both invalid\nVARIABLES a, b, c,\nvars == <<a, b, c,>>\n`\n\nThis one's annoying because 1) you're constantly adding new top-level variables while working on a spec and 2) the PlusCal DSL does *not* have this problem:\n\n`\\* Totally fine!\n(*--algorithm foo {\nvariables a; b; c;\n`\n\nThe worst offenders, IMO, are logic languages like Prolog. Not only don't you have trailing separators, you have a *special terminating symbol*:\n\n`foo(A, B, C) :-\n    A = 1, % comma\n    B = 2, % comma\n    C = 3. % period!\n`\n\nI guess you can sort of think of it as funny-lookin' braces:\n\n`foo(A, B, C) :-\n    A = 1,\n    B = 2,\n    C = 3 \n.\n`\n\nBut this is not standard syntax and people will look at you weird if you try it. And you still don't get trailing separators.\n\n## Something better\n\nSome languages allow trailing separators:\n\n`// go\nvalid := map[string]int{\n        \"a\": 1,\n        \"b\": 2,\n        \"c\": 3,\n    }\n`\n\n`# python\nvalid = {\n  \"a\": 1,\n  \"b\": 2,\n  \"c\": 3,\n}\n`\n\nBut I think we can do one better than that. Python and Go commas can trail but not lead, meaning we can't go 100% bullet points:\n\n`# python again\ninvalid = {\n    , \"a\": 1\n    , \"b\": 2\n    , \"c\": 3\n}\n`\n\nNow I personally think that bullet points are the bee's knees and wish more languages allowed leading separators. TLA+ actually has leading conjunction and disjunction operations:\n\n`// Not TLA+ but the same semantics\n|| && a == 1\n   && b == 2\n\n|| && a == 3\n   && b == 4\n`\n\nYou can't trail these, though, no writing `(a &&)`.\n\nThe most flexible I've seen is [Alloy](https://alloytools.org/), which allows both leading and trailing commas:\n\n`// Alloy\nsig Valid {\n    , a: 1\n    , b: 2\n}\n\nsig AlsoValid {\n    a: 1,\n    b: 2,\n}\n`\n\nAlloy does go a little power-mad here, because it also allows empty separators.\n\n`sig StillValid {\n    ,, a: 1,,\n    ,,,,,,,,,\n    ,, b: 2,,\n}\n`\n\nI've heard some people call this [\"stuttering\"](https://www.reddit.com/r/ProgrammingLanguages/comments/1amsalm/does_your_language_support_trailing_commas/). I can't figure out how to [commit crimes with this](https://www.hillelwayne.com/post/python-abc/) but you never know.\n\n## Devil's advocate\n\nOne argument against trailing separators is that they make parsing ambiguous. Consider this Prolog: \n\n`foo(A, B) :-\n    A = 1, \n    B = 2.\n\nbar(c).\n`\n\nHere it's pretty clear that `foo` and `bar` are separate definitions. But if we replace the rule terminator with commas:\n\n`foo(A, B) :-\n    A = 1, \n    B = 2,\n\nbar(c),\n`\n\nNow it *could* be alternatively parsed that `bar(c)` is part of the definition of `foo`— `foo` is only true when `bar(c)` is also true. \n\nAs another example, [this is valid Ruby](https://docs.ruby-lang.org/en/master/syntax/layout_rdoc.html):\n\n`# prints 5\nputs 3.\n     succ().\n     succ()\n`\n\nIf we could \"trail method calls\", this is ambiguous:\n\n`foo.\n  bar().\n  baz().\n\nquux()\n`\n\nNow it's not clear if `quux()` is a top-level function or a method of `foo`.\n\nBoth of those relate to control separators, not data separators. Python has an edge data case with trailing data separators. The language uses parenthesis both for expression grouping like `(2+3)` and for tuple definition like `(2,3)`. So how do you distinguish an expression evaluation from a single-element tuple? With a trailing comma!\n\n`>>> x = (2+3)\n>>> type(x)\n<class 'int'>\n>>> x = (2+3,)\n>>> type(x)\n<class 'tuple'>\n`\n\nOkay that's all I got. New (and final) preview release of *Logic for Programmers* next week.",
+        "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+        "source": "Computer Things",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "Wed, 10 Jun 2026 12:22:04 +0000",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Jeremy Howard - 10th June 2026 > Easy solution to slow down recursive AI self improvement: > > - The lab w...",
+    "If Claude Fable stops helping you, you'll never know - 10th June 2026 - Link Blog **[If Claude Fable stops helping you, you'll never know](https:...",
+    "Gaslighting Openness - written on June 10, 2026 I have been a staunch supporter of Open Source for a long time, i...",
+    "DiffusionGemma - 10th June 2026 - Link Blog **[DiffusionGemma](https://blog.google/innovation-and-ai/techno...",
+    "Being “Good” at Things - Golf content on social media is [my online junk food](https://blog.jim-nielsen.com/2024/ju..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 8
+    },
+    {
+      "word": "blog",
+      "count": 5
+    },
+    {
+      "word": "june",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "json",
+      "count": 4
+    },
+    {
+      "word": "thread",
+      "count": 3
+    },
+    {
+      "word": "time",
+      "count": 3
+    },
+    {
+      "word": "public",
+      "count": 3
+    },
+    {
+      "word": "private",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "link",
+      "count": 3
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "sometimes",
+      "count": 2
+    },
+    {
+      "word": "ransomware",
+      "count": 2
+    },
+    {
+      "word": "group",
+      "count": 2
+    },
+    {
+      "word": "gentlemen",
+      "count": 2
+    },
+    {
+      "word": "book",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "texas",
+      "count": 2
+    },
+    {
+      "word": "instruments",
+      "count": 2
+    },
+    {
+      "word": "speak",
+      "count": 2
+    },
+    {
+      "word": "spell",
+      "count": 2
+    },
+    {
+      "word": "it's",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "route",
+      "count": 2
+    },
+    {
+      "word": "cloudflare",
+      "count": 2
+    },
+    {
+      "word": "origins",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "end",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "fable",
+      "count": 2
+    },
+    {
+      "word": "stops",
+      "count": 2
+    },
+    {
+      "word": "helping",
+      "count": 2
+    },
+    {
+      "word": "you'll",
+      "count": 2
+    },
+    {
+      "word": "never",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "via",
+      "count": 2
+    },
+    {
+      "word": "diffusiongemma",
+      "count": 2
+    },
+    {
+      "word": "golf",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    }
+  ]
+}
