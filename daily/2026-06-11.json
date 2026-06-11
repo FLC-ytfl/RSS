@@ -1,0 +1,640 @@
+{
+  "date": "2026-06-11",
+  "stats": {
+    "total_fetched": 274,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "asyncinject 0.7",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/asyncinject/releases/tag/0.7\">asyncinject 0.7</a></p> <p>I built this utility library to support an <code>asyncio</code> dependency injection pattern a few...",
+        "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-06-11T06:28:09.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Solving a chess puzzle with Claude and Prolog",
+        "summary": "Prolog is the original logic programming language. The name comes from programming in logic. More specifically, the name comes from programmation en logique because the inventor of the language, Philippe Roussel, is Fren...",
+        "url": "https://www.johndcook.com/blog/2026/06/11/prolog-claude/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Thu, 11 Jun 2026 13:14:26 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Biological Evolution and Information Acquisition",
+        "summary": "A few weeks ago we looked at a simulation of technological evolution by economist Brian Arthur, in which he was able to start with simple building blocks (such as a NAND gate) and evolve surprisingly complex circuits (su...",
+        "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
+        "source": "Construction Physics",
+        "tags": [
+          "Database",
+          "Startup"
+        ],
+        "published_at": "Thu, 11 Jun 2026 12:01:31 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The failed 3Com and US Robotics merger",
+        "summary": "On June 12, 1997, 3Com and US Robotics merged at a cost of $8.5 billion. At the time, it was the merger of the two biggest names in their respective fields, and it seemed poised to become a telecommunications giant. The...",
+        "url": "https://dfarq.homeip.net/the-failed-3com-and-us-robotics-merger/?utm_source=rss&utm_medium=rss&utm_campaign=the-failed-3com-and-us-robotics-merger",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 11 Jun 2026 11:00:56 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hacking Google with A.I. for $500,000",
+        "summary": "What happens when you unleash an AI across all of Google's infrastructure? 1,500 APIs, 3,600 keys, and $500,000 in bounties later, here's what I found.",
+        "url": "https://brutecat.com/articles/hacking-google-with-ai",
+        "source": "Brutecat · Research",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-11T23:13:57.314Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "datasette 1.0a33",
+        "summary": "This alpha is a significant step on the road to a stable 1.0, finally extending the `?_extra=` pattern I introduced [in Datasette 1.0a3](https://docs.datasette.io/en/1.0a3/changelog.html#a3-2023-08-09",
+        "content": "This alpha is a significant step on the road to a stable 1.0, finally extending the `?_extra=` pattern I introduced [in Datasette 1.0a3](https://docs.datasette.io/en/1.0a3/changelog.html#a3-2023-08-09) to cover queries and rows in addition to tables. That pattern is also [now documented](https://docs.datasette.io/en/latest/json_api.html#expanding-json-responses)!\n\nI wrote a whole lot more about the new release on the Datasette project blog: **[Datasette 1.0a33 with JSON extras in the API](http://datasette.io/blog/2026/api-extras/)**.\n\nBecause API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for [the plan](https://gist.github.com/simonw/d8bf1a8f36e28fbd595cede946e0ab6d)) and GPT-5.5 xhigh in Codex Desktop (for [the implementation](https://gist.github.com/simonw/12d5e09797072a6807d7b9cfcc8ff6b7)) build me this [custom extras API explorer](https://tools.simonwillison.net/datasette-extras-explorer) to help demonstrate the feature:\n\n![](https://static.simonwillison.net/static/2026/extras-explorer.png)",
+        "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-06-11T15:26:49.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "summary": "11th June 2026 - Link Blog\n\n**[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotag",
+        "content": "11th June 2026 - Link Blog\n\n**[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/)** ([via](https://twitter.com/zeffmax/status/2064910040503627917)) Big scoop for Maxwell Zeff at Wired:\n\n> “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.”\n\nThere's been a *huge* outcry about Anthropic's policy, [tucked away in their system card](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/), that Claude Fable/Mythos would identify \"requests targeting frontier LLM development\" and \"limit effectiveness\" without notifying the user.\n\nIt's good news that they're dropping the invisible aspect of this. It would be a whole lot better of they dropped this category of refusals entirely.\n\n**Update**: More details from [@ClaudeDevs on Twitter](https://twitter.com/claudedevs/status/2064949876463645026):\n\n> We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible.\n\n> Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio. You will see this every time it happens. On the API, any flagged requests will return a reason for their refusal (coming to server-side fallback in the next few days).\n\n> We wanted to deploy Fable 5 to our users quickly and safely. Visible safeguards can be probed, so they have to be robust, which takes time to get right. Invisible safeguards can be targeted more narrowly, allowing us to ship quickly with very few false positives. We went with invisible safeguards for this reason—and that was the wrong tradeoff. You should have visibility into the safeguards we have in place, and why. We’re sorry for not getting the balance right.",
+        "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-11T03:45:49.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’",
+        "summary": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n\n        \n                \n                \n                \n                    \n## \n                        \n    \n        Due to ",
+        "content": "opens in new window\n\n    \n    \n    \n\n    \n\n    \n        \n\t\t\n        \n\n        \n                \n                \n                \n                    \n## \n                        \n    \n        Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27\n    \n\n                    \n\n                \n            \n\n        \n                \n                \n                    Siri AI will be available to EU users on macOS 27 and visionOS 27\n                \n            \n\n        \n            \n    \n    \n    \n    \n    \n\n        \n\n    \n\n    \n    \n    \n\n     \n     \n    \n    \n        \n             \n                 Apple today introduced Siri AI, an entirely new version of [Siri](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/), powered by Apple Intelligence. Unfortunately, due to the Digital Markets Act (DMA), Apple will not be able to ship Siri AI in the European Union with the release of iOS 27 and iPadOS 27. Over the past several months, EU regulators did not accept any of Apple’s proposed solutions to bring Siri AI to the EU while safely supporting other virtual assistants.\n\n                 \n             \n                 “We’re deeply disappointed that our EU users won’t have Siri AI on iPhone or iPad when we share our new software releases later this year,” said Craig Federighi, Apple’s senior vice president of Software Engineering. “Our hope is to eventually bring Siri AI to the EU, and we will continue to engage with EU regulators on a path forward. However, their refusal to engage constructively on solutions that preserve privacy and security means we do not currently have a timeline for Siri AI’s availability on iOS and iPadOS in the EU.”\n\n                 \n             \n                 When iOS 27 and iPadOS 27 launch later this year, users in the EU1 will not have access to Siri AI and its advanced capabilities — including the new dedicated app to revisit conversations, an expanded Visual Intelligence experience, integrated tools for writing, Siri mode in Camera on iOS, and other Siri AI capabilities announced at WWDC26. Because Siri AI on watchOS 27 requires a paired iPhone with Siri AI, EU users will not have access to Siri AI on watchOS 27.\n\n                 \n             \n                 EU users will be able to access Siri AI on macOS 27 and visionOS 27. Developers located in the EU will not be able to test or use the new Siri AI features for their apps on iOS 27, iPadOS 27, and watchOS 27.\n\n                 \n             \n                 Siri AI is private by design and deeply integrated across Apple’s platforms using on-device processing and Private Cloud Compute, which extends the privacy and security of iPhone into the cloud. However, under EU regulators’ extreme interpretation of the DMA, Apple would have to give any virtual assistant direct access to users’ private data — and the ability to directly control other installed applications — as soon as Siri AI is made available in the EU, without the essential protections necessary to keep users and their data safe.\n\n                 \n             \n                 According to EU regulators, the DMA requires Apple to give any AI system nearly unlimited access to a user’s device, as well as the ability to act on that access autonomously without a user’s ongoing visibility and control. That includes the ability to read and send messages, make purchases, access files, and execute actions across any app. Security researchers have already shown that AI systems can be hijacked to steal personal data — like passwords and photos — and to permanently alter files and account settings without a user’s consent. As AI systems gain more capabilities, these risks are quickly increasing in frequency and scope.\n\n                 \n             \n                 Given the serious risks to users, Apple designed a solution called Trusted System Agent — an intermediary that would allow virtual assistants to safely access the same features and capabilities as Siri AI for devices in the EU. Apple also shared a plan to launch Siri AI in the EU while gradually rolling out this new solution over an 18-month period. The European Commission said no. In fact, the European Commission did not agree to any of Apple’s proposals.\n\n                 \n             \n                 Apple will continue working to bring these features to the European Union as safely as possible. However, given the clear dangers to EU users and the regulators’ failure to acknowledge these risks, there is currently no timeline for Siri AI’s availability in the EU on iOS and iPadOS.\n\n                 \n             \n         \n \n\n    \n    \n    \n\n    \n    \n        \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n            \n- That encompasses the 27 EU member states: Austria, Belgium, Bulgaria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.\n\n        \n\n    \n    \n    \n\n    \n\n\t\n\n\t\t\n\t\t\n\t\t\t\n\n\t\t\n\t\t\n\n            Stay up to date with the latest articles from Apple Newsroom.",
+        "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Product",
+          "Mobile"
+        ],
+        "published_at": "2026-06-11T21:58:49.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/06/719302041_17972930535111851_2423729995281630944_n-2.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple’s Siri team, led by Craig Federighi, held a pos",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/06/719302041_17972930535111851_2423729995281630944_n-2.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple’s Siri team, led by Craig Federighi, held a post-WWDC keynote tech talk with members of the press this afternoon to talk through iOS 27 and the new Siri AI. \n\nDuring the talk, Federighi shared more details about Apple’s collaboration with Google. \n\nFederighi was joined by Amar Subramanya (vice president of AI), Mike Rockwell (Siri lead), and Sebastien Marineau-Mes (software VP).\n\nOn the Google collaboration, Federighi explained: \n\n> Of course, we don’t have the Gemini app as our app. In fact, none of that client code is part of how we run on iOS. For these models, we use none of the models that Google deploys to their customers, nor do we use the infrastructure and means by which they deploy models to their customers. And then, when it comes to the knowledge base, we of course don’t use Google Search or anything like that as the foundation of our system. So I hope that’s clear. The amount of the Google Assistant we use is none.\n\n> \n> \n> \n> So let’s talk about what we do use, or how our system is built.\n\n> \n> \n> \n> It starts, of course, with our Assistant experience. And as you saw earlier today, this Assistant experience is deeply integrated into the system, into iOS, into iPadOS, into macOS. You saw on the iPhone how the assistant emerges, I think really beautifully, in Liquid Glass out of the Dynamic Island, how you can summon it from the side button or by speaking to Siri by name. But more than that, it’s integrated across all sorts of places in the system. So whether you’re writing with Writing Tools, clicking with the context menu, all of this is deeply integrated into the system experience.\n\n> \n> \n> \n> Now, plugged into that is the Siri app. The Siri app is a great way to get back to a conversation that you previously started, to either look at what you’ve previously been doing, maybe extend that conversation, or start a new one. But this app isn’t just reaching out to some model in the cloud. It’s built on top of powerful system software in Apple Intelligence.\n\n> \n> \n> \n> This includes the System Orchestrator, which is key to the privacy architecture of our entire system. It’s what coordinates requests against things like the App Toolbox that provides access to actions within your apps, the Spotlight Semantic Index to access personal content to help fulfill your request, and even things like on-screen context to understand what you might be looking at at the moment you’re making a request.\n\n> \n> \n> \n> This, in turn, is built on a set of powerful on-device models. These handle everything from understanding speech to synthesizing the voice that speaks back to you, to understanding visually the environment and the on-screen context, understanding if there’s something relevant there, understanding text that might be on the screen, as well as a whole set of other models.\n\n> \n> \n> \n> And for some requests, models are capable of processing your Siri requests entirely locally on the device. But sometimes the System Orchestrator realizes that it’s a more sophisticated question, and then it wants to draw on greater intelligence. It does that by contacting our models running in Private Cloud Compute.\n\n> \n> \n> \n> The goal of Private Cloud Compute is to extend the same privacy promise of the iPhone up into the cloud, such that your requests are completely private to you. They’re never stored, they’re never accessible to anyone, including Apple, they’re only processed as part of the request, and nothing can access them. All of those properties are not only built architecturally deep into the system, but are also something that third-party researchers can continuously verify.\n\n> \n> \n> \n> Now, in that deployment model, we have a family—our third generation—of Apple Foundation Models, from our AFM Cloud and AFM Cloud Pro models to our AFM Fusion model and image model. These are the models that are the product of our collaboration with Google, and you’ll hear more about that when we continue. But those are architected to run on our deployment architecture. These are models designed specifically for our Apple Intelligence experiences. They’re what powered everything you saw in the keynote presentation earlier today.\n\n> \n> \n> \n> Finally, when you make a request involving current events or other elements of world knowledge, those responses are grounded by accessing Apple’s World Knowledge Service. This is something that we’ve built over many years and provides a great source of information to satisfy your request.\n\n> \n> \n> \n> So this system is what supports the full range of Apple Intelligence experiences that you saw earlier. I hope that grounds our discussion as well. And what we’d like to do now is bring out members of the leadership team who helped work on all of this.\n\nSubramanya elaborated: \n\n> We’re super excited about our 3rd generation of Apple Foundation Models, or AFM, in partnership with Google. We’ve built a family of models spanning on-device to the cloud. Now, before I walk through each of the models in the family, the headline, I would say, for this generation is every model is a significantly both in quality and capability compared to our previous generation. \n\n> \n> \n> \n> Just walking through each of the models, we’d start with our on-device models. So 1st off, we have AFM Core. This is the next generation of our on-device model that we’re shipping on devices today. It follows the dense architecture. \n\n> \n> \n> \n> And then next up, we have AFM Core Advanced. \n\n> \n> \n> \n> This is unlike any on-device model we’ve run before. It uses a sparse architecture, it’s natively multimodal. And as a result of that, huge leap in the capabilities of this model, enabling some of the features you heard about this morning, like invitation and expressive voices, all working completely on device as a result of this model. \n\n> \n> \n> \n> Moving on to our server models, all of which are served out of our Private Cloud Compute. First off, we have AFM Cloud. This is our server work hard model. It’s basically optimized for latency and serving cost. \n\n> \n> \n> \n> And then next up, we have AFM Cloud Image. This is our next generation of image generation and editing model, and, you know, enables a number of amazing experiences, including things like spatial reframing, that you also heard about this morning. \n\n> \n> \n> \n> And all of these four models that we just talked about, FM, Core, Core Advanced Cloud, and Cloud Image, all of these are custom builds for Apple Silicon, trained using proprietary data, and refined using outwards from Gemini frontier models.\n\n> \n> \n> \n> Now, finally, for some of the most demanding tasks, like agentic tool use, complex reasoning, we have AFM Cloud Pro. This is our most capable model with quality similar to Gemini frontier models. \n\n> \n> \n> \n> And to bring this model to production, we work with both Google and Nvidia to extend our Private Cloud Compute infrastructure to NVIDIA GPUs in Google’s cloud, while maintaining Apple’s unmatched privacy guarantees, right? \n\n> \n> \n> \n> So, across all of this family of models, our goal is to match every user request to the model which provides the best response at the lowest latency. And so together we’re super excited about this next generation of models and the amazing features it enables us to build on top of them, including the new Siri AI experience and all of the amazing intelligent experiences across the OS. \n\n*More to come … *\n\n**Chance’s favorites: **\n\n- [Bring wireless CarPlay to any car](https://amzn.to/3RBXa7T)\n\n- [“Apple: The First 50 Years” by David Pogue](https://amzn.to/3RZWqtm)\n\n- [AirPods Pro 3: $199 (Reg. $199)](https://amzn.to/4uUqAwW)\n\n- [Logitech MX Master 4](https://amzn.to/4adTvDF)\n\n- [Belkin 3-in-1 MagSafe Charger](https://amzn.to/4fpVjgj)\n\n- [Beats Woven USB-C Charging Cables](https://amzn.to/4ekuxou)\n\n**Follow Chance**: [Threads](https://www.threads.net/@ChanceHMiller), [Bluesky](https://bsky.app/profile/chancemiller.me), [Instagram](https://www.instagram.com/chancehmiller/), and [Mastodon](https://mastodon.social/@ChanceHMiller). \n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)",
+        "url": "https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-06-11T00:48:52.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items",
+        "summary": "Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscrutable, distracting icons next to every item in the menu bar. You will recall [Jim Nielsen writing about it](http",
+        "content": "Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscrutable, distracting icons next to every item in the menu bar. You will recall [Jim Nielsen writing about it](https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus), rightly describing it as exactly the sort of thing that Mac users look down upon in platforms like Google Docs and Windows. You will also recall [Nikita “Tonsky” Prokopov writing about it](https://tonsky.me/blog/tahoe-icons/), illustrating that the bad idea wasn’t even implemented well, with different Apple apps using entirely different icons for the same menu items. You will also recall [my linking to Nielsen](https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus) (“I can tolerate being angry about UI changes Apple makes to the Mac. But I can’t tolerate being heartbroken.”) and [to Prokopov](https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons) (“The fact that Tahoe’s menu item icons are glaringly inconsistent and often utterly inscrutable is the fudge icing on a shit cake, but the real embarrassment is that the idea ever got past the proposal stage. No real UI *or* icon designers think this is a good idea. None.”)\n\nTop third-party developers rightly [rejected the design](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/), adopting [open source code from Brent Simmons](https://indieweb.social/@brentsimmons/115846213935605782) to disable the default “icons in all standard menu items” behavior.\n\nWonderful news in MacOS 27 Golden Gate: the icons are gone. It’s like Tahoe’s menu item icons never happened. [Prokopov noted it on Mastodon](https://mastodon.online/@nikitonsky/116720790550648158) with before and after screenshots, and mentions that [Apple has updated the Human Interface Guidelines accordingly](https://developer.apple.com/design/human-interface-guidelines/menus):\n\n> **Use menu item icons sparingly and with purpose.** Icons allow\n> people to find menu items more quickly, and help clarify what\n> selecting an item does. Use an icon to highlight the most common\n> actions and key features of your app, file system locations,\n> connected devices, visual concepts like rotating or flipping an\n> image, and user-generated content like folders and documents.\n> Don’t display an icon if you can’t find one that clearly\n> represents the menu item.\n\nThis updated advice in the HIG is perfect. Screenshot:\n\n[\n  ![Screenshot from the updated HIG, with illustrations of menus with and without unnecessary icons.](https://daringfireball.net/misc/2026/06/hig-menu-item-icons.png)](https://daringfireball.net/misc/2026/06/hig-menu-item-icons.png)\n\nMacOS 26 Tahoe — across every Apple app on the system — is a living example of the updated HIG’s “what not to do” example illustrations (including the second section about groups within a menu). If you’re stuck using Tahoe until Golden Gate arrives, [recall this tip](https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe) to alleviate the problem to some extent.\n\nThis is my favorite news from all of WWDC this week. I mean that. In a small way I mean it because I so loathe this aspect of MacOS Tahoe. But in a large way I mean it because it’s proof that the rot has been rooted out of Apple’s software design team. I don’t know if all the untalented hacks are gone, but the untalented magazine-designer hacks with clout and influence all left with Alan Dye. I’ve chatted with a few people from Apple’s design team this week and they’re all loving the work they’re doing and the direction they’re taking Apple’s platforms. Backtracking on these idiotic menu item icons was a necessary first step.",
+        "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-06-11T00:09:01.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What Happened to tea.xyz",
+        "summary": "On June 4th, [tea.xyz](https://tea.xyz/) launched what it had been promising since 2022: a cryptocurrency that pays open source maintainers. Within the first hour of official trading, the token fell 7",
+        "content": "On June 4th, [tea.xyz](https://tea.xyz/) launched what it had been promising since 2022: a cryptocurrency that pays open source maintainers. Within the first hour of official trading, the token fell 75% from its opening price. A week later it trades about 90% below its first-day high, the company’s GitHub org has been near-silent for six months, and the founder’s public commits are going to a different project entirely.\n\nTheir own blog post from June 8th, titled [The Work Continues](https://tea.xyz/blog/work-continues), concedes “the right response is not to pretend the launch went the way we wanted. It did not.” I’ve been pulling the public data: GitHub commit history, on-chain trading records, and the long paper trail tea left across the package registries.\n\n## Where tea came from\n\ntea was founded by Max Howell, the creator of Homebrew, with Timothy Lewis. It [came out of stealth in March 2022](https://www.businesswire.com/news/home/20220323005603/en/Tea-Raises-$8-Million-Led-by-Binance-Labs-to-Create-New-Open-Source-Software-on-the-Blockchain) with $8M led by Binance Labs, followed by [an $8.9M seed round in December 2022](https://techcrunch.com/2022/12/06/from-the-creator-of-homebrew-tea-raises-8-9m-to-build-a-protocol-that-helps-open-source-developers-get-paid/). The pitch had two halves: a new package manager (the `tea` CLI), and a blockchain protocol that would reward the maintainers of open source packages with tokens. Howell wrote Homebrew and made nothing from it, and the pitch leaned on that history, famous Google interview rejection included.\n\nThe two halves split in October 2023, when the package manager was renamed [pkgx](https://github.com/pkgxdev/pkgx) and moved to its own GitHub org ([the old teaxyz/cli repo still redirects there](https://news.ycombinator.com/item?id=37768300)) while the teaxyz org kept the crypto protocol. pkgx is a decent piece of software, and it never had a token in it. But the separation was only organisational: the company and founders stayed the same, and pkgx remained part of tea’s pitch as the eventual “cryptographically aware package register” for the protocol.\n\n## The incentive design\n\nThe [white paper](https://docs.tea.xyz/tea-white-paper/white-paper) describes a mechanism called Proof of Contribution. Every package gets a score called [teaRank](https://tea.xyz/learn/proof-of-contribution), computed over the dependency graph and explicitly modelled on Google’s PageRank. The more packages depend on yours, the higher your rank, and rewards scale with rank. To claim a package you add a `tea.yaml` file to its repository containing your wallet address.\n\nThe protocol paid out tokens in proportion to how many packages you controlled and how connected they were. Registering a thousand packages paid better than one, and declaring dependencies between them pushed their ranks higher still. Nothing in the design was costly to fake, since a package name costs nothing to register and a dependency is one line in a manifest. In February 2024 tea opened [an incentivized testnet](https://chainwire.org/2024/01/29/tea-protocol-announces-incentivized-testnet-launch-setting-a-new-paradigm-in-open-source-software/), a trial version of the protocol where points earned would convert to tokens at launch, and reported [nearly 200,000 signups and 500 projects in the first week](https://www.globenewswire.com/news-release/2024/02/27/2836295/0/en/The-tea-Protocol-s-Incentivized-Testnet-Approaches-200K-Signups-and-500-Open-Source-Software-Projects-in-First-Week.html).\n\n## The spam\n\nThe farming started immediately, with pull requests on GitHub adding `tea.yaml` files to other people’s projects, trying to claim repos the submitter didn’t own. Howell called the PRs [“disgusting and counter productive”](https://socket.dev/blog/tea-xyz-spam-plagues-npm-and-rubygems-package-registries). On the registries, [Phylum documented](https://web.archive.org/web/2024/https://blog.phylum.io/digital-detritus-unintended-consequences-of-open-source-sustainability-platforms/) new npm package publications climbing from mid-February 2024 to over seven times normal daily volume, with around 14,000 tea-registered packages across npm, PyPI, RubyGems, and crates.io. [Sonatype counted roughly 15,000](https://www.sonatype.com/blog/devs-flood-npm-with-10000-packages-to-reward-themselves-with-tea-tokens) on npm alone, with single accounts publishing hundreds of packages.\n\nRubyGems published [an incident report](https://blog.rubygems.org/2024/04/14/the-implications-of-crypto-rewards-on-rubygems_org.html) describing empty gems created to farm rewards, including one six-year-old gem with over 100,000 downloads whose owner retroactively added a `tea.yaml` to cash in on it. In response they tightened publishing limits and blocked the accounts responsible. By August 2024, [DEVCLASS reported research](https://devclass.com/2024/08/07/npm-overflowing-with-tea-spam-spills-out-from-70-of-all-new-packages-research/) estimating that of roughly 890,000 packages published to npm in the prior six months, around 70% were tea farming spam.\n\nIn November 2025, Endor Labs analysed the [“IndonesianFoods” campaign](https://www.endorlabs.com/learn/the-great-indonesian-tea-theft-analyzing-a-npm-spam-campaign): 43,000+ packages from at least 11 npm accounts over nearly two years, with auto-generated names from word lists. [Amazon Inspector tied over 150,000 packages](https://aws.amazon.com/blogs/security/amazon-inspector-detects-over-150000-malicious-packages-linked-to-token-farming-campaign/) to the same token-farming campaign. Some coverage called it a worm, though [Socket’s analysis](https://socket.dev/blog/tea-protocol-spam-floods-npm-but-its-not-a-worm) found automation rather than self-propagation. The spam packages declared dependencies on each other to inflate teaRank, which meant installing any one of them pulled in the whole tree. [An academic paper](https://ldklab.github.io/assets/papers/scored25-teaspam.pdf) published in 2025 measures the abuse. The cleanup costs landed on npm, RubyGems, PyPI, and every mirror and security scanner downstream.\n\ntea [responded that November](https://tea.xyz/blog/owning-the-fallout-fixing-the-incentives-how-tea-is-responding-to-the-npm-token-farming-campaign) by halting rewards distribution for the affected period and promising redesigned anti-spam rules. Howell [told The Register](https://www.theregister.com/2025/12/17/tea_ceo_fends_off_token_farmers) the protocol would slash farmers’ rewards.\n\n## The launch\n\nIn September 2025, eight months before the protocol went live, tea ran [a public sale on CoinList](https://coinlist.co/tea), a site that runs token sales for crypto projects: 4 billion TEA at $0.0005 each, implying a $50M valuation for the full 100 billion token supply. The terms unlocked 100% of the tokens on day one. Token sales usually stagger when buyers can sell, releasing tokens over months or years so early buyers can’t all exit at once.\n\nThe launch plan, [announced May 12th](https://tea.xyz/blog/the-tea-party-begins), put trading on Aerodrome, an exchange that runs as a program on Base, a blockchain built by Coinbase, rather than as a company matching orders. Prices on this kind of exchange come from a pool of paired tokens, TEA on one side and a dollar-pegged token on the other, and each trade moves the price along a curve. The smaller the pool, the more each trade moves it. tea seeded the pool with 2% of the token supply and scheduled the launch for 00:00 UTC on June 4th.\n\n  \n  $0\n  \n  $0.0001\n  \n  $0.0002\n  \n  $0.0003\n  \n  $0.0004\n  \n  $0.0005\n  \n  $0.0006\n  \n  Jun 4\n  \n  Jun 5\n  \n  Jun 6\n  \n  Jun 7\n  \n  Jun 8\n  \n  Jun 9\n  \n  Jun 10\n  \n  Jun 11\n  \n  \n  official launch, 00:00 UTC Jun 4\n  Hourly $TEA price on Aerodrome (TEA/USDC pool), data from GeckoTerminal\n\nThe pool received its tokens from 22:47 UTC on June 3rd, and [the first trade executed at 23:54 UTC](https://basescan.org/tx/0x0675e1a8a168c2af3132c124ec061094fd9e1d18d395bf9507cc613f394c7f3a), six minutes before the official launch. tea’s June 8th post describes this as “onchain liquidity activity occurred ahead of the coordinated plan”: the pool was live and tradeable before the launch sequence finished. In those six minutes the price was bid up to $0.00065, above the CoinList sale price. In the first official hour, from 00:00 to 01:00 UTC, the price fell from $0.00046 to $0.00011 on $332,000 of volume, down 75% in 60 minutes.\n\nThe CoinList sale’s full unlock meant every September buyer was free to sell from the first minute, into a pool holding 2% of supply. The price has kept falling since and now sits around $0.00007, [86% below what CoinList buyers paid](https://www.coingecko.com/en/coins/tea-protocol) eight months ago, valuing the entire 100 billion token supply at roughly $7M against the $50M the sale implied.\n\nThe collapse didn’t need anyone to withdraw the tokens backing the pool, and the pool still holds around $280K. Per [the project’s own pre-launch transparency filing](https://cryptobriefing.com/tea-protocol-token-transparency-filing-tea-launch/), about 20% of supply was circulating at launch, ten times what the pool held.\n\n## The GitHub record\n\nMonthly commits across [the teaxyz org](https://github.com/teaxyz) and [the pkgxdev org](https://github.com/pkgxdev) show how much of the company was still working by launch day:\n\n  \n  0\n  \n  100\n  \n  200\n  \n  300\n  \n  400\n  \n  Jan 2024\n  \n  Jul 2024\n  \n  Jan 2025\n  \n  Jul 2025\n  \n  Jan 2026\n  \n  \n  \n  pkgxdev (package manager)\n  \n  teaxyz (protocol)\n  Commits per month to non-fork repos in each GitHub org, via the GitHub API\n\nCommits to the protocol org ramped through late 2024 as the team built [chai](https://github.com/teaxyz/chai), their open package dataset, and the token contracts, and even the December 2024 peak was only 100 commits. Activity declined through 2025: chai’s main developer stopped committing in August, the dataset repo’s last commit was in September, and the token contract repo’s last sustained work was in October and November. After November 2025, the month tea halted rewards over the farming campaign, the org had 2 commits in December, 1 in January, 2 in February, and none since.\n\nThe chart excludes forks, which hides the one place engineering continued: tea’s forks of go-ethereum and Optimism, the infrastructure for their blockchain, received steady commits from a single contributor through May 17th, 2026, two and a half weeks before launch.\n\nHowell wrote 236 commits to pkgxdev repos in January 2025 and kept a steady pace through May, then made only scattered commits until stopping entirely in November 2025. His public GitHub activity in June 2026 is in [automic-vault](https://github.com/automic-vault), a new org created in April with no connection to tea or pkgx, while [he remained tea’s CEO in press coverage](https://www.theregister.com/2025/12/17/tea_ceo_fends_off_token_farmers) as recently as December.\n\npkgx itself is now mostly the work of one maintainer, Jacob Heider, who has carried the package-building pipeline more or less alone since mid-2025, lately assisted by Claude Code-generated pull requests that he reviews and merges. User-filed issues on the pkgx repo (then still teaxyz/cli) peaked at 78 a quarter in early 2023 and have arrived at a rate of 2 a quarter in 2026.\n\nIn tea’s Discord, the conversation since launch is upset token holders: testnet participants who completed identity verification say they’re not eligible for the airdrop, the free distribution of tokens they spent two years earning points toward, and a week after launch the official line in the channel is that nobody has said there won’t be one. “The current price is a complete joke for everyone who participated in the project,” as one user put it, while the moderation bot issues warnings for bad word usage. The member list shows two people with the Core Contributor role, and neither is a founder. The channels for the open source side of the project, the dev and package dataset discussion, have had no real activity since 2025.\n\ntea’s post blames a bad week for crypto generally, and the wider market fell that week too. But the same post admits to “decisions, timing factors, and execution details that we are reviewing internally”, and the commit history shows few people left to conduct that review. Four years, roughly $17M in disclosed venture funding, and [about $2M more from the public sale](https://cryptobriefing.com/tea-protocol-token-transparency-filing-tea-launch/) produced several hundred thousand spam packages and a cleanup bill paid by registries that never had any relationship with tea. The maintainers tea set out to pay, the ones with real packages and dependents, are left holding the same token as the farmers.\n\n*Data notes: commit counts are author-dated commits to non-fork repos in each GitHub org, collected via the GitHub API on June 11th 2026. Price data is GeckoTerminal hourly [OHLCV](https://en.wikipedia.org/wiki/Open-high-low-close_chart) for the Aerodrome TEA/USDC pool on Base. Issue counts exclude pull requests, bots, and tea team accounts. The raw data and chart scripts are in [data/tea on GitHub](https://github.com/andrew/nesbitt.io/tree/master/data/tea).*",
+        "url": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Startup",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-06-11T10:00:00.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "My Portable Heater",
+        "summary": "**It’s hot. It’s kind of heavy.** And on my computing weapon of choice, it’s hard to set up.\n\nBut honestly, I love that it exists.\n\nRecently I’ve been taking a look at an eGPU, the Gigabyte Aorus RTX ",
+        "content": "**It’s hot. It’s kind of heavy.** And on my computing weapon of choice, it’s hard to set up.\n\nBut honestly, I love that it exists.\n\nRecently I’ve been taking a look at an eGPU, the Gigabyte Aorus RTX 5060 Ti AI Box, which is essentially a desktop GPU in a relatively small case. I’ve always been really curious about eGPUs, in part because they presumably offer the best of all worlds in many situations. Your laptop stays home with you, but when you want something beastly, you plug an eGPU into your setup, and boom—good graphics.\n\nWhat makes the AI Box interesting is that it is technically small enough to fit in your laptop bag, while still giving your presumably older laptop a leg up. (As it supports Thunderbolt 5, it also will eventually run faster whenever you get to upgrading the thing.)\n\n![ai-box-press-photo.jpg](https://proxy.tedium.co/WYn5K9NkTrf_TeyvobxZK2KhKTY=/1000x946/filters:quality(80)/uploads/ai-box-press-photo.jpg)Not sure many folks know about this yet, so in case you don’t, here’s your introduction.The GPU is actually a desktop GPU, though one that got gamer raspberries when it first came out. The Nvidia RTX 5060 was seen as [underpowered and lacking](https://www.youtube.com/watch?v=fGn-_qj76sk) in the RAM department when it first came out. The 5060 Ti [still got the side-eye](https://www.youtube.com/watch?v=IvzECuzFvp0) from gamers, but the bump up to 16GB of RAM made it more attractive to creatives or … yes, folks messing around with AI on their local machines.\n\nPart of the reason for this comes down to its design. Unlike most GPUs, it is designed for an eight-lane PCIe gen 5 setup, rather than the more common 16-lane approach. (PCIe has gotten really fast, which is why that’s even possible.) And once you remove the myriad number of fans the thing has, the board is actually quite small.\n\nOddly enough, I think the context is what really matters here. In a desktop for your average *Black Myth: Wukong* player, it feels a little on the weaker end. But for laptop jockeys who only occasionally load up Steam, it suddenly seems utterly awesome. It is a beacon of miniaturization that someone got a card this powerful to actually in something the size of a traditional Thunderbolt dock.\n\n![egpu-bag-setup.jpg](https://proxy.tedium.co/yyCIbD6wzdnFWxMEPfM69ezLGUQ=/905x683/filters:quality(80)/uploads/egpu-bag-setup.jpg)I had to improvise a case for this. A camera bag with the dividers removed makes for a pretty good one. (I included it in an [eGPU Starter Kit](https://shopping.tedium.co/collections/egpu-starter-kit/), if you’re curious.)You could carry this thing into a Panera and people would look at you like you have a giant power brick. (A small miss in this context is the decision to not include a sturdier case; after looking around, I landed on the [Koolertron Waterproof DSLR Camera Bag](https://amzn.to/4ofycr7). It fits nicely in a [Chrome bag](https://tedium.co/2025/03/01/chrome-messenger-bag-corporate-mission-drift/).)\n\nAnd given the speeds of the laptops where this might end up getting used—my HP Envy has dedicated Intel Arc graphics, but they pale in comparison to this thing—and the value prop shows itself.\n\nAnother way the value prop shows itself: At $699, it’s not that much more expensive than a standalone 5060 Ti, and it is more or less self-contained, which you definitely can’t say for a low-end eGPU. (It *is* more expensive than what the base price of the card was *supposed* to be, but, y’know, AI.) Most are just cheap adapters that presume that 1) you have a power supply and 2) you’re cool with letting your GPU hang out in the open air. It’s a rare example where you actually get more value from it by setting the upgradeability aside.\n\n(Though maybe not! As noted by [a user on the eGPU.io forums](https://egpu.io/forums/thunderbolt-enclosures/unboxing-gigabyte-aorus-rtx-5060-ti-ai-box-compact-thunderbolt-5-egpu/), the device itself is just a GPU on a very small PCIe card, plugged into an adapter. So if another card like this ever exists, you might even be able to upgrade it.)\n\n![aorus-ai-box-5060-ti.jpg](https://proxy.tedium.co/GzeYvdSL_7DQkvz9KmZTH26D_qQ=/1000x455/filters:quality(80)/uploads/aorus-ai-box-5060-ti.jpg)It looks like a Thunderbolt dock until you look through the grill and realize there are a couple of pretty big fans in there.\n### I set this thing up in Linux because I hate myself\n\nI’m not going to sugar-coat it: If you’re buying an eGPU to run on Linux, you’re intentionally asking for a world of pain. Fortunately, as a former [Hackintosher](https://tedium.co/2019/02/12/hackintosh-cultural-trend/), I’m a glutton for punishment, and I was willing to experiment to get the upside.\n\nAnd the problems this box had—freezes whenever the driver was enabled—reminded me of the most stressful parts of troubleshooting kexts in Clover.\n\nThe AI Box’s driver situation hasn’t fully been settled on Linux. But that hasn’t stopped some from trying, particularly developer Andrew Obersnel, who has built a project called [nvidia-driver-injector](https://github.com/apnex/nvidia-driver-injector) that essentially patches Nvidia’s driver, then runs it in a Docker container.\n\n![screenshot-2026-06-11-09-21-48.png](https://proxy.tedium.co/JlIINR61kHeFZU36dJ6VBR_OX20=/917x444/filters:quality(80)/uploads/screenshot-2026-06-11-09-21-48.png)What the GPU looks like when it’s working with an additional load on it.Even with that starting point, it still wasn’t a cakewalk. Obersnel’s tool was written for the more powerful 5090 AI Box—same family, different requirements. On top of that, I was trying to run it in Bazzite DX, an immutable distro, which meant a more complicated state of affairs for me. (I’m used to it.)\n\nGetting this working is absolute gruntwork, the kind of thing where using an LLM can be a huge help, helping to make sense of admittedly complex debugging schemes. It took a few hours, but eventually I hit paydirt.\n\nUnfortunately for me, the next update to Bazzite hit right after and forced me to rebuild everything. Annoying, but a little more LLM gruntwork got me on track. But let it be known: Linux is not for the faint of heart at this time. Hopefully that changes.\n\nOther operating systems offered differing tales: I ran it in Windows 11, installed the Nvidia drivers, and was immediately off to the races. More intriguingly, this GPU can theoretically run on Apple Silicon thanks to some [newly sanctioned drivers](https://docs.tinygrad.org/tinygpu/) from TinyGrad. I actually tested this method on my M1 Air and immediately ran into a brick wall, but if the card was a little older, it would have worked. Oh well, I’ll give it another shot in six months.\n\n### Running speed trials all over the place\n\nMy planned use case for this thing involves experimenting with local LLMs and giving creative software, particularly Affinity, a little extra horsepower.\n\nI did run a land speed test in LM Studio by having them run the same prompt. Using Qwen 3 VL 4B, a model small enough to fully fit in the laptop’s Intel Arc chip, the difference was fairly stark. The laptop’s dedicated GPU spat out text at about 14 tokens a second; the eGPU did so at 118 tokens/second. It was not even close, and there’s still headroom on this thing to spare.\n\n![lm-studio-sample.png](https://proxy.tedium.co/j26wV0tiQgRtuSSQT88w_-ylUWk=/974x582/filters:quality(80)/uploads/lm-studio-sample.png)The most honest LLM I’ve ever seen: “If there’s any ‘secret’ worth sharing about how LLMs like me work (and why internet-connected ones like ChatGPT wouldn’t dare to admit them), it’s this: we don’t actually know anything.”Newer models impressed as well, including the new Gemma4 12B model (around 35 tokens per second) and a distilled version of Qwen 3.5 trained on DeepSeek 4 (around 60 tokens per second). At least from a speed perspective, these models are quite capable—and after a little optimization I was able to increase those numbers a little further.\n\nLocal LLMs do have limits, however, and they’re easy to hit. I proved this with a very Tedium-coded challenge involving one of my favorite indie-rock dynasties: “Share with me a story about how [Conor Oberst](https://www.theguardian.com/music/2025/jun/13/bright-eyes-conor-oberst-music-interview-uk-tour) beat [Tim Kasher](https://www.omahamagazine.com/entertainment/keeping-up-with-kasher/) in a trivia game about the history of Omaha.”\n\nAll the tests shared a story, but the details were where everything fell flat. Most, not all, of the LLMs were aware that Oberst was the singer of Bright Eyes, but none got close to figuring out which band Kasher led—one said The Decemberists, another said The National. (The answer, of course, is Cursive, or if you’re a real fan, The Good Life.) You don’t trust models with anything factual, of course, but local LLMs are likely more fact-deprived than their server-rack cousins.\n\nAnd from a coding perspective, you will have to be careful about how you utilize a tool like this, testing some models to find the right balance. For example, I found that Gemma4 struggled to complete coding-related tasks in [Opencode](https://opencode.ai/), while the Qwen/DeepSeek combo I tested did fine, even if it wasn’t quite as smart as DeepSeek proper.\n\n(This is way beyond where it was a year ago, though.)\n\n![affinity-screenshot.png](https://proxy.tedium.co/I-0kQJMgjIn6w3TwsAwaJM2gQ4g=/1000x459/filters:quality(80)/uploads/affinity-screenshot.png)Minus some interface artifacting, this now runs about as smooth as something like Krita.One area where I was pleased with the results of this test was Affinity. I did a fresh install of the tool [using the graphical installer](https://github.com/ryzendew/Linux-Affinity-Installer), and after a little troubleshooting, I had a very polished app that excelled in Vulkan mode using this GPU plugged in.\n\nAnd for the nerds, yes, I did try a game or two. The 2016 edition of Doom, probably the closest thing in my library I have to a heavy game, scored 70fps at 4K medium and neared 100fps at 1440p ultra. Not a bad showing.\n\nBut it was a fraught one, in part because of Linuxy issues. I had some issues with resizable BAR (Base Address Register) that I needed to work out, and even after I did that, I ran into frequent freezes when attempting to run a DisplayPort cable through the eGPU itself. I don’t think that’s the device. I think it’s a mixture of driver immaturity and user error. It does mean that until I get it fixed, I’m leaving performance on the table until I bite the bullet and go back to Windows 11.\n\nThis is not a plug-and-play device on Linux. In fact, it had a tendency to siphon resources from other plugged-in devices to feed its never-ending desire for bandwidth. (At times, it could disable other devices plugged into a Thunderbolt dock, like my keyboard, mouse, and webcam.) But for those willing to put in the work, it is a very capable one.\n\n![aorus-ai-box-stand.jpg](https://proxy.tedium.co/2Tt3hKh74t9vjTJRl-6dKhy00Fo=/999x1452/filters:quality(80)/uploads/aorus-ai-box-stand.jpg)The stand, an optional feature, is kind of clever: It sticks onto the bottom with magnets. You can rock this either way, but the heat will be way more manageable the stand.\n### The eGPU for the rest of us? Not yet, but …\n\n**I’m certainly not going to say** that the eGPU market is one that I have a deep understanding of, but its potential has always been a bit difficult to grasp for normal consumers because of what it represents. It’s a tool to bring a stationary task to a portable system, a niche that has never truly had its moment, like mini PCs have.\n\nI think a device like this one gets us closer to such a moment. These things do have real downsides from a technical standpoint: Thunderbolt is just not as fast as a PCIe connection, and to get the best graphical performance out of the thing, you need to plug it into an external monitor. Having it run back through your laptop just tanks performance, though it’s still probably faster than anything else in your machine.\n\nThe 5060 Ti AI Box is certainly not the first “breakaway box” that attempts to bring a more portable form of this model to computers. But it is a relatively rare beast—a desktop GPU in a box that is smaller than a standard desktop GPU card. Plus, most prior attempts have been AMD graphics. AMD is fine, but the company is behind from a machine-learning standpoint, even with its recent improvements to [its ROCm computation stack](https://github.com/ROCm/rocm). (Side note: I think Intel should consider offering an eGPU, or at least push its vendors to offer one, as its Arc cards are fairly price-competitive at this time and would likely play nicer with Linux.)\n\nThere’s a possibility that eGPUs could eventually become a bridge device as laptops become more GPU-forward. That phenomenon already happened in the Mac ecosystem and could happen with PCs, based on Nvidia’s recent moves into ARM laptops. Those chips are powerful, with 5070-class GPUs and lots of RAM. But they’re not going to reach normal people for quite a while, thanks in part to their workstation-class positioning.\n\nUnless Nvidia taps into its war chest like Apple has, these are likely going to be mid-four-figure computers. Even enthusiasts might find themselves passing, at least at first.\n\nIn that light, an eGPU that can be plugged into a Thunderbolt port and can offer something approaching that experience to a class of people with normie laptops feels like an excellent compromise. That’s especially true if LLMs become more fundamental to how we do work.\n\nWhen I got this thing, I didn’t think the portability would be such an important part of why I like it so much, but it’s honestly the main feature. I hope we see a dozen models like it.\n\nAnd I hope we see some real work on making them first-class Linux citizens.",
+        "url": "https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-06-11T03:52:47.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: The world has moved on (11 Jun 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/11Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/11/lapsarian",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/11Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/11/lapsarianism/)\n\n## Today's links\n\n- [The world has moved on](https://pluralistic.net/2026/06/11/lapsarianism/#nostalgia-is-a-toxic-impulse): Notes from the enshittocene.\n\n- [Hey look at this](https://pluralistic.net/2026/06/11/lapsarianism/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/06/11/lapsarianism/#retro): \"Jpod\"; Barlow v Glickman; Cyclist v bike lanes; Judge v copyright trolls; \"The Uncertain Places\"; Thatcher v Palin; NY v Time Warner; Banks v negative interest rates; Keeping the new web decentralized; \"Prisoners' Inventions.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/06/11/lapsarianism/#upcoming): LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/06/11/lapsarianism/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/06/11/lapsarianism/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/06/11/lapsarianism/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/06/11/lapsarianism/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/the-world-moved-on.jpg?w=840&ssl=1)\n\n## The world has moved on ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#nostalgia-is-a-toxic-impulse))\n\nDouglas Adams wrote, \"Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works. Anything that's invented between when you’re 15 and 35 is new and exciting and revolutionary and you can probably get a career in it. Anything invented after you're 35 is against the natural order of things.\"\n\nI think about this quote whenever I get angry at the technology around me. When I rail against the Great Enshittening, am I simply committing the sin of nostalgia (\"Nostalgia is a toxic impulse\" -J. Hodgman)? I am, after all, *old*.\n\nI've written before how conservatives' yearning for \"simpler times\" is really just a wish to be a child again. The reason times seemed simpler during your childhood is *that you were a child*, and if your parents did their job, they shielded you from a lot of the complexity of *their* adulthood so you could enjoy *your* childhood:\n\n[https://pluralistic.net/2025/04/24/hermit-kingdom/#simpler-times](https://pluralistic.net/2025/04/24/hermit-kingdom/#simpler-times)\n\nThat's where the \"National Customer Rage Survey\" comes in. It's been surveying a panel of 1,000 representative consumers every three years for a decade, continuing a research project that started in 1976. The survey measures respondents' attitudes towards the businesses they deal with, and as of 2025, it's fair to say, customers are *pissed*:\n\n[https://customercaremc.com/2025-national-customer-rage-study/](https://customercaremc.com/2025-national-customer-rage-study/)\n\nWe're experiencing more problems with the products and services we use. Those problems are more severe, they make us angrier, and they produce lingering stress. More and more, we are seeking revenge on the businesses that piss us off.\n\nSo it's not just me, an old man yelling at the cloud. The world is getting *shittier*.\n\nThe latest Customer Rage Survey inspired *The Guardian*'s Heather Timmons to launch a new investigative series looking at how *fucked up* everything is. Her inaugural installment is very good, and it's drawn a massive reader response:\n\n[https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)\n\nI spoke with Timmons this week about the series. She told me she's been deluged with emails from readers who feel that the world is *different* now – and many of them cite my work on enshittification. Timmons wanted to know what advice I had for her readers. I told her that I don't think you can solve this as a consumer, because this isn't a *market* problem, it's a *political* problem, and shopping isn't politics:\n\n[https://pluralistic.net/2026/05/21/purity-culture/#stop-fucking-that-chicken](https://pluralistic.net/2026/05/21/purity-culture/#stop-fucking-that-chicken)\n\nLater, Timmons forwarded one of those emails to me. It gave an eloquent and evocative account of just how rancid the vibe is these days. The writer said that when they and their spouse encounter this rot, they cite Stephen King's *Dark Tower* novels, quoting the oft-repeated phrase from that series: \"The world has moved on.\"\n\nAt this point, I should warn you that the following contains some *Dark Tower* spoilers, so if you're planning to read a decades-old (but very good) dystopian western/science fiction crossover series, and if spoilers bug you, this might not be the essay for you.\n\nSpoiler alert!\n\nStill with me? OK, then.\n\nIn the *Dark Tower* novels, we crisscross a fallen world in which decay is all around us. The buildings are rotten, the machines have stopped working and no one knows how to fix them, babies and livestock alike are frequently born with deadly congenital defects. Much of the world has fallen into wasteland, cracked and barren. An army of wreckers, led by the demagogue John Farson (who styles himself \"The Good Man\") are slowly but surely conquering the land, laying waste to those few remaining outposts of civilization and conscripting the young men in the conquered lands to march on their neighbors.\n\nIt wasn't always this way. There was a time when the world was defined by hope and virtue and light, when the machines were fixed and the crops were harvested. Life wasn't golden – there were still squabbles and sorrows and even wars – but life was *good*.\n\nAnd then the world moved on.\n\nFor reasons that no one truly understands, the normal push/pull of decay and renewal turned into a one-way, irreversible process in which everything that crumbled or snapped or burned up couldn't be repaired or replaced or recovered. Our mysterious ability to beat back the Second Law of Thermodynamics – an absurdity we probably should have always treated as an aberration – has collapsed. The world has moved on.\n\nThe *Dark Tower* series is a long, long, *long* Bildungsroman, with many detours through the life-stories of the characters in the ensemble cast, as well as the biographies of many of the figures they meet along the road. It's mostly an adventure novel, as road-trip tales tend to be, but those character studies and the lore that they surface – from our world and theirs – creates an overwhelming, many-layered, richly textured sense of loss and worse, of *despair*. For the world has moved on, and despite the love and care and bravery of many of the people in that world, the world cannot be redeemed. Each terrible day of those people's lives is the *best* day of the rest of their lives. From here on in, it only gets worse.\n\nWhen Timmons' reader and their spouse greet every fresh depredation in modern life – hours on the phone with customer service to resolve a billing error that the company repeats every month, say – with \"the world has moved on,\" they are invoking something *heavy*. This isn't just a rancid vibe, it's the *fucking end-times*.\n\nFor all that the *Dark Tower* novels are a series of cracking adventures and thoughtful character studies, they are also a *mystery*. Over and over again, we are made to ask ourselves, *why* has the world moved on? Was it John Farson and his army? Was it the Man in Black, the evil wizard whom the book's protagonist has pursued across time and space? Was it the Crimson King, the evil force whom the Man in Black serves?\n\nWell, yes – and no.\n\nMidway through the novels, we learn that the Crimson King and his evil minions have laid siege to \"the beams,\" vast ley-lines that span the universe and provide the force that pushes away entropy, creating breathing room where repair and care can live. \"All things serve the beams,\" we're told. The beams are the organizing force of the universe, the answer to the riddle of how such pitiful things as we could have fought back remorseless entropy for so long. By attacking the beams, the villains of the series have all but snuffed out that force, and so *the world has moved on.*\n\nWhen I read that email and the invocation of the *Dark Tower*, I was immediately struck by how apt this comparison is. Because, as I've written many times, there were *always* enshittifiers who would have plundered your data and money and treated you with naked contempt:\n\n[https://pluralistic.net/2025/03/04/object-permanence/#picks-and-shovels](https://pluralistic.net/2025/03/04/object-permanence/#picks-and-shovels)\n\nThere were always enshittifiers, but those enshittifiers faced external forces that checked their wreckers' urge. They were held in check by competition, and regulation, and workers' sense of fairness and duty, and by the threat of new products and services that might pop up to correct the defects they deliberately introduced into their products by enshittifying them.\n\nAnd the foundation – the Dark Tower upon which all the beams converged- was antitrust enforcement, grounded in the idea that we could not afford to let any company – not a \"good\" company, nor a \"bad\" company – get so large that it could no longer be regulated, lest its executives become \"autocrats of trade\":\n\n[https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/](https://pluralistic.net/2022/02/20/we-should-not-endure-a-king/)\n\nThe same people who laid siege to antitrust law would later come after *all* forms of checks and balances. These are the people who gave us the \"unitary executive\" and Project 2025, and the collapse of accountability that has allowed the worst people to commit the gravest sins they could imagine and still reap vast fortunes. These beam-breakers wanted kings, and they got them.\n\nI collect definitions of \"conservatism,\" and one of my favorites comes from Corey Robin's book, *The Reactionary Mind*. Robins asks how it is that we can call so many disparate, irreconcilable ideologies – various ethno-nationalisms, imperialism, financialism, patriarchy, Christian nationalism, libertarianism, white supremacy, etc – \"conservative\"? What binds all these views together?\n\n[https://pluralistic.net/2025/07/22/all-day-suckers/#i-love-the-poorly-educated](https://pluralistic.net/2025/07/22/all-day-suckers/#i-love-the-poorly-educated)\n\nRobin's answer: the foundation that all these otherwise disparate views share is that some people are born to rule, while others are born to be ruled over. When these lesser people are elevated to positions of power, their inferiority creates a system of misrule, by which we all suffer. The best outcome for *everyone* is for us all to know our place and defer to our social betters.\n\nThat's why conservatives are obsessed with affirmative action, DEI, and any form of anti-racism. For them, the discriminatory outcomes we see in the wild are *natural*, reflecting the in-born defects in the people at the bottom of the social order. That's why, after every plane crash, every collision between a cargo ship and a bridge, every spectacular corporate bankruptcy, conservatives race to uncover the race, gender, religion and sexual orientation of the captain, the pilot or the CEO.\n\nIf the person who oversaw the catastrophe has anything remotely resembling a marginalized identity, then this is loudly trumpeted as confirmation that \"diversity hires,\" promoted above their station, are ruining our society and wrecking our bridges. Naturally, if the person in charge was a wealthy, well-born, straight white guy, that's just proof that shit happens – it definitely doesn't prove that white straight guys, as a class, should be removed from positions of power.\n\nFor conservatives, virtue is \"whatever the people who are born to rule desire.\" Hence Frank Wilhoit's definition of conservativism, \"exactly one proposition, to wit: There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect.\" It's not a crime if the president does it. It's also not a crime if your boss does it, or if a monopolist does it, or if ICE does it. It's not a crime if the IDF do it, or if the Epstein Class do it. \"Taxes are for the little people\":\n\n[https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest](https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest)\n\nThe attack on antitrust law was part of the attack on the *rule of law*, the campaign to put everyone back in the their place. It's a piece of the effort to establish a new hereditary aristocracy, and every hereditary aristocracy requires heredity serfs (that would be *us*):\n\n[https://pluralistic.net/2022/11/06/the-end-of-the-road-to-serfdom/](https://pluralistic.net/2022/11/06/the-end-of-the-road-to-serfdom/)\n\nThe ideology of economism – which says that market outcomes are the *only* way to govern a society – cashes out to \"the strong do what they can and the weak suffer what they must.\" If we interfere with mergers, or labor practices, or commercial conduct, we \"distort the market,\" which is literally *going against nature*:\n\n[https://pluralistic.net/2022/10/27/economism/#what-would-i-do-if-i-were-a-horse](https://pluralistic.net/2022/10/27/economism/#what-would-i-do-if-i-were-a-horse)\n\nThat's why Trump dismantled the consumer protection agencies, the antitrust agencies, the labor protection agencies, the environmental protection agencies. When someone in power cheats the system, that's not a crime, no matter how many people they rob, maim or kill. As Trump told us on the debate stage in 2016, that kind of cheating \"makes me smart\":\n\n[https://pluralistic.net/2024/12/04/its-not-a-lie/#its-a-premature-truth](https://pluralistic.net/2024/12/04/its-not-a-lie/#its-a-premature-truth)\n\nThat's why Elon Musk (almost) got to force every pension saver in America to bail out his money-incinerating AI business and his failed social media takeover – because the rules that protect everyday investors are \"for the little people.\" Musk's mistake was trying to get a bunch of billionaires to hold the bag, too. The one form of systemic violence our society *will not tolerate* is trillionaire-on-billionaire violence:\n\n[https://www.cnbc.com/2026/06/05/spacex-blocked-from-early-us-benchmark-index-entry-as-sp-reaffirms-existing-rules.html](https://www.cnbc.com/2026/06/05/spacex-blocked-from-early-us-benchmark-index-entry-as-sp-reaffirms-existing-rules.html)\n\nThe world has moved on. 50 years of neoliberal rule has weakened and snapped the beams – the rule of law, consumer and labor rights, civil rights – that radiated from our Dark Tower – antitrust law, which blocked the emergence of the \"autocrats of trade.\" The people who besieged these beams had the same motives as the Crimson King and John Farson and the Man in Black: they were willing to pay any price for a world free from consequences for people like them. They knew they were born to rule, and that the rules were \"for the little people,\" that breaking those rules \"made them smart.\"\n\nThey wanted \"bossism.\" Or, as rendered in the original Afrikaans, \"baasskap,\" which means, \"the social, political and economic domination of South Africa by its minority white population\":\n\n[https://en.wikipedia.org/wiki/Baasskap](https://en.wikipedia.org/wiki/Baasskap)\n\nNot for nothing, baasskap is the foundation of Muskism, the ideology that Elon Musk epitomizes, even if he can't articulate it:\n\n[https://pluralistic.net/2026/04/21/torment-nexusism/#marching-to-pretoria](https://pluralistic.net/2026/04/21/torment-nexusism/#marching-to-pretoria)\n\nIn \"The Utopia of Rules,\" the late David Graeber described how neoliberal deregulation produced exactly the kind of state that we were warned we'd get under communism. Thanks to monopolies, all the stores were the same and they all sold the same goods. Thanks to the dismantling of labor protection and unions, no one had enough money to get by. Thanks to elite impunity, we were ruled by monsters who committed crimes in the open and thrived as a result. Thanks to unchecked greed, we paid everything we had for healthcare, only to be denied treatment when we needed it. Thanks to the dismantling of the welfare state, more and more of us had to wait in long lines to fill out absurdly long forms in triplicate. Thanks to the intrinsic instability of such a terrible system, more and more of us ended up in prison, and protest became more and more illegal:\n\n[https://memex.craphound.com/2015/02/02/david-graebers-the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy/](https://memex.craphound.com/2015/02/02/david-graebers-the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy/)\n\nGraeber pointed out that the rise of the web made it seductively easy for people in authority to force us to fill in forms. When analog bureaucracies impose paperwork costs on us, they also impose paperwork costs *on themselves*, because processing and filing those forms requires substantial effort, even if filling in those forms requires even more effort from us.\n\nWhen it comes to *virtual* paperwork, the asymmetry is even more pronounced. Sure, it takes some admin to set up an online form and write the scripts to process its outputs, but that's a one-off. The form-giver can perform a very little admin and still impose a giant, repeated admin burden on the rest of us.\n\nAI has only made this worse. Now, thanks to vibe coding, everyone can produce a form and its associated processing and analytics back-end with prompts, which creates a grave moral hazard. The kinds of activities that I used to fill in a single short form to accomplish now requires ten lengthy forms, created by different people in the same organization, all asking for variations on the same information. Through AI, we have democratized bureaucracy. It's Kafka-as-a-service.\n\nWhat's more, when you're dealing with a monopoly, you have no choice but to complete whatever paperwork they throw at you. And when the vibe-coded back-end scripts shit the bed and lose or misinterpret your data, you have no choice but to endure an infinite telephone hold queue (if you're lucky) or get shunted to a customer service bot (if you're unlucky):\n\n[https://pluralistic.net/2025/11/11/sorry-to-bother-you/#we-dont-care-we-dont-have-to](https://pluralistic.net/2025/11/11/sorry-to-bother-you/#we-dont-care-we-dont-have-to)\n\nIt's entirely possible to build webforms that are thoughtful, fast, respectful of our time, and well-processed. The problem is that fielding these forms requires that the form-giver undertake some intensive, moderately expensive work (once), while skipping this step merely requires that we all perform intensive, time-consuming work (over and over and over again):\n\n[https://mohkohn.co.uk/writing/html-first/](https://mohkohn.co.uk/writing/html-first/)\n\nThis is how we end up with government forms that require you to list every trip you have ever taken to the USA, since your infancy, with every flight number, which you can only get help with by talking to a chatbot that emails you an out-of-date PDF no matter what question you ask of it:\n\n[https://pluralistic.net/2026/02/06/doge-ball/#n-600](https://pluralistic.net/2026/02/06/doge-ball/#n-600)\n\nThis is how we end up with massive customer service queues, long lines at tills, and no one at the gate to answer your questions when your flight is canceled. Understaffing is a form of enshittification, one that shifts value from shoppers to owners, and shifts consequences from owners to workers:\n\n[https://pluralistic.net/2026/03/22/nobodys-home/#squeeze-that-hog](https://pluralistic.net/2026/03/22/nobodys-home/#squeeze-that-hog)\n\nThis is how we end up with broken machines that no one can fix. Firing workers and replacing them with chatbots or contractors means incinerating their process knowledge – the precious, inchoate, unrecorded understanding that keeps everything working:\n\n[https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/#wash-dishes-cut-wood](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/#wash-dishes-cut-wood)\n\nThis is how companies that make products we love suddenly decide to wreck those products: when the only consequences for shitty products is angry customers with nowhere to go and no one to vent their rage upon except workers who have no labor rights and can't afford to quit, why *not* do a mafia bust-out for every business?\n\n[https://pluralistic.net/2023/07/28/microincentives-and-enshittification/](https://pluralistic.net/2023/07/28/microincentives-and-enshittification/)\n\nThe world has moved on. Nothing works. Everything costs too much. No one can help. No one knows how to fix anything. The beams were broken by the Crimson King and his economism-crazed minions. The Dark Tower might fall.\n\nSo what consumer advice do I have for people who are angry about this? I don't have *any* consumer advice, I'm afraid. You can't shop your way out of a monopoly. Once again, shopping *is not politics*.\n\nWhat I have for you is *political* advice. To restore the beams and beat back entropy again, we need a better *system*, not more virtuous individuals. If you feel – as I do – that \"the world has moved on,\" then to wrench it back, you will have to join a *polity*. Support activist groups like the Electronic Frontier Foundation, the digital rights group I've been at for the past 25 years:\n\n[https://supporters.eff.org/donate/join-eff](https://supporters.eff.org/donate/join-eff)\n\nJoin a union. If there's no union at your jobsite, start a union. If you work in tech, you start this process by talking to techsolidarity.org and the techworkerscoalition.org. In the UK, get in touch with United Tech and Allied Workers:\n\n[https://utaw.tech/](https://utaw.tech/)\n\nGet involved in party politics. Find a political party whose local organization supports your values (even if the national version of that party sucks) and then work with your fellow grassroots activists to drag or replace the party leaders. Get involved in local politics: if there's one thing Moms For Liberty has taught us, it's that unregarded, seemingly unimportant local offices have enormous potential to change facts on the ground for the people where you live. Those changes don't have to be change for the worse.\n\nDoing politics is hard. Hell, after all, is other people. It would be great if we could make change by changing ourselves, but that's not how any of this works. The world has moved on, and *you* can't save it. But together, *we* can restore the beams and beat back entropy. Hell is other people, but only because other people are so *great* but it's so hard to figure out how to work together. We can do it, though. We did it with the post-war settlement, the 30 glorious years when we built the welfare state, regulated polluters and bosses, and kicked off the civil rights movement. We did it then, and we can do it again. We must. All things serve the beams.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Apple wants Europe to blink [https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai](https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai)\n\n- \nTech Influence Watch [https://influence.citationneeded.news/](https://influence.citationneeded.news/)\n\n- \nGraham Platner and Stock Market Democrats [https://www.thebignewsletter.com/p/monopoly-round-up-graham-platner](https://www.thebignewsletter.com/p/monopoly-round-up-graham-platner)\n\n- \nNominate a Site for Tiny Awards 2026 [https://tinyawards.net/nominations/?2026](https://tinyawards.net/nominations/?2026)\n\n- \nRudy Rucker Paintings [https://www.rudyrucker.com/paintings/](https://www.rudyrucker.com/paintings/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#retro))\n\n#20yrsago Coupland’s JPod: the Anti-Microserfs [https://memex.craphound.com/2006/06/09/couplands-jpod-the-anti-microserfs/](https://memex.craphound.com/2006/06/09/couplands-jpod-the-anti-microserfs/)\n\n#20yrsago Anti-iTunes DRM demonstrations across the USA tomorrow [https://www.defectivebydesign.org/node/98](https://www.defectivebydesign.org/node/98)\n\n#20yrsago EFF co-founder Barlow debates MPAA prez Glickman [http://news.bbc.co.uk/2/hi/programmes/newsnight/5064170.stm](http://news.bbc.co.uk/2/hi/programmes/newsnight/5064170.stm)\n\n#20yrsago Warehouse where old Disney World rides go to die [https://limegreen-loris-912771.hostingersite.com/lost-horizons-another-look-back-at-a-future-world-favorite/](https://limegreen-loris-912771.hostingersite.com/lost-horizons-another-look-back-at-a-future-world-favorite/)\n\n#15yrsago IMF considered harmful [https://www.independent.co.uk/voices/commentators/johann-hari/johann-hari-it-s-not-just-dominique-strausskahn-the-imf-itself-should-be-on-trial-2292270.html](https://www.independent.co.uk/voices/commentators/johann-hari/johann-hari-it-s-not-just-dominique-strausskahn-the-imf-itself-should-be-on-trial-2292270.html)\n\n#15yrsago AT&T lobbies Wisconsin GOP to nuke Wisconsin’s best-of-breed co-op ISP for educational institutions [https://communitynetworks.org/content/does-att-really-own-wisconsin-legislature-battle-over-wiscnet-continues](https://communitynetworks.org/content/does-att-really-own-wisconsin-legislature-battle-over-wiscnet-continues)\n\n#15yrsago Developmentally disabled man harrassed by TSA at Detroit airport [https://web.archive.org/web/20110610141422/http://www.myfoxdetroit.com/dpp/news/taryn_asher/dad-special-needs-son-harassed-by-tsa-at-detroit-metropolitan-airport-20110608-wpms](https://web.archive.org/web/20110610141422/http://www.myfoxdetroit.com/dpp/news/taryn_asher/dad-special-needs-son-harassed-by-tsa-at-detroit-metropolitan-airport-20110608-wpms)\n\n#15yrsago Miami cops intimidate citizen journalist who recorded shoot-em-up, smash camera [https://web.archive.org/web/20110615035017/https://www.miamiherald.com/2011/06/02/v-fullstory/2248396/witnesses-said-they-were-forced.html](https://web.archive.org/web/20110615035017/https://www.miamiherald.com/2011/06/02/v-fullstory/2248396/witnesses-said-they-were-forced.html)\n\n#15yrsago NYC cyclist vs. bike lanes – kamikaze law-abiding [https://web.archive.org/web/20110612100758/https://consumerist.com/2011/06/test.html](https://web.archive.org/web/20110612100758/https://consumerist.com/2011/06/test.html)\n\n#15yrsago Judge to copyright trolls: you are “inexcusable” [https://arstechnica.com/tech-policy/2011/06/judge-furious-at-inexcusable-p2p-lawyering-cancels-subpoenas/](https://arstechnica.com/tech-policy/2011/06/judge-furious-at-inexcusable-p2p-lawyering-cancels-subpoenas/)\n\n#15yrsago Wah wah crybaby extortionists wah wah [https://torrentfreak.com/anti-piracy-lawyers-defame-torrentfreak-in-court-110609/](https://torrentfreak.com/anti-piracy-lawyers-defame-torrentfreak-in-court-110609/)\n\n#15yrsago Lisa Goldstein’s The Uncertain Places: Grimm fairytale in California vibrates with believable unreality [https://memex.craphound.com/2011/06/09/lisa-goldsteins-the-uncertain-places-grimm-fairytale-in-california-vibrates-with-believable-unreality/](https://memex.craphound.com/2011/06/09/lisa-goldsteins-the-uncertain-places-grimm-fairytale-in-california-vibrates-with-believable-unreality/)\n\n#15yrsago American right upset at report that Thatcher won’t meet Palin [https://www.theguardian.com/world/2011/jun/09/margaret-thatcher-sarah-palin-meeting](https://www.theguardian.com/world/2011/jun/09/margaret-thatcher-sarah-palin-meeting)\n\n#15yrsago Lobbynomics: Canadian Chamber of Commerce manufactures fake $30 billion counterfeiting loss [https://web.archive.org/web/20110611045202/https://www.michaelgeist.ca/content/view/5841/125/](https://web.archive.org/web/20110611045202/https://www.michaelgeist.ca/content/view/5841/125/)\n\n#10yrsago USA Swimming bans rapist Brock Turner for life [https://www.rollingstone.com/culture/culture-news/usa-swimming-bans-convicted-rapist-brock-turner-for-life-114108/](https://www.rollingstone.com/culture/culture-news/usa-swimming-bans-convicted-rapist-brock-turner-for-life-114108/)\n\n#10yrsago Human advice for exercising while depressed [https://web.archive.org/web/20160505140324/https://theestablishment.co/2016/05/05/depression-busting-exercise-tips-for-people-too-depressed-to-exercise/](https://web.archive.org/web/20160505140324/https://theestablishment.co/2016/05/05/depression-busting-exercise-tips-for-people-too-depressed-to-exercise/)\n\n#10yrsago Every industry thinks it’s special, but only finance gets treated that way [https://www.nakedcapitalism.com/wp-content/uploads/2016/06/John-Kay-BIS-speech.pdf](https://www.nakedcapitalism.com/wp-content/uploads/2016/06/John-Kay-BIS-speech.pdf)\n\n#10yrsago Spain’s Podemos Party publishes its manifesto in Ikea Catalog form [https://estaticos.elperiodico.com/resources/pdf/9/4/1465389843149.pdf](https://estaticos.elperiodico.com/resources/pdf/9/4/1465389843149.pdf)\n\n#10yrsago Reminder: Neal Stephenson predicted Donald Trump in 1994 [https://memex.craphound.com/2016/06/10/reminder-neal-stephenson-predicted-donald-trump-in-1994/](https://memex.craphound.com/2016/06/10/reminder-neal-stephenson-predicted-donald-trump-in-1994/)\n\n#10yrsago Donald Trump, deadbeat [https://www.usatoday.com/story/news/politics/elections/2016/06/09/donald-trump-unpaid-bills-republican-president-laswuits/85297274/](https://www.usatoday.com/story/news/politics/elections/2016/06/09/donald-trump-unpaid-bills-republican-president-laswuits/85297274/)\n\n#10yrsago UK startup offers landlords continuous, deep surveillance of tenants’ social media [https://web.archive.org/web/20160610150904/https://gawker.com/new-startup-that-sends-dossiers-on-your-private-social-1781576586](https://web.archive.org/web/20160610150904/https://gawker.com/new-startup-that-sends-dossiers-on-your-private-social-1781576586)\n\n#10yrsago UK Parliament votes in Snoopers Charter, now it goes to the House of Lords [https://www.techdirt.com/2016/06/08/uk-parliament-ignores-concerns-moves-snoopers-charter-forward/](https://www.techdirt.com/2016/06/08/uk-parliament-ignores-concerns-moves-snoopers-charter-forward/)\n\n#10yrsago Hard times for judge who sued dry-cleaner for $65M over missing pants [https://www.loweringthebar.net/2016/06/pants-chapter-28.html](https://www.loweringthebar.net/2016/06/pants-chapter-28.html)\n\n#10yrsago New York Attorney General to Time Warner: your Internet is “abysmal” and “troubling” [https://arstechnica.com/information-technology/2016/06/time-warner-cable-internet-speeds-are-abysmal-ny-ag-claims/](https://arstechnica.com/information-technology/2016/06/time-warner-cable-internet-speeds-are-abysmal-ny-ag-claims/)\n\n#10yrsago Banks confront negative interest rates with plans to store titanic bundles of money on-site [https://www.nakedcapitalism.com/2016/06/banks-rebel-against-negative-interest-rates.html](https://www.nakedcapitalism.com/2016/06/banks-rebel-against-negative-interest-rates.html)\n\n#10yrsago Watchdogs 2: hacker kids led by a guy named Marcus fight the DHS in San Francisco [https://www.youtube.com/watch?v=5ipUwUcHASI](https://www.youtube.com/watch?v=5ipUwUcHASI)\n\n#10yrsago Internet greybeards and upstarts gather to redecentralize the Internet [https://www.nytimes.com/2016/06/08/technology/the-webs-creator-looks-to-reinvent-it.html](https://www.nytimes.com/2016/06/08/technology/the-webs-creator-looks-to-reinvent-it.html)\n\n#10yrsago How we will keep the Decentralized Web decentralized: my talk from the Decentralized Web Summit [https://www.youtube.com/watch?v=Yth7O6yeZRE](https://www.youtube.com/watch?v=Yth7O6yeZRE)\n\n#5yrsago Prisoners' Inventions [https://pluralistic.net/2021/06/09/king-rat/#mother-of-invention](https://pluralistic.net/2021/06/09/king-rat/#mother-of-invention)\n\n#5yrsago Urban broadband deserts [https://pluralistic.net/2021/06/10/flicc/#digital-divide](https://pluralistic.net/2021/06/10/flicc/#digital-divide)\n\n#5yrsago A denialism taxonomy [https://pluralistic.net/2021/06/10/flicc/#denialism](https://pluralistic.net/2021/06/10/flicc/#denialism)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- LA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19\n\n[https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant](https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant)\n\n- \nMenlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21\n\n[https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026](https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026)\n\n- \nToronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23\n\n[https://iabcanada.com/state-of-the-nation-2026](https://iabcanada.com/state-of-the-nation-2026)\n\n- \nToronto: TBA, Jun 23\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nPhiladelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25\n\n[https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559](https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559)\n\n- \nChicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26\n\n[https://exileinbookville.com/events/50628](https://exileinbookville.com/events/50628)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#recent))\n\n- The Enshittification of Life, the Universe, and Everything (Luke Savage)\n\n[https://www.lukewsavage.com/p/the-enshittification-of-life-the](https://www.lukewsavage.com/p/the-enshittification-of-life-the)\n\n- \nCory Doctorow's digital jail-break (DW In Focus)\n\n[https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035](https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035)\n\n- \nWhy the Internet Got Worse and What to Do About It (Jim Rutt) (RIP)\n\n[https://www.jimruttshow.com/cory-doctorow-3/](https://www.jimruttshow.com/cory-doctorow-3/)\n\n- \nOn Enshittification – and what can be done about it (Re:publica)\n\n[https://www.youtube.com/watch?v=KhINQgPMVSI](https://www.youtube.com/watch?v=KhINQgPMVSI)\n\n- \nEFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu)\n\n[https://archive.org/details/effecting-change-enshittification](https://archive.org/details/effecting-change-enshittification)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/06/11/lapsarianism/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/06/11/lapsarianism/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "Thu, 11 Jun 2026 14:43:06 +0000",
+        "reading_time": 27,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "datasette 1.0a33 - This alpha is a significant step on the road to a stable 1.0, finally extending the `?_ext...",
+    "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude - 11th June 2026 - Link Blog **[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI R...",
+    "Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’ - opens in new window ## Due to",
+    "Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/06/719302041_17972930535111851_242...",
+    "★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items - Perhaps the worst UI crime in MacOS 26 Tahoe was the inexplicable decision to add inscruta..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "com",
+      "count": 7
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "asyncinject",
+      "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 3
+    },
+    {
+      "word": "june",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "datasette",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "siri",
+      "count": 3
+    },
+    {
+      "word": "tea",
+      "count": 3
+    },
+    {
+      "word": "xyz",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "pattern",
+      "count": 2
+    },
+    {
+      "word": "prolog",
+      "count": 2
+    },
+    {
+      "word": "logic",
+      "count": 2
+    },
+    {
+      "word": "programming",
+      "count": 2
+    },
+    {
+      "word": "language",
+      "count": 2
+    },
+    {
+      "word": "name",
+      "count": 2
+    },
+    {
+      "word": "en",
+      "count": 2
+    },
+    {
+      "word": "evolution",
+      "count": 2
+    },
+    {
+      "word": "gate",
+      "count": 2
+    },
+    {
+      "word": "us",
+      "count": 2
+    },
+    {
+      "word": "robotics",
+      "count": 2
+    },
+    {
+      "word": "merger",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "anthropic",
+      "count": 2
+    },
+    {
+      "word": "walks",
+      "count": 2
+    },
+    {
+      "word": "policy",
+      "count": 2
+    },
+    {
+      "word": "sabotaged",
+      "count": 2
+    },
+    {
+      "word": "researchers",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "due",
+      "count": 2
+    },
+    {
+      "word": "craig",
+      "count": 2
+    },
+    {
+      "word": "federighi",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "macos",
+      "count": 2
+    },
+    {
+      "word": "icons",
+      "count": 2
+    },
+    {
+      "word": "menu",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jun",
+      "count": 2
+    }
+  ]
+}
