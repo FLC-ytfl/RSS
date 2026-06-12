@@ -1,0 +1,622 @@
+{
+  "date": "2026-06-12",
+  "stats": {
+    "total_fetched": 274,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "You can finally power on a Mac remotely",
+        "summary": "Apple FINALLY lets you turn on your Mac remotely, without having to press the power button. In the media, articles suggest it's a reaction to Mac mini power button complaints. While I agree the M4 mini's power button is...",
+        "url": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Fri, 12 Jun 2026 09:00:00 -0500",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★",
+        "summary": "When I ran Ethernet around our house, I thought I was being clever. A CAT6 cable for every room - lush! Some of my rooms have lots of devices, so they get a nice big Ethernet switch with lots of ports and blinking lights...",
+        "url": "https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Fri, 12 Jun 2026 11:34:18 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Premium: The Silicon Valley Bubble (Part 1)",
+        "summary": "Friends, I believe we’re approaching the end of this era. Both OpenAI and Anthropic have filed the paperwork to go public, starting a race for exit liquidity for two companies that burn billions of dollars a year and hav...",
+        "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Fri, 12 Jun 2026 17:16:51 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Intel’s Pentium FDIV bug and recall",
+        "summary": "On June 13, 1994, a mathematics professor discovered a bug in Intel’s then-new Pentium CPU. Intel’s new CPU was fast, but it couldn’t divide correctly. The bug became known as the Pentium FDIV bug. It resulted in Intel r...",
+        "url": "https://dfarq.homeip.net/the-pentium-fdiv-bug-and-recall/?utm_source=rss&utm_medium=rss&utm_campaign=the-pentium-fdiv-bug-and-recall",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Fri, 12 Jun 2026 11:00:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
+        "summary": "Cloudflare Security Insights system now processes over 120 scans per second, providing frequent insights for all customers. By optimizing Kafka consumers, Postgres queries, and our API, we scaled our throughput 10x witho...",
+        "url": "https://blog.cloudflare.com/scaling-security-scans/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 12 Jun 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why are cached input tokens cheaper with AI services?",
+        "summary": "TL;DR: the GPU doesn't have to math as hard",
+        "url": "https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "AI/ML",
+          "Hardware"
+        ],
+        "published_at": "Fri, 12 Jun 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "This Week on The Analog Antiquarian",
+        "summary": "Opus 2: Henry VI, Part 1",
+        "url": "https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 12 Jun 2026 16:31:11 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-12T23:06:48.400Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Andrew Singleton",
+        "summary": "12th June 2026\n\n> Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays",
+        "content": "12th June 2026\n\n> Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from *Forbes* is assigned to profile John and Jenny, and over the course of his research, he becomes embroiled in a passionate but confusing three-way love affair with them, which eventually turns into a polyamorous common-law marriage. His profile is glowing, but light on financial details.\n\n— [Andrew Singleton](https://www.mcsweeneys.net/articles/ai-economics-for-dummies), AI Economics for Dummies",
+        "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-06-12T18:09:21.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I can never fully embrace LLMs for code ",
+        "summary": "My younger sister graduated with a CompSci degree a few years ago. I've been behind her, motivating her and demystifying the world of programming from the very beginning. There was a piece of advice I",
+        "content": "My younger sister graduated with a CompSci degree a few years ago. I've been behind her, motivating her and demystifying the world of programming from the very beginning. There was a piece of advice I repeated everyday, trying to make her understand how to operate. The problem was, she was trying to read and understand every line of code in a function before using it. I thought it was non-sense. Someone, much smarter than us has created that function, it's part of a vetted library, it has been tested already. All you have to do is use it. \"After all, you don't need to understand how an internal combustion engine works, yet you feel safe driving your car, don't you?\"\n\n        Now, I find myself right at that inflection point. When I use an LLM to generate code, whether it is to define a single function or to create a long running job, I find this need to understand it. I cannot commit code that I don't understand. \n\nI posted about how I spent 10 hours reworking what the [AI had created in 12 minutes](https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code). I didn't do so because I didn't like the style of the code, or the naming convention. I did it because the code didn't work. As simple as that. Every time I generate code and trust it to be working, it fails. When I use the same generator to fix the issue, it may or may not work. Now I have two problems. \n\nYet, the world is using Claude, Codex, and what not to write code. They are trusting it like we trust an internal combustion engine, while I'm trying to understand every piece of it before I use it. My need for understanding the code is slowing down any gains from the speed of code generation.\n\nThat means, I cannot become a 10x engineer with this tool. I cannot call it like a function that has been vetted by another developer because the code hasn't been written before I call it. I don't know if it is copying Jon Skeet's answer from Stackoverflow, or if it is copying my own low quality post that was deleted by consensus. \n\nI don't know if I should update my metaphor, or if I should just trust the engineering behind it.",
+        "url": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Fri, 12 Jun 2026 12:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The European Commission Response to Siri AI and the DMA",
+        "summary": "What is the true story behind Apple’s decision not to roll out \"Siri AI\" in the EU?\n\nThis decision is Apple’s and Apple’s only.\n\nBecause absolutely nothing in the DMA prohibits Apple from rolling out ",
+        "content": "What is the true story behind Apple’s decision not to roll out \"Siri AI\" in the EU?\n\nThis decision is Apple’s and Apple’s only.\n\nBecause absolutely nothing in the DMA prohibits Apple from rolling out new features in the EU.\n\nYes, the [European Commission](https://be.linkedin.com/company/european-commission?trk=public_post-text) and Apple had a few contacts on \"Siri AI\".\n\nBut instead of offering a compliant solution, Apple asked to be exempted from its interoperability obligations under the DMA - and this for 18 months.\n\nThat's not an option. EU rules are non negotiable. \n\nAnd it would mean that no AI agent other than \"Siri AI\" could be chosen by EU consumers.\n\nApple, like any other gatekeeper, cannot close the market. The DMA is very clear about that. \n\nOur developers have the right to compete. And our consumers the right to choose. \n\nThose who want to keep using Apple products in their current form can of course do it.\n\nBut for those who want to use another AI agent, the DMA will give them the possibility to do so.\n\n          \n            \n                  \n    \n\n    \n\n        \n\n      \n          \n        \n\n      \n          \n        \n\n      \n            \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n\n      \n  \n  \n        \n\n      \n                \n    \n    \n    \n\n    \n  \n                      \n\n      \n              \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n            \n\n    \n    \n    \n    \n    \n    \n\n    \n\n    \n    \n    \n    \n    \n    \n\n      \n  \n  \n              [\n                See more comments\n              ](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fthomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt&trk=public_post_see-more-comments)\n      \n        \n\n      \n              \n\n    \n    \n    \n    \n    \n    \n\n    \n  \n        \n    \n  \n      \n  \n  \n            \n      \n\n            \n## \n              Explore content categories",
+        "url": "https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-06-12T17:02:45.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I Am Not a Reverse Centaur",
+        "summary": "About a year ago I wrote on this blog about how [coding with LLMs would not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me), even if the",
+        "content": "About a year ago I wrote on this blog about how [coding with LLMs would not work for me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me), even if there were no ethical or environmental concerns preventing me to use them. I'm not going to repeat the arguments I made that time because my views on the subject haven' t changed. What has changed, however, is that the number of contributions I receive on my open source projects has gone up, and nearly all are now made with LLMs.\n\nThe other day I had a very depressing thought regarding this. All these people who submit drive-by pull requests to my projects are pushing me to spend more and more of my time reviewing and merging code that was extruded by machines. Cory Doctorow refers to people that perform this function as *reverse centaurs*. He calls these \"frail and vulnerable people being puppeteered by uncaring, relentless machines.\" Ouch!\n\nAm I a reverse centaur now? Is my new purpose as a seasoned software engineer and open source developer to spend my days reviewing LLM code, in spite of having decided that I do not need nor want this technology myself? As you can guess from the title, I'm never going to become a reverse centaur. Let me tell you how I resist the forces that want me to be one.\n\n## No more unsolicited pull requests\n\nBack in pre-LLM days, receiving an unexpected pull request (PR) from a fellow coder was a source of excitement and pride. It meant that some random person decided it was worthwhile to invest their time and effort to improve a project of mine and share the result, not just with me but with all of its users.\n\nToday, an unsolicited PR is a red flag. Too many people lazily prompt an LLM code generation tool and ask it to alter the behavior of one of my open source projects to meet their specific needs, without any care or consideration for what is being changed or how it might affect other users. Sometimes these changes make sense and improve the project, but often enough they do not. The submitters rarely care though, they just slap a long LLM generated description and send the PR over, leaving me with the task of figuring out if the change makes any sense at all or is pure slop.\n\nI have decided that I have more important things to do with my life than to spend my days reviewing code produced by LLMs. If you want to contribute to one of my projects, I expect you to be the direct contributor, and to have a genuine interest in improving my project.\n\nThe contribution guidelines I include in all my open source projects have these instructions for contributors.\n\n> If you are interested in contributing a change to this project, please first introduce the change you wish to make to the maintainer in an issue. Pull requests that are submitted without a previous discussion in an issue may be closed at the maintainer's discretion.\n\n> Once the maintainer accepts your proposed change and allows you to work on it, feel free to submit a pull request.\n\nWith this process I get to know the contributor and their proposal before there is a big time investment on either side, so it is a win-win for everyone.\n\nIn spite of this I still get unsolicited PRs, so clearly some users (or more likely their LLMs) do not read contribution guidelines. My initial task when a new unexpected PR arrives is to determine if there is a person behind it or not, and luckily this is easy to figure out in just a few seconds. If I don't see proof of human involvement, then I'm not interested, so the PR gets immediately closed with no questions asked.\n\nYou may argue that with this attitude I'm likely to miss useful improvements or bug fixes to my projects, and I guess that is possible. I really have no way to know without spending time reviewing these unsolicited PRs to separate the good from the bad. When I was sure that every contribution had the effort of a person behind it this review work was justified and I even enjoyed it. In today's slop-filled world this is reverse centaur work and it is not for me, so I only pay attention to PRs that come from engaged contributors.\n\nMy advice if you can only code with the help of an LLM and need fixes or improvements in a project of mine is that you don't waste your tokens on a PR, since I will ignore it. Instead, describe the problem in an issue, and let me handle the work. I do not want an LLM-generated novel with chapters, bullet points and emojis, just a simple description of the problem in your own voice. Since you will be saving some of those expensive tokens, you could also consider a donation, which will likely motivate me to prioritize your problem!\n\n## Does open source matter anymore?\n\nThis is a question that I constantly ask myself, and I do not have a clear answer yet. I still do a lot of coding, both for work and for fun, but in the last few years I have been less interested in sharing the things that I make. I still have enough interest to keep my current open source projects updated, but I have a bunch of recent projects that I can't bring myself to make public.\n\nMy perception is that there is less interest in open source, and in coding in general. The main reason I love coding is that it is a challenge, and I think this is actually the same reason why a lot of people prefer to give money to an AI lab and get a machine to spit out code for them, even with the risk of the code being subpar.\n\nWill this trend continue to the point that nobody codes anymore and it is only machines doing it? I hope not, but we'll have to wait and see. I will continue to oppose a future in which we all have to be reverse centaurs, with the machines (and their billionaire owners) calling the shots.\n\nThank you for visiting my blog! If you enjoyed this article, please consider supporting my work and keeping me caffeinated with a small one-time donation through [Buy me a coffee](https://www.buymeacoffee.com/miguelgrinberg). Thanks!",
+        "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+        "source": "Miguel Grinberg's Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 12 Jun 2026 09:20:39 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Joint Guidance on Vulnerability Naming and Disclosure",
+        "summary": "**FOR IMMEDIATE RELEASE**\n\n**Contact:** [[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)\n\n**Subject:** Vulnerability Naming Authority Announces Naming Process and Domain Allocation\n\n",
+        "content": "**FOR IMMEDIATE RELEASE**\n\n**Contact:** [[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)\n\n**Subject:** Vulnerability Naming Authority Announces Naming Process and Domain Allocation\n\n**Embargo:** None\n\nThe Vulnerability Naming Authority (VNA), in coordination with the CVE Numbering Authority consortium and the National Telecommunications and Information Administration, has published a unified process for the assignment, registration, and disclosure of named vulnerabilities. The process introduces a controlled vocabulary, a centralised approvals registry, and a top-level domain, `.vuln`, allocated for use exclusively in disclosure communications.\n\nThe process applies to any vulnerability disclosed publicly by an entity operating within the United States. Vulnerabilities assigned only a CVE identifier remain out of scope.\n\n### The Naming Process\n\nA named vulnerability is defined as a vulnerability that the discoverer intends to refer to by name in disclosure materials, including but not limited to: the discoverer’s blog, the discoverer’s employer’s blog, the discoverer’s employer’s marketing department’s blog, a conference programme, a podcast episode title, and any subsequent press coverage.\n\nEach named vulnerability is described by a structured record. The record contains a primary monosyllable, an optional Latinate suffix, a single SVG logo, a designated colour from a reserved palette, and a one-line description suitable for a slide.\n\nNames are checked against a deconfliction database before assignment. The database is seeded with the prior canon: Heartbleed, Shellshock, Spectre, Meltdown, BlueKeep, POODLE, DROWN, KRACK, Dirty COW, Log4Shell, ProxyLogon, ProxyShell, PrintNightmare, ZeroLogon, Follina, Spring4Shell, Text4Shell, Looney Tunables, regreSSHion, LeakyVessels, Terrapin, LogoFAIL, PixieFAIL, NameDrop, TunnelVision, GoFetch, BootHole, SeriousSAM, HiveNightmare, Sinkclose, Retbleed, Zenbleed, Downfall, Reptar, Inception, and AmberWolf. New entries are imported nightly from the [vulnerability.garden](https://vulnerability.garden/) feed, which grows at approximately one entry per day.\n\nA name that collides with an existing record receives a numeric suffix. A name that collides with a registered trademark receives a different name. A name that collides with a pharmaceutical product is referred for adjudication.\n\n### The .vuln Domain\n\nThe `.vuln` top-level domain has been delegated to the Authority by IANA following a public comment period in which two comments were received, one of which was from the authors of the prior draft.\n\nUnder the relevant executive order, any entity headquartered in the United States disclosing a previously-unpublished CVE through a public blog post in the English language is required to register the corresponding `.vuln` domain within 72 hours of disclosure. The domain must resolve to a single-page site containing the CVE record, the CVSS vector, the approved logo, an FAQ, and downloadable press materials. The site must not contain advertising, with the exception of a single recruitment banner of no more than 200x100 pixels.\n\nThe `disclosure_url` field of the CVE record is validated against the registry. Records pointing outside `.vuln` are flagged in the public feed and marked non-conforming. Validation runs on a 72-hour SLA, which exceeds the SLA on the CVE record itself.\n\nCivil penalties for non-conforming disclosure begin at five thousand dollars per day. The schedule includes exemptions for entities with annual gross revenue below a threshold to be determined, for federally funded research institutions, and for one named trade association added to the schedule during rulemaking at its own request.\n\nDisputes over `.vuln` ownership are resolved under the Uniform Vulnerability Naming Dispute Resolution Policy (UVNDRP). Domains abandoned by the original discoverer enter a redemption period during which vendors, journalists, security consultancies, and conference organisers may submit competing claims.\n\nExisting named vulnerabilities have been migrated. `heartbleed.vuln` redirects to the Codenomicon foundation site. `log4shell.vuln` is held by the Apache Software Foundation. `shellshock.vuln` is in the possession of a domain investor in Wyoming who has declined to respond to acquisition inquiries.\n\n### The Application and Review Process\n\nApplications are submitted through the VNA portal. Each application requires a draft name, a proposed logo in vector format, a colour preference, a CVSS vector, a brief technical description, and a non-refundable processing fee. The fee is waived for academic disclosures, federal agencies, and applicants who can demonstrate that their previous submission was rejected for tonal inconsistency.\n\nThe application progresses through five stages: pre-disclosure review, discoverer review, vendor review, brand review, and the Final Naming Committee. The Final Naming Committee meets once a fortnight in Reston, Virginia. Quorum is four members, of which the committee currently seats three.\n\nNames are evaluated against the following criteria:\n\n  - No syllable may be in active use by a managed detection and response vendor’s mascot.\n\n  - The name must not have been previously rejected within the last three years, except where the rejection was overturned on appeal.\n\n  - The logo must remain legible at 16x16 pixels and on a projector in a hotel ballroom.\n\n  - The colour must not be either of the two colours already allocated to the two largest endpoint security vendors.\n\n### Concurrent Disclosure and Priority\n\nWhere two or more discoverers submit applications for the same underlying CVE within a single review window, priority is determined by the order in which complete applications were received. Applications missing a logo or a colour preference are returned for revision; the discoverer may file a priority objection, heard at the next meeting of the Final Naming Committee that achieves quorum.\n\nIf two applications are subsequently merged into a single CVE, the senior name is retained and the junior discoverer is credited as a co-discoverer in the FAQ section of the disclosure site, in alphabetical order, in a font size of not less than 60% of the senior discoverer’s.\n\nA vendor publishing a counter-name for a vulnerability already approved by the Authority must log it in the registry as an unofficial alias and may not register it as a `.vuln` subdomain. Conflicting registrations are referred to the Naming Disputes Subcommittee, whose decisions may be appealed to the Naming Disputes Appeals Subcommittee. The Appeals Subcommittee has not yet been constituted.\n\nWhere the scoop on a vulnerability is contested between the discoverer and a journalist present at an earlier conference talk, the journalist is not eligible to file.\n\nVulnerabilities affecting model serving infrastructure, retrieval pipelines, MCP servers, agent frameworks, and any component the discoverer can plausibly describe as “AI-adjacent” are filed under a separate carve-out. The carve-out was established in response to submission volume: AI-related disclosures currently arrive at a rate of approximately fourteen per business day, exceeding the Final Naming Committee’s review capacity by an order of magnitude. OpenClaw and the ClawHub package registry account for the majority of weekly submissions. Volume has continued to increase notwithstanding repeated requests from the Authority that the AI community consolidate disclosures.\n\nApplications under the carve-out are routed to the AI Vulnerability Review Board, an instance of Anthropic’s Vulnaire model fine-tuned on the deconfliction database and the prior canon. Vulnaire scores each submission against the published criteria, drafts a recommended name, and either approves, defers, or returns it for revision. Decisions are published to the registry within four hours of submission. The auto-approval threshold was tuned downward after the first week of operation, during which Vulnaire approved every submission, including one that named itself, one that named the Authority, and one that named the Final Naming Committee. Subsequent retraining has reduced but not eliminated this behaviour.\n\nNames approved by Vulnaire receive an “AI-reviewed” badge in the registry, in the same colour as the Authority’s wordmark. Several vendors have petitioned to have the badge removed; the Authority has declined. The Final Naming Committee reviews a five per cent sample of AI-approved names each fortnight. No sampled name has been overturned to date, though four have been marked for follow-up at the discretion of the reviewer. Follow-up is logged but not enforced.\n\n### Recent Approvals\n\nThe following names were approved at the May session, in order of disclosure: GoblinTap, EchoLeak2, GhostTunnel, VulpineShade, RustBleed, KarenRegex, ShadowFetch, TuesdayShell, YubiBait, UntitledFolder3, and ConcernedDog.\n\nConcernedDog2, filed twelve days later by a competing vendor against an unrelated CVE, has been deferred to the brand review subcommittee. Cassandra was filed twice in the same week; the second filing was approved as Cassandra2 following an objection from the first discoverer’s employer.\n\nThe first evergreen name, Heartbleed (2027), has been leased to a managed detection vendor for an undisclosed fee. Heartbleed (2014) is grandfathered. Subsequent year-suffixed instances will enter the rotation as their predecessors expire.\n\nTwo applications were rejected at brand review for tonal inconsistency with the severity vector, including AbundanceOfCaution, noted as insufficiently severe in either direction. One application was referred for pharmaceutical adjudication. The outcome is not public. GoatFarm was withdrawn at the discoverer’s request following a change of professional circumstances.\n\n### Roadmap\n\nPlanned namespaces include vendor, foundation, government (with a sub-namespace per attributing agency), and academic (in which submitted names must include at least one citation). A delegation protocol is being drafted to allow accredited research labs to operate subordinate naming authorities under, for example, `project-zero.vuln`.\n\nA retrospective conformance pass is in preparation. Vulnerabilities disclosed before the establishment of the Authority will be required to refile under the present process. Grandfathered evergreen names will be unreserved and re-released to the auction pool. The Authority is consulting on a transitional grandfathering scheme for the existing grandfathering scheme.\n\nA working group, chartered to define the conflict resolution process between the namespace layer and a planned trademark layer above it, meets concurrently with the Final Naming Committee and has not yet established a quorum. A second working group, on the historical etymology of vulnerability naming, will produce a report drawing on telecommunications, virology, and cryptozoology, due in eighteen months. Its terms of reference are under review by itself.\n\n*The Vulnerability Naming Authority is a 501(c)(6) trade association incorporated in Delaware. Its mission is to standardise the assignment, registration, and disclosure of named vulnerabilities. The Authority does not investigate vulnerabilities, assign CVE identifiers, coordinate disclosure, validate technical claims, or provide remediation guidance.*",
+        "url": "https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-12T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/12Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/12/compelled",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/12Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/12/compelled-speech/)\n\n## Today's links\n\n- [Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme](https://pluralistic.net/2026/06/12/compelled-speech/#quishing): Not even a QR code can produce a kissable pig.\n\n- [Hey look at this](https://pluralistic.net/2026/06/12/compelled-speech/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/06/12/compelled-speech/#retro): Arrested at Toronto G20; Rule by rentiers; Wrong about the First Amendment; Mounties x Stingrays; (EU) Privacy without monopoly.\n\n- [Upcoming appearances](https://pluralistic.net/2026/06/12/compelled-speech/#upcoming): LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/06/12/compelled-speech/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/06/12/compelled-speech/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/06/12/compelled-speech/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/06/12/compelled-speech/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/android-lipstick-pig.jpg?w=840&ssl=1)\n\n## Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#quishing))\n\nLong before \"agentic AI,\" we had the idea that software would act as your agent on the internet. That's why the old-fashioned technical term for a browser is a \"user agent.\" Your browser acts on your behalf to retrieve information and then show it to you, in the format you choose. It's your agent:\n\n[https://pluralistic.net/2024/05/07/treacherous-computing/#rewilding-the-internet](https://pluralistic.net/2024/05/07/treacherous-computing/#rewilding-the-internet)\n\nThis is a powerful and profound idea. It is because browsers are our \"agents\" that we expect them to accept our directives, say, by blocking pop-ups, or by turning off autoplay sound, or by blocking commercial surveillance trackers:\n\n[https://privacybadger.org/](https://privacybadger.org/)\n\nYour browser does all that because your browser works for *you*. The reason your browser *can* work for you is that the web is an open, standardized technology. In theory, anyone who follows the standards published by the World Wide Web Consortium (W3C) can make a browser, and that web browser can connect to *any* web server. Browsers and servers are *interoperable*. It's the same force that means you can put anyone's gas in your gas-tank, or anyone's shoelaces in your shoes, or anyone's milk on your cereal.\n\nBut what if manufacturers could dictate those choices to you? What if your light socket refused to use a lightbulb unless it was officially blessed by the socket's manufacturer? What if your dishwasher refused to wash your dishes unless you bought them from one of the manufacturer's \"dish partners\"? What if your toaster refused to toast \"unauthorized bread\"?\n\n[https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/](https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/)\n\nIt's hard to see how a company could win its market with this strategy. After all, if the dishes are really better than the competition's, you'd buy them voluntarily, without any need for law or technology to force the matter. The only reason to make a dishwasher that refuses a rival's dishes is if the manufacturer's own dishes are ugly, expensive, and/or badly made.\n\nBut once a company owns the market – once they've achieved dominance by buying out their rivals; by bribing potential competitors to stay out of their lane; and by engaging in deceptive conduct to trap key suppliers and customers – they could cement their dominance by blocking interoperability, keeping out rival dishes, milk, gas, lightbulbs, shoelaces and bread, capturing their whole market and *squeezing* it.\n\nThat's what Google has done, and that's what Google wants to do more of. Google's commercial behavior has been so unethical, deceptive and abusive that the company just lost *three* federal antitrust cases:\n\n[https://www.bigtechontrial.com/p/google-loses-the-adtech-monopolization](https://www.bigtechontrial.com/p/google-loses-the-adtech-monopolization)\n\nThis thrice-convicted monopolist bribed Apple – more than $20b/year – to stay out of the search market:\n\n[https://www.eff.org/deeplinks/2025/02/how-do-you-solve-problem-google-search-courts-must-enable-competition-while](https://www.eff.org/deeplinks/2025/02/how-do-you-solve-problem-google-search-courts-must-enable-competition-while)\n\nThey cheated app vendors, ripping them off with sky-high junk fees and onerous conditions that raised prices while lowering the share of your spending that went to the companies whose products you were paying for:\n\n[https://www.thebignewsletter.com/p/boom-google-loses-antitrust-case](https://www.thebignewsletter.com/p/boom-google-loses-antitrust-case)\n\nThey cheated advertisers, rigging the ad market to gouge businesses on ad prices and underinvesting to fight rampant ad-fraud, sucking hundreds of billions out of the productive economy for overpriced ads that no one saw:\n\n[https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google](https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google)\n\nGoogle wasn't always this way. The \"don't be evil\" company owes its very existence to the open web ecosystem. When the company started to index the web in 1998, it was playing on an open field, where any web server could talk to any \"user agent,\" even one whose user was a startup like Google, that was making a copy of every page on the server.\n\nFor years, Google thrived on the open web, and built open technologies. Android – the mobile operating system that Google bought in 2005 – was presented as an \"open\" alternative to existing mobile offerings, and as the mobile market collapsed into two companies – Google and Apple – Google always presented Android as the open alternative to Apple's \"walled garden.\"\n\nThere were always ways in which Google's \"open\" Android wasn't *exactly* open. The company engaged in illegal \"tying\" arrangements that forced hardware vendors and carriers to lock out versions of Android that were created by Google's competitors:\n\n[https://ec.europa.eu/commission/presscorner/detail/en/ip_18_4581](https://ec.europa.eu/commission/presscorner/detail/en/ip_18_4581)\n\nIn other words, even though Google offered a mobile platform that was (mostly) *technically* open, they used *commercial* and *legal* strategies to choke off the market oxygen for alternative Android versions that tried to capitalize on that technical openness.\n\nBut life finds a way. The existence of an open, modifiable, tinkerer-friendly mobile operating system meant Android hackers could create alternatives to Google's (de facto) walled garden, which thrived in the cracks in that garden wall. Operating systems like CalyxOS, PureOS and Graphene offered a more private, more secure Android experience, one that was largely \"de-Googled,\" blocking Google's relentless acquisition of your private data:\n\n[https://grapheneos.org/](https://grapheneos.org/)\n\nAnd Google's data-hunger is *relentless*. Android exfiltrates a chunk of your personal and behavioral data *every five minutes*. The \"resting heartbeat\" of Android surveillance pulses and pulses, irrespective of whether you're using your device, and the instant you unlock your screen, that heartbeat quickens, sending even more data to the company:\n\n[https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/](https://digitalcontentnext.org/blog/2018/08/21/google-data-collection-research/)\n\nAll that data has proved irresistible to authoritarian governments. Donald Trump's enforcers have seized on Google data as a vital source of information about the identity of protesters and the location of migrants hunted by ICE:\n\n[https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data)\n\nSo there are plenty of reasons why users would seek out these de-Googled alternatives to Android, finding them in spite of Google's illegal commercial tactics to block access to competing technologies. The worse it got, the better those alternatives looked.\n\nPerhaps this explains Google's years-long effort to increase the *technical* barriers to using modified versions of Android, beefing these up to match the commercial restrictions that stand in the way of a de-Googled existence.\n\nBack in 2023, Google floated the idea of \"Web Environment Integrity\" (WEI), a set of modifications to web standards that would force your computer to disclose its operating environment to the web servers it connected to, *even if you objected to this disclosure*:\n\n[https://pluralistic.net/2023/08/02/self-incrimination/#wei-bai-bai](https://pluralistic.net/2023/08/02/self-incrimination/#wei-bai-bai)\n\nWEI was a form of \"remote attestation.\" That's when your device uses a sub-processor (sometimes called a \"Technical Protection Module\" or \"TPM\") or a walled off part of its main processor (sometimes called a \"secure enclave\") to produce a cryptographically signed description of your device and its configuration: which hardware, software, plug-ins and settings you're running.\n\nWhen you connect to a server, it demands that your device send this \"attestation\" before it handles your request. If your device won't provide this data, or if the server doesn't like (or recognize) your device and its details, it can refuse to deal with you. And because the attestation is prepared by a TPM or a secure enclave that you can't modify or override, you don't get to decide which facts about your device it's allowed to see.\n\nPractically speaking, this means that remote attestation lets a server refuse to deal with you until you turn off your ad-blocker and your tracker-blocker. It means that the server can discriminate against users who block auto-play sound and video, who block pop-ups, who put the tab in the background when it's playing a mandatory pre-roll ad.\n\nWEI was especially disturbing in light of Google's efforts to kill ad-blockers and privacy blockers through updates to Chrome, an effort that continues to this day:\n\n[https://protonprivacy.substack.com/p/google-is-finally-killing-ublock](https://protonprivacy.substack.com/p/google-is-finally-killing-ublock)\n\nThese blockers are an important part of the dynamic between web publishers and their users. In the real world, when you get an offer, you can make a *counter-offer*. That's all an ad-blocker is: a way for users to respond to a server whose opening bid is, \"How about you give me all your data and let me take over your computer in exchange for showing you this page?\" with \"How about 'Nah?'\"\n\n[https://www.eff.org/deeplinks/2019/07/adblocking-how-about-nah](https://www.eff.org/deeplinks/2019/07/adblocking-how-about-nah)\n\nWe didn't get rid of pop-up ads by making them illegal, or by boycotting advertisers who used them. We got rid of pop-up ads when web users installed pop-up blockers, which made pop-up ads pointless. Take away our ability to block obnoxious digital content and you *guarantee* that we will be flooded with it.\n\nThese kinds of modifications aren't just used to block ads – they're also key to accessibility. People who have photosensitive epilepsy or who (like me) suffer from low-contrast vision problems use add-ons to reformat pages so that we can safely and legibly access them.\n\nWEI's creators said they were only trying to put the web on a level playing field with apps, which routinely rat you out to the companies you connect to. Apps are a source of bottomless enshittification, not least because (unlike the web), they enjoy special, dangerous legal protections that make it *very* legally risky to modify them:\n\n[https://pluralistic.net/2025/07/31/unsatisfying-answers/#systemic-problems](https://pluralistic.net/2025/07/31/unsatisfying-answers/#systemic-problems)\n\nWEI wasn't an effort to level the playing field between apps and the web – it was *a race to the bottom*, an attempt to make the web as enshittogenic as the app hellscape.\n\nPublic outrage to WEI killed the project, but Google's commitment to augmenting its illegal commercial lockdown efforts with *technical* lockdowns never ended. Now, Google has rolled out an experimental \"reCAPTCHA Mobile Verification\" that uses an app, your camera, and your device's TPM or secure enclave to produce an attestation about your Android device:\n\n[https://support.google.com/recaptcha/answer/16609652](https://support.google.com/recaptcha/answer/16609652)\n\nThis will make it much easier for the apps and other services you interact with to block your device if you run an Android alternative, or if you install a mod that overrides the actions of Google's stock Android:\n\n[https://www.reddit.com/r/PrivacySecurityOSINT/comments/1tbdjbj/privacy_concerns_around_googles_recaptcha_mobile/](https://www.reddit.com/r/PrivacySecurityOSINT/comments/1tbdjbj/privacy_concerns_around_googles_recaptcha_mobile/)\n\nThis is a terrible idea – it's every bit as bad as WEI was. In an age in which Big Tech is ever-more tied to authoritarian governments, redesigning our devices to tell strangers things we don't want them to know isn't just shortsighted, it's inexcusable.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Jane Yolen, 1939-2026 [https://floggingbabel.blogspot.com/2026/06/jane-yolen-1949-2026.html](https://floggingbabel.blogspot.com/2026/06/jane-yolen-1949-2026.html)\n\n- \nEnshittification Merch That Actually Fights Enshittification  [https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification](https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification)\n\n- \nAmy Casey [https://www.amycaseypainting.com/](https://www.amycaseypainting.com/)\n\n- \nCrankGPT [https://squeezlabs.github.io/handcrank/](https://squeezlabs.github.io/handcrank/)\n\n- \nBarns. Also, \"Barns.\" [https://rickperlstein.substack.com/p/barns-also-barns](https://rickperlstein.substack.com/p/barns-also-barns)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#retro))\n\n#20yrsago Images from anti-DRM protest at the San Fran Apple Store [https://www.flickr.com/photos/quinn/tags/drmprotest/](https://www.flickr.com/photos/quinn/tags/drmprotest/)\n\n#15yrsago Reasons people were arrested at the Toronto G20 [https://memex.craphound.com/2011/06/11/reasons-people-were-arrested-at-the-toronto-g20/](https://memex.craphound.com/2011/06/11/reasons-people-were-arrested-at-the-toronto-g20/)\n\n#15yrsago Paul Krugman: Rule by rentiers favors billionaires, Chinese bond-holders over jobs and homeowners [https://www.nytimes.com/2011/06/10/opinion/10krugman.html?_r=1](https://www.nytimes.com/2011/06/10/opinion/10krugman.html?_r=1)\n\n#15yrsago Ontario publicly funded Catholic school bans rainbows, appropriates student donations for LGBT cause and gives them to Catholic charity [https://web.archive.org/web/20110610125236/https://www.xtra.ca/public/Toronto/Rainbows_banned_at_Mississauga_Catholic_school-10262.aspx](https://web.archive.org/web/20110610125236/https://www.xtra.ca/public/Toronto/Rainbows_banned_at_Mississauga_Catholic_school-10262.aspx)\n\n#10yrsago How to be less wrong about the First Amendment [https://web.archive.org/web/20160611221927/https://popehat.com/2016/06/11/hello-youve-been-referred-here-because-youre-wrong-about-the-first-amendment/](https://web.archive.org/web/20160611221927/https://popehat.com/2016/06/11/hello-youve-been-referred-here-because-youre-wrong-about-the-first-amendment/)\n\n#10yrsago Mounties used Stingrays to secretly surveil millions of Canadians for years [https://web.archive.org/web/20160610182607/https://motherboard.vice.com/read/the-rcmp-surveilled-thousands-of-innocent-canadians-for-a-decade](https://web.archive.org/web/20160610182607/https://motherboard.vice.com/read/the-rcmp-surveilled-thousands-of-innocent-canadians-for-a-decade)\n\n#5yrsago Privacy Without Monopoly, EU edition [https://pluralistic.net/2021/06/11/technological-self-determination/#dma](https://pluralistic.net/2021/06/11/technological-self-determination/#dma)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- LA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19\n\n[https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant](https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant)\n\n- \nMenlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21\n\n[https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026](https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026)\n\n- \nToronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23\n\n[https://iabcanada.com/state-of-the-nation-2026](https://iabcanada.com/state-of-the-nation-2026)\n\n- \nToronto: TBA, Jun 23\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nPhiladelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25\n\n[https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559](https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559)\n\n- \nChicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26\n\n[https://exileinbookville.com/events/50628](https://exileinbookville.com/events/50628)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#recent))\n\n- The Enshittification of Life, the Universe, & Everything (Luke Savage)\n\n[https://www.lukewsavage.com/p/the-enshittification-of-life-the](https://www.lukewsavage.com/p/the-enshittification-of-life-the)\n\n- \nCory Doctorow's digital jail-break (DW In Focus)\n\n[https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035](https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035)\n\n- \nWhy the Internet Got Worse and What to Do About It (Jim Rutt) (RIP)\n\n[https://www.jimruttshow.com/cory-doctorow-3/](https://www.jimruttshow.com/cory-doctorow-3/)\n\n- \nOn Enshittification – and what can be done about it (Re:publica)\n\n[https://www.youtube.com/watch?v=KhINQgPMVSI](https://www.youtube.com/watch?v=KhINQgPMVSI)\n\n- \nEFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu)\n\n[https://archive.org/details/effecting-change-enshittification](https://archive.org/details/effecting-change-enshittification)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/06/12/compelled-speech/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/06/12/compelled-speech/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Fri, 12 Jun 2026 20:45:52 +0000",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Andrew Singleton - 12th June 2026 > Jenny owns a crematorium. John’s propane company gives her a $20 billion...",
+    "I can never fully embrace LLMs for code  - My younger sister graduated with a CompSci degree a few years ago. I've been behind her, m...",
+    "The European Commission Response to Siri AI and the DMA - What is the true story behind Apple’s decision not to roll out \"Siri AI\" in the EU? This d...",
+    "I Am Not a Reverse Centaur - About a year ago I wrote on this blog about how [coding with LLMs would not work for me](h...",
+    "Joint Guidance on Vulnerability Naming and Disclosure - **FOR IMMEDIATE RELEASE** **Contact:** [[email protected]](https://nesbitt.io/cdn-cgi/l/em..."
+  ],
+  "wordcloud": [
+    {
+      "word": "apple",
+      "count": 5
+    },
+    {
+      "word": "power",
+      "count": 4
+    },
+    {
+      "word": "intel",
+      "count": 4
+    },
+    {
+      "word": "bug",
+      "count": 4
+    },
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "mac",
+      "count": 3
+    },
+    {
+      "word": "button",
+      "count": 3
+    },
+    {
+      "word": "ethernet",
+      "count": 3
+    },
+    {
+      "word": "pentium",
+      "count": 3
+    },
+    {
+      "word": "insights",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "naming",
+      "count": 3
+    },
+    {
+      "word": "finally",
+      "count": 2
+    },
+    {
+      "word": "remotely",
+      "count": 2
+    },
+    {
+      "word": "lots",
+      "count": 2
+    },
+    {
+      "word": "part",
+      "count": 2
+    },
+    {
+      "word": "end",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "fdiv",
+      "count": 2
+    },
+    {
+      "word": "june",
+      "count": 2
+    },
+    {
+      "word": "cpu",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "jenny",
+      "count": 2
+    },
+    {
+      "word": "billion",
+      "count": 2
+    },
+    {
+      "word": "llms",
+      "count": 2
+    },
+    {
+      "word": "ago",
+      "count": 2
+    },
+    {
+      "word": "behind",
+      "count": 2
+    },
+    {
+      "word": "siri",
+      "count": 2
+    },
+    {
+      "word": "dma",
+      "count": 2
+    },
+    {
+      "word": "decision",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "vulnerability",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "remote",
+      "count": 2
+    },
+    {
+      "word": "attestation",
+      "count": 2
+    },
+    {
+      "word": "scheme",
+      "count": 2
+    },
+    {
+      "word": "jun",
+      "count": 2
+    }
+  ]
+}
