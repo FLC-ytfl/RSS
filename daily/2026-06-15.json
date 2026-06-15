@@ -1,0 +1,777 @@
+{
+  "date": "2026-06-15",
+  "stats": {
+    "total_fetched": 278,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Julia Evans",
+        "summary": "<blockquote cite=\"https://wizardzines.com/comics/write-for-one-person/\"><p>[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend.</p></blockquot...",
+        "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T02:05:19.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Quaternion Rotations, Claude, and Lean",
+        "summary": "I got an email message this afternoon reporting a typo in a blog post from about a year ago on converting between quaternions and rotation matrices [1]. The email said exactly where the typo was, but I decided to see whe...",
+        "url": "https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 15 Jun 2026 19:31:38 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Writing Prolog with ChatGPT",
+        "summary": "A few days ago I wrote about using Claude to solve a chess puzzle by writing Prolog code. This morning I tried a similar chess puzzle with ChatGPT. The task is to place a queen, king, rook, bishop, and knight on a 4 by 4...",
+        "url": "https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Mon, 15 Jun 2026 17:22:43 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "EU & Civil Society need to progress on Digital Autonomy",
+        "summary": "By now (happily) everyone wants to talk about digital autonomy, although some parties insist we talk about sovereignty. Fine. tl;dr: The discussions on digital autonomy are now going round in circles. Civil society and t...",
+        "url": "https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Mon, 15 Jun 2026 15:00:00 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] What happens to old posts?",
+        "summary": "Welcome to RSS Club! These posts are only available to RSS and Atom subscribers. You can read more about the idea at Dave Rupert's site. I recently received an email from a distraught reader: I was going through my recen...",
+        "url": "https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 15 Jun 2026 11:34:34 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AI's Brokenomics",
+        "summary": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detail...",
+        "url": "https://www.wheresyoured.at/brokenomics/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Mon, 15 Jun 2026 19:28:23 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "GIF’s June 1987 debut",
+        "summary": "On June 16, 1987, the GIF file format made its debut. That’s right, GIF predates the modern Internet. The first web browsers supported GIF because it was already very popular in the early 1990s and well supported. The pr...",
+        "url": "https://dfarq.homeip.net/gifs-june-1987-debut/?utm_source=rss&utm_medium=rss&utm_campaign=gifs-june-1987-debut",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Mon, 15 Jun 2026 11:00:09 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 508",
+        "summary": "Light switches. How on earth is it so hard to find decent light switches?! It sounds ridiculous until you actually spend enough time looking for ones that meet two simple criteria: Aren't stateful (switch is up or down,...",
+        "url": "https://www.troyhunt.com/weekly-update-508/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 15 Jun 2026 04:55:47 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A brief history of KV cache compression developments",
+        "summary": "How KV cache compression - from MQA and GQA to MLA and linear-attention hybrids - quietly unlocked the long context windows that make modern agentic LLMs possible.",
+        "url": "https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Mon, 15 Jun 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Growing the Cloudflare AI team with talent from Ensemble AI",
+        "summary": "Cloudflare is deepening our investment in AI with the addition of team members from Ensemble AI, focusing on machine learning infrastructure and efficiency.",
+        "url": "https://blog.cloudflare.com/ensemble-ai-talent-joins-cloudflare/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Cloud"
+        ],
+        "published_at": "Mon, 15 Jun 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-15T23:28:33.908Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+        "summary": "15th June 2026 - Link Blog\n\n**[\"They screwed us\": Personality clashes sent Anthropic's models offline](https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos)**. Lots of \"source familiar ",
+        "content": "15th June 2026 - Link Blog\n\n**[\"They screwed us\": Personality clashes sent Anthropic's models offline](https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos)**. Lots of \"source familiar with the administration's thinking\" and \"source close to Anthropic\" in this Axios piece, which is the best collection of behind-the-scenes gossip I've seen about the US government [export control Mythos/Fable story](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/) so far.\n\nLogan Graham ([I lead the Frontier Red Team at Anthropic](https://logangraham.xyz/)), Dave Orr (Head of Safeguards, previously a Director of Engineering at Google DeepMind), and blog favorite [Nicholas Carlini](https://simonwillison.net/tags/nicholas-carlini/) are reported to be meeting with the Commerce Department today in D.C. Good luck to them!\n\n(I just noticed Logan was \"Special Adviser to the Prime Minister\" in the Boris Johnson era, covering AI, science, and technology policy - so significant political experience.)\n\nThis closing notes doesn't give me much optimism that we'll be getting Fable back any time soon:\n\n> **The bottom line**: One option is to make sure Anthropic's models can't be jailbroken — though perfect jailbreak resistance [may be](https://www.anthropic.com/news/fable-mythos-access) impossible.\n\n> Absent that, a source familiar with the administration's thinking said it may simply come down to an attitude fix where, instead of feeling dismissed, \"everyone feels safe, secure and happy.\"\n\nThis made me wonder if Anthropic ever successfully addressed the class of attacks described in the [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/) paper from 2023.\n\nIt looks like their [Constitutional Classifiers](https://www.anthropic.com/research/next-generation-constitutional-classifiers) work (that post is from January this year) is relevant to that. They continue to claim that no \"universal jailbreak\" has been found against Claude Mythos, [classifying the jailbreak](https://www.anthropic.com/news/fable-mythos-access) that triggered the US government response as \"a potential narrow, non-universal jailbreak\".",
+        "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "2026-06-15T14:57:33.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "‘Anthropic’s Safety Superpower’",
+        "summary": "I’m sympathetic to the cynics who consistently characterize Anthropic’s public statements, particularly those surrounding their model releases, as scare-mongering for the sake of marketing. It was onl",
+        "content": "I’m sympathetic to the cynics who consistently characterize Anthropic’s public statements, particularly those surrounding their model releases, as scare-mongering for the sake of marketing. It was only two months ago that Anthropic announced Mythos Preview, a model that they said was too dangerous to make publicly available, thanks in particular to its advanced cybersecurity capabilities. Then, two months later, the company publicly released Fable, a version of Mythos with various safety guardrails.\n\nFable is, in my limited experience, a very impressive model. It’s increasingly difficult to objectively evaluate models for anything other than coding performance, but there is subjective feel, and I found my interactions with Fable to be extremely impressive; it made other models, including GPT 5.5 and Opus 4.8, feel small and dumb. The two times I felt that way previously were with GPT-4 and Grok 4, both of which represented new generations in terms of base model size and complexity; my sense is that Fable is downstream of a new pre-train and the first of a new generation.\n\nTo that end, I can certainly buy the case that Fable/Mythos is in fact more capable when it comes to identifying and exploiting security issues, and that Anthropic’s cautious roll-out was justified. The problem with publicly releasing models, however, is that guardrails can be jailbroken, and apparently that is exactly what happened shortly after the release.\n\n### Anthropic vs. the U.S. Government, Again\n\nWhat happened next is somewhat unclear. Anthropic wrote in [a blog post](https://www.anthropic.com/news/fable-mythos-access):\n\n> The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance. Access to all other Anthropic models will not be affected.\n\n> \n> \n> \n> We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or “jailbreaking” Fable 5. We reviewed a demonstration of this specific technique being used to identify a small number of previously known, minor vulnerabilities. These vulnerabilities all appear relatively simple, and we have found that other publicly-available models are able to discover them as well without requiring a bypass.\n\nAnthropic went on to make the case that non-universal jailbreaks were inevitable and also narrow, and that there was no evidence of a universal jailbreak; the jailbreak that was found, meanwhile, appears to have been [reported by Amazon](https://www.theinformation.com/articles/amazons-jassy-raised-concerns-anthropic-model-trump-crackdown?rc=gtxu6q), which is notable given Amazon is both an investor in Anthropic and a major provider of inference to the company. As I write this, [senior Anthropic staff are in Washington D.C.](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) seeking to resolve what they insist is a misunderstanding, and which White House officials are suggesting is insouciance by the company’s leadership to legitimate national security concerns.\n\nI don’t actually have much to add to the current conflict given how many facts are in dispute; what I am not surprised about is the fact that the conflict is happening: I already explained in [Anthropic and Alignment](https://stratechery.com/2026/anthropic-and-alignment/) why conflict between the U.S. government and Anthropic was inevitable. To that end, people who are arguing that Mythos isn’t powerful enough to warrant the government’s drastic action are missing the point: if it’s not powerful enough now, the next one will be, or the one after that, particularly now that models are increasingly useful in creating their successors.\n\nThat, however, raises another question — one that seems to validate the cynics’ viewpoint: if Mythos is so dangerous, why even release Fable in the first place, and why fight with the government doing exactly what you claim to want? In fact, I think that Anthropic’s actions are quite understandable; what makes the company unique is how it justifies them, and it is those justifications that both give the cynics their fuel and Anthropic its magic.\n\n### The Economic Imperative\n\nFor the first few years of AI the most economic value has flown to compute, for obvious reasons: we don’t have enough supply to meet demand, which has meant skyrocketing prices; the biggest beneficiaries have been Nvidia, TSMC, and the memory makers (SK hynix, Samsung, and Micron). Anthropic and OpenAI, meanwhile, have collectively lost tens of billions of dollars building leading-edge models that, once released, are distilled and commoditized by open source models, primarily from China.\n\nThis represents the bear case for the labs — they never cover their costs because their differentiation is fleeting, while free alternatives become “good enough” — and I think it’s a legitimate one. A world where models are interchangeable is one where models are commodities, while most of the value flows elsewhere. Right now that’s compute, but in the fullness of time, whenever we have enough compute, the most valuable place to be in the value chain will be the place that has always been the most valuable: owning the user touchpoint.\n\nTo that end, it has long been clear to me that the frontier labs have the economic imperative to move closer to the user. If you own the user touchpoint, then you have meaningful lock-in, and the best way to own the user touchpoint is to be the canvas for everything they need to do. This, by extension, means that the frontier labs are on a collision course with software companies: it’s software that owns the user touchpoint, and it’s in the frontier labs’ long-term interest to not simply be a commodity input into software but to simply replace software outright.\n\nSoftware companies, meanwhile, are working to do the opposite. Satya Nadella laid out his vision for how companies should build on models in [an essay on X](https://x.com/satyanadella/status/2066182223213293753?s=46):\n\n> Every company is going to have to build what I think of as human capital and token capital. Human capital comprises the knowledge, judgment, relationships, ingenuity, and pattern recognition of its people, while token capital is the firm’s AI capability it builds and owns. Importantly, human capital does not become less valuable as token capital grows. It only becomes more valuable! I believe human agency will be the driver of token capital growth. Humans will set ambitious goals, connect dots across domains, build relationships, and recognize patterns that matter most. Without human direction, you have compute running in circles.\n\n> \n> \n> \n> This means the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI. This requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system. This is the key “test” of your control and sovereignty in the era ahead.\n\nNadella set this vision off with a warning:\n\n> The last thing any of us want is a world where every company across every sector is ceding value to a few models that eat everything they see. If all the value is accrued by only a few models, the political economy will simply not tolerate it. There is no societal permission for an AI future that hollows out entire industries.\n\n> \n> \n> \n> Think about what happened in the first phase of globalization where entire industrial economies were hollowed out by outsourcing. The GDP numbers looked fine on the surface, but the displacement was real and the consequences are still being felt. Let us not bring that dynamic into the AI era, with a small number of AI systems capturing all the economic returns, while entire industries find their knowledge commoditized right out from underneath them.\n\nHere’s the problem with that analogy: the globalization happened, and the industrial economies were hollowed out. There’s a possibility that this isn’t a warning but a prophecy; small wonder Nadella is raising the alarm given that Microsoft could be one of the casualties. And, by the same token, the economic imperative for the model makers is to accomplish exactly this.\n\n### The Data Imperative\n\nThe models — not even Mythos — are not yet at this point. What they need, beyond more compute, is more and better data. Model improvements increasingly come from reinforcement learning; some of this can be generated synthetically, but the most powerful lever for a frontier lab is real world use.\n\nThis, I think, is a major reason why both OpenAI and Anthropic offer their heavily subsidized subscription plans. SemiAnalysis [recently estimated](https://x.com/SemiAnalysis_/status/2064815044085318040) that a $200 plan gets you $8,000 worth of Claude tokens and $14,000 worth of Codex tokens. Of course both are fighting for user and developer mindshare, but they’re also fighting to have access to actual usage data to make their models better.\n\nAnthropic upped the ante in a major way with Fable, announcing that they would retain the data for all usage for 30 days, even for their enterprise plans that previously promised zero data retention. The company said they would not train on this data, but they didn’t put in any sort of safeguards to guarantee they wouldn’t do so in the future (like storing the data with a third party). If this policy change (whenever Fable is restored) doesn’t lead to a significant loss of customers, I suspect it’s only a matter of time until they start using the data: it’s simply too valuable to their end goals.\n\nNote also the virtuous cycle with moving up into user touchpoints: the more workflows that are done directly with Claude or Codex, the more data each company gets to feed back into their training, which makes their products that much more capable and useful, expanding the number of workflows they can serve, expanding their access to data.\n\nNadella, in his essay, highlights the importance of this data, but naturally thinks it should be independent from the model:\n\n> Companies need to turn their workflows, domain knowledge, and accumulated judgment into AI systems that improve with each use. Private evals should capture whether a model is actually improving against outcomes that matter to the business (not just external benchmarks!). Private reinforcement learning environments should let models grow stronger on real traces from inside the organization. Its knowledge base makes institutional memory queryable and use of tokens more efficient.\n\n> \n> \n> \n> This loop becomes the new IP of the firm. I think of it as a hill climbing machine. And unlike most assets, it compounds. Every improved workflow generates better training signal, which accelerates the accumulation of tacit knowledge unique to the firm. The companies that build this early will have an advantage that is hard to replicate, regardless of any new individual model capability.\n\nWhat if, however, the companies that give in to Anthropic’s data policies get better results right now? Or what if existing companies resist, leaving the door open for new companies — or the model makers themselves — to outcompete them in the market? Anthropic is certainly putting the resolve Nadella is calling for to the test.\n\n### The Power Imperative\n\nThe data retention policies around Fable/Mythos were, amazingly enough, not even the most controversial part of the launch. Rather, Anthropic said at launch that it would silently degrade Fable performance if it were used for LLM development; from the [System Card](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf):\n\n> We have also added safeguards related to frontier LLM development. As discussed in Section 6.1 of our [February 2026 Risk Report](https://anthropic.com/feb-2026-risk-report), we are concerned about the risks of accelerating the overall pace of AI development, though we remain uncertain about the severity of these risks. In particular, our concern is with — as we wrote then — “accelerating other AI developers in building powerful AI systems that pose similar risks to the ones ours pose – without necessarily having commensurate safeguards.”\n\n> \n> \n> \n> In light of the ability of recent models to [accelerate their own development](https://www.anthropic.com/institute/recursive-self-improvement), we’ve implemented new interventions that limit Claude’s effectiveness for requests targeting frontier LLM development (for example, on building pretraining pipelines, distributed training infrastructure, or ML accelerator design). Using Claude to develop competing models already violates our [Terms of Service](https://www.anthropic.com/legal/consumer-terms), but enforcing this restriction through our safeguards avoids accelerating the actors most willing to violate these terms.\n\n> \n> \n> \n> Unlike our interventions for cybersecurity, biology and chemistry, and distillation attempts, these safeguards will not be visible to the user. Fable 5 will not fall back to a different model. Instead, the safeguards will limit effectiveness through methods such as prompt modification, steering vectors, or parameter-efficient fine-tuning (PEFT). These interventions will not affect the vast majority of coding work. We estimate they will impact ~0.03% of traffic, concentrated in fewer than 0.1% of organizations. When these interventions are active, we expect them to have minimal behavioral impact on the model except to limit its effectiveness in developing frontier LLMs. Claude will still respond helpfully to user requests. We’ll continue to improve the precision of our detection methods following the launch of this model.\n\nAnthropic [walked back this change](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/) — Fable will simply hand off LLM-related requests to Opus 4.8, and disclose this hand off to the user — but I think the initial policy was very illuminating. On one hand, I actually don’t begrudge Anthropic not wanting to help its competitors; on the other hand, what should be blisteringly clear is that Anthropic does not think that anyone else other than them should even be making frontier LLMs.\n\nWhat makes this policy all the more remarkable is the fact that it was enacted only two months after Anthropic had that dispute with the Department of War: the latter wanted to use Claude for any legal use, while the former wanted more stringent controls around surveillance and autonomous weapons. What this degradation represented was both the capability and willingness of Anthropic to silently alter its models to achieve its policy preferences. In other words, Anthropic willfully validated some of its critics’ worst fears in terms of being a supply chain risk.\n\nThe broader takeaway from that previous episode, however, is that Anthropic believes that they are the ones who should have final say over how Anthropic is used; given that they think only they should be developing leading edge AI, they by extension think that only they should have final say over AI generally. When you further combine this realization with the company’s pronouncements about AI’s ability to conduct all economic activity, you realize that Anthropic’s leadership effectively wants to have power over everything and everyone.\n\n### The Safety Story\n\nOf course Anthropic would never put things so baldly; the story, rather, is safety:\n\n- I expect Anthropic to increasingly expose their model’s capabilities to end users through endpoints increasingly tailored to different workflows, even as they start to restrict the API. This replacement of software and restriction of access will be done in the name of safety, even as Anthropic fulfills its economic imperative of getting closer to end users.\n\n- Anthropic’s explanation for their dramatic change in their data retention policy was safety. Specifically, the company claims that retaining all user data for 30 days is necessary to prevent the jailbreaks the U.S. government is worried about. I can certainly imagine a future where safety compels them to train on this data as well, to better protect against malicious usage.\n\n- The entire Anthropic origin story is rooted in the founders’ belief that OpenAI wasn’t taking safety seriously enough; the company believes that only they can control AI, and that because they uniquely care about safety, they are justified in trying to control everyone else, up to and including the U.S. government.\n\nHere’s the thing about these safety justifications: I think they work because, to Anthropic, they aren’t justifications. The company really believes that they are the only ones who believe in super intelligence, and thus are the only ones who are sufficiently concerned about the dangers. That excuses decision after decision, policy after policy, and confrontation after confrontation that, to people on the outside, look like a bizarre combination of cynicism and naiveté.\n\nThe contrast to OpenAI is massive: I think that one way to understand how and why OpenAI lost its lead is that, in the years following the release of ChatGPT, the company has been at war with itself internally as what used to be a research lab was suddenly seized with the burden of being the [accidental consumer tech company](https://stratechery.com/2023/the-accidental-consumer-tech-company-chatgpt-meta-and-product-market-fit-aggregation-and-apis/); to the extent OpenAI solved that conflict, it was by bleeding huge amounts of talent to Anthropic in particular.\n\nAnthropic, on the other hand, has perfect alignment between talent and mission and business. The company gets to sell to researchers the creation of a machine god, with the mantle of being the sort of person who cares about the dangers and is smart enough to navigate them on behalf of humanity; that every policy change that falls out of that happens to be great for business is the most beautiful coincidence in the world.\n\nI respect this alignment, and I fear it. I respect it because it is so clearly effective; the closest analogy is probably Apple, which has always framed every self-serving action in the guise of doing right by users — and often they were. So it is with Anthropic. What I fear, however, is that it is one thing to have people convinced they know best building a smartphone that I can take or leave; it’s considerably more concerning to have them building superintelligence that has the potential to rival or exceed the power of nation states, or merely massive corporations. The history of brilliant people convinced they know what humanity needs is a sordid one, precisely because they have convinced themselves that their intentions are good, justifying actions that very much are not.",
+        "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-06-15T17:18:46.000Z",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WorkOS Launches Auth.md — an Open Protocol for Agent Registration",
+        "summary": "Enable agents to register users without the sign-up form. Auth.md provides secure agent registration that any app can implement.\n\nLooks like your app is almost finished. What would you like to do toda",
+        "content": "Enable agents to register users without the sign-up form. Auth.md provides secure agent registration that any app can implement.\n\nLooks like your app is almost finished. What would you like to do today?\n\nTap an option↑↓ to navigate · ↵ to select\n\n## Get started\n\nMake your app agent-ready\n\nFor services that want agents to register users on behalf of their customers.\n\nBecome an identity provider\n\nFor platforms whose agents act on behalf of users.\n\nOne-click enable with AuthKit\n\nGet in touch to enable auth.md on your account.\n\n[Get early access](mailto:authmd@workos.com?subject=auth.md%20AuthKit%20early%20access)\n\n## FAQs\n\n- A Markdown file an application hosts at its domain — typically\n\n `https://yourapp.com/auth.md`\n\n— that tells agents how to register on behalf of a user. It includes which flows are supported, which scopes exist, and how to register for the service.\n\n [See the file format](https://workos.com/auth-md/docs/auth-md).\n\n- The agent fetches your `auth.md`, picks a supported flow, and either presents a verified identity assertion (agent verified flow) or walks the user through a code-confirmation claim (user claimed flow). You stay in control of which flows you accept and what credentials get issued.\n\n [Read the apps guide](https://workos.com/auth-md/docs/apps).\n\n- Agent verified is agent-attested — the agent's identity provider vouches for the user, no human in the loop. User claimed needs no provider — the agent shows the user a code, they sign in and confirm it. Most apps support both and let the agent pick the right one.\n\n [Agent verified](https://workos.com/auth-md/docs/flows/verified)\n\n·\n\n [User claimed](https://workos.com/auth-md/docs/flows/claimed).\n\n- A scoped access token tied to the user — short-lived and revocable. It's issued over standard OAuth, so you reuse the API auth you already have.\n\n- It's open. WorkOS authors the protocol, but\n\n `auth.md`\n\nisn't tied to WorkOS infrastructure — it composes existing OAuth standards (Protected Resource Metadata, ID-JAG identity assertions) and any app can publish or any agent can read one with no WorkOS account required.\n\n [See the protocol on GitHub](https://github.com/workos/auth.md).",
+        "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-06-15T17:53:50.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "JAX: commitment issues",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n        Posted on 15 [June 2026](https://www.gilesthomas.com/2026/06/)\n        \n            in\n            \n                [AI](https://www.gilesthomas.com/ai),\n            \n                [TIL](https://www.gilesthomas.com/til),\n            \n                [JAX](https://www.gilesthomas.com/jax)\n            \n        \n    \n\n    Imagine you have JAX code like this, and run it on a machine with CUDA set up:\n\n`    key = jax.random.key(42)\n\n    cpu0 = jax.devices(\"cpu\")[0]\n    with jax.default_device(cpu0):\n        array = jax.random.randint(\n            key,\n            (530640, 6, 1024),\n            0, 50_000,\n            dtype=jax.numpy.uint16\n        )\n        array.block_until_ready()\n\n    item = array[0]\n    item.block_until_ready()\n`\n\nWe're creating a big array, blocking until it's ready (JAX is asynchronous, so\nthis makes sure that it's actually finished creating it), then getting\nthe first item, and as a belt-and-braces thing making sure that that is ready too.\nHow long do you think those last two lines -- a simple retrieval of a 6 x 1024 array\nfrom a larger one -- will take?  Some tiny fraction of a second would seem\nreasonable.\n\nBut running it on my machine just now, the answer is a bit of a surprise: just over 5 seconds.  And if you try to\nget `array[1]` immediately afterwards, it still takes about 1.2s.  Further lookups into\n`array` consistently take more than a second -- so while the larger\ninitial number might be something to do with setup -- maybe internal stuff being JITted -- that's clearly not the whole story.\nSomething is making these seemingly-simple array lookups take much longer than you'd\nexpect them to.\n\nLet's dig into that.\n\n    \n        \n### A bit of background\n\nFirst things first, why would you want to do that slightly strange dance with the\n`jax.default_device` context manager in the first place, rather than telling `randint` what\ndevice you want to use (eg. with `out_sharding`)?\n\nI'm writing some LLM training\ncode, and want to load my training dataset.  I don't want to load it into the VRAM\non the GPU -- that would be a waste of valuable GPU resources -- so I need it in\nthe CPU-side memory.  I'm using Safetensors, which will\n[load stuff onto the system's default device](https://www.gilesthomas.com/2026/06/jax-backends-and-devices).\nSo I need to override that temporarily to make sure that the dataset is loaded onto\nthe device where I want it.\n\nI initially discovered this problem when I tried to iterate over the resulting array in my training\nloop; the code above is a simplified version of that -- a minimal repro of the issue.\nAnd it's a serious one!  If each iteration has an overhead of 1.2s just to get 6,144 tokens\nready for the model, JAX will max out at about 5,000 tokens per second\nof training speed *just due to that overhead* -- a real forward and backward pass plus\nan optimiser step will obviously make things even slower.  For comparison, my PyTorch training loop managed almost 20,000 tokens/second\non the same hardware: all steps from getting the training data, putting it on the GPU,\nand doing the actual training.\n\n### Debugging\n\nSo, let's look at that code again.  We've created\nour variable `array` on the CPU explicitly, and indeed if you print `array.device`,\nit says `CpuDevice(id=0)`.  But if you print the device of the `item`, you get\n`CudaDevice(id=0)`.  What's worse, if you watch `nvtop` while the code is running,\nas soon as it hits the lookup into the array, it starts using the GPU -- for each one,\nthere's a spike in GPU usage.\n\nSo, what gives?  We asked JAX to put the array on the CPU, but now it's doing\nGPU work, and putting the items there.\n\nThe problem is that when you create an array using the `default_device` context manager,\nit is placed on the specified device, but it's not [committed](https://docs.jax.dev/en/latest/_autosummary/jax.Array.committed.html) to it.\nIf an array is not committed to its device, then JAX will feel free to move it\naround to others.\n\nIn order to commit an array to a device, you need to use `jax.device_put` explicitly\nstating which device you want it on.  Running\nthe same code, but with this:\n\n`array = jax.device_put(array, cpu0)\n`\n\n...immediately before the lookup into the array changes the numbers drastically;\nthe first lookup takes about 0.95s on my machine, the second 0.0002s, and then\nsubsequent ones less than 0.0001s.\n\n### Some more detailed tests\n\nI decided to exercise this in depth, and wrote [this script](https://github.com/gpjt/jax-gpt2-from-scratch/blob/3d28bf64c87e92a62dceac26f32eaa2248ece12c/array_speed_test.py).\nIf you run it without the `--commit` command line flag, it will create the array,\nthen iterate over the first ten items, measuring how long it takes to get each one.\nRunning it just now:\n\n- Getting the zeroth item from the array took about 5.4s.\n\n- Each subsequent one consistently took about 1.2s\n\nWith the `--commit` flag, it uses `device_put` to explicitly commit the array to the\nCPU.  Running that:\n\n- Getting the zeroth item from the array took about 0.95s\n\n- Each subsequent one took less than 0.0002s.\n\nNow, that didn't quite cover my use case -- what if, I wondered, the slow operation\nwas putting things onto the GPU?  The script also has a `--put_items_to_gpu` flag to\ndo that -- after getting each item, it uses `device_put`.  With that flag:\n\n- Getting the zeroth item from the array took about 0.86s, and putting it on the GPU took 0.02s.\n\n- Subsequent items had \"get\" times similar to the previous run,\nand \"put\" times of about 0.0006s.\n\nSo, there's still a small startup penalty -- perhaps JAX is having to JIT some of\nits internal stuff -- but a perfectly decent speed after that.  Commitment works!\n\n### Wrapping up\n\nI'm still building my mental model of how JAX works, and working out exactly what\nis going on here is proving a bit tricky.  The split between a committed and an\nuncommitted array seems clear; the former is tied to a device, while JAX will move\nthe latter around as needed.\n\nIt also makes a certain amount of sense that it would want to move the items to the GPU;\nit is, after all, the default device.  But I'm less clear on why that was so slow, compared\nto the manual process of getting the item then putting it there.\n\nHypothesis: the array is on the CPU's RAM, but not committed there.  We ask for an item\nfrom that array, and maybe JAX wants that to be on the default device, the GPU.  So it moves the entire\n\"parent\" array there, extracts that item, and then returns that.  Then next time around\nwhen we ask for the next item, it does the same thing again.\n\nPlausible?  Maybe, but it does sound a bit pathological!\n\nAnyway, at the end of the day, I have a solid new heuristic of my own: if you want something\nto definitely be on some specific device, make sure that you nail it down there with\n`device_put`.  And then you won't have commitment issues like these.",
+        "url": "https://www.gilesthomas.com/2026/06/jax-commitment-issues",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "Mon, 15 Jun 2026 21:30:00 +0000",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA",
+        "summary": "[\n  Skip to content\n](#main)\n\n  \n\n            \n  \n  \n  \n      \n\n      \n\n      \n        Gemini gets preferential treatment on Android, but maybe not for long (in Europe).\n      \n\n              \n       ",
+        "content": "[\n  Skip to content\n](#main)\n\n  \n\n            \n  \n  \n  \n      \n\n      \n\n      \n        Gemini gets preferential treatment on Android, but maybe not for long (in Europe).\n      \n\n              \n          \n\n  \n\n  \n      \n    \n    \n                      \n                      \n          In January, the European Commission began an initial investigation, known as a specification proceeding, into how Google has implemented AI in the Android operating system. The results are in, and the EU says Android needs to be more open, which is not surprising. Meanwhile, Google says this amounts to “unwarranted intervention,” which is equally unsurprising. Regardless of Google’s characterization of the investigation, the commission may force Google to make Android AI changes this summer.\n\nThis action stems from the continent’s Digital Markets Act (DMA), a sweeping law that designates seven dominant technology companies as “gatekeepers” that are [subject to greater regulation](https://arstechnica.com/tech-policy/2024/03/apple-google-and-meta-are-failing-dma-compliance-eu-suspects/) to ensure fair competition. Google has consistently spoken against the regulations imposed under the DMA, but it and the other gatekeepers have been subject to the law for several years now, and there’s little chance the commission backs away from it.\n\nThe issue before the commission currently is the built-in advantage for Gemini on Android. When you turn on any Google-powered Android phone, Gemini is already there and gets special treatment at the system level. The European Commission is taking aim at the lack of features available to third-party AI services. The commission believes that there are too many experiences on Android that only work with Google’s Gemini AI, and as a gatekeeper, Google must change that.\n\n“As we navigate the rapidly evolving landscape of AI, it is clear that interoperability is key to unlocking the full potential of these technologies,” said Commission VP for Tech Sovereignty Henna Virkkunen [in a statement](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_887). “These measures will open up Android devices to a wider range of AI services, so that users will have the freedom to choose the AI services that best meet their needs and values, without sacrificing functionality.”\n\n          \n                      \n                  \n                    \n        \n            \n    \n    \n          \n          \nThe commission does have a solid track record pushing for openness so far. Since the DMA came into force, Google has been required to make numerous changes to its business in Europe, like implementing search choice screens on Android, allowing alternative payment methods in the Play Store, and limiting data sharing across services. Now, the EU wants Google to make the Android platform more hospitable to third-party AI services.\n\nGoogle’s objection focuses on preserving the autonomy for device makers (including Google) to customize AI services. “This ​unwarranted intervention would strip away that autonomy, mandate access to sensitive hardware and device ​permissions; unnecessarily driving up costs while undermining critical privacy and security protections for European users,” said Google senior competition counsel Claire Kelly.\n\n## EU rules could mean more AI, not less\n\nJust because Gemini is preinstalled on virtually every Android phone doesn’t mean you have to use it. You can easily install ChatGPT or Grok and turn to that chatbot when the need arises. However, these apps won’t have the same access to data and features as Gemini. The commission cites a few examples where Gemini is the only route, like sending an email in your default mail client or sharing a photo with friends.\n\nEuropean regulators are proposing several broad changes to the way AI tools operate on Android phones. Some of this is straightforward, like allowing third-party AI tools to be invoked system-wide via hot words or button presses. This might also include allowing AI tools to view screen context when the user opens them. Context also extends to allowing alternative AI systems to access local data to generate proactive suggestions and summaries. The report actually describes something that sounds like Google’s Magic Cue, which relies on Gemini to offer suggestions based on your activity.\n\n          \n                  \n                    \n        \n            \n    \n    \n\n        \n        \n          \n          \n\n    \n            [\n              ![Gemini on device UI](https://cdn.arstechnica.net/wp-content/uploads/2026/04/4_ways_Magic_Cue_Hero.width-1300.png)\n            ](https://cdn.arstechnica.net/wp-content/uploads/2026/04/4_ways_Magic_Cue_Hero.width-1300.png)\n\n              Gemini has exclusive system-level access to generate proactive suggestions on many Android phones.\n                              \n\n                  Credit:\n                                      Google\n                                  \n\n                          \n          \n          \n        \n    \n    \n      Gemini has exclusive system-level access to generate proactive suggestions on many Android phones.\n\n              \n          Credit:\n\n          \n          Google\n\n                  \n          \n\n  \n      \n      \n\nGoogle has also started experimenting with allowing AI to control certain apps. As we saw when this feature [debuted on the Galaxy S26](https://arstechnica.com/reviews/2026/03/samsung-galaxy-s26-ultra-review-private-and-performant/), Gemini is currently pretty bad at using apps on your behalf. The commission wants to explore allowing other AI services to autonomously control installed apps and system features on Android phones. Maybe someone else could do better?\n\nMany of the Gemini AI features in Android, including Magic Cue, rely on running local models, and Google has been slow to allow third parties the system access to make that work effectively. So the EU is also suggesting a mandate that would ensure developers have the necessary hardware access to run local models “with high levels of performance, availability and responsiveness.”\n\nFinally, Google may be required under the DMA to create new APIs and offer technical assistance to other AI makers who want to plug into Android. The commission also specifies that these tools must be made available free of charge.\n\nSo far, this is just a framework for how AI on Android might change. The European Commission is currently accepting feedback from interested parties. That part of the process will wrap up on May 13. A final decision on this investigation will be made no later than July 27 of this year. Failure to enact required changes could result in big fines. The DMA allows for penalties up to 10 percent of a company’s annual global revenue.\n\nGoogle probably won’t be required to fling the doors open right away, though. Creating avenues for third-party AI apps to access system tools and data would take time. Rushing the process could risk security or privacy issues. And naturally, there’s no guarantee any of these proposed changes would be seen outside of the EU.\n\n          \n                  \n\n                  \n          \n\n  \n  \n          [![Photo of Ryan Whitwam](https://cdn.arstechnica.net/wp-content/uploads/2025/02/AV4.jpg)](https://arstechnica.com/author/ryanwhitwam/)\n\n  \n\n  \n    \n\n    \n      Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can [follow him on Bluesky](https://bsky.app/profile/rwhitwam.bsky.social), where you will see photos of his dozens of mechanical keyboards.\n    \n\n  \n\n  \n    [\n    \n    53 Comments\n  ](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/#comments)\n      \n\n              \n  \n\n  \n\n  \n\n  \n    \n      \n      \n    \n    \n              - \n                      [\n              ![Listing image for first story in Most Read: Russia appears set to finally address long-term, serious space station cracks](https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-71395189-500x500.jpg)\n            ](https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/)\n                    \n        \n\n                      - \n                    \n        \n\n                      - \n                    \n        \n\n                      - \n                    \n        \n\n                      -",
+        "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-15T18:58:22.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Things that made me think: Open Source trust relationships, knowledge without provenance, and theory building",
+        "summary": "> *[This series](https://tomrenner.com/tags/ttmmt) is a place to collect interesting things I’ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they p",
+        "content": "> *[This series](https://tomrenner.com/tags/ttmmt) is a place to collect interesting things I’ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.*\n\n### [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach) – socket.dev\n\nBack in February this report landed in a security blog, and I found it fascinating. As is usual for me, it’s at the intersection of human behaviour with technological automation that the real interesting problems lie.\n\nThe whole industry uses GitHub profiles as a proxy for a CV. Now agents can build a credible looking one in hours or days, and it results in our whole system of reputation and trust being borked.\n\nOnce again, the thing you should be optimising for [is trust](https://tomrenner.com/posts/optimising-for-trust/). I wonder what new systems we need to build to deal with the old ones being broken.\n\n### [Where Provenance Ends, Knowledge Decays](https://jessicatalisman.substack.com/p/where-provenance-ends-knowledge-decays) – Jessica Talisman\n\nMy first job was building information management systems, and for those of you that haven’t worked in the industry, let me tell you: knowledge architecture is fascinating. We should all be hiring librarians to help us with these problems.\n\nThe core question posed here is: without provenance how can users interrogate the answers from LLMs? How do you then challenge the all-knowledgeable answer machine?\n\nAnd a key point, countering the attempted solutions of the big LLM vendors – CITATIONS ARE NOT PROVENANCE – the training set is critical to understand the context to your answers, not just the retrieval path.\n\nGiven the many reports of click-through rates dropping on Google as people increasingly rely just on the AI summary, this is an important topic for search in general.\n\n### [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf) – Peter Naur\n\nThis resonated very strongly with me, and helps clarify lots of my thinking about team building and software product development.\n\nBut accepting that the thing you’re building is the theory, not the textual representation (ie. the code), the cost of organisational changes (eg. losing engineers after a year or two, changing team topology too often, etc) is clear – you are destroying the very thing you’re trying to build.\n\nWhat I still need to think more on is how does this play with the capitalist reality in which businesses operate? What you’re selling is the product, not the theory – this creates a tension between the priorities of the team and those of the business.\n\nIf not the theory, then is the text the product? Also no! Look at all the things that comprise the sold product that are not the textual artefact: user education, documentation, training, etc. The marketing cliché “we sell solutions” is a clear signal that the text is also not the product.\n\nSo if neither the theory nor the text are the product, is there a better concept for software teams to align to, for maximising their commercial impact? Probably not a singluar one, I’d bed. My hunch is that the most “product-aligned” concept will vary depending on whether you want short, medium, or long-term impact.\n\n  \n   - \n     [Teamwork](https://tomrenner.com/tags/teamwork/)\n   \n\n  \n   - \n     [Management](https://tomrenner.com/tags/management/)\n   \n\n  \n   - \n     [AI](https://tomrenner.com/tags/ai/)\n   \n\n  \n   - \n     [Hiring](https://tomrenner.com/tags/hiring/)\n   \n\n  \n   - \n     [TTmmT](https://tomrenner.com/tags/ttmmt/)",
+        "url": "https://tomrenner.com/posts/ttmmt-4/",
+        "source": "Tom Renner on My place to put things",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 15 Jun 2026 00:00:00 +0000",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "AI GPUs probably live longer than three years",
+        "summary": "[People](https://www.wheresyoured.at/ai-is-slowing-down) who think current AI use is unsustainable often rely on the [claim](https://www.tomshardware.com/pc-components/gpus/datacenter-gpu-service-life",
+        "content": "[People](https://www.wheresyoured.at/ai-is-slowing-down) who think current AI use is unsustainable often rely on the [claim](https://www.tomshardware.com/pc-components/gpus/datacenter-gpu-service-life-can-be-surprisingly-short-only-one-to-three-years-is-expected-according-to-unnamed-google-architect) that inference GPUs only last “three years at the most” under load[1](#fn-1). The idea here is that once the AI bubble money drains away, current infrastructure will rapidly become obsolete, and there won’t be enough money floating around to buy a whole slate of brand-new GPUs. Inference costs would thus rapidly become way too expensive for current AI products to make any financial sense.\n\nWhere does this “three years at the most” claim come from? Is it plausible? \n\n### Sourcing the quote\n\nThe original Tom’s Hardware article quotes this [tweet](https://x.com/techfund1/status/1849031571421983140) from Tech Fund, an anonymous former PM and tech investor, who quotes an anonymous “GenAI principal architect” at Google as saying “if you have a high utilization rate, then constant high utilization rate for a year or two, I think the lifespan will be three years at most”.\n\n      [\n    \n  ![](https://seangoedecke.com/static/9cf90a11e418ecd73f81e5178a9328c2/fcda8/tweet.png)\n  ](https://seangoedecke.com/static/9cf90a11e418ecd73f81e5178a9328c2/1b853/tweet.png)\n    \n\nThis screenshot looks like it was from an interview. What interview? I scrolled back to October 2024 on Tech Fund’s Twitter feed and saw a bunch of [similarly-formatted](https://x.com/techfund1/status/1828858794480140391?s=20) [screenshots](https://x.com/techfund1/status/1826875528751534448?s=20), some of which were cited as coming from [Tegus](https://tegus.com/). Tegus is apparently a company with a [business model](https://www.reddit.com/r/expertnetworks/comments/1ghe2ls/tegus_analyst_reached_out_to_me/) of reaching out to insiders (in this case, AI company employees) and paying them hundreds of dollars an hour in order to answer specific technical questions. It’s essentially gig work for *almost-but-not-quite* insider trading: the more informed and confident you sound, the more likely Tegus analysts will pick you for future interviews.\n\nI’m sure the source for this tweet is in fact a GenAI principal architect, since Tegus would have presumably asked for some proof of that before they paid them out. But it’s pretty clear that the incentives here are to sound confident and authoritative, even on questions that you’re not sure about. With that in mind, the quote itself also reads a bit suspiciously. I’ve worked with enough principal engineers and architects to take their casual back-of-envelope estimates with a grain of salt. If they knew the actual rate at which GPUs fail and get retired in Google datacenters, wouldn’t they have just said that?\n\n### Evidence for a longer lifespan\n\nWe have some anecdotal evidence that points the other way. Google has [publicly claimed](https://www.datacenterdynamics.com/en/news/google-says-tpu-demand-is-outstripping-supply-claims-8yr-old-hardware-iterations-have-100-utilization) to have eight year old TPUs (their version of GPUs) running in production at “100% utilization”. Nvidia only made A100 GPUs from [2020-2024](https://www.amax.com/nvidia-h100-vs-nvidia-a100/), but in February 2026 the AWS CEO [claimed](https://www.datacenterdynamics.com/en/news/aws-has-never-retired-an-nvidia-a100-server-ceo-matt-garman-claims/) that AWS had never retired an A100 server (and you can still easily rent A100s for AI work)[2](#fn-2). AI GPU usage isn’t exactly like crypto mining GPU usage, but it certainly seems like years-old ex-crypto GPUs are [functional](https://www.youtube.com/watch?v=UFytB3bb1P8). There’s also [this comment](https://news.ycombinator.com/item?id=48456717) from Hacker News I noticed where someone claims that their GPU cluster in academia has lasted six years with less than 20% failure rate.\n\nWhat about hard data? It’s hard to get concrete data on the lifespan of AI GPUs, because modern AI datacenters have only existed for a handful of years. But an interesting case study would be recent supercomputer clusters like Oak Ridge’s [Summit](https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-to-retire-summit-supercomputer-in-november-2024/), which had over 27 thousand Nvidia V100s running from 2018 to 2024, or its predecessor, the Cray [Titan](https://christian-engelmann.de/publications/ostrouchov20gpu.pdf) supercomputer that ran from 2012 to 2019. I couldn’t find any evidence that Summit had to buy an additional 27,000 GPUs to replace their old ones, and GPU failures in Titan have been [carefully studied](https://christian-engelmann.de/publications/ostrouchov20gpu.pdf):\n\n      [\n    \n  ![](https://seangoedecke.com/static/3922b6bf4aaf6d3202cacd2f472034aa/fcda8/figure10.png)\n  ](https://seangoedecke.com/static/3922b6bf4aaf6d3202cacd2f472034aa/019a6/figure10.png)\n    \n\nThese cages of GPUs are stacked vertically, and cold air is pumped in from the bottom, which explains why cage 0 (at the bottom) has better survival rates than cage 2 (at the top). Let’s consider cage 0, so we’re just looking at the GPU lifespan instead of at the lifespan of improperly-cooled GPUs. At three years, over 95% of GPUs survived[3](#fn-3). At six years, nodes 2 and 3 (the GPUs closest to the bottom of the cage) were still at above 90% survival rate, and the highest nodes were over 60%.\n\nIt’s possible that newer Nvidia GPUs are less reliable than older ones (they certainly draw more power), or that AI datacenters are under-cooled, or that something about LLM utilization is more stressful than the workloads that ran on traditional GPU datacenters. But this is at least circumstantial evidence that GPUs can survive under load for far longer than three years.\n\n### Economic lifespans\n\nThis discussion is complicated by the fact that GPUs may have a short *economic* lifespan. Supposedly a B100 GPU [draws](https://bizon-tech.com/blog/nvidia-b200-b100-h200-h100-a100-comparison?srsltid=AfmBOoqugX-R8Y9AoVlyxRMheglf4gJ2Xc5hefXVxL6Cv3Htl0P_rHx1) twice as much power as an A100, but can do five times as much work. For some AI providers, that might mean that A100s are only worth running until they can be replaced with B100s (if you’re bottlenecked on electricity, you should spend it all on B100s and throw out your obsolete A100s). This is why the Titan supercomputer was decommissioned in favor of Summit: it could have continued to operate, but it was more profitable to spend the money and maintenance effort on newer hardware.\n\nIt should be obvious that this doesn’t support the “inference will become more expensive when the bubble pops” argument. So long as A100s are profitable *right now*, cash-poor AI providers can continue profitably serving inference from them, even if there are more efficient options available for those with the capital to upgrade.\n\nOn top of that, GPUs only represent one part of AI datacenter infrastructure spending. If your GPUs wear out, you don’t have to go and build an entirely new datacenter. About 30-50% of [datacenter](https://epoch.ai/assets/images/data-insights/ai-datacenter-cost-breakdown/ai-datacenter-cost-breakdown-upfront.png) [spend](https://www.reuters.com/commentary/breakingviews/how-big-techs-630-bln-ai-splurge-will-fall-short-2026-03-26/) goes to land, power, cooling, and so on. The remaining 50-70% is the cost of the entire server rack, which includes a bunch of things that aren’t GPUs.\n\n### Conclusion\n\nLike the idea that AI inference [requires using huge amounts of water](https://seangoedecke.com/water-impact-of-ai/), the idea that AI GPUs only live a year or two is popular because it’s a useful idea for AI skeptics, not because it’s true. It comes from a pseudonymous tweet quoting an anonymous source who’s being paid hundreds of dollars to sound like a credible expert on AI. Other public communications from AI inference providers cite much higher lifespan numbers, and the statistics from supercomputers (the traditional examples of large GPU clusters) don’t bear out the claim that the maximum lifespan is three years.\n\nIt might be true that the *economic* lifespan is three years, in a world where new GPUs come out every eighteen months and GPU providers are flush with cash to upgrade, but that doesn’t tell us much about the economics of inference in an AI winter. If money becomes a lot more scarce, it’s likely that AI datacenters will continue profitably[4](#fn-4) running their B300s (or their H100s or even A100s) for six years or longer.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fai-gpus-live-longer-than-three-years%2F&t=AI+GPUs+probably+live+longer+than+three+years).\n\nHere's a preview of a related post that shares tags with this one.\n\n> What's next after the AI bubble bursts?\n\nIn the mid-1800s, America went mad for rail. Over thirty thousand miles of rail were built in a five year period. This was all largely funded by a frenzy of consumer investment in railway companies, which were considered a safe and lucrative bet. In 1873, the bubble burst. Thousands of Americans lost their savings, and about one-third of railroad companies went bankrupt. But the rail lines didn’t disappear. They were bought up on the cheap by the railroad companies that did survive, and over the next hundred years they carried a lot of trains.\n[Continue reading...](https://seangoedecke.com/after-the-ai-bubble/)",
+        "url": "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Mon, 15 Jun 2026 00:00:00 GMT",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: AI and amateurism (15 Jun 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/15/vernacula",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/15/vernacular/)\n\n## Today's links\n\n- [AI and amateurism](https://pluralistic.net/2026/06/15/vernacular/#hypercardian): When is generative content vernacular?\n\n- [Hey look at this](https://pluralistic.net/2026/06/15/vernacular/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/06/15/vernacular/#retro): Disney characters x clean underwear; Transparent Pontiac; Makers v dog with LED collar; Microsoft buys Linkedin; Legitimate greatness.\n\n- [Upcoming appearances](https://pluralistic.net/2026/06/15/vernacular/#upcoming): LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/06/15/vernacular/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/06/15/vernacular/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/06/15/vernacular/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/06/15/vernacular/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ai-amateur.jpg?w=840&ssl=1)\n\n## AI and amateurism ([permalink](https://pluralistic.net/2026/06/15/vernacular/#hypercardian))\n\nOver the weekend, I did an interview about my forthcoming book *The Reverse Centaur's Guide to Life After AI* (a book about being a better AI critic), and the interviewer said she was surprised that I wasn't an AI booster, based on my demographics and work history:\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\nI could see where she was coming from. I encountered computers in the mid-seventies, as a small child. My first computer was a CARDIAC, a working, Turing-complete, mechanical computer made entirely of cardboard, that I spent endless hours with:\n\n[https://www.instructables.com/CARDIAC-CARDboard-Illustrative-Aid-to-Computation-/](https://www.instructables.com/CARDIAC-CARDboard-Illustrative-Aid-to-Computation-/)\n\nThen I graduated to a teletype terminal and acoustic coupler connected to a minicomputer at the University of Toronto. My mom, a kindergarten teacher, used to smuggle home 1,000' rolls of paper towel from the kids' bathroom. I'd get 1,000' feet of computing up one side, then another 1,000' down the other side, then I'd carefully re-roll the paper towel so she could put it back in the bathroom for the kids to dry their hands on.\n\nAfter that, I got an Apple ][+ in 1979, and shortly thereafter acquired a modem, and that was it: I was hooked for life. I became an amateur programmer, then a professional programmer. I hosted forums on dial-up BBSes where I distributed software and offered support to strangers who wanted to connect their computers to the internet. I got a job as a gopher developer, then a web developer, then a CIO-for-hire, helping wire up small businesses and connect them to the net. Eventually, I co-founded a free/open source software startup, before transitioning to 25 years as a digital rights activist with the Electronic Frontier Foundation. And for most of that time, I was energetically writing science fiction, eventually becoming associated with a school sometimes called \"post-cyberpunk\":\n\n[https://en.wikipedia.org/wiki/Rewired:_The_Post-Cyberpunk_Anthology](https://en.wikipedia.org/wiki/Rewired:_The_Post-Cyberpunk_Anthology)\n\nThe force that energized all this work was a dialectical one, the contradiction that powered cyberpunk literature itself. For all that cyberpunk was undeniably enamored with the coolness and combustibility of new technology, it was also terrified of how technology could be a force for oppression, surveillance and control. As William Gibson says, \"cyberpunk was a warning, not a suggestion.\"\n\nGibson's more famous quote, of course, is \"the street finds its own use for things.\" In Gibson's novels (and in my own life in technology) all the most interesting things happen when users of technology (often without formal training or credentials) find ways to adapt the technology they use to suit their needs:\n\n[https://pluralistic.net/2026/03/17/technopolitics/#original-sin](https://pluralistic.net/2026/03/17/technopolitics/#original-sin)\n\nThis is why I remain an ardent fan of Hypercard, Scratch and other meta-tools that are designed to allow non-programmers to write software that exactly conforms to their desires. Whatever the apps produced by these tools lack in sophistication and efficiency is more than offset by the fact that they give everyday people the power to directly control the tools they rely upon.\n\nIf \"epistemic humility\" means anything, it means acknowledging that no amount of \"requirements gathering\" can capture the needs of people totally unlike yourself as faithfully as those users can capture their own needs. Giving people the tools to produce their own software is always going to make tools – vernacular, idiosyncratic, homespun – that are more suited to their own hands and minds than anything a technologist working on their behalf could make.\n\nThe ancient dictum of \"nothing about us without us\" – born in 16th century Poland and taken up by the modern disability rights movement – asserts the right of people to control their own living conditions, and also the unique capacity of people to understand their own needs. You know what's even better than being *consulted* on the design of the technology you use? Having *direct control* over that technology!\n\nThis is why I was so suspicious of the iPad. The iPad's much-lauded \"ease of use\" was entirely about how easy it was to use an iPad to *consume* technology. But the iPad remains the single most user-innovation-hostile technology in modern history, a device *designed* to make it impossible to *produce* technology without permission from a remorseless multinational corporation. This is cyberpunk as a *demand*, not a *warning*:\n\n[https://memex.craphound.com/2010/04/01/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either/](https://memex.craphound.com/2010/04/01/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either/)\n\nThe technology I've championed all my life is technology that gives more control to its users. One of my immutable precepts is that people who are different from me know things I can't know, and the only way I can get the benefit of their unique knowledge and perspective is if they are free to make and share things that matter to them. As Dan Gillmor said, back when he was inventing the study of citizen journalism, \"My readers know more than I do\":\n\n[https://www.oreilly.com/openbook/wemedia/book/ch00.pdf](https://www.oreilly.com/openbook/wemedia/book/ch00.pdf)\n\nAnd while I am broadly very skeptical of AI, and deeply alarmed by the proliferation of \"vibe coded\" software in production environments, vibe coding for personal projects is a useful and exciting addition to the lineage of tools that let computer users decide how their computers will work. For people making personal projects, vibe coding extends the power of shell scripting, cron jobs, Applescript, and other desktop automation tools to a wider audience.\n\nOne of the journalists I spoke to last week about my book described how he had vibe coded an app that showed him an alert every time a plane flew over his house, giving the tail number and other details of the flight. This is information that I have no need for and no interest in, and that I'm therefore excited to learn about, because its very existence affirms that the world is full of people who are delightfully, irreducibly, amazingly different from me, and moreover, that their unique needs can be directly met using their imaginations and their personal computers.\n\nI recently sat down with my colleague Naomi Novik, a brilliant author who also co-founded Archive of Our Own. Naomi demoed her followup to AO3 for me: Wreccer, a system to help you find small groups of people with taste similar to your own, in order to facilitate media recommendations within that group – a kind of personal, relationship-driven alternative to massive, centralized, monolithic algorithmic recommendation systems:\n\n[https://github.com/wreccer](https://github.com/wreccer)\n\nNaomi told me that Wreccer was being built using the same design ethos that the original Twitter embraced. When Twitter launched, it was an API first, and the official Twitter front end was built on that API – but anyone could build their own front end for Twitter that worked in the way *they* wanted it to. Now, the word \"anyone\" is doing a lot of work in that sentence, because most people don't even know what an API is, and of the people who do, most of them were not capable of writing their own software front end for Twitter.\n\nBut Wreccer is being designed for the age of vibe coding, and the API will *really* allow anyone who uses the service to design their own interface to the system, one that elevates and centers the features they find useful and tucks away the ones they're not interested in. Your personal, custom front end could also bring in other data-sources – pulling in your Mastodon messages, for example, or even showing you an alert with the tail-number of any plane flying over your home.\n\nThis is the part of vibe coding that I'm quite excited about, but it's not the part the industry focuses on. Instead of hearing about how personal, homemade software utilities can be an end unto themselves, we hear about vibe coded projects as prototypes for commercial production code. We hear about clueless bosses vibe coding software products and services that run fine for one user on a siloed desktop computer, and then demanding to know why it takes 50 engineers a year to make the same thing work for millions of users on the public internet. We hear about people who vibe code and submit patches to free/open-source software projects with millions of users, overwhelming project maintainers with slop code that is riddled with security vulnerabilities.\n\nOf course, there's an obvious reason why the industry wants to focus on the potential for vibe coded software to replace production code. The AI bubble has burned up $1.4t to date, while bringing in mere tens of billions of dollars per year, even as its unit economics grow steadily worse:\n\n[https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/](https://www.telegraph.co.uk/news/2026/06/04/ai-is-the-greatest-money-wasting-scheme-humanity-has-ever-i/)\n\nTo keep the bubble inflated, AI hucksters must promise massive economic returns to the technology. They want investors to believe that vibe code is about to replace working programmers, who are skilled, high-waged, high-demand workers. Their pitch is that for every million dollars' worth of programmers that an AI salesman and a boss conspire to fire, half a million dollars will go to the AI company whose bots shit out that vibe code.\n\nThat's par for the course with the AI bubble, whose focus is entirely on how AI can centralize, control and homogenize our lives. Whereas early desktop publishing, web publishing and social media gave us a glorious higgledy-piggledy of chaotic, weird and transgressive hobbyist media and retina-searing designs, AI art and design are instantly recognizable at a thousand yards, and it all looks the same, boring, and *washed*:\n\n[https://pluralistic.net/2024/07/20/ransom-note-force-field/#antilibraries](https://pluralistic.net/2024/07/20/ransom-note-force-field/#antilibraries)\n\nAI companies have released open weight/open source models that can run on your own computer, but these are treated as side-shows and toys and demos. The real action, we're told, is in \"frontier models,\" which is industry-speak for \"a piece of software whose running costs exceed the GDP of most countries\":\n\n[https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback](https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback)\n\nPerhaps this is why the dynamics of AI are so different from the early dynamics of the web. Early web users were *workers*, who demanded that their bosses allow them to use the web and so devolve more power to people doing their jobs. By contrast, today's most ardent AI boosters are *bosses*, who threaten workers who don't use AI enough in the course of their duties:\n\n[https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves](https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves)\n\nWhere we do see idiosyncrasy emerging from AI usage, it's often terrible. AI can help you create a folie-a-un in which you and a chatbot team up to reinforce your delusions and drive you deeper into a world of dangerous mirage:\n\n[https://pluralistic.net/2026/06/03/mission-space/#gsd](https://pluralistic.net/2026/06/03/mission-space/#gsd)\n\nThere's a (false) story that's told about people who championed the early internet: that we were blithely certain that technology could only be a force for good, and negligently disinterested in the possibility that technology could control, extract and harm. That's demonstrably untrue: recall cyberpunk's dualism of \"the street finds its own use for things\" and \"cyberpunk is a warning, not a suggestion.\"\n\nMore true is to say that early internet champions were alive to the *importance* of the internet, and therefore both excited about the possibilities of the internet to deliver a world of connection, idiosyncrasy, love and solidarity; and about the danger of the internet as a dystopian system of surveillance and manipulation:\n\n[https://pluralistic.net/2025/02/13/digital-rights/#are-human-rights](https://pluralistic.net/2025/02/13/digital-rights/#are-human-rights)\n\nHistory isn't finished. Long after the AI bubble pops, there will be local models and people vibe coding homemade software that respond directly to their needs. The stuff we make on our own computers, for ourselves, is deplatformed from its inception. It's part of the life we can build in technology's \"shadowy corners\" that we used to just call \"technology.\" The fact that this stuff is utterly unsuited to be production code makes it inherently unmonetizable. It's how the street finds its own use for things:\n\n[https://pluralistic.net/2026/02/23/goodharts-lawbreaker/#no-metrics-no-targets](https://pluralistic.net/2026/02/23/goodharts-lawbreaker/#no-metrics-no-targets)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/06/15/vernacular/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Mediocre Fred [https://www.youtube.com/watch?v=gCXc-xC5ms0](https://www.youtube.com/watch?v=gCXc-xC5ms0)\n\n- \nShame On You [https://www.change.org/p/an-open-letter-to-the-american-diabetes-association-shame-on-you](https://www.change.org/p/an-open-letter-to-the-american-diabetes-association-shame-on-you)\n\n- \nKeycap Quarry [https://keycapquarry.com/shop/](https://keycapquarry.com/shop/)\n\n- \nThe Threat of Big Insurance  [https://prospect.org/2026/06/11/threat-of-big-insurance-lobbying-congress-donations/](https://prospect.org/2026/06/11/threat-of-big-insurance-lobbying-congress-donations/)\n\n- \nEnd Citizens United’s Tiffany Muller on fighting big money in politics [https://www.citationneeded.news/end-citizens-uniteds-tiffany-muller-on-fighting-big-money-in-politics/](https://www.citationneeded.news/end-citizens-uniteds-tiffany-muller-on-fighting-big-money-in-politics/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/06/15/vernacular/#retro))\n\n#25yrsago Disney characters win right to clean underwear [https://web.archive.org/web/20010707023727/https://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2001/06/07/state1339EDT0171.DTL](https://web.archive.org/web/20010707023727/https://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2001/06/07/state1339EDT0171.DTL)\n\n#20yrsago Lampooning the American dismissal of Gitmo suicides [https://fafblog.blogspot.com/2006/06/610-changed-everything-run-for-your.html](https://fafblog.blogspot.com/2006/06/610-changed-everything-run-for-your.html)\n\n#20yrsago LA’s South Central Farm under police siege right now [https://web.archive.org/web/20060616085732/http://www.southcentralfarmers.com/index.php?option=com_content&amp;task=view&amp;id=160&amp;Itemid=2](https://web.archive.org/web/20060616085732/http://www.southcentralfarmers.com/index.php?option=com_content&amp;task=view&amp;id=160&amp;Itemid=2)\n\n#15yrsago Transparent Pontiac for sale [https://web.archive.org/web/20110610113919/http://blog.hemmings.com/index.php/2011/06/07/the-tin-indian-that-wasnt-rm-to-offer-see-through-pontiac/](https://web.archive.org/web/20110610113919/http://blog.hemmings.com/index.php/2011/06/07/the-tin-indian-that-wasnt-rm-to-offer-see-through-pontiac/)\n\n#15yrsago Pulp Fiction edited down to just the cussing [https://www.youtube.com/watch?v=5PcAQbhnGNs](https://www.youtube.com/watch?v=5PcAQbhnGNs)\n\n#15yrsago New York State to pet cemeteries: no pet owners’ ashes allowed [https://web.archive.org/web/20110614133359/https://www.foxnews.com/us/2011/06/11/new-york-tells-pet-cemeteries-to-stop-taking-in-humans/#ixzz1PAZoGS6l](https://web.archive.org/web/20110614133359/https://www.foxnews.com/us/2011/06/11/new-york-tells-pet-cemeteries-to-stop-taking-in-humans/#ixzz1PAZoGS6l)\n\n#15yrsago A dog with persistence-of-vision LEDs in her shirt writes my novel Makers in the park at night [https://web.archive.org/web/20110618011346/https://i.document.m05.de/?p=970](https://web.archive.org/web/20110618011346/https://i.document.m05.de/?p=970)\n\n#15yrsago Head of UN copyright agency says fair use is a “negative agenda,” wants to get rid of discussions on rights for blind people and go back to giving privileges to giant companies [https://memex.craphound.com/2011/06/14/head-of-un-copyright-agency-says-fair-use-is-a-negative-agenda-wants-to-get-rid-of-discussions-on-rights-for-blind-people-and-go-back-to-giving-privileges-to-giant-companies/](https://memex.craphound.com/2011/06/14/head-of-un-copyright-agency-says-fair-use-is-a-negative-agenda-wants-to-get-rid-of-discussions-on-rights-for-blind-people-and-go-back-to-giving-privileges-to-giant-companies/)\n\n#10yrsago Air Force loses access to database tracking fraud investigations to 2004 [https://arstechnica.com/information-technology/2016/06/database-corruption-erases-100000-air-force-investigation-records/](https://arstechnica.com/information-technology/2016/06/database-corruption-erases-100000-air-force-investigation-records/)\n\n#10yrsago Peter Thiel’s lawyer threatens Gawker for talking about Donald Trump’s “hair” [https://web.archive.org/web/20160615022004/https://gawker.com/now-peter-thiels-lawyer-wants-to-silence-reporting-on-t-1781918385](https://web.archive.org/web/20160615022004/https://gawker.com/now-peter-thiels-lawyer-wants-to-silence-reporting-on-t-1781918385)\n\n#10yrsago Samantha Bee on Orlando shooting: angry and uncompromising [https://www.youtube.com/watch?v=t88X1pYQu-I](https://www.youtube.com/watch?v=t88X1pYQu-I)\n\n#10yrsago Goldman Sachs bribed Libyan officials with sex workers, private jet rides, then lost all their money [https://www.theguardian.com/business/2016/jun/13/goldman-sachs-hired-prostitutes-to-win-libyan-business-court-told](https://www.theguardian.com/business/2016/jun/13/goldman-sachs-hired-prostitutes-to-win-libyan-business-court-told)\n\n#10yrsago Net Neutrality Wins: Federal Court Upholds FCC Open Internet Rules [https://www.techdirt.com/2016/06/14/cable-industry-proclaims-more-competition-hurts-consumers-damages-economic-efficiency/](https://www.techdirt.com/2016/06/14/cable-industry-proclaims-more-competition-hurts-consumers-damages-economic-efficiency/)\n\n#10yrsago Microsoft will buy Linkedin for $26.2B [https://arstechnica.com/information-technology/2016/06/microsoft-will-acquire-linkedin-for-18-5b/](https://arstechnica.com/information-technology/2016/06/microsoft-will-acquire-linkedin-for-18-5b/)\n\n#10yrsago Lin-Manuel Miranda’s Tony Awards sonnet for the Orlando shooting victims [https://www.rollingstone.com/tv-movies/tv-movie-news/see-lin-manuel-mirandas-stirring-tribute-to-orlando-victims-103131/](https://www.rollingstone.com/tv-movies/tv-movie-news/see-lin-manuel-mirandas-stirring-tribute-to-orlando-victims-103131/)\n\n#10yrsago China’s online astroturf is mostly produced by government workers as “extra duty” [https://web.archive.org/web/20160613194153/http://arstechnica.com/information-technology/2016/06/red-astroturf-chinese-government-makes-millions-of-fake-social-media-posts/](https://web.archive.org/web/20160613194153/http://arstechnica.com/information-technology/2016/06/red-astroturf-chinese-government-makes-millions-of-fake-social-media-posts/)\n\n#10yrsago Rio: your quadrennial reminder that the Olympics colonize host-states with Orwellian surveillance and human rights abuses [https://web.archive.org/web/20160614122124/https://motherboard.vice.com/read/the-olympics-are-turning-rio-into-a-military-state](https://web.archive.org/web/20160614122124/https://motherboard.vice.com/read/the-olympics-are-turning-rio-into-a-military-state)\n\n#5yrsago A Monopoly Isn’t the Same as Legitimate Greatness [https://pluralistic.net/2021/06/13/a-monopoly-isnt-the-same-as-legitimate-greatness/](https://pluralistic.net/2021/06/13/a-monopoly-isnt-the-same-as-legitimate-greatness/)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/06/15/vernacular/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order), Jun 19\n\n[https://www.youtube.com/live/wJvBvYdaAMY](https://www.youtube.com/live/wJvBvYdaAMY)\n\n- \nLA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19\n\n[https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant](https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant)\n\n- \nMenlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21\n\n[https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026](https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026)\n\n- \nToronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23\n\n[https://iabcanada.com/state-of-the-nation-2026](https://iabcanada.com/state-of-the-nation-2026)\n\n- \nToronto: The Reverse Centaur's Guide to Life After AI (Osler Records/Type Books), Jun 23\n\n[https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998](https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nPhiladelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25\n\n[https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559](https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559)\n\n- \nChicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26\n\n[https://exileinbookville.com/events/50628](https://exileinbookville.com/events/50628)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/06/15/vernacular/#recent))\n\n- The Enshittification of Life, the Universe, & Everything (Luke Savage)\n\n[https://www.lukewsavage.com/p/the-enshittification-of-life-the](https://www.lukewsavage.com/p/the-enshittification-of-life-the)\n\n- \nCory Doctorow's digital jail-break (DW In Focus)\n\n[https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035](https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035)\n\n- \nWhy the Internet Got Worse and What to Do About It (Jim Rutt) (RIP)\n\n[https://www.jimruttshow.com/cory-doctorow-3/](https://www.jimruttshow.com/cory-doctorow-3/)\n\n- \nOn Enshittification – and what can be done about it (Re:publica)\n\n[https://www.youtube.com/watch?v=KhINQgPMVSI](https://www.youtube.com/watch?v=KhINQgPMVSI)\n\n- \nEFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu)\n\n[https://archive.org/details/effecting-change-enshittification](https://archive.org/details/effecting-change-enshittification)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/06/15/vernacular/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/06/15/vernacular/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/06/15/vernacular/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/06/15/vernacular/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Database"
+        ],
+        "published_at": "Mon, 15 Jun 2026 15:40:29 +0000",
+        "reading_time": 20,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "\"They screwed us\": Personality clashes sent Anthropic's models offline - 15th June 2026 - Link Blog **[\"They screwed us\": Personality clashes sent Anthropic's mode...",
+    "‘Anthropic’s Safety Superpower’ - I’m sympathetic to the cynics who consistently characterize Anthropic’s public statements,...",
+    "WorkOS Launches Auth.md — an Open Protocol for Agent Registration - Enable agents to register users without the sign-up form. Auth.md provides secure agent re...",
+    "JAX: commitment issues - Archives Categories",
+    "The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA - [ Skip to content ](#main) Gemini gets preferential treatment on Android, but maybe not fo..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "ai",
+      "count": 7
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "ago",
+      "count": 4
+    },
+    {
+      "word": "gif",
+      "count": 4
+    },
+    {
+      "word": "often",
+      "count": 3
+    },
+    {
+      "word": "email",
+      "count": 3
+    },
+    {
+      "word": "digital",
+      "count": 3
+    },
+    {
+      "word": "autonomy",
+      "count": 3
+    },
+    {
+      "word": "rss",
+      "count": 3
+    },
+    {
+      "word": "read",
+      "count": 3
+    },
+    {
+      "word": "june",
+      "count": 3
+    },
+    {
+      "word": "www",
+      "count": 3
+    },
+    {
+      "word": "person",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "typo",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "prolog",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "chess",
+      "count": 2
+    },
+    {
+      "word": "puzzle",
+      "count": 2
+    },
+    {
+      "word": "place",
+      "count": 2
+    },
+    {
+      "word": "civil",
+      "count": 2
+    },
+    {
+      "word": "society",
+      "count": 2
+    },
+    {
+      "word": "talk",
+      "count": 2
+    },
+    {
+      "word": "going",
+      "count": 2
+    },
+    {
+      "word": "club",
+      "count": 2
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "debut",
+      "count": 2
+    },
+    {
+      "word": "modern",
+      "count": 2
+    },
+    {
+      "word": "supported",
+      "count": 2
+    },
+    {
+      "word": "light",
+      "count": 2
+    },
+    {
+      "word": "switches",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "brief",
+      "count": 2
+    },
+    {
+      "word": "kv",
+      "count": 2
+    },
+    {
+      "word": "cache",
+      "count": 2
+    },
+    {
+      "word": "compression",
+      "count": 2
+    },
+    {
+      "word": "long",
+      "count": 2
+    },
+    {
+      "word": "cloudflare",
+      "count": 2
+    },
+    {
+      "word": "team",
+      "count": 2
+    },
+    {
+      "word": "ensemble",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "screwed",
+      "count": 2
+    },
+    {
+      "word": "us",
+      "count": 2
+    },
+    {
+      "word": "personality",
+      "count": 2
+    },
+    {
+      "word": "clashes",
+      "count": 2
+    },
+    {
+      "word": "sent",
+      "count": 2
+    },
+    {
+      "word": "anthropic's",
+      "count": 2
+    },
+    {
+      "word": "models",
+      "count": 2
+    },
+    {
+      "word": "offline",
+      "count": 2
+    },
+    {
+      "word": "source",
+      "count": 2
+    },
+    {
+      "word": "anthropic",
+      "count": 2
+    },
+    {
+      "word": "auth",
+      "count": 2
+    },
+    {
+      "word": "md",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "agent",
+      "count": 2
+    },
+    {
+      "word": "registration",
+      "count": 2
+    },
+    {
+      "word": "without",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "gemini",
+      "count": 2
+    },
+    {
+      "word": "android",
+      "count": 2
+    },
+    {
+      "word": "things",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "gpus",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jun",
+      "count": 2
+    }
+  ]
+}
