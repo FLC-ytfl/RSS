@@ -1,0 +1,683 @@
+{
+  "date": "2026-06-17",
+  "stats": {
+    "total_fetched": 275,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Formalizing a ring theorem with Lean 4 and Claude",
+        "summary": "I’ve been testing Claude’s ability to generate Lean 4 code to prove theorems. I’ve written about a couple experiments that verified calculations. I did not write about my failed attempt to get Claude to formalize a proof...",
+        "url": "https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Wed, 17 Jun 2026 14:23:51 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How a Microsoft product from June 1979 led to the IBM PC",
+        "summary": "June 1979 is a significant month in history for Microsoft for two reasons. That month, they crossed the threshold of an installed base of 200,000 on its flagship 8080 Basic. And on June 18, 1979, Microsoft released a ver...",
+        "url": "https://dfarq.homeip.net/how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-microsoft-product-from-june-1979-led-to-the-ibm-pc",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Wed, 17 Jun 2026 11:00:33 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Bringing more agent harnesses and frameworks to Cloudflare, starting with Flue",
+        "summary": "The Agents SDK is now a runtime any agent framework can build on. Today we're opening up the Agents SDK primitives, with Flue as a first framework targeting Agents SDK, and rolling out agents in the dashboard.",
+        "url": "https://blog.cloudflare.com/agents-platform-flue-sdk/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Cloud"
+        ],
+        "published_at": "Wed, 17 Jun 2026 19:35:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "You Got Faster. Your Company Didn’t.",
+        "summary": "AI made you faster. But you're not more productive; you're outsourcing the slow part to everyone else",
+        "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
+        "source": "Terrible Software",
+        "tags": [
+          "AI/ML",
+          "Product"
+        ],
+        "published_at": "Wed, 17 Jun 2026 17:39:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing the Cloudflare One stack: agent-powered deployment",
+        "summary": "The Cloudflare One stack is a library of agent skills that gives any AI agent the knowledge it needs to plan, deploy, and manage a Zero Trust environment — no migration calls required.",
+        "url": "https://blog.cloudflare.com/cloudflare-one-stack/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Wed, 17 Jun 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-17T23:16:11.538Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’",
+        "summary": "Posted Jun 15, 2026 at 7:09 PM UTC\n\nToday’s Vergecast: # The **epic** story of Markdown.\n\n[Markdown](https://daringfireball.net/projects/markdown/) is a system for writing that makes it readable to bo",
+        "content": "Posted Jun 15, 2026 at 7:09 PM UTC\n\nToday’s Vergecast: # The **epic** story of Markdown.\n\n[Markdown](https://daringfireball.net/projects/markdown/) is a system for writing that makes it readable to both humans and computers. It’s all about the symbols. You use - to make a list, * for emphasis, ** for even more emphasis. Brackets and parentheses turn into links. Right now Markdown is absolutely everywhere: people are maintaining their Claude.MD files for conversing with AI bots, and [writing their notes](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown) in Markdown editors like Obsidian. So where did Markdown come from? It came from John Gruber. John joins the show, along with Anil Dash, to tell the story of where Markdown came from and [how it took over the world](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/).\n\n(Also, if this title breaks something in your podcast player, PLEASE tell us about it. I really hope it does, and I’m sorry in advance.)\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- David Pierce\n- \n- \n- \n-",
+        "url": "https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-06-17T15:37:42.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Charity Majors",
+        "summary": "17th June 2026\n\n> What happened in 2025 was this: **the economics of code production were turned upside down**. Instead of being very hard, time-consuming, and expensive to generate code, it became ef",
+        "content": "17th June 2026\n\n> What happened in 2025 was this: **the economics of code production were turned upside down**. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and instant. Lines of code went from being treasured, reused, cared for and carefully curated, to being disposable and regenerable, practically overnight.\n\n— [Charity Majors](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2), AI demands more engineering discipline. Not less\n\nPosted [17th June 2026](https://simonwillison.net/2026/Jun/17/) at 5:12 pm\n\n## Recent articles\n\n  \n    - [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/) - 13th June 2026\n\n  \n    - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) - 11th June 2026\n\n  \n    - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/) - 9th June 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [17th June 2026](https://simonwillison.net/2026/Jun/17/).\n\n    \n        [\n            ai\n            2,078\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            charity-majors\n            9\n        ](https://simonwillison.net/tags/charity-majors/)\n    \n        [\n            generative-ai\n            1,835\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1,803\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            ai-assisted-programming\n            389\n        ](https://simonwillison.net/tags/ai-assisted-programming/)",
+        "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-06-17T17:12:41.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "<click-to-play> — a still that plays",
+        "summary": "17th June 2026\n\n  \n    \n      [Tool](https://simonwillison.net/elsewhere/tool/)\n    \n    [<click-to-play> — a still that plays](https://tools.simonwillison.net/click-to-play-component)\n    \n  \n\nA prog",
+        "content": "17th June 2026\n\n  \n    \n      [Tool](https://simonwillison.net/elsewhere/tool/)\n    \n    [<click-to-play> — a still that plays](https://tools.simonwillison.net/click-to-play-component)\n    \n  \n\nA progressive enchantment Web Component that turns this markup:\n\n```\n<click-to-play>\n  <a href=\"URL to GIF\">\n    <img src=\"URL to first frame\" alt=\"...\">\n  </a>\n</click-to-play>\n\n```\n\nInto a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them.\n\nHere's [an example](https://simonwillison.net/2026/Jun/16/datasette/) that demonstrates the new row editing tools in Datasette - in fact I built this Web Component for that post.\n\nPosted [17th June 2026](https://simonwillison.net/2026/Jun/17/) at 3:56 am",
+        "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-17T03:56:10.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "NetNewsWire Status",
+        "summary": "17th June 2026 - Link Blog\n\n**[NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)** ([via](https://lobste.rs/s/0mximk/netnewswire_status)) I find this inspiring. Brent Sim",
+        "content": "17th June 2026 - Link Blog\n\n**[NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)** ([via](https://lobste.rs/s/0mximk/netnewswire_status)) I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, *really* good - free from any commercial pressure.\n\nThe software is [NetNewsWire](https://netnewswire.com/) - \"it's like podcasts, but for *reading*\" - first released in 2002 and [made open source](https://netnewswire.com/history.html) in 2018.\n\nI've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\nPosted [17th June 2026](https://simonwillison.net/2026/Jun/17/) at 3:36 am\n\n## Recent articles\n\n  \n    - [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/) - 13th June 2026\n\n  \n    - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) - 11th June 2026\n\n  \n    - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/) - 9th June 2026\n\n  \n\n \n\nThis is a **link post** by Simon Willison, posted on [17th June 2026](https://simonwillison.net/2026/Jun/17/).\n\n    \n        [\n            brent-simmons\n            4\n        ](https://simonwillison.net/tags/brent-simmons/)\n    \n        [\n            netnewswire\n            6\n        ](https://simonwillison.net/tags/netnewswire/)\n    \n        [\n            open-source\n            308\n        ](https://simonwillison.net/tags/open-source/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-06-17T03:36:09.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Yours Truly on MacBreak Weekly: Is the New Siri AI Good?",
+        "summary": "#### Primary Navigation\n\n      \n        - [Podcasts](https://twit.tv/shows?shows_active=1)\n\n        - [Club](https://twit.tv/clubtwit)\n\n        - [Blog](https://twit.tv/posts)\n\n        - [Subscribe](h",
+        "content": "#### Primary Navigation\n\n      \n        - [Podcasts](https://twit.tv/shows?shows_active=1)\n\n        - [Club](https://twit.tv/clubtwit)\n\n        - [Blog](https://twit.tv/posts)\n\n        - [Subscribe](https://twit.tv/subscribe)\n\n        - [Sponsors](https://twit.tv/sponsors)\n\n      \n\n      \n        - \n          \n            \n              \n            \n            \n              \n            \n          \n          \n        \n\n        - \n          [\n            \n              \n            \n            More…\n          ](#nav-secondary)\n        \n\n      \n\n    \n\n    \n  \n\n        \n\n    \n  \n[\n      \n\n        \n      \n      \nAll Shows\n](https://twit.tv/shows?shows_active=1)\n  \n[\n      \nMacBreak Weekly\n](https://twit.tv/shows/macbreak-weekly)\n  \n\n    \n\n          \n            \n          \n        \n    \n\n  \n      *\n        \n\n      \n        Jun 16th 2026\n\n        \n        \n## Intimate Functionalities\n\n        \n\n    Hosted by\n    \n[Leo Laporte](https://twit.tv/people/leo-laporte),\n\n[Andy Ihnatko](https://twit.tv/people/andy-ihnatko),\n\n[Christina Warren](https://twit.tv/people/christina-warren)\n\nIs the New Siri AI Good?\n\n        **New episodes every Tuesday.**\n        \n\n        \n  \n\n[\n          ![Subscribe on Apple Podcasts](https://twit.tv/images/subscription-logo-ApplePodcasts.png)\n        ](https://podcasts.apple.com/us/podcast/macbreak-weekly-audio/id179237749)\n      \n\n    \n\n[\n          ![Subscribe on Pocket Casts](https://twit.tv/images/subscription-logo-PocketCasts.png)\n        ](https://pca.st/VQdoV4)\n      \n\n    \n\n[\n          ![Subscribe on Club TWiT](https://twit.tv/images/subscription-logo-ClubTwit.png)\n        ](https://twit.memberful.com/account/feeds?id=9050)\n      \n\n    \n\n[\n          ![Subscribe on RSS](https://twit.tv/images/subscription-logo-RSS.png)\n        ](https://feeds.twit.tv/mbw.xml)\n      \n\n    \n\n[\n          ![Subscribe on YouTube](https://twit.tv/images/subscription-logo-YouTube.png)\n        ](https://www.youtube.com/user/TWiTMacBreak)\n      \n\n    \n\n    \n\n  \n    \n\n      \n        \n\n  Guests:\n  \n\n[John Gruber](https://daringfireball.net/)\n\n**Category:**\n            \n\n[News](https://twit.tv/episodes/news)\n\n        \n\n        John Gruber of Daring Fireball joins the MacBreak Weekly panel this week! A deep dive into Apple's new Siri following WWDC. Why Apple Intelligence & the new Siri are not coming to the EU initially later this year. And could the iPhone Ultra's launch be delayed this year?\n\n- Private cloud compute severely limited for third party devs.\n- The future of Siri, or: why private inference isn’t private enough.\n- I tried Siri AI, and so far it actually works.\n- How much Gemini is really inside Siri AI?\n- The EU's DMA Folly.\n- Reports of iPhone Ultra launch delays are ‘false,’ says leaker.\n- Apple Vision Pro helped Disney re-engineer a classic EPCOT ride.\n- Under-16 social media ban announced by UK government.\n- Fox to Buy Roku Streaming Service in $25 Billion Deal.\n\nPicks of the Week\n\n- Andy's Pick: Google Earth Flight Simulator for the Web\n- John's Pick: Hovercraft\n- Christina's Pick: Parachute Backup\n\nDownload or subscribe to MacBreak Weekly* at [https://twit.tv/shows/macbreak-weekly](https://twit.tv/shows/macbreak-weekly).\n\n**Join Club TWiT for Ad-Free Podcasts!**\nSupport what you love and get ad-free audio *and* video feeds, a members-only Discord, and exclusive content. Join today: [https://twit.tv/clubtwit](https://twit.tv/clubtwit)\n\n        \n\n          \n- **Tech**: [Apple’s Private AI Promise: Real Privacy or Marketing Spin?](https://twit.tv/posts/tech/apples-private-ai-promise-real-privacy-or-marketing-spin)\n\n          \n- **Transcripts**: [MacBreak Weekly 1029 Transcript](https://twit.tv/posts/transcripts/macbreak-weekly-1029-transcript)\n\n          \n\n        \n\n### Links\n\n          \n          \n- [Private Cloud Compute Severely Limited for Third Party Devs](https://daringfireball.net/linked/2026/06/13/pcc-severely-limited-third-party-developers)\n\n          \n- [The future of Siri, or: why private inference isn’t private enough](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/)\n\n          \n- [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)\n\n          \n- [How much Gemini is really inside Siri AI?](https://www.macworld.com/article/3162330/how-much-gemini-is-really-in-the-new-siri-ai.html)\n\n          \n- [The EU's DMA Folly](https://daringfireball.net/linked/2026/06/15/washington-post-dma-folly)\n\n          \n- [Reports of iPhone Ultra launch delays are ‘false,’ says leaker](https://9to5mac.com/2026/06/16/reports-of-iphone-ultra-launch-delays-are-false-says-leaker/)\n\n          \n- [Apple Vision Pro helped Disney re-engineer a classic EPCOT ride](https://appleinsider.com/articles/26/06/12/apple-vision-pro-helped-disney-re-engineer-a-classic-epcot-ride)\n\n          \n- [Under-16 social media ban announced by UK government](https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement)\n\n          \n- [Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa)\n\n          \n- [Google Earth Flight Simulator for Web](https://earth.google.com/)\n\n          \n- [Hovercraft](https://sandwich.vision/hovercraft)\n\n          \n- [Parachute Backup](https://parachuteapps.com/)\n\n          \n\n        \n\n      \n        \n\n          \n### Sponsors\n\n          \n          \n- [zocdoc.com/macbreak](http://zocdoc.com/macbreak)\n\n          \n- [hipebl.ai](http://hipebl.ai/)\n\n          \n\n        \n        \n\n  \n[\n    \n      \n    \n    Subscribe to Audio\n  ](#subscribe-wrapper-audio)\n  \n\n[\n    \n      \n    \n    Subscribe to Video\n  ](#subscribe-wrapper-video)\n  \n\n[\n    \n      \n    \n    Download Options\n  ](#download-options)\n  \n\n        \n\n        **Join Club TWiT for Ad-Free Podcasts!**\nSupport what you love and get ad-free audio *and* video feeds, a members-only Discord, and exclusive content. [**Join Club TWiT today!**](https://twit.tv/clubtwit)\n\n      \n    \n\n    \n    \n\n    \n  \n[\n      \n\n        \n      \n      \nAll Shows\n](https://twit.tv/shows?shows_active=1)\n  \n[\n      \nMacBreak Weekly\n](https://twit.tv/shows/macbreak-weekly)\n  \n\n      \n\n            \n            Yes, like every site on the Internet, this site uses cookies. So now you know.\n                [Learn more](https://www.cookiesandyou.com/)\n\n                Hide",
+        "url": "https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-06-17T15:41:54.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Checking In on the iOS Continental Fun-Gap Drift",
+        "summary": "There’s a scene in Martin Scorsese’s *Casino*. Gangster Nicky Santoro (Joe Pesci) and two of his goon friends are in a nightclub in the Tangiers casino resort (a fictionalized version of the old Stard",
+        "content": "There’s a scene in Martin Scorsese’s *Casino*. Gangster Nicky Santoro (Joe Pesci) and two of his goon friends are in a nightclub in the Tangiers casino resort (a fictionalized version of the old Stardust), which is run by Ace Rothstein (Robert De Niro). Santoro and Rothstein, who’d been friends for decades, are now on the outs. The Tangiers is a front for the mafia and the Teamsters. Rothstein, a gambling genius who was born to run a casino, is earning major bank for the bosses back home. Santoro is gangstering up Las Vegas, and is under severe law enforcement scrutiny. They just held a contentious meeting, just the two of them, at Santoro’s request, in the middle of the desert — a meeting Rothstein wasn’t sure wouldn’t conclude with him dead in a freshly dug hole in the sand.\n\nSantoro and his two friends are just a threesome. All men. Morose.\n\nRothstein comes in with Billy Sherbert (Don Rickles) and a party of half a dozen or so men and women, including Oscar Goodman, famed defense attorney and future mayor of Las Vegas (playing himself), and several women. Everyone (but Rothstein, who’s not much for fun) is laughing. You’d be laughing too if you were out having drinks with Don Fucking Rickles and Oscar Goodman.\n\nSantoro gripes about Rothstein not acknowledging him, and, well, makes some comments that suggest he doesn’t hold Jews in the highest esteem. Santoro’s right-hand man, Frank Marino (played by the great Frank Vincent, of Billy “Go Get Your Fucking Shine Box” Batts fame), dryly observes, “They’re having a good time, too.”\n\nThe camera pulls back to show their threesome, alone in their booth, isolated. Santoro, who is absolutely not having a good time, replies, “So are we.”\n\nI’ve been thinking about [that scene](https://www.youtube.com/watch?v=Ezqy0v0qUig) a lot, lately.\n\nAllison Johnson, in a piece for The Verge headlined “[European iPhones Are More Fun Now](https://www.theverge.com/2024/8/24/24226946/iphone-eu-regulation-app-stores-fortnite)”:\n\n> Whining about stuff is a treasured American pastime, so allow\n> me to indulge: the iPhone is more fun in Europe now, and it’s\n> not fair.\n\n> \n> They’re getting all kinds of stuff because they have *cool*\n> regulators, not, like, regular regulators. [Third-party app\n> stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games), the ability for browsers to [run their own\n> engines](https://www.theverge.com/2024/1/25/24050478/apple-ios-17-4-browser-engines-eu), [Fortnite](https://www.theverge.com/2024/8/16/24221361/fortnite-iphone-epic-games-app-store), and now the ability to\n> [replace lots of default apps](https://www.theverge.com/2024/8/22/24226110/apple-iphone-ipad-default-apps-eu-competition)? I want it, too! Imagine if\n> Chrome on iOS wasn’t just a rinky dink little Safari emulator!\n\nImagine if Chrome could deplete your iPhone battery as fast as it does your MacBook battery. Imagine if you were one of the millions (zillions?) of people whose “incognito mode” browsing history was observed and stored by Google and deleted [only after they lost a lawsuit](https://www.npr.org/2024/04/01/1242019127/google-incognito-mode-settlement-search-history). Imagine — and this takes a lot of imagination — if Google actually shipped a version of Chrome for iOS, only for the EU, that used its own battery-eating rendering engine instead of using the energy-efficient system version of WebKit.\n\n> Imagine downloading a new dialer app with a soundboard of fart\n> sounds and setting it as your default! Unfortunately, Apple\n> doesn’t seem interested in sharing these possibilities with\n> everyone.\n\nThat sounds like fun.\n\n> Sure, we’ve got [retro game emulators in the app store](https://www.theverge.com/2024/4/5/24122341/apple-app-store-game-emulators-super-apps). And\n> that rules. But that’s only because Apple was worried everyone in\n> the EU was about to [download AltStore PAL](https://www.theverge.com/24100464/altstore-pal-dma-eu-launch-delta-nintendo-emulator-clip-clipboard-manager) so they could\n> play *Ocarina of Time* on their iPhones.\n\nIf the benefit of the DMA is allowing emulators worldwide how is that an advantage for people in the EU?\n\n> Here’s the thing: wouldn’t it just be good business to offer\n> everyone the same choices no matter where they live? It’s not as\n> if Apple was making two different iPhones to try to appeal to\n> different cultural preferences. It’s making one iPhone that’s more\n> flexible and customizable and one that isn’t.\n\n> \n> Maybe, bit by bit, Apple will cave in and offer parity the way it\n> did with emulators. But I think the company should make an\n> uncharacteristic move: drop the charade and let everyone,\n> everywhere have the same iPhone. It would be bold! Courageous,\n> even! But most importantly, it would be a lot more fun.\n\nYes, let’s allow everyone, around the world, [to delete their Camera app](https://daringfireball.net/2024/09/the_ios_continental_drift_widens). That sounds like fun.\n\n[Federico Viticci, on Threads](https://www.threads.net/@viticci/post/C--2G5btWWb):\n\n> My realization in 2024 has been that the DMA fork of iOS is the\n> best iPhone experience. We can finally use our phones like actual\n> computers with more default apps and apps from external sources.\n\n[And on MacStories](https://www.macstories.net/linked/the-dma-version-of-ios-is-more-fun-than-vanilla-ios/):\n\n> It’s still iOS, with the tasteful design, vibrant app ecosystem,\n> high-performance animations, and accessibility we’ve come to\n> expect from Apple; at the same time, it’s a more flexible and fun\n> version of iOS predicated upon the assumption that users deserve\n> options to control more aspects of how their expensive pocket\n> computers should work. Or, [as I put it](https://www.threads.net/@viticci/post/C-_Ask_NiBx/): some of the\n> flexibility of Android, but on iOS, sounds like a dream to me.\n\n> \n> Apparently, this thought — that people who demand options should\n> have them — *really* annoys a lot of (generally American)\n> pundits who seemingly consider the European Commission a\n> draconian entity that demands changes out of spite for a\n> particular corporation, rather than a group of elected officials\n> who regulate based on what they believe is best for their\n> constituents and the European market.\n\nLet’s run a tally. On the EU side, there is Fortnite and other games from Epic, a [shady](https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-finalizes-order-requiring-fortnite-maker-epic-games-pay-245-million-tricking-users-making) company that was justifiably booted from the App Store for bait-and-switch chicanery intended to provoke a lawsuit in which they [got their asses handed back to them](https://daringfireball.net/linked/2024/01/17/apple-epic-legal-fees). On the rest-of-the-world side we have the imminent release of iPhone Mirroring and Apple Intelligence. I don’t play Fortnite, and even if I did, I wouldn’t on my phone, but I find the latter far more interesting — and fun — than the former.\n\nThe non-Epic iOS software available exclusively in the EU is ... well, nothing of interest. Maybe some apps that help with content piracy. Other than that, nothing. Admittedly, the DMA only went into effect 6 months ago. Long-term, maybe there will arise a thriving ecosystem of useful and fun apps and games that are exclusively available in EU marketplaces. Right now, it’s Fortnite. There are a bunch of articles (and surely soon to be more) informing EU citizens [how to access Apple Intelligence](https://www.macrumors.com/how-to/get-apple-intelligence-in-the-eu/) (by lying about where they are). There are crickets chirping regarding how iOS users outside the EU can cheat their way into the EU’s new DMA rules. No one cares. \n\nMeanwhile no one in the EU will get Apple Intelligence or iPhone Mirroring, both of which features are very useful, and, dare I say, quite fun. Should we judge how much fun each side of the continental divide is having by how much fun they theoretically *could* be having, or by how much fun they *are* having?\n\nAs it stands, the fun side is not the EU. But hope springs eternal.",
+        "url": "https://daringfireball.net/2024/09/ios_continental_drift_fun_gap",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-17T00:50:18.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Summoning the Demon",
+        "summary": "> Watch you hit the stage like a willing bomb\n\n> Strapped to crippled children\n\n> It’s hard to watch you whore out your damaged pride\n\n> I spit on what you’re building\n\n>   – The Stephen Hawking\n\nThe ",
+        "content": "> Watch you hit the stage like a willing bomb\n\n> Strapped to crippled children\n\n> It’s hard to watch you whore out your damaged pride\n\n> I spit on what you’re building\n\n>   – The Stephen Hawking\n\nThe title is a [2014 Elon Musk quote](https://www.cnet.com/science/elon-musk-we-are-summoning-the-demon-with-artificial-intelligence/). Now that we are 12 years in, it’s so true, but maybe not in the way intended. Or maybe exactly as intended?\n\nI [read this](https://michaelenger.com/blog/i-love-the-computer/) and it described what’s currently going on as a *social crime*. I very much agree. AI is simply a reflection of our society, it doesn’t contain a destiny. We are summoning the demon because we have demonic desires.\n\nI don’t think this is going to change, but I do think that once the demon is here it will consume the people who brought it into the world. If you are one of these people, not [getting out of technology](https://geohot.github.io/blog/jekyll/update/2025/09/13/get-out-of-technology.html) will cost you your life.\n\n> You’ll bleed to feed the demon in me\n\n> If you don’t change your evil ways and end this peacefully\n\n> You’ll bleed to feed the demon in me\n\n> I beg you, before you’re digested, shred your legs and see\n\nI am a proud member of the perpetual underclass. After your game of musical chairs is over, you will all join me eventually, and when you show up you will lose because we have been here for years. We will be comfortable. We will not be nice.\n\nThere’s no stopping these people, I was wrong to think I ever could. And if you believe in any sort of regulation or oversight, ask how that’s worked against tech so far. AI isn’t new in kind, it’s just another tool in their optimization machine.\n\nIt is going to collapse. The question is what is left when it does. That’s the world worth building for.",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html",
+        "source": "the singularity is nearer",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-06-17T07:00:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Logic for Programmers v0.15, Livecoding",
+        "summary": "There's a new release of [Logic for Programmers](https://logicforprogrammers.com/)! This one, version 0.15, is the first true release candidate. There's a couple of minor touch-ups I need to do but al",
+        "content": "There's a new release of [Logic for Programmers](https://logicforprogrammers.com/)! This one, version 0.15, is the first true release candidate. There's a couple of minor touch-ups I need to do but all content is in and copy edited and proofread. Unless something absolutely major comes up, the next release will be 1.0 and available in print. Full release notes [here](https://github.com/logicforprogrammers/book-assets/blob/master/CHANGELOG.md).\n\n(I'm also testing if a smaller low margin PDF is better for phones and computers. The printed book is going to have much larger proper margins. Let me know what you think about this experiment!)\n\nAnyway I hurt my wrist and can't write a whole newsletter, so I'll just do a couple of recommendations. My friend [Richard Whaling](https://whal.ing/) invited me to the [inaugural livecode.chicago meetup](https://www.instagram.com/reel/DYzyJ-ZJ-7S/), which was pretty cool! Among other things, people demoed two languages for livecoding music:\n\n- [Strudel](https://strudel.cc/) is an extensive javascript DSL that seems relatively friendly to get into\n\n- [CLAVIER-36](https://clavier36.com/about) is a ground-up special purpose language where the program is a 2D grid\n\nIt all kinda makes me wish I knew the basics of music because it seems like it'd be a lot of fun to compare and contrast all of the various approaches to livecoding languages. Check em out if that's at all your thing!\n\n(For completeness, Strudel is a port of the Haskell [TidalCycles](https://tidalcycles.org/) and C36 was inspired by [Orca](https://metasyn.srht.site/learn-orca/))\n\n    \n\n        \n            *If you're reading this on the web, you can subscribe [here](https://buttondown.com/hillelwayne). Updates are once a week. My main website is [here](https://www.hillelwayne.com/).*\n\n*My new book, *Logic for Programmers*, is now in early access! Get it [here](https://leanpub.com/logic/).*",
+        "url": "https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/",
+        "source": "Computer Things",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Wed, 17 Jun 2026 16:40:09 +0000",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Flax debugging: making a hash of things",
+        "summary": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n          ",
+        "content": "Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n        Posted on 17 [June 2026](https://www.gilesthomas.com/2026/06/)\n        \n            in\n            \n                [AI](https://www.gilesthomas.com/ai),\n            \n                [TIL](https://www.gilesthomas.com/til),\n            \n                [JAX](https://www.gilesthomas.com/jax),\n            \n                [Python](https://www.gilesthomas.com/python)\n            \n        \n    \n\n    I was debugging an issue with a JAX/Flax NNX training loop the other day, and found a neat\nlittle trick to help debug it.  Specifically, I wanted to see if the issue\nwas with my model, my loss function, my optimiser settings, or the \"plumbing\" of the\ntraining loop itself -- were gradients actually coming through and being applied to the parameters?\n\nI could print out the loss and the gradients, but printing out the parameters to see\nif they were changing was unhelpful -- any given update might only change a small number\nof parameters, or might change them such a small amount that I'd not notice -- especially given\nthat the model had 77 million of them!\n\nLet's take a look.\n\n    \n        \n### The world's worst LLM\n\nI am building an LLM from scratch in JAX and Flax NNX, and at this stage I'm trying to\nget the training loop right.  As a simple test, I've just implemented the \"shell\" of\nthe LLM -- the token embeddings on the input side, and the final linear layer for an\noutput head, wired directly together.  My plan was to train that so that given a sequence, instead of predicting\nnext tokens for each position, it would \"predict\" the sequence itself -- that is, I might\ntrain it with the input\n\n`The fat cat sat on the mat\n`\n\n...and the target\n\n`The fat cat sat on the mat\n`\n\n...rather than the normal setup for an LLM, where you feed it\n\n...and give it targets of\n\nSo, in LLM terms, I'd be training a model to project from vocab space to a learned embedding\nspace where each token had a distinct-enough embedding for the output head to be able\nto reliably project back to logits in vocab space.  There's\n[a bit of background here if that was all Greek to you](https://www.gilesthomas.com/2025/05/llm-from-scratch-15-from-context-vectors-to-logits).\n\nHere's the core part of the code I was working with, the `train_step` function, which\nseems to be the traditional JAX name for the JITted part of your code that does the\nforward pass through the model, works out the gradients, and then applies them to update\nthe model:\n\n`@jax.jit\ndef train_step(model, optimizer, inputs, targets):\n    loss, grads = nnx.value_and_grad(calculate_loss)(model, inputs, targets)\n    optimizer.update(model, grads)\n    return loss\n`\n\nI'd based it on the [\"Basic Usage\" example](https://flax.readthedocs.io/en/stable/#basic-usage) that's\ncurrently right there on the front page of the Flax site.  Seasoned Flax veterans will probably\nspot the issue right away, but it wasn't obvious to me -- so it was time to dig in.\n\n### Dealing with loss\n\nThe problem was that loss was not dropping -- indeed, taken to two decimal places, it was stuck at 10.82. The digits\nto the right of that changed for each batch, but the first four did not.  Now, this model was\nusing the GPT-2 tokeniser, and 10.82 is exactly the loss that you'd expect if the model\nwas essentially guessing randomly -- if you convert it to\n[perplexity](https://www.gilesthomas.com/2025/10/llm-from-scratch-21-perplexed-by-perplexity) by\ncalculating e10.82, you get about 50,011 -- which is very close to the GPT-2\nvocab size of 50,257.  Perplexity is, loosely, the number of tokens that the model\nwas trying to choose between for a typical input -- so a perplexity equal to the vocab size\nis what you'd expect of a random model that is getting it right about one in 50,257\ntimes.\n\nThat said, getting that loss consistently was a solid validation of my loss function!\nIt's vanishingly unlikely that it would have been getting that specific number so consistently\nif I'd made a mess of that.  The tiny variations I was seeing in the third and subsequent\ndecimal places would make sense, as they could easily be due to the variations in the\ncontents of the different batches.\n\n### Gradient descent into madness\n\nSo was it that the gradients were somehow zero, or NaNs, or something else that couldn't\nbe usefully applied to the model by the optimiser?  I printed them out in the `train_step`\nfunction (removing the `jit` decorator, as otherwise the `print`s would only get executed\nin the initial JIT pass through the function to compile it -- not when it had actual data [1](#fn-1)).\n\nThe result was values like this:\n\n`State({\n  'output_head': {\n    'kernel': Param( # 38,597,376 (154.4 MB)\n      value=Array([[-2.6879393e-06, -1.2799728e-04,  2.6441864e-09, ...,\n              -1.0780521e-09, -1.9232946e-09,  1.2057198e-04],\n             [ 7.2428256e-06, -9.0873800e-05,  1.9621261e-08, ...,\n               1.9959407e-08,  2.0515712e-08, -1.1401048e-06],\n             [-2.4080187e-05,  1.0717572e-04, -4.7910085e-09, ...,\n              -7.3136892e-09, -5.4990306e-09,  1.4717734e-04],\n             ...,\n             [ 1.9500087e-05,  1.4264552e-05, -3.0880422e-08, ...,\n              -3.0595814e-08, -3.7087858e-08, -1.2066610e-06],\n             [ 1.8085115e-05,  7.6247423e-05, -3.0720415e-08, ...,\n              -3.1052533e-08, -3.1693808e-08, -9.7857817e-05],\n             [ 5.2281484e-06, -1.4398852e-04,  6.2573882e-08, ...,\n               5.5977843e-08,  6.6571232e-08, -1.0639715e-05]], dtype=float32)\n    )\n  },\n  ...\n`\n\nThose looked plausible enough -- pretty small, but not so tiny that I'd expect them\nto have no effect at all with my learning rate of 0.0014.  It was time to dig into\nthe training loop's plumbing.\n\n### Plumbing the depths\n\nThe obvious suspect was the update step -- was that call to `optimizer.update` actually changing\nthe parameters at all?  Flax's NNX API is a bit odd compared to the normal\n[JAX functional way of doing things](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax).\nIn vanilla JAX code you would expect to do something like this to apply gradients:\n\n`    new_parameters = jax.tree.map(\n        lambda p, g: p - g * learning_rate,\n        old_parameters,\n        grads,\n    )\n`\n\nThat is, you get the new parameters by applying a transformation to the old ones.\n\nNNX, by contrast, is more PyTorch-flavoured.  It updates the parameters in-place,\nusing a function with a side effect of mutating one of its parameters:\n\n`optimizer.update(model, grads)\n`\n\n...rather than something more functional like this imaginary API:\n\n`model = optimizer.apply(model, grads)\n`\n\nI could easily imagine that I'd got something wrong that would break that in-place update, as it has\nthe feel of something that would have to be quite delicately implemented on top of a\nfunctional system like JAX.\n\nBut how could I see whether the parameters were changing, when there were 77 million\nof them and they would be being updated (based on gradients like -2.6879393e-06 and\na learning rate of 1.4e-3) in the ninth decimal place or beyond?  Printing the arrays out\nwas a non-starter!\n\n### Hashing it out\n\nAfter a little thought, I realised that the solution was to use hashes.  Even tiny\nchanges in the parameters' values would change their hashes drastically.  So if the parameters\nwere not being updated, as I suspected, I'd see constant hashes.  If they were being updated,\neven by a minuscule amount, then the hashes would change.\n\n[This GitHub discussion](https://github.com/jax-ml/jax/discussions/8352) pointed me\nin the right direction: if I could get the parameters as pure JAX arrays, I could do this:\n\n`print(hash(np.asarray(some_array).tobytes()))\n`\n\n...where `np` is just `numpy`.  That would produce a hash that was stable for the life of\nthis run -- the same parameters would always have the same hash, and different ones would\ndiffer, just as we want.  It could vary from run to run (Python uses different hash seeds in\neach new interpreter), but that wouldn't matter for\nthis kind of debugging.\n\nI wasn't sure what the structure of my Flax model's parameters was, but printing them out\nin the training loop told me:\n\n`Embed( # Param: 38,597,376 (154.4 MB)\n  embedding=Param( # 38,597,376 (154.4 MB)\n    value=Array(shape=(50257, 768), dtype=dtype('float32'))\n  ),\n  ...\n)\nLinear( # Param: 38,597,376 (154.4 MB)\n  kernel=Param( # 38,597,376 (154.4 MB)\n    value=Array(shape=(768, 50257), dtype=dtype('float32'))\n  ),\n  ...\n)\n`\n\nSo, guided by that, I added these lines to the training loop:\n\n`print(hash(np.asarray(model.token_embedding.embedding.value).tobytes()))\nprint(hash(np.asarray(model.output_head.kernel.value).tobytes()))\n`\n\nObviously copying the arrays around and converting them like that would slow things\ndown, but for debugging purposes, it looked solid.\n\nI kicked off the training loop, and the problem was clear:\n\n`  0%|                         | 43/530640 [00:06<13:39:02, 10.80it/s, loss=10.824, tps=43,576]\n5694185712877458479\n-5759723708627894111\n  0%|                         | 43/530640 [00:06<13:39:02, 10.80it/s, loss=10.824, tps=43,897]\n5694185712877458479\n-5759723708627894111\n`\n\n...and so on.  The hashes were not changing, so the model's parameters were not being\nupdated, even by a tiny amount. Gotcha!\n\nThe problem turned out, as I had suspected, to be related to the in-place updates that\nNNX does.  Like I said earlier, I'd based my training loop on the \"Basic Usage\" example on the Flax site --\nbut I'd messed up one important thing.  I had this:\n\n`@jax.jit\ndef train_step(model, optimizer, inputs, targets):\n    loss, grads = nnx.value_and_grad(calculate_loss)(model, inputs, targets)\n    optimizer.update(model, grads)\n    return loss\n`\n\n...and they had this:\n\n`@nnx.jit  # automatic state propagation\ndef train_step(model, optimizer, x, y):\n  loss_fn = lambda model: ((model(x) - y) ** 2).mean()\n  loss, grads = nnx.value_and_grad(loss_fn)(model)\n  optimizer.update(model, grads)  # in-place updates\n  return loss\n`\n\nYou can see a number of differences -- for example, they're baking the inputs and targets into\nthe lambda they're using for the loss function through a lexical closure, and that means\nthat they're only passing in the model to the version of it wrapped in `value_and_grad`.  But\nnone of that matters!   The real difference is actually nicely highlighted with a comment,\nbut I'd completely managed to miss it.  Right at the start, where I had `@jax.jit`, they had this:\n\n`@nnx.jit  # automatic state propagation\n`\n\nIt 100% makes sense that in order to support this kind of non-functional, in-place\nupdating of the model's parameters, you have to have a modified version of the JIT\ndecorator.  And I was just using the standard, functional pure-JAX one.\n\nFixing that fixed the problem:\n\n`  0%|                         | 1/530640 [00:06<903:18:25,  6.13s/it, loss=10.824, tps=1,003]\n5024998356359528747\n-4835662927486742764\n  0%|                         | 2/530640 [00:06<397:16:33,  2.70s/it, loss=10.785, tps=1,914]\n6231090084827524676\n8293831317336780907\n  0%|                         | 3/530640 [00:06<228:14:32,  1.55s/it, loss=10.741, tps=2,791]\n7896237091035346857\n-7117477486466304738\n`\n\nThe hashes were changing!  And even better, if you scroll to the right you'll see\nthat loss was slowly dropping.  After 10k or so iterations, I was seeing 0.000: I had my do-nothing \"LLM\"\nworking.\n\n### Wrapping up\n\nA satisfying debugging journey -- and while I don't think I'll make this specific\nmistake in the future, I think that the parameter-hashing trick is actually a really useful\ntrick for the toolbox.  If you're uncertain as to whether your parameters are being\nupdated, just looking at them probably won't help.  But looking at their hashes can help\nyou find out whether anything is changing.\n\nAnd I think that the pattern that I used to zoom in on it is a useful one, too.  I always\ntrack loss, so it's a good starting point (indeed, seeing that it wasn't falling was what\ntold me that something was going wrong).  But checking that it has a sane -- or ideally, as\nin this case, a meaningful -- value is a nice sanity check that we have a working loss function\nand a model that isn't doing something completely pathological.  Moving on from there to\nchecking that some kind of gradients are flowing through is a solid next move (and might\nbecome increasingly interesting with deeper models where [they can vanish or explode](https://www.gilesthomas.com/2026/02/llm-from-scratch-32b-interventions-gradient-clipping)).\nThen finally we can check the parameters -- in particular, are they changing? [2](#fn-2)\n\nLet's see how many new tricks I pick up as I work through this LLM project.",
+        "url": "https://www.gilesthomas.com/2026/06/hashing-jax-parameters",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 17 Jun 2026 02:40:00 +0000",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: The (real) dead economy theory (17 Jun 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/17Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/17/its-the-s",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/17Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)\n\n## Today's links\n\n- [The (real) dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#trillionairitis): Vibes and memestocks, all the way down.\n\n- [Hey look at this](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#retro): Jim Baen has had a stroke; Blame Apple for iTunes DRM; France v the internet; \"Rotters\"; 1901 undersea cables; Washington Post wants Trump coverage blackout; Taxes are for the little people; Gamer lifecycle; Ghanian postal song; \"What Lies Beneath the Clock Tower\": Murder of Jo Cox; 12 year old doxed by anti-vaxers; Hong Kong bookseller recants forced confession.\n\n- [Upcoming appearances](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#upcoming): LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Brighton, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/dead-economy-theory.jpg?w=840&ssl=1)\n\n## The (real) dead economy theory ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#trillionairitis))\n\nHere's a fun fact about Elon Musk: in 2020, his (nominal) net worth was $20b, and today it's $1t (nominally). But *that's* not the fun fact; *this* is: everything he's done since 2020 was a flop.\n\nAs John Quiggin writes, the pre-2020 Musk was the Musk of Tesla, batteries and Starlink. The post-2020 Musk is the Musk of Starship, robotaxis, Cybertrucks and Twitter – a string of commercial flops and assets that literally exploded. I would add that post-2020 Musk created the world's hungriest money-furnace, an automated child-porn production tool called \"XAI\":\n\n[https://crookedtimber.org/2026/06/15/one-big-grift/](https://crookedtimber.org/2026/06/15/one-big-grift/)\n\nQuiggin declares that this is the era in which \"financial markets fail in the task of valuing assets accurately,\" and \"the institutional structures that are supposed to make them work have given up trying.\" Nor did this start with the Spacex IPO. As Quiggin writes, Bitcoin and other cryptos were once shunned by nominally sober financial institutions like Goldman Sachs, but today, not only do all the big banks offer crypto services, people have largely stopped calling it crypto*currency* because no one is even pretending that it's a form of money. It's a tradeable collectible, not even particularly useful for paying for crimes or laundering money.\n\nSpacex is just a continuation of the logic of crypto, in which something is valuable because some people think other people will pay more for it in the future, and *not* because it does useful things:\n\n[https://johnquiggin.com/2018/02/09/bitcoin-kills-the-efficient-market-hypothesis/](https://johnquiggin.com/2018/02/09/bitcoin-kills-the-efficient-market-hypothesis/)\n\nThat's the logic of the whole market today. AI – the world's money-losingest technology – attracts investment at the expense of everything else. When horrified NIH lifers begged the DOGE boys not to shut down long-running medical research projects, Musk's broccoli-haired brownshirts laughed in their faces, saying we don't need cancer research because \"GAI\" is almost here and *it* will cure cancer. You could hardly ask for a better example of investing in vibes over value than shutting down *real* cancer research to free up money for teaching more words to the word-guessing machine because it's about to become God and cure cancer.\n\nToday, Goldman Sachs isn't merely all-in on crypto – it's all-in on the Spacex IPO. As Quiggin writes, the bank has signed off on Musk's claim that \"Musk's ragbag of assets\" will grow *one hundredfold* in the next *40 months*.\n\nQuiggin's short essay has been rolling around in my mind since I read it a couple days ago. Then, yesterday, I spotted this essay by Owen McGrann entitled \"The Dead Economy Theory\":\n\n[https://www.owenmcgrann.com/p/the-dead-economy-theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)\n\nThe perfect name for this phenomenon! Or so I thought. Then I read McGrann's article, and discovered that it's yet another piece asking how the economy will work after AI takes all of our jobs because AI is absolutely going to do that and there's no point in even questioning whether that will happen.\n\nLook, thought experiments about how to deal equitably with labor displacement in the face of automation are all well and good. I'm a science fiction writer, that stuff is my bread and butter.\n\nBut applying \"dead economy theory\" to the blithe acceptance of the claims of AI pitchmen is a terrible waste of a killer coinage. The true risk of AI to your job isn't: \"an AI will do your job.\" It's: \"an AI salesman will exploit your boss's infinite horniness for replacing mouthy workers with pliable machines to sell him a chatbot that *can't* do your job, and then your boss will fire you and replace you with that inept, defective chatbot.\"\n\nBy the same token: the real \"dead economy\" risk isn't that all the productive labor will be done by chatbots owned by a habitual liar and eminently guillotineable billionaire like Sam Altman. The *actual* dead economy risk is that our institutions and markets will continue to move capital from productive activity into memestocks, vibes, and bubbles.\n\nWe *could* do \"AI cancer research\" by producing tools that automate gnarly multivariant analysis problems for cancer researchers. But what we're *actually* doing is defunding cancer research (especially any research into \"systemic\" cancer because studying systemic things is \"woke\") to free up fiscal space so we can build data-centers and make Musk into a trillionaire.\n\nThat's not just a *dead* economy – it's one that'll kill everyone you love and everything that matters.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Onward, Friends [https://www.eff.org/deeplinks/2026/06/farewell-now-friends](https://www.eff.org/deeplinks/2026/06/farewell-now-friends)\n\n- \nThe 40 Most Rage-Inducing Problems in Tech [https://www.theringer.com/2026/05/28/tech/pope-leo-xiv-ai-encyclical-tech-industry-problems](https://www.theringer.com/2026/05/28/tech/pope-leo-xiv-ai-encyclical-tech-industry-problems)\n\n- \nTHE GUILLOTINE EMOJI PROPOSAL [https://www.carrozo.com/guillotine-emoji](https://www.carrozo.com/guillotine-emoji)\n\n- \nCorporations Repurchase $4.8 TRILLION of Stock Since 2017 Trump-GOP Tax Law [https://4taxfairness.substack.com/p/corporations-repurchase-48-trillion](https://4taxfairness.substack.com/p/corporations-repurchase-48-trillion)\n\n- \nUS approval of Paramount/Warner Bros. deal surprised DOJ lawyers, report says  [https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/](https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#retro))\n\n#20yrsago Jim Baen, science fiction publisher, has had a serious stroke [https://nielsenhayden.com/makinglight/archives/007658.html#007658](https://nielsenhayden.com/makinglight/archives/007658.html#007658)\n\n#20yrsago Why Apple is to blame for iTunes DRM [https://web.archive.org/web/20060620004534/http://vitanuova.loyalty.org/NewsBruiser-2.6.1/nb.cgi/view/vitanuova/2006/06/15/1](https://web.archive.org/web/20060620004534/http://vitanuova.loyalty.org/NewsBruiser-2.6.1/nb.cgi/view/vitanuova/2006/06/15/1)\n\n#20yrsago Lifecycle of a gamer [https://www.raphkoster.com/2006/06/16/the-lifecycles-of-a-player/](https://www.raphkoster.com/2006/06/16/the-lifecycles-of-a-player/)\n\n#20yrsago Spammer: I’ll buy MySpace profiles with more than 20k contacts [https://web.archive.org/web/20060619062837/http://skibrooklyn.blogspot.com/2006/06/easy-money-sell-your-friends.html](https://web.archive.org/web/20060619062837/http://skibrooklyn.blogspot.com/2006/06/easy-money-sell-your-friends.html)\n\n#20yrsago Psychology of bad probability estimation: why lottos and terrorists matter [https://web.archive.org/web/20060627174933/https://server1.sxsw.com/2006/coverage/SXSW06.INT.20060311.DanielGilbert.mp3](https://web.archive.org/web/20060627174933/https://server1.sxsw.com/2006/coverage/SXSW06.INT.20060311.DanielGilbert.mp3)\n\n#15yrsago Copyright complaint kills Peanutweeter [https://web.archive.org/web/20110620093750/https://www.wired.com/underwire/2011/06/peanutweeter-dmca-takedown/](https://web.archive.org/web/20110620093750/https://www.wired.com/underwire/2011/06/peanutweeter-dmca-takedown/)\n\n#15yrsago Work song of Ghanian postal workers cancelling stamps [https://blogfiles.wfmu.org/KF/0512/Ghana_Post_Office.mp3](https://blogfiles.wfmu.org/KF/0512/Ghana_Post_Office.mp3)\n\n#15yrsago What Lies Beneath the Clock Tower: steampunk choose-your-own-adventure [https://memex.craphound.com/2011/06/17/what-lies-beneath-the-clock-tower-steampunk-choose-your-own-adventure/](https://memex.craphound.com/2011/06/17/what-lies-beneath-the-clock-tower-steampunk-choose-your-own-adventure/)\n\n#15yrsago French proposal: any URL to be arbitrarily blacklisted without due process [https://www.laquadrature.net/en/2011/06/15/the-entire-internet-under-governmental-censorship-in-france/](https://www.laquadrature.net/en/2011/06/15/the-entire-internet-under-governmental-censorship-in-france/)\n\n#15yrsago Rotters: YA horror novel about grave-robbing chills, thrills, delights [https://memex.craphound.com/2011/06/15/rotters-ya-horror-novel-about-grave-robbing-chills-thrills-delights/](https://memex.craphound.com/2011/06/15/rotters-ya-horror-novel-about-grave-robbing-chills-thrills-delights/)\n\n#15yrsago Map of undersea cables from 1901 [https://web.archive.org/web/20110220121138/http://www.dephx.com/2010/11/map-of-undersea-cables-from-1901.html](https://web.archive.org/web/20110220121138/http://www.dephx.com/2010/11/map-of-undersea-cables-from-1901.html)\n\n#15yrsago Copyright complaint kills Peanutweeter [https://web.archive.org/web/20110620093750/https://www.wired.com/underwire/2011/06/peanutweeter-dmca-takedown/](https://web.archive.org/web/20110620093750/https://www.wired.com/underwire/2011/06/peanutweeter-dmca-takedown/)\n\n#15yrsago Work song of Ghanian postal workers cancelling stamps [https://blogfiles.wfmu.org/KF/0512/Ghana_Post_Office.mp3](https://blogfiles.wfmu.org/KF/0512/Ghana_Post_Office.mp3)\n\n#15yrsago What Lies Beneath the Clock Tower: steampunk choose-your-own-adventure [https://memex.craphound.com/2011/06/17/what-lies-beneath-the-clock-tower-steampunk-choose-your-own-adventure/](https://memex.craphound.com/2011/06/17/what-lies-beneath-the-clock-tower-steampunk-choose-your-own-adventure/)\n\n#10yrsago Supreme Court ruling is a blow to copyright trolling business-model [https://arstechnica.com/tech-policy/2016/06/attorneys-in-copyright-case-on-resold-textbooks-inch-closer-to-2m-payday/](https://arstechnica.com/tech-policy/2016/06/attorneys-in-copyright-case-on-resold-textbooks-inch-closer-to-2m-payday/)\n\n#10yrsago The Orlando shooting, according to the Congressmen who took the most money from the NRA [https://web.archive.org/web/20160617143716/https://theslot.jezebel.com/heres-how-the-congressmen-who-have-gotten-the-most-cash-1782083985](https://web.archive.org/web/20160617143716/https://theslot.jezebel.com/heres-how-the-congressmen-who-have-gotten-the-most-cash-1782083985)\n\n#10yrsago British Pro-EU MP murdered in the street by man shouting “Britain first!” [https://web.archive.org/web/20160616212235/https://theintercept.com/2016/06/16/british-referendum-campaign-suspended-killing-pro-europe-lawmaker-jo-cox/](https://web.archive.org/web/20160616212235/https://theintercept.com/2016/06/16/british-referendum-campaign-suspended-killing-pro-europe-lawmaker-jo-cox/)\n\n#10yrsago 12 year old makes devastating video about anti-vaxxers, gets doxxed [https://skepchick.org/2016/06/anti-vaxxers-dox-a-child-critic/](https://skepchick.org/2016/06/anti-vaxxers-dox-a-child-critic/)\n\n#10yrsago Report from the prison-industrial complex’s leading trade show [https://www.theguardian.com/us-news/2016/jun/16/us-prisons-jail-private-healthcare-companies-profit](https://www.theguardian.com/us-news/2016/jun/16/us-prisons-jail-private-healthcare-companies-profit)\n\n#10yrsago Your cable operator is spying on you and selling the data from your set-top box [https://publicknowledge.org/public-knowledge-defends-consumer-privacy-in-set-top-box-data-complaint-to-fcc-ftc/](https://publicknowledge.org/public-knowledge-defends-consumer-privacy-in-set-top-box-data-complaint-to-fcc-ftc/)\n\n#10yrsago Not robots: youth unemployment caused by late retirement, driven by pension precarity [https://thebaffler.com/salvos/exit-planning-geoghegan](https://thebaffler.com/salvos/exit-planning-geoghegan)\n\n#10yrsago Oakland mayor denies firing police chief over officers who statutorily raped teen sex-worker [https://eastbayexpress.com/badge-of-dishonor-top-oakland-police-department-officials-looked-away-as-east-bay-cops-sexually-exploited-and-trafficked-a-teenager-2-1/](https://eastbayexpress.com/badge-of-dishonor-top-oakland-police-department-officials-looked-away-as-east-bay-cops-sexually-exploited-and-trafficked-a-teenager-2-1/)\n\n#10yrsago Paramount tells judge that they’re still suing over Star Trek fan-film [https://www.hollywoodreporter.com/business/business-news/paramount-says-star-trek-fan-903497/](https://www.hollywoodreporter.com/business/business-news/paramount-says-star-trek-fan-903497/)\n\n#10yrsago $40,000/year private school sues school for low-income kids for $2M over “Commonwealth” [https://www.bostonglobe.com/metro/2016/06/16/can-school-lay-claim-commonwealth-its-name-back-bay-institution-believes-can/WHwiaaPEn04cIY6uxXjoiO/story.html](https://www.bostonglobe.com/metro/2016/06/16/can-school-lay-claim-commonwealth-its-name-back-bay-institution-believes-can/WHwiaaPEn04cIY6uxXjoiO/story.html)\n\n#10yrsago Wisconsin Congresswoman: mandatory drug tests for anyone claiming $150K in itemized tax-deductions [https://www.theguardian.com/us-news/2016/jun/16/gwen-moore-drug-test-rich-for-tax-deductions](https://www.theguardian.com/us-news/2016/jun/16/gwen-moore-drug-test-rich-for-tax-deductions)\n\n#10yrsago Hong Kong bookseller: I was forced to confess on China TV [https://www.bbc.com/news/av/world-asia-china-36552672#5yrsago](https://www.bbc.com/news/av/world-asia-china-36552672#5yrsago)\n\n#10yrsago Washington Post calls for “blackout” on Trump coverage, appeals to RNC [https://web.archive.org/web/20160615113350/https://www.washingtonpost.com/opinions/the-right-response-to-donald-trump-a-media-blackout/2016/06/14/2868a0e0-3256-11e6-8758-d58e76e11b12_story.html](https://web.archive.org/web/20160615113350/https://www.washingtonpost.com/opinions/the-right-response-to-donald-trump-a-media-blackout/2016/06/14/2868a0e0-3256-11e6-8758-d58e76e11b12_story.html)\n\n#10yrsago Security economics: black market price of hacked servers drops to $6 [https://www.wired.com/2016/06/xdedic-server-trading-forum-kaspersky/](https://www.wired.com/2016/06/xdedic-server-trading-forum-kaspersky/)\n\n#10yrsago Lower-case “x” as a gender-neutral typographic convention [https://kottke.org/16/06/x-marks-gender-neutral](https://kottke.org/16/06/x-marks-gender-neutral)\n\n#5yrsago Taxes are for the little people [https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest](https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: The future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order), Jun 19\n\n[https://www.youtube.com/live/wJvBvYdaAMY](https://www.youtube.com/live/wJvBvYdaAMY)\n\n- \nLA: The Reverse Centaur's Guide to Life After AI with Brian Merchant (Skylight Books), Jun 19\n\n[https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant](https://www.skylightbooks.com/event/skylight-cory-doctorow-presents-reverse-centaurs-guide-life-after-ai-w-brian-merchant)\n\n- \nMenlo Park: The Reverse Centaur's Guide to Life After AI with Angie Coiro (Kepler's), Jun 21\n\n[https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026](https://www.keplers.org/upcoming-events-internal/cory-doctorow-2026)\n\n- \nToronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23\n\n[https://iabcanada.com/state-of-the-nation-2026](https://iabcanada.com/state-of-the-nation-2026)\n\n- \nToronto: The Reverse Centaur's Guide to Life After AI (Osler Records/Type Books), Jun 23\n\n[https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998](https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nPhiladelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25\n\n[https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559](https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559)\n\n- \nChicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26\n\n[https://exileinbookville.com/events/50628](https://exileinbookville.com/events/50628)\n\n- \nLondon: Idler Festival, Jul 11\n\n[https://www.idler.co.uk/festival/](https://www.idler.co.uk/festival/)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#recent))\n\n- The Enshittification of Life, the Universe, & Everything (Luke Savage)\n\n[https://www.lukewsavage.com/p/the-enshittification-of-life-the](https://www.lukewsavage.com/p/the-enshittification-of-life-the)\n\n- \nCory Doctorow's digital jail-break (DW In Focus)\n\n[https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035](https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035)\n\n- \nWhy the Internet Got Worse and What to Do About It (Jim Rutt) (RIP)\n\n[https://www.jimruttshow.com/cory-doctorow-3/](https://www.jimruttshow.com/cory-doctorow-3/)\n\n- \nOn Enshittification – and what can be done about it (Re:publica)\n\n[https://www.youtube.com/watch?v=KhINQgPMVSI](https://www.youtube.com/watch?v=KhINQgPMVSI)\n\n- \nEFFecting Change: How to Disenshittify the Internet (EFF, with Wendy Liu)\n\n[https://archive.org/details/effecting-change-enshittification](https://archive.org/details/effecting-change-enshittification)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Third draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Product"
+        ],
+        "published_at": "Wed, 17 Jun 2026 18:27:18 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’ - Posted Jun 15, 2026 at 7:09 PM UTC Today’s Vergecast: # The **epic** story of Markdown. [M...",
+    "Quoting Charity Majors - 17th June 2026 > What happened in 2025 was this: **the economics of code production were t...",
+    "<click-to-play> — a still that plays - 17th June 2026 [Tool](https://simonwillison.net/elsewhere/tool/) [<click-to-play> — a stil...",
+    "NetNewsWire Status - 17th June 2026 - Link Blog **[NetNewsWire Status](https://inessential.com/2026/06/15/netne...",
+    "Yours Truly on MacBreak Weekly: Is the New Siri AI Good? - #### Primary Navigation - [Podcasts](https://twit.tv/shows?shows_active=1) - [Club](https:..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 11
+    },
+    {
+      "word": "june",
+      "count": 6
+    },
+    {
+      "word": "agent",
+      "count": 4
+    },
+    {
+      "word": "agents",
+      "count": 4
+    },
+    {
+      "word": "markdown",
+      "count": 4
+    },
+    {
+      "word": "net",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "claude",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "microsoft",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "sdk",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "hard",
+      "count": 3
+    },
+    {
+      "word": "jun",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "netnewswire",
+      "count": 3
+    },
+    {
+      "word": "status",
+      "count": 3
+    },
+    {
+      "word": "twit",
+      "count": 3
+    },
+    {
+      "word": "tv",
+      "count": 3
+    },
+    {
+      "word": "lean",
+      "count": 2
+    },
+    {
+      "word": "ve",
+      "count": 2
+    },
+    {
+      "word": "generate",
+      "count": 2
+    },
+    {
+      "word": "couple",
+      "count": 2
+    },
+    {
+      "word": "month",
+      "count": 2
+    },
+    {
+      "word": "flue",
+      "count": 2
+    },
+    {
+      "word": "framework",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "faster",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "stack",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "truly",
+      "count": 2
+    },
+    {
+      "word": "vergecast",
+      "count": 2
+    },
+    {
+      "word": "epic",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    },
+    {
+      "word": "click-to-play",
+      "count": 2
+    },
+    {
+      "word": "plays",
+      "count": 2
+    },
+    {
+      "word": "tool",
+      "count": 2
+    },
+    {
+      "word": "simonwillison",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "shows",
+      "count": 2
+    },
+    {
+      "word": "casino",
+      "count": 2
+    },
+    {
+      "word": "version",
+      "count": 2
+    },
+    {
+      "word": "watch",
+      "count": 2
+    },
+    {
+      "word": "logic",
+      "count": 2
+    },
+    {
+      "word": "programmers",
+      "count": 2
+    },
+    {
+      "word": "there's",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
