@@ -1,0 +1,642 @@
+{
+  "date": "2026-06-22",
+  "stats": {
+    "total_fetched": 275,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Lobachevsky’s integral formula",
+        "summary": "Let f be an even function with period π. Then the following remarkable theorem by Lobachevsky holds. This theorem is useful in Fourier analysis and signal processing. It’s useful to know even in the special case f(x) = 1...",
+        "url": "https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Mon, 22 Jun 2026 20:02:47 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "In memory of the man who put red and green squiggles under words",
+        "summary": "Starting in Word and expanding to nearly every other word processor, and even things that aren't word processors. The post In memory of the man who put red and green squiggles under words appeared first on The Old New Th...",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Mon, 22 Jun 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Queens on a prime order board",
+        "summary": "The n queens problem is to place on an n × n chessboard n queens so that none attacks any other. This means there is only one queen on every horizontal, vertical, and diagonal line. When n is a prime number ≥ 5, it is su...",
+        "url": "https://www.johndcook.com/blog/2026/06/21/queens-prime/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Mon, 22 Jun 2026 00:21:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "AMD Athlon: AMD’s game changing CPU from 1999",
+        "summary": "On June 23, 1999, AMD announced its much anticipated Athlon CPU, the successor to its very successful K6. It launched less than two months later, on August 9, 1999. The Athlon proved to be the CPU that separated AMD from...",
+        "url": "https://dfarq.homeip.net/amd-athlon-amds-game-changing-cpu-from-1999/?utm_source=rss&utm_medium=rss&utm_campaign=amd-athlon-amds-game-changing-cpu-from-1999",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Mon, 22 Jun 2026 11:00:54 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Expert-aware quantisation: near-Q4 quality at near-Q2 size?",
+        "summary": "Profiling a MoE model to find which experts matter for a specific task, then quantising the cold ones hard. The result: near-Q4 quality at near-Q2 size for local models.",
+        "url": "https://martinalderson.com/posts/expert-aware-quantisation/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 22 Jun 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we found a bug in the hyper HTTP library",
+        "summary": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
+        "url": "https://blog.cloudflare.com/hyper-bug/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Mon, 22 Jun 2026 18:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-06-22T23:11:01.845Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Consistency, But in Excellence Not Appearance",
+        "summary": "Consistency serves a purpose in visual design, but it seems to have become *the* purpose of a lot of visual design.\n\nLook no further than these evolutions of macOS icons ([image courtesy of BasicApple",
+        "content": "Consistency serves a purpose in visual design, but it seems to have become *the* purpose of a lot of visual design.\n\nLook no further than these evolutions of macOS icons ([image courtesy of BasicAppleGuy](https://mastodon.social/@BasicAppleGuy/115888906340881425)):\n\n![Comparison of Apple app icon designs across three eras, arranged in a grid. The “Original” (skeuomorphic) column shows detailed 3D-style icons for apps like Final Cut Pro, Logic Pro, Pages, Motion, Compressor, MainStage, Keynote, Numbers, etc. The “Current” column shows the modern flat/gradient icon style for these apps. And the 'Creator Studio' column shows a unified, dark-background icon set with simplified glyphs in purple, blue, red, green, orange, etc., all for the same set of apps.](https://cdn.jim-nielsen.com/blog/2026/app-icon-consistency.png)\n\nThe Creator Studio icons are undeniably consistent visually: rounded rectangles, controlled gradients, simplified forms, restrained depth, etc.\n\nIn contrast (and by modern standards) the originals seem heretically inconsistent. They lack coherence in visual details like shape, material, and lighting.\n\nBut what they lack in visual consistency between one another, they make up for in excellence individually. \n\nIn fact, their aversion to familial visual consistency almost seems like an intentional choice — a deliberate augmentation of individual purpose.\n\nWhat purpose? To be singularly representative and deeply iconic. \n\nIcons that are *iconic*.\n\nTo be iconic, by definition, is to be famously distinctive.\n\nNone of the Creator Studio icons, especially when held up as a suite, are iconic. None are atypical, they’re merely typical. \n\nAll in pursuit of what, consistency — amongst each other and across platforms — as the overriding goal?\n\nThis over-emphasis on “systems” design seems endemic to modern software.\n\nSystems prescribe rules because they are the easiest attributes to document, enforce, and automate — “All icons must use this shape, this lighting, this stroke.”\n\nExcellence, by contrast, is harder to systematize. It requires judgment, taste, care, experience, and a sensitivity to context — all in service of meaning and purpose, not superficial similarity.\n\nWhen you strive for consistency across a suite, individual elements lose their ability to be exceptional and iconic on their own terms. Consistency for the group becomes a ceiling on individual excellence.\n\nBut if you flip that, if you make excellence the goal for each individual element, something interesting can happen: excellence becomes your motif of consistency. It’s no longer a consistency of shapes and gradients, but one of quality and intention that serves a deeper meaning and purpose than superficial visuals.\n\nGive me a consistency of excellence any day over a consistency of appearance.",
+        "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 22 Jun 2026 19:00:00 GMT",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Happy Father's Day. ",
+        "summary": "I am a father of twin boys. There is a question I often think about. It often appears as a midlife crisis where I am not sure when I became a man responsible for a family. \n\nIt looked so easy for my f",
+        "content": "I am a father of twin boys. There is a question I often think about. It often appears as a midlife crisis where I am not sure when I became a man responsible for a family. \n\nIt looked so easy for my father. It was as if he was born into it. He was a leader, a strong man, one that an entire community could rely on. When does that kick in for me? When do I become this leader? Or have I already become?\n\nThat's what I was thinking when I wrote this short story about my father 10 years ago. I couldn't find a way to describe him, without mentioning clocks. It was fitting since he loved them so much. \n\nI hope you enjoy this [\"Ode to my Father\"](https://idiallo.com/books/oclock). Happy Father's day to you all. \n\n**PS:** please excuse the AI generated images, I'm still trying to find the best way to present it. The text was entirely written by me in 2016-2017.",
+        "url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Mon, 22 Jun 2026 02:43:33 GMT",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Dickover of the Week: The Observer",
+        "summary": "[\n      \n## \n        Bharat Iyer\n      \n\n    ](https://bvsveera.net/)\n    \n      [Home](https://bvsveera.net/) [Blog](https://bvsveera.net/blog/) [Bytes](https://bvsveera.net/bytes/)\n\n    \n  \n  \n    \n",
+        "content": "[\n      \n## \n        Bharat Iyer\n      \n\n    ](https://bvsveera.net/)\n    \n      [Home](https://bvsveera.net/) [Blog](https://bvsveera.net/blog/) [Bytes](https://bvsveera.net/bytes/)\n\n    \n  \n  \n    \n\n    \n\n    \n        \n\n        \n            *\n                \n    21 Jun, 2026\n\n            *\n        \n\n    \n\n    Earlier today, I opened one of the top links on r/worldnews. Something about Kier Starmer preparing to resign as Prime Minister of the United Kingdom? It’s beside the point for this post. Before I could even read the article, I was [presented with this dickover](https://bvsveera.net/dickover/):\n\n![dickover-observer](https://bear-images.sfo2.cdn.digitaloceanspaces.com/bvsveera/dickover-observer.webp)\n\nLet’s be real … if [The Observer](https://observer.co.uk/) actually cared at all about your privacy, they wouldn’t share your personal data with **ONE HUNDRED AND SIXTY ONE FUCKING PARTNERS**. I mean, what the actual fuck?! At that point, the page load is likely more spyware code than it is article content. How much fucking data does The Observer[1](#fn-1) need to collect about each and every one of their readers? In what universe is it acceptable to grant permission for their 161 partners to access my *precise* location, identifiable device characteristics, and device storage?\n\nFuck it — why stop at 161? Clearly, Google Tag Manager, Facebook’s tracking pixel, and whatever the fuck else they already have on their website isn’t enough. I’m sure all 161 of those integrations are necessary to run a digital billboard news publication in 2026. I’ve said it before, and I’ll say it again: adding JavaScript to the modern web was a mistake. I do not understand how everyone is seemingly fine with the amount of surveillance we’re subjected to across the Internet on a daily basis.\n\nImagine if, upon purchasing [a copy of the Sunday newspaper in 1791](https://en.wikipedia.org/wiki/The_Observer), you were followed around town by 161 men, taking note of everything you do throughout the day. Makes you wonder who’s really doing the observing.\n\n- Yeah, I’m gonna name and shame them. Fuck ‘em, along with anyone else that thinks this behaviour is acceptable. I’d actually have a sliver of respect for them if they were honest in their dickover copy. Something like, *“We actually don’t give a fuck about your privacy, but we’re gonna pretend that you can choose to preserve it”*. The cookie banner on [vibe-coded.lol](https://vibe-coded.lol/) is more honest than this shit.[↩](#fnref-1)",
+        "url": "https://bvsveera.net/observer-dickover/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-06-22T17:12:42.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Everything you say CAN and WILL be used against you ",
+        "summary": "- \"If you talk to me, I'll punch you in the face, are you ok with talking with me?\"\n\n- \"Nods in agreement.\"\n\n- \"Proceeds to punch the man in the face.\"\n\n        That's how I feel whenever I hear the M",
+        "content": "- \"If you talk to me, I'll punch you in the face, are you ok with talking with me?\"\n\n- \"Nods in agreement.\"\n\n- \"Proceeds to punch the man in the face.\"\n\n        That's how I feel whenever I hear the Miranda rights being read. It was designed specifically to scare anyone being read to, into silence. Don't incriminate yourself. If you are like me, guilty of watching those police bodycams videos on youtube, then you know that people proceed to talk right after they are read their rights, as if they heard absolutely nothing.\n\nThose rights exist solely to protect you from the very authority addressing you. They have authority over you, so you need protection to balance the playing field. The perfect way to balance it, is by affording people the right to remain silent and not to be coerced into incriminating yourself.\n\nWe can all agree that the Miranda rights are a fundamental power we have and should exercise. The State reads you Miranda rights to limit its own power over you.\n\nSo let me rephrase Miranda rights in a way that you will find relevant in this tech focused blog:\n\n> “You have the right to remain silent. Everything you say, do, or generate on this device can and will be used against you… Would you like to create an account?”\n\nYet, we agree to these terms constantly. It’s second nature. We sign up to test a new AI or a new service, telling ourselves, \"If I don’t like it, I’ll just cancel.\" We ignore the reality that while it takes one click to sign up, it often requires a fax machine or a physical letter to cancel.\n\nThis week, following the \"Fable\" kerfuffle, Anthropic announced they now support customer identification. You can upload your government-issued ID or passport to verify your identity.\n\n> We are rolling out identity verification for a few use cases, and you might see a verification prompt when accessing certain capabilities, as part of our routine platform integrity checks, or other safety and compliance measures. \n\nThis will eventually be used to determine who is considered an \"approved\" user. In other words, when you type \"Fix this code\" into Claude, it will check your verified status before executing, all in the name of compliance. By uploading those documents, you are surrendering control. You are giving up your rights, your identity, just to access a service. If things go wrong, there is no \"Miranda warning\" for the consumer. Every action on your account is now permanently tethered to your identity.\n\nIn the digital world, the corporation reads you the Terms of Service to expand its own power over you. When you agree to Claude's terms, OpenAi’s or any corporation, you are waiving your right to remain silent. And then you are providing them with a searchable database with the most intimate information about yourself, that can and will be used against you.\n\n![Nothing to hide ID](https://cdn.idiallo.com/images/assets/670/id.jpg)\n\nFor example, imagine you upload your Driver’s License to Claude to unlock advanced coding features. Three months later, you ask Claude to review a snippet of open-source code that accidentally contains proprietary company secrets (you didn't realize it). Under Miranda, you could have said, \"I refuse to discuss this code.\" Online, you already discussed it. Your verified identity is now permanently attached to that leak, making you the prime suspect for corporate espionage, even if it was an accident. \n\nOr you make a joke. You ask Claude: \"Fix this bug before I throw my laptop out the window, and delete the entire production database.\" Because you verified your ID, this log is permanently stored. Six months later, your company undergoes a security audit. The audit team subpoenas your AI logs. They see a verified user (you) threatening to delete a database. You now face a disciplinary board for \"security threats,\" and the AI log is treated as a written confession, because you gave up your right to contextual defense when you agreed to permanent, verbatim logging.\n\nEven worse, when all your data is logged and attached to your identity, it can later be cross referenced against laws that don’t exist yet. You are an aspiring writer but you just weren’t gifted with words. So you use Fable to write a short story. You verified your ID of course then you prompted a story about a rogue AI overthrowing the government. \n\nA few years later, an Anti-Terrorism AI Monitoring directive was passed under the leadership of  new secretary of war Alex Karp. Your sci-fi hobby is retroactively flagged, and you are put on a watchlist.\n\nWhen you are read Miranda rights, the officer is saying: \"You have a right to a lawyer, and if you cannot afford one, one will be provided.\" The State bears the burden of providing you protection.\n\nIn the digital ToS, the corporation is saying: \"We have a right to audit you, and if you cannot afford to fight us in court, too bad.\"\n\nYou are giving up the presumption of innocence. In a physical court, your silence cannot be used against you. In a digital audit, your silence doesn't exist. Every click is a spoken word. By uploading your ID, you are giving the corporation a signed affidavit that you are the one pressing the buttons. If a hacker steals your account, you still bear the burden of proof to clear your name, because the logs show your verified ID.\n\nToS exists only to protect a corporation. Remember, Disney tried to use their Disney+ ToS to dodge a wrongful deaf case from food poisoning in one of their restaurants. \n\nThe user is giving up the right to be forgotten, the right to be misinterpreted favorably, and the right to change their mind. They are trading their 5th Amendment-equivalent (protection from self-incrimination) for a free API call. The only way to win is to treat every prompt as if you are testifying under oath in a courtroom, because legally, thanks to that uploaded passport, you are.",
+        "url": "https://idiallo.com/blog/the-right-to-remain-silent",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Security"
+        ],
+        "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What Was Matt Thinking?",
+        "summary": "**Currently, I’m in the midst of writing** a big post about the roots of web forums, but I hit on an aside weird enough that I decided to stop writing that and work on a separate post. Because I think",
+        "content": "**Currently, I’m in the midst of writing** a big post about the roots of web forums, but I hit on an aside weird enough that I decided to stop writing that and work on a separate post. Because I think it actually explains a lot about the way people use the internet.\n\nEssentially, here’s the deal. Around 1995 or so, a high schooler named [Matt Wright](https://www.mattwright.com/) decided to launch a website that shared some basic website tools that he programmed. Many of these were dead-simple, things like contact forms, guestbooks, and web counters. One in particular, WWWboard, became a massive hit, becoming one of the first widely used web forum apps on the internet.\n\n![screenshot_2026-06-22_12-36-13.png](https://proxy.tedium.co/utfdy7lVsJ-AsJiHdWkSN0T39Iw=/943x801/filters:quality(80)/uploads/screenshot_2026-06-22_12-36-13.png)The copyright notice for WWWboard, Wright’s widely used forum-hosting software.The site Wright built, [Matt’s Script Archive](https://www.scriptarchive.com/), unwittingly helped to highlight the divergence between how normal people think about software, and the developer’s perspective.\n\nWright, and others like him, hit upon an obvious need. Regular people found these scripts, ran them, and suddenly had forums, counters, and contact forms. They got the job done. But programmers who weren’t in high school and weren’t so wet behind the ears looked aghast at what Wright had done: He had spread poorly designed, but widely used software across the internet. This software was packed with security issues, but worst of all, it wasn’t really getting updated all that much.\n\nHow serious are the security issues? Well, [a look at OpenCVE](https://app.opencve.io/cve/?vendor=matt_wright&page=1) points out some very serious problems that range from bugs that emerged from massive exposure to some questionable design decisions. (Keeping an encrypted password file in the root? Making it possible to grab env variables via a URL? Not smart!)\n\nOne exploit in particular, affecting Wright’s textcounter tool, stands out among the list: [CVE-1999-1479](https://app.opencve.io/cve/CVE-1999-1479), with a score of 10.0 critical, effectively allows exploiters to execute code on the server as root.\n\n![nms-scripts.png](https://proxy.tedium.co/Asv1zctY5i-e8VmeMInst8txlSw=/1000x846/filters:quality(80)/uploads/nms-scripts.png)You mean Matt has a script archive? Let’s have the Perl pros take a turn.This state of affairs got serious enough that a competing website, called [nms](https://nms-cgi.sourceforge.net/index.html), essentially was launched to replace Matt’s buggy scripts with drop-in versions aren’t full of security exploits from bad coding. Their POV:\n\n> The problem is that the scripts in Matt’s Script Archive aren’t very good. The scripts are well known amongst the Perl community to be badly written, buggy, and insecure. Anyone asking for support on Matt’s scripts in any forum will be told in no uncertain terms that they shouldn’t use his scripts.\n\nUnfortunately for some time there were no replacements for Matt’s scripts that you would want people to use. In 2001, the London Perl Mongers decided to address this problem and write a series of drop-in replacements for Matt’s scripts. This project is the result.\n\n(I will note that, since nms itself hasn’t been updated in like 20 years, so maybe you might also want to hold off on using that in 2026.)\n\n![broken-laptop.jpg](https://proxy.tedium.co/RGl260ZBmcenqQuB2Ey4RucDmJ0=/1000x830/filters:quality(80)/uploads/broken-laptop.jpg)TFW your old computer is at risk of getting hacked by a guestbook. ([DepositPhotos.com](https://depositphotos.com/))\n### Matt’s scripts, the easy option, and the problem with overexposure\n\nWhen so many people use something that it becomes part of the internet’s lingua franca, it’s inevitable exploits are going to emerge. There’s a reason WordPress and Windows each have reputations as bug-ridden, and it’s largely because of the number of eyes on the given tools.\n\nWith that in mind, I don’t think it’s fair to blame Wright for having bad code—after all, it wasn’t like he knew it was going to become a huge platform. I think there is a lesson for security teams, however, who are going to be stuck trying to work around people who grab the lowest hanging fruit.\n\nThe average person does not want to spend hours looking over every option under the sun to find something good. They just want it to work, and they may not necessarily think much about how to make it better.\n\nThat, of course, is why vibe coding is such a big thing nowadays. It hits on the very same tension that an easy-to-access script archive did. And just as with these scripts, you can look at vibe-coded apps as insecure dreck created by someone who didn’t know better, or you can look at them as a democratizing tool.\n\nProblem is, they’re technically both. Can you appreciate one while appreciating the other? I have the answer, and it’s yes.\n\n![matt-script.png](https://proxy.tedium.co/xsNzZiWg0A-hWi3TqT8Oj5iTHtg=/688x898/filters:quality(80)/uploads/matt-script.png)Matt’s Web Scripts, as it appeared on worldwidemart.com in 1997. One example of many of a random website becoming popular, no real rhyme or reason to it. But hey, Matt had some pretty good scripts! ([Internet Archive](https://web.archive.org/web/19970130232033/https://www.worldwidemart.com/scripts/))\n### Matt’s scripts, remembered\n\nRecently, I spotted an incredible project at the domain that once hosted Matt’s Script Archive. As of a year ago, worldwidemart.com was hosting spam gambling content of the kind that might give your computer a virus.\n\nBut that owner let the domain expire late last year. This turned out to be the best thing. Someone who really cared about the legacy of Matt’s Script Archive decided to buy the domain, build a new site explaining the legacy of what once existed there, and why those scripts, as broken as they are, matter.\n\n![screenshot_2026-06-22_14-20-57.png](https://proxy.tedium.co/nWC3fNNCodFRDoeApBXiu-5_-00=/1340x1464/filters:quality(80)/uploads/screenshot_2026-06-22_14-20-57.png)For something vibe coded, it’s surprising how hard it goes.[The new site](https://www.worldwidemart.com/) has the definite smell of vibe coding, but you know what? It’s also doing something incredibly important for the history of the internet. As you know, I’m the kind of guy that complains loudly when someone [takes over a historically important website](https://tedium.co/2020/12/15/altavista-history-digital-dot-com-domain-name/) for less-than-stellar reasons. But I have looked through this page and I do not see any reason to complain—no under-the-radar sketchy “yeah, we did this to sell you something” drama. The page where I thought I would see that, a link located at [/hosting/](https://www.worldwidemart.com/hosting/), is instead an explanation of how web hosting has changed in the past 30+ years.\n\nPut another way, this website rules. If we’re going to revive domains into zombie websites, I’d rather it was a vibe-coded thing that explains why this was once historically relevant than something that a spammer doesn’t even want.\n\nWhat was Matt thinking? He just wanted to be helpful. And that he was.\n\n##### Script-Free Links\n\n**If you love old stuff like this,** I recommend checking out the dead-website archive [rip.so](https://rip.so/), which hits this very dopamine zone.\n\n**On a related note,** this [Verge story](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps) about the security risks of vibe coding feels especially relevant given today’s piece.\n\n**I find the fact that LinkedIn** has like a dozen games that it expects you to play every day to be bizarre. We needed a name for it, and “[corporate puzzleslop](https://www.youtube.com/watch?v=_qDne3nQyNU),” what Juniper Dev landed on, is basically perfect. (Great channel, too, she knows her stuff.)\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/06/22/matts-script-archive-retrospective/)! (Did Matt run your guestbook in 1997?)\n\nAnd be sure to check out the latest stuff on the [Tedium Shopping Network](https://shopping.tedium.co/).",
+        "url": "https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Database"
+        ],
+        "published_at": "2026-06-22T18:41:28.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Good politics (22 Jun 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/22Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/22/8-for-wha",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/22Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/22/8-for-what-we-will/)\n\n## Today's links\n\n- [Good politics](https://pluralistic.net/2026/06/22/8-for-what-we-will/#we-should-improve-things-somewhat): Just make people's lives better.\n\n- [Hey look at this](https://pluralistic.net/2026/06/22/8-for-what-we-will/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/06/22/8-for-what-we-will/#retro): WWII online; Xbox security blunders; Homeless bloggers; Thermal printer racing game; Robbing a bank to get healthcare in jail; Crumb v Trump; \"The Blues Brothers\"; Bagelheads; Pickpocket training mannequin; Windmill joke; Singularity skepticism; GPU Dieselgate; Peleton bricks treadmills; Juul's junk science.\n\n- [Upcoming appearances](https://pluralistic.net/2026/06/22/8-for-what-we-will/#upcoming): Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/06/22/8-for-what-we-will/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/06/22/8-for-what-we-will/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/06/22/8-for-what-we-will/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/06/22/8-for-what-we-will/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/good-politics.jpg?w=840&ssl=1)\n\n## Good politics ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#we-should-improve-things-somewhat))\n\nSome people love to admire a beautiful football play; me, I can't get enough of politicians doing good politics – and like those World Cup fans, I am doubly pleased when it's my team making the play.\n\nI *definitely* have a team in Brazilian politics: President Luiz Inácio Lula da Silva and his Workers' Party. Lula's done so many amazing things in his career, and these often intersect with my own special interests. Like, he made *Gilberto Gil* his minister of culture, and his people built the *telecentros*, free software-based internet dojos for the poorest kids in the country, living in favelas:\n\n[https://www.informationweek.com/software-services/brazil-turns-away-from-microsoft](https://www.informationweek.com/software-services/brazil-turns-away-from-microsoft)\n\nLula was royally ratfucked – framed by a corrupt justice minister who secretly conspired with the country's oligarchs – and imprisoned, and the conspirators installed Jair Bolsonaro, a fascist war criminal whose covid bungling led to mass death:\n\n[https://en.wikipedia.org/wiki/Operation_Car_Wash](https://en.wikipedia.org/wiki/Operation_Car_Wash)\n\nWhen Bolsonaro lost his next election – to a triumphant Lula – he attempted a coup, for which he was arrested and handed a long prison sentence, despite Trump and Microsoft trying to intimidate the Brazilian judge into letting him walk:\n\n[https://www.politico.com/news/2025/09/22/bolsonaro-prosecution-us-sanctions-00575122](https://www.politico.com/news/2025/09/22/bolsonaro-prosecution-us-sanctions-00575122)\n\nNow, Lula is fighting to keep Bolsonaro's nepobaby failson, Senator Flávio Bolsonaro, from wrestling back control over the country for his fascist party; and *that's* where the good politics come in.\n\nLula's party has just scored a massive, national political victory by tabling legislation to establish a five-day workweek. While Brazil's professional/managerial class enjoy a two-day weekend, the working poor of the nation are prisoners of the *escala 6×1* system, which sees them working six days per week. It's a hangover from the era of Brazil's fascist dictatorship, which (nominally) ended in 1988, but whose legacy still haunts the Brazilian people.\n\nLula's 40-hour workweek is *incredibly* popular. So popular that Bolsonaro's party whipped its members to vote for it, because they fear that to do otherwise would hand an even bigger majority to Lula, who might go on to give workers a *four-day* work-week:\n\n[https://prospect.org/2026/06/22/lula-sees-boosts-as-he-pushes-to-reduce-brazilian-workweek/](https://prospect.org/2026/06/22/lula-sees-boosts-as-he-pushes-to-reduce-brazilian-workweek/)\n\nIt turns out that *weekends are popular* and promising the electorate access to a weekend is *good politics*. What's more, *denying* weekends to the electorate is *shitty, awful politics*, which is why Bolsonaro's fascists were forced to vote in favor of a policy they hate, even though all credit for that policy will still go to Lula and the Worker' Party. The bill passed *461-19*.\n\nContrast Lula's muscular, deliverism-based politics that seeks to improve the lives of working people in tangible, immediate ways with the catastrophic series of blunders that Keir Starmer's Labour has delivered. Despite having won a majority so large it would have made Saddam Hussein blush (not because Labour was popular, but because the outgoing Conservatives were universally loathed), Starmer has refused to lift a finger to improve Britons' lives. Instead, he's abetted genocide, criminalized protest, proposed ending jury trials, imposed austerity, handed the NHS over to Palantir and all the remaining potable water and electrical capacity in the country over to American most unprofitable AI giants.\n\nStarmer's insistence that we can't have nice things is *bad* politics, because (and it's weird that this has to be said) a government that makes people's lives *worse* is less popular than a government that makes people's lives *better*:\n\n[https://www.whatwelo.st/p/everyone-hates-tech-but-nobody-knows](https://www.whatwelo.st/p/everyone-hates-tech-but-nobody-knows)\n\nNow, the right is incapable of making working people's lives better, because broad improvements to the vast majority necessarily come at the expense of the tiny minority of morbidly wealthy hoarders whom the right serves. In order to get millions of turkeys to vote for Christmas, the right substitutes spectacular acts of cruelty against disfavored minorities to distract their voters from the quiet acts of everyday cruelty they subject those voters to:\n\n[https://pluralistic.net/2026/04/12/always-great/#our-nhs](https://pluralistic.net/2026/04/12/always-great/#our-nhs)\n\nThis isn't good politics. The sadistic torture of your base's enemies will never please them so well nor so durably as making *immediate, significant improvements in their lives* will.\n\nThat's why the corporate Dems who say that the party should campaign against renewables and in favor of fossil fuel companies aren't merely climate criminals, they're also *bad at politics*:\n\n[https://prospect.org/2026/06/22/affordability-climate-envioronment-policy-gas-oil-prices-iran-war-trump/](https://prospect.org/2026/06/22/affordability-climate-envioronment-policy-gas-oil-prices-iran-war-trump/)\n\nCleantech is *fucking great*. Since I put in solar, a heat pump and an induction top, my energy bills have fallen to less than $80 per month, even in Los Angeles, even at the height of summer. My EV – a 7-year old Kia Niro – costs *pennies* to run, because I charge it off my roof. Not only that, it's fast, maneuverable, silent, and *incredibly* reliable. It handles like that Mustang a rental agency once upgraded me to. I mean, I'd rather have a subway, but if I *have* to drive, this is *so much better* than any ICE car I've ever owned.\n\nSure, our solar was a giant pain in the ass to get installed and working, but that's because the same corporate Dems who say climate is a political loser also said the best way to roll out solar nationwide was to set up an elaborate system of financialized tax-credits. That meant that every solar installer I talked to was more interested in swindling me by putting solar on my roof that *they* would own than they were in selling me a system I owned outright. Financializing America's rooftop solar conjured up a vast army of scammers and hustlers who screwed the majority of people they sold solar to, and my installers, Solaredge, were no exception:\n\n[https://www.propublica.org/article/missouri-pace-loans](https://www.propublica.org/article/missouri-pace-loans)\n\nEverything about living in the cleantech future is better. I can boil a gallon of water in under a minute on my stovetop! And it's only gonna get better: not only is cleantech improving every year, but fossil fuel is getting *shittier* every year, thanks to Trump's lunatic war of choice in Iran, the cost of using fossil fuels will only go up from here:\n\n[https://pluralistic.net/2026/04/20/praxis/#acceleration](https://pluralistic.net/2026/04/20/praxis/#acceleration)\n\nLook, as a workaholic whose unhealthy anxiety coping mechanism is to work even harder, *I* might not make the best use of an extra day off:\n\n[https://pluralistic.net/2026/04/14/compartment/#flow](https://pluralistic.net/2026/04/14/compartment/#flow)\n\nBut as Pete Seeger sang in 1941, your time is all you have, and every hour you give to your boss is an hour you can never get back:\n\n> \n> You'll get shorter hours\n\n> Better working conditions\n\n> Vacations with pay\n\n> Take your kids to the seashore\n> \n\n[https://genius.com/Pete-seeger-talking-union-lyrics](https://genius.com/Pete-seeger-talking-union-lyrics)\n\nIt's something Lula understands, which is why he's winning. Good politics are a delight to watch, especially when it's your team doing them. But man, it can be pretty demoralizing to watch your team fumble play after play after play.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Arindrajit Dube on Wages [https://paulkrugman.substack.com/p/arindrajit-dube-on-wages](https://paulkrugman.substack.com/p/arindrajit-dube-on-wages)\n\n- \nWE WON OUR UNION! [https://unitedfaculty-uaw.org/](https://unitedfaculty-uaw.org/)\n\n- \nUnderstanding the Luddites in the age of AI [https://www.bloodinthemachine.com/p/understanding-the-luddites-in-the](https://www.bloodinthemachine.com/p/understanding-the-luddites-in-the)\n\n- \nPromises Made, Promises Kept: The Lincoln Memorial Reflecting Pool Absolutely Looks Like Shit Now [https://defector.com/promises-made-promises-kept-the-lincoln-memorial-reflecting-pool-absolutely-looks-like-shit-now](https://defector.com/promises-made-promises-kept-the-lincoln-memorial-reflecting-pool-absolutely-looks-like-shit-now)\n\n- \nWhy Is It So Bad to Let A.I. Do My Thinking for Me? [https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html?unlocked_article_code=1.rlA.BN8p.23Ho_LuzI-Tr&amp;smid=url-share](https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html?unlocked_article_code=1.rlA.BN8p.23Ho_LuzI-Tr&amp;smid=url-share)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#retro))\n\n#25yrsago WWII Online [https://web.archive.org/web/20010625120559/https://www.gamespot.com/gamespot/stories/reviews/0,10867,2778704,00.html](https://web.archive.org/web/20010625120559/https://www.gamespot.com/gamespot/stories/reviews/0,10867,2778704,00.html)\n\n#20yrsago Microsoft’s myriad Xbox security mistakes [https://web.archive.org/web/20060703000421/http://www.xbox-linux.org/wiki/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System](https://web.archive.org/web/20060703000421/http://www.xbox-linux.org/wiki/17_Mistakes_Microsoft_Made_in_the_Xbox_Security_System)\n\n#20yrsago Kentucky government censors political watchdog site [https://web.archive.org/web/20060628055926/http://www.bluegrassreport.org/bluegrass_politics/2006/06/bluegrassreport.html](https://web.archive.org/web/20060628055926/http://www.bluegrassreport.org/bluegrass_politics/2006/06/bluegrassreport.html)\n\n#20yrsago Life among the homeless bloggers [https://web.archive.org/web/20060702205047/https://www.wired.com/news/technology/1,71153-0.html](https://web.archive.org/web/20060702205047/https://www.wired.com/news/technology/1,71153-0.html)\n\n#20yrsago Disney, 1939: No woman animators allowed [https://animationguildblog.blogspot.com/2006/06/disney-1939-girls-are-not-considered.html](https://animationguildblog.blogspot.com/2006/06/disney-1939-girls-are-not-considered.html)\n\n#15yrsago Sick man robs bank for $1, demands jail and healthcare [https://web.archive.org/web/20110628144748/https://www.gastongazette.com/news/bank-58397-richard-hailed.html/](https://web.archive.org/web/20110628144748/https://www.gastongazette.com/news/bank-58397-richard-hailed.html/)\n\n#15yrsago Car-racing game on a thermal printer [https://www.undef.ch/project/receipt-racer](https://www.undef.ch/project/receipt-racer)\n\n#15yrsago Toronto police swear off kettling [https://web.archive.org/web/20110625131204/http://www.thestar.com/news/article/1012959–exclusive-toronto-police-swear-off-g20-kettling-tactic?bn=1](https://web.archive.org/web/20110625131204/http://www.thestar.com/news/article/1012959--exclusive-toronto-police-swear-off-g20-kettling-tactic?bn=1)\n\n#15yrsago LEAKED: UK copyright lobby holds closed-door meetings with gov’t to discuss national Web-censorship regime [https://www.openrightsgroup.org/blog/rights-holders-propose-voluntary-website-blocking-scheme/](https://www.openrightsgroup.org/blog/rights-holders-propose-voluntary-website-blocking-scheme/)\n\n#15yrsago Georgia’s anti-immigrant law leaves millions in crops rotting in the fields [https://web.archive.org/web/20110620213900/https://blogs.ajc.com/jay-bookman-blog/2011/06/17/gas-farm-labor-crisis-playing-out-as-planned/](https://web.archive.org/web/20110620213900/https://blogs.ajc.com/jay-bookman-blog/2011/06/17/gas-farm-labor-crisis-playing-out-as-planned/)\n\n#15yrsago Bagelheads: toroidal saline forehead injections [https://web.archive.org/web/20110619033443/https://vicestyle.com/en/news/today/post/japanese-bagelheads](https://web.archive.org/web/20110619033443/https://vicestyle.com/en/news/today/post/japanese-bagelheads)\n\n#15yrsago Spitalfields Nippers: East London street-urchins of 1912 [https://spitalfieldslife.com/2011/04/02/spitalfields-nippers/](https://spitalfieldslife.com/2011/04/02/spitalfields-nippers/)\n\n#15yrsago Danish police proposal: Ban anonymous Internet use [https://www-computerworld-dk.translate.goog/art/117279/forslag-du-maa-ikke-laengere-gaa-anonymt-paa-nettet?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en-US](https://www-computerworld-dk.translate.goog/art/117279/forslag-du-maa-ikke-laengere-gaa-anonymt-paa-nettet?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en-US)\n\n#15yrsago Bell-mannequin for training pickpockets [https://web.archive.org/web/20110626045035/http://blog.modernmechanix.com/2011/06/23/amateur-pick-pockets-study-in-crime-college/](https://web.archive.org/web/20110626045035/http://blog.modernmechanix.com/2011/06/23/amateur-pick-pockets-study-in-crime-college/)\n\n#15yrsago Skeptical take on Singularity [http://www.antipope.org/charlie/blog-static/2011/06/reality-check-1.html](http://www.antipope.org/charlie/blog-static/2011/06/reality-check-1.html)\n\n#15yrsago Windmill joke [https://www.reddit.com/r/Jokes/comments/4p8qkb/two_windmills_are_standing_in_a_field_and_one/](https://www.reddit.com/r/Jokes/comments/4p8qkb/two_windmills_are_standing_in_a_field_and_one/)\n\n#10yrsago Electronics repair shops overbill for labor when the customer has insurance [https://arstechnica.com/science/2016/06/computer-repair-shops-screw-over-customers-if-theyve-got-insurance/](https://arstechnica.com/science/2016/06/computer-repair-shops-screw-over-customers-if-theyve-got-insurance/)\n\n#10yrsago Being a Craigslist scammer is hard work [https://web.archive.org/web/20160622140008/https://www.infoworld.com/article/3086304/cyber-crime/interview-with-a-craigslist-scammer.html](https://web.archive.org/web/20160622140008/https://www.infoworld.com/article/3086304/cyber-crime/interview-with-a-craigslist-scammer.html)\n\n#10yrsago Dieselgate for GPUs: review-units ship at higher clockspeeds than retail ones [https://www.theverge.com/circuitbreaker/2016/6/21/11986836/msi-asus-overclocked-graphics-cards-review](https://www.theverge.com/circuitbreaker/2016/6/21/11986836/msi-asus-overclocked-graphics-cards-review)\n\n#10yrsago Phones without headphone jacks are phones with DRM for audio [https://www.theverge.com/circuitbreaker/2016/6/21/11991302/iphone-no-headphone-jack-user-hostile-stupid](https://www.theverge.com/circuitbreaker/2016/6/21/11991302/iphone-no-headphone-jack-user-hostile-stupid)\n\n#10yrsago Donald Trump sources $6M worth of campaign expenditures from companies he and his family own [https://web.archive.org/web/20160621142100/https://bigstory.ap.org/article/9f7412236962464f9f2c0a8d2696ba25/trumps-campaign-cycles-6-million-trump-companies](https://web.archive.org/web/20160621142100/https://bigstory.ap.org/article/9f7412236962464f9f2c0a8d2696ba25/trumps-campaign-cycles-6-million-trump-companies)\n\n#10yrsago Samantha Bee puts the NRA before a firing squad [https://www.youtube.com/watch?v=-M4qHzd3xfM](https://www.youtube.com/watch?v=-M4qHzd3xfM)\n\n#10yrsago Improv Everywhere: asking random New Yorkers to give a commencement speech [https://www.youtube.com/watch?v=drvcLC3DuHo](https://www.youtube.com/watch?v=drvcLC3DuHo)\n\n#10yrsago R. Crumb v. D. Trump, 1989 [https://dangerousminds.net/comments/robert_crumb_and_friends_flush_donald_trump_down_the_toilet_1989/](https://dangerousminds.net/comments/robert_crumb_and_friends_flush_donald_trump_down_the_toilet_1989/)\n\n#10yrsago Cleveland: “First Amendment zones” will fence protesters far away from RNC [https://www.wired.com/2016/06/cleveland-will-create-city-within-city-keep-rnc-civil/](https://www.wired.com/2016/06/cleveland-will-create-city-within-city-keep-rnc-civil/)\n\n#10yrsago Space botanists are beneficiaries of Canada’s legal weed boom [https://web.archive.org/web/20160624043929/https://motherboard.vice.com/read/how-space-technology-will-produce-the-best-weed-marijuana-cannabis-pot](https://web.archive.org/web/20160624043929/https://motherboard.vice.com/read/how-space-technology-will-produce-the-best-weed-marijuana-cannabis-pot)\n\n#10yrsago Debullshitifying the EU referendum (radio comedy edition) [https://www.bbc.co.uk/programmes/p03yylpn](https://www.bbc.co.uk/programmes/p03yylpn)\n\n#10yrsago Judenstaat: an alternate history in which a Jewish state is created in east Germany in 1948 [https://memex.craphound.com/2016/06/21/judenstaat-an-alternate-history-in-which-a-jewish-state-is-created-in-east-germany-in-1948/](https://memex.craphound.com/2016/06/21/judenstaat-an-alternate-history-in-which-a-jewish-state-is-created-in-east-germany-in-1948/)\n\n#10yrsago Gun control is a great idea, terrorist watchlists are bullshit [https://www.aclu.org/sites/default/files/field_document/2016_06_20_aclu_vote_recommendation_on_feinstein_and_cornyn_amendments_to_h.r._2578.pdf](https://www.aclu.org/sites/default/files/field_document/2016_06_20_aclu_vote_recommendation_on_feinstein_and_cornyn_amendments_to_h.r._2578.pdf)\n\n#5yrsago New Yorkers *just* missing the subway [https://www.youtube.com/watch?v=iWh385F5lms#5yrsago](https://www.youtube.com/watch?v=iWh385F5lms#5yrsago)\n\n#5yrsago Peloton bricks its treadmills [https://pluralistic.net/2021/06/22/vapescreen/#jane-get-me-off-this-crazy-thing](https://pluralistic.net/2021/06/22/vapescreen/#jane-get-me-off-this-crazy-thing)\n\n#5yrsago Juul's junk science [https://pluralistic.net/2021/06/22/vapescreen/#smokescreen](https://pluralistic.net/2021/06/22/vapescreen/#smokescreen)\n\n#5yrsago Improving the ACCESS Act [https://pluralistic.net/2021/06/22/vapescreen/#improve-access](https://pluralistic.net/2021/06/22/vapescreen/#improve-access)\n\n#1yrago Daniel de Visé's 'The Blues Brothers' [https://pluralistic.net/2025/06/21/1060-west-addison/#the-new-oldsmobiles-are-in-early-this-year](https://pluralistic.net/2025/06/21/1060-west-addison/#the-new-oldsmobiles-are-in-early-this-year)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Toronto: The Sovereignty Debate (IAB Canada's State of the Nation), Jun 23\n\n[https://iabcanada.com/state-of-the-nation-2026](https://iabcanada.com/state-of-the-nation-2026)\n\n- \nToronto: The Reverse Centaur's Guide to Life After AI (Osler Records/Type Books), Jun 23\n\n[https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998](https://www.eventbrite.com/e/cory-doctorow-book-launch-and-talk-tickets-1991501299998)\n\n- \nNYC: The Reverse Centaur's Guide to Life After AI with Jonathan Coulton (The Strand), Jun 24\n\n[https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html](https://www.strandbooks.com/cory-doctorow-the-reverse-centaur-s-guide-to-life-after-ai.html)\n\n- \nPhiladelphia: The Reverse Centaur's Guide to Life After AI with David Williams (Fitler Club/Philadelphia Citizen), Jun 25\n\n[https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559](https://www.eventbrite.com/e/cory-doctorow-book-event-tickets-1990110326559)\n\n- \nChicago: The Reverse Centaur's Guide to Life After AI with Rick Perlstein (Exile in Bookville), Jun 26\n\n[https://exileinbookville.com/events/50628](https://exileinbookville.com/events/50628)\n\n- \nLondon: Idler Festival, Jul 11\n\n[https://www.idler.co.uk/festival/](https://www.idler.co.uk/festival/)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/cory-doctorow/](https://festivalofdangerousideas.com/cory-doctorow/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#recent))\n\n- How to Think About AI Before It’s Too Late (Galaxy Brain)\n\n[https://www.youtube.com/watch?v=SPQNPJ0CEPo](https://www.youtube.com/watch?v=SPQNPJ0CEPo)\n\n- \nThe future of world governance, with Kim Stanley Robinson (UN Independent Expert on International Order)\n\n[https://www.youtube.com/live/wJvBvYdaAMY](https://www.youtube.com/live/wJvBvYdaAMY)\n\n- \nHow to Think About Artificial Intelligence (KUER)\n\n[https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence](https://radiowest.kuer.org/show/radiowest/2026-06-16/cory-doctorow-on-how-to-think-about-artificial-intelligence)\n\n- \nThe Enshittification of Life, the Universe, & Everything (Luke Savage)\n\n[https://www.lukewsavage.com/p/the-enshittification-of-life-the](https://www.lukewsavage.com/p/the-enshittification-of-life-the)\n\n- \nCory Doctorow's digital jail-break (DW In Focus)\n\n[https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035](https://www.dw.com/en/cory-doctorows-digital-jail-break/audio-77414035)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#latest))\n\n- \"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#upcoming-books))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026 ([https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/))\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2026\n\n- \n\"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/06/22/8-for-what-we-will/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \"The Reverse Centaur's Guide to AI,\" a short book for Farrar, Straus and Giroux about being an effective AI critic. LEGAL REVIEW AND COPYEDIT COMPLETE.\n\n- \n\"The Post-American Internet,\" a short book about internet policy in the age of Trumpism. PLANNING.\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/06/22/8-for-what-we-will/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "AI/ML"
+        ],
+        "published_at": "Mon, 22 Jun 2026 17:16:08 +0000",
+        "reading_time": 17,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Consistency, But in Excellence Not Appearance - Consistency serves a purpose in visual design, but it seems to have become *the* purpose o...",
+    "Happy Father's Day.  - I am a father of twin boys. There is a question I often think about. It often appears as a...",
+    "Dickover of the Week: The Observer - [ ## Bharat Iyer ](https://bvsveera.net/) [Home](https://bvsveera.net/) [Blog](https://bvs...",
+    "Everything you say CAN and WILL be used against you  - - \"If you talk to me, I'll punch you in the face, are you ok with talking with me?\" - \"Nod...",
+    "What Was Matt Thinking? - **Currently, I’m in the midst of writing** a big post about the roots of web forums, but I..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "net",
+      "count": 5
+    },
+    {
+      "word": "man",
+      "count": 4
+    },
+    {
+      "word": "amd",
+      "count": 4
+    },
+    {
+      "word": "near-q",
+      "count": 4
+    },
+    {
+      "word": "bvsveera",
+      "count": 4
+    },
+    {
+      "word": "words",
+      "count": 3
+    },
+    {
+      "word": "word",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "queens",
+      "count": 3
+    },
+    {
+      "word": "athlon",
+      "count": 3
+    },
+    {
+      "word": "cpu",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "lobachevsky",
+      "count": 2
+    },
+    {
+      "word": "theorem",
+      "count": 2
+    },
+    {
+      "word": "useful",
+      "count": 2
+    },
+    {
+      "word": "memory",
+      "count": 2
+    },
+    {
+      "word": "put",
+      "count": 2
+    },
+    {
+      "word": "red",
+      "count": 2
+    },
+    {
+      "word": "green",
+      "count": 2
+    },
+    {
+      "word": "squiggles",
+      "count": 2
+    },
+    {
+      "word": "prime",
+      "count": 2
+    },
+    {
+      "word": "none",
+      "count": 2
+    },
+    {
+      "word": "quality",
+      "count": 2
+    },
+    {
+      "word": "size",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "bug",
+      "count": 2
+    },
+    {
+      "word": "hyper",
+      "count": 2
+    },
+    {
+      "word": "library",
+      "count": 2
+    },
+    {
+      "word": "images",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "weird",
+      "count": 2
+    },
+    {
+      "word": "consistency",
+      "count": 2
+    },
+    {
+      "word": "purpose",
+      "count": 2
+    },
+    {
+      "word": "visual",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "often",
+      "count": 2
+    },
+    {
+      "word": "think",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "bytes",
+      "count": 2
+    },
+    {
+      "word": "punch",
+      "count": 2
+    },
+    {
+      "word": "face",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jun",
+      "count": 2
+    },
+    {
+      "word": "com",
+      "count": 2
+    }
+  ]
+}
