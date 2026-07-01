@@ -1,0 +1,853 @@
+{
+  "date": "2026-07-01",
+  "stats": {
+    "total_fetched": 279,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "DNA Sequence Alignment and Kings",
+        "summary": "This morning I wrote a post that included the central Delannoy numbers. The nth central Delannoy number Dn counts the number of ways a king can move from one corner of a chessboard to the diagonally opposite corner witho...",
+        "url": "https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/",
+        "source": "John D. Cook",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Jul 2026 00:21:21 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Bulkdatasets AIVD en MIVD: de schaduw geheime dienst",
+        "summary": "Uit een vandaag verschenen onderzoeksrapport (PDF) blijkt dat de AIVD en MIVD slordig en soms onrechtmatig omgaan met bulkdatasets. Bulkdatasets zijn grote bestanden vol data over vaak miljoenen willekeurige mensen, data...",
+        "url": "https://berthub.eu/articles/posts/de-schaduwgeheimedienst/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Jul 2026 10:40:00 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The earliest surviving Tom’s Hardware Guide article",
+        "summary": "The earliest dated article still active on Tom’s Hardware Guide is dated July 1, 1996. It was an article about CPU softmenus, something we pretty much take for granted today, but at the time was only available on select...",
+        "url": "https://dfarq.homeip.net/the-earliest-surviving-toms-hardware-guide-article/?utm_source=rss&utm_medium=rss&utm_campaign=the-earliest-surviving-toms-hardware-guide-article",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "Wed, 01 Jul 2026 11:00:26 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Clickhouse is winning the Observability Wars",
+        "summary": "For roughly the last ten years, a meaningful percentage of my working hours have been spent thinking about observability. If you're not familiar with the term, \"observability\" is what we call it now that \"monitoring\" doe...",
+        "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
+        "source": "matduggan.com",
+        "tags": [
+          "DevOps"
+        ],
+        "published_at": "Wed, 01 Jul 2026 13:14:03 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Announcing the Monetization Gateway: charge for any resource behind Cloudflare via x402",
+        "summary": "We're opening the waitlist for our Monetization Gateway, which will allow you to charge for any web page, dataset, API, or MCP tool behind Cloudflare. The charges will settle in stablecoins over the x402 open protocol, w...",
+        "url": "https://blog.cloudflare.com/monetization-gateway/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Cloud"
+        ],
+        "published_at": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Content Independence Day, one year on: building the business model for the agentic Internet",
+        "summary": "One year after declaring Content Independence Day, a dynamic market for monetized content has officially emerged. In this report, we examine how the rise of autonomous AI agents is upending traditional search referrals a...",
+        "url": "https://blog.cloudflare.com/agentic-internet-bot-report/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Startup",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Making AI search smarter",
+        "summary": "Search is how we find nearly everything on the web — creators, merchants, answers. AI is rewriting the rules, leaving creators caught between staying discoverable in an agentic era and getting paid for their work. Today...",
+        "url": "https://blog.cloudflare.com/making-ai-search-smarter/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Your site, your rules: new AI traffic options for all customers",
+        "summary": "For our second Content Independence Day, we’re giving website owners finer options to manage AI traffic. Instead of a one-size-fits-all block, all customers can now easily distinguish and manage Search, Agent, and Traini...",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Wed, 01 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Unmasking the crawls with Attribution Business Insights",
+        "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
+        "url": "https://blog.cloudflare.com/attribution-business-insights/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Web Dev",
+          "Cloud",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Jul 2026 06:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "It rather involved being on the other side of this airtight hatchway: Changing administrative settings",
+        "summary": "Unlocking the door from the inside. The post It rather involved being on the other side of this airtight hatchway: Changing administrative settings appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498",
+        "source": "The Old New Thing",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 01 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Winning Essays for the Big Questions About AI ",
+        "summary": "Abolishing pandemics/ Getting out of the way of AI automation/ Learning from Honk Kong MTR's business model",
+        "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML",
+          "DevOps",
+          "Startup"
+        ],
+        "published_at": "Wed, 01 Jul 2026 22:13:17 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-01T23:01:31.517Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms",
+        "summary": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it’s not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations",
+        "content": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it’s not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each.\n\nDespite Valve offering a console alternative with the Steam Machine — a compact piece of hardware that can easily hook up to your TV to play your Steam library — those prices mean the Machine is much more expensive than console counterparts like the PS5 ($599.99), Xbox Series X ($649.99), and PS5 Pro ($899.99) while performing similarly to a PS5. (Those console prices are also higher than what they were at launch due to the component crunch.)\n\nWhile console makers sometimes subsidize their hardware to bring prices down, Valve is choosing not to do that with the Steam Machine. Here’s what Valve said in remarks provided to *The Verge*:\n\n> While this might seem like an easy solution, it doesn’t align with our beliefs about how healthy ecosystems are built. If there’s anything we’re religious about at Valve, it’s our belief that open systems are better in the long run, for ourselves and customers. The openness of the PC ecosystem in particular has enabled it to be the primary driver of hardware and software innovation, because anyone with an idea for a way to do something better was able to take a shot at it. When companies sell their hardware under cost for competitive advantage, or buy exclusive content for it, they’re doing that to build a more closed system, one where you don’t get to choose what software you want to use.\n\nWe don’t want that for PC hardware, and we don’t think you should want it either. You shouldn’t feel like you have to buy Valve hardware; you should be able to view it as just one option alongside all the devices for playing games, and select the one that makes sense for you. This means you get to decide which device fits your personal tradeoffs around things like price, performance, form factor, peripheral support, and everything else you care about. That’s the strength of the open PC platform, and subsidizing hardware runs counter to it.\n\nThe [published version](https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fnews%2Fgroup%2F45479024%2Fview%2F685257114654870245) of those remarks differs but strikes the same core notes. “The traditional console model is to sell hardware at a loss and make up the revenue with subscription services or by selling games that are locked-in to the hardware,” reads part of Valve’s blog post. “We think this can make sense for a single business in the short term but that open ecosystems are better for customers over the long term. PC gaming’s history proves this: The openness of the PC gaming space has enabled it to be the primary driver of hardware and software innovation for decades.”\n\nValve first announced the Steam Machine — and the [Steam Controller](https://www.theverge.com/games/918610/valve-steam-controller-review), which is out, and the [Steam Frame VR headset](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on), which is not — late last year, right around when the component crisis began to feel real. At the time, Valve hadn’t shared pricing, but it initially intended to launch all three pieces of hardware in early 2026 — a target that it missed [because of the memory and storage crunch](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis).\n\nValve is essentially selling the Steam Machine at cost: “The cost of the product is basically the cost of the components and what it takes to make it,” Valve’s Lawrence Yang tells *The Verge*. And with the Steam Machine, Valve is also being even more aggressive on price than it is with the Steam Deck: “I would say that we’re being more aggressive with margins and things to be as close to cost as possible now,” says Valve’s Pierre-Loup Griffais.\n\nThe component crisis also affected Valve’s planned launch quantity for the Steam Machine, with Griffais saying that “we’re probably looking at around two-thirds of what we were planning.” Griffais adds that Valve, at one point, wasn’t convinced that it could build “any significant quantity.” So the fact that the Steam Machine is launching at all might be a small miracle in and of itself.\n\n***Update, June 22nd**: Added new remarks from Valve’s blog post, which differs from the version provided to *The Verge* ahead of publication.*\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Jay Peters\n- \n- \n- \n-",
+        "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-01T18:04:29.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Talk Show: ‘Taking Drugs to Get Fat’",
+        "summary": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Taking Drugs to Get Fat’, With John Moltz\n\n###### Tuesday, 30 June 2026\n\nThe great John Moltz returns to the show. Topics include Apple",
+        "content": "## [The Talk Show](https://daringfireball.net/thetalkshow/)\n\n## ‘Taking Drugs to Get Fat’, With John Moltz\n\n###### Tuesday, 30 June 2026\n\nThe great John Moltz returns to the show. Topics include Apple’s hardware price hikes in response to the global RAM/SSD shortage, and some spitballing on what we like about the UI changes in the MacOS 27 Golden Gate beta.\n\n**Sponsored by:**\n\n- [Coax](https://coaxtheapp.com/): Defeat the tyranny of choice. Channel surf your Plex server. Relax with Coax.\n\n- [Even Realities](https://evenrealities.com/): Even G2, the everyday display smart glasses. Use promo code **talkshow** to save 10% off the R1 Ring and/or Even Clip.\n\n- [Squarespace](https://squarespace.com/talkshow): Save 10% off your first purchase of a website or domain using code **TALKSHOW**.\n\n**Transcripts:** [Unofficial but surprisingly good](http://podsearch.david-smith.org/shows/11).\n\n**Links:**\n\n- [RAM Doubler](https://tidbits.com/2019/01/24/25-years-ago-in-tidbits-ram-doubler-debuts/) and [DiskDoubler](https://tidbits.com/1991/01/21/double-stuff/), which came from two different developers.\n\n- [StuffIt](https://en.wikipedia.org/wiki/StuffIt) and [Compact Pro](https://en.wikipedia.org/wiki/Compact_Pro).\n\n- “[Apple in China](https://www.amazon.com/Apple-China-Capture-Greatest-Company/dp/1668053373/?tag=df-amzn-20)” by Patrick McGee.\n\n- [Patrick McGee on The Talk Show last year](https://daringfireball.net/thetalkshow/2025/05/29/ep-423).\n\n- “[Go Computer Now!](https://gocomputernow.com/)”, Ben Zotto’s book on Sphere Computer Corporation.\n\n- Movies:\n[The Player](https://www.themoviedb.org/movie/10403-the-player?language=en-US)\n\n- [Airplane!](https://www.themoviedb.org/movie/813-airplane)\n\n- [Monty Python and the Holy Grail](https://www.themoviedb.org/movie/762-monty-python-and-the-holy-grail?language=en-US)\n\n- “[Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022](https://daringfireball.net/linked/2026/06/27/apple-faced-bipartisan-opposition-to-chinese-ram)”.\n\n- [Gnome](https://lexfriedman.com/gnome/), Lex Friedman’s clever new animated GIF search/library utility for Mac and iOS. (Also: [My link to Gnome at DF](https://daringfireball.net/linked/2026/06/30/gnome).)\n\n- [Biff!](https://www.theincomparable.com/biff/) — Moltz’s fun superhero TV/movie podcast cohosted with Dan Moren and Guy English.\n\n*This episode of The Talk Show was edited by Caleb Sexton.*\n\nCopyright © 2002–2026 The Daring Fireball Company LLC.",
+        "url": "https://daringfireball.net/thetalkshow/2026/06/30/ep-451",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-01T15:48:09.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "PlayStation Plus and Xbox Game Pass Subscriptions",
+        "summary": "[Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing)\n\nValve, in a statement to The Verge, explaining why it",
+        "content": "[Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing)\n\nValve, in a statement to The Verge, explaining why it doesn’t sell its handheld Steam Deck or new Steam Machine gaming devices at a loss (gift link):\n\n> While this might seem like an easy solution, it doesn’t align with\n> our beliefs about how healthy ecosystems are built. If there’s\n> anything we’re religious about at Valve, it’s our belief that open\n> systems are better in the long run, for ourselves and customers.\n> The openness of the PC ecosystem in particular has enabled it to\n> be the primary driver of hardware and software innovation, because\n> anyone with an idea for a way to do something better was able to\n> take a shot at it. When companies sell their hardware under cost\n> for competitive advantage, or buy exclusive content for it,\n> they’re doing that to build a more closed system, one where you\n> don’t get to choose what software you want to use.\n\n> \n> We don’t want that for PC hardware, and we don’t think you should\n> want it either. You shouldn’t feel like you have to buy Valve\n> hardware; you should be able to view it as just one option\n> alongside all the devices for playing games, and select the one\n> that makes sense for you. This means you get to decide which\n> device fits your personal tradeoffs around things like price,\n> performance, form factor, peripheral support, and everything else\n> you care about. That’s the strength of the open PC platform, and\n> subsidizing hardware runs counter to it.\n\nValve published a shorter version of this [on their own Steam Machine launch post](https://store.steampowered.com/news/group/45479024/view/685257114654870245), but the statement to The Verge articulates their stance more fully.\n\nI’ve long been frustrated by the arguments that subsidized hardware is definitional to gaming console platforms. Microsoft, in particular, has leaned on it as a whiny excuse ever since they launched the first Xbox. Just last week [they emphasized the point again](https://daringfireball.net/linked/2026/06/27/microsoft-raises-xbox-prices) when announcing another increase in Xbox prices. It’s a strategic choice, that’s all, and a rather obviously predatory choice at that. So I say kudos to Valve for refusing to play the game, and selling their devices at honest prices. (They [just raised the prices for Steam Deck by $250 to $300](https://www.ign.com/articles/steam-deck-price-increase-announced-by-valve), due to the rising costs of RAM and storage.)\n\nIt’s worth noting that the mobile phone market is *sort of* subsidized — but by carriers, not Apple (or Samsung or the other lesser Android makers). Apple sells iPhones directly, unsubsidized, so we know the actual cost of each model. And even when sold by the carriers at a subsidy, it’s the carriers, not Apple, who are taking the point-of-sale loss with the intention of making it up over time through monthly service bills that customers agree to pay by contract. I’d be very curious to know what percentage of new iPhone sales are sold at the full one-time payment retail price.\n\nThat’s a very different type of subsidy than Sony and Microsoft strategically selling each PlayStation and Xbox unit at a loss. When you buy a PlayStation, you don’t sign a contract to buy a certain number of games to make sure Sony turns a profit on your purchase in the long run. They’re gambling, effectively — and they make more money from a customer who buys more games than a customer who buys fewer games. When a phone carrier promotes something like “[Get an iPhone 17 Pro for $0](https://daringfireball.net/misc/2026/06/att-iphone-17-pro-for-0-dollars.png)”, they know exactly how much money they’re going to make if you agree to the deal.\n\n★ *Wednesday, 1 July 2026*\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-593949-1']);\n  _gaq.push (['_gat._anonymizeIp']);\n  _gaq.push(['_trackPageview']);\n  (function() {\n\tvar ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n\tga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n\tvar s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n -->\n\n(function () {\n\tvar ma = document.createElement('script');\n\tma.type = 'text/javascript';\n\tma.src = '/mint/?js';\n\tma.async = true;\n\tvar s = document.getElementsByTagName('script')[0];\n\ts.parentNode.insertBefore(ma, s);\n})();\n\n-->",
+        "url": "https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-01T19:55:26.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses",
+        "summary": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.\n\n  \n    \n      ![Apple ‘Hide My Email’ Vul",
+        "content": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.\n\n  \n    \n      ![Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses](https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/06/laurenz-heymann-wAygsCk20h8-unsplash.jpg)\n        Photo by [Laurenz Heymann](https://unsplash.com/@lagommedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/apple-logo-on-glass-window-wAygsCk20h8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).\n    \n\n      \n        \n          \n              \n  \n\nA vulnerability in Apple’s “Hide My Email” tool lets almost anyone discover a person’s real email address that is supposed to be hidden by the feature, and Apple has failed to fix it for more than a year, according to a security researcher and 404 Media’s own tests.\n\n404 Media is not revealing the exact details of the vulnerability because it can still be exploited as of Monday, when 404 Media verified the issue with one of our own hidden email addresses.\n\n  \n    \n## This post is for paid members only\n\n    Become a paid member for unlimited ad-free access to articles, bonus podcast content, and more.\n\n    [Subscribe](https://www.404media.co/membership/)\n  \n\n  \n    \n## Sign up for free access to this post\n\n    Free members get access to posts like this one along with an email round-up of our week's stories.\n\n    [Subscribe](https://www.404media.co/signup/)\n  \n\n  Already have an account? [Sign in](https://www.404media.co/signin/)",
+        "url": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-07-01T14:42:02.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The CRA is not about open source",
+        "summary": "At [FOSDEM](https://fosdem.org/2026/) in February and again at [UN Open Source Week](https://www.unopensource.org/) last week, the [Cyber Resilience Act](https://eur-lex.europa.eu/eli/reg/2024/2847/oj",
+        "content": "At [FOSDEM](https://fosdem.org/2026/) in February and again at [UN Open Source Week](https://www.unopensource.org/) last week, the [Cyber Resilience Act](https://eur-lex.europa.eu/eli/reg/2024/2847/oj) was the answer on offer whenever anyone asked what governments are doing about open source security, and the foundations and corporate advocates presenting it framed it as good news for open source. It is the largest piece of software legislation the EU has passed, the open source community spent two years lobbying over its text, and its main obligations come into force in December 2027.\n\nIt is also not about open source. Where open source appears in the text, it appears as an exemption, a component risk, a compliance contact, or a paperwork trail.\n\nThe CRA is a product-safety law in the [CE-mark](https://single-market-economy.ec.europa.eu/single-market/ce-marking_en) family, the same regime that already covers toys, radio equipment and machinery: rules a manufacturer must meet before selling a product in the EU, with a conformity mark at the end. The CRA extends that to anything with software in it. In [the previous post](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html) I described this class of regulation as requiring haulage firms to certify which bridges their lorries crossed while employing no bridge inspectors, and the CRA is the regulation most often held up as the counterexample.\n\n## Scope\n\nThe things the CRA defines are products, the companies that make or sell them, and components. There is nothing in it corresponding to a project, a package, a registry, or a maintainer. Open source is visible in the regulation only as a property a component of a regulated product can have, so in the CRA’s terms there is no OpenSSL, only products that incorporate OpenSSL.\n\nNon-commercial open source is carved out of scope, which took a lot of lobbying and has been treated since as a win for the community. But exclusion from a product regulation is not the same as benefiting from it. A project outside the CRA’s scope is in the same position as one the drafters had never heard of.\n\nThe regulation establishes no fund and no inspection or maintenance body, and nothing in it requires a manufacturer to contribute upstream. The exemption is the edge of what product law can reach: software nobody is selling offers nothing for a market regulation to attach to.\n\nThe phrase “supply chain” appears in the text in its product-law sense, meaning the chain of companies who put a good on the market and can each be held responsible for it. That is a different thing from the transitive dependency graph the same phrase means in open source, and reading the regulation as if it governs the second because the vocabulary overlaps is a category error.\n\n## Dependencies\n\nThe clause that bears most directly on open source dependencies requires a manufacturer to exercise due diligence when pulling in third-party components, open source included. A manufacturer discharging that duty has a menu of options:\n\n  - vendor the dependency and patch it in-house\n\n  - replace it with a different dependency\n\n  - buy a commercially supported distribution that comes with its own paperwork\n\n  - run a scanner against the dependency tree and file the output\n\nNone of those routes money to the upstream author, because the rational response to liability for a component is to reduce exposure to it rather than to invest in it. A haulage firm told it is answerable for the state of every bridge on its route will plan routes with fewer bridges on them before it considers starting a bridge-repair division. When open source licence terms became a perceived corporate risk, the tooling that appeared was [licence scanners](https://en.wikipedia.org/wiki/Software_composition_analysis) and component-replacement policies, and security liability is the same shape of problem.\n\nThe closest the text gets to upstream is a clause requiring a manufacturer who finds a vulnerability in a component to report it to the maintainer. That duty assumes a maintainer is still there to receive it, which is what a maintenance regime would ensure and a product regulation cannot.\n\n## Stewards\n\nThe steward category covers organisations that support open source intended for commercial use without themselves selling a product. A steward’s obligations are lighter than a manufacturer’s: have a security policy, cooperate with regulators on request, and handle vulnerability reports for the projects it looks after.\n\nThose are the duties of an organisation that would otherwise be a gap in a manufacturer’s paperwork, which in bridge terms means requiring an existing maintenance crew to post a contact number so that a haulier filling in forms has someone to name. Nothing in the steward provisions hires that crew or appoints an inspector, and the lighter obligations are still organised around the manufacturer’s product.\n\nFor the steward category to route money to open source, manufacturers would need to prefer steward-backed components enough to pay for them. The regulation gives a manufacturer no reason to: its due diligence can be discharged by any of the routes in the previous section with no steward involved. Anyone who does want to buy component assurance can already get it from commercial redistributors. [Red Hat](https://www.redhat.com/) has been selling supported open source for over two decades, and [Chainguard](https://www.chainguard.dev/) sells hardened images with the SBOM and vulnerability handling needed for a CRA technical file. The nearest thing to a saleable steward output is Article 25’s voluntary security attestation, left to a future delegated act. Becoming a steward today adds obligations to a foundation without creating anything a manufacturer is obliged to buy from it.\n\n## SBOMs\n\nThe SBOM requirement asks for top-level dependencies “at the very least,” which makes the transitive graph optional, and the SBOM goes into the manufacturer’s technical file alongside the rest of the compliance paperwork. That file is held by the manufacturer and handed to a regulator on request, with no right of access for consumers, researchers, or maintainers. This is how [CE-mark technical files](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC0629(04)) have always worked: a private record between the manufacturer and whoever might one day audit it.\n\nThe SBOM that results is a liability artifact rather than a transparency instrument:\n\n  - the maintainer of a library inside a CE-marked product does not learn from the CRA process that they are there\n\n  - a researcher cannot use CRA filings to map which commercial products depend on which open source projects\n\n  - a consumer comparing two products cannot see which has the better-maintained dependency tree\n\nThe CRA will not, to take a concrete case, put a public SBOM for Windows anywhere a member of the public can read it. The [National Bridge Inventory](https://infobridge.fhwa.dot.gov/) from the previous post is open to anyone, and because the bridge regime attaches to the function a structure performs, the privately held Ambassador Bridge is federally inspected regardless of title. A library inside thousands of CE-marked products gets no equivalent record, because the CRA’s trigger is commercial activity and its technical file is a sealed dossier for apportioning fault after an incident.\n\n## Implementation\n\nThe machinery the CRA sets running is all on the product side: the Commission will sort products into risk classes, [ENISA](https://www.enisa.europa.eu/) will run a reporting platform for manufacturers to notify exploited vulnerabilities in their own products, member states will appoint enforcement bodies, and [CEN, CENELEC and ETSI](https://digital-strategy.ec.europa.eu/en/policies/cra-standardisation) are writing the standards manufacturers will be assessed against. None of that touches anything upstream of the manufacturer, because the regulation defines nothing there.\n\nThe second-order effects that do reach open source are modest: SBOM tooling will mature because more manufacturers need to produce SBOMs, though [Executive Order 14028](https://www.federalregister.gov/documents/2021/05/17/2021-10460/improving-the-nations-cybersecurity) had already pushed that along. Exploited-vulnerability reporting will be quicker in the specific case of a manufacturer notifying ENISA about its own product. Neither of those is particular to open source or acts on the upstream project where a vulnerability originates.\n\nWhen [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) prompted a European policy response, the instrument that came back was product law, which is structurally incapable of acting on the infrastructure that prompted it. The CRA does open source little direct harm, and the exemptions the community fought for are about as good as exemptions get.\n\nThe cost is that “we passed the CRA” is now available as the answer when open source maintenance comes up: a regulation with no maintenance regime in it occupies the slot where one would go. The open source community made the CRA an open source story through its own lobbying, and two years on is still reading itself into a text whose subject is manufacturers and consumers.",
+        "url": "https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-07-01T10:00:00.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Summary of reading: April - June 2026",
+        "summary": "- \"The Nuremberg Trial\" by John Tusa and Ann Tusa - a detailed, meticulously\nresearched account of the Nuremberg Trials. There's not a whole lot of side\nquesting in this book - it's all focused on the",
+        "content": "- \"The Nuremberg Trial\" by John Tusa and Ann Tusa - a detailed, meticulously\nresearched account of the Nuremberg Trials. There's not a whole lot of side\nquesting in this book - it's all focused on the trials themselves. Interesting\nread overall, though somewhat dry and academic.\n\n- \"Things Become Other Things: A Walking Memoir\" by Craig Mod - a kind of\ntravelogue of the author walking across Japan's Kii peninsula, mixed with his\nchildhood memories and impressions of life in Japan in general. It's a good\nbook, though I thought I'd find more details about Japan here, whereas it's\na much more introspective work about the author himself.\n\n- \"Social Justice Fallacies\" by Thomas Sowell - the usual data-driven Sowell\nfare, using real historical data and statistical analysis to tackle some hot\npolitical issues like personal liberties, poverty data and affirmative action.\n\n- \"Focus: The ASML way\" by Marc Hijink - I was inspired to read this book about\nASML and its EUV technology after watching a fantastic Veritasium video on\nthe topic. The book turned out to be a disappointment, however; I was\ninterested in the technology behind ASML's machines, but the book is 98%\nfocused on the human, political and organizational aspects of the company.\nIf you're interested in the tech, the aforementioned video is a much better\nuse of your time.\n\n- \"Every Living Thing: The Great and Deadly Race to Know All Life\" by Jason\nRoberts - combined biography of Carl Linnaeus and the Comte de Buffon, who\nwere groundbreaking naturalists in the 18th century working to categorize all\nliving thiings. It's a history of the very early days of what was called\n\"natural science\", and later evolved into botany, biology, zoology, ecology\nand related disciplines. The title is hyperbolic, but the book itself is\ninteresting and well written.\n\n- \"Junglekeeper: What It Takes to Change the World\" by Paul Rosolie - the\nauthor is a conservationist in the Peruvian Amazonia rainforest. This book\nrecounts his adventures on the path to establish Junglekeepers - his\norganization for preserving the forest and its wildlife. It's a nice read\noverall, though the writing is overly embellished and tiringly hyperbolic at\ntimes.\n\n- \"There Is No Place for Us: Working and Homeless in America\" by Brian\nGoldstone - a poignant account of several families in Atlanta struggling with\nkeeping access to suitable rental housing, circa 2020. It covers the danger\nzone of having just enough but absolutely no buffer, and how life emergencies\naffect families. Quite impressive investigative work to be able to produce a\nbook like this; the stories are truly touching. The book does reasonably well\nto skirt around politics without too much preaching, which is appreciated.\n\n- \"Understanding Software Dynamics\" by Richard Sites - from the ground up\ndiscussion of software performance analysis with sampling, tracing and\nunderstanding the different ways in which CPUs are unable to make progress.\nA good chunk of the book is dedicated to the author's KUtrace system.\nI wanted to like this book, but ultimately failed. I found it extremely\nverbose and tedious to follow, full of walls of text.\n\n- \"A Table for Two\" by Amor Towles - a collection of short stories and a\nNovella. The stories all have some whimsical elements in them, and the\nwriting is very good. That said, this book didn't quite recapture the magic\nof \"A Gentleman in Moscow\" for me.\n\n- \"Never Enough\" by Jennifer Breheny Wallace - talks about the stress teens\nare under to excel academically and athletically to improve chances of\nadmission to top universities, and what to do about it. Somewhat similar to\n\"The Price of Privelege\" and \"Unequal Childhoods\", though this one is more\npopular, in the sense that the author is a journalist, not a scientist, and\nthe book is a collection of anecdata laced with official statistics, rather\nthan experiences from the author's own research.\n\n- \"Thunder Below!\" by Eugene B. Fluckey - the story of USS Barb, a submarine\nin the pacific during the latter part of WWII, written by its commander\nthrough 5 different deployments against Japan. Written in an engaging writing\nstyle, this book is very  informative about how submarine warfare looked back\nthen. I was somewhat shocked at the recklesness (suicidal courage?) of the\ncommander though; he clearly was a very capable captain with a talented team,\nbut surely there was lots of luck involved to be able to survive what he\ndescribes. That said, the book was also written 45 years after the events, so\nit's possible that there's some embellishment involved.\n\n- \"Breakneck: China's Quest to Engineer the Future\" by Dan Wang - a very nice\nbook about China's manufacturing superiority in the last few decades, as well\nas other aspects of its society like the one child policy and the COVID-19\nlockdowns. The author contrasts China - \"an engineer-driven society\" with the\nUSA - \"a lawyer-driven society\", discussing the effects on industrial\ncapacity, culture and civil rights. Informative and well written.\n\n- \"Good People: A Novel\" by Patmeena Sabit - an Afghan refugee family settles\nin Virginia in the early 2000s; this is a novel / mystery focused on their\nolder children, their assimilation in the USA and what that lead to.\nHaunting book that will be difficult to get out of one's head, particularly\nfor parents of teenage girls.\n\n- \"The Invention of China\" by Bill Hayton - the author's thesis is that much\nof the national ethos of China - the unity of its peoples, language,\nterritory - was invented about a century ago as part of a political agenda.\nThe book is quite dry and academic, but this is key to its effectiveness,\nas it relies heavily on historical documents. It mentions a fantastic\nquote from Mao - \"Make the past serve the present\" - and I feel like this\ndescribes the book's main thesis very well. A fascinating example of the\nnarrative of Orwell's 1948 in real life.\n\n- \"Advanced Hands-on Rust\" by Herbert Wolverson - the idea of the book is to\nhelp one learn Rust through hands-on projects, by building games that use\nthe Bevy framework. My conclusion is that Bevy is a particularly poor way\nto learn Rust because it's a massive, opaque and opinionated framework that\nbends your code to its will and conventions. Actually learning or practicing\na language by building these simple games from scratch would be much better,\nIMO. So if your goal is to practice Bevy, sure, this book isn't too bad; but\nfor Rust, stay away. Other than the Bevy issue, the book is poorly\nedited, with code samples out of sync with the accompanying code and diffuclt\nto follow to keep the project buildable. Also, since Bevy changes very quickly,\nyou'll have to stick to the older version the book is using - otherwise\nthings just won't compile. On the brighter side, the book does provide some\ncoverage of Rust tooling that is useful - like benchmarking and creating\nwell-behaved crates. But these topics in themselves are hardly worth a whole\nbook.\n\n- \"Mathematics for Human Flourishing\" by Francis Su - a math professor's\nattempt at defining the effects of doing mathematics on meaning in human\nlife. I wanted to like this book, but unfortnately it's a bit too kumbaya for\nme. While I appreciate what the author was aiming at here, it just didn't\nclick.\n\nRe-reads:\n\n- \"Benjamin Franklin: An American Life\" by Walter Isaacson\n\n- \"A Gentleman in Moscow\" by Amor Towles\n\n            \n            \n\nFor comments, please send me\n[** an email](mailto:eliben@gmail.com).",
+        "url": "https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/",
+        "source": "Eli Bendersky's website",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-01T01:52:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "explaining myself through stories",
+        "summary": "i fall back into stories because i don't know any other way to explain myself.\nstories convey the sense of “there is more here than i can say aloud”.\nyou don’t expect to start a story halfway through ",
+        "content": "i fall back into stories because i don't know any other way to explain myself.\nstories convey the sense of “there is more here than i can say aloud”.\nyou don’t expect to start a story halfway through and understand the nuance.\nyou see an image from a movie and you don’t say “what does it mean”, you say “what is it from”?\n\n![a white drawing of a stylized red lightning strike in a black-and-white sky. it pierces a blue heart almost all the way down to its point, branching and forking through it. in the background, black stars twinkle. at the bottom, in blackletter font, reads \"Something is wrong\". the text is green, except \"wrong\", which is in bold red. to the right, a figure stands dressed in blue pants and a black top and shoes, with just a hint of black hair. two its left are two stylized drawings of fire, and underneath, the text \"i am the sound of distant thunder\". in the bottom right are three rust magnets with the pride flag in the background.](https://jyn.dev/assets/something-is-wrong.png)\n\nthis is from [In Stars And Time](https://www.instarsandtime.com/) and [Carrie](https://en.wikipedia.org/wiki/Carrie_(musical)) and [17776](https://www.sbnation.com/a/17776-football) and a photo of me standing on the shore of [Onondaga Lake Park](https://onondagacountyparks.com/parks/onondaga-lake-park/).\nit doesn't mean *one* thing.\nit means all those things.\ni can't explain them all or i'd spend the whole post explaining and not get to my point.\n\nthis is why i like stories.\nyou have an intuition that you need to understand the whole, not just the parts.\n\ni am [Justice of Toren One Var](https://annleckie.com/novel/ancillary-justice/).\nnot literally -- Justice of Toren only exists in stories, and even in stories there is nothing left of her and she is dead dead dead and there is only Breq, with her half-healed leg and her ancillary implants and her hopeless devotion to the people around her.\nbut i think, i act, in the way she does:\n\n> How could my voice—One Var—speak so calmly? How could I even know what words to say, what answer to make, when the whole basis for all my actions—even my reason for existence—was thrown into doubt?\n\n> [...]\n\n> It makes the history hard to convey. Because still, “I” was me, unitary, one thing, and yet I acted against myself, contrary to my interests and desires, sometimes secretly, deceiving myself as to what I knew and did. And it’s difficult for me even now to know who performed what actions, or knew which information. Because I was Justice of Toren. Even when I wasn’t. Even if I’m not anymore.\n\nyou see? you see how limited words are?\neven full paragraphs are not sufficient to convey the things i mean.\nyou have to read the story, to *feel* its meaning.\n\n[Jo Linsay Walton tries](https://jolindsaywalton.blogspot.com/2015/10/sff-names-9-justice-of-toren-one-esk.html).\nhe does try.\n\n> When most people think \"river\" I bet they think \"personal identity.\" Every time you point to the Esk and say, \"That's the Esk,\" you're pointing to different water. Over time, the course changes too, the contours that the river sits in. Not that it ever really sits. But every time you point and say, \"That's the Esk,\" you're still telling the truth.\n\n> In Ancillary Justice, One Esk Nineteen is part of a warship. Ann Leckie was probably thinking of a ship, not a river, when she named her. Several British navy ships have been called Esk: the most famous is probably the one sunk by a Nazi mine during the Texel Disaster in 1940.\n\n> But: Esk, a ship that is also a river. A ship that flows, that splits, that is filled with and made of materials that are always about to slip away, and yet can be truthfully named with a single name.\n\neven this probably reads as too abstruse to you.\n[the word squirm beneath your feet with their sense gelatinized, like cobblestones turned to jellyfish](https://carcinisation.com/2020/01/27/ignorance-a-skilled-practice/).\ni am sorry.\ni can only do what i can do.\n\nmy aunt asked me the other day if i was dating anyone, if there was someone special in my life.\ni was at my brother's wedding.\nthese questions come up.\n\ni told her i don't have words to explain it to her.\nshe said it's ok if you don't want to talk about it, i'm just trying to get to know you better.\ni said no, i literally don't have words for it.\nmy relationships don't map onto easy labels.\ni can't give you a straight answer; i have to give you an introduction to queer culture.\n\nshe was dissatisfied by that.\ni guess i would be too.\n\nsometimes words don't get close enough to the thing i mean.\nif i say a word, i'm not just saying a definition, i'm evoking a connotation, a memory, a feeling.\ni can be precise with definitions; it's much harder to be precise with feelings.\nstories give us that shared context where, even if we aren't feeling the same things, i know we have roughly the same memories.\n\nsometimes i have words in mind that might even be true by a dictionary definition, but don't have the right meaning.\ninstead i have to build my own meaning around them; shade them just darkly enough that you can see the outline; without giving you a false sense of security that you've seen the whole thing at once.\n\nEdouard Glissant talks about [the right to opacity](https://tool-shed.org/resource/edouard-glissants-right-to-opacity/):\n\n> [It is not the case] that everything is futile, but that there are limits to absolute truth. How can one point out these limits without lapsing into skepticism or paralysis? How can one reconcile the hard line inherent in any politics and the questioning essential to any relation? Only by understanding that it is impossible to reduce anyone, no matter who, to a truth he would not have generated on his own.\n> [...]\n> This same opacity is also the force that drives every community: the thing that would bring us together forever and make us permanently distinctive. Widespread consent to specific opacities is the most straightforward equivalent of nonbarbarism.\n\n> We clamor for the right to opacity for everyone.\n\ni believe in the right to opacity; for myself, for my relationships, my friends, my communities.\ni accept that this will distance me from some and deter others.\nit's a price i'm willing to pay.\n\ni'm tired of explaining parts of myself and having people leap to false conclusions.\n\nif you talk to me and i answer with stories, please know:\ni am not avoiding you.\ni am not trying to hide.\ni simply don't know any other way to explain myself.\n\n![a screenshot from Silksong. Hornet is standing in front of a bright entranceway. in the bottom right is the name \"Eva\". Above, the dialogue \"Lady, you mistake. What seems a cage is as much my shell as the form inside.](https://jyn.dev/assets/what-seems-a-cage.png)",
+        "url": "https://jyn.dev/explaining-myself-through-stories/",
+        "source": "the website of jyn",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-01T00:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Technocarcinization (01 Jul 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/01Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/01/ontogeny/",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/01Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/01/ontogeny/)\n\n## Today's links\n\n- [Technocarcinization](https://pluralistic.net/2026/07/01/ontogeny/#recapitulates-phylogeny): Enshittification is the great leveler.\n\n- [Hey look at this](https://pluralistic.net/2026/07/01/ontogeny/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/07/01/ontogeny/#retro): Grampa's backyard Disneyland; Elizabeth Warren on monopolies; Spotify v Apple (antitrust edn); Exxon lobbyist confesses; \"When the Sparrow Falls.\"\n\n- [Upcoming appearances](https://pluralistic.net/2026/07/01/ontogeny/#upcoming): London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/07/01/ontogeny/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/07/01/ontogeny/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/07/01/ontogeny/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/07/01/ontogeny/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/big-tech-crabs.jpg?w=840&ssl=1)\n\n## Technocarcinization ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#recapitulates-phylogeny))\n\n\"Carcinization\" is a curious biological phenomenon: given enough time, across many environments, many species will evolve into crabs. The body-type of a crab, with its low center of gravity, sideways gait (useful for evading predators), ease of concealment and protected organs is suitable to many different environments:\n\n[https://en.wikipedia.org/wiki/Carcinisation](https://en.wikipedia.org/wiki/Carcinisation)\n\nLately, I've watched the American Big Tech platforms as they underwent their own form of technocarcinization, which is when every tech company turns into Facebook.\n\n![](https://i0.wp.com/craphound.com/images/big-tech-2x2a.jpg?w=840&ssl=1)\n\nFor a long time, it seemed to me that you could make sense of the tech platforms by placing them into one of four quadrants on a 2×2 grid, in which one axis denoted \"control freakishness\" and the other, \"surveillance.\"\n\nEach quadrant had its own canonical company. The most surveillant/least controlling company (top left) was Google. They would let you roam the whole wide internet and exert no control over your conduct, but would spy on you wherever you went. The least surveillant/most controlling company was Apple, who imprisoned you in its manicured walled garden, but promised never to spy on you. The non-spying/non-controlling option is free/open source tech (of course), which doesn't care what you do, and doesn't watch you do it. And the most spying, most controlling company was Facebook, a company whose products did everything they could to imprison you within their virtual walls, from which vantage they could effect maximal surveillance.\n\nI've used this comparison many times over the years. I included in my 2023 book *The Internet Con*, along with the joke that Tiktok's position on the grid was so far up and to the right (maximum surveillance and control) that we'd had to put its logo on the back cover. Enough people took this joke seriously and wrote in to complain that they'd gotten a misprint without the logo that we added it to the paperback:\n\n[https://www.versobooks.com/products/3035-the-internet-con](https://www.versobooks.com/products/3035-the-internet-con)\n\nThe grid was useful, until technocarcinization started to push *all* the tech companies into that top right quadrant. Apple is no longer the company that protects you from surveillance – they're the company that spies on you, having secretly added a total surveillance system to the iPhone to target ads to you:\n\n[https://pluralistic.net/2022/11/14/luxury-surveillance/#liar-liar](https://pluralistic.net/2022/11/14/luxury-surveillance/#liar-liar)\n\nApple can't even claim to protect you from third-party surveillance. Sure, they block Facebook from spying on you, but they have barred ICE Block, an app that tells you if there are ICE chuds hunting in your neighborhood, looking to kidnap you and send you to a concentration camp. Apple declared ICE mercenaries to be a \"protected class\":\n\n[https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)\n\nAnd thanks to Apple's control-freakery – which prevents you from overriding Apple's decisions about your own devices – once Apple decides to spy on you or sell you out to fascist goons, there's nothing you can do about it:\n\n[https://locusmag.com/feature/cory-doctorow-neofeudalism-and-the-digital-manor/](https://locusmag.com/feature/cory-doctorow-neofeudalism-and-the-digital-manor/)\n\nThen there's Google, the company that ran a free-range livestock operation in which you could roam wherever you liked, because they could always find you when it was time for the slaughter. For years now, Google has been moving inexorably to the kind of control-freak nonsense that you used to only find in one of Apple's crystal prisons.\n\nFor example, every year or two, Google floats a proposal to use secure hardware in your device to rat you out if you've got an ad-blocker, privacy blocker, or other aftermarket add-on that lets you choose how you experience the digital world:\n\n[https://pluralistic.net/2023/08/02/self-incrimination/#wei-bai-bai](https://pluralistic.net/2023/08/02/self-incrimination/#wei-bai-bai)\n\nIt's an idea they just can't quit, despite the fact that it's fucking abominable and everyone hates it:\n\n[https://pluralistic.net/2026/06/12/compelled-speech/#quishing](https://pluralistic.net/2026/06/12/compelled-speech/#quishing)\n\nGoogle used to pride itself in its ability to send you to the open web, viewing search as a conduit to other peoples' resources. Now, with AI search summaries, Google is harvesting the open web and then eating the seed corn, keeping searchers inside of Google's walled garden:\n\n[https://pluralistic.net/2026/06/29/arsonist-firefighters/#im-feeling-lucky](https://pluralistic.net/2026/06/29/arsonist-firefighters/#im-feeling-lucky)\n\nGoogle also took the idea of a free/open browser and ran with it, rehabilitating some discarded Apple code and turning it into Chrome, the internet's most dominant browser – by far. Now, Google is nerfing that browser's plug-in architecture in a way that blocks all kinds of user-tunable options, including and especially ad-blocking:\n\n[https://protonprivacy.substack.com/p/google-is-finally-killing-ublock](https://protonprivacy.substack.com/p/google-is-finally-killing-ublock)\n\nAnd Google has also announced that they're going to turn Android into an iPhone, making it both technically challenging and radioactively illegal for you to install software of your choosing on your own property:\n\n[https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/](https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/)\n\nGoogle is adopting every one of Apple's worst practices, and Apple is adopting all of Google's worst practices, and so they're both turning into Facebook: technocarcinization!\n\nWhat's driving this technocarcinization? Well, the obvious answer is that the more Facebooklike a company becomes, the more ways there are for it to rip you off. Surveillance can be monetized by selling your data, by ad targeting, and by surveillance-based pricing and wage-suppression:\n\n[https://pluralistic.net/2026/01/21/cod-marxism/#wannamaker-slain](https://pluralistic.net/2026/01/21/cod-marxism/#wannamaker-slain)\n\nControl lets platforms block competing products, extract massive junk fees to the businesses they connect you to, and control repair and end-of-life, forcing you to replace hardware by blocking parts and independent service:\n\n[https://pluralistic.net/2026/01/10/markets-are-regulations/#carney-found-a-spine](https://pluralistic.net/2026/01/10/markets-are-regulations/#carney-found-a-spine)\n\nIt turns out that \"if you're not paying for the product, you're the product\" is only half-right. The other half is, \"even if you pay for the product, you're the product.\" Pay, don't pay: companies will productize anyone they can. And thanks to our enshittogenic policy environment – where the worst ideas of the worst people make the most money – you can *always* be productized:\n\n[https://pluralistic.net/2025/09/10/say-their-names/#object-permanence](https://pluralistic.net/2025/09/10/say-their-names/#object-permanence)\n\nThis is independent of the kind of person running the company. Facebook is run by Mark Zuckerberg, a cringe halfwit whose only successful idea was to offer Harvard bros a way of nonconsensually rating the fuckability of female undergrads. Everything he's done since was an acquisition (Whatsapp, Insta) or a flop (metaverse, Libra), or both (Oculus). Zuck owns the majority of the voting stock in the company, which means he has total control over its actions. He can ignore or fire his board members at will. He is the move fast/break things guy, whose every foolish whim can become policy that impacts billions of people.\n\nBy contrast, Google and Apple are no longer run by their flamboyant founders, who were every bit as prone to folly as Zuck. They were constrained by their shareholders, which meant that the blast-radius of Steve Jobs's worst ideas (like treating his otherwise curable cancer with green juice) were confined to his own person.\n\nToday, Apple and Google are run by bloodless business sociopaths who go to enormous lengths to project an air of sober adulthood. And yet, these people – who would never be caught dead bow-hunting their own livestock or climbing into an MMA cage – have steered their companies into Facebook's quadrant on our enshittification 2×2.\n\nI think this shows just how much the enshittification of tech is a matter of the policy environment, not the personalities of the people involved. Sure, the worst people imaginable run these companies, but the *reason* they're able to yield to their most venal impulses and succeed is because the world has been re-arranged to make sociopathy and greed into fitness factors. We get technocarcinization because the most fit organism for a landscape without consequences is a zuckerbergian techno-crab:\n\n[https://pluralistic.net/2023/07/28/microincentives-and-enshittification/](https://pluralistic.net/2023/07/28/microincentives-and-enshittification/)\n\nWhat can we do about it? Well, we're going to have to remake the landscape to punish (rather than reward) enshittification:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nAnd in the meantime, there is one inhabitant of the 2×2 that hasn't drifted up and to the right: free and open source software. It's still snugly nestled in the low-surveillance/low-control box, and if you live in that box, your life will be much, much better for it.\n\nThere's no better time to make the switch: with RAM and storage prices through the ceiling and OSes growing ever-more bloated with AI and spyware (but I repeat myself), this is *the* moment to rehabilitate that old computer with Linux:\n\n[https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)\n\nThe alternative is to be tormented by crabs no matter what you're trying to do or where you're trying to get to.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- How the AI bubble could pop and take down the global economy, according to the BIS [https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793](https://www.theregister.com/ai-and-ml/2026/06/29/how-the-ai-bubble-could-pop-and-take-down-the-global-economy-according-to-the-bis/5263793)\n\n- \nTo Decarbonize Quickly, Think Beyond Electrification [https://jacobin.com/2026/06/climate-electrification-homes-cars-decarbonization-tech](https://jacobin.com/2026/06/climate-electrification-homes-cars-decarbonization-tech)\n\n- \nIreland is big tech’s lapdog – and that compromises its EU presidency [https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty](https://www.theguardian.com/commentisfree/2026/jun/30/ireland-big-tech-lapdog-eu-presidency-digital-sovereignty)\n\n- \nBeyond Denial How Oil Execs Shaped a Landmark Climate Study [https://www.propublica.org/article/wedges-climate-research-bp-fossil-fuel-princeton](https://www.propublica.org/article/wedges-climate-research-bp-fossil-fuel-princeton)\n\n- \nUS Supreme Court just blew up EU-US Data Transfers [https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#retro))\n\n#15yrsago Print-on-demand and donations - report on DIY publishing business models [https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/cory-doctorow/article/47858-with-a-little-help-heuristics.html](https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/cory-doctorow/article/47858-with-a-little-help-heuristics.html)\n\n#15yrsago Brazil rises up for free speech in 40 national demonstrations [https://globalvoices.org/2011/06/30/brazil-freedom-march/](https://globalvoices.org/2011/06/30/brazil-freedom-march/)\n\n#10yrsago Grandad builds miniature backyard Disneyland [https://abcnews.com/Lifestyle/grandpa-builds-disneyland-inspired-backyard-theme-park-grandkids/story?id=40276633](https://abcnews.com/Lifestyle/grandpa-builds-disneyland-inspired-backyard-theme-park-grandkids/story?id=40276633)\n\n#10yrsago Elizabeth Warren on monopolies in America, including Apple, Google, and Amazon [https://washingtonmonthly.com/2016/06/30/elizabeth-warrens-consolidation-speech-could-change-the-election/](https://washingtonmonthly.com/2016/06/30/elizabeth-warrens-consolidation-speech-could-change-the-election/)\n\n#10yrsago White House plan to use data to shrink prison populations could be a racist dumpster fire [https://www.wired.com/2016/06/white-house-mission-shrink-us-prisons-data/](https://www.wired.com/2016/06/white-house-mission-shrink-us-prisons-data/)\n\n#10yrsago Even if Moore's Law is \"running out,\" there's still plenty of room at the bottom [https://www.technologyreview.com/2016/05/13/245938/moores-law-is-dead-now-what/](https://www.technologyreview.com/2016/05/13/245938/moores-law-is-dead-now-what/)\n\n#10yrsago Black-hat hacker handles are often advertisements [https://www.wired.com/beyond-the-beyond/2016/07/web-semantics-modern-german-black-hat-hacker-handles/](https://www.wired.com/beyond-the-beyond/2016/07/web-semantics-modern-german-black-hat-hacker-handles/)\n\n#10yrsago Spotify threatens to report Apple to competition regulators over App Store rejection [https://web.archive.org/web/20160630220301/https://www.recode.net/2016/6/30/12067578/spotify-apple-app-store-rejection](https://web.archive.org/web/20160630220301/https://www.recode.net/2016/6/30/12067578/spotify-apple-app-store-rejection)\n\n#10yrsago Researchers find over 100 spying Tor nodes that attempt to compromise darknet sites [https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Noubir](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Noubir)\n\n#5yrsago Exxon lobbyist confesses to his crimes [https://pluralistic.net/2021/07/01/basilisk-tamers/#exxonknew](https://pluralistic.net/2021/07/01/basilisk-tamers/#exxonknew)\n\n#5yrsago When the Sparrow Falls [https://pluralistic.net/2021/07/01/basilisk-tamers/#rage-against-the-machine](https://pluralistic.net/2021/07/01/basilisk-tamers/#rage-against-the-machine)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- London: Idler Festival, Jul 11\n\n[https://www.idler.co.uk/festival/](https://www.idler.co.uk/festival/)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/cory-doctorow/](https://festivalofdangerousideas.com/cory-doctorow/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#recent))\n\n- Lawfare Daily\n\n[https://www.youtube.com/watch?v=T1KIwaYRs1g](https://www.youtube.com/watch?v=T1KIwaYRs1g)\n\n- \nHow to Think About AI (Organized Money)\n\n[https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow](https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow)\n\n- \nBreaking Points\n\n[https://www.youtube.com/watch?v=VJmUbkRqXeE](https://www.youtube.com/watch?v=VJmUbkRqXeE)\n\n- \nA.I. Enshittifies Everything (Slate)\n\n[https://slate.com/podcasts/what-next-tbd/2026/06/cory-doctorow-thinks-a-i-is-overvalued-and-overrated-and-still-a-threat](https://slate.com/podcasts/what-next-tbd/2026/06/cory-doctorow-thinks-a-i-is-overvalued-and-overrated-and-still-a-threat)\n\n- \nA World That Just Might Work\n\n[https://aworldthatjustmightwork.com/2026/06/cory-doctorow-ai-use-it-dont-buy-the-hype-dont-feed-the-bubble/](https://aworldthatjustmightwork.com/2026/06/cory-doctorow-ai-use-it-dont-buy-the-hype-dont-feed-the-bubble/)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/07/01/ontogeny/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/07/01/ontogeny/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Startup",
+          "Systems"
+        ],
+        "published_at": "Wed, 01 Jul 2026 15:14:12 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms - Valve finally announced the price of the Steam Machine, and like a lot of new gadgets thes...",
+    "The Talk Show: ‘Taking Drugs to Get Fat’ - ## [The Talk Show](https://daringfireball.net/thetalkshow/) ## ‘Taking Drugs to Get Fat’,...",
+    "PlayStation Plus and Xbox Game Pass Subscriptions - [Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/...",
+    "404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses - ”Hide My Email users deserve to know that it may be possible for attackers to discover the...",
+    "The CRA is not about open source - At [FOSDEM](https://fosdem.org/2026/) in February and again at [UN Open Source Week](https..."
+  ],
+  "wordcloud": [
+    {
+      "word": "ai",
+      "count": 7
+    },
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "email",
+      "count": 5
+    },
+    {
+      "word": "hardware",
+      "count": 4
+    },
+    {
+      "word": "content",
+      "count": 4
+    },
+    {
+      "word": "business",
+      "count": 4
+    },
+    {
+      "word": "model",
+      "count": 4
+    },
+    {
+      "word": "search",
+      "count": 4
+    },
+    {
+      "word": "valve",
+      "count": 4
+    },
+    {
+      "word": "bulkdatasets",
+      "count": 3
+    },
+    {
+      "word": "en",
+      "count": 3
+    },
+    {
+      "word": "article",
+      "count": 3
+    },
+    {
+      "word": "observability",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "open",
+      "count": 3
+    },
+    {
+      "word": "independence",
+      "count": 3
+    },
+    {
+      "word": "day",
+      "count": 3
+    },
+    {
+      "word": "side",
+      "count": 3
+    },
+    {
+      "word": "show",
+      "count": 3
+    },
+    {
+      "word": "john",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "hide",
+      "count": 3
+    },
+    {
+      "word": "stories",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "central",
+      "count": 2
+    },
+    {
+      "word": "delannoy",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "corner",
+      "count": 2
+    },
+    {
+      "word": "aivd",
+      "count": 2
+    },
+    {
+      "word": "mivd",
+      "count": 2
+    },
+    {
+      "word": "de",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "earliest",
+      "count": 2
+    },
+    {
+      "word": "tom",
+      "count": 2
+    },
+    {
+      "word": "guide",
+      "count": 2
+    },
+    {
+      "word": "dated",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "winning",
+      "count": 2
+    },
+    {
+      "word": "monetization",
+      "count": 2
+    },
+    {
+      "word": "gateway",
+      "count": 2
+    },
+    {
+      "word": "charge",
+      "count": 2
+    },
+    {
+      "word": "behind",
+      "count": 2
+    },
+    {
+      "word": "web",
+      "count": 2
+    },
+    {
+      "word": "year",
+      "count": 2
+    },
+    {
+      "word": "agentic",
+      "count": 2
+    },
+    {
+      "word": "creators",
+      "count": 2
+    },
+    {
+      "word": "rules",
+      "count": 2
+    },
+    {
+      "word": "getting",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "traffic",
+      "count": 2
+    },
+    {
+      "word": "options",
+      "count": 2
+    },
+    {
+      "word": "customers",
+      "count": 2
+    },
+    {
+      "word": "website",
+      "count": 2
+    },
+    {
+      "word": "owners",
+      "count": 2
+    },
+    {
+      "word": "manage",
+      "count": 2
+    },
+    {
+      "word": "attribution",
+      "count": 2
+    },
+    {
+      "word": "insights",
+      "count": 2
+    },
+    {
+      "word": "rather",
+      "count": 2
+    },
+    {
+      "word": "involved",
+      "count": 2
+    },
+    {
+      "word": "airtight",
+      "count": 2
+    },
+    {
+      "word": "hatchway",
+      "count": 2
+    },
+    {
+      "word": "changing",
+      "count": 2
+    },
+    {
+      "word": "administrative",
+      "count": 2
+    },
+    {
+      "word": "settings",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "returns",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "explains",
+      "count": 2
+    },
+    {
+      "word": "doesn",
+      "count": 2
+    },
+    {
+      "word": "subsidize",
+      "count": 2
+    },
+    {
+      "word": "platforms",
+      "count": 2
+    },
+    {
+      "word": "lot",
+      "count": 2
+    },
+    {
+      "word": "talk",
+      "count": 2
+    },
+    {
+      "word": "taking",
+      "count": 2
+    },
+    {
+      "word": "drugs",
+      "count": 2
+    },
+    {
+      "word": "fat",
+      "count": 2
+    },
+    {
+      "word": "net",
+      "count": 2
+    },
+    {
+      "word": "moltz",
+      "count": 2
+    },
+    {
+      "word": "june",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "explaining",
+      "count": 2
+    },
+    {
+      "word": "addresses",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "source",
+      "count": 2
+    },
+    {
+      "word": "fosdem",
+      "count": 2
+    },
+    {
+      "word": "org",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "nuremberg",
+      "count": 2
+    },
+    {
+      "word": "tusa",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jul",
+      "count": 2
+    }
+  ]
+}
