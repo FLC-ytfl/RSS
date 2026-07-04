@@ -1,0 +1,526 @@
+{
+  "date": "2026-07-04",
+  "stats": {
+    "total_fetched": 269,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Does additional data always reduce posterior variance?",
+        "summary": "A discussion over lunch today brought up the fact that additional data does not always decrease the size of a confidence interval. This post will look at this from a Bayesian perspective. In general, new information redu...",
+        "url": "https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Sat, 04 Jul 2026 02:50:36 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Combined 1D and 2D Barcodes",
+        "summary": "This was a little idea gnawing at the back of my brain. The humble barcode has been in use since the 1970s. In the next few years it will likely be replaced with a 2D QR Code. I couldn't find anyone who'd made a QR code...",
+        "url": "https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Hardware"
+        ],
+        "published_at": "Sat, 04 Jul 2026 11:34:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 07/04/26",
+        "summary": "Households without homeowners insurance, crackdowns on AI chip smuggling, Japan’s two electrical frequencies, Meta’s AI compute business, and more.",
+        "url": "https://www.construction-physics.com/p/reading-list-070426",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Hardware"
+        ],
+        "published_at": "Sat, 04 Jul 2026 12:03:22 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-04T22:46:05.573Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "From the DF Archive: ‘Electron and the Decline of Native Apps’",
+        "summary": "[SwiftOnSecurity, regarding Microsoft’s switch to Chromium as Windows’s built-in rendering engine](https://twitter.com/SwiftOnSecurity/status/1069776335336292352):\n\n> This isn’t about Chrome. This is ",
+        "content": "[SwiftOnSecurity, regarding Microsoft’s switch to Chromium as Windows’s built-in rendering engine](https://twitter.com/SwiftOnSecurity/status/1069776335336292352):\n\n> This isn’t about Chrome. This is about ElectronJS. Microsoft\n> thinks EdgeHTML cannot get to drop-in feature-parity with Chromium\n> to replace it in Electron apps, whose duplication is becoming a\n> significant performance drain. They want to single-instance\n> Electron with their own fork.\n\n> \n> Electron is a cancer murdering both macOS and Windows as it\n> proliferates. Microsoft must offer a drop-in version with native\n> optimizations to improve performance and resource utilization.\n\n> \n> This is the end of desktop applications. There’s nowhere but\n> JavaScript.\n\nI don’t share the depth of their pessimism regarding native apps, but Electron is without question a scourge. I think the Mac will prove more resilient than Windows, because the Mac is the platform that attracts people who care. But I worry.\n\nIn some ways, the worst thing that ever happened to the Mac is that it got so much more popular a decade ago. In theory, that should have been nothing but good news for the platform — more users means more attention from developers. The more Mac users there are, the more Mac apps we should see. The problem is, the users who really care about good native apps — users who know [HIG](https://developer.apple.com/design/human-interface-guidelines/macos/) violations when they see them, who care about performance, who care about Mac apps being *right* — were mostly already on the Mac. A lot of newer Mac users either don’t know or don’t care about what makes for a good Mac app.\n\nThere have always been bad Mac apps. But they seldom achieved any level of popularity because Mac users, collectively, rejected them. Microsoft Word 6.0 is the canonical example. Word 5 for Mac was a beloved app and solid Mac citizen. Word 6 was a cross-platform monstrosity. Mac users rejected it, and its rejection prompted Microsoft — at the height of its mid-’90s power and arrogance — to completely re-think its Mac strategy and create a new business unit devoted to the Mac. [Microsoft’s Rick Schaut wrote a terrific piece on the whole saga back in 2004](https://blogs.msdn.microsoft.com/rick_schaut/2004/02/26/mac-word-6-0/):\n\n> OK, so Mac Word 6.0 was big and slow relative to the memory that\n> most computers had available at the time we shipped it, but that’s\n> not the reason why Mac Word 6.0 was such a crappy product, or at\n> least not directly. [...]\n\n> \n> Moreover, while people complained about the performance, the\n> biggest complaint we kept hearing about Mac Word 6.0 was that it\n> wasn’t “Mac-like.” So, we spent a lot of time drilling down into\n> what people meant when they said it wasn’t “Mac-like.” We did\n> focus groups. Some of us hung out in various Usenet newsgroups. We\n> talked to product reviewers. We talked to friends who used the\n> product. It turns out that “Mac-like” meant Mac Word 5.0.\n\n> \n> We spent so much time, and put so much effort into, solving all\n> the technical problems of Mac Word 6.0 that we failed to make the\n> UI of Mac Word 6.0 behave like Mac Word 5.0. [...]\n\n> \n> The other thing we figured out as a result of coming to understand\n> what “Mac-like” meant was that we weren’t going to be able to\n> deliver “Mac-like” products if Office remained a singular product\n> from which both the Win and Mac versions were built. The mere fact\n> that “Mac-like” was an issue at all meant that there were some\n> fundamental differences between the Win Word market and the Mac\n> Word market. If we were to understand both those markets, then our\n> Mac products and Win products needed separate marketing and PGM\n> organizations. The lessons we learned from Mac Word 6.0 are some\n> of the reasons that Mac BU exists today.\n\nI disagree, strongly, with one aspect of this: what Mac Word users saw as Mac-like wasn’t whatever Word 5 was — it was that Word 5 really was Mac-like in design. Word 6 wasn’t objected to for being different, it was objected to for being literally un-Mac-like. It looked and worked like Word for Windows.\n\nAs un-Mac-like as Word 6 was, it was far more Mac-like then than Google Docs running inside a Chrome tab is today. Google Docs on Chrome is an un-Mac-like word processor running inside an [ever-more-un-Mac-like web browser](https://twitter.com/gruber/status/1062419383350448128). What the Mac market flatly rejected as un-Mac-like in 1996 was better than what the Mac market tolerates, seemingly happily, today. Software no longer needs to be Mac-like to succeed on the Mac today. That’s a tragedy.\n\nEven Apple, of all companies, is shipping Mac apps with glaring un-Mac-like problems. The “Marzipan” apps on MacOS 10.14 Mojave — News, Home, Stocks, Voice Memos — [are dreadfully bad apps](http://benjaminmayo.co.uk/marzipan). They’re functionally poor, and design-wise foreign-feeling. I honestly don’t understand how Apple decided it was OK to ship these apps.\n\nAnother one I just ran into on Mojave is the new Mac App Store app. It certainly looks nice, [but I noticed a few days ago that it doesn’t support the Page Down and Page Up keys for scrolling](https://twitter.com/gruber/status/1070339868184797184) (nor the Home and End keys for jumping to the top and bottom) in *any* of its views.[1](#fn1-2018-12-07) Open an article and hit Page Down, and instead of scrolling down, it just beeps. Beeps, I say. The only way to scroll is with a mouse or trackpad. In an app from Apple, used by nearly everyone. Even the Marzipan apps support these keys for scrolling, which shouldn’t be surprising, because support for these keys and other standard behavior comes for free with the underlying developer frameworks. The Mojave App Store app must be doing something [very strange](https://twitter.com/lapcatsoftware/status/1070346157442981890) for these keys *not* to work.[2](#fn2-2018-12-07)\n\nThe Mojave App Store app certainly isn’t written using Electron. But the problem with Electron apps isn’t really Electron — it’s the decline in demand for well-made native Mac apps. And that is ominous. The biggest threat to the Mac isn’t iPads, Chromebooks, or Windows 2-in-1’s — it’s apathy towards what makes great Mac apps great. [As I tweeted regarding this Page Down/Up thing](https://twitter.com/gruber/status/1070349550387380225):\n\n> Things like this are canaries in the coal mine regarding the state\n> of the Mac. If even Apple doesn’t get basic fundamentals — like\n> supporting Page Up/Down, things which should work in a scrolling\n> view out of the box — how are we to expect any developer to?\n\nThe new App Store app on Mojave certainly looks better. But developers at Apple, of all companies, should know that [design is how it works](https://daringfireball.net/linked/2007/01/23/how-it-works).",
+        "url": "https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-07-04T19:28:45.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Fantastical 4.1.15 Adds Calendar Mirroring",
+        "summary": "![](https://storage.googleapis.com/flexibits-wordpress-production/2026/06/338f715f-blog-mirroring-transparent.svg)\n        \n\n      \n      \n        \n\n      \n\n      \n        Double-Booked? Never Heard o",
+        "content": "![](https://storage.googleapis.com/flexibits-wordpress-production/2026/06/338f715f-blog-mirroring-transparent.svg)\n        \n\n      \n      \n        \n\n      \n\n      \n        Double-Booked? Never Heard of It: Meet Calendar Mirroring in Fantastical!      \n\n      \n  \n    \n\n    \n  \n\n  \n  \n    \nWe’ve all played the dangerous game of calendar roulette. \n\nYou try to copy the “Dentist Appointment” from your personal calendar to your work one, miss it by an hour, and boom—now you’re supposed to be getting a root canal and presenting the Q3 marketing strategy at the exact same time.\n\nAwkward. 😬\n\nDon’t panic! That’s a thing of the past with Calendar Mirroring, which automatically keeps your calendars perfectly in sync.\n\n## **The Magic Behind the Mirror** 🪞\n\nCalendar Mirroring allows you to connect two separate calendars (like work and personal) so that events from one automatically show up on the other.\n\nThe best part? **No event information is sent to Flexibits servers or saved outside of your device**.\n\nYou can choose to show full event details or just block the time out as a mysterious, professional **“Busy”.** Your coworkers don’t need to know you’re getting a root canal, they just need to know you’re unavailable.\n\nHow it Works:\n\n- ⚡ **Instant One-Way Sync:** Move an event on Calendar A, and it dances over to Calendar B in real-time.\n\n- 🛡️ **Privacy Guard:** Keep personal details personal.\n\n## Ready to Get Started?\n\nSetting up your first mirrored calendar takes less than 2 minutes!\n\n![](https://storage.googleapis.com/flexibits-wordpress-production/2026/06/b1da99c9-calendar-mirroring.png)\n\n- Open Fantastical > Settings and select Mirroring\n\n- Choose your Source Calendar (*where the events will be coming from*) and your Destination Calendar (*where they will be going*)\n\n- Set your Mirrored Range. *Fantastical always looks 2 weeks in the past and then the amount of time that is set for this option in the future*\n\n- Choose which events to include\n\n- Choose the event details that are mirrored\n\n- Add the rule, then sit back and watch the magic happen\n\nRules are synced across devices, giving you automated peace of mind.\n\n*\n\n## Try it Today\n\nCalendar Mirroring is live for Mac and iOS, with Windows coming soon! Give it a try now to experience a perfectly synced life.\n\nHave questions or feedback about the new feature? Check out our [help section](https://flexibits.com/fantastical/help/calendar-mirroring) or reach out to our [Support](http://flexibits.com/contact) team.*",
+        "url": "https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-07-04T16:57:22.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Day One Journal",
+        "summary": "Today, Day One introduces [**Daily Chat**](https://dayoneapp.com/features/daily-chat/), a conversational journaling experience that helps you capture and reflect on your day through a simple back-and-",
+        "content": "Today, Day One introduces [**Daily Chat**](https://dayoneapp.com/features/daily-chat/), a conversational journaling experience that helps you capture and reflect on your day through a simple back-and-forth chat. Your conversation becomes a journal entry that preserves your words, your mood, and the moments that matter most.\n\nIt’s available now on iPhone, iPad, Android, Windows, and the web, found on the new Today Tab with [**Day One Gold**](https://dayoneapp.com/gold/). \n\n![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2026/03/dayone-daily-chat-01-scaled.png?resize=780%2C451&quality=80&ssl=1)\n\nVideo Demo:\n\nDaily Chat on iPhone\n\n## **Why Daily Chat Exists**\n\nSome days are full of moments worth remembering, but sitting down to write about them can feel like the hardest part. Not because the moments weren’t meaningful, but because translating a lived experience into words on a blank page takes a kind of energy that isn’t always there.\n\nDaily Chat was designed for those moments. Rather than starting with a blank entry, you start with a conversation. Think of it as a quiet back-and-forth that helps you slow down, recall what happened, and notice what it meant. Let a thoughtful follow-up question draw out something you might not have written on your own.\n\nThe result is a journal entry that reflects what you actually experienced, captured in your own words and shaped by reflection.\n\n## **How Daily Chat Supports Deeper Journaling**\n\nJournals hold their deepest value when they capture more than just what happened. The best entries hold context, emotion, and meaning — not only the events of a day, but how those events felt and why they mattered.\n\nDaily Chat supports this kind of memory preservation by guiding you through your day with care:\n\n**Follow-up questions surface what you might otherwise forget.** A prompt like “How did that make you feel?” or “What stood out about that moment?” can help you move from a surface-level recap to a richer, more personal reflection.\n\n**Your words stay your words.** The journal entry generated from your conversation reflects the language, tone, and mood of what you shared. Your voice remains at the center.\n\n**Small moments get captured, too.** Conversations have a way of uncovering the quieter details of a day — the ones that rarely make it into a traditional journal entry but often carry the most meaning over time.\n\n## **How Daily Chat Works**\n\n- **Open Daily Chat.** Open the new “Today” tab to find the Daily Chat section and start a new conversation.\n\n- **Talk through your day.** Share what happened, what you noticed, or what’s on your mind. Daily Chat will respond with thoughtful follow-up questions to help you reflect more deeply.\n\n- **Generate a journal entry.** When you’re ready, turn your conversation into a journal entry. The entry reflects your words, your tone, and your mood. Review and edit, or save and return to refine later.\n\n- **Resume and update anytime.** Come back to a previous conversation to add new details or continue reflecting. Updated conversations can update the daily entry to merge any edits to the entry or updates from chat. \n\n![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2026/03/dayone-daily-chat-02-scaled.png?resize=780%2C451&quality=80&ssl=1)\n\nDaily Chat also includes “Voice Mode” for a hands-free voice chat experience. Tap on the button to the right side of the text input to begin Voice chat.\n\n![](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2026/03/dayone-daily-chat-voice-mode-scaled.png?resize=780%2C451&quality=80&ssl=1)\n\n## **It Remembers What Matters to You**\n\nDaily Chat includes a Memory system that learns from your conversations over time. As you chat, it extracts key details — people, places, interests, things you care about — and uses them as context in future conversations. The more you use Daily Chat, the more personal and relevant it becomes.\n\nMemories are synced to your account using the same end-to-end encryption as your journal entries, so they’re as private as everything else in Day One. A full Memory manager is coming in a future update, giving you visibility into what’s been remembered and control over every detail.\n\n## **Daily Chat is Part of Day One Gold**\n\nDaily Chat is available with [**Day One Gold**](https://dayoneapp.com/blog/introducing-day-one-silver-and-gold/), a new tier designed for deeper reflection and memory preservation. The value grows over time — as you build a habit of reflective conversation, the entries become richer, and the practice becomes more personal.\n\n## **Privacy and Trust**\n\nJournaling is one of the most personal things a person can do. Adding AI to that experience requires care, transparency, and respect for boundaries. Daily Chat was built with those principles in mind.\n\n- **Fully opt-in.** Daily Chat is completely optional. AI features are only active if enabled from the opt-in prompt or in Settings > AI Features.\n\n- **Nothing is stored or used for training.** When you chat with AI, only the messages you choose to send are temporarily processed to generate responses or journal entries. Conversations are securely transmitted using encrypted protocols (HTTPS) and are never stored or used for AI training by Day One or our AI partners. Once processing is complete, the content is deleted and only stored encrypted.\n\n- **End-to-end encryption is respected.** If your journals are end-to-end encrypted, content is temporarily decrypted on your device only while AI generates a response, then re-encrypted immediately afterward.\n\n- **You remain in full control.** You decide when to use Daily Chat, what to share, and whether to save the generated entry. Nothing happens without your intent.\n\n*Day One is continuously exploring on-device AI models to make these experiences even more private in the future. Until then, the same commitment to privacy that has defined Day One from the beginning applies to every AI feature.*\n\n## **Getting Started**\n\nDaily Chat is available with Day One Gold on iPhone, iPad, Android, Windows, and the web. Open the new Today tab to find Daily Chat to begin your first conversation.\n\nThe moments of your day are worth preserving. Daily Chat helps you capture them with the context, emotion, and meaning they deserve.",
+        "url": "https://dayoneapp.com/blog/introducing-daily-chat/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-07-04T21:02:43.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Better Models: Worse Tools",
+        "summary": "written on July 04, 2026\n\n  \n\n  A very strange [Pi issue](https://github.com/earendil-works/pi/issues/6278)\nsent me down a rabbit hole over the last two days.  The short version is that\nnewer Claude m",
+        "content": "written on July 04, 2026\n\n  \n\n  A very strange [Pi issue](https://github.com/earendil-works/pi/issues/6278)\nsent me down a rabbit hole over the last two days.  The short version is that\nnewer Claude models sometimes call Pi’s edit tool with extra, invented fields in\nthe nested `edits[]` array.  And not Haiku or some small model: Opus 4.8.  The\nedit itself is usually correct but the arguments do not match the schema as\nthe model invents made-up keys and Pi thus rejects the tool call and asks to\ntry again.\n\nThat alone is not too surprising as models emit malformed tool calls sometimes.\nParticularly small ones.  What surprised me is that this is getting worse with\nnewer Anthropic models as both Opus 4.8 and Sonnet 5 show it but none of the\nolder models.  In other words, the SOTA models of the family are worse at this\nspecific tool schema than their older siblings.\n\nIn case you are curious about Fable: I intentionally did not test it because I\nwas not sure if the classifiers they are running might downgrade me to Opus\nsilently.\n\n## Tool Calls Are Text\n\nIf you have not spent too much time looking at LLM tool calling internals, the\nimportant thing to understand is that tool calls are not magic and use some\nrather crude in-band signalling.  The model receives a transcript, a system\nprompt and a list of available tools.  The server munches that into a large\nprompt with special marker tokens.  Because the model was trained and\nreinforced on examples of that format, at some point during generation it emits\nsomething that the API or client interprets as “call this tool with these\narguments”.\n\nFor a file edit tool, the intended invocation payload might say something like\nthis:\n\n{\n  \"path\": \"some/file.py\",\n  \"edits\": [\n    {\n      \"oldText\": \"text to replace\",\n      \"newText\": \"replacement text\"\n    }\n  ]\n}\n\nA harness then validates the arguments, performs the edit, and feeds the result\nback into the model.  If validation fails, the model sees an error and usually\ntries again.\n\nHow exactly that formatting happens is not known for the Anthropic models, but\nsome people have gotten out “ANTML” markers and they at times do leak also into\npublic communications.  To the best of my knowledge, the call above would come\nout serialized like this from the model:\n\n<antml:function_calls>\n  <antml:invoke name=\"edit\">\n    <antml:parameter name=\"path\">some/file.py</antml:parameter>\n    <antml:parameter name=\"edits\">\n[\n  {\n    \"oldText\": \"text to replace\",\n    \"newText\": \"replacement text\"\n  }\n]\n    </antml:parameter>\n  </antml:invoke>\n</antml:function_calls>\n\nAn important thing to note here is that this thing, while looking like XML, is\nnot really XML.  It’s just a thing they found convenient to tokenize and train\non.  The other thing to note is that a basic top-level string parameter appears\nin-line whereas an array of objects is implemented via JSON serialization.\nWhile I’m not *entirely sure* that this is how it works, there are some\nindications that this is not too far off.  This will become relevant later.\n\nThere are two very different ways to make the model produce a structure like\nthis:\n\n- You can *ask* the model to produce valid JSON matching a schema and then\nvalidate it afterwards.\n\n- You can constrain the sampler so that invalid JSON, or even invalid schema\nshapes, cannot be sampled in the first place.\n\nThe second approach is what people usually refer to as grammar-aware or\nconstrained decoding.  The sampler masks out tokens that would violate the\ngrammar.  If the model is currently inside a JSON object and the schema says\nonly `oldText` and `newText` are allowed, the sampler can prevent it from\nemitting `\"in_file\"` or `\"type\"`.  Grammar-aware decoding can be used both to\nconstrain something to be syntactically valid JSON and also to enforce specific\nenum values or keys.\n\nWithout any form of constraints the model is merely following a learned\nconvention.\n\n## The Failure\n\nPi’s edit tool supports multiple exact string replacements in one call.  That is\nwhy the arguments contain an `edits` array.  In the failing cases the model\nproduces entries like this:\n\n{\n  \"oldText\": \"...\",\n  \"newText\": \"...\",\n  \"requireUnique\": true\n}\n\nor this:\n\n{\n  \"oldText\": \"...\",\n  \"newText\": \"...\",\n  \"oldText2\": \"\",\n  \"newText2\": \"\"\n}\n\nAcross repeated trials I saw a whole zoo of invented trailing keys: `type`,\n`id`, `kind`, `unique`, `requireUnique`, `matchCase`, `in_file`,\n`forceMatchCount`, `children`, `notes`, `cost`, `oldText2`, `newText2`,\n`oldText_2`, `newText_2`, and even an `event.0.additionalProperties` key inside\nthe edit object itself.\n\nThe most annoying part is that the actual `oldText` and `newText` payloads were\nbyte-correct in the invalid calls I inspected.  The model had in fact produced\nthe right invocation but then added nonsense at the end of the object.\n\nThe failure is also heavily context-dependent.  A fresh single-turn prompt like\n“edit this file” did not reproduce it at all for me.  An agentic history where the\nmodel had read files, diagnosed a problem and then composed a multi-line edit\ncould reproduce it.  And more annoyingly, not all transcripts will show that behavior.\nIn fact, I needed [Petr Baudis](https://github.com/pasky)‘s transcripts to\nreproduce this for me at all!  In that user’s session continuing the session\ncaused Opus 4.8 to fail around 20% of the time.  Stripping thinking blocks from\nhistory reduced the failure rate by half.  Turning on strict tool invocation\neliminated it in my runs.\n\n## Why It’s Getting Worse\n\nMy strongest hypothesis is that this is not random deterioration but a training\nartifact.\n\nWhen older Anthropic models were trained, they were trained on some tools (some of\nwhich were documented).  But that training did not yet have a user-shipped\nharness like Claude Code as the obvious target.  Modern Anthropic models are\nmost likely different because their post-training includes Claude Code or a\nharness that looks very similar.  The model learns what a successful tool call\nlooks like in that environment.  It also learns what mistakes are tolerated by that environment.\n\nClaude Code’s own tools are comparatively flat.  The ordinary edit tool is not\nPi’s nested `edits[]` shape; it is closer to `file_path`, `old_string`,\n`new_string`, and an optional flag (`replace_all`).  Looking at Claude Code’s\nclient is very instructive: it contains retry paths for malformed tool use,\nparameter aliases, type coercions, Unicode repairs and filtering of unknown\nkeys.  In other words, Anthropic’s own client appears to expect and accept a\nfair amount of slop and repairs it, mostly silently.\n\nIf reinforcement learning happens in a harness like that, or a simulation of\none, then slightly malformed tool calls can still complete the task and receive\nreward.  The harness fully absorbs the error and there is little gradient\nagainst inventing an alias, adding a stray field or using a nearby parameter\nname.\n\nWorse, the model may become very strongly adapted to the canonical Claude Code\nedit tool shape.  A different harness can present a tool with the same semantic\nintent but a different schema.  Such a tool can increasingly be\noff-distribution.  The better-trained model might actually fight you harder\nbecause its prior is stronger.\n\nThis is not too surprising, but it is a change from how this was a few months ago.\nWhen Opus 4.5 launched, it adapted to other edit tools exceptionally well.  In\nfact, I was pretty convinced that we’re on a good path where the models are\nmore likely to adapt to any sort of tool shape that comes around for as long\nas the instructions are good.\n\nNow I’m somewhat worried about the track we’re on here.  Alternative tool\nschemas might not just be unfamiliar.  They might be implicitly punished by\npost-training that optimizes for one particular, forgiving tool ecology.  And\nthat ecology is not documented.  While there is a [text editor\ntool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool)\nthat is documented, you will see that this format is in fact not followed by\nClaude Code.  What Claude Code does internally (which is a closed-source\nharness) is hidden from you.\n\n## The Slop Harness\n\nClaude Code is obviously closed-source but we can look at the minified code and\nget some idea of what it does.  And honestly, it’s very forgiving of incoming\ndata.\n\nFor a start, Claude Code checks the model’s visible text for leaked `<invoke`\nmarkup.  It also emits some telemetry when that happens and then it has its\nown state machine to retry such bad calls by pushing back to the model.\n\nIt has explicit Unicode escape repair which fixes broken `\\uXXXX` sequences and\nlone surrogates in string values.  It also has per-tool aliases for parameters.\nFor instance, `Edit` accepts `old_str` (presumably from the times when the models\nwere trained on the officially documented text editor tool), the newer `old_string`\nfrom the schema, `new_str`/`new_string`, `path` as an alias for `file_path`, and some more.\n\nIt also silently filters out unexpected keys and it does not use `strict` mode\neither.  The issue with `strict` mode is that Anthropic applies complexity\nlimits to the tool definitions that cause API requests to fail, so presumably\nthat’s why Claude Code does not attempt to use it.\n\n## Strictness\n\nWill this problem be with us in other harnesses too?  One huge issue with\nAnthropic is that the models are completely closed, and so is the harness.\nCodex models are also closed, but at least the harness is not.  We also have\n[gpt-oss](https://github.com/openai/gpt-oss) which is at least a bit\ninteresting.  The models are explicitly trained to use OpenAI’s\n[harmony](https://github.com/openai/harmony) response format and there is\na lot of documentation that at least tells us how OpenAI people think about\nthis.\n\nHarmony makes channels and tool-call content types part of the prompt format.  A\nfunction call can look like this:\n\n<|start|>assistant<|channel|>commentary to=functions.get_weather\n<|constrain|>json<|message|>{\"location\":\"San Francisco\"}<|call|>\n\nThe important bit is `<|constrain|>json`.  The model can express in-band that\nthis message body is JSON, and an inference stack can use that boundary to\nswitch into JSON-constrained sampling for the body of the tool call.  Presumably\na bit of this also happens in Anthropic’s models, at least in `strict` mode\nI would imagine.\n\nThe marker in harmony helps the sampler to detect when it needs to sample with a\nspecific grammar, and because it is part of the transcript, it makes that rather\neasy to do.  For hosted GPT models, there is also an option to provide a\n[LARK](https://lark-parser.readthedocs.io/en/latest/grammar.html) grammar for\ncustom tools that need to adhere to something like this.\n\nAnthropic appears different from that, though maybe not entirely.  If an array\nof objects is represented as JSON, as it appears to be, then the model has to\nwrite JSON inside the tool parameter.  There is probably basic\ngrammar-constrained sampling going on, and that may partly explain the extra\nkeys.  For a nested array parameter, that JSON includes escaped multi-line file\ncontent inside string literals, inside one tag.  The unexpected,\nmade-up keys appear exactly at the highest-entropy point of that task: after\nclosing a several-hundred-token escaped `newText` string, where the model must\ndecide `}` vs `, \"...\"`.\n\nOpus 4.8 and Sonnet 5 seem to have much stronger priors about what an edit tool\ncall should look like and that prior appears to be Claude Code’s edit schema: a\nflat old/new string pair, plus the optional `replace_all` flag.  My guess is\nthat Opus has learned that an edit operation may have one extra optional field,\nbut under Pi’s nested `oldText`/`newText` shape it has no trained name for that\nfield.  So it samples a plausible name fresh each time, which is why the\nfailures produce dozens of random keys rather than one stable alias.\n\nAs `strict` mode in Anthropic appears to fix this, I presume that on the server\nside they are refusing to sample a key that is not permitted by the JSON schema\nstructure.  That would also explain why they have limits to the complexity of\nthe tool definitions when strict mode is enabled.\n\nSo far, the Codex models I tested did not show this type of regression.  I tested\nall available ones except 5.6, which I do not have access to yet.\n\n## What This Means For Harnesses\n\nThe uncomfortable lesson is that tool schemas are not neutral, at least not on\nAnthropic models.  We like to pretend that a schema is an abstract contract and\nthe model is a general reasoner that will follow it, but that might no longer be\nthe case for some of the tools.\n\nTool schemas are somewhere in the distribution and some shapes are close to\nwhat the model saw during post-training and some are far away.  Some are easy for\nthe provider’s hidden encoding (e.g. top-level attributes in ANTML), whereas some\nrequire the model to write large escaped JSON objects inside nested arrays after\nlong multiline strings.  The model may be smart enough to understand the schema\nand still be bad at sampling the exact shape under pressure.\n\nIf this type of model behavior continues, I wonder what the implications for\nharnesses are.  Obviously one could turn on `strict` sampling in\nAnthropic and the problem should go away.  On the other hand, that the model\nhas this behavior shows the impact that reinforcement learning has on them.\nFighting that prior is probably futile if you want to get the best model performance.\n\nRight now the reality is that Claude Code is not open source and we cannot\nreally know what they are doing in their RL environments either.  We cannot assume\nClaude-Code-trained behavior will transfer cleanly to your tools unless they are\na close match.  The more post-training happens inside one dominant harness, the\nmore every other harness will have to inherit its quirks.\n\nI used to be more skeptical of strict grammar-constrained tool invocation\nbecause constrained decoding can have quality tradeoffs.  I still think that can\nbe true in general, but this bug moved my priors significantly.  If the newest\nmodels get better at solving the task while getting worse at faithfully emitting\nan alternative tool schema, then the harness needs stronger guarantees\nsomewhere.\n\nIf you want to find out more, or you want to discuss this, consider reading the\n[issue on the Pi tracker](https://github.com/earendil-works/pi/issues/6278).\n\n  \n  This entry was tagged\n    \n      [ai](https://lucumr.pocoo.org/tags/ai/) and \n      [pi](https://lucumr.pocoo.org/tags/pi/)\n  \n\n  \n\n    [copy as](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools.md) / [view](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools.md) markdown",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "source": "Armin Ronacher's Thoughts and Writings",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-07-04T00:00:00.000Z",
+        "reading_time": 12,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "This Week in Package Management: 4 July 2026",
+        "summary": "Week seven of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastodo",
+        "content": "Week seven of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastodon.social/@andrewnez).\n\n## Releases\n\n[Hex 2.5.0](https://github.com/hexpm/hex/releases/tag/v2.5.0) adds organisation-defined dependency policies: an organisation publishes a named policy through its repository, a project opts in via `HEX_POLICY` or the `:hex` block in `mix.exs`, and resolution then filters out versions that carry an advisory above a given severity, are retired for listed reasons, or are newer than a release-age threshold.\n\n[Conan 2.30.0](https://github.com/conan-io/conan/releases/tag/2.30.0) adds SPDX expression support to its SBOM generation, a `conf=~` unset operator, and IntelCC support in the Meson, Autotools and Premake toolchains.\n\n[uv 0.11.25](https://github.com/astral-sh/uv/releases/tag/0.11.25) hardens tar handling against parser differentials via an updated `astral-tokio-tar`, so uv may now reject malformed source distributions it previously accepted, and writes a full lockfile into tool receipts. [0.11.26](https://github.com/astral-sh/uv/releases/tag/0.11.26) followed with resolver performance work reusing state across PubGrub iterations.\n\n[pixi 0.72.0](https://github.com/prefix-dev/pixi/releases/tag/v0.72.0) adds inline package manifests, so a git dependency without a Pixi Build manifest of its own can have build backend metadata set directly in the consuming project’s `dependencies` table.\n\n[mise 2026.7.0](https://github.com/jdx/mise/releases/tag/v2026.7.0) adds `mise install --monorepo` with a tri-state `[monorepo].lockfile` setting for a single root lockfile across config roots, a per-tool `github_attestations` option to disable GitHub Artifact Attestation verification for one tool, and enables shell expansion in `env` by default.\n\n[Rust 1.96.1](https://blog.rust-lang.org/2026/06/30/Rust-1.96.1/) is a point release fixing missing retries and timeouts in Cargo’s HTTP client and patching three libssh2 CVEs in the copy compiled into Cargo.\n\n[npm 12.0.0-pre.2](https://github.com/npm/cli/releases/tag/v12.0.0-pre.2) graduates the linked install strategy from experimental to stable and moves install-script approval under a dedicated `npm install-scripts` namespace.\n\n[brew-vulns 0.4.0](https://github.com/Homebrew/homebrew-brew-vulns/releases/tag/v0.4.0), which I maintain, uses the `resolves` field on formula patches added in Homebrew 6.0.4 to suppress false positives where the formula already carries a patch for the CVE, and records those as `analysis.state = resolved` in CycloneDX output.\n\nAlso out: [Homebrew 6.0.6](https://github.com/Homebrew/brew/releases/tag/6.0.6), [sbt 2.0.1](https://github.com/sbt/sbt/releases/tag/v2.0.1), [Cargo 0.97.2](https://github.com/rust-lang/cargo/releases/tag/0.97.2), [Deno 2.9.1](https://github.com/denoland/deno/releases/tag/v2.9.1), [Podman 5.8.4](https://github.com/podman-container-tools/podman/releases/tag/v5.8.4), [Harbor 2.15.2](https://github.com/goharbor/harbor/releases/tag/v2.15.2), [Dependabot Core 0.384.0](https://github.com/dependabot/dependabot-core/releases/tag/v0.384.0), [diffoscope 323](https://diffoscope.org/news/diffoscope-323-released/).\n\n## Security\n\n[Composer 2.10.2](https://github.com/composer/composer/releases/tag/2.10.2) and LTS [2.2.29](https://github.com/composer/composer/releases/tag/2.2.29) fix path traversal via package `bin` entries ([GHSA-gjfg-22fp-rrxx](https://github.com/advisories/GHSA-gjfg-22fp-rrxx)), credential leakage in verbose output ([GHSA-g6xq-892h-64w3](https://github.com/advisories/GHSA-g6xq-892h-64w3)), missing package name validation ([GHSA-499r-g7pc-vmp9](https://github.com/advisories/GHSA-499r-g7pc-vmp9)), and three further hardening changes around HTTP redirects, phar metadata and JSON error output.\n\n[Guix substitute and pull vulnerabilities](https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/) fixes four issues in the daemon and client: substitute extraction ran before hash verification so a malicious substitute could write arbitrary files as the daemon user, a substitute for one store item could be accepted in place of another, `file://` substitute URIs could leak daemon-readable files via error backtraces, and a malicious channel could overwrite user files via `guix pull` or `time-machine`. CVEs pending.\n\n[Mitigated: API bypass for download metadata on python.org](https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/) reports an authentication bypass in the python.org API where mixed handling of guest and API-key authentication could grant administrative privileges over download metadata; the fix separates the two modes and adds URL validation. Guix has a [tracking issue](https://codeberg.org/guix/guix/issues/6992) on the implications for its importer.\n\n[Hijacked npm and Go packages use VS Code tasks to deploy infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html) covers a campaign in which sixteen hijacked Go modules and a set of npm packages shipped fake font files and VS Code task definitions that fetched a Python infostealer.\n\n## Articles\n\n[GuixPkgs: every Guix package as a Nix flake](https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake) (Farid Zakaria) imports the full Guix package set into Nix by building a primitive that exposes each Guix derivation through a flake.\n\n[The Vulnerability Identity Crisis](https://research.empiricalsecurity.com/research/the-vulnerability-identity-crisis) (Jay Jacobs and Art Manion, Empirical Security) argues a vulnerability should be defined as a disposition, a structural property comprising a fault, conditions for exploitation, and a resulting security failure, rather than by surface characteristics.\n\n[Do excellent vulnerability reports](https://daniel.haxx.se/blog/2026/06/29/do-excellent-vulnerability-reports/) (Daniel Stenberg) is a guide for reporters on what an open source project needs from a vulnerability report to act on it.\n\n[All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30) (Andrew Kelley, Zig devlog) shifts package fetching, the HTTP client, TLS, the Git protocol and archive handling out of the `zig` binary into the build-side maker process, shipped as source. Networking now runs in `ReleaseSafe` with safety checks on and can be patched without rebuilding the compiler.\n\n## Papers\n\n[Mutating the “Immutable”: A Large-Scale Study of Git Tag Alterations](https://arxiv.org/abs/2606.31354) (Rapaport et al., arXiv) analyses 328.4 million repositories from Software Heritage and finds 10.2 million tags that were deleted or force-pushed after creation, undermining the assumption that a tag is a stable reference for reproducible builds.\n\n[Uncovering Similar but Different Packages in PyPI and Potential Security Threats](https://arxiv.org/abs/2606.29785) (Park et al., arXiv) measures package replication on PyPI, where a package duplicates most of an existing codebase, and traces how replicated packages propagate known vulnerabilities and provide cover for malicious variants.\n\n[Cloak and Detonate: Scanner Evasion and Dynamic Detection of Agent Skill Malware](https://arxiv.org/abs/2607.02357) (Ji et al., arXiv) builds payload transforms that evade all eight tested agent-skill scanners at over 90% via self-extracting packing, and proposes SkillDetonate, a sandboxed runtime auditor that catches 97% by observing behaviour at OS boundaries instead of inspecting at install time.\n\n[File-Level Copying Is an Implicit Dependency in Open Source](https://arxiv.org/abs/2607.02059) (He et al., arXiv) mines 690,500 copy events from World of Code and frames copied files as dependencies that lack the four signals a package manager provides: provenance, maintenance, security and compliance.\n\n## Elsewhere\n\nThe PSF has [announced the inaugural Python Packaging Council election](https://pyfound.blogspot.com/2026/06/packaging-council-inaugural-election.html), establishing a technical decision-making body for Python packaging specs that coordinates across tools and teams.\n\nThe [Open Source Pledge](https://opensourcepledge.com/) has a redesigned site marking $7 million paid to maintainers by member companies so far.\n\n[Once a Maintainer: Mike Dalessio](https://onceamaintainer.substack.com/p/once-a-maintainer-mike-dalessio) is an interview with the Nokogiri maintainer on the security work that comes with maintaining a widely depended-on gem.\n\n## git-pkgs\n\nI tagged fifteen repos this week:\n\n  - [git-pkgs v0.17.0](https://github.com/git-pkgs/git-pkgs/releases/tag/v0.17.0)\n\n  - [brief v0.9.2](https://github.com/git-pkgs/brief/releases/tag/v0.9.2)\n\n  - [managers v0.10.1](https://github.com/git-pkgs/managers/releases/tag/v0.10.1)\n\n  - [forge v0.6.0](https://github.com/git-pkgs/forge/releases/tag/v0.6.0)\n\n  - [registries v0.6.2](https://github.com/git-pkgs/registries/releases/tag/v0.6.2)\n\n  - [proxy v0.5.1](https://github.com/git-pkgs/proxy/releases/tag/v0.5.1)\n\n  - [manifests v0.6.0](https://github.com/git-pkgs/manifests/releases/tag/v0.6.0)\n\n  - [enrichment v0.4.1](https://github.com/git-pkgs/enrichment/releases/tag/v0.4.1)\n\n  - [resolve v0.2.2](https://github.com/git-pkgs/resolve/releases/tag/v0.2.2)\n\n  - [outline v0.1.6](https://github.com/git-pkgs/outline/releases/tag/v0.1.6)\n\n  - [purl v0.1.13](https://github.com/git-pkgs/purl/releases/tag/v0.1.13)\n\n  - [vulns v0.1.6](https://github.com/git-pkgs/vulns/releases/tag/v0.1.6)\n\n  - [pom v0.1.5](https://github.com/git-pkgs/pom/releases/tag/v0.1.5)\n\n  - [capcheck v0.1.1](https://github.com/git-pkgs/capcheck/releases/tag/v0.1.1)\n\n  - [distill v0.1.0](https://github.com/git-pkgs/distill/releases/tag/v0.1.0)\n\nSend links for next week to [@[email protected]](https://mastodon.social/@andrewnez).",
+        "url": "https://nesbitt.io/2026/07/04/this-week-in-package-management.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-07-04T10:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "megawatts by microwave",
+        "summary": "> In 1914 the Department of the Interior, through the Bureau of Reclamation,\n> investigated the possibilities of developing the Columbia River. Thousands of\n> arid but potentially fertile acres needed",
+        "content": "> In 1914 the Department of the Interior, through the Bureau of Reclamation,\n> investigated the possibilities of developing the Columbia River. Thousands of\n> arid but potentially fertile acres needed only water to become the Imperial\n> Valley of the Northwest. Locked in the mountain ranges were valuable ores\n> awaiting electricity to turn them into needed metals.\n\n> Two years later the State engineer of Oregon urged the development of the\n> Bonneville site as a national-defense measure: he saw in the proposed power\n> project a source of fertilizer in time of peace and nitrates in time of war.\n> The dam also would completely drown out the Cascade Rapids and extend\n> slack-water navigation some 40 miles eastward to The Dalles.\n\n> The Rivers and Harbors Act of 1925 directed the Secretary of War, through the\n> Corps of Engineers, United States Army, to prepare and submit to the Congress\n> an estimate of the cost of surveys, examinations, and investigations of all\n> navigable streams and their tributaries where power development appeared\n> feasible. (Q1)\n\nIt is difficult to succinctly explain why, exactly, the United States Army has\nspent much of its history involved in the construction of dams. It is partly an\naccident of history, partly the result of interagency federal politics, and\nentirely a product of American culture. In his book \"Cadillac Desert,\" Marc\nReisner examines the history of the American West's water control projects\nas a *religious* project, one animated less by practical needs than by a sense\nthat domination of the West's rivers was destiny.\n\nThe Bureau of Reclamation, part of the Department of the Interior, was formed\nfor that purpose. At the time, though, the Army had already been used to survey\nand improve rivers for nearly 100 years. They were not content to give it up. The\nresult was a rivalry, one with several feints and blows before the two settled\ninto their modern areas of control. For the Bureau of Reclamation, the Hoover\nDam was their signature project. For the Corps of Engineers, the battle that\nwould go down in history was the Columbia River Project.\n\n![](https://computer.rip/static/img/bpa/1.png)\n\nThe motivations for damming the Columbia were various. The Columbia was prone to\nflooding, which had caused damage and limited use of land along it. There was a\ngreat deal of land surrounding the Columbia that could be farmed, if the\nColumbia could be tapped for irrigation. Electricity, too, was a reason,\nalthough initially a somewhat secondary one. Perhaps the greatest reason,\nthough, was simply economic: by the time that the major parts of the Columbia\nRiver Project were truly underway, the nation was in the throes of the Great\nDepression.\n\nPresident Franklin D. Roosevelt was already a fan of hydroelectricity. As\ngovernor of New York, he was exposed to the pioneering Niagara Falls power plant\nand pushed for other similar projects in that state. As President, his \"New\nDeal\" naturally incorporated hydropower as well. By 1934, he had formed a\nRegional Planning Commission that sketched out a series of dams along the\nColumbia, two of which would become the Grand Coulee and the Bonneville. These\ndams would produce a tremendous amount of electricity, and unlike in other\nsimilar Corps of Engineers projects to date, that power would not all be\nconsumed by irrigation pumping. There was power to spare. To distribute that\npower, the Regional Planning Commission suggested an independent government\nagency on the model of the Panama Canal or the recently chartered Tennessee\nValley Authority.\n\nAs an interim measure, the loosely defined Bonneville Project coordinated the\ncivilian side of the Corps of Engineers project until 1938, when the Bonneville\nDam was complete and the Grand Coulee was much of the way there. The Bonneville\nDam captures little water in its reservoir, so while it does have flood control\nvalue, electrical production is its primary purpose. The dam's two powerhouses\nproduce up to 1.2 GW, an impressive number for the 1930s but one that pales in\ncomparison to the Grand Coulee's eventual (1970s) full capacity of nearly 7 GW.\nThe Columbia River dams increased the electrical capacity of the Pacific\nNorthwest by orders of magnitude; the numbers were significant even at a\nnationwide scale.\n\nThe bumper crop of electricity triggered a predictable controversy: what to do\nwith government power? One camp favored public control of the resource, with the\ngovernment marketing the power on some sort of equitable basis. The other\nfavored private control, arguing that the output of the dams should be\ncontracted entirely to private utilities like Portland General Electric (itself\nthe scion of an important early hydroelectric project at Willamette Falls). In\nthe New Deal political climate, the first camp won: the Columbia did not quite\nget a TVA, but Congress did charter the Bonneville Power Administration (BPA),\nthe first of what would come to be known as Power Marketing Agencies. Over the\nfollowing decades, the BPA became part of the Department of Energy\n(DoE)—uncharacteristically, for the DoE, a part of it that actually generated\nand sold electricity. Well, technically, the Corps of Engineers generates it,\nand the BPA markets and distributes it.\n\nIn any case, starting in the late 1930s, the BPA was tasked with the\nconstruction of a network that could distribute power from Columbia River dams\nthroughout the region—on an equitable, equal-rate basis often called the\n\"postage stamp rate\" that allowed rural coops to buy government-generated power\nat the same rate as the big city private utilities. The sudden bevy of power\nalong the Columbia and the fair rates at which it could be obtained in great\nquantity led to an industrial revolution for the region, one that saw it as the\nseat of the American aluminum industry (with the Columbia Gorge producing\nsomething like 1/3rd of the nation's aluminum through to the 1970s) and that\nboosted the fate of hundreds of related industries (aerospace and, specifically,\nBoeing not least among them). BPA power has enduring influence today, with many\ntowns on the Gorge (The Dalles, Boardman, Umatilla) disproportionately prominent\non a map of the nation's data centers. AWS's us-west-2, for example, is a\nbeneficiary of Columbia River dams and located near many of them—not just\nBonneville, but the Dalles (1.8 GW), John Day (2.2 GW), McNary (1.1 GW), and\nmore.\n\nIn marketing this power, the BPA faced a challenge: the dams are spread across a\nlarge area, as are the customers. Industrial customers, such as the Alcoa\n(Aluminum Company of America) smelter that opened in 1940 at Vancouver,\nWashington [1](#fn-1) were opening in rural areas where land was\nreadily available, and an explicit goal of the Columbia River Project had been\nthe extension of electricity to farmers and other rural industries. The concept\nof long-distance power transmission had been pioneered by an 1889 transmission\nline, the nation's first, between Willamette Falls at Oregon City and downtown\nPortland. Beginning in 1938, the BPA was tasked with expanding that concept\nacross a region that would eventually span eight states.\n\n## The Master Grid\n\nBPA's first administrator, J. D. Ross, presented a plan he called the BPA Master\nGrid. This ring-shaped network, made up of 230 kV long-distance transmission\nlines, would connect the dams not only to Portland and Seattle but to Pasco,\nYakima, Spokane, Ellensburg, the Willamette Valley through to California, and\nthe Oregon Coast. By 1945, the Master Grid covered three thousand \"Circuit\nMiles\" of transmission lines. It was the first integrated regional power grid\nin the United States, and would come to pioneer the market-based electricity\npricing and distribution, independent system operators (ISOs), and pooling and\nwheeling agreements that form the modern US electrical infrastructure. The\nentire Western Interconnection, the unified power system that serves the US and\nCanada from the Rocky Mountains west, can be said to have crystallized outwards\nfrom the seed of the Bonneville Dam's switch yard.\n\n![](https://computer.rip/static/img/bpa/2.png)\n\nGetting there required that the BPA solve formidable technical problems and\ndevelop many new technologies in power distribution. BPA transmission lines\noperated at higher voltages than any before them and, in the 1960s, introduced\nhigh voltage DC transmission to the Americas, connecting the Columbia system to\nthe major demand centers of Southern California at 800 kV DC. BPA was only\nslightly behind the TVA on the installation of a remarkable analog computer\ncalled a Network Analyzer, in 1939, which simulated the behavior of the\ntransmission network like a scale model. The rural nature of the BPA network put\nsubstations in remote areas, where they were minimally staffed, and the long\nstretches of high-voltage transmission line meant there was ample potential for\ndamage by wind, weather, and trees, phenomena that the BPA came to better\nunderstand through research laboratories and experimental field sites.\n\nThis is not an article about the history of electrical distribution, or at least\nit wasn't supposed to be, so here we must exercise some discipline and narrow in\non a topic. Telecommunications ought to do.\n\nBy 1940, as the Master Grid entered operation, its numerous substations already\ncaused administrators a headache. Each had a small staff of technicians, but\ncommunicating with them was difficult. Coordinating changes across large areas,\nor quickly responding to faults, involved a flurry of telephone and radio calls.\nWhen Portland General Electric built the transmission line from Willamette Falls\nto Portland, they encountered the same problem, and by the 1910s had implemented\na very early form of its solution: telemetry and teleoperation. Through a set of\ncontrol wires strung along the transmission line, operators in Portland could\nsee certain measurements from the Oregon City powerhouse and remotely throw\nswitches to bring turbines on and offline in response to load. As the BPA built\nthe Master Grid, they invested in the same technology.\n\nAround 1939, the BPA commissioned a study of communications technology that\ncould be used along the Master Grid. There were three main contenders:\ncommercial telephone networks (which BPA called \"land telephone\" to\ndifferentiate it from the other two), \"carrier current telephone\" technology\nthat superimposed telephone signals onto the electrical conductors of the\ntransmission lines themselves, and radiotelephone equipment. A working agreement\nwas reached with Pacific Telephone & Telegraph, the Bell System company that\nwould later become US West, to share network information and analyze the cost\ntradeoffs between purchasing carrier current and radio equipment and leasing\ntelephone lines. Ultimately, the diversity of the BPA network required some of\nall three.\n\nEach of the BPA's substations had a building, called the control house, that\ncontained control and monitoring equipment along with office facilities for the\nsubstation's operators. A room of each control house was dedicated to carrier\nequipment, devices that modulated multiple telephone circuits using frequency\ndivision multiplexing, and to a set of carrier frequencies that could be coupled onto\nthe transmission lines to be received at the next substation. This equipment is\nsimilar to carrier equipment used in the telephone network, although specialized\nto power distribution applications by the choices of carrier frequency. I cannot\nsay for certain, but it is very likely that BPA purchased their system from\nLenkurt, a San Francisco-based communications equipment manufacturer that\nspecialized in carrier current systems at the time [2](#fn-2).\n\nThe BPA's carrier system incorporated selective calling, meaning that users\ninteracted with telephones that looked and felt much like conventional\ntelephones, including a dial. An operator at one substation could dial the\nnumber for another and that phone would ring. The main difference from the\ntelephones we use today is that these carrier current systems were interphones,\nmore similar to intercoms or party lines than single-user telephone service. If\nyou picked up a phone on a circuit, you would hear any conversations already\nunderway. Of course, in industrial control applications, this built-in\nconferencing capability was generally considered a feature, and telephone\ncircuits were assigned to shared use by departments or operating regions.\n\n![](https://computer.rip/static/img/bpa/3.png)\n\nRadio was installed as well, primarily so that construction and maintenance\ncrews in the field could get messages back to the administrative offices. Some\nsubstations, in strategic locations for coverage, had a radio site about a half\nmile from the substation for isolation from the powerful electromagnetic\ninterference created by the high-voltage transformers. These radio sites were\nwired to remote heads located in the substation control house office, where\nsubstation operators relayed messages between mobile radios in the field and the\ncarrier current telephone system. Bear in mind that these were still early days\nfor mobile radios, and the HF units used by the BPA were proudly described as\nusing only 1.5 cubic feet of space in the trunk of the vehicle, plus the\nmicrophone, speaker, and control head in the cab. Finally, while not the main\npurpose, it was already noted in the 1940 Annual Report that the substations\ncould use the radio stations to substitute for the carrier current system in an\nemergency.\n\nComplementing all of the above, the BPA leased telephone lines between major\nsubstations, agency headquarters in Portland, and the switch yard in Vancouver\nthat was becoming the closest thing to a \"main substation\" in the network's\ndistributed, ring-shaped design.\n\nImmediately after the BPA's first Annual Report discusses the selection of\ncommunications equipment, it moves on to Protection. Here I must introduce a\ntopic in electrical engineering that I have only a loose understanding of, even\nhaving spent the last few weeks in part on YouTube engineering tutorials. It's\nimportant that we get comfortable with the field of \"protective relaying\"\nbecause, as we will see, it became the most widespread application of private\ntelecommunications networks after the railroads.\n\n## Protective Relaying\n\nIn your home, you are protected against certain dangerous scenarios by the\nover-current protection device that we Americans call a circuit breaker. The\nelectromechanical contraptions in your service panel use a combination of\nmethods to monitor the current that passes through them, and if they detect\nexcessive current they open the circuit. The electrical transmission system has\nsimilar protections on a larger scale: on the distribution wires strung on poles\noutside of your house, for example, there are various fuses and\ncircuit-breaker-like devices known as reclosers. High-tension transmission lines\n[3](#fn-3), like the 230 kV system built by the BPA, need similar protection for\nsimilar reasons—except that it is much more complex.\n\nElectrical terminology can be complicated on a good day, and this situation is\neven more complex because of the historic bifurcation between terms and\npractices in building electrical wiring versus electrical distribution (which\nare governed, for example, by two separate electrical codes) and the fact that\nwe are talking about a system that is nearly 100 years old. Relays were a newer\ntechnology in the 1930s, as was large-scale over-current protection, so\ntransmission engineers viewed circuit breakers as just an application of the\nrelay and over-current protection on power distribution is still referred to as\n\"relaying\" today. Since the whole broader field of supervising transmission\nlines for safety and reliability is called \"protection,\" relays that open to\nprotect generators, lines, or loads from dangerous conditions are called\n\"protective relays.\"\n\nSome of the protective relays used in transmission are very much like the\ncircuit breakers in your home. Directional over-current relays, for example,\nmonitor the current passing through them in one direction (\"towards\" the load)\nand open if it is excessive. Ground fault relays open when they detect, via\nvarious current transformers, that an excessive amount of power is leaking to\nthe ground—just like the GFCI outlets or breakers installed in wet areas of\nhomes.\n\nSome of them, though, are much trickier. The first major problem is\ndirectionality. In your home electrical wiring, there is a clear sense of where\npower flows \"from\" (the service panel) and \"to\" (an outlet or fixture). Wiring\nthus only needs over-current protection in one direction. In a wide-area\ntransmission network, this isn't true. The Master Grid was designed to\nincorporate a ring for much the same reason that SONET and other communications\ntechnologies favored rings: with a ring topology, you can lose the connection\nbetween two points and still be able to serve all points by sending power the\n\"other direction.\" In general, it is common that electrical transmission lines\ncan be \"fed\" from both ends, and have \"load\" on both ends. This flexibility to\nreach the same places by different routes makes the grid more reliable and\nresponsive to changes. It also makes over-current protection more challenging.\n\nSay that you have a span of transmission line, and that somewhere along it a\ntree falls and pushes one conductor against another. You now have a\nshort-circuit fault at 230 kV (or more in later lines), a dramatic and\ndangerous condition. You also have thousands, if not hundreds of thousands, of\ncustomers that are depending on the power provided by that line. Current\ntransformers can measure the enormous fault current, and indeed it will be\ndetected at many points along the line. But what do you do?\n\n![](https://computer.rip/static/img/bpa/4.png)\n\nIdeally, protective relays should open on both sides of the fault, and as close\nto the fault as possible. This cuts power to the dangerous situation while\nminimizing the number of customers who experience an outage. It's also difficult\nto achieve in practice: you cannot simply open a protective relay on\nover-current, or every relay on the line will open at the same time. Instead,\nanalog circuits were used to measure the impedance to the fault as a proxy for\nits distance. This way protective relays could be carefully tuned to open only\nwhen a fault was *near* them.\n\nNow, consider that a transmission line may be \"tapped\" and connected to load\ncenters or generation at multiple points along its length. There may also be\nmultiple parallel routes that current can take, with varying capacities. Both of\nthese situations mean that it is often necessary to measure the current (to\ndetect faults) at locations remote from the actual protective relays, which are\nlarge devices that needed to be located at substations. Further, the\ncomplications of parallel routes and possible ground faults on long lines\nrequired the use of a \"differential protective relay\" or \"balanced current\nrelay\" that took a much higher level approach to the problem. In a differential\nsystem, you measure the current at every connection point to a given protection\nzone and sum them. The sum should be zero: the same amount of current goes into\nthe line as comes out. If it's not, something has gone wrong somewhere, likely\ncurrent that is escaping to ground or traveling on a parallel route not\nengineered for such abuse. But the points where you measure current may be\nmany miles apart, and you still need to make real-time comparisons between them.\n\nIn 1940, the BPA was already planning the installation of \"pilot relaying\" over\ntheir carrier current telephone system. In an engineering context, a \"pilot\" is\nusually something small that controls something big. A pilot operated relief\nvalve (PORV), for example, is an arrangement where dangerous pressure levels (of\na liquid or gas) cause a small pilot valve to open which then triggers a\npressure differential in a much bigger valve that causes it to open. There is a\nsimilar idea in protective relaying: a pilot-operated relay is a relay that\ndisconnects a very big wire under the control of a smaller wire carrying a pilot\nsignal. The simplest scheme works like this: a device, like a current\ntransformer, monitors a safety parameter and produces a tone whenever it is\nacceptable. Elsewhere, a protective relay monitors that tone. If the tone ever\ngoes away, the relay opens. The tone might go away because the pilot device\ndetected an unsafe condition, but it might also go away because the line\ncarrying the pilot signal was damaged, making it a fail-safe design. This is\ngood for safety, but bad for reliability, and requires that the communications\ninfrastructure used for protective relaying be very reliable.\n\nUnfortunately, it was not: the carrier current systems installed by BPA through\nthe 1940s were typical of the technology used in the industry at the time, but\nit was ill-equipped for the scale of the Master Grid. In part to alleviate\nconcern of federal competition wiping out private utilities, and to improve\ngeneral efficiency, the BPA formed the Northwest Power Pool in 1941. Initially\nmade of about a dozen electrical utilities in the Pacific Northwest, the Power\nPool formalized a set of arrangements by which utilities would buy and sell\npower among themselves, carried over the BPA's transmission network for a small\n\"wheeling\" fee. The Northwestern Power Pool would eventually become the Western\nPower Pool and a template for much of the nation's electrical industry. It\nsignificantly increased reliability and efficiency in the region by allowing\nutilities to sell their overproduction to utilities with high demand, and vice\nversa. It also brought the carrier communications system to its knees: a\npractical requirement of the power pool arrangement with wheeling over the BPA's\ntransmission lines was that those transmission lines had to carry protective\nrelaying pilot signals for all of the utilities involved.\n\nA severe fault in a utility taking power off of a BPA line, for example, might\nrequire opening protective relays at a power plant operated by a different\nutility somewhere else on that line. New techniques for communications-aided\nprotective relaying were under development, things like \"permissive\nunderreaching transfer trip\" and \"permissive overreaching transfer trip\" that\nare difficult to explain briefly. These required that protective equipment at\neach substation have information about the state of protective equipment at all\nof the other substations, in order to make decisions that are not just based on\nlocal conditions but are globally optimal for the health of the whole line.\n\n![](https://computer.rip/static/img/bpa/6.png)\n\nFor example, avoiding a dangerous \"islanding\" condition on a transmission line\nmight require opening relays at three or more locations along the line, but\nopening any relays beyond those required would simply cause unnecessary outages.\nFurther, reliability is key and some types of faults on high-voltage lines are\nself-clearing (this is sort of a euphemism for the fact that a tree branch\nbridging sufficiently high-tension conductors will often be knocked off of them,\nif not vaporized entirely, by the resulting arc). Some protective relays are\n\"reclosing\" (and are often referred to in brief as \"reclosers\"), meaning that\nthey will automatically reset (close) after a brief wait period. Some of the\ntime, the fault will be gone and service is restored. Reclosing is potentially\ndangerous, though, and especially in transmission networks reclosing is only\ndesirable in certain circumstances. Further pilot signals can be used to enable\nand disable reclosers based on the nature of the fault or the other locations at\nwhich it was detected, so that for example a fault that has taken a power plant\noffline does not lead to a recloser elsewhere \"flapping\" and stressing the\nremaining production capacity.\n\nBy the end of the 1940s, the BPA's carrier telephone system was overstressed to\nthe point of failure. Power Pool utilities had connected their own carrier\nequipment, butting frequency bands so closely against each other that they began\nto interfere and degrade the quality of connections that could already be\ndifficult to make out over hundreds of miles of high voltage infrastructure.\nThe fact that a fault on a transmission line would generally prevent carrier\ncurrent communications over that line working was a feature for simple fail-safe\npilot relaying systems, but as protective relaying technology advanced it became\nthe source of cascading failures. For example, by the early 1950s the BPA had\nfound that lightning strikes on major transmission lines would cause enough\ninterference to the carrier current system that protective relays all along the\nline would lose their pilot signals, open as fail-safe, and escalate what should\nhave been a localized problem into a systemic one. Besides, many sections of the\nnetwork had by that time become so congested by various carrier current circuits\nthat there was simply no room in the spectrum for more—and so no capability to\ninstall protective equipment for new service lines.\n\n## Microwave\n\nMeanwhile, the Second World War had had a profound impact in two ways: first,\nwartime demand for weapons, aircraft, and aluminum had driven Pacific Northwest\nindustry to new heights. In 1949, power consumption in the Pacific Northwest had\nmore than tripled, and population increased by 45%, compared to 1939. The Corps\nof Engineers built more dams, so the BPA's network carried more power.\nEngineers at the Administration's laboratory\ndeveloped the techniques to operate transmission lines at record-setting\nvoltages, 300 kV and beyond—making protection systems all the more critical.\nSecond, wartime radar research had produced technological byproducts including\nhigh-bandwidth microwave transmitters and receivers.\n\n![](https://computer.rip/static/img/bpa/7.png)\n\nSo, the electrical industry adopted microwave communications technology\nalongside the telephone industry, and for much the same reasons. The high\nbandwidth of microwave links allowed for multiplexing huge numbers of channels,\nand the lack of wireline infrastructure (especially shared with the actual\ntransmission lines) promised increased reliability. In my previous article on\n[passive repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html),\nI noted that they were especially popular with electrical utilities. Now, we\nlearn why: utilities throughout the country built microwave communication\nsystems that carried a fraction of the traffic of the Bell System, but often\ncarried it to more remote locations and with higher reliability requirements.\n\nThe BPA's situation was different from that of more traditional utilities. Most\nprivate electrical utilities had started in a city and grown outwards, with a\ndenser service network and fewer long-distance lines. They had mostly built\nprivate networks for communications, stringing their own open-wire telephone\nlines between stations. The BPA, with its far-flung network and huge distances,\ncouldn't afford that kind of investment in stringing wires. In some ways, this\nproved an advantage: they could start from a clean slate. This network would be\narchitected from the beginning for efficiency and performance, rather than to\naccommodate existing infrastructure.\n\nWhile the BPA had initially built substations for a larger staff, the control\ntechnology was rapidly evolving and some of the more intensive activity BPA had\nexpected at substations proved unnecessary [4](#fn-4). Despite the generously sized\ncontrol houses, by 1950 most substations had only a single operator on staff,\nwho would often be \"out in the field\" tending to the transmission lines. This\ncreated a problem if some sort of sudden problem required reconfiguring the\nnetwork to restore service—a system operator might be left ringing a substation\nphone with no one there to answer.\n\nThat year, three substations had been equipped with \"supervisory control\"\ntechnology. This new system combined telemetering and teleoperation, so that a\nsystem operator in Portland could monitor voltage and current measurements at\nthe substation and remotely operate the switchgear. The benefits of supervisory\ncontrol were obvious, but the limitations of the carrier telephone system meant\nthat those three substations were as far as the system could reach. Based on its\npromising experience with supervisory control of those three stations, and the\nclear need to continue expanding an already-stressed communications system, the\nBPA in 1949 committed to the construction of a completely new, completely modern\ncontrol system for the Northwest Power Pool.\n\nI put a lot of time into writing this, and I hope that you enjoy reading\nit. If you can spare a few dollars, consider [supporting me on\nko-fi](https://ko-fi.com/jbcrawford). You'll receive an occasional extra,\nsubscribers-only post, and defray the costs of providing artisanal, hand-built\nworld wide web directly from Albuquerque, New Mexico.\n\nThe BPA's substation in Vancouver, already one of the largest, had a combination\nof ample space and proximity to Portland that made it a convenient location for\nsupport facilities. Construction yards, maintenance shops, and research\nlaboratories had all been added onto the facility. The 1949 project launched\nwith a symbolic gesture: the site was renamed, from simply the North Vancouver\nSubstation to the J. D. Ross Complex in honor of the BPA's first administrator.\nA new building at the Ross Complex, the Control Center, became the nerve center\nof the system and the Rome to which all microwave routes led.\n\nKeeping with our communications theme, one of the main features of what was then\ncalled the Ross Control Center was a \"three position turret\" (yes, [a turret!](https://computer.rip/2021-05-19-telephone-turrets.html)) by which operators could call any line on\nthe microwave, carrier current, or leased line telephone networks. The plan was\nto obsolete the turret, though. In 1950, the BPA awarded a half-million-dollar\ncontract to the Philco corporation (originally Philadelphia Battery and later\npart of Ford, then GTE, then Philips, amusingly providing another expansion of\nthe name) for its new microwave network. Philco had done extensive military work\non microwave radar during the war, and was at the time one of the leaders in\nmicrowave technology. Philco's expertise would be needed, because the microwave\nnetwork ordered by the BPA would be the largest electrical utility communications\nnetwork in the world. While more difficult to conclusively state, I think it is\nlikely that it was either the second largest microwave network of any kind after\nAT&T's, or the third largest after those of AT&T and the Santa Fe Railroad\n(both of which were also Philco customers).\n\nAt this point, the BPA's transmission network had extended to the Hungry Horse\nDam in northwestern Montana, adding customers along the way. There were some\n14,000 circuit miles of transmission lines and 400 substations in the system,\nand Philco's contract specified that they would build out the initial operating\nnetwork in just 360 days. Work got underway: BPA signed the contract in February\nof 1950, in September testing and demonstrations were conducted, and in October\nthe BPA officially activated the first leg: a 200 mile route from the Ross\nComplex to Snohomish, Washington.\n\n## Snohomish\n\nThis first route, built at a cost just under a million dollars, used repeaters\nat Mt. Rainier, Chehalis, Olympia, Squak Mountain. The longest single jump was\nOlympia to Squak Mountain, about 55 miles, an unusually long distance for\nmicrowave facilitated by Squak Mountain's prominence and a 150' tower at\nOlympia. With multiplexing equipment, this route carried 23 channels from the\ncontrol center to the Puget Sound area.\n\n![](https://computer.rip/static/img/bpa/8.png)\n\nThis first microwave link was quickly put to work for one of the most\ninteresting new applications of utility telecommunications: fault locating.\nWhen a fault occurred on a long transmission line, the BPA's first step was to\nsearch the whole line for the problem. Many lines were in difficult terrain, so\na helicopter or airplane was used to speed up the process. The faults were\nsometimes minor and not easy to see from the air (say, a broken insulator), so\nthe survey aircraft would take photos for processing and analysis on the ground.\nThis process was expensive and, moreover, it was time consuming. BPA engineers\nrealized that sudden open circuits or shorts in transmission lines created\nelectrical signals that propagated back through the line and could be observed\non test equipment—so you could presumably locate a fault by calculating its time\nof flight to the substations at each end. The problem was obtaining a\nmeasurement of when the fault signal arrived at two different locations, in\nprecise synchronization.\n\nRequiring high speed and, more importantly, consistent latency, this was exactly\nthe kind of problem that microwave lines were well suited for. ITT [5](#fn-6) designed the system to BPA\nspecifications, including devices that detected fault waves and reported them\nover a microwave channel, and a machine that compared the timing of the received\nreports and calculated a likely fault position (in miles) relative to each\nsubstation. FTL seems to have estimated that the system was accurate to 600',\nBPA to 1,000'.\n\nThe Ross-Snohomish route carried other important traffic as well: as part of its\ninaugural celebration, Washington State Representative Henry M. Jackson used the\nnew internal telephone at Snohomish to call Ross over the microwave link,\ncongratulating BPA's administrator and chief engineer on the accomplishment.\nAlthough I am unclear on the exact criteria being used, newspaper reports\nconsistently identify the link as the \"first of its kind in the world\" [6](#fn-5).\n\n1950 was still early for microwave technology; AT&T's first commercial microwave\nlink had only gone into service in 1948, and that was experimental. The\ntranscontinental telephone \"skyway\" wouldn't be completed until a year later.\nAs a result, microwave technology was unfamiliar to the public, and the\nappearance of parabolic antennas on BPA facilities—and at repeater stations on\nmountaintops and out in the woods—was conspicuous. One reporter called them the\nBPA's flying saucers, another explained the repeaters in terms of \"pitcher\" and\n\"catcher.\" Every paper ran photos.\n\nOver the next two years, Philco completed a second microwave route\nup the Columbia Gorge connecting each of the dams through to Spokane, and a\nthird that linked Beverly, on the route to Spokane, to Snohomish—forming a ring\nlike the original Master Grid that provided redundancy and direct protection\nchannels for transmission lines on that route. The 1952 microwave network\nincluded fourteen primary terminals and 21 repeaters; it connected the dispatch\ntelephone system at Ross with dams and substations along the microwave routes\nas well as seven mountaintop HF stations to reach field crews.\n\nAs was typical at the time, the microwave equipment at each repeater and\nterminal ran directly from battery power. The batteries were charged (normally\nfloated) from two different power supplies, one from the utility and the other\nfrom an on-site propane generator with a two week fuel supply. BPA initially\nused prefabricated aluminum shelters for the equipment at repeaters, although\nmany were originally built or later rebuilt as cinderblock. This was, in part,\ndue to the weather: mountaintop repeater stations in Washington coped with\nsevere winters, and BPA went through several rounds of modifications to their\nbuilding and tower designs. Towers were reinforced against ice accumulation,\nand repeater stations in particularly snow-prone parts of the Gorge and the\nSnoqualmie Pass were made two story. These buildings had a \"balcony\" entrance\non the second floor with a ladder to reach it, allowing access even when the\nfirst floor was completely buried in snow. Towers were rated for 100 MPH winds,\nand some for thousands of pounds of ice. BPA designed ice shields for the\nantennas, and a heated cover to keep ice from covering the reflector surface.\n\n![](https://computer.rip/static/img/bpa/9.png)\n\nBPA also took advantage of [passive repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html) to relocate microwave sites to more\naccessible locations. At Rockdale, on the edge of the Cascade Mountains, a\nrepeater was installed just next to the highway. Its antennas aimed more upwards\nthan sideways, at reflectors at the top of the mountain ridge. Microflect\npassive repeaters were manufactured in Oregon, and the BPA was one of\nMicroflect's first large customers, contributing design changes for mountainous\nservice.\n\nBy 1955, the BPA microwave network had reached Hungry Horse Dam in Montana and\nconnected all of the major substations of the system. When a decision was made,\nin 1955, to relocate the power dispatch office from the Ross Complex to the\nnew Portland headquarters, the capacity and expandability of the microwave\nsystem made the process much easier. The BPA's new HQ building looked more like\na telephone exchange than a federal building: one of its most prominent features\nwas a rooftop microwave tower. The 1957 annual report inventoried 61 microwave\nradio sites covering 1,300 miles of route, by then using a mix of Philco,\nITT, and Motorola equipment.\n\nBPA's network had, by this time, achieved many feats of rural service. One of\nthe most impressive was service to the southern Oregon Coast: this area was very\nremote and faced terrible weather throughout the winter. BPA's 115 kV South\nCoast line was the only electrical service into the region, and it was regularly\ndisabled by ice storms and flooding. Because of the area's mountainous terrain,\nline crews working in the area were only infrequently able to reach a substation\nnear Eugene on their mobile radios, and that was their only way of talking to\ndispatchers to coordinate repairs. In an effort to improve service reliability,\nthe South Coast became the pilot for a new model of field communications.\nRelatively closed spaced microwave repeaters, each with a VHF radio, would\nbridge radio channels onto the microwave telephone system. To stand up to the\nOregon Coast, each of these stations used an aluminum enclosure with heating,\nfire suppression, and a generator. Some of the enclosures were cabled to the\nground, to better hold them down against the wind.\n\nDuring the 1960s, the value of the microwave system had been proven but it was\nonce again facing the limits of its capacity. Microwave technology had improved\ntremendously in the post-war decade and BPA's 23 and 24-channel multiplexers\nwere obsolete. A $1.6 million contract was let to Lenkurt to upgrade much of the\nmicrowave network to the modern Lenkurt 76C microwave radio and 46A or 34A\nmultiplexers, capable of up to 600 channels at around 8 GHz (the previous\nsystem varied from site to site but operated at around 2 GHz).\n\nThis was equipment designed and built under GTE ownership, and was also typical\nof the long-distance microwave links in the GTE telephone network. As part of\nthe project, Lenkurt also installed VHF radio relays throughout the system. At\nsome sites, Lenkurt installed dual-polarized antennas to allow simultaneous\noperation of the old and new multiplex systems and, later, increased capacity.\nFurther contracts expanded the microwave network to Bellingham, Washington and\nto Corps of Engineers projects on the Snake River. In 1966, BPA dispatchers in\nPortland could monitor production at 21 dams, receive alarms from 250\nsubstations, and completely remote control fifteen of the network's key\nswitchyards.\n\n![](https://computer.rip/static/img/bpa/10.png)\n\nWhen the BPA built the Pacific Intertie, a combination of two 500 kv AC circuits\nand one 800 kV DC circuit stretching 900 miles from the Columbia River to near\nLos Angeles, it was the largest transmission line project in US history.\nUnder construction from 1965 to 1970, the line's standard bearer came in\nmicrowave form. Collins Radio built microwave routes parallel to the Intertie\ntransmission lines, a $2 million project with 22 new radio stations on the\n600-channel Lenkurt system. Most of the work was finished by 1967, a\nprerequisite for some construction the transmission line itself, since the\nmicrowave channels were used for testing and commissioning.\n\n## The Computer Age\n\nMicrowave was not the only arena in which the mid-century had brought new\ntechnology. The BPA was not new to computers; various forms of electromechanical\ncomputation had been part of their engineering works since the 1930s. By the\n1960s, though, projects like SAGE (a military air defense system) and SABRE (a\ncommercial airline reservation system) demonstrated the potential of combining\ncomputers with telecommunications for real-time control. The BPA had a\ntelecommunications network, and it had a real-time control system... and they\ndecided to add a computer.\n\nIn 1966, the BPA announced that its control center would once again move, from\nthe Portland headquarters building back to the Ross Complex, where a new\nbuilding would be designed from the ground up for centralized, computerized\ncontrol of the power system. Named the Dittmer Control Center after a previous\nBPA power manager, the low-slung building had a prominent concrete microwave\ntower and was partially sunk below ground level for hardening against attack (it\nwas, after all, the Cold War).\n\nMuch of the Dittmer center's lower-level floorspace was devoted to equipment\nrooms, which would soon be the home of the computer system that BPA contracted\nto Rockwell. Among other equipment, Rockwell installed a PDP-10 computer that\nreceived, analyzed, and logged telemetering data from throughout the system for\ndisplay to operators. From its commissioning in the early 1970s, BPA continued\nto enhance the computer center into an integrated power dispatching system that\nsupported operators in monitoring the network, predicting future demand,\nswitching transmission lines, and ordering changes in production at power plants\nthroughout the Pacific Northwest.\n\nThe ultimate manifestation of the PDP-10's software was called RODS, the\nReal-Time Operations, Dispatch, and Scheduling System. RODS was one of the first\nsystems of its kind, initially contracted to Rockwell in part due to their\nexperience with control computers for the Apollo program. Features of RODS\nincluded a time-synchronized data acquisition system to support differential\ncurrent monitoring (ensuring that the computer compared current measurements\ntaken at precisely the same time), which used an atomic time standard at the\nDittmer Control Center to distribute high-precision timecode through the\nmicrowave network. As RODS matured, it established the 15-minute scheduling loop\nused by dispatchers to configure power plants and transmission lines for a\nconstantly changing electrical load. DEC themselves, in an internal sales\nmeeting whose minutes fortunately made it into the historic record, noted the\nDittmer PDP-10 as a critical early sale in their efforts to break into the\nutility industry.\n\n![](https://computer.rip/static/img/bpa/11.png)\n\nDespite the technical firsts of the Dittmer Control Center and RODS, this\nchapter of BPA history is best known for its incidental brush with the Pacific\nNorthwest's most famous chapter of computer history: as temporary employees of\nTRW, the aerospace contractor brought on for RODS software development, Bill\nGates and Paul Allen both spent time at Dittmer. They were still in high school,\nit would be years before they moved to Albuquerque to found Microsoft.\n\nMany parts of the BPA's microwave network are still in use, although improving\nradio technology and the adoption of fiber optics (including fiber embedded into\nthe neutral conductors of transmission lines) have allowed for elimination of\nsome repeaters. As microwave technology continues to fall obsolete (in\ncomparison to fiber, commercial terrestrial radio networks, and satellite),\nmany of the remaining sites are likely to be demolished. Some of them—sites like\nChehalis, Squak Mountain, and Rainier—have been in service for 76 years.\n\nThe BPA microwave network is not unusual. It was the first of its type, but the\ntransmission and power marketing concepts pioneered by the BPA are now used\nnationwide. Wherever power goes, protective relaying follows, and the\ntelecommunications networks that shadow the electrical grid from coast to coast.\nFew enterprises outside of the communications industry itself have ever operated\ncommunications networks on the scale of electrical utilities. They find\nthemselves in the company of railroads and oil pipelines, ventures that must\nspan deserts, climb mountains, and cross rivers.\n\nUnlike many of those operations, though, the BPA is a federal agency, subject\nto the National Environmental Policy Act and National Historic Preservation Act.\nBPA's extensive Section 106 NRHP compliance program has produced extensive\nhistoric documentation of its transmission lines, communications infrastructure,\nand research facilities. While sometimes onerous, these federal policies have\ncreated the best-documented historic electrical utility communications system\nin the nation.\n\nAn inventory of historic microwave stations still under\nBPA ownership turned up 28 in Washington, 22 in Oregon, one in Idaho, and two in\nMontana, and many are eligible for nomination to the Historic Register. From an\naluminum shed at the Ross Complex to a squat concrete building and utility pole\nat Mary's Peak, they are monuments to American history—a singular, almost\nmegalomaniacal vision of the Columbia River tamed; the rise of Pacific Northwest\nindustry under wartime demands; a technical approach to environmental\npreservation and economic equality. Infrastructure for the public benefit: a\ngreat American achievement. We might, one day, find the will to do it again.\n\n![](https://computer.rip/static/img/bpa/12.png)",
+        "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+        "source": "computers are bad",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "04 Jul 2026 00:00:00 UT",
+        "reading_time": 37,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "From the DF Archive: ‘Electron and the Decline of Native Apps’ - [SwiftOnSecurity, regarding Microsoft’s switch to Chromium as Windows’s built-in rendering...",
+    "Fantastical 4.1.15 Adds Calendar Mirroring - ![](https://storage.googleapis.com/flexibits-wordpress-production/2026/06/338f715f-blog-mi...",
+    "Day One Journal - Today, Day One introduces [**Daily Chat**](https://dayoneapp.com/features/daily-chat/), a...",
+    "Better Models: Worse Tools - written on July 04, 2026 A very strange [Pi issue](https://github.com/earendil-works/pi/is...",
+    "This Week in Package Management: 4 July 2026 - Week seven of the roundup, built from the [package manager OPML feed collection](https://g..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 5
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "day",
+      "count": 3
+    },
+    {
+      "word": "additional",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "always",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "qr",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "swiftonsecurity",
+      "count": 2
+    },
+    {
+      "word": "july",
+      "count": 2
+    },
+    {
+      "word": "pi",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    }
+  ]
+}
