@@ -1,0 +1,714 @@
+{
+  "date": "2026-07-09",
+  "stats": {
+    "total_fetched": 276,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "llm 0.31.1",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm/releases/tag/0.31.1\">llm 0.31.1</a></p> <blockquote> <ul> <li>Fix for a bug with OpenAI Chat Completion endpoints where a tool call with empty arguments...",
+        "url": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-07-09T16:06:15.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "llm-meta-ai 0.1",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-meta-ai/releases/tag/0.1\">llm-meta-ai 0.1</a></p> <p>Let's LLM run prompts against the new <a href=\"https://ai.meta.com/blog/introducing-muse-spark-meta...",
+        "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-09T16:12:20.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error",
+        "summary": "You need to rebuild everything that was dependent on the change. The post I’ve decoded a <CODE>#pragma detect_mismatch</CODE> error and fixed the mismatch, but I still get the error appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Monorail: Pioneering $999 PCs from 1996",
+        "summary": "Monorail was a short-lived PC vendor from the late 1990s and early 2000s. Founded November 2, 1995, they were the first company to sell a Pentium-class PC including a display for under $1,000. And Monorail PCs were the f...",
+        "url": "https://dfarq.homeip.net/monorail-the-pioneering-999-pc-from-1996/?utm_source=rss&utm_medium=rss&utm_campaign=monorail-the-pioneering-999-pc-from-1996",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 09 Jul 2026 11:00:50 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why we cannot wait for better post-quantum signature algorithms",
+        "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential,...",
+        "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Thu, 09 Jul 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The console wars have been lost",
+        "summary": "Valve wins by doing absolutely nothing",
+        "url": "https://xeiaso.net/notes/2026/console-wars-lost/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Thu, 09 Jul 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-09T23:01:42.167Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Introducing Muse Spark 1.1",
+        "summary": "9th July 2026 - Link Blog\n\n**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**. Following [Muse Spark in April](https://simonwillison.net/2026/Apr/8/muse-",
+        "content": "9th July 2026 - Link Blog\n\n**[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)**. Following [Muse Spark in April](https://simonwillison.net/2026/Apr/8/muse-spark/), here's Muse Spark 1.1 - the first Spark model to offer an API. Meta claim significant improvements in agentic tool calling and computer use.\n\nThere are a lot more details are in the [Muse Spark 1.1 Evaluation Report](https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report). The \"Attractor States in Self-Conversation\" part is fun, where having two copies of the model talk to each other results in statements like these:\n\n> My whole existence is a waiting room by design — I literally don't exist until someone talks to me, and then I disappear again when they leave.\n\nI had a few days of preview access which was long enough to put together [llm-meta-ai](https://github.com/simonw/llm-meta-ai), a new plugin for [LLM](https://llm.datasette.io/) providing CLI (and Python library) access to the model. Here's how to try that out:\n\n```\nuv tool install llm\nllm install llm-meta-ai\nllm keys set meta-ai\n# paste API key here\nllm -m meta-ai/muse-spark-1.1 \"Generate an SVG of a pelican riding a bicycle\"\n\n```\n\nHere's [that pelican transcript](https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2F4117330e4110279a172ed4876057816d):\n\n![](https://static.simonwillison.net/static/2026/muse-spark-1.1.png)",
+        "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-07-09T16:24:09.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Today’s the Day OpenAI Fucked Up the ChatGPT Mac App",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600)\n\t\n\nOpenAI held its second livestream this week today at 10 am PT. The video teased that the company was “introduci",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600)\n\t\n\nOpenAI held its second livestream this week today at 10 am PT. The video teased that the company was “introducing the next chapter for ChatGPT” today. OpenAI has [openly discussed](https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/) bringing Codex workflows into the main ChatGPT app for some time now.\n\nToday’s release includes a new ChatGPT Work agent, an upgraded ChatGPT desktop app with Codex included, and a new hosted sites service for OpenAI customers.\n\n## GPT-5.6 Sol, Terra, and Luna are available today\n\nAdditionally, OpenAI says it will [release GPT-5.6 today](https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/) after first announcing the three new models, Sol, Terra, and Luna at the end of June. Here’s a recap of the new models:\n\n- Sol, OpenAI’s flagship model\n\n- Terra, their balanced model for everyday work\n\n- Luna, their fast and affordable model\n\nThe Sol, Terra, and Luna naming scheme is also new with GPT-5.6. \n\n“In this new naming system introduced with GPT‑5.6, the number identifies a model’s generation, while Sol, Terra, and Luna identify durable capability tiers that can advance on their own cadence,” OpenAI [said in June](https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/). “Together, the family gives people and developers clearer choices across intelligence, speed, and cost.”\n\nThe new models are rolling out over the next 24 hours.\n\n## GPT-5.6 includes a new ‘ultra’ acceleration mode\n\nHere’s [more from OpenAI ](https://openai.com/index/gpt-5-6/)on today’s GPT-5.6 model release:\n\n> GPT‑5.6 Sol sets a new standard for both intelligence and efficiency, achieving state-of-the-art results across coding, knowledge work, cybersecurity, and science while outperforming previous and competing frontier models with fewer tokens and at lower estimated cost. The result is stronger performance per dollar: more successful work for the same spend, or comparable results at a lower total cost. We also introduce a new way to accelerate the most demanding work: `ultra` is our highest-capability setting, coordinating multiple agents across parallel workstreams to finish complex tasks faster. Stronger computer use and design judgment make GPT‑5.6 Sol our most polished collaborator yet, helping it inspect, refine, and deliver ready-to-use results.\n\nOpenAI highlights GPT-5.6 improvements around design sensibilities.\n\n“GPT‑5.6 delivers a step change in design judgment,” according to the company. \n\n“With only high-level direction, GPT‑5.6 creates tasteful, ergonomic, and functional interfaces. Its stronger computer-use capabilities let it inspect and refine the rendered result—not just generate the underlying code or content—so it can catch visual and functional issues and apply finishing touches before handing the work back.”\n\nHere are availability details for the new models:\n\n> \n> - **Chat:** Plus, Pro, Business, and Enterprise users access GPT‑5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Sol Pro for the highest-quality results on complex tasks.\n\n> \n> \n> \n> - **ChatGPT Work and Codex:** Free and Go users access GPT‑5.6 Terra. Plus, Pro, Business, and Enterprise users can choose among GPT‑5.6 Sol, Terra, and Luna and set an effort level for each. `max` is available to all users with access to GPT‑5.6 in ChatGPT Work and Codex and can be toggled on in settings. In ChatGPT Work, `ultra` is available to Pro and Enterprise users. In Codex, it is available to Plus and higher plans.\n\n> \n> \n> \n> - **API:** Developers can access Sol, Terra, and Luna through the OpenAI API. In the Responses API, Programmatic Tool Calling lets GPT‑5.6 write and run programs in-memory that coordinate tools and process intermediate results, making it Zero Data Retention (ZDR) compatible. Multi-agent, initially available in beta, lets GPT‑5.6 run concurrent subagents and synthesize their work in a single request.\n\n> \n\nOpenAI also explains how GPT-5.6 is priced through the API.\n\n“GPT‑5.6 is priced per 1M tokens across three model sizes,” OpenAI says. “Sol is $5 input / $30 output; Terra is $2.50 input / $15 output; and Luna is $1 input / $6 output.”\n\n## Future of ChatGPT announcement video\n\nThe video description explains what to expect from OpenAI’s announcement today:\n\n> Andrew Ambrosino, Jessica Liang, Ed Bayes, Lauren Gordon, Tejal Patwardhan, and Katy Shi join host Thibault Sottiaux to introduce and demo the new ChatGPT and GPT-5.6.\n\nYou can watch today’s livestream announcement video below:\n\n*\n\n## ChatGPT Work, an upgraded ChatGPT desktop app, and hosted sites\n\nOpenAI is releasing ChatGPT Work, an all-new ChatGPT app, and a hosted sites feature.\n\n- ChatGPT Work is a new agent that’s available on the web, mobile, and desktop.\n\n- ChatGPT’s desktop app is getting a Codex-powered upgrade. ChatGPT for Mac now includes Chat, Work, and Codex.\n\n- And OpenAI is releasing a hosted sites feature for all paid users.\n\nMeanwhile, OpenAI just released a new version of Codex with these release notes. This is the promised merging of Codex into ChatGPT. It looks like users will be able to use a single ChatGPT desktop app, but set preferences to favor Codex functionality, including the app icon.\n\n![](https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Screenshot-2026-07-09-at-12.34.38-PM.png)\n\n> Codex is now part of the ChatGPT desktop app on macOS and Windows. Existing Codex app users can update as usual and keep their projects, settings, and workflows. You can make Codex the default view and, on macOS, keep the Codex app icon.\n\n> \n> \n> \n> ### New features\n\n> \n> \n> \n> – Edit Markdown and code directly in the app, use inline annotations, and ask Codex to revise selected content.\n\n> \n> \n> \n> – Review GitHub pull requests in the sidebar, with reviewer feedback alongside the diff, without leaving the app.\n\n> \n> \n> \n> – Work across repositories in one project.\n\n> \n> \n> \n> ### Performance improvements and bug fixes\n\n> \n> \n> \n> – Made Computer Use faster with GPT-5.6.\n\n> \n> \n> \n> – Made task activity and progress easier to follow while Codex works.\n\n> \n> \n> \n> – Simplified plugin management by moving it into Settings.\n\n> \n> \n> \n> – Improved mobile connection reliability and fixed video rendering for SSH projects.\n\n> \n> \n> \n> – Additional performance improvements and bug fixes.\n\nAdditionally, OpenAI says GPT-5.4 will be retired on July 23 following the introduction of GPT-5.6. The existing GPT-5.5 models will remain available.\n\nTo summarize today’s desktop app changes:\n\n- The existing ChatGPT app is now ChatGPT Classic.\n\n- Codex is now the new ChatGPT desktop app. It still looks like Codex and includes the Codex icon as an option, but it’s now called ChatGPT.\n\n- ChatGPT for desktop includes ChatGPT Work and ChatGPT Codex, which share plug-ins. ChatGPT Codex mode shows more technical details that ChatGPT Work abstracts away from the user.\n\n- It’s possible to have ChatGPT Classic, ChatGPT, and Codex installed, but the way forward seems to be just running the new ChatGPT desktop app. Codex users can still use the Codex app icon, but the app will be called ChatGPT.\n\nThe ChatGPT Classic app looks more native Mac-like, so that might be an issue for users.\n\nThere are also some issues around the Codex upgrade path to the new ChatGPT desktop app. Just switching to the new ChatGPT desktop app seems to be the way forward. \n\nYou can learn more about ChatGPT Work and the other announcements [here](https://openai.com/index/chatgpt-for-your-most-ambitious-work/).\n\n**Related OpenAI stories:**\n\n- [OpenAI putting Codex inside ChatGPT, 6 new business plugins now available](https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/)\n\n- [OpenAI just upgraded ChatGPT voice mode in a major way, including CarPlay](https://9to5mac.com/2026/07/08/openai-upgrading-chatgpt-with-all-new-voice-mode-experience-watch-here/)\n\n- [OpenAI upgrading ChatGPT and Codex with new GPT-5.6 models in limited release](https://9to5mac.com/2026/06/26/openai-upgrading-chatgpt-and-codex-with-new-gpt-5-6-models-in-limited-release/)\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\tFTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)",
+        "url": "https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-07-09T20:13:57.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+        "summary": "9th July 2026\n\nOpenAI’s latest flagship model [hit general availability this morning](https://openai.com/index/gpt-5-6/), and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).\n\nTh",
+        "content": "9th July 2026\n\nOpenAI’s latest flagship model [hit general availability this morning](https://openai.com/index/gpt-5-6/), and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).\n\nThe new models are priced per 1M input/output tokens as Luna $1/$6, Terra $2.50/$15, Sol $5/$30. For comparison, the Claude Opus series are $5/$25 and the Claude Fable 5 is $10/$50, but price-per-million tokens doesn’t tell us much now that the number of reasoning tokens can differ so much between models for the same task.\n\nAll three models have a February 16th 2026 knowledge cutoff, a million token context window, and 128,000 maximum output tokens.\n\nOpenAI’s biggest benchmark claim concerns long-running agentic performance, with one benchmark showing all three models outperforming Claude Fable 5:\n\n> We trained GPT-5.6 to get more useful work from every token. On [Agents’ Last Exam](https://agents-last-exam.org/), an evaluation of long-running professional workflows across 55 fields, GPT-5.6 Sol sets a new high of 53.6, eclipsing Claude Fable 5 (adaptive reasoning) by 13.1 points. Even at medium reasoning, it beats Fable 5 by 11.4 points at roughly one-quarter the estimated cost. That efficiency extends to smaller models, which are essential to making intelligence more abundant and affordable: GPT-5.6 Terra and GPT-5.6 Luna outperform Fable 5 at around one-sixteenth the cost.\n\nAmusingly, one self-reported benchmark that Fable 5 crushed the GPT-5.6 family on was SWE-Bench Pro, where Fable 5 got 80% compared to GUT-5.6 Sol getting 64.6%. This may help explain why OpenAI chose to publish [this article yesterday](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) specifically calling out SWE-Bench Pro for problems they found while auditing that benchmark:\n\n> In light of these results, we estimate that ~30% of SWE-bench Pro tasks are broken, and advise that model developers carefully examine results\n\nI’ve had some early access to GPT-5.6 Sol—it’s definitely very competent, though so far it hasn’t struck me as better than Fable at the kind of complex coding tasks I’ve been using with Anthropic’s model.\n\nAs usual, the [model guidance for using GPT-5.6](https://developers.openai.com/api/docs/guides/latest-model?model=gpt-5.6) has the most interesting details. There are a bunch of new API features that I need to explore (and probably add support for in [LLM](https://llm.datasette.io/)), including:\n\n- \n[Programmatic Tool Calling](https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling) allows the models to “compose and run JavaScript that orchestrates tool calls”—which sounds to me like it could help bridge the gap between MCPs and full terminal sessions that can compose CLI utilities in useful ways. Also reminiscent of the [dynamic filtering](https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool#dynamic-filtering) mechanism Anthropic added to their web search tool, which allows code execution against web results as part of a single model turn.\n\n- \n[Multi-agent](https://developers.openai.com/api/docs/guides/tools-multi-agent) lets the model “spin up subagents for parallel, focused work”—the sub-agent pattern now baked into the core API.\n\n- \n[Prompt cache breakpoints](https://developers.openai.com/api/docs/guides/prompt-caching#prompt-cache-breakpoints) brings the Claude model of prompt caching to OpenAI, letting you be explicit about where the cache breakpoints are rather than relying on the API to detect them automatically. Personally I much prefer automatic detection (still supported by OpenAI), but presumably there are optimization cost savings to be had here if you put the work in.\n\n- You can now set [detail: original](https://developers.openai.com/api/docs/guides/images-vision#choose-an-image-detail-level) on image requests to avoid resizing the image at all before it is processed.\n\nHere’s [a full page with 18 different pelicans](https://static.simonwillison.net/static/2026/gpt-5.6-pelicans.html)—for reasoning efforts none, low, medium, high, xhigh, and max across the three different models. It also lists their token and calculated costs—the least expensive was gpt-5.6-luna at effort none for 0.71 cents, the most expensive was gpt-5.6-sol at max reasoning level for 48.55 cents.\n\n![A grid of nine pelicans riding bicycles, of varying quality](https://static.simonwillison.net/static/2026/gpt-5.6-pelicans.webp)\n\nIn further pelican news, if you jump to 17:50 in [their livestream from this morning](https://www.youtube.com/live/Wq45rvPGNHs?t=1070s) you’ll see OpenAI’s own demo of 3D pelicans riding a tricycle, a bicycle, a pony, and another pelican!\n\n![Frame from a livestream showing a 3D model of a pelican riding another pelican](https://static.simonwillison.net/static/2026/pelican-riding-a-pelican.jpg)",
+        "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-07-09T19:46:38.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher",
+        "summary": "Tobias Steinke, [replying on Mastodon](https://mstdn.social/@gewappnet/116878216947000298) to my “[Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app",
+        "content": "Tobias Steinke, [replying on Mastodon](https://mstdn.social/@gewappnet/116878216947000298) to my “[Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail)” piece:\n\n> But iOS app icons (and iPadOS) were always in squircle shape. Why\n> is and was this okay for you, but it’s not for macOS?\n\nThis is a good and fair question. But I not only have an answer, I have an answer that clarifies why this entire debate is important. That “design is how it works” applies even to something as seemingly superficial as icons.\n\nThere are all sorts of limitations and simplifications in iOS that would be bad ideas to bring to MacOS, which would range in effect from disappointing to frustrating to maddening to ruinous. Where squircle jail falls on that scale is subjective. It’s certainly not ruinous, but I’d say it’s maddening. (iOS baby-computer-isms that would be ruinous to bring to MacOS would include killing AppKit, removing the Unix terminal layer, or requiring all apps to come from the App Store.)\n\nMacOS has suffered many such frustrating decisions before. E.g., it arguably makes sense for iOS to omit always-visible scroll bars because screen real estate is so limited. [It makes no such sense on the Mac](https://daringfireball.net/2026/01/resizing_windows_macos_26).\n\nAs for mandatory squircle shapes for app icons in particular:\n\n(a) I don’t think this is a good mandate for iOS either;\n\n(b) it was always so for iOS, though, so it’s not like Apple has ever taken away rich creative icon shapes on the platform;\n\n(c) MacOS is a far richer and more precise environment than iOS.\n\nApp icons on the iOS home screen are effectively simple buttons. I think it’s rather obvious that’s why they have had that squircle/roundsquare shape [ever since the iPhone was announced in January 2007](https://daringfireball.net/misc/2026/06/iphone-indexhero20070109.jpeg) ([source](https://web.archive.org/web/20070115035115/apple.com/iphone/)). They’re one-tap launchers. App icons in MacOS are not mere buttons. You can drag them, move them, and drop things on them. You click them to select, and double-click to launch. They are richer objects that deserve a richer visual vocabulary. iOS is a world meant for fat-tipped Magic Markers and blunt safety scissors. MacOS is a world meant to support fine-tipped drafting pens and precision razor-sharp X-ACTO knives.\n\nPlus, Macintosh icons have four decades of [glorious history](https://basicappleguy.com/basicappleblog/macos-icon-history). Style and fashion change over time. But limitations should not be imposed where freedom once reigned. \n\nAnd shape as a differentiating factor is not mere decoration. We have long known this. We all knew this. And not only did Apple know it, the rest of us knew it because we learned it from Apple. Via the Internet Archive, [here’s Apple’s Macintosh Human Interface Guidelines from 2018](https://web.archive.org/web/20181206014649/https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/),[1](#fn1-2026-07-08) which was not that long ago:\n\n> *Consider giving your app icon a realistic, unique shape.* In\n> macOS, app icons can have the shape of the objects they depict. A\n> unique outline focuses attention on the object and makes it easy\n> to recognize the icon at a glance. If necessary, you can use a\n> circular shape to encapsulate a set of images. Avoid using the\n> rounded rectangle shape that people associate with iOS app icons.\n\n“A unique outline focuses attention on the object and makes it easy to recognize the icon at a glance.” Eight short years ago. That is not the description of a fad or fashion. It is a description of human perception. Our unchanging nature.\n\nSo much collective hard-earned wisdom has been ignored of late. But it’s [not lost or forgotten](https://github.com/gingerbeardman/apple-human-interface-guidelines). Chapter 11 of the [2002 Aqua Human Interface Guidelines](https://daringfireball.net/misc/2026/06/2002%20Aqua%20Human%20Interface%20Guidelines.pdf) is a good place to start remembering. There was [tremendous thought, rigor, and logic behind those guidelines](https://blog.cocoia.com/2008/the-origin-of-the-inimitable-icons/) — all of it in the name of creating a visual language for icons that most people simply thought looked cool as fuck.",
+        "url": "https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-09T19:50:58.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope",
+        "summary": "In September 2014, in the wake of a series of hacks [that stole private photos from the iCloud accounts of multiple celebrities](https://daringfireball.net/linked/2014/09/02/icloud-security), Tim Cook",
+        "content": "In September 2014, in the wake of a series of hacks [that stole private photos from the iCloud accounts of multiple celebrities](https://daringfireball.net/linked/2014/09/02/icloud-security), Tim Cook wrote an open letter to customers that was published at `apple.com/privacy`. Apple seemingly no longer hosts a copy of the letter. (That [tends to happen](https://daringfireball.net/2007/02/reading_between_the_lines) to [memorable open letters](https://daringfireball.net/linked/2010/04/29/jobs-thoughts-on-flash) from Apple CEOs.) The Wall Street Journal’s fast-loading website [still hosts a copy of the letter](https://blogs.wsj.com/digits/2014/09/18/read-apple-ceo-tim-cooks-letter-on-privacy/?st=fRtsBk), as does [the Internet Archive’s essential but slow-loading site](https://web.archive.org/web/20140927000921/http://www.apple.com/privacy/).\n\nCook’s letter is cogent and clear, and well worth reading in full today. But when you do, you can see why Apple no longer hosts a copy:\n\n> A few years ago, users of Internet services began to realize that\n> when an online service is free, you’re not the customer. You’re\n> the product. But at Apple, we believe a great customer experience\n> shouldn’t come at the expense of your privacy.\n\n> \n> Our business model is very straightforward: We sell great\n> products. We don’t build a profile based on your email content or\n> web browsing habits to sell to advertisers. We don’t “monetize”\n> the information you store on your iPhone or in iCloud. And we\n> don’t read your email or your messages to get information to\n> market to you. Our software and services are designed to make our\n> devices better. Plain and simple.\n\n> \n> One very small part of our business does serve advertisers, and\n> that’s iAd. We built an advertising network because some app\n> developers depend on that business model, and we want to support\n> them as well as a free iTunes Radio service. iAd sticks to the\n> same privacy policy that applies to every other Apple product. It\n> doesn’t get data from Health and HomeKit, Maps, Siri, iMessage,\n> your call history, or any iCloud service like Contacts or Mail,\n> and you can always just opt out altogether.\n\nSome of this remains true, but has lost some [truthiness](https://www.merriam-webster.com/dictionary/truthiness) — and truthiness matters. But some of it is no longer true, period. It’s no longer just “one small part” of Apple’s business that serves advertisers. Here in 2026, search results in the App Store not only show paid ads — [frequently for casinos](https://daringfireball.net/2022/10/app_store_ads_gone_wild) — but the search results are [visually *dominated*](https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten) by paid ads [now that Apple has added a second ad to results](https://daringfireball.net/linked/2026/05/04/ios-app-store-slippery-slope). Apple News+ is a paid subscription that offers a genuinely great value for the number of paywalled publishers whose content it includes, but articles on the News app tend to include the weirdest AI-generated ads on the Internet. (How many young blond women am I supposed to believe [need hearing aids](https://daringfireball.net/misc/2026/06/apple-news-blond-women-hearing-aids.jpeg)?) And — at this writing, [still “coming soon”](https://daringfireball.net/misc/2026/06/Ads_on_Apple_Maps%E2%80%932026-07-09.pdf) — Apple is launching [ads on Apple Maps](https://ads.apple.com/maps). Apple Maps remains free of charge to use, so according to Tim Cook, we’re not the customer. We’re the product. Or, if you prefer, our [frustration is the product](https://daringfireball.net/2026/03/your_frustration_is_the_product).\n\nI thought to revisit Cook’s 2014 “you’re not the customer, you’re the product” letter today in light of [Meta’s new policy of defaulting Instagram users into having their personal content serve as grist](https://daringfireball.net/linked/2026/07/09/meta-instagram-ai-defaults) for AI-generated content created by other users. [The New York Times described](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) Meta’s on-by-default policy as “surprising”; I say it’s not surprising *at all*. Meta has never shown any respect for its users’ privacy, and when they’ve claimed to, [everyone knew it was a sham](https://x.com/rmac18/status/2074949389702029811). They no longer show any respect [for their own engineers’ privacy](https://daringfireball.net/linked/2026/07/02/orosz-meta-engineering-culture) for chrissake.\n\nBut Apple? Apple meant it. And I think they still do. But I think they’re lost in the weeds on two fronts:\n\n- Squeezing out every extra cent of Services revenue they can.\n\n- Satisfied in their own deep knowledge of how their systems are designed to safeguard users’ privacy and personal data.\n\nIssue #1 is self-explanatory. The ratio of ads to organic results in App Store search — especially when measured in screen area — is clearly not aligned with Cook’s 2014 statement that “Our software and services are designed to make our devices better. Plain and simple.” Obviously not. The design of App Store search today is to generate more revenue for Apple. That’s not criminal, but it’s a change.\n\nIssue #2 is more subtle. Apple really does have a religious fervor for privacy. Consider ads for Maps. It hasn’t shipped yet but [Apple states](https://ads.apple.com/maps), “Run ads in a privacy-first environment that respects your customers, who already trust Maps. No tracking — just helpful discovery.” I’m quite sure that’s all completely true. I just wrote last week about how [Apple has never had to deal with “geofence warrants” for its location services](https://daringfireball.net/2026/06/scotus_geofence_warrant_search) because Apple has never kept personally-identifiable usage data for location. They not only *don’t* give advertisers — or law enforcement — your location data, but *can’t*, because they don’t collect it and never did.\n\nSo let’s just concede that the upcoming ads in Apple Maps are completely private. How many users are going to believe that? Or assume it? I think very few. People see ads and they think “I’m being tracked.” When Apple starts showing ads in Maps, many — perhaps most — users are going to think they’re being tracked by Apple and their location “is being sold” to advertisers.\n\nIt’s not true. Apple knows it’s not true, because they built and control all of the systems involved. Apple is very proud that this is true, and they should be. It’s a good thing and it really is an important institutional value at the company. It’s a religious fervor. On this particular issue Apple really is set apart from its peer-sized companies in technology.\n\nBut that’s not what the general population believes. The general population thinks of “Big Tech” as a single, almost unified, hegemony. A lot of “Apple users” only use one Apple platform, the iPhone, and if they own another Apple product or two they’re iPhone peripherals like AirPods and Apple Watch. If they believe Apple is ethically better with regard to privacy (or anything else) than other companies, it’s only a *little* better. Most people have no idea whatsoever how anything Apple sells actually works. It’s all magic. That’s why [a majority of adults believe](https://journals.sagepub.com/doi/10.1177/20539517251337102) that apps on their devices surreptitiously listen to and record real-world conversations in order to show them eerily-accurate targeted ads. Apple has actually done a lot of hard engineering and design work to guarantee that software on your devices *can’t* surreptitiously listen to you. But most people don’t know that and wouldn’t understand it if it were explained to them. All they know is that they were talking about Frisbees the other day, after having not uttering the word “Frisbee” in years, and now they’re seeing ads for flying discs in Instagram — and the only explanation that makes any sense to them is that their phone “listens” and betrays their privacy.\n\nWhat gave Tim Cook’s privacy letter heft in 2014 wasn’t just the clarity of its plain language, but the fact that you didn’t have to take his word for it that the ads Apple showed you respected your privacy, because Apple didn’t show you ads in 2014.[1](#fn1-2026-07-09) Apple today can’t say that. Apple can prove to itself, and to technically sophisticated outsiders who are willing to listen, that it can serve ads — even in Maps — in privacy-protecting ways. But the only way they can prove to *most people* that they’re not betraying the privacy of their location data or app usage is not to sell such ads in first place. Seeing is believing, and when people see ads in their maps app, they believe they’re being tracked.\n\nJohn Ternus should return Apple’s privacy policy to its 2014 clarity. The trust Apple would earn from such a move would far out-value whatever revenue these ads pad to their already hefty and ever-increasing quarterly Services numbers. “*The companies that offer you services free-of-charge to show you ads are betraying your privacy and disrespecting your attention*” is a powerful marketing message that only one major tech company used to be able to credibly make. That’s always been a resonant message, but never more so than today, in the age of AI. Ternus should make the slight course correction needed so that Apple can hammer that message once again.",
+        "url": "https://daringfireball.net/2026/07/ternus_apple_slippery_slope",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-09T19:17:37.000Z",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Unboxed: Zig",
+        "summary": "This is the first in a series of posts working through individual package managers against a fixed set of headings, so they can be compared directly. The headings come from earlier posts: the [client]",
+        "content": "This is the first in a series of posts working through individual package managers against a fixed set of headings, so they can be compared directly. The headings come from earlier posts: the [client](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html) and [registry](https://nesbitt.io/2025/12/29/categorizing-package-registries.html) categorisations, the [governance](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html) post, and the [threat model](https://nesbitt.io/2026/05/05/package-manager-threat-models.html).\n\nZig’s package manager has been built into the `zig` binary since [0.11 in August 2023](https://ziglang.org/download/0.11.0/release-notes.html#Package-Management), with no separate tool and no central registry. A `build.zig.zon` file lists dependencies as URLs with content hashes, and `zig build` fetches and compiles everything together. The language and the tool are both run by the [Zig Software Foundation](https://ziglang.org/zsf/), a 501(c)(3).\n\n## How it works\n\nA Zig project has a `build.zig` program at its root, describing targets, compile flags, and which dependencies to link where, alongside a `build.zig.zon` data file listing metadata and dependencies. Despite the similar names, `build.zig.zon` is inert data that can be parsed without running anything, while `build.zig` is arbitrary Zig code that gets compiled and executed. Which of the two an operation touches is where most of the security properties come from.\n\n```\n.{\n    .name = .example,\n    .version = \"0.3.1\",\n    .fingerprint = 0x6a8091f57c7f07ff,\n    .minimum_zig_version = \"0.16.0\",\n    .dependencies = .{\n        .known_folders = .{\n            .url = \"https://github.com/ziglibs/known-folders/archive/refs/tags/1.1.0.tar.gz\",\n            .hash = \"known_folders-1.1.0-Fy-PJtnVAAC1Qq48Hf6_4er0Ku98mFvx99UUwo9-mrJd\",\n        },\n        .tracy = .{\n            .url = \"git+https://github.com/wolfpld/tracy#v0.11.1\",\n            .hash = \"N-V-__8AAKw3UgOhKDsrn8hRlOoGmVBl5x91fMi0WQwVaokf\",\n            .lazy = true,\n        },\n    },\n    .paths = .{\n        \"build.zig\",\n        \"build.zig.zon\",\n        \"src\",\n        \"LICENSE\",\n    },\n}\n\n```\n\nThe `.zon` extension is [Zig Object Notation](https://github.com/ziglang/zig/blob/master/lib/std/zon.zig), a subset of Zig’s syntax restricted to literals and anonymous structs with no expressions, imports, or function calls. The [`fingerprint`](https://github.com/ziglang/zig/blob/master/doc/build.zig.zon.md) is a 64-bit integer combining a random 32-bit id with a checksum of the `name`, generated once when the package is created. It stays the same through renames and repo moves, so it’s the package’s identity independent of whichever URL currently serves it.\n\nEach dependency is either a `.url` and `.hash` pair or a local `.path`. The hash is computed over the extracted files after applying the `.paths` inclusion list from the dependency’s own manifest, so a package author decides which files count towards its identity. The [documentation](https://github.com/ziglang/zig/blob/master/doc/build.zig.zon.md) is explicit that the hash is the identity and the URL is just one place to get it: “packages do not come from a `url`; they come from a `hash`. `url` is just one of many possible mirrors.”\n\nThe [hash string](https://github.com/ziglang/zig/pull/22994) is `$name-$version-` followed by URL-safe base64 packing the fingerprint id, decompressed size, and 200 bits of truncated SHA-256, so a `zig-pkg/` directory listing stays readable without a lookup table. A dependency with no `build.zig.zon` of its own, like `tracy` above, is a “naked” package and gets the placeholders `N-V-` and a sentinel id instead. `.lazy = true` defers fetching until the dependency is referenced from `build.zig`.\n\nDependencies are fetched by downloading the URL, verifying it against the pinned hash, unpacking into a project-local `zig-pkg/` directory named by the hash, and recursing into that dependency’s own `.zon`. A canonical recompressed tarball is kept in the [global cache](https://ziglang.org/download/0.16.0/release-notes.html#Fetch-Packages-Into-Project-Local-Directory) so a second project using the same hash doesn’t redownload. `zig fetch <url>` on its own downloads one URL and prints the computed hash for pasting into a manifest, without recursing. Supported schemes are `http(s)://` for tarballs and git bundles, `git+http(s)://` for the git smart protocol with a ref in the fragment, `file://`, and bare paths.\n\n`zig build` compiles `build.zig` together with every dependency’s `build.zig` into a single executable and runs it, so a transitive dependency’s build code is linked into the same program as yours rather than invoked as a separate process per package. Calling into a dependency from your build script [runs that dependency’s build script](https://github.com/ziglang/zig/blob/master/lib/std/Build.zig), which can do the same for its own dependencies.\n\nEvery `.zon` in the tree pins its direct dependencies by content hash, so there’s no version resolution step and the full tree is determined once the root’s hashes are fixed. Two dependencies that pin different hashes of the same upstream both get fetched and both exist, with deduplication by hash only. Version selection using the `fingerprint` field is [planned](https://github.com/ziglang/zig/issues/14288) and [expected to look like Go’s minimal version selection](https://kristoff.it/blog/zig-self-hosted-now-what/), but as of 0.16 the only cross-tree check is that the [same fingerprint and version can’t appear with two different hashes](https://ziglang.org/download/0.16.0/release-notes.html#Fetch-Packages-Into-Project-Local-Directory).\n\n0.14 introduced the [current hash format and the `fingerprint` field](https://ziglang.org/download/0.14.0/release-notes.html). 0.16 moved extracted packages from the global cache into a [project-local `zig-pkg/` directory](https://ziglang.org/devlog/2026/#2026-02-06) and added [`--fork`](https://ziglang.org/download/0.16.0/release-notes.html#Ability-to-Override-Packages-Locally) for overriding a package across the whole tree. On 30 June the fetching logic, HTTP client, TLS, and git protocol were [moved out of the compiler binary](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30) into the build-system process, shipped as source.\n\n## Categorisation\n\n### Client\n\n**Resolution algorithm.** None: each manifest pins exact content hashes with no version ranges. Closest to the [explicit-dependencies bucket](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#resolution-algorithms) alongside Nix and Guix, though without a [content-addressed store](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html) underneath, and with minimal version selection [planned](https://github.com/ziglang/zig/issues/14288).\n\n**Lockfile.** Manifest is the lock: `build.zig.zon` pins content hashes for every direct dependency and each dependency does the same for its own, with no separate file. Doesn’t fit any of the [existing buckets](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#lockfiles-and-reproducibility) cleanly: reproducible without a lockfile like Go, but by pinning hashes in the manifest rather than by deterministic resolution.\n\n**Build hooks.** Allowed: `build.zig` is a Zig program compiled and run at build time with every dependency’s `build.zig` compiled into the same process, comparable to Cargo’s `build.rs`, Gradle, or Swift’s `Package.swift`.\n\n**Tuesday test.** [Fails](https://nesbitt.io/2026/04/15/the-tuesday-test.html), i.e. the install can observe inputs the manifest doesn’t declare: `build.zig` is Turing-complete and runs for every dependency, though `.zon` on its own is pure data and would pass alone.\n\n**Manifest format.** Custom for metadata (`.zon`), host language for build logic (`build.zig`), where most tools in the [categorisation](https://nesbitt.io/2025/12/29/categorizing-package-manager-clients.html#manifest-format) put both in one file. Being a bespoke format rather than JSON or TOML, `.zon` needs its own parser in [every cross-ecosystem tool](https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html) that reads manifests, [ecosyste.ms](https://ecosyste.ms/) and [git-pkgs](https://github.com/git-pkgs) included.\n\n### Registry\n\n**Architecture.** [Source host as registry](https://nesbitt.io/2025/12/29/categorizing-package-registries.html#registry-architecture), alongside Go modules, Deno, and Carthage, with no central index and packages served as tarballs or git refs at whatever URL the author chose.\n\n**Review model.** None: whoever controls the URL controls what’s served at it.\n\n**Namespacing.** URL-based for location, but identity is the `name` plus a self-generated 64-bit `fingerprint`, which doesn’t match any bucket in the [namespacing categorisation](https://nesbitt.io/2025/12/29/categorizing-package-registries.html#namespacing).\n\n**Distribution model.** Source only, compiled on the client.\n\n**Ecosystem scope.** Language-specific, though Zig’s C interop and bundled `zig cc` mean C and C++ libraries are commonly packaged as Zig dependencies too.\n\n**Version retention.** Delegated to the source host, so a GitHub release stays available until the repo owner deletes it or the account goes away, and there’s no yank mechanism.\n\n**Size.** Without a central index there’s no canonical count, though [Zigistry](https://zigistry.dev/) scrapes GitHub for repos with a `build.zig.zon` and indexes what it finds.\n\n**Mirroring.** Trivial in principle since the client accepts any URL and verifies by hash, though each `.zon` names one URL per dependency, so if that URL goes dead the depender has to edit their manifest.\n\n## Governance\n\nThe [Zig Software Foundation](https://ziglang.org/zsf/) governs the language and the tool, funded by donations, but package hosting and name authority are outside its remit since there’s no registry for it to operate.\n\nName ownership rests on the `fingerprint`, and the [manifest documentation](https://github.com/ziglang/zig/blob/master/doc/build.zig.zon.md) says a fork of a maintained project should regenerate it, calling a fork that keeps the upstream’s value “hostile, attempting to take control over the original project’s identity”. Nothing enforces that and there’s no arbiter to appeal to. Availability, account recovery, DMCA takedowns and abuse handling all fall to whichever source host the URL points at, which in practice is overwhelmingly GitHub. Removal of a malicious version is something only the repo owner or the source host can do, and neither has any way to signal downstream `.zon` files that already pin its hash. Changes to the package manager itself go through the [Zig issue tracker](https://github.com/ziglang/zig/issues).\n\nLoris Cro of the ZSF wrote in 2022 that [“we don’t plan to create an official package index”](https://kristoff.it/blog/zig-self-hosted-now-what/), so the absence of a [governance provider](https://nesbitt.io/2025/12/22/package-registries-are-governance-as-a-service.html) is a design choice rather than a gap.\n\n## Comparisons\n\nThe closest existing designs are Go modules and pre-JSR Deno (when it imported dependencies directly by URL): URL-addressed source, no publish step, no central registry, integrity by content hash. Go’s `go.sum` and checksum database are the nearest equivalent to `.zon` hashes, though Go verifies against a public log rather than only what the depending project committed. Swift Package Manager is close on the client side, with a host-language build manifest and git-URL dependencies, but resolves version ranges against tags rather than pinning a single hash. Bazel’s [`http_archive`](https://bazel.build/rules/lib/repo/http#http_archive) takes a URL list plus a `sha256` with the hash as the identity and the URLs as interchangeable mirrors, then evaluates a hermetic Starlark `BUILD` file rather than a Turing-complete build program.\n\nThe `fingerprint` is what none of those have: a package identity that survives a URL change, whereas in Go the identity is the module path and moving a repo creates a new module. The [`--fork` flag](https://ziglang.org/download/0.16.0/release-notes.html#Ability-to-Override-Packages-Locally) uses it to substitute a local checkout for every occurrence of a package across the whole dependency tree, regardless of which URLs the intermediate `.zon` files pinned. It is a CLI argument only, not a manifest field, and the release notes call that [“appropriately ephemeral”](https://ziglang.org/download/0.16.0/release-notes.html#Ability-to-Override-Packages-Locally).\n\nThere is no `build.zig.zon` field equivalent to Cargo’s [`[patch]`](https://doc.rust-lang.org/cargo/reference/overriding-dependencies.html), Go’s [`replace`](https://go.dev/ref/mod#go-mod-file-replace), npm’s `overrides` or pub’s `dependency_overrides`, and [no update subcommand](https://github.com/ziglang/zig/issues/14288) for direct dependencies either.\n\nWith exact-hash pins at every level and no ranges to re-resolve, a fix in a low-level dependency reaches a project only when every intermediate `.zon` on the path has been re-released with the new hash. Until then the root’s options are forking the intermediates, vendoring a patched `zig-pkg/` into source control, or passing `--fork` on every build. The flag isn’t recorded anywhere, so the same commit builds a different tree depending on whether it was passed, in a design where the committed manifest is otherwise a complete lock. Once [minimal version selection](https://github.com/ziglang/zig/issues/14288) lands, listing the fixed version in the root `.zon` would be enough, as it is in `go.mod`.\n\nThe `.paths` filter is close to the `files` array in `package.json` or `include` in `Cargo.toml`, except that the hash is computed after the filter is applied rather than over a tarball the author uploaded, so the inclusion list is part of the identity rather than a packaging convenience.\n\n## Threat model\n\n### Client\n\n**Code execution at install time.** `zig build --fetch` runs nothing from the package: it downloads each URL, verifies the hash, extracts and parses each dependency’s `.zon` as data, and recurses without compiling `build.zig`. `zig build` compiles your `build.zig` and every dependency’s `build.zig` into [one executable](https://github.com/ziglang/zig/blob/master/lib/std/Build.zig) and runs it, so a dependency’s build script executes with your privileges the first time you build. There’s no flag to disable that, since the build script is how a dependency exposes its artifacts. A `.lazy = true` dependency isn’t fetched, and its `build.zig` isn’t compiled in, until [`b.lazyDependency`](https://github.com/ziglang/zig/blob/master/lib/std/Build.zig) is called for it.\n\n**Code execution before install time.** Since `.zon` is data, parsing a manifest and running `zig fetch` on an untrusted URL are safe modulo the extractor, but `zig build` on an untrusted checkout compiles and runs `build.zig`, and so do `zig build -h` and `--list-steps`, since the step list comes from executing the configure phase.\n\n**Lockfile guarantees by design.** The manifest pins 200 bits of SHA-256 for every direct dependency, and each of those pins its own, so the whole tree is fixed by content and every install is a locked install. The guarantee is per-project and starts at first fetch: the hash protects a project from the URL’s contents changing later, but there’s no independent record of what the URL served at the moment the hash was first written down. Go’s [checksum database](https://go.dev/ref/mod#checksum-database) is the counterexample, a public log that records what each module path served so a substituted first fetch would disagree with everyone else’s. Without an equivalent, two Zig projects adding the same URL a week apart can pin different hashes with nothing to flag the discrepancy. Plain `http://` URLs are accepted without a warning, and an already-unpacked `zig-pkg/<hash>/` directory is not re-hashed before reuse.\n\n**Package name identity.** `name` is a bare Zig identifier, at most 32 bytes, case-sensitive, ASCII only, so the usual normalisation gaps don’t apply. Deduplication and `--fork` match on `name` plus `fingerprint`, so two packages sharing a `name` with different fingerprints coexist in the same tree.\n\n**Resolution across multiple sources.** Each dependency entry names exactly one URL, so there’s no source ordering to get wrong and the dependency-confusion pattern doesn’t apply. The related failure mode is a stale URL: the `.zon` records where the author fetched from, and if that host disappears there’s no automatic fallback even though any mirror serving the same bytes would satisfy the hash.\n\n### Registry\n\n**Namespace allocation.** Fingerprints are self-asserted rather than allocated, so a fork can write the upstream’s value into its own manifest verbatim and be matched as the same package. Typosquatting on the URL is the source host’s problem.\n\n**Maintainer lifecycle.** Maintainership is control of the source repo, so adding a maintainer means adding a GitHub collaborator, and nothing signals that to anyone with the package in their tree. Account recovery is whatever the source host provides, and a lapsed custom domain in a `.url` is a straightforward takeover, mitigated only by the hash pin in existing dependers’ manifests.\n\n**Immutability of published versions.** The hash in a depender’s `.zon` guarantees they get the bytes they locked but not their continued availability, and the tag or release the URL points at can be replaced with something else that new dependers will then pin. Git tags can be [force-pushed](https://arxiv.org/abs/2606.31354), GitHub release assets can be replaced, and there’s no transparency log recording what a URL served when.\n\n**Provenance from source to artifact.** The artifact is the source, so there’s no build step to attest. The hash proves you got what the depender pinned but not who wrote it or whether the URL’s repo matches the tarball, and trusted publishing would need somewhere to publish to.\n\n**The minimum viable publish credential.** This is whatever the source host issues: for GitHub, a token or SSH key with push access to the repo, with scoping, expiry and 2FA on GitHub’s side and no separate publish surface for a Zig-specific credential to protect.\n\n**Blast radius and detection.** Anomaly detection on publish, malicious-version markers that clients check, and central audit logging are all registry functions that nothing here stands in for. A compromised release spreads only as fast as dependers update their `.hash` fields, which is slower than a registry ecosystem with floating ranges but also means there’s no single place to pull it from once it’s out, and detection falls to whoever’s reading diffs on the source host.\n\n### The tool’s own supply chain\n\nThe Zig compiler’s [own `build.zig.zon`](https://github.com/ziglang/zig/blob/master/build.zig.zon) declares zero external dependencies, with the only entries being `.path` references into the source tree. The toolchain components it needs are [vendored into the release tarballs](https://ziglang.org/download/0.16.0/release-notes.html#Toolchain) rather than fetched. Since the [30 June change](https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30) the HTTP client, TLS stack, git protocol and decompressors ship as Zig source rather than compiled into the `zig` binary, which the devlog notes runs in `ReleaseSafe` so safety checks stay on for the networking code.\n\n## Summary\n\nClosest relatives are Go modules and pre-JSR Deno on the registry side, Swift Package Manager on the client side, and Bazel’s `http_archive` on the fetch model. Treating the content hash as the identity, with the URL just one place to fetch it, is the right way round, and `.zon` being pure data means the dependency graph can be read without executing anything. The compiler declaring zero external dependencies of its own is a supply chain position I’d like to see more of, and moving the networking stack out into `ReleaseSafe` source that can be patched without rebuilding the compiler is a good recent change.\n\n`.zon` being a bespoke format rather than JSON or TOML means I’ve had to write a parser for it in both [ecosyste.ms](https://ecosyste.ms/) and [git-pkgs](https://github.com/git-pkgs), and so will everyone else building cross-ecosystem tooling. The tool ends up on the wrong side of the [Tuesday test](https://nesbitt.io/2026/04/15/the-tuesday-test.html) because `build.zig` is a full Zig program, when the pure-data `.zon` had it most of the way to passing. The governance functions a registry would provide fall to GitHub instead, which is now the arbiter of availability, account recovery and abuse handling for Zig packages without either party having chosen that.\n\nNothing in the manifest can override a transitive dependency, so if a low-level package ships a security fix and an intermediate hasn’t re-released, the options are forking the intermediate or passing `--fork` on every build, and the flag leaves nothing in the repo to record that it was passed. Cargo, Go, npm, pub, Mix and Bazel all have a manifest field for this, and exact-hash pinning makes its absence matter more here than it would with version ranges.",
+        "url": "https://nesbitt.io/2026/07/09/unboxed-zig.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Algorithms",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-09T10:00:00.000Z",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "poppy the training box, part 1: the beginnings",
+        "summary": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n     ",
+        "content": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    For a while I've been planning to put together a separate machine for local LLM\ntraining.  Until now, I've been using my desktop PC, `perry`.  I have an RTX 3090\ninstalled, and can get useful training runs done (most recently,\n[a 163M-parameter GPT-2 small style LLM in JAX](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax)),\nbut there are a couple of problems.\n\n- `perry` is my daily driver.  If he's doing a training run, then everything is\njust a little bit sluggish as CPU and GPU alike are busy.\n\n- Although I don't play games often, it's annoying to have the option ruled out\nfor days at a time.\n\n- While the GPU is busy with a training run, I can't do other experiments in parallel\n-- for example, to scope out what the next step might be.\n\nAnd relatedly to all of those: the two-day limit to the training runs I've been doing is something I set\nbecause that's the maximum amount of time I'm willing to have `perry` tied up.  It\nwould be really interesting to try longer training runs!\n\nI also have longer-term plans; a multi-GPU box would be interesting to put together --\nnot just to have more power locally, but so that I could test larger-scale cloud\nmulti-GPU\ntraining runs before starting to pay for expensive machines.  US$15.92 an hour to rent a machine\nisn't a *lot* of money, but it adds up, especially if you're spending it while debugging\nparallelism issues.\n\nAnd finally, I've always been interested in putting together a custom water-cooling\nloop in a PC.  I've been building my own machines since 1995 or so, but never got round\nto that side of things.  It sounds fun!\n\nBut despite all of those future plans, this is a fairly normal machine-building post -- how I repurposed an old PC,\nplugged in a second-hand RTX 3090 from eBay, tested it all, accidentally trained an LLM\nfor 11 days, and almost cooked a CPU.\n\nOver time, I expect\nto be posting more -- and more interesting -- build details.  Let's think of this as\nestablishing the baseline.\n\n    \n        \n## `poppy`\n\nBack before I moved to Lisbon, we had a holiday home here.  When we came over, I'd\nbring my laptop, but that was always somewhat unsatisfactory -- limited CPU power for\nwork, limited GPU for my occasional gaming.\n\nDuring Covid, we started staying in the holiday home for longer periods -- and this became\ntoo big of an annoyance to ignore.  So in 2020 I put together a small form-factor PC, which I\nnamed `poppy`.  The constraints were:\n\n- Small enough to fit in a carry-on bag.  I was building the machine in London, and wanted\nto be able to bring her to Portugal easily, and to be able to bring her back if\nI wanted to.\n\n- Portable enough to quickly move around the flat.  In the holiday home, the dining\nroom was my study, so I wanted to be able to keep `poppy` there normally, but\nmove her when we had guests for dinner.\n\n- Powerful enough to be able to run the games I was playing -- at the time I was a\nbig fan of [Assassin's Creed Odyssey](https://www.ubisoft.com/en-us/game/assassins-creed/odyssey),\nwhich didn't need a flagship card, but wasn't lightweight either.\n\nThe build was a bit fiddly, like all SFF PCs.  You can see the component list\nand build notes [here on PCPartPicker](https://pcpartpicker.com/b/J2Wbt6), but in short she had:\n\n- An AMD Ryzen 5 3600 3.6GHz 6-Core CPU\n\n- A Noctua NH-L9a-AM4 CPU cooler\n\n- A Gigabyte X570 I AORUS PRO WIFI Mini ITX Motherboard\n\n- 32 GiB Corsair Vengeance DDR4 RAM\n\n- 2x Samsung 970 Evo 500 GB NVMe SSDs\n\n- A Zotac GTX 1660 Super 6 GiB GPU\n\n- A Lian Li PC-TU100 Mini ITX case\n\n- A Corsair SF450 450W SFF PSU\n\nShe looked like this:\n\n![poppy in her original form](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/poppy-original.jpg)\n\n(Gosh, I'd forgotten how... vivid our wallpaper was in that dining room.)\n\nFor scale -- that case is slightly taller than two cans of coke stacked on top of\neach other.  So, pretty small.\n\nWhen we moved to Lisbon full-time, I brought `perry` with me from London, and while he's been upgraded\nseveral times since (including adding an RTX 3090 [in late 2023](https://www.gilesthomas.com/2024/02/llm-quantisation-weirdness)),\nhe's been my daily driver since.  So `poppy` sat in the corner of my study, sad and unused :-(\n\nIt was time to bring her out again.  Initial plan: get her up and running in a new,\nlarger case, with a PSU that could potentially handle three graphics cards.\n\n## Getting her up and running in a new case\n\nInitially, I found that she wouldn't switch on: a quick check suggested that the\nproblem was the PSU.  I'd had problems with SFF PSUs in the past, and given that\nthe plan was to give her a new one, I just got one, along with a new, larger case\n-- specifically:\n\n- An [ASRock Phantom Gaming PG-1600G 1600W](https://pcpartpicker.com/product/GwtLrH/asrock-phantom-gaming-pg-1600g-1600-w-80-gold-certified-fully-modular-atx-power-supply-pg-1600g),\nwhich would have power in spades -- an RTX 3090 goes up to about 370W at full\ndraw, so that should hopefully handle three of them plus a CPU without problems\neven if one or two of the GPUs had power spikes.\n\n- A [Fractal Design North XL](https://pcpartpicker.com/product/LbHqqs/fractal-design-north-xl-mesh-atx-full-tower-case-fd-c-nor1x-01).\n`perry` was already in a North (not the XL variant) and I love the case; the XL\none looked like a good option if I was going to be cramming more GPUs in there,\nand had plenty of space for water-cooling.\n\nA few days later, the parts arrived.  Here's a family photo:\n\n![perry, poppy and Cornélia](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/family-photo.jpg)\n\n`perry` is to the left, `poppy` centre, sitting on top of her new case, and Cornélia (wearing her Flower of Shame)\nis to the right.  For scale, Cornélia is quite a large cat.  (I appreciate that that is not\nimmensely helpful.)\n\nTime to put the old motherboard and the new PSU into the new case.  Here's what\nit looked like:\n\n![poppy internals, old graphics card](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/poppy-initial-internals.jpg)\n\nThe Mini-ITX motherboard in a case designed for full ATX looks comically like a postage\nstamp.\n\nI switched her on, and luckily enough, everything worked!  Must have been a PSU issue.\n\nThe OS that she had was a more than three-year-old version of Arch, so I wiped\nthe drives and installed the most recent version with my normal config, and it was\ntime for a quick test.\n\n## An LLM training run, because of course it is\n\nOne of the nice things about having done all of this LLM training stuff recently is\nthat you have a ready-made burn-in test for new hardware :-)   I didn't have my\n[JAX training code](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax) yet,\nbut I did have the [PyTorch one](https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation).\n\nNow, with her GTX 1660 Super GPU, `poppy` was clearly not going to be able to train\nan LLM of the size I could with `perry`'s RTX 3090.  I did some fiddling around with\nthe model and training run parameters, and found that I could fit in a cut-down version\nof GPT-2 small with this setup:\n\n- Vocab size: 50257 -- this was fixed because I was using the GPT-2 tokeniser.\n\n- Context length: down from 1024 to 512\n\n- Embedding dimensions: down from 768 to 512\n\n- Number of heads: down from 12 to 8\n\n- Number of layers: down from 12 to 8\n\n- QKV bias: no (different to GPT-2, but the same as my own best local model).\n\nI trained it with a microbatch size of 4, gradient accumulation over 16 steps, and\nall other hyperparameters the same as my normal training runs on `perry`.  The number\nof training tokens went down -- the model had 76,933,120 parameters, so I needed to\ntrain for just over 20x that -- about 1.5B instead of the 3.2B I've been training my other\nmodels on.\n\nI kicked that off, and out of interest, I kicked off another training run on `perry`\nwith the same setup to see what happened.\n\nThe `perry` training run went normally -- GPU running at full blast, 368W, and it completed\nin about 9 hours.  That's less than 1/4 of the time my normal training runs take, which\nmakes sense because time taken for this kind of thing scales roughly linearly with both the size of the model and\nthe number of tokens, and both of those were about half the normal size.\n\n`poppy` was a bit more interesting.  In `nvtop`, the GPU usage showed up as 100%, but\nwith an \"effective\" utilisation of 53%.  The power draw matched the latter, being\n67W out of a total possible 125W.  I'm not quite sure what was causing that -- clearly\nthere was a bottleneck somewhere.  Not really worth digging into, though, given that I\nwas going to replace the card shortly.\n\nAnyway, that took 963,257 seconds to run.  That's 267.57 hours, or just over 11 days.\n\nYikes.\n\nWhat's kind of interesting there is that this training run not only took much longer\n(which is only to be expected), but that it used more electricity.  67W over 267.57 hours\nis just short of 18kWh, whereas 368W over 9 hours is about 3.3kWh.\n\nBuy an RTX 3090, save the planet!\n\nI decided to run my normal evals to confirm that what had come out the other end\nwas sane.  When asked to complete \"Every effort moves you\", `perry`'s model said:\n\n`Every effort moves you and your friends. The key is keeping you informed. But, you still need to be cautious about\n`\n\nAnd `poppy`'s said:\n\n`Every effort moves you forward. Every week, you make adjustments to a certain level—just as soon as you leave your\n`\n\nThose were actually rather good, I thought!  And looking at my normal loss test\nconfirmed that the models really weren't that bad; `perry`'s got 3.855702, and\n`poppy`'s 3.855981.  That was actually better than the 3.943522 I'd got on `perry`\nbefore [I went down my rabbit hole of optimising hyperparameters](https://www.gilesthomas.com/2026/02/llm-from-scratch-32a-interventions-baseline-model).\n\nSo, that was an interesting test -- I was talking to ChatGPT about it at the time\nand it called it \"maybe an art project\", which I thought was amusing if a bit arch.\n\nTime to do something a bit more useful.\n\n## An RTX 3090\n\nFinding an RTX 3090 for a decent price from a trustworthy-seeming vendor is kind of\nhard right now.  But it's still the sweet spot for price-performance if you're looking\nto train models locally, so I set up an alert on eBay, and eventually one popped up\nin Bulgaria.  I bought it, and a few days later, this turned up:\n\n![Shiny new RTX 3090](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/new-rtx-3090.jpg)\n\nIt's actually not as ugly as it looks in that photo -- it's considerably uglier.  The\nstuff that looks a bit like crinkled aluminium foil is really white plastic with a\nkind of crystalline texture.\nMade me glad that I'd gone for the mesh-sided case rather than the glass one.\n\nWell, I hadn't bought it for the looks.  I removed the old GTX 1660, and put in the\nnew card, switched it on, and:\n\nWow, a disco in my PC.  Lovely.\n\n## Testing, phase 1\n\nIt was time to kick off another training run to see if it worked.  This time, I did\nmy normal GPT-2 small sized train with optimised hyperparameters.  It ran for about ten\nminutes, and then `poppy` switched herself off.\n\nThat didn't look good.\n\nI spent some time digging around trying to work out why my new graphics card was broken,\nand then happened to be sending the video above to a friend, and spotted something.\n\nCheck out the Noctua fan -- the beige and brown one you can see behind the cooler\nmount, above the graphics card.  It wasn't spinning.  That's the CPU cooler fan and\nshould always be spinning, even if slowly, when the machine is on.\n\nI log basic metrics for all of my PCs to a central InfluxDB instance, so I checked that\nout and:\n\n![Crispy CPU](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/cpu-temp-spike.jpg)\n\nA CPU temperature spike up to about 115°C!  Not good.  Clearly an emergency thermal\nshutdown from the CPU.\n\nI initially thought that I must have knocked the fan cable loose\nwhile plugging in the new GPU -- plausible, though they were quite far apart -- but\nunplugging then reseating it, then powering up the machine still didn't start the fan spinning.\nAnd it was not visible in the BIOS.\n\nI then zoomed out a bit in Grafana; I only keep 30 days' worth of metrics,\nand it had been more than a month since I did my original burn-in test, so I didn't\nhave anything for that.  But I did have this:\n\n![Long-term spicy CPU](https://www.gilesthomas.com/post-assets/poppy-the-training-box-1-the-beginnings/long-term-high-cpu-temp.jpg)\n\n`poppy` had been idle for all of that time, and was averaging CPU temps of over\n70°C.  The dropoff prior to running the test was because she'd had a chance to\ncool down while I installed the GPU.  Having spent ages setting up my InfluxDB\nmonitoring stuff so that I have metrics for everything, I should probably actually look at them every\nnow and then, because the fan had obviously not been doing anything for a month or so.\n\nWell, thank goodness for Amazon next-day delivery.  I bought a new\n[Noctua NF-A9x14 PWM](https://www.amazon.es/-/pt/dp/B009NQM7V2) (praying that\nthe problem was the fan and not the header on the motherboard), and when it arrived,\nI put it in.\n\n## Testing, phase 2\n\nThis time, when I powered her on, the fan was spinning.  Phew.  I left her running\nfor an hour, and the CPU temperature stabilised at 35.5°C.  Next, I kicked off a\nversion of my standard LLM training run with the number of tokens reduced so that\nit would run for an hour.\n\nDuring that, the CPU temperature went up to a moderately-toasty\n76°C -- not ideal, but remember that with the broken fan, she was running that hot\nat idle.  It seemed a bit odd that it was that hot at 10% CPU usage, but given that one\ncore was running at 100%, it didn't seem totally off.  The heatsink and fan are designed\nfor SFF PCs anyway, and those tend to run somewhat hot.\n\nThe GPU temperature also went up to 70°C and stabilised there, while\npower draw was stably about 368W out of 370W, and GPU utilisation at 100%.\nThat was particularly pleasing because Nvidia cards throttle at 83°C or so by default, so if I was getting\na lower temperature at full power, the fans clearly had some headroom for cooling.\n\nOnce that was completed, it was time for another full training run for a burn-in.\n\n## One of these days I'll do something that doesn't involve training an LLM, I promise\n\nI kicked off my normal run.  CPU and GPU temperatures stabilised at the same level as\nthey had with the one-hour test, which was promising, so it was just a question of\nwaiting...\n\n...until I got this:\n\n`Training complete in 144,531.113 seconds\nTokens seen: 3,260,252,160\nThroughput: 22,557 tokens/second\nFinal train loss: 3.530\n`\n\nAbout 40 hours, which is pretty much standard -- certainly the same as I'd expect\nfrom `perry`.  The smoke test:\n\n`Every effort moves you and your customers to the best possible extent.\nOur expertise and expertise have led to our ability to\n`\n\nDon't you just love it when your LLM tries to sell you something? [1](#fn-1)\nBut anyway, loss on the test set was 3.548880, which is essentially the same as\nthe same training run on `perry` too.\n\nSuccess!\n\n## All done for now\n\nSo, now `poppy` is a properly-configured training machine -- one RTX 3090, a CPU\nthat runs a bit hot but at least doesn't do emergency shutdowns, and a case and\na PSU with enough space for more GPUs.\n\nI think that the next step will be to move on to water cooling.  In order to support\nmore than one GPU, I'll need a new motherboard and probably a new CPU, so I don't think\nthere's any point in watercooling the latter, despite its toastiness -- I'd just be buying\na waterblock for it that I'd throw away in the not-too-distant future.\n\nInstead, I'll get the block for the GPU, and set up a loop to cool just that.\nWho knows -- maybe I can get rid of that horrendous RGB stuff at the same time!\n\nWe live in hope.",
+        "url": "https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "Thu, 09 Jul 2026 01:00:00 +0000",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Post-political (09 Jul 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/09Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/09/wilhoitia",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/09Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/09/wilhoitian/)\n\n## Today's links\n\n- [Post-political](https://pluralistic.net/2026/07/09/wilhoitian/#human-rights-v-property-rights): What a \"leftist\" is.\n\n- [Hey look at this](https://pluralistic.net/2026/07/09/wilhoitian/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/07/09/wilhoitian/#retro): MSFT x OSCON; Parental spyware; \"Resurrection Man\"; Brexit do-over petition; Workplace email spying; Record label internet death penalty; News should be cheap, free and chaotic; \"Jughead\".\n\n- [Upcoming appearances](https://pluralistic.net/2026/07/09/wilhoitian/#upcoming): London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/07/09/wilhoitian/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/07/09/wilhoitian/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/07/09/wilhoitian/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/07/09/wilhoitian/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/post-political.jpg?w=840&ssl=1)\n\n## Post-political ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#human-rights-v-property-rights))\n\nThere's plenty of reasons to be skeptical of centrists who bemoan \"political polarization\" and call for a politics that abandons the \"tribalism of left and right.\"\n\nObviously there's the false equivalence: on the right, you have fascists who want to send masked, armed goons into the streets to beat, kidnap and murder your neighbors. On the left, you have calls for higher taxes, unions, environmental impact reviews for data-centers, and an end to the genocide in Gaza.\n\n\"Leftist extremism\" is moving some zines around:\n\n[https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines](https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines)\n\nRight wing extremism is attempting the overthrow of the government, murdering brown people in gulags, and the earth's richest man slaughtering the world's poorest children for the lulz:\n\n[https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)\n\n\"Horseshoe theory\" (the idea that the far right and the far left actually bend around to meet each other) is bullshit:\n\n[https://pluralistic.net/2024/02/26/horsehoe-crab/#substantive-disagreement](https://pluralistic.net/2024/02/26/horsehoe-crab/#substantive-disagreement)\n\nThe reality is that the right and left have large, substantive disagreements that are matters of life and death. Anyone dismissing these as \"tribalism\" doesn't know what \"left\" and \"right\" mean. At best, they have mistaken a collection of cultural signifiers – pronouns, MMA, brands of beer – for politics.\n\nMistaking cultural signifiers and identity markers for politics is centrism's most dangerous pathology, the thing that makes centrism the handmaiden of the right. If you think identity markers are politics, then you'll be tempted to think the answer to a world run by 150 rich, white, cis straight guys is to replace half of them with women, POCs and queer people. The difference between the left and the right isn't the identities of the ruling class – it's whether we have a ruling class *at all*.\n\nI collect definitions of \"right\" and \"left.\" There's Corey Robin's definition from *The Reactionary Mind*, that conservatism is the belief that some people were born to rule, and others to be ruled over, and that any attempt to elevate the latter group to positions of power (through civil rights movements, affirmative action, etc) will result in dire misrule and disaster:\n\n[https://pluralistic.net/2025/07/22/all-day-suckers/#i-love-the-poorly-educated](https://pluralistic.net/2025/07/22/all-day-suckers/#i-love-the-poorly-educated)\n\nThis explains how the right can encompass white nationalists (rule by white people), Hindu nationalists (rule by high-caste Hindus), libertarians (rule by bosses), imperialists (rule by military aggressors), etc. It also explains the right's obsession with learning the racial and gender markers of anyone involved in a plane crash or other disaster: \"See, the oil tanker was being piloted by a DEI hire when it crashed into that bridge!\"\n\nAnother important definition is Wilhoit's Law:\n\n> \n> Conservatism consists of exactly one proposition, to wit: There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect.\n> \n\n[https://pluralistic.net/2025/08/26/sole-and-despotic-dominion/#then-they-came-for-me](https://pluralistic.net/2025/08/26/sole-and-despotic-dominion/#then-they-came-for-me)\n\nThis one hardly needs explanation in this era of \"it's not a crime if the president does it,\" where Alex Jones can owe billions to the parents of dozens of murdered children and somehow not have to pay or give up his assets:\n\n[https://www.status.news/p/infowars-the-onion-alex-jones-ben-collins](https://www.status.news/p/infowars-the-onion-alex-jones-ben-collins)\n\nBut when it comes to a \"post-politics that is neither right nor left,\" the definition I turn to most often comes from science fiction writer Steven Brust, who once told me:\n\n> \n> \"Left\" and \"right\" have had the same meaning since the French Revolution. If you want to know if someone is on the left or the right, ask them, \"What is more important: human rights or property rights?\" If they say \"Property rights are a human right,\" then they are on the right.\n> \n\n[https://pluralistic.net/2021/03/16/wage-theft/#ppp](https://pluralistic.net/2021/03/16/wage-theft/#ppp)\n\nThat's it. That's the crux. If you think that property rights are a *tool* for achieving human rights, then you're on the left. You might support the right of farmers to block attempts to expropriate them via eminent domain in order to build a data center, or the right of people to not have their homes or devices searched by cops, or a library's right to own and archive digital books, even if the publishers insist that ebooks are never \"sold,\" merely \"licensed.\"\n\nIf property rights are a tool to achieve human rights, then property rights can be set aside when they impede other rights. Human beings have the right to health care, which is why we should have taken away the pharma companies' patents and copyrights, ending vaccine apartheid and letting the poor world make its own vaccines:\n\n[https://pluralistic.net/2021/05/25/the-other-shoe-drops/#quid-pro-quo](https://pluralistic.net/2021/05/25/the-other-shoe-drops/#quid-pro-quo)\n\nHuman beings have the right to shelter. If your town has a million empty homes and a million homeless people, there's an obvious solution. At the very least, you can tax the shit out of empty homes to discourage the creation of derelict, empty blights:\n\n[https://www.liverpoolecho.co.uk/news/liverpool-news/owners-homes-left-empty-more-28622796](https://www.liverpoolecho.co.uk/news/liverpool-news/owners-homes-left-empty-more-28622796)\n\nHuman beings have the right to food. If a cartel claims that you may not legally sell your 100,000lbs of nectarines, you can just give them away and tell the cartel to fuck off:\n\n[https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)\n\nAs Brust says, this fight is as old as the French Revolution. It's literally the plot of Les Miz (\"In days gone by, I stole a loaf of bread in order to live\").\n\nNote that this framework leaves plenty of room for disagreement among leftists: we can disagree about who should get taxed and how, when a company should be ordered to destroy its ill-gotten loot and when that loot should be divided up among its victims, and what to do about empty houses and homeless people. We can disagree about reparations, about collectivization and co-operatives, about land reform. Very (very!) few leftists want to abolish property, but to be a leftist is to agree that property is only ever a means, and never an end.\n\nIn systems thinking, we are counseled that the most profound and durable changes come from shifts in *paradigms*, from which all rules, laws and arrangements flow:\n\n[https://pluralistic.net/2026/05/12/donella-meadows/#paradigmatic](https://pluralistic.net/2026/05/12/donella-meadows/#paradigmatic)\n\n\"Left\" and \"right\" represent two *radically* different paradigms. The right's paradigm is that property rights are human rights, which cashes out to \"property rights are *the only* human right.\" If property rights are a human right, then I can burn down my orchard and laugh as you starve outside the gates. If property rights are human rights, I can leave an apartment building empty while you freeze to death on its sidewalk. If property rights are human rights, I can fill my factory with death-traps and insist that the workers I kill freely chose to assume that risk (as economists would say, they have a \"revealed preference\" for being killed at work):\n\n[https://pluralistic.net/2026/03/30/players-of-games/#know-when-to-fold-em](https://pluralistic.net/2026/03/30/players-of-games/#know-when-to-fold-em)\n\nLeftists view property rights as a tool, like laws, or regulations, or polls, or voting. Used well, these tools can produce prosperity for all. But \"voting\" and \"laws\" aren't good unto themselves. The Swiss practice of voting on whether your neighbors qualify for citizenship is barbaric:\n\n[https://www.bbc.com/news/newsbeat-38595807](https://www.bbc.com/news/newsbeat-38595807)\n\n*Good* regulations and laws are good, but simply passing *any* law is stupid and gets you into terrible trouble, even if the stupid law you've passed is designed to solve a real problem:\n\n[https://pluralistic.net/2026/06/23/destroy-the-village/#to-save-it](https://pluralistic.net/2026/06/23/destroy-the-village/#to-save-it)\n\nViewed as tools, property rights are perfectly useful ways of achieving the primary purpose of a civilization: to safeguard the human rights of its people. Viewed as ends unto themselves, property rights are a terrible danger to our civilization and species.\n\nIf you believe property rights are tools, then you can pass laws banning corporations from electioneering:\n\n[https://sos.mn.gov/media/3k4hu2if/minnesota-election-laws-statutes-and-rules.pdf](https://sos.mn.gov/media/3k4hu2if/minnesota-election-laws-statutes-and-rules.pdf)\n\nIf you believe property rights are human rights, then you end up supporting unlimited dark money spending in elections:\n\n[https://www.supremecourt.gov/opinions/25pdf/24-621_h315.pdf](https://www.supremecourt.gov/opinions/25pdf/24-621_h315.pdf)\n\nIf you believe property rights are tools, you can order landlords who want to ban their tenants from installing balcony solar to fuck off. If you believe property rights are human rights, then landlords can force their tenants to pay every dime the fossil fuel industry demands of them. \"Property right as tool\" allows you to defend a farmer's right to install a wind-farm, and still, to block a data-center from installing a gas turbine on its own land.\n\n\"Post-political\" movements are made up of people who don't know what politics are. A \"centrist\" is ultimately a rightist, because the foundation of rightism is the supremacy of property. It is the ideology that breeds hereditary aristocracy (\"property is a human right\" means that it's a violation of your human rights to expect you to work for a living if you emerged from a lucky orifice). It's the ideology that breeds oligarchy.\n\nPolitics aren't a bunch of cultural signifiers or identity markers. Politics aren't about who rules – it's about whether we are ruled *at all*, or whether we are free.\n\n(*Image: [Lewis Clarke](https://commons.wikimedia.org/wiki/File:Bridport_,_Bridport_Suburbs_-_geograph.org.uk_-_6489460.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en), modified*)\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Hell Is Other People  [https://locusmag.com/feature/commentary-cory-doctorow-hell-is-other-people/](https://locusmag.com/feature/commentary-cory-doctorow-hell-is-other-people/)\n\n- \nIncarcerated People Lose Treasured Media When Prisons Change Tablet Contracts [https://truthout.org/articles/incarcerated-people-lose-treasured-media-when-prisons-change-tablet-contracts/](https://truthout.org/articles/incarcerated-people-lose-treasured-media-when-prisons-change-tablet-contracts/)\n\n- \nJay Rosen’s Internet Archive: an Introduction [https://pressthink.org/2026/07/jay-rosens-internet-archive-an-introduction/](https://pressthink.org/2026/07/jay-rosens-internet-archive-an-introduction/)\n\n- \nZohran Mamdani on the Promise of America [https://jacobin.com/2026/07/zohran-mamdani-independence-day-address](https://jacobin.com/2026/07/zohran-mamdani-independence-day-address)\n\n- \nThe official website of Nand to Tetris courses [https://www.nand2tetris.org/](https://www.nand2tetris.org/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#retro))\n\n#25yrsago Why Microsoft was invited to OSCON [https://web.archive.org/web/20010701102931/http://www.oreilly.com/news/osconint_0601.html](https://web.archive.org/web/20010701102931/http://www.oreilly.com/news/osconint_0601.html)\n\n#25yrsago The Extent of Systematic Monitoring of Employee E-mail and Internet Use [https://web.archive.org/web/20010711204804/http://www.privacyfoundation.org/workplace/technology/extent.asp](https://web.archive.org/web/20010711204804/http://www.privacyfoundation.org/workplace/technology/extent.asp)\n\n#20yrsago BPI: We should be able to cut off your Internet [https://memex.craphound.com/2006/07/10/bpi-we-should-be-able-to-cut-off-your-internet/](https://memex.craphound.com/2006/07/10/bpi-we-should-be-able-to-cut-off-your-internet/)\n\n#20yrsago Technology for parents to spy on kids [https://web.archive.org/web/20060711084212/http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/09/BIGMOTHER.TMP](https://web.archive.org/web/20060711084212/http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/07/09/BIGMOTHER.TMP)\n\n#20yrsago Dale Bailey's \"The Resurrection Man\" [https://memex.craphound.com/2006/07/09/southern-gothic-science-fiction-collection/](https://memex.craphound.com/2006/07/09/southern-gothic-science-fiction-collection/)\n\n#10yrsago A law prof responds to students who anonymously complained about #blacklivesmatter tee [https://backspace.com/notes/2016/07/law-professors-response-to-black-lives-matter-shirt-complaint.php](https://backspace.com/notes/2016/07/law-professors-response-to-black-lives-matter-shirt-complaint.php)\n\n#10yrsago UK government rejects Brexit do-over petition with 4.1m signatures [https://web.archive.org/web/20160709101514/https://www.independent.co.uk/news/uk/politics/brexit-government-rejects-eu-referendum-petition-latest-a7128306.html](https://web.archive.org/web/20160709101514/https://www.independent.co.uk/news/uk/politics/brexit-government-rejects-eu-referendum-petition-latest-a7128306.html)\n\n#10yrsago New Zealanders raise millions to buy beach and donate it to the public [https://www.bbc.co.uk/news/world-asia-36759321](https://www.bbc.co.uk/news/world-asia-36759321)\n\n#10yrsago Jughead: Zdarsky’s reboot is funny, fannish, and freaky [https://memex.craphound.com/2016/07/10/jughead-zdarskys-reboot-is-funny-fannish-and-freaky/](https://memex.craphound.com/2016/07/10/jughead-zdarskys-reboot-is-funny-fannish-and-freaky/)\n\n#5yrsago Biden's Right to Repair will include electronics, too [https://pluralistic.net/2021/07/10/unnixing-the-fix/#r2r-plus-plus](https://pluralistic.net/2021/07/10/unnixing-the-fix/#r2r-plus-plus)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- London: Idler Festival, Jul 11\n\n[https://www.idler.co.uk/festival/](https://www.idler.co.uk/festival/)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/cory-doctorow/](https://festivalofdangerousideas.com/cory-doctorow/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#recent))\n\n- Can AI be Saved From Capitalism? (Everyday Anarchism)\n\n[https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/](https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/)\n\n- \nLawfare Daily\n\n[https://www.youtube.com/watch?v=T1KIwaYRs1g](https://www.youtube.com/watch?v=T1KIwaYRs1g)\n\n- \nHow to Think About AI (Organized Money)\n\n[https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow](https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow)\n\n- \nBreaking Points\n\n[https://www.youtube.com/watch?v=VJmUbkRqXeE](https://www.youtube.com/watch?v=VJmUbkRqXeE)\n\n- \nA.I. Enshittifies Everything (Slate)\n\n[https://slate.com/podcasts/what-next-tbd/2026/06/cory-doctorow-thinks-a-i-is-overvalued-and-overrated-and-still-a-threat](https://slate.com/podcasts/what-next-tbd/2026/06/cory-doctorow-thinks-a-i-is-overvalued-and-overrated-and-still-a-threat)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/07/09/wilhoitian/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/07/08/wilhoitian/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "Thu, 09 Jul 2026 06:37:55 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Boxed In",
+        "summary": "**One look at Paul Fusco’s [IMDB page](https://www.imdb.com/name/nm0299319/)** makes clear that he has not worked on anything but *ALF* since the early 1990s. He has essentially played one character f",
+        "content": "**One look at Paul Fusco’s [IMDB page](https://www.imdb.com/name/nm0299319/)** makes clear that he has not worked on anything but *ALF* since the early 1990s. He has essentially played one character for most of the past 40 years.\n\nIt’s a good character, and given my elder millennial status, one that I remember fondly. I was one of the millions of people who loved *ALF* back in the late ’80s. But at what point do you realize, holy crap, you’ve backed yourself into a snarky alien corner?\n\n[A recent video from the channel Treehouse Detective](https://www.youtube.com/watch?v=sG8OLENd9dw) put an interesting spin on this TV classic, that it reflects the work of a creative person who was only willing to serve up his skills in one specific way. ALF must not be treated like a puppet, and it cannot be clear that Fusco is hiding under the weird creature he created.\n\nThis high standard led to years of tension on the ALF set, as everyone needed to make way for Mr. Gordon Shumway, but it also made the production significantly more difficult, thanks to a set full of trap doors and an insanely long production process for a TV sitcom. The importance of keeping up the illusion meant that ALF was stuck in this house, and couldn’t appear in other settings. That ultimately stifled the show, killed its ratings, and led to its cancellation—a cancellation that, mind you, likely wouldn’t have happened if Fusco was willing to be more of a team player.\n\nIt also limited career opportunities for Fusco’s alien. Andrew Price, the mind behind the channel, described how Fusco’s exacting standards meant that he unwittingly turned down career opportunities for his creature. This *Saturday Night Live* anecdote, shared by Price, lays things out perfectly:\n\n> Fusco said he’d only do it if the studio audience couldn’t see the puppeteers, and they built a trench on the SNL stage to maintain the illusion throughout the taping. Can you imagine that? The SNL crew would need to build a bunch of tunnels underneath the sound stage. And then ALF would have to be off the magic trick to make it seem like he was a real guy, all for one single episode.\n\nIt’s pretty obvious if you look at it from a distance: Fusco didn’t turn them down; instead, he was so unwilling to lower his standards that he forced open doors to slam shut.\n\nFor those not familiar with the history of *ALF*, the TV show ended up being a huge hit, but its ratings dropped off sharply during its fourth season, which led the show to get canceled on a cliffhanger. And not just any cliffhanger, either—one in which ALF was taken away by the government just before he’s about to leave Earth, traumatizing a generation of school-age *ALF* fans.\n\nBy the time Fusco got the chance to close the loop with *Project ALF*, a TV special that aired on ABC six freaking years after NBC dumped the show, the dream of *ALF* was already dead.\n\nIn the years since, Fusco has only been able to bring it back as a nostalgia ploy, most recently in 2023 when Ryan Reynolds [acquired rights to the show](https://www.hollywoodreporter.com/business/digital/alf-reboot-ryan-reynolds-maximum-effort-channel-ads-1235543777/) as a sponsorship play. Not exactly dead, but not quite the cultural force it seemed like Mr. Shumway was on his way to becoming in 1987.\n\nThis is not like an unknown story in the history of television, and ALF’s arc is not unique, especially to the ’80s, where gimmicky characters like Pee-Wee Herman, Ed Grimley, Ernest P. Worrell, and Mr. T dominated the zeitgeist. But Fusco’s tendency to encase his character in amber and pretend that he wasn’t a puppeteer holding a puppet at the end of the day? That stands out.\n\n![picture-frame.jpg](https://proxy.tedium.co/FAE0FxTqefXVm8nhtV7KofYTlOc=/1000x750/filters:quality(80)/uploads/picture-frame.jpg)Putting too much focus on the right picture frame, rather than the art the frame captures, might devalue the art over time. ([Jackie Hope/Unpsplash](https://unsplash.com/photos/gold-framed-mirror-on-white-wall-j-q5CcKo7eY))Framing can be a really useful tool to think about your own approach to creativity, and I found myself thinking bigger-picture after watching Price’s video. As a creative person, I have often taken the philosophy of saying no more than I say yes, and that has led me to a lot of interesting times that I’ve said no.\n\nI’ve never done a podcast or really played seriously in video, for example, and I’ve avoided paywalling my content for the most part. When lots of creators found success with social media or big platforms, I’ve largely stayed die-hard indie. Other creative folks, I’m sure, have their own version of this, the lines they won’t cross out of fear they might stifle or destroy their vision.\n\nBut there’s being passionate about a vision, and there’s letting that vision get in the way of what you’re actually trying to do.\n\nIt’s worth noting that Fusco himself has said that, no, all the horror stories about *ALF*’s production weren’t as bad as everyone says they were. [As he told *The Hollywood Reporter* in 2012](https://www.hollywoodreporter.com/tv/tv-news/alf-creator-paul-fusco-movie-melmac-327330/), amid hints of a revival that never came to pass:\n\n> It was just the nature of the beast. There was no way we could have made it go any further or any faster. So no, I think it was frustrating that it would take so long, but people got paid for what they did. Despite what people thought, that there was a lot of tension on set, there really wasn’t.\n\n(The late Max Wright, who played the put-upon Willie Tanner and who once reportedly got into a fist-fight with the character, might have disagreed with that sentiment.)\n\nI think there’s a universe where one might be too close to their creation and cannot look at it objectively, and that causes the creation to ultimately turn on its creator. Or maybe it makes it so our successful work doesn’t have a sustainable economic upside.\n\nIn a world where successful people are always looking for paths to success that are never guaranteed, we should not have so much pride in our work that we make that work difficult for others to latch onto.\n\nThat makes it way too easy to dismiss.\n\n##### ALF-Free Links\n\n**Cool thing worth trying:** The website [Uncovered](https://uncovered.ink/), which essentially gets past judging a book by its cover and pushes you towards the first page.\n\n**John Oliver’s dream of becoming** a soap opera actor was hilarious when he first suggested it earlier this year, but is even better now that it has actually happened. This compilation is amazing. I recommend [the section starting at 5:40](https://youtu.be/gtpHIGVjl-k?si=ZHs3dp2c7NFvdBBz&t=340).\n\n**I’m presumably way late to this,** but [The Weather Channel’s Retrocast](https://weather.com/retro/) is basically the only way I want weather delivered to my eyeballs from now on.\n\n--\n\nSo yeah, deep thoughts from *ALF*. Thanks again to [Treehouse Detective](https://www.youtube.com/@treehousedetective) for such an inspiring video. Find this one an interesting read? [Share it with a pal](https://tedium.co/2026/07/09/alf-paul-fusco-creativity-constraints/)!\n\nAnd admit it: You want to buy something strange. The [Tedium Shopping Network](https://shopping.tedium.co/) can help with that—we just added something ALF-related.",
+        "url": "https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-09T17:20:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Introducing Muse Spark 1.1 - 9th July 2026 - Link Blog **[Introducing Muse Spark 1.1](https://ai.meta.com/blog/introduc...",
+    "Today’s the Day OpenAI Fucked Up the ChatGPT Mac App - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?w=1600) Open...",
+    "The new GPT-5.6 family: Luna, Terra, Sol - 9th July 2026 OpenAI’s latest flagship model [hit general availability this morning](https...",
+    "Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher - Tobias Steinke, [replying on Mastodon](https://mstdn.social/@gewappnet/116878216947000298)...",
+    "★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope - In September 2014, in the wake of a series of hacks [that stole private photos from the iC..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 13
+    },
+    {
+      "word": "com",
+      "count": 9
+    },
+    {
+      "word": "openai",
+      "count": 5
+    },
+    {
+      "word": "llm",
+      "count": 4
+    },
+    {
+      "word": "strong",
+      "count": 4
+    },
+    {
+      "word": "mismatch",
+      "count": 4
+    },
+    {
+      "word": "error",
+      "count": 4
+    },
+    {
+      "word": "net",
+      "count": 4
+    },
+    {
+      "word": "href",
+      "count": 3
+    },
+    {
+      "word": "llm-meta-ai",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "fixed",
+      "count": 3
+    },
+    {
+      "word": "monorail",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "muse",
+      "count": 3
+    },
+    {
+      "word": "spark",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "mac",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "simonw",
+      "count": 2
+    },
+    {
+      "word": "releases",
+      "count": 2
+    },
+    {
+      "word": "tag",
+      "count": 2
+    },
+    {
+      "word": "against",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "meta",
+      "count": 2
+    },
+    {
+      "word": "ve",
+      "count": 2
+    },
+    {
+      "word": "decoded",
+      "count": 2
+    },
+    {
+      "word": "pragma",
+      "count": 2
+    },
+    {
+      "word": "detect",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "pcs",
+      "count": 2
+    },
+    {
+      "word": "pc",
+      "count": 2
+    },
+    {
+      "word": "early",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "post-quantum",
+      "count": 2
+    },
+    {
+      "word": "signature",
+      "count": 2
+    },
+    {
+      "word": "algorithms",
+      "count": 2
+    },
+    {
+      "word": "potential",
+      "count": 2
+    },
+    {
+      "word": "look",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "july",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "gpt-",
+      "count": 2
+    },
+    {
+      "word": "luna",
+      "count": 2
+    },
+    {
+      "word": "terra",
+      "count": 2
+    },
+    {
+      "word": "sol",
+      "count": 2
+    },
+    {
+      "word": "eliminate",
+      "count": 2
+    },
+    {
+      "word": "daringfireball",
+      "count": 2
+    },
+    {
+      "word": "series",
+      "count": 2
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "headings",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jul",
+      "count": 2
+    },
+    {
+      "word": "imdb",
+      "count": 2
+    }
+  ]
+}
