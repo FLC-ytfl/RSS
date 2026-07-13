@@ -1,0 +1,628 @@
+{
+  "date": "2026-07-13",
+  "stats": {
+    "total_fetched": 271,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+        "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub...",
+        "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Cloud",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Mon, 13 Jul 2026 15:03:28 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] Half a million steps is about 10 marathons",
+        "summary": "Shhh! RSS Club posts are only available to feed subscribers. Keep the secret! I'm not a big fan of the \"Quantified Self\" movement, but since buying a ridiculously cheap smartwatch, I've been interested to see just how ma...",
+        "url": "https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 13 Jul 2026 11:34:09 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why don’t we just make the entire stack out of guard pages?",
+        "summary": "Guard pages all the way down? The post Why don’t we just make the entire stack out of guard pages? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 13 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Mandatory Update: A Short Story",
+        "summary": "Guess what? Lately I've been nerding out on creative writing. I even joined a local fiction writers group where we meet up at coffee shops. Like, in person! Anyway, I submitted a short story to the DEF CON 34 Creative Wr...",
+        "url": "https://micahflee.com/mandatory-update-a-short-story/",
+        "source": "micahflee",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Mon, 13 Jul 2026 15:33:31 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Code Red worm, July 13, 2001",
+        "summary": "Code Red was a computer worm that exploited one of the earliest notorious Microsoft vulnerabilities, a buffer overflow in Microsoft IIS. It is credited as the first large scale mixed threat attack against enterprise netw...",
+        "url": "https://dfarq.homeip.net/code-red-worm-july-13-2001/?utm_source=rss&utm_medium=rss&utm_campaign=code-red-worm-july-13-2001",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Mon, 13 Jul 2026 11:00:49 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
+        "summary": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detecti...",
+        "url": "https://blog.cloudflare.com/introducing-precursor/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "Systems",
+          "DevOps"
+        ],
+        "published_at": "Mon, 13 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-13T22:43:50.290Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "datasette code-frequency chart on GitHub",
+        "summary": "13th July 2026 - Link Blog\n\n**[datasette code-frequency chart on GitHub](https://github.com/simonw/datasette/graphs/code-frequency)**. Out of curiosity I decided to see if I could find a useful illust",
+        "content": "13th July 2026 - Link Blog\n\n**[datasette code-frequency chart on GitHub](https://github.com/simonw/datasette/graphs/code-frequency)**. Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of frequency of code changes to my [Datasette](https://datasette.io/) open source project:\n\n![](https://static.simonwillison.net/static/2026/datasette-code-frequency.png)\n\nThe big spike in activity at the end aligns with Opus 4.8, GPT-5.5, Fable 5 and GPT-5.6 Sol.\n\nPosted [13th July 2026](https://simonwillison.net/2026/Jul/13/) at 9:45 pm\n\n## Recent articles\n\n  \n    - [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/) - 9th July 2026\n\n  \n    - [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/) - 7th July 2026\n\n  \n    - [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) - 5th July 2026\n\n  \n\n \n\nThis is a **link post** by Simon Willison, posted on [13th July 2026](https://simonwillison.net/2026/Jul/13/).\n\n    \n        [\n            github\n            190\n        ](https://simonwillison.net/tags/github/)\n    \n        [\n            ai\n            2,114\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            datasette\n            1,524\n        ](https://simonwillison.net/tags/datasette/)\n    \n        [\n            generative-ai\n            1,869\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1,836\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            ai-assisted-programming\n            396\n        ](https://simonwillison.net/tags/ai-assisted-programming/)\n    \n        [\n            coding-agents\n            221\n        ](https://simonwillison.net/tags/coding-agents/)\n\n  \n### \n    Monthly briefing\n  \n\n  \n    Sponsor me for **$10/month** and get a curated email digest of the month's most important LLM developments.\n  \n\n  \n    Pay me to send you less!\n  \n\n  [\n    Sponsor & subscribe\n  ](https://github.com/sponsors/simonw/)",
+        "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "2026-07-13T21:45:27.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?",
+        "summary": "OpenAI slams Musk’s lawsuit as part of his “ongoing pattern of harassment.”\n      \n\n              \n          \n\n  \n\n  \n      \n    \n    \n                      \n                      \n          \nAfter a ",
+        "content": "OpenAI slams Musk’s lawsuit as part of his “ongoing pattern of harassment.”\n      \n\n              \n          \n\n  \n\n  \n      \n    \n    \n                      \n                      \n          \nAfter a public [outburst over Grok’s App Store rankings](https://arstechnica.com/tech-policy/2025/08/apple-gets-yanked-into-elon-musks-chatbot-war-with-openai/), on Monday, Elon Musk followed through on his threat to sue Apple and OpenAI.\n\nAt first, Musk appeared fixated on ChatGPT consistently topping Apple’s “Must Have” app list—which Grok has never made—claiming Apple seemed to preference OpenAI, an Apple partner, over all chatbot rivals. But Musk’s [filing](https://cdn.arstechnica.net/wp-content/uploads/2025/08/X-Corp-v-Apple-8-25-25-Complaint.pdf) shows that the X and xAI owner isn’t just trying to push for more Grok downloads on iPhones—he’s concerned that Apple and OpenAI have teamed up to completely dash his [“everything app” dreams](https://arstechnica.com/tech-policy/2024/03/elon-musks-improbable-path-to-making-x-an-everything-app/), which was the [reason he bought Twitter](https://arstechnica.com/tech-policy/2023/03/fast-moving-musk-makes-very-slow-progress-turning-twitter-into-everything-app/).\n\nAt this point appearing to be genuinely panicked about OpenAI’s insurmountable lead in the chatbot market, Musk has specifically alleged that an [agreement integrating ChatGPT into the iOS](https://arstechnica.com/gadgets/2024/06/apple-integrates-chatgpt-into-siri-ios-and-mac-os/) violated antitrust and unfair competition laws. Allegedly, the conspiracy is designed to protect Apple’s smartphone monopoly and block out AI rivals to lock in OpenAI’s dominance in the chatbot market.\n\nAs Musk sees it, Apple is supposedly so worried that X will use Grok to create a “super app” that replaces the need for a sophisticated smartphone that the iPhone maker decided to partner with OpenAI to limit X and xAI innovation. The complaint quotes Apple executive Eddy Cue as expressing “worries that AI might destroy Apple’s smartphone business,” due to patterns observed in foreign markets where super apps exist, like WeChat in China.\n\n“In a desperate bid to protect its smartphone monopoly, Apple has joined forces with the company that most benefits from inhibiting competition and innovation in AI: OpenAI, a monopolist in the market for generative AI chatbots,” Musk’s lawsuit alleged.\n\n          \n                      \n                  \n                    \n        \n            \n    \n    \n          \n          \nThe problematic deal doesn’t just set ChatGPT as the only chatbot linked to Siri and other naive iPhone features, the lawsuit alleged. It also gives OpenAI—which X noted already controls at least 80 percent of the chatbot market—exclusive access to billions of prompts that OpenAI can use as valuable training data to cement its lead.\n\nWithout similar access, even rivals from Big Tech companies like Musk’s can’t scale, the lawsuit said. That supposedly limits their ability to innovate both in terms of advancing their models generally and developing competing chatbots for Apple devices in bids to entice iPhone users to stop relying on native ChatGPT features.\n\nIf the exclusive deal is maintained, X alleged that Apple’s customers will have “less choice and receive generative AI chatbots with fewer features and capabilities,” while Apple will allegedly continue to sell iPhones at monopoly prices, and OpenAI plans to “double the price of its ‘plus’ subscription over the next four years.” That plan would be “unfeasible unless OpenAI has power over marketwide prices,” X alleged.\n\n“In a competitive market for generative AI chatbots, usage of chatbots would be determined by customer choice,” X’s complaint said. “Generative AI chatbots would vigorously compete with one another to get customers to use their generative AI chatbot over rival ones. Defendants’ anticompetitive conduct has prevented this competition by handing a substantial portion of the market to ChatGPT. This conduct prevents ChatGPT’s rivals, such as Grok, from fairly competing with ChatGPT.”\n\nBut likely more concerning for Musk, if Apple has its “thumb pressed firmly on the scale for ChatGPT in its App Store,” it could mean that “investors face significant risk in backing anyone but the dominant market leader.” That means less money will likely flow to X as long as the deal integrating ChatGPT into iPhones remains in place. And according to X, starving resources to OpenAI’s rivals poses a further risk of making it easier for Big Tech companies to poach talent.\n\n          \n                  \n                    \n        \n            \n    \n    \n          \n          \n“Apple’s conduct inhibits the growth of AI and super apps by allowing OpenAI to maintain its monopoly and curtail innovation and investment in generative AI chatbots that would develop into super apps that replace iPhone functionality,” X’s lawsuit alleged.\n\nX is hoping a jury will agree that—[like Apple’s search default deal](https://arstechnica.com/tech-policy/2024/08/google-loses-dojs-big-monopoly-trial-over-search-business/) that helped entrench Google’s monopoly—the exclusive OpenAI deal violates antitrust law by entrenching monopolies. Expecting to recover billions in damages due to alleged harms like lost sales and threats to the X enterprise, X has asked for a permanent injunction blocking the deal.\n\nX and Apple did not respond to Ars’ request for comment. In a statement to Ars, an OpenAI spokesperson noted, “This latest filing is consistent with Mr. Musk’s ongoing pattern of harassment,” possibly referencing OpenAI’s allegations in litigation [that Musk has perpetrated a “years-long harassment campaign”](https://arstechnica.com/tech-policy/2025/08/a-brief-history-of-elon-musk-and-sam-altmans-ai-feud/) to take down OpenAI.\n\nMusk’s lawsuits are motivated to clear the field for xAI to dominate the AI industry instead, OpenAI has alleged.\n\n## Apple allegedly fears iPhones will become obsolete\n\nThe lawsuit makes it clear that Musk’s companies are struggling to figure out how Grok will ever get ahead of ChatGPT. Appearing to marvel at ChatGPT, the lawsuit noted that OpenAI’s chatbot has experienced “exponential growth” ever since it became the fastest-growing app in history to attract a million users, the lawsuit noted.\n\nNow, with the iOS integration, only OpenAI will receive information when iPhone users prompt Siri or use Apple’s Writing Tools or camera application. Its rivals “also miss out on prompts by users who never download a generative AI chatbot through the App Store because the integration makes it unnecessary for them to do so,” X complained.\n\n          \n                  \n                    \n        \n            \n    \n    \n          \n          \n“There is no telling how long this exclusive arrangement will last,” X said, warning the court that OpenAI’s rivals “suffer harm every moment they are illegally denied access to these prompts.”\n\nX suggests that Apple has no valid pro-competitive reason to give ChatGPT such exclusivity and seemed stung that Apple allegedly rejected xAI’s request to integrate Grok with iOS.\n\nSupposedly, Apple has also rejected “numerous requests by xAI for the Grok app to be featured in the App Store,” including when the app launched and more recently when X debuted Grok’s new “Imagine” feature.\n\nIn addition to “manipulating App Store rankings,” Musk’s lawsuit accused Apple of “delaying approval for updates to xAI’s Grok app” as another way to reduce competition.\n\nIf not for all of this anticompetitive behavior, Grok and other rival chatbots would be “more widely used,” X alleged, and that would generate more revenue and accelerate chatbot innovation across the board. But Apple likely doesn’t want that to happen, because it fears that a superior Grok will fuel X super apps that will make it easier to switch to a cheaper smartphone—and perhaps one day make iPhones obsolete.\n\n## Musk fears deal could doom X “everything app”\n\nX’s lawsuit alleges that shady finances of the OpenAI/Apple deal suggest it was designed to block AI innovation.\n\n“OpenAI has [provided ChatGPT to Apple for free](https://arstechnica.com/information-technology/2024/06/report-apple-isnt-paying-openai-for-chatgpt-integration-into-oses/) and is functionally paying for the arrangement itself,” X’s complaint said, while noting that Apple allegedly doesn’t expect to receive a profit from the deal any time soon.\n\nX noted a report indicating that Apple “pushing OpenAI’s brand and technology to hundreds of millions of its devices is of equal or greater value than monetary payments.” In short, X claimed that “OpenAI is willing to sacrifice short-term profits in exchange for such access” as a means of maintaining dominance. And Apple similarly has no expectations for short-term gains, only planning to take an “eventual cut” of “OpenAI’s monetization of ChatGPT prompts through its iPhones and other devices,” X alleged.\n\n          \n                  \n                    \n        \n            \n    \n    \n\n        \n        \n          \n          \nTo X, it seems curious that Apple would exclusively partner with OpenAI despite there being no immediate profits and seemingly no technical reasons why it couldn’t offer the same deal to other chatbot makers. “By making the deal exclusive, Apple sacrificed the profits it would have earned had it integrated with multiple generative AI chatbots,” X’s lawsuit noted, alleging that the true motive was Apple and OpenAI’s shared goal of broadly blocking competition to entrench their monopolies.\n\nX can’t possibly compete against the duo, the lawsuit insisted. Breaking down the numbers, X pointed out that “Siri represented 1.5 billion user requests per day globally” in 2024, which is “more than the total prompts for generative AI chatbots in 2024.” Supposedly this means that the deal with Apple gives OpenAI “exclusive access to up to 55 percent of all potential generative AI chatbot prompts.”\n\nAccording to X, “the network effects are so strong that despite billions in investments by established tech companies, no competitor has been able to challenge ChatGPT’s stranglehold on the market.”\n\n“ChatGPT was already the largest AI chatbot before the arrangement with Apple,” X’s lawsuit said. “Since Apple and OpenAI entered into the arrangement, rivals have had little hope to catch up on the scale needed to fairly compete with ChatGPT.”\n\nFor X, losing the lawsuit may even mean its doom, the complaint suggested. “Because Grok’s functionality is a key feature of the X app, the X app is more attractive the better Grok performs. And because Defendants’ conduct makes Grok less able to fairly compete with ChatGPT, X’s app (and thus X) suffers in the process. This results in fewer X app customers and subscriptions, and less revenue and profits, ultimately creating a depressed enterprise value for X.”\n\n          \n                  \n\n                  \n          \n\n  \n  \n          [![Photo of Ashley Belanger](https://cdn.arstechnica.net/wp-content/uploads/2022/06/Ashley-Belanger-400x400.jpg)](https://arstechnica.com/author/ashleybelanger/)\n\n  \n\n  \n    \n\n    \n      Ashley is a senior policy reporter for Ars Technica, dedicated to tracking social impacts of emerging policies and new technologies. She is a Chicago-based journalist with 20 years of experience.\n    \n\n  \n\n  \n    [\n    \n    189 Comments\n  ](https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/#comments)\n      \n\n              \n  \n\n  \n\n  \n\n  \n    \n      \n      \n    \n    \n              - \n                      [\n              ![Listing image for first story in Most Read: China recovered its first reusable rocket and showed a new way to do it](https://cdn.arstechnica.net/wp-content/uploads/2026/07/lm10bcatch2-500x500.jpg)\n            ](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/)\n                    \n        \n\n                      - \n                    \n        \n\n                      - \n                    \n        \n\n                      - \n                    \n        \n\n                      -",
+        "url": "https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-07-13T15:24:53.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "\nControl the ideas, not the code\n",
+        "summary": "[antirez](http://antirez.com/user/antirez) 11 hours ago. 115022 views.  Look at the past history of this blog. There are many blog posts about programming with AI, a few of them date back to January 2",
+        "content": "[antirez](http://antirez.com/user/antirez) 11 hours ago. 115022 views.  Look at the past history of this blog. There are many blog posts about programming with AI, a few of them date back to January 2024 (like this: [https://antirez.com/news/140](https://antirez.com/news/140)). I’m a relatively well regarded programmer, after all. I don’t have the need to still be in the “loop” as a old man that seeks for relevance, I recently rejoined Redis, and now I also am developing a new open source software for local LLM inference that received a good welcome in the community. Why I keep doing this, of saying what people don’t want to hear? Why I keep announcing how future programming will be by default? Because I feel the urge of lowering the impact for people less prepared to the change than me, often younger than me, and that, unlikely me, didn’t see many of those things coming (In 2022 I published, before ChatGPT existed, a book preannouncing many things that now happened and other things that I believe *will* happen, so I feel like I can say this without sounding egocentric).\n\nSo mine is a trick. People feel more and more programming is completely modified by AI and don’t know what they should do, if they can really start coding in a completely different way, without looking much at the code as their main output. They feel like they are betraying their own field. So my intention is to arrive and say “look at me, In can write code, you know, I’m not hiding behind AI: yet, things changed, it’s not your weakness, it’s not that you are AI-pilled. It is just that our field is evolving in an incredible *and* painful (but also joyful) direction”.\n\nThis is why yesterday, on X, I said that I believe many programmers at this point have less impact they could have because they look at the code. I truly believe into that. And note that this does not mean to vibe code something just asking for the final product. The point is: if you control the ideas of your software, looking at the code itself is suboptimal and often pointless. For the following reasons:\n\n1. You can now generate a lot of code, even *not* accounting for the LLM code verbosity (that is also effect of not being able to instruct them well, for most of the part). How are you supposed to review 5k lines of code every day?\n\n2. LLMs are very good at writing locally optimal code, and are worse (but improving) with big ideas. What’s the point of scanning function by function, line by line? Instead you should prompt the design you have in mind, sometimes ask “how is exactly the design of that part? How does it work?”, and evaluate if it is the right model. It is much faster.\n\n3. The working day is 8 hours. If you read the code, it is a tradeoff. You are doing less of what today is the most important part of your job, that is, asking yourself: what I’m doing with this software? What are the new directions I want to take? And also, think at new ideas, features, optimizations tricks. And doing a lot of QA.\n\nControlling the ideas. Do you remember this phrasing from the Mythical Man Month? Well, a book from the 70s tells us more things about the current software era than many of the things that were said from 2000 to 2020. Why people that now protest against AI were not horrified by the state of software in the last decade? The level of slop we touched during recent years, before AI, is unbelievable. I’ll say you another thing. What is slop? With DwarfStar I implemented an inference for two LLMs (DeepSeek v4 and GLM 5.2) in a completely automated way, but: try it yourself, you will discover you can’t just say “implement XYZ” and see it working. You have to understand how things work, what is the best design, how to reach a certain level of performance. Then I compared the implementation, for correctness, to other systems, finding that other implementations sometimes contained more errors. I researched more, and found that the local inference world is full of subtle errors that accumulate and damage the model output, issues in the attention implementation causing performance slopes after the context is over a certain limit because indexed attention implementations are broken (do more work than they should, for instance), and so forth. This is the result of a domain that is very complicated to handle, fast changing, with models that are slightly different one from the other in the inference graph being released every day. It’s an unfair game for developers. Well: AI helps a lot with that. There are many domains where rigorous engineering (in the design side) and testing is *far* better than writing a GPU kernel by hand (or reading it). So are we sure most of that resistance it is not ideological?\n\nMatteo Collina yesterday asked me, in reply to my tweet: but didn’t you say that you check all the AI generated code for Redis? And this is a good question indeed. Yes, I do, but this is, at this point, something I *need* to do but that I believe to be mostly pointless, partially once GPT 5.5 was released, but now with Fable and GPT 5.6 Sol even more. Yes: I identify things that I don’t like how they are coded, but if I open other Redis files written by other Redis contributors there is *far worse*, and not since they are not good coders, but because it is a matter of taste. I write very clean code since I want it to be readable, so during the implementation of Redis Arrays I operated changes. I’m doing it again for the 50% memory saving optimization of Redis sorted sets, a PR that I’ll submit soon. But I do not feel this is useful anymore. Nobody should anymore look at this code, but only at the ideas the code contains. I continued to do it out of respect for users. Redis is at this point a commonly useful thing, and many programmers will open files and modify stuff by hand. But if I had my hands free, you know what I would do, instead? Use all the time that the review is taking me to do more QA, to think at the next optimization idea and apply it, and to use LLMs to write a DESIGN.md file where each data structure is described in human language, with the ideas it contains, the implementation tricks, the design. That, in the future, is going to be much more useful. Do you want to modify sorted sets? You open the file, read the design, then you own the ideas. You can open your agent and ask it what to do with the right mental model. This is a lot more useful than reviewing the code.\n\nFable and GPT 5.6 reviews to the sorted sets memory saving are going to spot ways more errors and subtle race conditions that my review is going to uncover. Yet I’ll do it. But for the majority of software projects, all this does not make sense anymore. Focus on controlling the ideas, instead. Focus on quality, testing, and having an idea of the software you want to ship. The world changed and it is painful, but also full of opportunities to improve a software world that was already completely rotten.\n\nI have a doubt only regarding young programmers that don't have enough experience, and can't build a mental model. We don't know, yet, if they will require or not to understand very well how a given piece of code works, but I believe they should learn how to write programs. Yet, I'm not sure checking the LLM output is the right thing they should do. It may be a lot more useful if they learn some programming language and implement a small interpreter, a small database, an hash table and so forth. Reviewing some Javascript stuff of some web site for a customer? Hell, no, don't lose time with that shit.\n\n[blog comments powered by Disqus](https://disqus.com/)",
+        "url": "\nhttp://antirez.com/news/169\n",
+        "source": "\n<antirez>\n",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Algorithms"
+        ],
+        "published_at": "Mon, 13 Jul 2026 13:39:52 +0200",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/13Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/13/go-meta-m",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/13Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/13/go-meta-meta/)\n\n## Today's links\n\n- [Why aren't AI companies competing directly with their customers?](https://pluralistic.net/2026/07/13/go-meta-meta/#meta-meta-meta) Why sell picks and shovels if you've already struck gold?\n\n- [Hey look at this](https://pluralistic.net/2026/07/13/go-meta-meta/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/07/13/go-meta-meta/#retro): Pro-logging Lorax; Anti-DRM picture book; Whose cops did America train? Day on a Device; Theresa May x Fresh Prince; Ratfucking Corbyn supporters; Infosec v W3C DRM; Remix Public Enemy; Hungary's Cold War cartoons; America is unpaving its roads; Olympic overruns are world champions; Vivendi lobbyist is now UN copyright boss; Boris's racism; Facebook's insider stalkers; Semantic drift, ethical drift.\n\n- [Upcoming appearances](https://pluralistic.net/2026/07/13/go-meta-meta/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/07/13/go-meta-meta/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/07/13/go-meta-meta/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/07/13/go-meta-meta/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/07/13/go-meta-meta/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ai-picks-and-shovels.jpg?w=840&ssl=1)\n\n## Why aren't AI companies competing directly with their customers? ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#meta-meta-meta))\n\n\"I often wonder what the Vintners buy/One half so precious as the Goods they sell\" -The Rubáiyát of Omar Khayyám\n\nI first encountered that quote from someone extolling the virtues of bookstores, and it stuck with me, because for most of my childhood, every bookstore visit ended with me broke and wishing I'd had three times as much to spend.\n\nAs a larval hyperlexic, I just didn't understand what a bookseller could possibly buy with my money that was better than the books they already had? Of course, then I became a bookseller and discovered that Sturgeon's Law (\"90% of everything is shit\") applies to a bookstore's wares as much as it does to anything else. I also acquired a monthly rent obligation and discovered just how important money could be.\n\nNevertheless, Omar Khayyám's question stuck with me, especially when I fell down a years-long rabbit-hole of learning about scams and the finance sector (but I repeat myself). Every get-rich-quick schemer will tell you that they've found the infinite money hack, which they will sell to you for a remarkably reasonable sum. Likewise, every stock picker claims they can outperform a simple low-load index fund, and all they ask of you is a few hundred basis points in exchange for multiplying your wealth beyond the dreams of Creosote. Neither one has a good answer to Khayyám's question: if you can make all the money with your amazing system, why do you need *my* money?\n\nThis is a question that needs to be forcefully put to AI hucksters. In their more expansive moments, the Altmans and Amodeis of the world will tell you that they're planning to teach the word-guessing program so many words that it will wake up and become god. DOGE's broccoli-haired brownshirts laughed in the faces of the NIH lifers who begged them not to vaporize their long-running cancer research projects: \"General AI is around the corner and *it's* going to cure cancer. Cancer research is a waste of money!\"\n\nWhich all raises the question: if you've truly incubated a foetal demiurge in your \"AI lab,\" why are you offering to sell it to *me*? *What do the AI hucksters buy/One half so precious as the Gods they sell?*\"\n\nOf course, they might answer, \"We need your money *now* so we can make god *later*.\" That's why they want your boss to fire you and replace you with their chatbots and split your wages with your former employer. But this just raises the same question: if you have a chatbot that can do a doctor's job, why sell it to a hospital? Why not just *open your own hospital?* If you've got a chatbot that can do a tax accountant's job, why sell it to a tax-prep service? Why not just open a tax-prep service? If you've got a chatbot that can teach my kids, why sell it to my local school district? Why not just open a school?\n\nIf the chatbot can do the job, and if the chatbot costs less than the worker who does the job today, then the chatbot company can profitably sell services more cheaply than anyone who presently employs that worker, because the chatbot company *already owns the chatbot*. If you were really on a glide path to creating an all-powerful deity and just needed cash to keep the venture going until the cancer-curing word-guesser awoke from its long slumber, then wouldn't you want *as much cash as possible*? Why would you voluntarily split the take with some sucky, washed, non-god-generating business from before 2022?\n\nI think the only reason this question doesn't come up more frequently is that we're stewing in what Douglas Rushkoff calls the \"go meta\" economy, in which the most respectable and smartest business to operate must be as many abstraction layers away from real work as possible. Don't drive a taxi, own a medallion that you rent to the cab driver. Don't own a medallion, start a \"rideshare\" company. Don't start a rideshare company, invest in a rideshare company. Don't invest in a rideshare company, buy options to invest in a rideshare company:\n\n[https://pluralistic.net/2022/09/13/collapse-porn/#collapse-porn](https://pluralistic.net/2022/09/13/collapse-porn/#collapse-porn)\n\nThe inverse relationship between doing something useful and making money is deeply ingrained in our economic wisdom. Take the world of online grifters, who don't just peddle get-rich-quick PDFs, they *also* peddle tools to generate get-rich-quick PDFs, as well as tools to steal other \"wealth influencers'\" insta videos and deepfake yourself into their pretend private jets:\n\n[https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/](https://www.404media.co/how-i-bought-a-private-jet-by-selling-10-subscriptions-to-404-media/)\n\nThe scam economy boasts a bewildering array of ancillary services, like a $150/month service that lets you produce fake screenshots showing vast monthly income on *other* scam services (November Kelly calls this \"The world's most expensive 'inspect element'\"):\n\n[https://www.patreon.com/trashfuture/posts/faux-high-level-163443872](https://www.patreon.com/trashfuture/posts/faux-high-level-163443872)\n\nIt's an old truism that in a gold rush, the only people who come out ahead are the people selling the picks and shovels. But that's not true – there's *even more money* to be made wholesaling picks and shovels to the retailers who operate the frontier mercantiles. Go meta!\n\n[https://commons.wikimedia.org/wiki/File:Alaskan_Gold_Mining_Supplies_(1897)_(ADVERT_277).jpeg](https://commons.wikimedia.org/wiki/File:Alaskan_Gold_Mining_Supplies_(1897)_(ADVERT_277).jpeg)\n\nToday's economy is dominated by pick-and-shovel wholesalers. America is a gerontocracy drowning in MBAs, while there's no one to do eldercare:\n\n[https://www.msn.com/en-us/news/us/why-recruiters-can-t-find-workers-and-new-grads-can-t-find-jobs-it-s-not-ai/ar-AA27K57y](https://www.msn.com/en-us/news/us/why-recruiters-can-t-find-workers-and-new-grads-can-t-find-jobs-it-s-not-ai/ar-AA27K57y)\n\nSo it's not surprising that we don't ask why these AI god-botherers need our stupid money while they're immanentizing the eschaton. Why would they operate a hospital if they could go meta and sell the doctorbots to the MBAs running the hospital?\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Mark Zuckerberg and Meta Deride “Headline-Seeking” Damages Sought By State AGs In Social Media Safety Suit: “Untethered From Reality” [https://deadline.com/2026/07/social-media-lawsuit-damages-zuckerberg-1236977447/](https://deadline.com/2026/07/social-media-lawsuit-damages-zuckerberg-1236977447/)\n\n- \nZohran Mamdani's retro wristwatch is a Casio classic [https://boingboing.net/2026/07/08/zohran-mamdanis-retro-wristwatch-is-a-casio-classic.html](https://boingboing.net/2026/07/08/zohran-mamdanis-retro-wristwatch-is-a-casio-classic.html)\n\n- \nB.O.B. (Birds Over Big Bird) [https://www.youtube.com/watch?v=fAXO7SXK0Pc](https://www.youtube.com/watch?v=fAXO7SXK0Pc)\n\n- \nA referendum for another development model [https://thomaspiketty.wordpress.com/2026/06/23/a-referendum-for-social-justice/](https://thomaspiketty.wordpress.com/2026/06/23/a-referendum-for-social-justice/)\n\n- \nIntroducing the Gap Map v0.1 [https://www.currentai.org/blogs/introducing-the-gap-map-v0-1](https://www.currentai.org/blogs/introducing-the-gap-map-v0-1)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#retro))\n\n#25yrsago Pro-lumber industry spoof of The Lorax [https://web.archive.org/web/20010721042828/http://www.forestcouncil.org/news/articles/truax1.htm](https://web.archive.org/web/20010721042828/http://www.forestcouncil.org/news/articles/truax1.htm)\n\n#25yrsago Remixable vocal tracks from the next Public Enemy release [https://web.archive.org/web/20010813195140/http://www.slamjamz.com/slamnews.php?article=7](https://web.archive.org/web/20010813195140/http://www.slamjamz.com/slamnews.php?article=7)\n\n#20yrsago Wikipedia creates RSS for its posts [https://web.archive.org/web/20060718103013/http://www.micropersuasion.com/2006/07/wikipedia_entir.html](https://web.archive.org/web/20060718103013/http://www.micropersuasion.com/2006/07/wikipedia_entir.html)\n\n#20yrsago Anti-DRM picture-book [https://web.archive.org/web/20060721095740/https://dustrunners.blogspot.com/2006/07/pig-and-box.html](https://web.archive.org/web/20060721095740/https://dustrunners.blogspot.com/2006/07/pig-and-box.html)\n\n#10yrsago The US has spent $122B training foreign cops and soldiers in 150+ countries, but isn’t sure who [https://web.archive.org/web/20160713145824/https://theintercept.com/2016/07/13/training/](https://web.archive.org/web/20160713145824/https://theintercept.com/2016/07/13/training/)\n\n#10yrsago German free school teaches without grades, timetables or lesson plans [https://www.theguardian.com/world/2016/jul/01/no-grades-no-timetable-berlin-school-turns-teaching-upside-down](https://www.theguardian.com/world/2016/jul/01/no-grades-no-timetable-berlin-school-turns-teaching-upside-down)\n\n#10yrsago For the first time, a federal judge has thrown out police surveillance evidence from a “Stingray” device [https://www.rawstory.com/2016/07/federal-judge-throws-out-evidence-gathered-with-stingray-cell-phone-tracker/](https://www.rawstory.com/2016/07/federal-judge-throws-out-evidence-gathered-with-stingray-cell-phone-tracker/)\n\n#10yrsago Day on a Device: art made by screenshotting a multitasker’s screen with each context-switch [https://www.theverge.com/2016/7/13/12170526/multitasking-phone-laptop-pierre-buttin-art](https://www.theverge.com/2016/7/13/12170526/multitasking-phone-laptop-pierre-buttin-art)\n\n#10yrsago Remarkably Normal: the true stories of abortion in America [https://web.archive.org/web/20160810092901/http://jezebel.com/the-vagina-monologues-but-for-abortion-1783289270/amp](https://web.archive.org/web/20160810092901/http://jezebel.com/the-vagina-monologues-but-for-abortion-1783289270/amp)\n\n#10yrsago Theresa May performs the Fresh Prince of Bel-Air theme [https://www.youtube.com/watch?v=xv7Jd94bnOI](https://www.youtube.com/watch?v=xv7Jd94bnOI)\n\n#10yrsago UK Labour’s dirty trick excludes 130,000 members from leadership vote [https://web.archive.org/web/20160712225142/http://www.itv.com/news/2016-07-12/corbyn-opponents-try-to-fix-vote/](https://web.archive.org/web/20160712225142/http://www.itv.com/news/2016-07-12/corbyn-opponents-try-to-fix-vote/)\n\n#10yrsago Security researchers: the W3C’s DRM needs to be thoroughly audited [https://www.eff.org/deeplinks/2016/06/call-security-community-w3cs-drm-must-be-investigated](https://www.eff.org/deeplinks/2016/06/call-security-community-w3cs-drm-must-be-investigated)\n\n#10yrsago Help Doctors Without Borders fill in the geodata blanks for vulnerable communities [https://missingmaps.org/blog/2016/07/14/mapswipe/](https://missingmaps.org/blog/2016/07/14/mapswipe/)\n\n#10yrsago Sign a book of congratulations for America’s new Librarian of Congress [https://web.archive.org/web/20160718023555/https://action.everylibrary.org/congratulate_carla_hayden_today](https://web.archive.org/web/20160718023555/https://action.everylibrary.org/congratulate_carla_hayden_today)\n\n#10yrsago Hungary’s Cold War cartoons were weird and awesome [https://globalvoices.org/2016/07/14/the-fascinating-world-of-cold-war-era-hungarian-cartoons/](https://globalvoices.org/2016/07/14/the-fascinating-world-of-cold-war-era-hungarian-cartoons/)\n\n#10yrsago The ACLU has a roadmap for defeating President Donald Trump’s signature initiatives [https://web.archive.org/web/20160715131734/https://action.aclu.org/sites/default/files/pages/trumpmemos.pdf](https://web.archive.org/web/20160715131734/https://action.aclu.org/sites/default/files/pages/trumpmemos.pdf)\n\n#10yrsago America’s infrastructure debt is so bad that towns are unpaving roads they can’t afford to fix [https://web.archive.org/web/20160713170836/https://www.wired.com/2016/07/cash-strapped-towns-un-paving-roads-cant-afford-fix/](https://web.archive.org/web/20160713170836/https://www.wired.com/2016/07/cash-strapped-towns-un-paving-roads-cant-afford-fix/)\n\n#10yrsago It’s official: the Olympics result in the worst budget overruns of any megaproject [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2804554](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2804554)\n\n#10yrsago Vivendi lobbyist appointed to run copyright for UN agency [https://web.archive.org/web/20160717052135/http://keionline.org/node/2614](https://web.archive.org/web/20160717052135/http://keionline.org/node/2614)\n\n#10yrsago The long, racist history of Brexiteer Boris Johnson, the new UK Foreign Secretary [https://www.bbc.co.uk/news/world-36792746](https://www.bbc.co.uk/news/world-36792746)\n\n#5yrsago Facebook employees stalk users [https://pluralistic.net/2021/07/14/who-watches-the-zuckmen/#pecksniffs](https://pluralistic.net/2021/07/14/who-watches-the-zuckmen/#pecksniffs)\n\n#5yrsago Semantic drift versus ethical drift [https://pluralistic.net/2025/07/14/pole-star/#gnus-not-utilitarian](https://pluralistic.net/2025/07/14/pole-star/#gnus-not-utilitarian)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Edinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/cory-doctorow/](https://festivalofdangerousideas.com/cory-doctorow/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#recent))\n\n- Who Owns Your Tractor? (Growing the Future)\n\n[https://www.youtube.com/watch?v=IU9eBPUZBI4](https://www.youtube.com/watch?v=IU9eBPUZBI4)\n\n- \nYou Bought it, They Break It (What Now? with Trevor Noah)\n\n[https://www.podbean.com/media/share/dir-ir36t-2f4a1ac6](https://www.podbean.com/media/share/dir-ir36t-2f4a1ac6)\n\n- \nCan AI be Saved From Capitalism? (Everyday Anarchism)\n\n[https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/](https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/)\n\n- \nLawfare Daily\n\n[https://www.youtube.com/watch?v=T1KIwaYRs1g](https://www.youtube.com/watch?v=T1KIwaYRs1g)\n\n- \nHow to Think About AI (Organized Money)\n\n[https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow](https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/07/13/go-meta-meta/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/07/13/go-meta-meta/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Mon, 13 Jul 2026 08:15:24 +0000",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "DOOMQL",
+        "summary": "13th July 2026 - Link Blog\n\n**[DOOMQL](https://github.com/petergpt/doomql)** ([via](https://twitter.com/petergostev/status/2076692164310884468)) Peter Gostev built this using GPT-5.6 Sol. This is a *l",
+        "content": "13th July 2026 - Link Blog\n\n**[DOOMQL](https://github.com/petergpt/doomql)** ([via](https://twitter.com/petergostev/status/2076692164310884468)) Peter Gostev built this using GPT-5.6 Sol. This is a *lot* of fun: \n\n> DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data?\n\n> The result is a small, original Doom-like game in which SQL owns movement, collision, enemies, combat, progression and every RGB pixel on screen.\n\nIt's implemented as a Python terminal script - I tried it out like this:\n\n```\ncd /tmp\ngit clone https://github.com/petergpt/doomql\ncd doomql\nuv run host/doomql.py\n\n```\n\n![](https://static.simonwillison.net/static/2026/doomql-window.png)\n\nHere's [the huge SQL query](https://github.com/petergpt/doomql/blob/main/sql/003_render.sql) that implements a full ray tracer in SQLite using a recursive CTE.\n\nRunning the above script creates a `/tmp/doomql/.doomql/doomql.sqlite` SQLite database, which you can explore using Datasette like this:\n\n```\nuvx --prerelease=allow  --with datasette-apps datasette \\\n  /tmp/doomql/.doomql/doomql.sqlite \\\n  -p 4444 --root --secret 1 --internal internal.db\n\n```\n\nThe `--with datasette-apps` option installs the new [Datasette Apps](https://simonwillison.net/2026/Jun/18/datasette-apps/) plugin, which supports creating custom HTML+JavaScript apps that can run SQL queries directly within the Datasette interface.\n\nI created a new app, pasted the copy-paste prompt into Claude chat (Fable 5) [and told it](https://claude.ai/share/c793280c-2ef1-4555-a7c2-31281abfdf78):\n\n> `Build an app that displays the current state of the screen using the frame_pixels view with its x, y, r, g, b columns. have it refresh once a second.`\n\nThis got me a working HTML+JavaScript app inside Datasette that could reflect the current state while I played the game in my terminal. Then I added:\n\n> `add a minimap`\n\nAnd now my Datasette App looks like this:\n\n![](https://static.simonwillison.net/static/2026/doomql-datasette-app.png)\n\nHere's [the HTML app code](https://gist.github.com/simonw/7c78184476fccd4b70b02f7f9048dffa) - paste that into your own Datasette instance (using the `uvx --with datasette-apps` recipe from above) to try it yourself.",
+        "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Database",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-13T22:34:41.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "datasette code-frequency chart on GitHub - 13th July 2026 - Link Blog **[datasette code-frequency chart on GitHub](https://github.com...",
+    "Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI? - OpenAI slams Musk’s lawsuit as part of his “ongoing pattern of harassment.” After a",
+    "\nControl the ideas, not the code\n - [antirez](http://antirez.com/user/antirez) 11 hours ago. 115022 views. Look at the past hi...",
+    "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http...",
+    "DOOMQL - 13th July 2026 - Link Blog **[DOOMQL](https://github.com/petergpt/doomql)** ([via](https:/..."
+  ],
+  "wordcloud": [
+    {
+      "word": "github",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "https",
+      "count": 5
+    },
+    {
+      "word": "ideas",
+      "count": 4
+    },
+    {
+      "word": "blog",
+      "count": 4
+    },
+    {
+      "word": "cisa",
+      "count": 3
+    },
+    {
+      "word": "i've",
+      "count": 3
+    },
+    {
+      "word": "guard",
+      "count": 3
+    },
+    {
+      "word": "pages",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "july",
+      "count": 3
+    },
+    {
+      "word": "datasette",
+      "count": 3
+    },
+    {
+      "word": "code-frequency",
+      "count": 3
+    },
+    {
+      "word": "antirez",
+      "count": 3
+    },
+    {
+      "word": "doomql",
+      "count": 3
+    },
+    {
+      "word": "learned",
+      "count": 2
+    },
+    {
+      "word": "leak",
+      "count": 2
+    },
+    {
+      "word": "rss",
+      "count": 2
+    },
+    {
+      "word": "club",
+      "count": 2
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "don",
+      "count": 2
+    },
+    {
+      "word": "entire",
+      "count": 2
+    },
+    {
+      "word": "stack",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "short",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    },
+    {
+      "word": "creative",
+      "count": 2
+    },
+    {
+      "word": "red",
+      "count": 2
+    },
+    {
+      "word": "worm",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "precursor",
+      "count": 2
+    },
+    {
+      "word": "behavior",
+      "count": 2
+    },
+    {
+      "word": "continuous",
+      "count": 2
+    },
+    {
+      "word": "bot",
+      "count": 2
+    },
+    {
+      "word": "user",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "chart",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "musk",
+      "count": 2
+    },
+    {
+      "word": "openai",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jul",
+      "count": 2
+    }
+  ]
+}
