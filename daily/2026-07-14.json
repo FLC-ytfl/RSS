@@ -1,0 +1,724 @@
+{
+  "date": "2026-07-14",
+  "stats": {
+    "total_fetched": 279,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 21,
+    "long_articles": 9
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "datasette 1.0a37",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a37\">datasette 1.0a37</a></p> <p>A minor release. Performance and <a href=\"https://docs.datasette.io/en/latest/authentication.html...",
+        "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "2026-07-14T16:31:41.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[Sponsor] Paper",
+        "summary": "Paper is a professional design tool where every layer is real HTML and CSS. Your design is already code, which means fewer handoffs and fewer translations between what you design and what ships. Paper works both ways: co...",
+        "url": "https://paper.design/?utm_source=df",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-07-14T05:02:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "ICD-10 chapters and code letters",
+        "summary": "I’ve been thinking about ICD-10 codes; they come up a lot in my work. The ICD-10-CM standard is divided into 21 chapters, which generally correspond to the first letter of a code. However, a chapter may contain blocks be...",
+        "url": "https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Jul 2026 14:24:12 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft Patches a Record 570 Security Flaws",
+        "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-...",
+        "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+        "source": "Krebs on Security",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Tue, 14 Jul 2026 19:22:42 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I'm a USB-C Maximalist",
+        "summary": "My wife and I recently went on a 7 week holiday around Europe. Although we each took a massive backpack, we wanted to travel fairly lightly. I took a single universal power brick. This little unit was all I needed to cha...",
+        "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 14 Jul 2026 11:34:26 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microspeak: Double-click and drill down",
+        "summary": "Please, tell me more. The post Microspeak: Double-click and drill down appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Nintendo Famicom and the secret of Nintendo’s success",
+        "summary": "On July 15, 1983, the Famicom, or Family Computer, launched in Japan. Despite the name, the Family Computer was a game console, and it went on to shatter the Atari 2600’s record for the most sales worldwide by a game The...",
+        "url": "https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Jul 2026 11:00:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed",
+        "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error...",
+        "url": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
+        "source": " The Cloudflare Blog ",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Tue, 14 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "You should probably check on your smart appliances",
+        "summary": "TL;DR: is your refrigerator running malware? If so, you better catch it!",
+        "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Security",
+          "Mobile"
+        ],
+        "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "I'm still alive",
+        "summary": "",
+        "url": "https://buttondown.com/hillelwayne/archive/im-still-alive/",
+        "source": "Computer Things",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 14 Jul 2026 16:15:07 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-14T22:45:17.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "lobste.rs is now running on SQLite",
+        "summary": "14th July 2026 - Link Blog\n\n**[lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)**. Community site [Lobsters](https://lobste.rs/) has been planning a m",
+        "content": "14th July 2026 - Link Blog\n\n**[lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite)**. Community site [Lobsters](https://lobste.rs/) has been planning a migration away from MariaDB [since August 2018](https://github.com/lobsters/lobsters/issues/539#issuecomment-4959857588) - originally targeting PostgreSQL, but last year they decided to [investigate SQLite](https://github.com/lobsters/lobsters/issues/539#issuecomment-2964114295) instead.\n\nThis weekend they completed the migration, and now consider it stable enough that it looks like this is the permanent architecture for the site going forward:\n\n> SQLite seems to have passed with flying colors: cpu usage is down, memory usage is down, site seems to be snappier at least for me, 1/2 the vps cost once mariadb vps is taken down\n\nThe Lobsters Rails application now runs on a single VPS, with a primary content SQLite database file that's around 3.8GB. [There's also](https://lobste.rs/s/ko1ji1/lobste_rs_is_now_running_on_sqlite#c_c9ydhs) a 1.1GB cache database, a 218MB queue database, and a still growing 555MB rack_attack database used by the [Rack::Attack](https://github.com/rack/rack-attack) middleware for blocking and throttling abusive requests.\n\nThere are plenty more details in both the linked thread and this [SQLite migration PR](https://github.com/lobsters/lobsters/pull/1927) by Thomas Dziedzic, which added 735 lines and removed 593 lines across 30 commits and 188 files. That PR built on top of previous PRs [#1705](https://github.com/lobsters/lobsters/pull/1705), [#1871](https://github.com/lobsters/lobsters/pull/1871), and [#1924](https://github.com/lobsters/lobsters/pull/1924).\n\nThis is a really useful case study, and a great reminder that you can get a whole lot done with a single server and SQLite in 2026.",
+        "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-14T19:44:11.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "simonw/pedalican",
+        "summary": "14th July 2026 - Link Blog\n\n**[simonw/pedalican](https://github.com/simonw/pedalican)**. Clearly I wasn't paying attention when these were [first announced](https://twitter.com/OpenAIDevs/status/20503",
+        "content": "14th July 2026 - Link Blog\n\n**[simonw/pedalican](https://github.com/simonw/pedalican)**. Clearly I wasn't paying attention when these were [first announced](https://twitter.com/OpenAIDevs/status/2050301642717950166) back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of [Clippy](https://en.wikipedia.org/wiki/Office_Assistant) - and then learned you can create your own.\n\nSo I did, and now I have a cute little pelican on a bicycle bouncing around my desktop giving me updates on my Codex tasks.\n\n    \n    Your browser does not support HTML5 video.\n  \n\nThe most interesting thing about this process was watching how the custom pet was created. I told it I wanted a custom pet that was a pelican riding a bicycle and GPT-5.6 Sol xhigh did the rest of the work, using several rounds with [gpt-image-2](https://developers.openai.com/api/docs/models/gpt-image-2) to generate the necessary sprite assets.\n\nI had it make [extensive notes](https://github.com/simonw/pedalican-pet/blob/main/notes-on-creating-a-pet.md) and record all of the [intermediary steps](https://github.com/simonw/pedalican-pet/tree/main/run). My GItHub repo includes every generated image and combined sprite sheet, plus GIFs for each of the animation loops such as this one, called [waving.gif](https://github.com/simonw/pedalican-pet/blob/main/run/qa/previews/waving.gif):\n\n![](https://static.simonwillison.net/static/2026/waving.gif)\n\nThat GIF was compiled from [a single image](https://github.com/simonw/pedalican-pet/blob/main/run/api-generation/waving.png) generated by `git-image-2` that looked like this:\n\n![](https://static.simonwillison.net/static/2026/waving.webp)\n\nAnd *that* image was created by executing [this prompt](https://github.com/simonw/pedalican-pet/blob/main/run/prompts/rows/waving.md) against the initial generated [character reference image](https://github.com/simonw/pedalican-pet/blob/main/run/api-generation/base.png), which was created with [this prompt](https://github.com/simonw/pedalican-pet/blob/main/run/prompts/base-pet.md), which has this structure:\n\n> `Create one clean full-body reference sprite for Codex pet Pedalican.`\n\n> `Pet identity: A compact adorable baby pelican with a round cream-white body, soft coral-orange bill and feet, riding a tiny sky-blue bicycle [...]`\n\n> `Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. [...]`\n\nI've been looking out for example of ways to use image generation to create simple game-ready sprites, so I spent some time digging into this mechanism to see how it works.\n\nThe key implementation details are open source - these two skills in particular, both Apache 2.0 licensed:\n\n- [hatch-pet](https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/hatch-pet) from `openai/skills`\n\n- [imagegen](https://github.com/openai/codex/tree/f90e7deea6a715bbd153044af6f475eefa749177/codex-rs/skills/src/assets/samples/imagegen) from `openai/codex`\n\nAnd yes, GPT-5.6 Sol did come up with the name \"Pedalican\". I like it!",
+        "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-07-14T22:29:45.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Using uvx in GitHub Actions in a cache-friendly way",
+        "summary": "[TIL](https://simonwillison.net/elsewhere/til/)\n    \n    [Using uvx in GitHub Actions in a cache-friendly way](https://til.simonwillison.net/github-actions/uvx-github-actions-cache)\n    — I often find",
+        "content": "[TIL](https://simonwillison.net/elsewhere/til/)\n    \n    [Using uvx in GitHub Actions in a cache-friendly way](https://til.simonwillison.net/github-actions/uvx-github-actions-cache)\n    — I often find myself wanting to run a quick Python tool inside of GitHub Actions using `uvx name-of-tool` - but I don't want that to result in a network request to PyPI every time the workflow runs. I want the tool to be fetched the first time and then reused from the GitHub Actions cache for subsequent runs.\n  \n\nI finally found a cache-friendly recipe for using `uvx tool-name` in GitHub Actions workflows that I like.\n\nThe trick is setting a `UV_EXCLUDE_NEWER: \"2026-07-12\"` environment variable at the start of the workflow and then using that as part of the GitHub Actions cache key. This means any `uvx tool-name` commands will resolve to the most recent version as-of that date, and you can bust the cache and upgrade the tools by bumping the date in the future.\n\nMy goal here is to use Python tools in GitHub Actions without every run of the workflow hitting PyPI to download a fresh copy of the tool and its dependencies.\n\n**Update**: Here's an existing [issue](https://github.com/astral-sh/setup-uv/issues/745) against the `astral-sh/setup-uv` repository requesting that they switch the default to cache rather than purge wheels from PyPI.",
+        "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "DevOps"
+        ],
+        "published_at": "2026-07-14T00:56:20.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Armin Ronacher",
+        "summary": "14th July 2026\n\n> The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, wh",
+        "content": "14th July 2026\n\n> The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does. This language is rarely written down in one place. It lives partly in documentation and code, but also in code review, conversations, arguments, and the experience of having to explain a change to somebody else.\n\n> Before agents, some of this shared understanding was maintained by friction. If I wanted to change your storage layer, I usually had to read your code, ask you questions, and perhaps coordinate with another team whose service depended on it. This was slow, and much of that slowness was waste but not all of it was. Some of it was the process by which your understanding became mine, and by which both of us discovered whether we still agreed about how the system worked. This friction synchronizes people.\n\n— [Armin Ronacher](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/), The Tower Keeps Rising",
+        "url": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-14T18:04:23.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "They Prefer the App ",
+        "summary": "I like building websites. But in some circles, I might as well say that I like to drive to the forest before sunrise, chop down a tree, load it in my trunk, and gather some dry wood as well, then driv",
+        "content": "I like building websites. But in some circles, I might as well say that I like to drive to the forest before sunrise, chop down a tree, load it in my trunk, and gather some dry wood as well, then drive back before first light. All this just to use the wood to start a fire and cook breakfast for my family in our high-rise apartment. It makes no sense.\n\n        There is a large class of apps that could be replaced by a simple website, especially those made for schools that only present information. The worst part is that in those apps, most of the things we take for granted on the web are blocked. You can't copy and paste, you can't open a link in a new app, and you have to update the entire app just to get new information. For someone like me, who never updates an app [until it's necessary](https://idiallo.com/blog/disable-auto-update), I usually end up with broken applications.\n\nBut when I complain, I'm usually alone in those circles, because no one seems to know what a website is. The more I explain, the more I sound like a character from the 90s explaining how cool email is.\n\nThey don't know what a website is. Check their phones, they have a thousand apps.\n\nThe last time I blogged about [just using websites](https://idiallo.com/blog/dont-download-apps), several people pointed out that they prefer using apps. My argument was that there is nothing the LinkedIn app does that necessitates an app. All its features are supported on the web. All but pervasive tracking. But I'm fighting a losing battle, because a large number of people have forgotten, or never knew, that LinkedIn is just a website. So is Reddit, Facebook, Instagram, etc.\n\nThey push you toward the app only so they can better harvest information from you.\n\nSo when we tell people to use the website instead of the app, they don't understand, because these services only push the app. A large number of the population has started to believe that a website is just a preview of an app, like a lightweight version.\n\nWhile I'm here complaining about a single app displaying an unexpected notification, people in my circle have a thousand unread notifications. It's a surprise that they somehow respond to my messages in the midst of all those alerts. I've met people who have an app for every single restaurant they go to. While I'm reading the privacy policy of a single app, trying to determine if it's worth downloading to benefit from a 20% discount, my friends are already in the loyalty program of the juice bar that opened down the street less than a day ago.\n\nPeople download apps, and they don't understand websites. They have a thousand apps on their screen and would rather swipe through it to find the one app they need for a single purpose.\n\nWhen I read [Dan Q's](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) post a few days ago, I was relieved for a second, just to know that I'm not alone. We prefer using websites, and we know most apps are oversized wrappers around a website. But I have to remember that the people with a thousand apps are not the minority. We are. We are the few who would rather use a progressive web app than download a 300 MB wrapper.\n\nI'm not prescribing a solution here, just want to remind the web community that outside of our circles, people happily download a 300 MB app that displays information already available on the web.",
+        "url": "https://idiallo.com/blog/they-prefer-the-app",
+        "source": "Software and Tech stories from an Insider - iDiallo.com",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 14 Jul 2026 22:35:36 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pseudpocalypse",
+        "summary": "[**dynomight**](/)\n\n  \n    best\n    \n      [See all best posts →](/best-of)\n\n      [Air quality myths](/air-quality)\n\n      [Sleep optimization](/sleep)\n    \n  \n\n  \n    topics\n    \n      [All topics](",
+        "content": "[**dynomight**](/)\n\n  \n    best\n    \n      [See all best posts →](/best-of)\n\n      [Air quality myths](/air-quality)\n\n      [Sleep optimization](/sleep)\n    \n  \n\n  \n    topics\n    \n      [All topics](/topics)\n\n      [Health & science](/health)\n\n      [How to think](/thinking)\n    \n  \n\n  \n    about\n    \n      [About dynomight](/about)\n    \n  \n\n  \n    get\n    \n      [Get guide to life + weekly posts](/subscribe)\n    \n  \n\n -->\n\n  [DYNOMIGHT](https://dynomight.net/)\n\n  \n    best\n    \n  \n\n  \n    topics\n    \n  \n\n  \n    follow\n    \n  \n\n  [about](https://dynomight.net/about)\n\n    \n\n![](https://dynomight.net/img/pseudpocalypse/the_beach_at_villerville.jpg)\n  ![](https://dynomight.net/img/pseudpocalypse/the_beach_at_villerville.jpg)\n  ![](https://dynomight.net/img/pseudpocalypse/the_beach_at_villerville.jpg)\n  ![](https://dynomight.net/img/pseudpocalypse/the_beach_at_villerville.jpg)\n  ![](https://dynomight.net/img/pseudpocalypse/the_beach_at_villerville.jpg)\n\n    \n\n    \n\n  \n    \n\n    Here’s a conjecture: If you put any significant amount of text on the internet under different names, those identities can be linked using only the text itself. This is possible (I conject) because of the statistical “fingerprint” you leave in everything you write.\n\nImagine a website where you can paste in some brand-new text someone just wrote. In return, the website provides links to all the text that writer has ever published under any name. It’s not perfect, but it’s pretty good. As far as I know, no such website exists—at least not on the public internet. But I suspect it’s possible and will soon become easy. This will pose some difficulty for pseudonymous blogging.\n\n*Note*: I wrote most of this essay in mid-2025, after which I idiotically sat on it for a year tinkering with theorem statements that none of you will read.[1](#fn:1) In the meantime, LLMs have gotten much better at guessing authors from text. (Given the first 1000 words of a draft of this post, Claude 4.8 knows it’s me.) Still, I think we’re just getting started. I expect to see increasingly obscure writers identified from increasingly small bits of text. I expect that this work even when people are writing in a different register or about unrelated subjects. And I expect that everything I’ve ever written under any pseudonym will soon be linked to my genuine-nym.[2](#fn:2)\n\nA stronger conjecture is that we’re heading towards a sort of generalized pseudpocalypse. Perhaps, in the future, if you interact with the world through essentially *any* high-bandwidth channel, then you identify yourself. Say you wear a mask in public and only speak by sub-vocalizing into a voice changer. That’s fine, you’ll still be identified using your body shape, gait, or chemical signature. Or say you don’t like your car being tracked everywhere, so you stop carrying a phone and you somehow convince lawmakers to ban license plates. No problem, your car will still be tracked using tiny scratches or unique pinging sounds from the engine. Or say you don’t like being tracked on the internet, so you lock down your browser profile, buy stuff only with Monero, and connect through a chain of three VPNs. That’s OK. You’ll still be identified through how you wiggle your finger as you scroll down the page. We’re all just too unique, and the information theoretic limit is coming for us.\n\n## Starting bits\n\nLet’s start from first principles. Imagine that at birth, everyone is assigned a random binary string. Whenever you post anything on the internet, you’re required to sign it with that string. If the strings are very short, like `0110`, then lots of other people will have the same one as you. But if the strings are very long, then yours would almost certainly be unique and it would be trivial to link all your pseudonyms.\n\nWhere’s the transition point? If you only know that the author is currently alive and living somewhere in the Anglosphere, it’s around 29 bits. That’s because if there are K digits, then there are 2ᴷ possible binary strings, and if K = 28.86, then 2ᴷ ≈ 490,000,000 is the number of currently-alive Anglosphere-dwellers. If the strings have fewer than 29 bits, then someone else will probably share your string. If they have more than 29 bits, then your string is probably unique.\n\nWe don’t (yet?) have to sign the things we write with immutable government-issued strings. But the way you write still provides lots of clues about you by way of your tone, personality, word choice, and so on.\n\nTheoretically speaking, I think it *has* to be possible to link the identities of anyone who writes enough. Imagine again that everyone is assigned a random binary string at birth, but instead of you needing to sign the stuff you write with your string, each time you write a word, there’s some chance that a random bit from your string is revealed and added as a signature to your message. For example, maybe a signature of `bit[129]=1` is added, indicating that your string at position 129 has value 1.\n\nThink of your string as representing all your writing style quirks, and a bit being revealed as representing when you write something that reveals a preference. For example, maybe bit 18 indicates if you prefer to write your em-dashes with hideous spaces — like this — or without spaces—like this. If you use an em-dash, that bit is revealed.\n\nSo imagine you’ve written a lot under Pseudonym A, enough that the full bit-string has been revealed. Maybe it’s this:\n\n```\nPseudonym A: \n110000001111001101110000100001\n010100100101011110111001101000\n100111110010101001101010111010\n\n```\n\nNow say you start writing under Pseudonym B. Initially, none of the bits will be known:\n\n```\nPseudonym B: \n??????????????????????????????\n??????????????????????????????\n??????????????????????????????\n\n```\n\nBut slowly, you’ll start to leak a few bits:\n\n```\nPseudonym B:\n?????00???1????1????????1??0??\n?????01??1?????????11????01???\n???1??????1???10??????????????\n\n```\n\nAnd eventually you’ll leak a lot of bits:\n\n```\nPseudonym B:\n???0?00?1?11??110??1????10?0??\n?10?001?0101?11???11100?101???\n???11?1??010??10?1?01??011????\n\n```\n\nNow think about this from the perspective of an “attacker” who wants to know if A and B are the same person. Let’s assume they’ve *only* seen the above bits, and have no information about anyone else. Then here’s what the attacker knows:\n\n  - A and B have revealed K overlapping bits, which all match.\n\n  - Different people have a 50% chance of matching on any given revealed bit.\n\n  - Non-different people have a 100% chance of matching on any given revealed bit.\n\n  - There are 490,000,000 people.\n\nIntuitively, if K was 5, then the fact that all bits match wouldn’t prove much, since with 490 million people, lots of people would match on those bits by chance. But if K was 70, it’s extremely unlikely that two different people would share all of them, even with such a gigantic pool to start with. It turns out that if there are N other people with random bits, and you pick K of your bits, the probability that *someone* exists who matches all of them is 1 - (1-2⁻ᴷ)ᴺ. When N is 490 million, that looks like this:\n\n![](https://dynomight.net/img/pseudpocalypse/one_sided_thought_experiment.svg)\n\nLook at that, 29 appears again. (Isn’t math wonderful?) In general, the transition happens around whatever number of bits K makes 2ᴷ ≈ N, namely K = log₂(N).\n\nIf you reveal significantly fewer than 29 bits under pseudonym B, then it’s almost guaranteed that there’s someone else out there who matches all of them. But if you reveal significantly more than 29 bits, then there’s almost no chance that anyone else exists who matches all of them. So the attacker essentially knows that A and B are the same person. And I stress again: They know that without needing to see anything from the other 490 million people.\n\nOf course, we don’t literally leak bits of immutable feature strings as we write. But you can make the model more realistic, and the same issue persists. If you want to reflect that text only provides noisy information about the writer, then you can add noise to the bits before they’re revealed. If you want to reflect that some writing styles are more common than others, then you can make the distribution over bit strings non-uniform. If you want to reflect that certain quirks are more obvious than others, you can give different bits different probabilities of being revealed. All these make the math more complicated.  But they don’t change the basic conclusion: If your writing style contains at least 29 bits of information, and you do enough writing, you’re done.\n\nThat’s my argument that pseudpocalypse is possible. But I don’t just want to claim that it *could* happen, eventually. I think it is *likely* to happen, soon, and that the amount of text you need to reveal isn’t very large. To make that argument, we need to get specific: What features do people have that are reflected in their writing? How many bits of information do those features contain? How accurately can those bits be guessed from written text?\n\n*Note*: To avoid this turning into a giant information theory lecture, I’ll mostly use words like “bit” and “information” without being 100% fully precise about what they mean. I’m doing that because I expect that most people reading this aren’t definition-of-bit fetishists, and anyway being hyper-technical would obscure the big picture. If you’re an information theory enthusiast and/or skeptical that I know what I’m doing, I refer you to the Section For Skeptical Information Theory Enthusiasts, below. Until then, use your intuition and have faith.\n\n## Feature space\n\nSay you knew nothing about me other than that I wrote the above words. And say you had to guess my age or religion or occupation. You could *guess*, right? It wouldn’t be perfect, but you’d do much better than you would *without* being able to read those words. Thus, somehow, those words contain information about my demographic characteristics. So I tried to make a list of similar things that you could plausibly guess from text at least somewhat better then chance. Here’s what I came up with:\n\n  - Age\n\n  - Education\n\n  - Ethnicity\n\n  - Family status\n\n  - Income\n\n  - Marital status\n\n  - Mental health\n\n  - Native language\n\n  - Occupation\n\n  - Physical health\n\n  - Political leanings\n\n  - Region\n\n  - Religious affiliation\n\n  - Sex\n\nIn the same spirit, if you only read the above words, could you guess how extroverted or conscientious I am? Again, not perfectly. (When I meet people who read this blog, they usually seem surprised I can survive direct sunlight.) But still, I’m sure you’d do OK. So, again, these words contain information about my personality.\n\nWhat features does personality have? The [HEXACO model](https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure) lists six, namely honesty-humility, emotionality, extraversion, agreeableness, conscientiousness, and openness to experience. I suspect those can all be guessed with reasonable accuracy from a long-enough writing sample. But could you guess more? For each of those six factors, the HEXACO model lists four “facets”. In the abstract, trying to guess 6 × 4 = 24 different personality features from text sounds ludicrous, but just look at them:\n\n  - Honesty-humility\n    \n      Sincerity\n\n      - Fairness\n\n      - Greed avoidance\n\n      - Modesty\n\n    \n\n  \n  - Emotionality\n    \n      Fearfulness\n\n      - Anxiety\n\n      - Dependence\n\n      - Sentimentality\n\n    \n\n  \n  - Extraversion\n    \n      Social self-esteem\n\n      - Social boldness\n\n      - Sociability\n\n      - Liveliness\n\n    \n\n  \n  - Agreeableness\n    \n      Forgivingness\n\n      - Gentleness\n\n      - Flexibility\n\n      - Patience\n\n    \n\n  \n  - Conscientiousness\n    \n      Organization\n\n      - Diligence\n\n      - Perfectionism\n\n      - Prudence\n\n    \n\n  \n  - Openness to experience\n    \n      Aesthetic appreciation\n\n      - Inquisitiveness\n\n      - Creativity\n\n      - Unconventionality\n\n    \n\n  \n\nIf you think about specific people, I think you can convince yourself that these 24 represent real things, and that it’s plausible to guess them from text. (Your favorite existential angst + science blogger, for example, might score lower on “modesty” than the other honesty-humility facets.) The different sub-factors are surely correlated, but not perfectly correlated.\n\nOf course, the biggest thing you learn from people’s writing is *how they write*. Do they tend to pointlessly split infinitives? Do they use hyphen-connected words? Do they, incorrectly, position their adverbial clauses?\n\nThe idea of attributing authorship using writing style features goes back to at least 1440, when Lorenzo Valla demonstrated that the [Donation of Constantine](https://en.wikipedia.org/wiki/Donation_of_Constantine)—in which Emperor Constantine supposedly donated the Roman Empire to the Catholic Church—used a vernacular that came from 400 years after Constantine’s death and was therefore a forgery. In 1851, Augustus De Morgan observed that average word length tends to be stable for the same author. The first “modern” attempt seemingly came in 1964, when Mosteller and Wallace published [*Inference in an Authorship Problem*](https://doi.org/10.2307/2283270):\n\n> This study [attempts] to solve the authorship question of *The Federalist* papers; […]\n\n> \n> Word counts are the variables used for discrimination. Since the topic written about heavily influences the rate with which a word is used, care in selection of words is necessary. The filler words of the language such as *an*, *of*, and *upon*, and, more generally, articles, preposition, and conjunctions provide fairly stable rates, whereas more meaningful words like *war*, *executive*, and *legislature* do not.\n\n> \n> After an investigation of the distribution of these counts, the authors execute an analysis […] based on Bayesian methods. The conclusions about the authorship problem are that Madison rather than Hamilton wrote all 12 of the disputed papers.\n\nGet that? The idea is that your usage of the word *war* depends mostly on if you happen to be talking about war. But your usage of *upon* mostly depends mostly on how much you like the word *upon*. To demonstrate this, they took 48 papers written by Hamilton and 50 by Madison and made this table of how many times they used *by*, *from*, and *to*:\n\n![](https://dynomight.net/img/pseudpocalypse/mosteller.png)\n\nMadison liked *by*. Hamilton was more a *to* man. Using these kinds of statistics, they concluded that the disputed Federalist papers must have been written by Madison.\n\nSo I did some research looking for other writing style features that are believed to be stable when people write about different subjects. I found that there are a lot. There were so many that I struggle to even organize them into meaningful groups:\n\n**Low-level frequencies:**\n\n  - Word lengths\n\n  - Sentence lengths\n\n  - Paragraph lengths\n\n  - Punctuation frequencies (commas, colons, dashes, parentheses)\n\n  - Function word frequencies (*the*, *of*, *and*, *to*)\n\n  - Adverb frequencies\n    \n      Intensifiers (*very*, *really*, *quite*, *pretty*, *so*)\n\n      - Evidential markers (*apparently*, *evidently*, *obviously*)\n\n      - Downtoners (*somewhat*, *fairly*, *rather*)\n\n    \n\n  \n  - Pronoun usage\n    \n      Overall preferences (*I*/*we* vs. *you* vs. *he*/*she*/*they*)\n\n      - Third-person singular preferences (*he*, *she*, *he or she*, *they*, *one*)\n\n    \n\n  \n  - Modal verbs (*can*, *could*, *might*, *must*, *should*, *will*, *would*)\n\n  - Hedges (*perhaps*, *maybe*, *possibly*, *probably*)\n\n  - Conjunctions (*and*,  *but*,  *yet*, *so*)\n\n  - Known stable ratios (*the*/*a*, *this*/*that*, *these*/*those*, *I*/*me*/*my*)\n\n  - Character N-grams (3-grams and 4-grams)\n\n  - Word N-grams (often 3-grams)\n\n**Lexical features:**\n\n  - Vocabulary size\n\n  - Lexical diversity / type-token ratio (Number of distinct words divided by number of words.)\n\n  - Frequencies of rare words\n\n  - Semantic density\n\n  - Discourse marker positions, combinations (*So*, *anyway*, *so anyway*)\n\n  - Use of abbreviations and acronyms\n\n  - Preference for latinate vs. germanic words (*The* *majestic* *creature* *traversed* *the* *terrain* vs. *the* *mighty* *beast* *strode* *across* *the* *land*.)\n\n**Syntactic features:**\n\n  - Syntactic complexity\n    \n      Subordination index\n\n      - Average parse tree depth\n\n    \n\n  \n  - Use of passive voice.\n\n  - Nominalization (*She was shocked I ate the pizza* vs. *My pizza consumption shocked her*)\n\n  - Verb tense and aspect (*I walk* vs *I walked* vs *I was walking* vs *I have walked*)\n\n  - Sentence structure preferences:\n    \n      Branching preferences (Cursed *everyone had a good time when Alice taught some cool dogs I met and brought to dinner to juggle* vs. clumsy-but-readable *I met some dogs and they were cool and I took them to dinner and Alice taught them to juggle and and everyone had a good time*.)\n\n      - Adverbial clause positioning (*Suddenly I was hungry* vs. *I was, suddenly, hungry* vs. *I was hungry, suddenly*)\n\n      - Sentence-final weight (*Your plan won’t work because of the dyslexic bears* vs. *Dyslexic bears mean your plan won’t work.*)\n\n    \n\n  \n  - Polysyndeton (*I like dogs, cats, and ferrets* vs. *I like dogs and cats and ferrets*.)\n\n  - Repetition / breaking of syntactic structures.\n\n**Style features:**\n\n  - Register / formality.\n\n  - Patterns in sentence length (long/short/long/short vs. long/long/short/short)\n\n  - Stressed syllable interval preferences (e.g. iambic vs. trochaic)\n\n**Rule preference features:**\n\n  - Minor punctuation (*I laughed—you cried* vs. *I laughed — you cried*, “…” (three periods) vs. “…” an actual ellipsis)\n\n  - Capitalization. (Job titles, seasons, after a colon, mistakes)\n\n  - Apostrophes (*Steve Jobs’ car* vs *Steve Jobs’s car*, *1990’s* vs *1990s*)\n\n  - Hyphenation (*a highly-stable feature* vs *a highly stable feature*)\n\n  - Oxford commas.\n\n  - Article omissions (*Local dog was petted.* vs. *A local dog was petted.*)\n\n  - Relative pronoun omissions (*the dog you petted* vs. *the dog that you petted*)\n\n  - *Who* vs. *whom*.\n\n  - Split infinitives (*To obsessively blog* vs. *to blog obsessively*)\n\n**Idiosyncratic features:**\n\n  - Whitespace habits.\n\n  - Spelling errors (*loose* instead of *lose*)\n\n  - Grammar errors. (*Between you and I*)\n\n  - Consistent, unique typos\n\n  - Other consistent errors (repeated words, un-closed parentheses)\n\nThat’s a lot. There are surely more. And these are all “shallow” features that humans came up with using our tiny little brains. I strongly suspect that there are many more “deep” features that could be found by looking for statistical patterns in a sufficiently large dataset. Many of those features might not even have a coherent English-language description. But they’re still there, providing bits for those who seek them.\n\nSo we leak information about lots of different stuff when we write. But how much information? Is it possible to say how many words are needed to uniquely fingerprint someone?\n\nNo. To a first approximation, the answer is no. But to a second approximation, maybe? Within an order of magnitude? I’ll try, but it’s going to be hard.\n\n## Demographic bits\n\nHow many bits of identifying information does text provide by way of demographic features like age and sex and so on?\n\nAt first glance, this seems a perilous question, as it depends on the number of categories you consider those things to have. Take sex. For pseudpocalypse purposes, your opinion about how sex should be defined or how many sexes exist is irrelevant. Finer categorizations always provide more information, and our de-pseudonymizing attacker friends will use that information if they can. However, going beyond two categories for sex makes little difference, because the additional categories will be hard to guess and even if you could, categories with low prevalence don’t contribute much extra information.[3](#fn:3) So, for us, two categories is the right answer.\n\nAnd what about age? At first glance, converting age into a set of categories seems meaningless. If you code age by the millisecond, then there are 3.156 trillion categories for people born in the last 100 years. If you code age by the decade, there are only 10. Here, the thing to notice is that while you might be able to guess my decade of birth from how I write, you don’t have a snowball’s chance in hell of guessing the millisecond. (See what I did there? People born in certain decades are more likely to use expressions like *snowball’s chance in hell*?[4](#fn:4)) If we took age to have some crazy number of categories, we’d have to discount later to reflect the difficulty of guessing. My intuition is that it would be hard to guess age more accurately than around five years, so 20 categories seems reasonable.\n\nFollowing this kind of logic, I chose a number of categories for each of the demographic variables, trying to hit the upper end of what could be guessed from text. (I’ll provide the actual categories below.)\n\n  \n    \n      Feature\n      Number of categories\n    \n  \n  \n    \n      Age\n      20\n    \n    \n      Education level\n      6\n    \n    \n      Ethnicity\n      6\n    \n    \n      Family status\n      2\n    \n    \n      Income\n      11\n    \n    \n      Marital status\n      3\n    \n    \n      Mental health\n      3\n    \n    \n      Native language\n      2\n    \n    \n      Occupation\n      23\n    \n    \n      Physical health\n      3\n    \n    \n      Political leanings\n      3\n    \n    \n      Region\n      23\n    \n    \n      Religious affiliation\n      3\n    \n    \n      Sex\n      2\n    \n  \n\nIf each of the age bins were equally likely, then knowing what bin someone fell into would provide 4.32 bits of information, because 2ᴷ ≈ 20 when K = 4.32. Doing that same calculation for each feature gives the maximum amount of information they could contain.\n\n  \n    \n      Feature\n      Number of categories\n      Maximum bits\n    \n  \n  \n    \n      Age\n      20\n      4.32\n    \n    \n      Education level\n      6\n      2.58\n    \n    \n      Ethnicity\n      6\n      2.58\n    \n    \n      Family status\n      2\n      1\n    \n    \n      Income\n      11\n      3.46\n    \n    \n      Marital status\n      3\n      1.58\n    \n    \n      Mental health\n      3\n      1.58\n    \n    \n      Native language\n      2\n      1\n    \n    \n      Occupation\n      23\n      4.52\n    \n    \n      Physical health\n      3\n      1.58\n    \n    \n      Political leanings\n      3\n      1.58\n    \n    \n      Region\n      23\n      4.52\n    \n    \n      Religious affiliation\n      3\n      1.58\n    \n    \n      Sex\n      2\n      1\n    \n    \n      **Total**\n       \n      32.88\n    \n  \n\nBut there’s a problem. There are more people aged 30-35 than there are people aged 90-95. So, even if you could guess those age bins perfectly, they’d provide less than 4.32 bits of information on average. However, it turns out that categories need to get pretty damned uneven before information content drops very much. A perfectly balanced 50/50 distribution provides 1 bit of information, but if you switch to a 60/40 distribution, you still get 0.971 bits, and you need to go almost to 90/10 before information content drops to 0.5 bits.[5](#fn:5) The same basic thing is true when there are more than two categories.[6](#fn:6)\n\nSo I went through all those features, rated them by how unevenly people are distributed, and tried to discount the bits accordingly. I’ve put the full details of what the original categories are and how I discounted them in a footnote.[7](#fn:7)\n\n  \n    \n      Feature\n      Number of categories\n      Maximum bits\n      Estimated bits\n    \n  \n  \n    \n      Age\n      20\n      4.32\n      3.9\n    \n    \n      Education level\n      6\n      2.58\n      2.1\n    \n    \n      Ethnicity\n      6\n      2.58\n      1.7\n    \n    \n      Family status\n      2\n      1\n      0.8\n    \n    \n      Income\n      11\n      3.46\n      2.5\n    \n    \n      Marital status\n      3\n      1.58\n      1.2\n    \n    \n      Mental health\n      3\n      1.58\n      0.9\n    \n    \n      Native language\n      2\n      1\n      0.6\n    \n    \n      Occupation\n      23\n      4.52\n      4.0\n    \n    \n      Physical health\n      3\n      1.58\n      1.3\n    \n    \n      Political leanings\n      3\n      1.58\n      1.5\n    \n    \n      Region\n      23\n      4.52\n      3.5\n    \n    \n      Religious affiliation\n      3\n      1.58\n      1.5\n    \n    \n      Sex\n      2\n      1\n      1\n    \n    \n      **Total**\n       \n      32.88\n      26.5\n    \n  \n\nBut there’s another problem. Female 65 to 70 year-old Asians living in Scotland tend to have different {occupations, family statuses, religious affiliations} than 15 to 20 year-old Latinos living in Southeast Australia. That is, the above features are correlated. So as you look at more of them, they gradually become less surprising and thus contribute less information.\n\nHow much less? Answering that the right way would require us to estimate how likely someone is to fall into each of the 20 × 6 × 6 × 2 × 11  × 3 × 3 × 2 × 23 × 3 × 3 × 23 × 3 × 2 = 8,144,737,920 joint categories. That seems hard. But a not-completely-ridiculous approximation is that if a group of variables are all pairwise correlated at a level of ρ>0, then the total information might be reduced by a fraction of ρ.[8](#fn:8)\n\nSo how correlated are those features? In the social sciences, a correlation of 0.5 is considered quite high. That’s plausible for some pairs of variables, e.g. age vs. health or political leaning vs. religious affiliation. But many of those correlations are are probably quite weak, e.g. age vs. native language or region vs. sex vs. marital status.[9](#fn:9)\n\nOverall, my guess is that correlations reduce the total information by at least 10% but I doubt they reduce it by more than 60%. So I’d think the total information in the above features (if you could guess the categories perfectly) is somewhere between 10.6 and 23.9 bits. Let’s take the average and call it 17.2 bits.\n\n## Personality bits\n\nWhat about personality features? Let’s use the same same recipe we used for demographic features, but faster: To start, let’s give each of the 24 personality features five bins, in deference to [dynomight personality notation](https://dynomight.net/in-defense-of-myers-briggs.html#:~:text=Behold). That would correspond to 24 × 2.32 = 55.68 bits total, because 2ᴷ ≈ 5 when K = 2.32.\n\nThen we need to discount for correlations. The six main HEXACO personality factors are designed to be uncorrelated, but the different “facets” inside each factor are correlated (usually with a coefficient between 0.3 and 0.6). It seems reasonable to use an overall discount factor of 0.3 to reflect strong intra-factor correlations but weak inter-factor correlations. That suggests 39.0 bits overall.\n\n## Style bits\n\nAnd what about writing style features? How much information do they contain?\n\nThis seems hard. Some of the features, like character n-grams are actually themselves long lists of features. (Frequency of typing `aaa`, frequency of typing `aab`, etc.) However, many of those features contain little information, since almost everyone types `zqx`  around 0% of the time. And, of course, writing style features are correlated, since people who write `realise` instead of `realize` are less likely to put spaces around their em-dashes.\n\nIn absence of a better idea, I’m going to give one bit for each leaf node in the above list of style features. I think of this as giving each feature two bins, and then assuming that uneven distributions of features and correlations (which reduce information) are canceled out by the fact that many features deserve more than one bin and that there are probably more “deep” features that aren’t listed (which increase information). This gives us the suspiciously round number of 50.0 bits.\n\n## Guessing bits\n\nIf you believe the above numbers, then we have at least 17.2 + 39.0 + 50.0 = 106.2 bits of identifying information that we leave clues about when we write. That’s a lot. If you could see all those features, it would be enough to identify people even on a planet with 93 million trillion trillion people.\n\nBut to argue that the pseudpocalypse is nigh, it’s not enough to argue that those bits exist. We need to argue that they *can* and *will* be guessed from a *relatively small* amount of text.\n\nSo obviously we need to talk about nuclear weapons. In a nuclear detonation, many unstable atoms are created. These spontaneously decay into more-stable atoms, in the process emitting radiation. Some types of atoms are very eager to decay, meaning they release a lot of radiation but stop existing within a few weeks (iodine-131). Others are reluctant to decay, meaning they don’t release as much radiation but they stick around for decades (strontium-90). Others stick around for millions of years, but they produce so little radiation that they’re not a big problem (cesium-135).[10](#fn:10) So, the residual radiation produced after a nuclear detonation is the sum of many different exponential curves, one for each isotope created during the detonation.\n\nI suspect that identifying bits in text are sort of like that. Your level of formality and your average sentence length are revealed almost immediately. Your preference for latinate vs. germanic words takes a while to come through. And your social boldness and the fact that you live in Queensland rather than Southeast Australia are revealed very slowly, perhaps so slowly that it’s effectively not revealed at all.\n\nRight. So if you start with 106.2 bits, how many of those do you reveal after writing a given number of words?\n\nI will answer that question through the noble method of making up numbers. But first, let’s calibrate. You just read 4500 words written by me. How well could you guess my demographic and personality features? As a sanity check, I gave the above words to an LLM and asked it to guess. It did unnervingly well. It wasn’t always right, but it usually was, and it did a great job of rating the confidence of the individual predictions.\n\nI don’t think there’s any magical explanation for this. The fact is, if you look at the individual personality and demographic features, guessing them just isn’t that hard. So I’m sure you could do just as well. And given enough time, I’m pretty sure you’d do even better for writing style features.\n\nEven so, you’re probably bad at it. Take the example of [GeoGuessr](https://en.wikipedia.org/wiki/GeoGuessr), where people guess a location in the world from a random photo. Random people are sort of OK, but if you pick the top natural talents and have them practice obsessively, they’re *really* good. I don’t think LLMs are particularly good at guessing features from text, either. They weren’t trained for it. It’s just an emergent property of their general intelligence. The information-theoretic limit is surely much higher.\n\nSo here’s a very rough cut: After 4500 words, I’d think it’s possible to guess around:\n\n  - 60% of the demographic features\n\n  - 70% of the personality features\n\n  - 80% writing style features\n\nIf we model each of those with a separate exponential, and start them at 17.2 / 39.0 / 50.0 bits, then the total number of identifying bits that remain hidden after writing a given number of words is as plotted here:[11](#fn:11)\n\n![](https://dynomight.net/img/pseudpocalypse/decay_plot_10k.svg)\n\n*Et voilà*, pseudonymity is compromised when you leak 29 bits, which happens after 1071 words.\n\n## Seriously?\n\nOf course not. The above figure stands on a creaking tower of tenuous assumptions. I’ve gone through the details of deriving that curve not because you should trust it, but because I think seeing the calculations makes the following points hard to argue with:\n\n  - You have far more than 29 bits of identifying information that you leak into your writing.\n\n  - Some of those bits take a long time to get revealed, but others are revealed pretty quickly.\n\n  - There are enough “fast leaking bits” that you can be identified from a writing sample that’s “pretty small”.\n\nI’ve made lots of debatable choices in terms of choosing features, assigning numbers of categories, estimating distributions across those categories, discounting for correlations, and guessing how many bins can be guessed. Those choices are all individually suspect. But the above points are supported by a pretty wide margin of error. You can make different choices, but it seems very hard to avoid concluding that the above three points are true.[12](#fn:12)\n\n## How would this work?\n\nYou might be wondering why I’m using so many made-up numbers. After all, there’s a whole field devoted to identifying authors from text, usually called [“stylometry”](https://en.wikipedia.org/wiki/Stylometry) or “authorship attribution”. They have research papers and [competitions](https://pan.webis.de/) and all that. However, as best I can tell, state of the art [published results](https://doi.org/10.1109/ACCESS.2024.3407673) look something like this:\n\n  - Take 50 people.\n\n  - Get a few hundred writing samples from each author, each 1000-2000 words long.\n\n  - Now, take a new writing sample from one of those authors.\n\n  - Do some standard machine learning stuff.\n\n  - Hey look, the author can be identified with ~95% accuracy!\n\nThat sounds OK, but that’s only identifying people against a pool of ~50 authors. For my claim to be true, similar accuracy would have to be possible with 490 million people. That’s seven orders of magnitude more.\n\nThe thing is, the methods those papers are using are extremely weak. All the above math assumes that you’re operating at the “information-theoretic limit”, making perfect use of *all* available information. If you want to get close to that, we now have some idea how to do it: You apply the “modern” machine learning recipe of gigantic dataset + gigantic neural network + gigantic fortune spent on GPUs. My guess is that for us, that would require something on the order of “all the words ever written” + “tens of billions of parameters” + “tens of millions of dollars”. I couldn’t find a single paper that came remotely close to attempting that.\n\nSo I don’t think those papers tell us much, for the same reason that a 3rd-order Markov model trained on a few books doesn’t tell us much about how good computers could be at writing text. LLMs have shown that if you use the above recipe, then computers can get close to the information-theoretic limit for generating text.[13](#fn:13) So, I suspect that an LLM-level effort could achieve the same thing for identifying authors.\n\nYou might also wonder: Why am I talking about this as some possible future technology? Isn’t that technology just LLMs?\n\nI suspect the technology will be quite LLM-like in how it models human language. But current general-purpose LLMs aren’t trained for this task. They’re good at it “by accident”. So, just like specialized chess AIs can crush LLMs at chess, I suspect specialized stylometry methods could crush general-purpose LLMs at stylometry. It’s just that those specialized stylometry methods don’t seem to exist yet, or at least aren’t public.[14](#fn:14) So we shouldn’t imagine that current LLMs are anything close to what’s possible, even if you assume that generic LLM progress stopped today.[15](#fn:15)\n\n## Countermeasures\n\nIf this is all true, what could be done about it?\n\nThe most obvious “countermeasure” would be to get used to it. I mean, imagine that we *did* live in a world in which everyone literally had to sign everything they wrote with a unique immutable string. What would happen? I’d expect a mixture of:\n\n  - People become more comfortable with their “full selves” being public, with less compartmentalization.\n\n  - People pull back from communicating in public channels, relying more on group chats and the like.\n\n  - People self-censor.\n\nThere are strong historical analogies here, since over the past 20 years many governments and tech companies have in fact decreed that people must sign the things they write with their real names.\n\nThe effects seem to vary quite a lot based on the ambient culture and political system. Overall, my impression is that people are already much more comfortable with the idea that their work colleagues might read their dating profile or learn that they go to furry conventions. I’m optimistic that culture will continue to adapt to respect the fact that we all encompass multitudes. This seems healthy.\n\nSome effects seem clearly positive. Self-censoring is not necessarily bad. For example, on the margin, real-names surely stop some teenagers from engaging in cyber-bullying. On the other hand, were you ever a teenager? I’m pretty sure that for anyone who is “different”, having those differences broadcast to the world creates a much larger “bullying surface area”. So the effects are mixed. And adults aren’t as different from teenagers as we might like to think.\n\nTwenty years ago, I might have predicted that real names would discourage people from expressing controversial political ideas online. Superficially, that seems completely wrong. At least in the West, lots of people are *very* happy to express minority political views, and if you disagree at all, then you can go to hell. But I also tend to think this hides a lot of self-censorship, where most people don’t want engage in political mortal combat and so are cowed by a feisty minority. And, obviously, people in certain countries know that it’s unwise to criticize the Party. So, getting used to it seems like an imperfect solution at best.\n\nAnother countermeasure would be to not build this technology, or not make it widely available. In the short term, this seems plausible. As far as I can tell, it’s been possible for years for a modestly-funded group to build a phone app that would identify most people on the street from a photo. And yet, almost no one reading this has access to such an app. If general-purpose LLMs continue to get better at stylometry, it seems entirely possible that AI companies might decide it’s a safety issue and train their AIs to refuse to do it.[16](#fn:16) This could work for a while.\n\nBut if the technology is possible, it seems certain that governments will build it and use it. They might try to keep it out of the hands of normal people. Certain governments might restrict their own use. My privacy-minded allies always seem very jaded, but it wouldn’t surprise me at all if the Supreme Court declared that a warrant was needed before the FBI could de-pseudonymize a U.S. citizen. But when/if that technology becomes sufficiently cheap, it seems like it would be very difficult to keep it out of the hands of normal people and/or bad actors. My guess is that it’s possible to create a program that’s a few hundred gigabytes large and can run (slowly) on most modern laptops. If that program is made public, it would be hard to put the genie back in the bottle.\n\nThere are also technological countermeasures. Most obviously, you could run your writing through a “filter” to try to remove identifying bits, e.g. by asking an LLM to rewrite it. It’s hard to be sure how well this would work, since we don’t have accurate estimates of how many bits you’re starting with or how many bits this would remove. But I’d guess this would be pretty effective if done carefully. The reason is that the number of identifying bits you leave in writing probably isn’t *that* large, relative to the number needed to identify you. If you “homogenize” your writing to remove all style and personality, you should be able to remove most of those bits. Theoretically, you’ll still leak some information. But I’d think this would substantially increase the amount you could write while remaining pseudonymous.[17](#fn:17)\n\nBut after thinking about it, this makes me sad. Effectively, this countermeasure would preserve pseudonymity by taking writing and destroying all traces of humanity. It seems like this would work well for the “bad” uses of pseudonymity, like cyber-bullying or coordinated violence, but it wouldn’t work at all for the “good” uses, like for example someone who likes to write pseudonymously because they feel like it allows them to be more honest and vulnerable and more fully themselves, damn it.\n\n## Generalized pseudpocalypse\n\nMaybe this isn’t just true for writing. Maybe it’s just a feature of our universe that if you interact with the world in any significant way, then you leave traces that make it possible to identify you.\n\n  - \n    If you walk around in public, then you can likely be identified by your face, your gait, your voice, your DNA, your retinas, or your literal fingerprints.\n\n  \n\n  - \n    Or say you use the internet. Even if you lock down your browser fingerprint and hide your IP address using a VPN or Tor, a sufficiently powerful adversary could still identify you by analyzing global packet flow.\n\n  \n\n  - \n    Or say you use *any* phone or computer. You might be identified through keystroke dynamics or the way you jiggle your finger or mouse.\n\n  \n\n  - \n    Say you buy food at the grocery store, but you pay with cash and somehow shop at a grocery store with no cameras. If you buy more than a handful of items, I’d bet you can still be identified through the patterns in the stuff you buy.\n\n  \n\n  - \n    (Incidentally, did you ever notice that cash has serial numbers on it? And did you know that more and more ATMs are starting to track those numbers?)\n\n  \n\n  - \n    Or say you don’t like your car being tracked, so you stop carrying a phone and somehow get lawmakers to outlaw license plates. Still, your car surely has a few small unique scratches, and the engine probably doesn’t sound exactly the same as other cars, even from the same model and year. So if there’s any high-resolution video or audio, that’s still enough to track you.\n\n  \n\n  - \n    Say you plug your headphones into a charging station at the airport. Your headphones have eccentricities in their analog charging circuits. If someone really wanted to, they could track that.\n\n  \n\n  - \n    Or say you use electricity. Given high-resolution power-usage data, what can be said about how many people live with you? And what devices you’re using? Probably a lot?\n\n  \n\n  - \n    Or say you use a toilet. Many places already test sewage and know, at a population level, what drugs people are using and how prevalent various diseases are. Imagine this was upgraded to test many places in the system, with high temporal resolution, possibly correlated with flow measurements from individual houses. That would be exciting.\n\n  \n\n  - \n    Or say you are a country and you have submarines. Can they be detected by adversaries using distributed acoustic sensing? What about satellite-based synthetic aperture radar? Gravity Gradiometers? Quantum magnetometry?\n\n  \n\nAs far as I can tell, the general trend is that without countermeasures, almost everything can be identified. Countermeasures can make it harder, but they’re costly, and on the whole, the arms race seems to favor the identifier, not the person who doesn’t want to be identified.\n\nI stress: This is not all bad. The goodness / badness of a generalized pseudpocalypse depends on how society is structured. After all, the foundation of civilization is finding ways for people to make deals, and arguably less privacy makes that easier. The degree that we live in a [vulnerable world](https://en.wikipedia.org/wiki/Vulnerable_world_hypothesis) where it’s easy to create civilization-destroying technologies, perhaps we’re very lucky to find ourselves in a non-private world. Still, I do worry that privacy has long provided a kind of “slack” from laws and norms. Historically, that slack has limited the power of institutions to enforce their rules. If privacy is going away, we need to think about how to preserve slack, particularly when institutions don’t want to.\n\n## Appendix: Section for skeptical information theory enthusiasts\n\nAbove, I tried to estimate the number of bits of identifying information in writing. But what is a “bit”? In general, if **x** is a discrete random variable, then the [Shannon entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)) of **x** in bits is **H(x) = ∑ₓ p(x) log₂(1/p(x))**, where the sum is over all the values **x** can take. This is always bounded between zero and the logarithm of the number of values **x** can take.\n\nThat’s fine, but “writing style” is not a discrete variable with a discrete number of categories. So how can I estimate the entropy of writing style? The short answer is that I can’t. What I’ve actually estimated above is the *mutual information* between writing and writing style.\n\nLet **s** be a random variable representing writing style. Think of this as some sort of high dimensional continuous vector representing all the quirks of how different people write. And let **x** be a writing sample of some length. This is discrete because we can represent writing on digital computers. Then what I’ve estimated above is the mutual information **I(x;s) = H(x) - H(x|s)**, where **H(x|s)** is the conditional entropy of **x** given **s**. This can be measured in bits because both **H(x)** and **H(x|s)** can be measured in bits. So that’s what my estimate above really says: **I(x;s) ≈ 106.2 bits**.\n\nNow, you still might be skeptical. Above, I’ve implicitly assumed something like the following was true:\n\n> It’s possible to identify one person out of N possibilities with low accuracy if and only if the mutual information between identifying features and writing is at least **log₂(N)** bits.\n\nThat’s how I justified pseudonymity being compromised around 29 bits. But is it really true? Strictly speaking, no. Actually, even more strictly speaking, it’s “not even untrue” because it’s not precise enough to be true or false. But as far as I can tell, basically any precise version of that statement is false. However, it’s possible to find versions of that statement that *are* true, provided you add some extra not-too-crazy assumptions.\n\nTo start, let’s consider an extremely simple model of information leakage.\n\n**Theorem.** Suppose the world consists of you plus **N** other people, and suppose each person has a binary identity string, drawn at uniform from the distribution over **M**-bit binary strings. All these strings are known to the attacker. Suppose you pick some subset of **K** bits and reveal them. Then the probability that this identifies you is\n\n  **(1-2⁻ᴷ)ᴺ**.\n\nFurthermore, in order to hold the probability of being identified below\n\n  **(1-1/N)ᴺ ≈ exp(-1) ≈ 36.7%**,\n\nit is necessary that **K ≤ log₂(N)**.\n\n**Proof.** The probability that all **K** observed features collide with any random person in the crowd is **2⁻ᴷ**. Thus, the probability of no collisions after checking the crowd of **N** people (meaning you are the only one matching the observed features) is **(1-2⁻ᴷ)ᴺ**. □\n\nThat’s simple. But it’s not realistic at all, since it assumes that people have immutable binary strings that they leak into their writing. Can we make it more realistic?\n\nWell, there is a simple *lower* bound. That is, we can say in general that if the mutual information is significantly *less* than **log₂(N)**, then it’s not possible to reliably identify someone.\n\n**Theorem.** Suppose N random people are selected and their full writing style features are made public. One person from that group is chosen and produces a writing sample. Then, the attacker must guess who produced it. The average success rate of the attacker (averaged over the random pool, the random choice of author, and the random writing sample) is at most **(I(x;s)+1)/log₂(N)**.\n\n**Proof.** Let **S=(s₁, s₂, s₃, …)** be the pool of **N** styles and let **n** be a random variable indicating which person was chosen. [Fano’s inequality](https://en.wikipedia.org/wiki/Fano%27s_inequality) says that the highest possible success rate is bounded by the conditional mutual information between the writing sample **x** and the identity **n**, conditioning on the pool of writing styles, i.e. the probability of success is at most\n\n  **(I(x;n|S)+1)/log₂(N)**.\n\nHowever, we can bound that conditional mutual information as\n\n  **I(x;n|S) ≤ I(x;n,S) = I(x;n,sₙ) = I(x;sₙ) = I(x;s).**\n\nThe first inequality is standard. The second step uses the fact that given **n**, the writing **x** is conditionally independent of all styles except the chosen writer. The third step uses the fact that **n** is conditionally independent of **x** given **sₙ**. The last step uses that **(x,sₙ)** is distributed as **(x,s)**. Substituting this bound gives the claimed result. □\n\nSo, if mutual information is much less than **log₂(N)**, reliable identification is impossible, even if the attacker knows all the style vectors perfectly. So, provided you don’t leak that many bits, you’re definitely safe.\n\nBut is the converse true? Does leaking more than **log₂(N)** bits always identify you? The general answer is *no*. The basic problem is that **I(x;s)** is the *average* information that an *average* person leaks in an *average* writing sample. Without further assumptions, you can construct scenarios where *some* rare people and writing samples contain gigantic amounts of information, but most people usually leak nothing. That would mean that the attacker is *very* certain in some cases but usually learns nothing.\n\nSo, to get a guarantee that identification is actually possible, you need to make some kind of additional assumption that the information leakage rate doesn’t vary too much between different writers or between different things they write.\n\nSuppose that **p(x,s)** is the joint distribution over writing styles **s** and writing samples **x**. Let’s suppose that the attacker knows the true style vector **ŝ** for some person. Then, they will be given a writing sample **x** that either came from that person or came from a randomly chosen person, and must decide which. Formally, the attacker’s goal is to guess if **x** was sampled from the writing distribution for that person, **p(x|ŝ)** or from the population marginal **p(x)**. Intuition suggests that the attacker’s best strategy will be to look at the ratio\n\n  **p(x|ŝ)/p(x),**\n\nand “accept” **x** as coming from **ŝ** if above some threshold, and reject it otherwise. In fact, the [Neyman-Pearson lemma](https://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma) guarantees that this is the optimal strategy, in a very strong sense: That ratio contains *all* the information that’s useful for making that decision.\n\nNow here’s something interesting: Instead of looking at the ratio, the attacker could look at the logarithm of the ratio. It makes no difference since it’s monotonic. But if you take the logarithm of that ratio, and take the expectation over people and over texts, what do you get? Well:\n\n  **𝔼 ln (p(x|s)/p(x)) = 𝔼 ln (p(x,s)/(p(x) p(s))) = I(x;s)**\n\nIt’s the mutual information! So, intuitively, the mutual information is how much an attacker learns about the style of the writer “on average”, where that average is over both writers and text.\n\nThe following theorem will look at the average information in text for a writer with a particular style. I’ll define this as\n\n  **D(s) = KL(p(X|s) || p(X))**.\n\nIntuitively, this is how different the writing of someone with style **s** is from the population average. That’s because if you take the average of this value over different styles, you get the mutual information. That is, **I(x;s) = 𝔼[D(s)]**.[18](#fn:18)\n\n**Theorem (informal).** Suppose that the attacker will observe some text and wishes to classify it as either coming from a writer with specific known style **ŝ**, or coming from someone with a random style. Suppose that the attacker is only willing to tolerate some small risk **ε** of a false positive. Provided that **D(ŝ)** is significantly larger than **-ln(ε)**, the attacker can achieve that, while also keeping the risk of false negatives very low, provided that the variance of how much information is revealed in a random writing sample is bounded.\n\n**Theorem.** Let **D(ŝ) = KL(p(X|ŝ) || p(X))** to be the divergence between the target’s writing distribution and the marginal distribution. Also, define **qₜ(x) ∝ p(x|ŝ)ᵗ p(x)¹⁻ᵗ** to be the family that interpolates between those two distributions. To formalize the idea that “information leakage” for **ŝ** doesn’t vary that much, we assume that some constant **V** exists such that for **0 < t < 1**, the variance of **log(p(x|ŝ)/p(x))** under **qₜ** is bounded by **V**.\n\nThen for any **ε** satisfying **exp(-D) < ε < exp(-D + ½ V)**, it is possible for the attacker to simultaneously achieve a false positive rate of **FPR ≤ ε** and a false negative rate of **FNR ≤ exp( - ½ (D+ ln ε)² / V).** This false positive rate reflects the mistake rate provided the writing sample **x** came from a randomly chosen other person, while the false negative rate reflects the mistake rate provided the writing sample **x** actually came from the person with style **ŝ**.\n\n**Proof sketch.** Let **f** be the distribution of **l(x) = log(p(x|ŝ)/p(x))** with respect to **p(x|ŝ)** and let **g** be the distribution of **l(x)** with respect to **p(x)**. The stated variance assumption implies a quadratic bound **K(u) ≤ D u +½ V u^2** for **-1 < u < 0**, where **K** is the cumulant generating function of **f**. Observe that **g** is an exponential tilting of **f**. The attacker’s strategy must be to “accept” **x** as coming from **ŝ** if **l** is above some threshold **c** and “reject” it otherwise. Use **K** in a Chernoff bound on the probability **l** is less than **c** under **f** to upper-bound **FNR ≤ exp( - ½ (D-c)²/V)**. Now, using that **g(l) = exp(-l) f(l)**, again use **K** in a Chernoff bound on the probability **l** exceeds **c** under **g** to upper-bound **FPR ≤ exp( -c - ½ (D-c)²/V)**. Both of these bounds are simultaneously valid when **D-V < c < D**. Setting **c** to make the false-positive bound equal to **ε** gives **FPR ≤ ε** and **FNR ≤ exp( -½ (V - √(V² - 2V(D + ln ε)))²/V).** The latter can be relaxed into the stated result using that **√(1-x) ≤1-x/2** for **0 ≤ x ≤ 1**. □\n\nNow, if we suppose that the attacker wants to find a particular person, with a particular known style **s**. And suppose that the attacker has a pool of **N** people and will see one writing sample from each, but wants to limit the total probability of a false positive to **δ** after seeing one sample from each person. Then, they will need that\n\n  **(1-ε)ᴺ ≈ exp(-εN) = (1-δ),**\n\nwhich is satisfied by **ε ≈ δ/N**. Substituting this into the previous result says that the attacker can hold the *total* risk of a false positive to **δ** while achieving a false-negative risk of\n\n  **FNR ≤ exp( - ½ (D(s) + ln δ - ln N)² / V).**\n\nThese results use natural logarithms because the math is easier if you measure information in nats. If you measure information in bits then you would get **log₂ δ** and **log₂ N**. (Rescaling **D** and **V** appropriately.)\n\nSo, again, as long as the average information for user **s** is significantly larger than **log₂ N**, the attacker can identify that user with minimal risk of false positives.\n\nSome writers might leak more information (higher **D(s)**) and some writers might leak less information (lower **D(s)**). But remember, **I(x;s)=𝔼 D(s)**. So as long as information leakage doesn’t vary too much between people, and assuming that **I(x;s)** is much larger than **log₂ N** (and assuming that variance condition), almost everyone can be identified.\n\n  \n\n  \n\n  \n    Subscribe using [this form](https://cryptpad.fr/form/#/2/form/view/2zj2ZI5uv9BYrDp3C6zGGRckUdkQ-OszrKcxz0V2Nco/embed/) or [substack](https://dynomight.substack.com/) or [RSS](https://dynomight.net/feed.xml).\n  \n\n  \n    Correct mistakes with [this form](https://cryptpad.fr/form/#/2/form/view/dOcEnIT853syGD9D9K94eE1+SA6xyabixeVwSQkxW1k/embed/).\n  \n\n  \n\n  \n  \n  \n\n    \n  \n  \n\n  \n      \n      \n  \n  \n -->\n  \n    \n\n    [Heritability puzzlers](https://dynomight.net/heritable/) · \n    \n          [science](https://dynomight.net/#science)\n    \n          [math](https://dynomight.net/#math)\n    \n          [effort](https://dynomight.net/#effort)\n    \n    \n\n      \n    [Please show lots of digits](https://dynomight.net/digits/) · \n    \n          [writing](https://dynomight.net/#writing)\n    \n          [math](https://dynomight.net/#math)\n    \n    \n\n      \n    [Using axis lines for good or evil](https://dynomight.net/axes/) · \n    \n          [writing](https://dynomight.net/#writing)\n    \n          [data](https://dynomight.net/#data)\n    \n          [math](https://dynomight.net/#math)\n    \n    \n\n      \n    [Life with hazard ratios](https://dynomight.net/hazard-ratios/) · \n    \n          [science](https://dynomight.net/#science)\n    \n          [health](https://dynomight.net/#health)\n    \n          [math](https://dynomight.net/#math)",
+        "url": "https://dynomight.net/pseudpocalypse/",
+        "source": "DYNOMIGHT",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Algorithms"
+        ],
+        "published_at": "2026-07-14T00:00:00.000Z",
+        "reading_time": 45,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What does \"playing politics\" mean for software engineers?",
+        "summary": "Software engineers are [often told](https://old.reddit.com/r/ExperiencedDevs/comments/1urg0tk/whats_the_best_advice_youve_received_from_a/owfi7dq/) to “start playing politics”, but most engineers have",
+        "content": "Software engineers are [often told](https://old.reddit.com/r/ExperiencedDevs/comments/1urg0tk/whats_the_best_advice_youve_received_from_a/owfi7dq/) to “start playing politics”, but most engineers have no idea what that means.\n\nTheir reference point for “playing politics” comes from fiction like Game of Thrones. Are they supposed to raise an army and depose the CEO, or poison each other at team lunch? Should they book Zoom calls with each other and plot schemes? All of that is obviously ridiculous. In terms of Game of Thrones, software engineers are not lords and ladies. We’re the soldiers and workers of the realm. So you should think about “playing politics” in the way a castle guard would, not one of the major players.\n\nThe castle guard are not going around poisoning people or forming coalitions between the great powers. They are largely keeping their heads down. But in order to do that, they have to stay aware of the political currents, or they’re liable to do something catastrophically stupid: for instance, making an enemy of a powerful courtier, or arresting somebody who’s on an important mission for the king.\n\nGiven that, the basic principles of playing politics are something like this:\n\n- Be aware of who’s powerful and who’s not\n\n- At all costs, avoid making powerful enemies\n\n- Help powerful people as best you can\n\n- Make sure they know you’re helping them (without annoying them)\n\n### Be aware of who’s powerful and who’s not\n\nAs a software engineer in a large company, **you will not be a powerful person**. Powerful people are typically in senior management: VPs, directors, and so on[1](#fn-1). However, not everyone in senior management is powerful. Some are killers who have the active support of the CEO, while others are confused incompetents.\n\nHow do you know which is which? If someone is clearly ferociously competent, they’re always going to have *some* power, since upper management tend not to ignore useful tools. But you can’t rely on competence as your only guide. Some managers are powerful for other reasons: they’re friends with the CEO, or they have strong relationships with other groups like legal or sales, or they’re simply willing to do whatever upper management wants done.\n\nOne signal is who’s leading the important projects. Read your CEO or CTO’s internal updates and pay attention to the projects that are called out by name. Organizations tend to give key tasks to trusted lieutenants. If a manager is leading an area that’s never under [the spotlight](https://seangoedecke.com/the-spotlight/), they probably don’t have enough clout.\n\nAnother signal is hiring. Is a manager’s team growing or shrinking? Particularly [post-ZIRP](https://seangoedecke.com/good-times-are-over/), headcount is a rare and precious resource. A manager who’s able to get it is likely a powerful manager, or at least is reporting to a powerful director or VP (which often amounts to the same thing).\n\n### At all costs, avoid making powerful enemies\n\nFirst, you should try not to make any enemies at all. Most software engineers who get “playing politics” wrong do it by needlessly alienating people: by being rude, unhelpful, abrasive, making non-technical people feel stupid, and so on. This post isn’t really about that. I’m assuming that you can figure out how to be a generically pleasant person on your own.\n\nHowever, **competent software engineers will make some enemies**. If you’re out there making projects happen, some people aren’t going to like the way you do it, and won’t be a fan of any compromise you offer. I wrote about this in [*Big tech engineers need big egos*](https://seangoedecke.com/big-tech-needs-big-egos/): the only way to avoid making enemies is to change nothing, but that’s incompatible with doing the job.\n\nGiven that, be selective about *which* enemies you make. If you’re making a technical decision that’s either going to require work from team A or team B, and neither team wants to do it, you should try to pick the team with the least political cover. If you need a powerful VP’s team to do something they won’t like, try to be maximally respectful about it: get that team’s core engineers on-side if you can, or book a meeting with the powerful manager and explain the situation, or (better yet) ask the powerful manager sponsoring your project to go and talk to the other VP for you. (If you don’t have a powerful manager like this, consider abandoning your project).\n\n**Give way to powerful managers when at all possible.** Every so often you really do have to stand your ground — if the system will truly collapse otherwise, or a major customer will have an incident, or if the technical decision really is entirely bone-headed — but almost all cases are not like this. The best advice I’ve ever gotten about playing politics came from a manager I worked with long ago[2](#fn-2):\n\n> This is not the hill you want to die on.\n\nWhen I’m about to pick a fight or say something argumentative, and I’m not 100% convinced it’s necessary, I ask myself: is this the hill I want to die on? And it never is.\n\nThe three rules about disagreeing with powerful people are:\n\n- Make sure you do it in private\n\n- Be polite\n\n- When they overrule you, stop arguing immediately\n\nDisagreeing in private rarely hurts, if you follow these rules. In fact, it can help. If you can manage to disagree with a manager, get overruled, and then follow their plan without complaining, that can be the best way to gain a powerful friend. But if they think you’re going to keep griping about it, or worse still, complain to the rest of the team and foment some kind of rebellion, there’s no quicker way to make a powerful enemy.\n\nIf you have powerful enemies at a company (for instance, the CTO or an influential VP doesn’t like you), **quit**. It’s really that bad. I have never seen this situation turn itself around, except in the very rare case where the CTO or VP is already looking for greener pastures and jumps ship. You cannot recover the situation: they have no incentive to give you the chance to change their mind, and they have almost unlimited ability to screw you on promotions, raises and layoffs.\n\nThat’s why this piece of advice is second in the list. If you aren’t helpful or if your contributions are invisible, you can work on that and fix it. But if you’ve made powerful enemies, you’re done for.\n\n### Help powerful people as best you can\n\nJust as it’s fatal to make powerful enemies, it’s very useful to make powerful friends. How can you do this? Remember you’re a palace guard, not a great lord: you make friends **by doing your job**. However, you can choose to do your job a little more proactively and diligently when you’re doing it for someone with political clout.\n\nOne obvious application of this principle is that **you should answer Slack messages from powerful people immediately**. If you see an ordinary Slack question pop up while you’re doing some task, it’s okay to get to it when you get to it. In fact, it’s ideal *not* to respond to all questions immediately, so you don’t set unreasonable expectations (and so you don’t seem like you’re sitting around doing nothing). But when a VP comes in with a question, don’t make them wait: answer the question immediately. If the question requires research, send a “let me look into that right now” message, then do the research. This is the easiest way to get a reputation for being helpful[3](#fn-3).\n\nAnother way to do this is to **lean in on important projects**. Suppose you do ten projects in a year. Eight of them are normal, low-priority projects, and two of them are high-profile (say, finishing some big feature before your company’s yearly conference). It’s a mistake to allocate your effort equally to all ten. I wrote about this at length in [*Doing nothing at work*](https://seangoedecke.com/doing-nothing-at-work/): you should be operating at 80% capacity (or less), so you can then ramp up to 120% when it really matters.\n\n**Pay attention to the narrative that powerful people are trying to push.** Here are some potential narratives:\n\n- We’ve had a lot of turnover and reorgs lately, but we’re all starting to pull together as a team now\n\n- Isn’t it great how focused we all are on reliability work after last month’s incident?\n\n- The conference this week is the most important thing, so we’re all being very careful not to break anything\n\n- We’re an AI-forward team that’s looking for the best ways we can leverage LLMs into our team processes\n\n- Although this project had a rocky start, we’re now all aligned on the way forward\n\nYou don’t necessarily have to jump in and start cheerleading, but you should at least not do anything that you know is going to make the narrative look weak. For example, on that last point, it’s foolish to openly argue that the project really was fine all along. Bring it up privately, not publicly, or you risk ruining some clever piece of propaganda that the manager in question is trying to push on the rest of the organization[4](#fn-4).\n\nFinally, an underrated way to help powerful people is to offer them social support and information. Slack messages and planning emails might seem unimportant to you, but powerful people often live in that environment: their primary tool is writing messages like these, just like your primary tool is writing code. Reading and responding (in a supportive way) to these messages is something that most engineers don’t bother to do, but it goes a long way.\n\nLikewise, dropping a senior manager a line now and then (say, a heads-up that a particular project landed successfully, or that you got good metrics about some feature) is surprisingly helpful. Senior managers live in an information-poor environment: for them to learn something about a team’s work, that information has to bubble up through several layers of interpretation and summary. In my experience, they’re appreciative of being drip-fed the occasional piece of information, so long as you keep it brief and relatively rare.\n\n### Make sure they know you’re helping them\n\nIf you’re directly responding to a VP’s Slack messages or DMing them information, they know you’re the one doing it. But if you’re just doing your job and working hard on projects they care about, they might not notice. **Being invisible is probably the most common way engineers fail at playing politics.**\n\nFortunately the fix is simple: tell people what you’re doing. If you fix an important bug for a launch, write a message in that launch’s Slack channel saying “hey, I just fixed this bug”. What if you don’t like bragging? Get over it. You have to be comfortable publicly telling people what you’ve done. You should also keep a [brag document](https://jvns.ca/blog/brag-documents/) so you can repeat all of this at review time.\n\nAnother, subtler way to do this is to gain the trust and respect of the powerful engineers in your area. Senior managers will always have a few trusted engineers they rely on to assess technical questions. They will ask those engineers what they think about you, and will broadly trust those answers. The good news is that if you’re competent and useful, those engineers will already value you, so you don’t have to do anything special: just be good at your job.\n\n### Technical power\n\nIs playing politics all about sucking up to senior managers? Basically, yeah. A less cynical way to [describe it](https://seangoedecke.com/shareholder-value/) would be “aligning with the values of the company”. If you think your company is doing good things, you should want to do that anyway! In any case, what that comes down to is figuring out what the people in charge want, giving it to them, and making sure they see you doing it. However, there’s still some scope to get what *you* want out of the deal.\n\nI said earlier that software engineers do not wield organizational power. However, that doesn’t mean you’re powerless. Technical ability is a source of real power, if a delicate and unreliable one. The movers and shakers in tech companies are utterly dependent on technical people to implement their vision and to give them clear answers about the system.\n\nThere are many subtle ways you can leverage this. One I wrote about in [*How I influence tech company politics as a staff software engineer*](https://seangoedecke.com/how-to-influence-politics/) is to wait until important people at the company want to do something (say, improve reliability), then offer them a technical plan that does it your way. Another one is to become so useful that you’re actively in demand to lead projects, and then run the project how you want.\n\nYou probably won’t be able to change the company’s grand strategy. But how that strategy is *implemented* has a lot of specific technical detail, and you can put yourself in a position to decide on those details.\n\n### Conclusion\n\nPlaying politics isn’t about plotting and scheming, and it isn’t just about being a [friendly, likeable person](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) (although that helps). It’s about figuring out how your company actually operates: who makes the decisions, who gets consulted, what behavior gets rewarded, and so on. The most basic way to do that is to **figure out who is powerful, get out of their way, and (if you can) help them get what they want**.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fplaying-politics%2F&t=What+does+%22playing+politics%22+mean+for+software+engineers%3F).\n\nHere's a preview of a related post that shares tags with this one.\n\n> AI makes weak engineers less harmful\n\nLike other kinds of puzzle-solving, software engineering ability is strongly heavy-tailed. The strongest engineers produce way more useful output than the average, and the weakest engineers often are actively net-negative: instead of moving projects along, they create problems that their colleagues have to spend time solving. That’s why many tech companies try to [build](https://www.levels.fyi/companies/jane-street/salaries) a small, ludicrously well-paid team instead of a large team of more average engineers, and why so far this seems to be a winning strategy.\n[Continue reading...](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/)",
+        "url": "https://seangoedecke.com/playing-politics/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Presigned URLs are technically a security vuln",
+        "summary": "![A cat-eared, tiger-striped character sits at a desk overlooking the Golden Gate Bridge on one side and a floating crystal city on the other, working at a laptop and monitor showing a media/data sort",
+        "content": "![A cat-eared, tiger-striped character sits at a desk overlooking the Golden Gate Bridge on one side and a floating crystal city on the other, working at a laptop and monitor showing a media/data sorting diagram.](https://www.tigrisdata.com/blog/assets/images/hero-image-ef93e25066352293ec6a45a99cc9cb81.webp)\n\nA presigned URL is a replay attack you did on purpose.\n\nReplayable auth tokens are the textbook way to create vulnerable systems, but\nTigris ships them as a first-class feature with presigned URLs and so does every\nother object storage system on the planet. However this isn’t an oversight\nbecause presigned URLs turn a weakness into a feature.\n\n## Replay attacks are a real problem and the classic fix is miserable[​](#replay-attacks-are-a-real-problem-and-the-classic-fix-is-miserable)\n\nWhen you authenticate a request with Amazon’s SigV4 protocol for Tigris, your\nclient boils down the request to a canonical form: a SHA256 hash of the\nrequest’s method, path, query parameters, signed headers and a SHA256 hash of\nthe payload. It runs the result of that through HMAC with a signing key derived\nfrom your secret access key. Nothing secret ever crosses the wire. The server\nderives the same key as the client, does the same canonical form transformation,\nand compares the result.\n\nBeing able to make a valid signature proves that the request came from someone\nholding the secret access key, but it proves nothing about *when* that request\nwas made. A signature that was made a year ago would still be valid today or any\nother time you send it, so in theory an attacker could warehouse your signed\nrequests only to replay them en masse later. Imagine sitting on a pile of signed\n“create EC2 instance” calls only to spam them all out at a later date. You would\nbe a twirling moustache villain able to spawn dozens of servers at a moment’s\nnotice.\n\nTraditionally the fix is to bake a nonce (number used once) into the signature\n(sorry to any British readers in the audience). This makes every signature\ndiffer because that nonce differs.\n\nHowever with great power comes great responsibility and making sure that\nsomething used once is only used once is a surprisingly hard distributed systems\nproblem. You can’t verify that something is only used once locally. Say you\nstore them all for a 15 minute smear window at a low request rate like 10,000\nBq. That’s 9 million live nonces, and every frontend node needs to have a\nconsistent view of the whole set as it churns.\n\nYou have made your fast authentication check slow from having to ensure things\nare only used once.\n\nWhat you want instead is something that changes constantly without coordination\nand invalidates those old signatures for free. For an added bonus you want this\nto also be in the standard library of every programming language.\n\n## Sign the clock[​](#sign-the-clock)\n\nThere’s exactly one value that changes constantly, (mostly) monotonically, and\nis already actively coordinated across all elements of the stack: the clock.\nYour OS already keeps time in sync with the public NTP pool (or a private NTP\npool if you are cool enough to have radioactive PCI cards laying around).\nWithout an accurate view of time you can’t make TLS connections, which means you\ncan’t make API calls to Tigris at all, so the auth layer gets to assume a\nworking clock exists.\n\nSigV4 signs the current time into the request. If an attacker gets their greasy\nhacker paws on a signature, they have about 15 minutes to use it before it\nbecomes a digital paperweight. If time is an input to the signature and the time\nchanges enough to invalidate the signature, the signature is null and void. Sure\nin theory a sufficiently funded attacker could create a black hole in your\ndatacentre and disrupt temporal flow, but at that point the planet is probably\ntoast which makes the attack profile moot. Commit mass object storage fraud with\nthis one neat trick! The department of temporal investigations will have hated\nit!\n\nThis makes your verification stay stateless. Everything gets checked against the\nsystem clock the server already needs and you can give clients a 15 minute\nsignature smear window as a grace period for old or delayed clients (exponential\nbackoff is a good thing and Tigris will reward you for doing it).\n\nOf course the real thing keeping the signatures safe on the wire is TLS (HTTPS).\nIf that is broken we have bigger problems and object storage fraud is the least\nof our problems.\n\nTime is the only nonce you need because both sides already agree on it anyways.\n\n## Some thorns have roses[​](#some-thorns-have-roses)\n\nPresigned URLs take the replay tolerance that SigV4 spends all this effort\nnerfing and then buffs it into the feature. The entire auth dance gets flattened\ninto URL parameters that any HTTP client can use, be it a browser, curl, Go’s\nnet/http, or something you made by bit-banging HTTP over a socket. Here’s a real\npresigned URL I sundered into visibility:\n\n```\nhttps://xe-sophia-base.t3.tigrisfiles.io/moby-dick.txt\n\n?X-Amz-Algorithm=AWS4-HMAC-SHA256\n\n&X-Amz-Credential=tid_ubYBNEYAmTciLVwszw_QrUXDmtcyQisryryGfxgznDsCnOvNqh/20260714/auto/s3/aws4_request\n\n&X-Amz-Date=20260714T043308Z\n\n&X-Amz-Expires=3600\n\n&X-Amz-SignedHeaders=host\n\n&X-Amz-Signature=0dcaf4972911527a7582ff36ea457e9760a8efccb6655a178685aaa281637a36\n\n```\n\nHere are the parts (forgive the AI looking listicle because this is genuinely\nthe best way to format this):\n\n- **X-Amz-Algorithm**: the signature scheme. Effectively always\n`AWS4-HMAC-SHA256`.\n\n- **X-Amz-Credential**: the access key ID plus the credential scope — date,\nregion, service, and the literal terminator `aws4_request`. The signing key is\nderived by chaining HMAC through exactly those parts, so a signature is only\never valid for that day, that region, that service.\n\n- **X-Amz-Date**: the second the URL was born, in UTC.\n\n- **X-Amz-Expires**: how many seconds it gets to live, chosen by the signer.\n\n- **X-Amz-SignedHeaders**: which HTTP headers are folded into the signature.\nUsually just `host`, because you can't force whoever you hand a URL to into\nsending exotic headers.\n\n- **X-Amz-Signature**: 64 hex characters of HMAC-SHA256 over the canonical\nrequest — the method, the path, every parameter above, the signed headers, and\nthe payload hash. Change any of them and the math stops agreeing.\n\nAll of these are normally HTTP headers in standard SigV4 requests.\n\n```\nGET /moby-dick.txt HTTP/1.1\n\nHost: xe-sophia-base.t3.tigrisfiles.io\n\nX-Amz-Date: 20260714T043308Z\n\nX-Amz-Content-Sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\n\nAuthorization: AWS4-HMAC-SHA256\n\nCredential=tid_ubYBNEYAmTciLVwszw_QrUXDmtcyQisryryGfxgznDsCnOvNqh/20260714/auto/s3/aws4_request\n\nSignedHeaders=host;x-amz-content-sha256;x-amz-date\n\nSignature=0dcaf4972911527a7582ff36ea457e9760a8efccb6655a178685aaa281637a36\n\n```\n\nNote that this request is not a legal request, it’s an example to illustrate the\npoint, here be dragons, etc etc etc.\n\nIt’s best to think about this presigned URL as a capability grant. Whoever holds\nit gets to make exactly one (1) kind of API call with one (1) HTTP method\nagainst one (1) object in one (1) bucket. They can do this as many times as they\nwant until the presigned URL expires. The signature covers the method, the path,\nand the signed headers so a user can’t take a presigned request for GETting a\ncopy of Moby Dick from a development environment and weaponize it into a way to\ndelete everything in your production bucket.\n\nPossession is authorization until the clock says no.\n\n## What it costs you[​](#what-it-costs-you)\n\nCapability grants like this can have some sharp edges. There is no real way to\nrevoke any individual presigned URL short of killing the access key it was\nsigned with. When that key dies, everything it signed dies too. This includes\nany URLs you may have wanted. This cuts both ways and it kinda has to unless you\nmake a new keypair per presigned request, which is probably out of scope.\n\nExpiry has fine print too. A presigned request can live anywhere from one (1)\nsecond to one (1) week (seven (7) periods of twenty-four (24) hours).\n\nThere’s no limit to the number of times a client can use a presigned request. If\nyou give a mouse permission to GET one cookie, they can GET that same cookie\nover and over. You end up having to pay for the GetObject calls in the end, so\nkeep that in mind.\n\nURLs also leak, but these URLs are born to die. Presigned URLs will end up in\nAPI responses, chat messages, GitHub comments, and your browser history. The\ntradeoff is acceptable because all the links self-destruct, but it’s a tradeoff\nyou need to keep in mind when you design your services, not a panacea for access\ncontrol.\n\nPresigned URLs sound like a great way to prevent hotlinking. At some level they\nare (a few of my services use them as such), but what they actually do is put a\nlifetime on hotlinking. This makes things annoying enough that it usually gets\npeople to stop.\n\n## The hole in the fence is the gate[​](#the-hole-in-the-fence-is-the-gate)\n\nSigV4 makes a lot of API authentication challenges so much easier. It spent most\nof its innovation budget on making signatures die quickly because replay attacks\nare the classic way that signed requests go wrong. Presigned URLs looked at that\nproperty, shrugged, flipped it on its head, and made it into a feature.\n\nThe thing that looked like a problem becomes a fundamental construct to build\nyour apps upon.\n\nWant to hand out links that expire themselves?\n\nTigris supports presigned URLs out of the box with the same SigV4 dance you already know, on globally distributed, S3-compatible object storage.",
+        "url": "https://www.tigrisdata.com/blog/presigned-urls-security-vuln/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/14Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/14/designate",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/14Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/14/designated-survivor/)\n\n## Today's links\n\n- [Gerontocracy's failure mode](https://pluralistic.net/2026/07/14/designated-survivor/#actuary-incoherence): Where are the designated survivors?\n\n- [Hey look at this](https://pluralistic.net/2026/07/14/designated-survivor/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/07/14/designated-survivor/#retro): MSFT v MP3; UK industry v schoolkids; Gary Larson v comics sharing; Planned LED obsolescence; PoGo v Black neighborhoods; Gnarlier trolley problems; Royal Society v cryptographic backdoors; Theresa May v climate change; Google v search; Facebook v facts.\n\n- [Upcoming appearances](https://pluralistic.net/2026/07/14/designated-survivor/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/07/14/designated-survivor/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/07/14/designated-survivor/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/07/14/designated-survivor/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/07/14/designated-survivor/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/actuary-gerontocracy.jpg?w=840&ssl=1)\n\n## Gerontocracy's failure mode ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#actuary-incoherence))\n\nThe \"designated survivor\" is one of the weirder aspects of America's (very, very weird) political system.\n\nEach year, during the State of the Union address, when both houses of Congress and the President are all under one roof, a single political figure, in the line of succession for the presidency, is spirited away to a hidden bunker, just in case the US legislative and administrative branches are decapitated in a single, spectacular terrorist strike:\n\n[https://en.wikipedia.org/wiki/Designated_survivor](https://en.wikipedia.org/wiki/Designated_survivor)\n\nInitiated during the 1950s, designated survivors are a paranoid relic of the Cold War, but they're also a relic of an era when America was a less chud-dominated, more technocratic land. It's a longtermist sort of procedure, in stark opposition to vibes-based MAGA chaos in which the Mad King makes daily announcements of new wars, tariffs, monuments, and existential threats to the nation.\n\nAmerica's ruling class have always sought an equilibrium between its pure Id of hatred for labor, autocratic yearnings and apocalyptic fantasies, and its patient, scheming Ego, the author of endless FedSoc judicial nominee listings, Projects 2025, and decades-long schemes to overturn Dobbs and reverse the New Deal.\n\n(Democrats have their own version of this, of course – the endless contest between the McKinsey wing of the party's right and its infinitely embroidered Machin-Synematic Universe.)\n\nThe problem is that once the atavistic, impulsive elements of your project escape containment, the resultant turbulence sucks everyone else into their chaotic vortex. How can you plan for *anything* when you're buffeted by endless stunts, feints, and distractions?\n\nNowhere is this failure to plan more vivid than in the age distribution of both chambers of the US legislature, its presidential candidates, and its judicial appointments. What's more, this is equally true of the Democrats and the Republicans.\n\nThe equilibrium of all of America's key institutions is brittle: legislative majorities are often just one or two seats wide. Key federal circuits and the Supreme Court are knife-edge balances. We keep getting presidential races between septuagenarians and octogenarians.\n\nThe question here isn't whether old people can be good at those jobs. They obviously can be. The problem is *actuarial*: old people are *far* more likely to die, or suffer severe medical episodes, than younger people. This is a fact of life that every person understands, and the older you get, the better you understand it.\n\nI'm 55. 20 years ago, it was unusual for just one of my peers to die in a given year; now I lose a couple *every* year. It could be me next (my doctor just informed me that I am cancer free, following excision, radiotherapy and immunotherapy). Anyone who pretends this isn't true is setting themselves and the people around them up for terrible things.\n\nIf you're a writer, this means making plans for the smooth management of your literary estate. For the past couple decades, John Scalzi has been my anointed literary executor. He's a great choice: a fabulous writer with a good head for business and a strong handle on my politics and artistic sensibility, whose personal ethics are above reproach. The only problem is that John is a couple of years older than me, which means that he'd be a great executor if I got hit by a bus tomorrow, but not if I keel over with a heart attack in 20 years.\n\nSo this year, I added a second executor, Molly White, who is also a fantastic writer, also extremely ethical and also very attuned to my politics and literary sensibilities. Molly is 20 years *younger* than me, and she has relevant experience: she's also the executor of the literary estate of her great-grandfather (EB White).\n\nIn the unlikely event of my untimely death, Molly and John will do a great job running the estate (which mostly will consist of reviewing my agents' recommendations). And if John keels over right after me, Molly will be fine on her own.\n\nOf course, the only reason I need a literary executor is that my kid is only 18. At 18, she's a remarkable, level-headed, ethical young person, but she's not yet fully formed. Literary history is filled with descendants who take over a literary estate and run it in terrible ways. The most notorious example here is Stephen Joyce, grandson of James Joyce and a colossal asshole:\n\n[https://en.wikipedia.org/wiki/Stephen_James_Joyce](https://en.wikipedia.org/wiki/Stephen_James_Joyce)\n\nThe most likely destiny for my literary estate is that I will grow older alongside my daughter, who will mature in ways that make her a perfectly suitable literary executor (in addition to being the beneficiary of my literary estate) and in a few years I'll send a note of thanks to John and Molly and change the paperwork. But in the unlikely, awful event that my kid runs into serious challenges that make me question her judgment and probity, I'll be covered.\n\nThat's what planning is all about: thinking through various scenarios, including low-likelihood, high-salience ones that have easy mitigations, and taking appropriate and proportionate steps to avoid disaster.\n\nYou know: like squirreling away a designated survivor in a bunker far from DC during the State of the Union.\n\nThis is what makes America's political gerontocracy so *weird*. In their true hearts, the nonagenarian (1), octogenarians (5), septuagenarians (27) and late sexagenarians (7) in the US Senate know that they could keel over at any moment, and that in a 53:47 Senate, this could spell doom for their political project.\n\nSure, Mitch McConnell might be secretly dead and that's bad and weird. But it wouldn't be *exceptional*. We're talking about a legislature whose members sometimes disappear for months, only to be discovered in care homes with advanced dementia, while still somehow holding office:\n\n[https://www.politico.com/news/magazine/2025/03/14/kay-granger-dementia-dc-media-00210317](https://www.politico.com/news/magazine/2025/03/14/kay-granger-dementia-dc-media-00210317)\n\nIt's a legislature whose most prominent grandees cling to power at the very brink of death's door, long after they can be effective leaders, just so they can anoint their successor during the next election:\n\n[https://en.wikipedia.org/wiki/Dianne_Feinstein#Personal_life](https://en.wikipedia.org/wiki/Dianne_Feinstein#Personal_life)\n\nElections have consequences, but *special elections*, called after the sudden death of an elderly lawmaker, have *wild* consequences.\n\nOf course, anyone can die suddenly. 15 years ago, one of my dearest friends, a contemporary, went to bed in seeming perfect health and never woke up. He was only 44. I still miss him, every day:\n\n[https://memex.craphound.com/2012/06/28/eulogy-for-erik-possum-man-stewart/](https://memex.craphound.com/2012/06/28/eulogy-for-erik-possum-man-stewart/)\n\nBut the likelihood this happening goes up the older you get, and once you cross a certain age threshold, odds rise sharply. If you're part of a political project that's laying and executing long-term plans whose outcomes turn on hair-fine majorities, this should factor into your thinking. The failure to do so can throw everything you've worked for into disarray:\n\n[https://prospect.org/2026/07/13/budget-consequences-of-lindsey-grahams-sudden-departure/](https://prospect.org/2026/07/13/budget-consequences-of-lindsey-grahams-sudden-departure/)\n\nIt's not limited to the legislature, of course. The Supreme Court's slide into its role as handmaiden to totalitarianism began when the dying Ruth Bader Ginsburg refused to step down, because she wanted her successor to be picked by the first woman president:\n\n[https://www.nytimes.com/2020/09/21/magazine/ginsburg-successor-obama.html](https://www.nytimes.com/2020/09/21/magazine/ginsburg-successor-obama.html)\n\nThe amazing thing here is that RBG made her name as a master strategist, but when it came to this incredibly consequential matter, she set strategy aside for hubris:\n\n[https://radiolab.org/podcast/more-perfect-sex-appeal](https://radiolab.org/podcast/more-perfect-sex-appeal)\n\nSecurity practitioners know that *anyone* can be hacked or scammed, and that the biggest vulnerability of all is to be so confident in your own procedures and discernment that you assume it could never happen to you. If you think you can't get scammed, you are a danger to yourself and others:\n\n[https://pluralistic.net/2024/02/05/cyber-dunning-kruger/#swiss-cheese-security](https://pluralistic.net/2024/02/05/cyber-dunning-kruger/#swiss-cheese-security)\n\nBy the same token, any politician in their 70s or 80s who thinks that they can't suffer a stroke or heart attack or the kind of lapse that makes you freeze up during a presidential debate is a danger to their party, their politics and their nation:\n\n[https://www.cbsnews.com/news/jill-biden-joe-biden-stroke-2024-debate-sunday-morning-interview/](https://www.cbsnews.com/news/jill-biden-joe-biden-stroke-2024-debate-sunday-morning-interview/)\n\nThis isn't about how healthy or robust any given politician is or feels; this is about the cold reality of actuarial tables. The older I get, the more those actuarial tables factor into my own decision-making. The fact that our political classes seem to think that they can choose the time and manner of their passing is baffling.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds [https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/](https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/)\n\n- \nMayor Mamdani Announces Landmark \"Click-To-Cancel\" Consumer Protection Rules to Ban Subscription Traps and Junk Fees [https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark–click-to-cancel–consumer-prot](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot)\n\n- \nYou'll Own Nothing and Be Happy: Why It's So Hard to Break John Deere's Control Over Farming [https://www.thebignewsletter.com/p/youll-own-nothing-and-be-happy-why](https://www.thebignewsletter.com/p/youll-own-nothing-and-be-happy-why)\n\n- \nBeyond the Prompt: The Social Costs of Generative Artificial Intelligence [https://scholarship.law.missouri.edu/betr/vol10/iss1/4/](https://scholarship.law.missouri.edu/betr/vol10/iss1/4/)\n\n- \nVideo Game Layoffs Fuelling Historic Union Movement [https://www.donotpassgo.ca/p/inside-the-video-game-industrys-historic](https://www.donotpassgo.ca/p/inside-the-video-game-industrys-historic)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#retro))\n\n#25yrsago Microsoft less hostile to MP3s [https://web.archive.org/web/20010716103233/http://news.cnet.com/news/0-1003-200-6567844.html](https://web.archive.org/web/20010716103233/http://news.cnet.com/news/0-1003-200-6567844.html)\n\n#25yrsago UK record lobby demands copyright school curriculum [https://web.archive.org/web/20010718135130/https://www.salon.com/tech/feature/2001/07/16/abc_ip/index.html](https://web.archive.org/web/20010718135130/https://www.salon.com/tech/feature/2001/07/16/abc_ip/index.html)\n\n#25yrsago Gary Larson on online comics sharing [https://web.archive.org/web/20010610081014/http://www.creators.com/index2_anotefromgarylarson.html](https://web.archive.org/web/20010610081014/http://www.creators.com/index2_anotefromgarylarson.html)\n\n#10yrsago San Francisco’s bike lanes have become Uber’s pickup/dropoff zones (and the cops don’t care) [https://sf.streetsblog.org/2016/07/13/collecting-data-to-push-for-safer-biking-on-valencia](https://sf.streetsblog.org/2016/07/13/collecting-data-to-push-for-safer-biking-on-valencia)\n\n#10yrsago For 90 years, lightbulbs were designed to burn out. Now that’s coming to LED bulbs [https://web.archive.org/web/20160717090604/http://www.newyorker.com/business/currency/the-l-e-d-quandary-why-theres-no-such-thing-as-built-to-last](https://web.archive.org/web/20160717090604/http://www.newyorker.com/business/currency/the-l-e-d-quandary-why-theres-no-such-thing-as-built-to-last)\n\n#10yrsago Why do Pokemon avoid Black neighborhoods? [https://www.bnd.com/news/nation-world/national/article89562297.html](https://www.bnd.com/news/nation-world/national/article89562297.html)\n\n#10yrsago To hell with the Trolley Problem: here’s a much more interesting list of self-driving car weirdnesses [https://medium.com/studio-d/15-more-concepts-in-autonomous-mobility-8fd1c794e466#.s10ldm5nf](https://medium.com/studio-d/15-more-concepts-in-autonomous-mobility-8fd1c794e466#.s10ldm5nf)\n\n#10yrsago Royal Society’s #1 cybersecurity recommendation: don’t backdoor crypto [https://royalsociety.org/~/media/policy/projects/cybersecurity-research/cybersecurity-research-report.pdf](https://royalsociety.org/~/media/policy/projects/cybersecurity-research/cybersecurity-research-report.pdf)\n\n#10yrsago UK PM Theresa May nukes climate change department, appoints a climate denier as Climate Secretary [https://web.archive.org/web/20160714173020/http://www.independent.co.uk/environment/climate-change-department-killed-off-by-theresa-may-in-plain-stupid-and-deeply-worrying-move-a7137166.html](https://web.archive.org/web/20160714173020/http://www.independent.co.uk/environment/climate-change-department-killed-off-by-theresa-may-in-plain-stupid-and-deeply-worrying-move-a7137166.html)\n\n#5yrsago Facebook's alternative facts [https://pluralistic.net/2021/07/15/three-wise-zucks-in-a-trenchcoat/#inconvenient-truth](https://pluralistic.net/2021/07/15/three-wise-zucks-in-a-trenchcoat/#inconvenient-truth)\n\n#1yrago When Google's slop meets webslop, search stops [https://pluralistic.net/2025/07/15/inhuman-gigapede/#coprophagic-ai](https://pluralistic.net/2025/07/15/inhuman-gigapede/#coprophagic-ai)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Edinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/cory-doctorow/](https://festivalofdangerousideas.com/cory-doctorow/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#recent))\n\n- Who Owns Your Tractor? (Growing the Future)\n\n[https://www.youtube.com/watch?v=IU9eBPUZBI4](https://www.youtube.com/watch?v=IU9eBPUZBI4)\n\n- \nYou Bought it, They Break It (What Now? with Trevor Noah)\n\n[https://www.podbean.com/media/share/dir-ir36t-2f4a1ac6](https://www.podbean.com/media/share/dir-ir36t-2f4a1ac6)\n\n- \nCan AI be Saved From Capitalism? (Everyday Anarchism)\n\n[https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/](https://www.everydayanarchism.com/192-can-ai-be-saved-from-capitalism-cory-doctorow/)\n\n- \nLawfare Daily\n\n[https://www.youtube.com/watch?v=T1KIwaYRs1g](https://www.youtube.com/watch?v=T1KIwaYRs1g)\n\n- \nHow to Think About AI (Organized Money)\n\n[https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow](https://www.organizedmoney.fm/p/how-to-think-about-ai-with-cory-doctorow)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/07/14/designated-survivor/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/07/14/designated-survivor/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "Tue, 14 Jul 2026 11:10:45 +0000",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "lobste.rs is now running on SQLite - 14th July 2026 - Link Blog **[lobste.rs is now running on SQLite](https://lobste.rs/s/ko1j...",
+    "simonw/pedalican - 14th July 2026 - Link Blog **[simonw/pedalican](https://github.com/simonw/pedalican)**. Cl...",
+    "Using uvx in GitHub Actions in a cache-friendly way - [TIL](https://simonwillison.net/elsewhere/til/) [Using uvx in GitHub Actions in a cache-fr...",
+    "Quoting Armin Ronacher - 14th July 2026 > The shared language of a software project is not English or Python but it...",
+    "They Prefer the App  - I like building websites. But in some circles, I might as well say that I like to drive to..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 11
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "software",
+      "count": 6
+    },
+    {
+      "word": "down",
+      "count": 5
+    },
+    {
+      "word": "lobste",
+      "count": 5
+    },
+    {
+      "word": "rs",
+      "count": 5
+    },
+    {
+      "word": "datasette",
+      "count": 4
+    },
+    {
+      "word": "github",
+      "count": 4
+    },
+    {
+      "word": "simonw",
+      "count": 4
+    },
+    {
+      "word": "july",
+      "count": 4
+    },
+    {
+      "word": "running",
+      "count": 4
+    },
+    {
+      "word": "paper",
+      "count": 3
+    },
+    {
+      "word": "design",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "icd-",
+      "count": 3
+    },
+    {
+      "word": "security",
+      "count": 3
+    },
+    {
+      "word": "sqlite",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "pedalican",
+      "count": 3
+    },
+    {
+      "word": "til",
+      "count": 3
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "best",
+      "count": 3
+    },
+    {
+      "word": "engineers",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "html",
+      "count": 2
+    },
+    {
+      "word": "fewer",
+      "count": 2
+    },
+    {
+      "word": "chapters",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "record",
+      "count": 2
+    },
+    {
+      "word": "i'm",
+      "count": 2
+    },
+    {
+      "word": "microspeak",
+      "count": 2
+    },
+    {
+      "word": "double-click",
+      "count": 2
+    },
+    {
+      "word": "drill",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "nintendo",
+      "count": 2
+    },
+    {
+      "word": "famicom",
+      "count": 2
+    },
+    {
+      "word": "family",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "game",
+      "count": 2
+    },
+    {
+      "word": "dnssec",
+      "count": 2
+    },
+    {
+      "word": "rollover",
+      "count": 2
+    },
+    {
+      "word": "al",
+      "count": 2
+    },
+    {
+      "word": "smart",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "uvx",
+      "count": 2
+    },
+    {
+      "word": "actions",
+      "count": 2
+    },
+    {
+      "word": "cache-friendly",
+      "count": 2
+    },
+    {
+      "word": "simonwillison",
+      "count": 2
+    },
+    {
+      "word": "often",
+      "count": 2
+    },
+    {
+      "word": "mean",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "sleep",
+      "count": 2
+    },
+    {
+      "word": "topics",
+      "count": 2
+    },
+    {
+      "word": "playing",
+      "count": 2
+    },
+    {
+      "word": "politics",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jul",
+      "count": 2
+    }
+  ]
+}
