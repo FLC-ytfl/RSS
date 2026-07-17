@@ -1,0 +1,857 @@
+{
+  "date": "2026-07-17",
+  "stats": {
+    "total_fetched": 284,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 20,
+    "long_articles": 10
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Quoting Kimi K3",
+        "summary": "<blockquote cite=\"https://news.ycombinator.com/item?id=48935342#48936515\"><p>Is there something I can actually help you with today?</p></blockquote> <p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=4...",
+        "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "2026-07-17T13:43:53.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "LLM cliché highlighter",
+        "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/llm-cliche-highlighter\">LLM cliché highlighter</a></p> <p>I got frustrated reading <em>yet another</em> article that was crammed with the clichés of LLM-...",
+        "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-07-17T12:11:11.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Apple Raises Prices for Apple Music and Apple One Subscriptions",
+        "summary": "Chance Miller, 9to5Mac: Here are the new monthly prices for Apple Music and Apple One as of today: Apple Music: Individual: $11.99 (up from $10.99) Family: $19.99 (up from $16.99) Student: $6.99 (up from $5.99) Apple One...",
+        "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "2026-07-17T21:08:39.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Visualizing Medical Code Hierarchy",
+        "summary": "Quick follow up to the previous two posts on ICD-10 codes and HCPCS codes. This post uses Python’s squarify library to create treemaps visualizing how many codes begin with each letter. Here’s the treemap for HCPCS codes...",
+        "url": "https://www.johndcook.com/blog/2026/07/17/visualizing-medical-code-hierarchy/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Fri, 17 Jul 2026 16:12:31 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Regular expressions for HCPCS codes",
+        "summary": "Since I revisited my old post on ICD code matching, I thought I’d revisit by post on HCPCS codes too. HCPCS stands for Healthcare Common Procedure Coding System, and is pronounced “hick picks.” When most people say HCPCS...",
+        "url": "https://www.johndcook.com/blog/2026/07/17/regular-expressions-for-hcpcs-codes/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Fri, 17 Jul 2026 14:02:52 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Regular expression speed and error rates",
+        "summary": "Seven years ago I wrote a post about regular expressions to match diagnosis codes. I wanted to revisit that post looking at speed and error rates. Regular expressions usually do not exactly match what you’re looking for...",
+        "url": "https://www.johndcook.com/blog/2026/07/17/regex-speed-error/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 17 Jul 2026 11:26:19 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Happy iCal Day",
+        "summary": "Joanna Stern explains why this emoji is correct today: 📅. (This one too: 📆) ★",
+        "url": "https://www.threads.com/@joannastern/post/Da5rgIvjrLM",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "2026-07-17T16:55:59.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why has the display control panel pointer truncation bug gone unfixed for so long?",
+        "summary": "It's fixed, but the fix isn't getting there. The post Why has the display control panel pointer truncation bug gone unfixed for so long? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 17 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Life and Times of Maxis, Part 2: SimWorld",
+        "summary": "This article tells part of the story of Maxis Software. Maxis came into 1994 riding high on the wings of SimCity 2000, the hit of the previous holiday season. They followed up that success with… SimHealth: The National H...",
+        "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-2-simworld/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Fri, 17 Jul 2026 15:59:19 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Digital Research’s 1991 merger with Novell",
+        "summary": "On July 17, 1991, Novell bought Digital Research for $80 million, a merger of a pioneer in desktop computer networking with a pioneer in desktop computer operating systems. Novell saw Microsoft coming after its business...",
+        "url": "https://dfarq.homeip.net/digital-researchs-1991-merger-with-novell/?utm_source=rss&utm_medium=rss&utm_campaign=digital-researchs-1991-merger-with-novell",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 17 Jul 2026 11:00:14 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Art Doesn't Scale",
+        "summary": "Listening to two acquaintances argue about if AI art is \"art\" is not a new experience for me, the now eternal debate between Doomer and Boomer. In this particular context, I'm listening to it as I wait for my surprisingl...",
+        "url": "https://matduggan.com/art-doesnt-scale/",
+        "source": "matduggan.com",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Fri, 17 Jul 2026 10:34:04 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities ",
+        "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but cus...",
+        "url": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Security",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Fri, 17 Jul 2026 21:30:43 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-17T22:38:25.042Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Google and Epic Give Up Fighting — Third-Party Android App Stores Are Coming Next Week",
+        "summary": "Epic Games and Google have just jointly withdrawn their attempt to [retroactively settle the lawsuit](https://www.theverge.com/policy/813991/epic-google-proposed-settlement) that’s changing how Androi",
+        "content": "Epic Games and Google have just jointly withdrawn their attempt to [retroactively settle the lawsuit](https://www.theverge.com/policy/813991/epic-google-proposed-settlement) that’s changing how Android app stores work in the United States — and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it’s ready to begin carrying third-party app stores on Wednesday, July 22nd. Does that mean it’s time for Microsoft to launch [an Xbox game store on Android](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment)?\n\n[In October 2024,](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) Judge James Donato originally agreed that forcing Google to carry rival Android app stores within its own Google Play store for several years, and forcing it to share its own entire catalog of apps with those stores, would be the best way of undoing the company’s [illegal monopoly](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play) over Android applications. Google has been fighting that ever since, and eventually convinced Epic to join in, [by settling all their legal disputes around the world](https://www.theverge.com/policy/813991/epic-google-proposed-settlement) and making [a secret $800 million deal along the way](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement).\n\n[![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SCR-20260714-raiz.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/SCR-20260714-raiz.png?quality=90&strip=all&crop=0,0,100,100)\n\nBut Judge James Donato was skeptical he should abandon his original permanent injunction in favor of Google’s proposed “Registered App Stores” that users would have to sideload — instead of simply downloading third-party stores directly through Google Play. On Thursday, July 16th, both parties were [set to appear in court to argue it again](https://www.theverge.com/policy/951263/heres-a-preview-of-googles-next-arguments-in-epic-v-google), but that may no longer be necessary.\n\nHere’s Google’s full statement on withdrawing its proposed modifications to Judge Donato’s permanent injunction, via Google spokesperson Dan Jackson:\n\n> *We’ve agreed with Epic to withdraw our motion to modify the US Court’s injunction rather than prolonging this process which creates uncertainty for the ecosystem. This allows us to focus on executing our *[*recently announced*](https://android-developers.googleblog.com/2026/03/a-new-era-for-choice-and-openness.html)* global business model evolution to deliver greater app store choice, lower prices, and more opportunities for developers and users. We remain committed to maintaining Android’s industry-leading security and fostering a competitive ecosystem where every app store and developer has the freedom to compete. In parallel, we continue to comply with the US Court’s injunction.*\n\nGoogle had previously announced that it would launch its sideloaded Registered App Store program in the rest of the world, beginning with the new version of Android later this year. That means there may be two different tracks for Android: stores-within-a-store in the United States and Registered App Stores everywhere else.\n\nGoogle [is already informing US app developers](https://support.google.com/googleplay/android-developer/answer/17187609?hl=en&ref_topic=15819563&sjid=17922790483947429196-NC) that their apps and game listings will automatically be provided to third-party app stores starting July 22nd, unless they opt out, and it’s launched [a specific page for its Play Catalog Access Program](https://support.google.com/googleplay/android-developer/answer/17117200?hl=en) for third-party app stores to enroll.\n\nIt’s not yet clear if there will be a parallel “program” for third-party app stores inside of the Google Play Store, or if companies will simply submit them the way they’d submit any other app. Technically, the court’s permanent injunction states that Google “may not prohibit the distribution of third-party Android app distribution platforms or stores through the Google Play Store,” not that it has to proactively invite them in.\n\nFor access to the Google Play catalog of apps, Google will charge stores an annual fee of $5,000 for “security and policy reviews,” and it has many additional requirements, including: stores can’t distribute apps outside of the US, have to be open to all eligible third-party developers, have “clear, non-discriminatory” trust and safety policies, and no more than 1 percent of “install attempts” can be malware.\n\nIt’s not yet clear how all the other economics around Android app distribution and billing might shake out yet — we may need to wait for more info — but Epic and Google have [already set the world on a course for reduced fees](https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google) and [opened the Play Store to outside payments](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust).\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Sean Hollister\n- \n- \n- \n- \n-",
+        "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZpdmhlVXFoV0giLCJwIjoiL3BvbGljeS85NjU3OTIvZ29vZ2xlLWVwaWMtd2l0aGRyYXctaW5qdW5jdGlvbi10aGlyZC1wYXJ0eS1hcHAtc3RvcmVzLWNvbWluZy1nb29nbGUtcGxheSIsImV4cCI6MTc4NDczNTA1NSwiaWF0IjoxNzg0MzAzMDU1fQ.zPHCDeRVkCOK73sdt6bKC2evAofTI582EsJ0N-rk79g",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "2026-07-17T15:53:16.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’",
+        "summary": "Loading...\n\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does ",
+        "content": "Loading...\n\nYou are seeing this because the administrator of this website has set up Anubis to protect the server against the scourge of AI companies aggressively scraping websites. This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.\n\nAnubis is a compromise. Anubis uses a Proof-of-Work scheme in the vein of Hashcash, a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.\n\nUltimately, this is a placeholder solution so that more time can be spent on fingerprinting and identifying headless browsers (EG: via how they do font rendering) so that the challenge proof of work page doesn't need to be presented to users that are much more likely to be legitimate.\n\nPlease note that Anubis requires the use of modern JavaScript features that plugins like JShelter will disable. Please disable JShelter or other such plugins for this domain.",
+        "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-07-17T18:13:16.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "OpenAI’s Product Shake-Up Put the Complexifiers in Charge",
+        "summary": "OpenAI told staff on Friday that it would reorganize the company as part of an ongoing effort to unify its product offerings, WIRED has learned. OpenAI cofounder and president Greg Brockman will now l",
+        "content": "OpenAI told staff on Friday that it would reorganize the company as part of an ongoing effort to unify its product offerings, WIRED has learned. OpenAI cofounder and president Greg Brockman will now lead the company’s product strategy, in addition to his work on AI infrastructure, OpenAI confirms to WIRED. Brockman was previously assigned to oversee OpenAI products on an interim basis while the CEO of AGI deployment, Fidji Simo, was on medical leave; the change is now official.\n\n“We’re consolidating our product efforts to execute with maximum focus toward the agentic future, to win across both consumer and enterprise,” Brockman said in a memo to staff seen by WIRED. Brockman added that OpenAI’s products are naturally converging, and that the company has decided to merge ChatGPT and Codex into one unified experience.\n\nOpenAI says it’s folding ChatGPT, its AI coding agent Codex, and its developer-facing API into one core product team. The company says that Codex is increasingly powering its consumer and enterprise offerings, which are gaining the ability to perform digital tasks autonomously on behalf of users.\n\nOther OpenAI leaders are also taking on larger roles at the company as part of the changes. OpenAI’s head of Codex, Thibault Sottiaux, has been tapped to lead the company's core product and platform teams. Sottiaux was a key leader in building Codex into one of the company’s fastest-growing products of all time. He’s also one of the leaders overseeing development of OpenAI’s forthcoming [“super app,”](https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/) which aims to combine Codex, ChatGPT, and the company’s Atlas web browser into a unified desktop application.\n\nOpenAI’s longtime head of ChatGPT, Nick Turley, is moving to a new role to lead the company’s work on enterprise products. OpenAI says Turley, who has led ChatGPT since launch and helped grow it to more than 900 million weekly active users, will no longer work on its consumer products. Ashley Alexander, a former VP of Instagram who has been leading OpenAI’s work on health products, will now lead the company’s consumer product unit.\n\nThe changes are the [latest shake-up for OpenAI](https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/) as leadership aims to refocus the company on a few key product areas, including ChatGPT, Codex, and its “super app.” Last month, OpenAI announced many executive changes, including that Simo was taking a medical leave to focus on her health. OpenAI previously said Brockman would oversee product strategy in her absence. The company tells WIRED that Simo remains on medical leave, and expects her return, noting that she worked directly with Brockman on these organizational changes.\n\nIn the last year, OpenAI has faced increasing pressure from competitors, including Anthropic in coding domains and Google in consumer chatbots. OpenAI leaders are hoping to simplify product offerings ahead of its plan to file for an IPO, which could happen later this year.\n\nOther [OpenAI executives left the company entirely last month](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/), including the head of its AI workspace for scientists, Kevin Weil; head of Sora, Bill Peebles; and its chief technology officer of enterprise applications, Srinivas Narayanan.\n\n*Update 5/15/26 2:35ET: This story has been updated with additional details about new executive roles.*",
+        "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-07-17T20:27:53.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "ArtfulType: Markdown Writing App for the 68K Macintosh",
+        "summary": "A distraction-free Markdown writing app for classic 68k Macintosh computers (System 6/7), built to run from a [BlueSCSI](https://bluescsi.com/) device on a Mac Plus or similar compact Mac.\n\n[![ArtfulT",
+        "content": "A distraction-free Markdown writing app for classic 68k Macintosh computers (System 6/7), built to run from a [BlueSCSI](https://bluescsi.com/) device on a Mac Plus or similar compact Mac.\n\n[![ArtfulType running in Writer mode](https://github.com/ActionRetro/ArtfulType/raw/master/screenshot1.png)](https://github.com/ActionRetro/ArtfulType/blob/master/screenshot1.png)\n\n## Features\n\n[](#features)\n\n- **Writer mode** — live Markdown-to-rich-text formatting as you type (bold, italic, code, headings, links)\n\n- **Markdown mode** — plain raw-syntax editing\n\n- Links: type `[text](url)` inline, or select text and use Style → Link\n\n- Cut/Copy/Paste and multi-level Undo/Redo, with standard keyboard shortcuts\n\n- Adjustable zoom, remembered between launches\n\n- Save/Open plain Markdown files via the classic File Manager\n\nVideo overview: [Artful Type demo](https://youtu.be/HEheu_r9UGw)\n\n## Getting Started\n\n[](#getting-started)\n\nIf your Mac can use [BlueSCSI](https://bluescsi.com/), use the BlueSCSI image. If it can't (or you just want a physical floppy), use the 800K floppy image instead.\n\n### Real hardware with BlueSCSI\n\n[](#real-hardware-with-bluescsi)\n\n- Copy `HD1_ArtfulType.hda` onto your BlueSCSI SD card — the `HD1_` prefix is BlueSCSI's naming convention for assigning an image to SCSI ID 1, so no renaming is needed. (See [BlueSCSI](https://bluescsi.com/) for how to set up and image an SD card for your specific BlueSCSI hardware.)\n\n- Boot the Mac. The Finder will appear as usual — double-click ArtfulType to launch it.\n\n- To also write a physical 800K floppy: open `Utilities/Disk Copy 4.2` (already on the disk image), and use it to write `ArtfulType 800K` (also already on the disk image, in proper DiskCopy 4.2 format) to a blank floppy in your Mac's floppy drive.\n\n### Real hardware without BlueSCSI\n\n[](#real-hardware-without-bluescsi)\n\nWrite `ArtfulType-800K.dsk` to a real 800K floppy disk and boot from it directly — no BlueSCSI required.\n\n### In an emulator (Mini vMac)\n\n[](#in-an-emulator-mini-vmac)\n\nFor trying ArtfulType without real hardware, use [Mini vMac](https://www.gryphel.com/c/minivmac/) configured for a Mac Plus, with either:\n\n- `ArtfulType-20MB.dsk` — the full HD setup (System 7.1, stripped down, with the app, Disk Copy, and the embedded floppy image)\n\n- `ArtfulType-800K.dsk` — a bootable 800K floppy (System 6.0.8) with just the app\n\n## Usage\n\n[](#usage)\n\nArtfulType has two views, toggled from the View menu:\n\n- **Writer** (default) — markdown syntax is hidden; text is shown styled (bold, italic, headings, etc.)\n\n- **Markdown** — the raw markdown source, unstyled\n\nSaved files are plain `.md` text, editable in any text editor.\n\n### Keyboard shortcuts\n\n[](#keyboard-shortcuts)\n\nAction\nShortcut\n\nNew / Open / Save\n⌘N / ⌘O / ⌘S\n\nQuit\n⌘Q\n\nUndo / Redo\n⌘Z / ⇧⌘Z\n\nCut / Copy / Paste\n⌘X / ⌘C / ⌘V\n\nBold / Italic / Code\n⌘B / ⌘I / ⌘K\n\nHeading 1 / 2 / 3\n⌘1 / ⌘2 / ⌘3\n\nLink\n⌘L\n\nZoom In / Out / Default\n⌘= / ⌘- / ⌘0\n\n## Building\n\n[](#building)\n\nBuilt with [Retro68](https://github.com/autc04/Retro68), a GCC-based cross-compiler for classic Mac OS. See `app/CMakeLists.txt` for the build configuration, and `deploy.sh` / `build-bluescsi-image.sh` / `package-release.sh` for the build-to-disk-image pipeline.\n\n## License\n\n[](#license)\n\nCode: GPLv3 — see [LICENSE](https://github.com/ActionRetro/ArtfulType/blob/master/LICENSE).\n\nCreative assets (the ArtfulType name/branding, icon, and artwork): all rights reserved — see [ASSETS_LICENSE](https://github.com/ActionRetro/ArtfulType/blob/master/ASSETS_LICENSE).\n\n## AI Disclaimer\n\n[](#ai-disclaimer)\n\nClaude Code was used in the creation of this software.",
+        "url": "https://github.com/ActionRetro/ArtfulType",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Hardware",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-17T17:05:20.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Spot birds not golf",
+        "summary": "17th July 2026\n\nSuggestion for hyperscalers feeling pressure over data center water use:\n\nBuy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binocular",
+        "content": "17th July 2026\n\nSuggestion for hyperscalers feeling pressure over data center water use:\n\nBuy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby!\n\nGoogle [used 10.9 billion gallons in 2025](https://sustainability.google/reports/google-2026-environmental-report/), so about 30 million gallons per day.\n\nThe Coachella Valley has [120 golf courses each using ~800 acre-feet per year](https://www.cvwd.org/167/Water-Conservation),  which is ~750,000 gallons per day.\n\nSo Google buying up 40 of those courses (1/3) should do the trick.",
+        "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-07-17T02:58:07.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Roblox Set to Introduce AI Game-Building Feature, Including on iOS",
+        "summary": "Introducing Build: Mobile-First AI Creation on Roblox\n\nNick Tornow, Senior Vice President of Engine and Vlad Loktev, Chief Creator Ecosystem Officer\n\nPublished Jul 16, 2026\n\n![](https://cms-media.robl",
+        "content": "Introducing Build: Mobile-First AI Creation on Roblox\n\nNick Tornow, Senior Vice President of Engine and Vlad Loktev, Chief Creator Ecosystem Officer\n\nPublished Jul 16, 2026\n\n![](https://cms-media.roblox.com/assets/fb3c1fc8-6d2b-4463-b3c9-d628a3420bdc.webp)\n\nSomewhere right now, someone has an idea for a game. They know exactly what it would feel like to play. They just don’t know how to build it. Today, that changes.\n\nTwenty years ago, Roblox launched with a simple idea: “You make the game.” At the time, that was a radical proposition—most games were made by studios and professionals, and the idea that anyone could be a creator was far from obvious. But we believed it. And the millions of creators who built on Roblox proved it. As we look to a future where any one of Roblox’s 132 million daily active users could come up with the next hit game, we’re taking that original idea further than we ever have. Over the coming months, we’ll share a series of announcements that will give every creator a clear runway to go further and fulfill the promise of “You make the game” for more people than ever before.\n\nToday, we’re announcing Build, a new mobile-first creation tab within the Roblox app, and a new suite of AI-powered tools within Studio for creators of every level. On July 28, we’ll begin testing these new agentic tools. With Build and Studio, creators can delegate the parts of development that don’t require their full attention. \n\nRoblox has always provided creators with powerful tools to publish globally in seconds, a platform that drives discovery and rapid viral growth, easy iteration and scaling with no up-front costs, robust safety systems to protect players, and incredibly rich worlds supported by our game engine. The creators who've built real audiences on this platform have done it by making things people actually want to play, and we've always surfaced the most played, highest engaged experiences on Roblox. Our discovery systems are designed to highlight games with long-term retention, which doesn’t include AI slop. The quality of games on the homepage isn’t changing: If no one plays it—no one can find it. The goal across these new tools is to continue to accelerate creation across all experience levels. \n\n## Introducing Build: A New Way to Create on Roblox\n\nBuild brings mobile-first AI creation to Roblox, allowing anyone to turn text prompts into a basic game directly within the Roblox mobile app. A creator can type “Let’s make a cozy adventure game set in a dense forest with environmental obstacles.” Build will then automatically generate a starting point for the creator to iterate on, playtest, and share with friends or publish to Roblox. \n\nBuild extends Roblox Studio, which creators have been successfully using for years, into the Roblox app. With a shared back end, models, and chat history, creators can start work in Build and enhance their creation with the broader capabilities of Studio, or launch agents from Studio and check in on progress from their mobile device.\n\nPowered by a broad set of AI models, including both open-source and proprietary Roblox models, Build handles gameplay mechanics, environment, characters, visual style, sound, and more—without leaving Roblox. Because these models are trained on a uniquely large set of 3D models and gaming-specific data, Roblox’s proprietary AI models are able to generate functional 3D objects and even full 3D scenes that can easily integrate into working games using our existing creation tools. \n\nBuild allows rapid exploration and refinement of ideas. This makes it a powerful tool for iterating on design, sharing with friends, and getting feedback. Upcoming releases will unlock flexibility for new and established creators to improve their games from our mobile app.\n\nSelect Build features, including the ability to publish games, will be available in public alpha to users in New Zealand beginning July 28. We will deploy Build out to creators and more regions over the coming months as we iterate on core functionality and expand its capabilities. During alpha testing, Build will be available to age-checked users 9 and older.* Published games that pass our robust safety checks will be globally available for age-checked users 16 and older. Before being added to the Roblox Select catalog, Build alpha-created games will undergo the extended review process all Roblox games follow. They will also join the same candidate pool and be ranked by the same [retention-based discovery system](https://about.roblox.com/newsroom/2026/06/optimizing-discovery-great-games-reach-millions-players-roblox) as all other Roblox games. A base-level version of Build will be available at no cost to creators, with additional paid options for power users. \n\n## The Road Ahead for Build and Studio  \n\nWe’re also shipping a new suite of tools for professional creators over the coming months. Available across Build and Studio, these tools will include:\n\n- A playtesting agent that surfaces bugs before a single player experiences the game\n- An analytics agent that lets creators ask anything about a game in plain language and get insights without needing to hunt through dashboards\n- An experiment agent that identifies tests to run to drive higher engagement, retention, and monetization\n\nOur recently launched Procedural Models generate parametric 3D assets from a text prompt or image. Creators can set parameters to reshape and refine, with no manual modeling or regeneration required. And [Cube](https://about.roblox.com/newsroom/2026/02/accelerating-creation-powered-roblox-cube-foundation-model), Roblox’s 3D foundation model, turns a prompt into game-ready objects, from simple props to vehicles that drive and weapons that shoot. Coming soon, a new scene-generation model will build entire editable and playable 3D scenes from a single prompt. We’ll share more about these capabilities as they become available in the coming months.\n\nTogether, these updates bring Roblox closer than ever to our vision where “You make the game.” Let’s build.\n\n**Ages and availability may vary by region.*\n**Final product features and appearance may differ.*",
+        "url": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-07-17T21:20:04.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’",
+        "summary": "![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/2026/07/Screenshot-2026-07-17-at-4.55.52---PM-1.png)Let's give OpenAI some credit, once they realize they made ",
+        "content": "![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/2026/07/Screenshot-2026-07-17-at-4.55.52---PM-1.png)Let's give OpenAI some credit, once they realize they made a mistake, they act quickly to correct it. Today's case in point: with [an update](https://x.com/thsottiaux/status/2077928427936710901?ref=spyglass.org), ChatGPT now features ChatGPT once again. No, that's not a joke, and yes, it does speak to a very obvious self-own.\n\n[To quickly recap](https://spyglass.org/chatgpt-gets-to-work/): the strangest thing about the \"Super App\" update to ChatGPT a week ago was that they completely buried the actual chat functionality. It was shoved into the sidebar and made into a sub-feature of the service. A service which, mind you, was still called *ChatGPT*. But instead of that brand front-and-center, the new app launched into something confusingly called 'ChatGPT Work'. As it turned out, ChatGPT Work wasn't ChatGPT for Work, but OpenAI's Claude Cowork competitor. And even though this new app was clearly an extension and expansion of Codex, their Claude Code competitor, that too was now a secondary option. \n\nThere were several other UI issues to boot – and many of those remain. But first and foremost, OpenAI just needed to make this new ChatGPT app far less confusing and jarring to actually use. And now they have: gone is 'ChatGPT Work' front and center at start, back is simply 'ChatGPT' with our old, trusted chatbox asking you to simply 'Message ChatGPT'. \n\nTo be clear, 'Work' is still there, but it's now a secondary tab in that main ChatGPT area – just as it is on the web, which as I noted last week was the far better UI. Also back are your 'Projects' and 'Recents' (recent chats) in the sidebar. 'Temporary Chats' too! Again, OpenAI basically made ChatGPT ChatGPT again.\n\nAlbeit a more bloated and less performant version. [Still no GPT-Live](https://spyglass.org/gpt-live/). Baby steps.\n\nCodex is here too, in that same main drop-down. You can also set it as the default if you're coming up from the old Codex app (which auto-updated into this app). It's still the same non-native, now-Electron-y app that those users are used to. That still sucks for users of the old ChatGPT Mac app (this version seems to use a shit ton of virtual memory), but you can also still use that for now as 'ChatGPT (Classic)'. \n\nAnd everything now apparently syncs between desktop, mobile, and web. Why it didn't in the first place, I don't know. This all felt a bit rushed out the door. In case you haven't heard, OpenAI has had [one hell of a week](https://spyglass.org/apple-v-openai-lawsuit-lines/).\n\nAnyway, all of that is in a positive direction. But it also begs the question as to why on Earth OpenAI didn't realize all of this obvious stuff before launch? Perhaps beyond [being rushed](https://spyglass.org/copilot-ai-super-app/) to get the first \"[Super App](https://spyglass.org/super-app/)\" out the door, it seems like a situation where the team was far too focused on simply cloning Claude. Specifically, what Anthropic had done with the Claude desktop app. This new ChatGPT app was – and remains– largely that.\n\nAnd you could argue it's even more like that now *because it actually opens into chat mode*, just like Claude does. As I noted, this was perhaps the most confusing thing of all. OpenAI cloned Claude except for this one key bit of functionality. Now they have that too. Clearly, they were too Codex-pilled.\n\n[We all get why](https://spyglass.org/theres-always-a-siren/). Claude Code (and Cowork) has been killing it, rocketing Anthropic into not just a viable OpenAI competitor, but into a more highly valued company bringing in more money. OpenAI's answer, Codex, was clearly showing progress in combating that turning of the tides, so they decided to go all-in, [chat be damned](https://spyglass.org/chatgpt-is-dead-long-live-chatgpt/).\n\nThe problem is that pesky one billion or so ChatGPT users that OpenAI seemingly forgot they had. Obviously they didn't forget, they just view that user base as far less valuable than the ones focused on coding and other agentic angles. And yeah, I mean it is literally less valuable of a user base when it comes to bringing in money *right now*. I might argue that longer term, if OpenAI really believes they can [crack the AI advertising nut](https://spyglass.org/openai-ads-in-chatgpt/), having the widest base of users would be far more valuable, but it's still unclear if that will happen.\n\nIn that light, we can see the dilemma. But there were also probably about a dozen better ways to do this roll-out – as highlighted by how fast they're fixing these things – and they just missed the mark. While they undoubtedly knew there would be some backlash, they probably didn't realize there would be *this much*. Again. All that points to perhaps [a disturbing trend](https://spyglass.org/openai-chatgpt-gpt-5-backlash/) where OpenAI doesn't really understand their user base. Which you almost can understand given how they clearly stumbled into ChatGPT in the first place. Still, here they are with those billion users. A problem that all of their competitors would love to have. But still a problem if you want to fundamentally change what you are [as a product](https://spyglass.org/openai-product-launches/)..\n\nBut those are bigger, existential issues. All I wanted was chat back in the ChatGPT app. Front and center. And I got it. It's not perfect. It's still bloated. But at least it's usable again now and not a confusing mess of ideas out of the box.\n\n👇\n\n**Previously, on *****Spyglass*****...**\n\n[The ChatGPT “Super App” Sort of Super Sucks\n\nEven if it’s ultimately the right call, the new Mac app is a mess…\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/icon/Spyglass-Rings-----Multi-83397062-1d7d-433d-beea-9cac4178f901.png)M.G. Siegler\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/thumbnail/Screenshot-2026-07-10-at-1.41.00---PM-89417ed8-9160-4a52-ab4f-29edd85bd7ec.png)\n\n](https://spyglass.org/chatgpt-gets-to-work/)[“Chat is dead.”\n\nAs OpenAI morphs ChatGPT, there are opportunities and risks…\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/icon/Spyglass-Rings-----Multi-93aae074-929e-4bbc-bee3-c2df6d3a78ee.png)SpyglassM.G. Siegler\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/thumbnail/ChatGPT-Image-Jun-7--2026--03_56_32-PM-1-0468551b-bb77-4a3b-8e79-8810abd9842e.png)\n\n](https://spyglass.org/chatgpt-is-dead-long-live-chatgpt/)[OpenAI Moves Fast and Breaks ChatGPT\n\nThe GPT-5 roll-out backlash is a product story as old as time…\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/icon/Spyglass-Rings-----Multi-f087ca45-ec2c-4a8b-b98b-88c4afdddc4d.png)SpyglassM.G. Siegler\n\n![](https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/thumbnail/46e523e7-0f41-455a-abfb-020babfc391b-1-e919d322-a6fc-4a37-9a5b-b2b8806e4029.png)\n\n](https://spyglass.org/openai-chatgpt-gpt-5-backlash/)",
+        "url": "https://spyglass.org/chatgpt-brings-back-chatgpt/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-07-17T19:48:53.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules",
+        "summary": "The European Commission adopted a [delegated act](https://environment.ec.europa.eu/publications/delegated-regulation-removability-and-replaceability-portable-batteries_en) today (14 July) introducing ",
+        "content": "The European Commission adopted a [delegated act](https://environment.ec.europa.eu/publications/delegated-regulation-removability-and-replaceability-portable-batteries_en) today (14 July) introducing new rules that exempt additional products from EU requirements on the removability and replaceability of portable batteries.  \n\nUnder the EU’s [Batteries Regulation](https://eur-lex.europa.eu/eli/reg/2023/1542/oj), portable batteries in products sold in the EU must generally be removable and replaceable by consumers. This helps extend products’ lifetime by allowing battery replacements and supports recycling by making it easier to collect used batteries.  \n\nHowever, some products, such as medical devices and so-called “wet appliances” (for example, electric toothbrushes or water flossers), are already exempt from this requirement, mainly for safety reasons. In these cases, batteries only need to be removable and replaceable by independent professionals.  \n\nThe Commission is now adding** six new product categories** to the existing list of exemptions. This includes wearable devices such as smartwatches and fitness trackers, electric toys, and products within the scope of the [ATEX Directive](https://single-market-economy.ec.europa.eu/sectors/mechanical-engineering/equipment-potentially-explosive-atmospheres-atex_en) (equipment used in explosive atmospheres such as explosion-proof motors, sensors, pumps or forklift trucks). \n\nThe Commission is also adopting an [update to the existing guidelines on the removability and replaceability of portable batteries](https://environment.ec.europa.eu/publications/guidelines-facilitate-harmonised-application-provisions-removability-and-replaceability-portable-and_en), providing guidance to product manufacturers on how to apply the new derogations.  \n\n### Next steps\n\nAfter its adoption by the Commission, the delegated act is transmitted to the European Parliament and the Council of the EU for their scrutiny.  It will enter into force 20 days after its publication in the Official Journal of the EU, if the European Parliament or the Council fail to object to it.** ** \n\n#### Background\n\nTo identify candidate products for additional derogations, the Commission launched a call for applications in 2025. It consulted consumer associations, industry stakeholders and Member States and worked with external experts to [assess the technical merits of the applications received](https://environment.ec.europa.eu/publications/technical-support-adoption-delegated-acts-and-commission-reports-related-new-batteries-regulation_en).   \n\nIn preparing this legislation, the Commission has sought to balance the interests of various stakeholders, including consumers, third-party repairers, product and battery manufacturers, as well as the recycling sector.\n\nSmall lithium-ion batteries not disposed of correctly are causing an increasing number of fires in waste treatment plants. This must be considered before granting exemptions for products containing such batteries. \n\n##### More information\n\n[Public consultation Batteries Regulation: List of products exempted from the general removability and replaceability requirements | Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14857-Batteries-Regulation-list-of-products-exempted-from-the-general-removability-and-replaceability-requirements_en) \n\n[Batteries | European Commission](https://environment.ec.europa.eu/topics/waste-and-recycling/batteries_en)\n\n[Delegated Regulation for the removability and replaceability of portable batteries | European Commission](https://environment.ec.europa.eu/publications/delegated-regulation-removability-and-replaceability-portable-batteries_en)\n\n[Guidelines to facilitate the harmonised application of provisions on the removability and replaceability of portable and LMT batteries | European Commission](https://environment.ec.europa.eu/publications/guidelines-facilitate-harmonised-application-provisions-removability-and-replaceability-portable-and_en)\n\n[Report: Technical support to the adoption of delegated acts and Commission reports related to the new Batteries Regulation between 2024 and 2027 | European Commission](https://environment.ec.europa.eu/publications/technical-support-adoption-delegated-acts-and-commission-reports-related-new-batteries-regulation_en)",
+        "url": "https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-07-17T02:01:37.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Plumbing Homebrew into the vulnerability ecosystem",
+        "summary": "Back in January I [released brew-vulns](https://nesbitt.io/2026/01/08/brew-vulns-cve-scanning-for-homebrew), a gem that added CVE scanning to Homebrew. It shelled out to `brew info --json=v2`, derived",
+        "content": "Back in January I [released brew-vulns](https://nesbitt.io/2026/01/08/brew-vulns-cve-scanning-for-homebrew), a gem that added CVE scanning to Homebrew. It shelled out to `brew info --json=v2`, derived a source repository URL and version tag for each installed formula, and queried [osv.dev](https://osv.dev/) for anything known against that repo at that version. As of Homebrew 6.0.11 that command is built in and the gem is deprecated. Getting useful answers out of `brew vulns` in between meant changing what data Homebrew publishes about its own packages, registering Homebrew with the specs that vulnerability tooling is built on, standing up an advisory database, and porting Homebrew’s version comparison to Python so osv.dev can order our releases.\n\n```\n$ brew vulns\nChecking 142 packages for vulnerabilities...\n(18 packages skipped - no supported source URL)\n\nopenssl@3 (3.4.1)\n  CVE-2024-13176 (medium) - Timing side-channel in ECDSA signature...\n    Fixed in: 3.4.2\n\nFound 1 vulnerability in 1 package\n\n10 resolved by formula patches (not counted; pass --no-ignore-patches to include):\n  glibc: CVE-2024-2961, CVE-2024-33599, CVE-2024-33600, CVE-2025-0395, ...\n\n```\n\nAbout a month after the first release Mike McQuaid invited me to transfer the repo into the Homebrew org, and from then on it was being run against all of homebrew-core rather than just my laptop. That’s roughly 8,400 formulae, enough real data to find edge cases fixtures never do. OSV records with malformed `affected` ranges were passing versions through silently, so [range evaluation became fail-closed](https://github.com/Homebrew/homebrew-brew-vulns/pull/62). Vulnerability summaries occasionally contain terminal escape sequences and needed sanitising before printing. One pathological query could pull unbounded pages from the OSV API, so both pagination and the thread pool that fetches vulnerability detail got hard caps, and CI users needed a [distinct exit code](https://github.com/Homebrew/homebrew-brew-vulns/pull/79) for “the scan errored” as opposed to “the scan found something”.\n\n### Formula patches\n\nHundreds of formulae in homebrew-core ship with at least one patch applied on top of the upstream tarball, and some of those patches fix CVEs, so the bottle a user installs is not affected even when the upstream version number falls inside an advisory’s range. A query keyed on repo and version reports those as open regardless. There was also no programmatic way to find out which formulae carried patches at all: `brew info --json` didn’t serialise the patch list, formulae.brew.sh didn’t show it, and formulae loaded from the API had an empty one, leaving a grep over a full homebrew-core checkout as the only option.\n\nI opened a [discussion](https://github.com/orgs/Homebrew/discussions/6869) proposing two changes to Homebrew itself: add patches to the JSON output, and let a patch declare which CVEs it resolves. Mike said yes to both more or less immediately. Patches [went into `Formula#to_hash`](https://github.com/Homebrew/brew/pull/22459) the same day, which surfaced 1,191 of them across 809 formulae, 972 with an external URL and 219 embedded in the formula file as `__END__` data. The `patch do` DSL then [gained `resolves` and `type`](https://github.com/Homebrew/brew/pull/22466):\n\n```\npatch do\n  url \"https://deb.debian.org/.../libquicktime_1.2.4-12.debian.tar.xz\"\n  sha256 \"...\"\n  type :backport\n  resolves \"CVE-2016-2399\", \"CVE-2017-9122\"\n  apply \"patches/CVE-2016-2399.patch\", \"patches/CVE-2017-9122_et_al.patch\"\nend\n\n```\n\nThe vocabulary matches CycloneDX’s [`pedigree.patches`](https://cyclonedx.org/docs/1.6/json/#components_items_pedigree_patches) so SBOM tooling can read it without translation, and CVE ids are auto-inferred from the patch URL and `apply` filenames, which meant glibc, unzip, zip and libquicktime populated without any formula edits.\n\nThat change sat in review for close to a month and shipped in Homebrew 6.0.4, at which point brew-vulns could [consume it](https://github.com/Homebrew/homebrew-brew-vulns/pull/92): any OSV result whose id or alias matches a `resolves` entry is reported as patched, excluded from the exit code, and marked `analysis.state: resolved` in CycloneDX output. Bo Anderson later [mapped `resolves` through the API layer](https://github.com/Homebrew/brew/pull/23114) so it survives the JSON round-trip when formulae are loaded without a local homebrew-core checkout.\n\n### Annotation backfill\n\nWith the DSL merged, the [next job](https://github.com/Homebrew/homebrew-brew-vulns/issues/95) was populating it across those 1,191 existing patches. Of the 972 external ones, 497 point at GitHub commit URLs (in principle queryable in OSV by commit hash), 272 point at raw files hosted in homebrew-core itself, 42 come from Debian, and the rest scatter across MacPorts, FreeBSD ports, Fedora, Gentoo and gists. [Patrick Linnane](https://github.com/p-linnane) sampled 59 of the GitHub-commit patches and found zero that referenced a CVE; homebrew-core’s patches are almost entirely build and portability fixes, and a heuristic that greps formula source for CVE strings risks marking things patched that aren’t, since several of the CVE mentions in core are comments about *un*fixed issues.\n\nSo the approach flipped from annotating every patch by URL heuristic to running the scanner over every patched formula and only annotating where a real finding gets suppressed. That pass covered the 484 patched formulae with a resolvable source repo and turned up nine with open OSV findings; in every case the shipped patch was a build fix unrelated to the CVE, so zero new annotations came out of it.\n\nA wider sweep querying OSV by commit hash for the GitHub-commit patches, reading DEP-3 headers on the Debian tarballs, and grepping local patch bodies found exactly one more: `nvi` carries a Debian regex patch that fixes [CVE-2015-2305](https://github.com/Homebrew/homebrew-core/pull/290337). Along the way, extending the scanner’s [homepage fallback](https://github.com/Homebrew/homebrew-brew-vulns/pull/97) to cover formulae hosted outside GitHub, GitLab and Codeberg also turned up an unrelated data bug where `libart`’s homepage field pointed at [a completely different project](https://github.com/Homebrew/homebrew-core/pull/290393).\n\nThe glibc formula’s Debian patch tarball resolves ten CVEs, and querying OSV by the sourceware.org repo URL returns exactly one of them. The other nine exist in OSV only as records auto-converted from NVD, and those conversions carry no `affected[].package` data: you can `GET /v1/vulns/CVE-2024-2961` and read the record, but no query by package, purl or repository will ever return it. All of libquicktime’s patched CVEs were in the same state. So even a scanner with perfect repo-URL derivation has a recall ceiling set by how much of NVD has been enriched with package data upstream, and for the C libraries Homebrew ships a lot of, the answer is not much.\n\nBy this point Homebrew had structured `resolves` data, version history and patch metadata for every formula, which together are enough to act as an OSV data source. I [added an `--osv-export` flag](https://github.com/Homebrew/homebrew-brew-vulns/pull/99) to the tap that walks every formula’s `resolves` list and emits one OSV-schema JSON record per CVE, under a `Homebrew` ecosystem with `pkg:brew/<name>` package URLs, `BREW-<formula>-<CVE>` ids, and the resolving patch details carried in `ecosystem_specific`. A demo repository held the initial 26 records with schema validation running in CI, and any OSV-aware tool reading that feed could answer whether a given Homebrew package version was affected by a given CVE without going near the upstream repo.\n\n### Spec registrations\n\nFor anyone else’s tooling to read those records, two specs needed a Homebrew entry and osv.dev needed code to handle it. The [package-url spec](https://github.com/package-url/purl-spec) defines the `pkg:` identifier format that OSV, CycloneDX, SPDX and most SBOM tooling use to name packages, and it maintains a registry of allowed types. A `pkg:brew` type had been [proposed in 2023](https://github.com/package-url/purl-spec/issues/254) by William Woodruff and again by others afterwards, and it finally [landed](https://github.com/package-url/purl-spec/pull/796) via Rui Chen earlier this year. One wrinkle specific to Homebrew is that formula names can contain `@` for version-pinned variants like `openssl@3` and `[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)`, and `@` is also purl’s version separator, so `pkg:brew/openssl@3` is ambiguous and the `@` in the name has to be [percent-encoded](https://github.com/Homebrew/homebrew-brew-vulns/pull/101) as `pkg:brew/openssl%403`.\n\nThe [OSV schema](https://github.com/ossf/osv-schema) keeps its own registry of ecosystem names and id prefixes, and records that use an unregistered one fail validation. Registering [`Homebrew` and the `BREW-` prefix](https://github.com/ossf/osv-schema/pull/576) was straightforward, as was [documenting the database URL and how Homebrew versions sort](https://github.com/ossf/osv-schema/pull/580), which any tool evaluating an `affected` range needs to implement.\n\nGetting osv.dev itself to ingest the feed is the piece [still in progress](https://github.com/google/osv.dev/issues/5659). Two additions are needed per ecosystem in the osv.dev importer: a purl-to-package mapping, which for `pkg:brew` is a couple of lines, and a version comparator so that range queries like “is `6.0_7` inside `introduced: 0, fixed: 6.0_8`” can be evaluated server-side. Homebrew versions are the upstream version string with an optional `_N` revision suffix that increments when a formula changes without an upstream release, and the upstream strings are whatever each project uses, semver or otherwise. The comparator is therefore a Python port of Homebrew’s Ruby `Version#<=>` logic, which runs to a couple of hundred lines of edge cases. The [draft PR](https://github.com/google/osv.dev/pull/5660) is open; until it merges and ingestion is enabled, `brew vulns` can’t query `{ecosystem: \"Homebrew\"}` over the API and has to fetch the advisory database’s static JSON directly instead.\n\n### Advisory database\n\nI transferred the demo repository into the Homebrew org once the schema registration merged, initially as `Homebrew/homebrew-advisory-database`. That name lasted about a day: the `homebrew-` prefix is how the `setup-homebrew` CI action identifies taps, and CI runs started failing on an attempt to tap a directory full of JSON files, so it became [`Homebrew/advisory-database`](https://github.com/Homebrew/advisory-database) and every reference to the old name across brew and the repo’s own workflows [had to follow](https://github.com/Homebrew/brew/pull/23117).\n\nThe repo holds one JSON file per advisory, currently 33 across six formulae (glibc, libquicktime, lrzsz, nvi, unzip, zip), all generated from `resolves` annotations. A daily GitHub Actions workflow regenerates them, and because the org’s branch ruleset requires pull requests on `main` the workflow [opens a PR](https://github.com/Homebrew/advisory-database/pull/7) instead of pushing. Regeneration originally ran `gem install brew-vulns` followed by `brew vulns --osv-export`, which meant the tap couldn’t be archived until brew had a native replacement; that arrived as [`brew generate-vulns-advisories`](https://github.com/Homebrew/brew/pull/23106), a hidden dev command, and the [workflow switched over](https://github.com/Homebrew/advisory-database/pull/4).\n\nThe `fixed` boundary in each record needed more care than “whatever version ships today”. If unzip’s formula gained a CVE-2014-8139 patch at revision `6.0_6` and the current revision is `6.0_8`, a record saying `fixed: 6.0_8` wrongly flags `6.0_6` and `6.0_7` as vulnerable. The generator now [walks homebrew-core’s git history](https://github.com/Homebrew/brew/pull/23115) via `FormulaVersions` to find the first revision where the resolving patch appeared, and [merges into existing records](https://github.com/Homebrew/brew/pull/23112) rather than overwriting them so a hand-corrected boundary or a curated record survives the next nightly run. The [contributing guide](https://github.com/Homebrew/advisory-database/blob/main/CONTRIBUTING.md) covers the curated path for cases the generator can’t express, using a `BREW-0000-0000` placeholder id that a maintainer replaces on merge.\n\n### Merging into Homebrew/brew\n\nAround this point I was added as a Homebrew maintainer, which made the next stretch a lot smoother since it involved landing a run of interdependent changes across brew, homebrew-core and the advisory database in quick succession. The scanner [moved into `Library/Homebrew/cmd/vulns.rb`](https://github.com/Homebrew/brew/pull/23080) with a supporting `vulns/` module directory, following the same pattern as `brew livecheck`, and the [tracking issue](https://github.com/Homebrew/homebrew-brew-vulns/issues/111) has the full design doc listing everything that changed on the way in.\n\nUser-facing commands in brew’s `cmd/` directory can’t lazy-load gem groups (a RuboCop cop enforces it), which was the biggest constraint on the port: anything the command needs has to be in the vendored bundle already or reimplemented, and adding five gems to every Homebrew install for one subcommand wasn’t going to fly. The tap depended on [`purl`](https://rubygems.org/gems/purl), [`vers`](https://rubygems.org/gems/vers), [`cvss-suite`](https://rubygems.org/gems/cvss-suite), [`sbom`](https://rubygems.org/gems/sbom) and [`sarif-ruby`](https://rubygems.org/gems/sarif-ruby), and all five went.\n\nThe `sbom` and `sarif-ruby` gems were only used for `--cyclonedx` and `--sarif` output, so those flags are dropped for now and will return as direct JSON emission validated against the published schemas. The `purl` gem was used exactly once, to extract the ecosystem token from an OSV record’s `affected.package.purl` field, and since the merged code only evaluates `SEMVER` ranges locally that lookup is never reached.\n\nThe `vers` gem became a small `Homebrew::Vulns::Semver` module implementing strict SemVer 2.0 comparison. Homebrew’s own `Version` class isn’t a drop-in here: it sorts `1.0.0-alpha.1` above `1.0.0-alpha.beta` where the SemVer spec says numeric prerelease identifiers sort below alphanumeric ones, and it compares `+build` metadata where SemVer says build metadata is ignored for ordering. Getting either wrong turns a range boundary into a false positive or negative.\n\nThe `cvss-suite` gem became `Homebrew::Vulns::CVSS`, which implements the CVSS v3.0/v3.1 base-score formula and buckets the result. CVSS v4.0 scoring requires a roughly 270-entry MacroVector lookup table plus interpolation between entries, so v4 vectors currently fall through to the next `severity` entry on the record; almost every record with a v4 vector also carries a v3 one, so in practice little is lost.\n\nThe tap’s `--all` flag was going to become `--eval-all` to match other brew commands, until `--eval-all` was replaced across brew with a tap-trust mechanism while the PR was in review, so with no arguments `brew vulns` now scans every formula from a trusted tap and falls back to installed formulae otherwise. The tap also always read the current formula definition for the source URL and version, so an old installed keg would be checked against whatever version the formula had since been bumped to. The built-in command reads the [installed keg’s SPDX SBOM](https://github.com/Homebrew/brew/pull/23140) instead, and if an outdated keg predates SBOM generation the scan warns and exits nonzero rather than reporting a version it never checked.\n\nAll of that shipped together in Homebrew 6.0.11, and the tap is now [a deprecation stub](https://github.com/Homebrew/homebrew-brew-vulns/pull/112) pointing at the built-in command.\n\n### Coverage\n\nThe command as shipped queries OSV’s GIT ecosystem by repo URL, which covers about 73% of homebrew-core (6,210 of 8,492 formulae); the other 2,282 have no derivable GitHub, GitLab or Codeberg URL and are skipped, with a count reported at the end of the run. Closing that gap means finding other keys that join a formula to an advisory, and doing the joining once at authoring time in the advisory database rather than on every user’s machine. That way `brew vulns` stays at a single batched API call however many matching strategies feed the database behind it.\n\nOf the skipped formulae, 322 have a `stable.url` pointing at a language package registry (145 PyPI, 144 npm, plus Maven, Hackage, CPAN, crates and a few others), and a URL like `files.pythonhosted.org/.../foo-1.2.tar.gz` encodes enough to build a `pkg:pypi/[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)` purl and query OSV’s PyPI ecosystem directly. The same applies to the 12,283 `resource` blocks across homebrew-core, which are vendored dependencies inside formulae; about 91% of those are registry URLs (over 10,000 PyPI alone) and none are scanned today.\n\nThat leaves roughly 1,960 formulae hosted on SourceForge, GNU mirrors, gnome.org download servers, Debian archives and the like, with no direct package identifier at all. For those the join goes through [Repology](https://repology.org/), which already indexes Homebrew alongside every major Linux distro: look up the formula name, get back the Debian, Alpine and openSUSE source-package names for the same upstream, query OSV’s distro ecosystems for those, and collect the CVE aliases.\n\nRepology’s [bulk dumps](https://dumps.repology.org/) turned out to be 10GB+ PostgreSQL restores rather than anything directly loadable, so the [index builder](https://github.com/Homebrew/advisory-database/pull/11) paginates the API instead, about 43 pages at one request per second, and writes a distilled `formula -> {distro -> srcname}` map into the advisory repo. Name matching needs normalisation (`postgresql@16` maps to Repology’s `postgresql`, `libmatio` maps to `matio`, and Repology sometimes lists a Debian binary package where the OSV feed keys on the source package), and corrections to Repology’s project grouping go upstream to [repology-rules](https://github.com/repology/repology-rules) instead of into a local override layer.\n\nOSV has no CPAN, CTAN or LuaRocks ecosystem, and 61 formulae vendor at least one CPAN module, so that path reads the [cpan-security-advisory](https://github.com/briandfoy/cpan-security-advisory) database directly. Between the registry URLs, the Repology mapping and the CPAN feed, roughly 96% of homebrew-core ends up with at least one automated join key, with a few hundred formulae left over that will need a hand-curated mapping file in the advisory repo.\n\n### Next\n\nThe scan output can surface in more of Homebrew than a dedicated subcommand. Running the scanner once inside `brew generate-formula-api` and attaching a `vulnerabilities` field to each formula’s JSON would put open findings on [formulae.brew.sh](https://formulae.brew.sh/) formula pages and in `brew info` without a live query, since both already read that JSON. From there `brew install` could warn when the version being installed has an open advisory, and `brew upgrade` could list which CVEs each pending bump resolves alongside the version change, so the security case for an upgrade is visible when you’re deciding whether to run it.\n\nEvery installed keg already carries an SPDX SBOM listing its dependencies with versions, and the built-in command reads that SBOM for the top-level source URL now, so the inventory for scanning a formula’s whole dependency tree is already on disk and the remaining work is the same matching problem as everything above. Casks are harder because a large share of them package closed-source applications, with no upstream repo to query and no visible dependency list to walk. The [EU Cyber Resilience Act](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source) will change that from outside Homebrew: vendors selling into Europe will have to produce SBOMs for their products, and as those start to appear for the apps that casks install, scanning a cask’s dependency tree becomes the same job as scanning a keg’s.\n\nOn the maintainer side, a [homebrew-core](https://github.com/Homebrew/homebrew-core) PR that bumps a formula is the natural place to report which CVEs the bump closes, which are still open at the new version, and which affect any vendored `resource` blocks. Running the full matcher against the one changed formula is cheap enough to sit inside `brew test-bot` alongside the existing audit checks. Anything it finds that isn’t already a `BREW-*` record is a candidate for the advisory database, giving it a second feed driven by formula changes as well as the nightly advisory sweep. Restoring `--sarif` and `--cyclonedx` output brings back the code-scanning and SBOM integrations for downstream projects that want to scan their own Brewfiles in CI.\n\nUnderneath all of that, [osv.dev ingestion](https://github.com/google/osv.dev/pull/5660) is still the gate for querying `{ecosystem: \"Homebrew\"}` directly rather than fetching the advisory JSON, and CVSS v4 scoring still needs its lookup table before v4-only records get a severity label.\n\nThanks to [Mike McQuaid](https://github.com/MikeMcQuaid) and Patrick for all the help getting this over the line so far, and to the rest of the Homebrew maintainers for reviews across an unreasonable number of pull requests. If you’re on Homebrew 6.0.11 or later `brew vulns` is already there; the [advisory database](https://github.com/Homebrew/advisory-database) and the [discussion thread](https://github.com/orgs/Homebrew/discussions/6869) that most of this fell out of are good places to follow along.",
+        "url": "https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Database",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-07-17T10:00:00.000Z",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "BBEdit 16",
+        "summary": "### What’s new in BBEdit 16?\n\nThere are more than a hundred new feature additions, changes, and refinements, including forward-looking foundational work which brings order-of-magnitude performance imp",
+        "content": "### What’s new in BBEdit 16?\n\nThere are more than a hundred new feature additions, changes, and refinements, including forward-looking foundational work which brings order-of-magnitude performance improvements in some parts of the product.\n\nAs always, we enthusiastically encourage you to [read the complete change notes for BBEdit 16](https://www.barebones.com/support/bbedit/notes-16.0.html). (We spent a lot of time writing those notes, and hope you find the experience rewarding.)\n\nTo help catch up, there are also [notes from any older versions](https://www.barebones.com/support/bbedit/archived_notes.html) which may have been released since the last time you looked.\n\nHere are just a few of the notable things that are new or improved in BBEdit 16:\n\n#### Expanded Shortcuts support\n\nWith an entire collection of brand new actions, powered by App Intents, expanded Shortcuts support now makes BBEdit’s powerful text transformations even more available to workflows outside of the application.\n\n[![Reduced-size Shortcuts example](https://www.barebones.com/assets/images/bbedit/bbedit-shortcuts.png)](https://www.barebones.com/assets/images/bbedit/bbedit-shortcuts-lg.png)\n\n#### Search for text in images\n\nYes. You can now use BBEdit to find text in images. Yes. Multi-file search for text in images. Yes. Multi-file search for text in images using grep. Mmmhmmm. You didn’t rename the file, but you know the meme image included the word humid? You know you dropped it somewhere. We’ve got you.\n\n[![Reduced-size image text search results](https://www.barebones.com/assets/images/bbedit/image-text-search.png)](https://www.barebones.com/assets/images/bbedit/image-text-search-lg.png)\n\n#### Color Customizations for Projects and Notebooks\n\nHelp keep things straight using color as a guide, with the new ability to select a color scheme per-project (and per-Notebook). Choose from a variety of factory-supplied color schemes, or devise your very own.\n\n[![Reduced-size image text search results](https://www.barebones.com/assets/images/bbedit/notebook-colors.png)](https://www.barebones.com/assets/images/bbedit/notebook-colors-lg.png)\n\n#### AI Chat Worksheets improvements\n\nAI worksheet users will now enjoy reduced response times, and the ability to watch results stream in.\n\n#### …and much, much more\n\nIn addition to the features highlighted above, BBEdit 16 includes the following notable additions and changes (and many more):\n\n\t- Use of the W3C HTML5 syntax checker to improve syntax checking in HTML5 documents and help you keep up with evolving standards and guidelines;\n\n\t- Support for `vi` keyboard emulation, for basic navigation and editing;\n\n\t- Numerous quality-of-life improvements to the built-in Git support;\n\n\t- Additional configuration options in web site projects, including settings for “production” versus “testing” deployment locations;\n\n\t- Significant throughput improvements in the built-in SFTP file transfer engine;\n\n\t- A wide array of reworked internals, fine tuning and optimizations resulting in palpable performance improvements across multiple features and capabilities.\n\nThe [detailed change notes](https://www.barebones.com/support/bbedit/notes-16.0.html) contain complete information on what is new and changed in this version.\n\n#### Upgrade Information\n\nBBEdit 16 is a free upgrade for all licensed BBEdit 15 customers who purchased licenses **on or after November 1, 2025**.\n\nBBEdit 16 is a paid upgrade for licensed customers: US$29.99 for BBEdit 15 customers (if purchased **before November 1, 2025**); US$39.99 for customers with BBEdit 14.6.9 or earlier.\n\n[Here is more information on how to upgrade.](https://www.barebones.com/store/bbedit_upgrades.html)",
+        "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-17T17:31:11.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Google and Epic Give Up Fighting — Third-Party Android App Stores Are Coming Next Week - Epic Games and Google have just jointly withdrawn their attempt to [retroactively settle t...",
+    "Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’ - Loading... You are seeing this because the administrator of this website has set up Anubis...",
+    "OpenAI’s Product Shake-Up Put the Complexifiers in Charge - OpenAI told staff on Friday that it would reorganize the company as part of an ongoing eff...",
+    "ArtfulType: Markdown Writing App for the 68K Macintosh - A distraction-free Markdown writing app for classic 68k Macintosh computers (System 6/7),...",
+    "Spot birds not golf - 17th July 2026 Suggestion for hyperscalers feeling pressure over data center water use: Bu..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "apple",
+      "count": 7
+    },
+    {
+      "word": "codes",
+      "count": 7
+    },
+    {
+      "word": "hcpcs",
+      "count": 6
+    },
+    {
+      "word": "post",
+      "count": 6
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "openai",
+      "count": 5
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "today",
+      "count": 4
+    },
+    {
+      "word": "regular",
+      "count": 4
+    },
+    {
+      "word": "clich",
+      "count": 3
+    },
+    {
+      "word": "music",
+      "count": 3
+    },
+    {
+      "word": "mac",
+      "count": 3
+    },
+    {
+      "word": "expressions",
+      "count": 3
+    },
+    {
+      "word": "maxis",
+      "count": 3
+    },
+    {
+      "word": "part",
+      "count": 3
+    },
+    {
+      "word": "novell",
+      "count": 3
+    },
+    {
+      "word": "july",
+      "count": 3
+    },
+    {
+      "word": "art",
+      "count": 3
+    },
+    {
+      "word": "cloudflare",
+      "count": 3
+    },
+    {
+      "word": "wordpress",
+      "count": 3
+    },
+    {
+      "word": "rules",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "blockquote",
+      "count": 2
+    },
+    {
+      "word": "cite",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "ycombinator",
+      "count": 2
+    },
+    {
+      "word": "item",
+      "count": 2
+    },
+    {
+      "word": "id",
+      "count": 2
+    },
+    {
+      "word": "href",
+      "count": 2
+    },
+    {
+      "word": "llm",
+      "count": 2
+    },
+    {
+      "word": "highlighter",
+      "count": 2
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "tool",
+      "count": 2
+    },
+    {
+      "word": "tools",
+      "count": 2
+    },
+    {
+      "word": "em",
+      "count": 2
+    },
+    {
+      "word": "article",
+      "count": 2
+    },
+    {
+      "word": "prices",
+      "count": 2
+    },
+    {
+      "word": "visualizing",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "previous",
+      "count": 2
+    },
+    {
+      "word": "revisit",
+      "count": 2
+    },
+    {
+      "word": "system",
+      "count": 2
+    },
+    {
+      "word": "speed",
+      "count": 2
+    },
+    {
+      "word": "error",
+      "count": 2
+    },
+    {
+      "word": "rates",
+      "count": 2
+    },
+    {
+      "word": "match",
+      "count": 2
+    },
+    {
+      "word": "looking",
+      "count": 2
+    },
+    {
+      "word": "display",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "panel",
+      "count": 2
+    },
+    {
+      "word": "pointer",
+      "count": 2
+    },
+    {
+      "word": "truncation",
+      "count": 2
+    },
+    {
+      "word": "bug",
+      "count": 2
+    },
+    {
+      "word": "gone",
+      "count": 2
+    },
+    {
+      "word": "unfixed",
+      "count": 2
+    },
+    {
+      "word": "long",
+      "count": 2
+    },
+    {
+      "word": "digital",
+      "count": 2
+    },
+    {
+      "word": "research",
+      "count": 2
+    },
+    {
+      "word": "merger",
+      "count": 2
+    },
+    {
+      "word": "pioneer",
+      "count": 2
+    },
+    {
+      "word": "desktop",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "coming",
+      "count": 2
+    },
+    {
+      "word": "listening",
+      "count": 2
+    },
+    {
+      "word": "waf",
+      "count": 2
+    },
+    {
+      "word": "high-severity",
+      "count": 2
+    },
+    {
+      "word": "vulnerabilities",
+      "count": 2
+    },
+    {
+      "word": "protect",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "learned",
+      "count": 2
+    },
+    {
+      "word": "google",
+      "count": 2
+    },
+    {
+      "word": "epic",
+      "count": 2
+    },
+    {
+      "word": "give",
+      "count": 2
+    },
+    {
+      "word": "set",
+      "count": 2
+    },
+    {
+      "word": "product",
+      "count": 2
+    },
+    {
+      "word": "president",
+      "count": 2
+    },
+    {
+      "word": "markdown",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "macintosh",
+      "count": 2
+    },
+    {
+      "word": "bluescsi",
+      "count": 2
+    },
+    {
+      "word": "golf",
+      "count": 2
+    },
+    {
+      "word": "roblox",
+      "count": 2
+    },
+    {
+      "word": "feature",
+      "count": 2
+    },
+    {
+      "word": "including",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "ecosystem",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "io",
+      "count": 2
+    },
+    {
+      "word": "european",
+      "count": 2
+    },
+    {
+      "word": "commission",
+      "count": 2
+    },
+    {
+      "word": "homebrew",
+      "count": 2
+    },
+    {
+      "word": "bbedit",
+      "count": 2
+    }
+  ]
+}
