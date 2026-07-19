@@ -1,0 +1,603 @@
+{
+  "date": "2026-07-19",
+  "stats": {
+    "total_fetched": 269,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Fitting a regular expression to a list of words",
+        "summary": "Suppose you want to search for a list of words. If you’re using grep, you can add the -f flag provide a file of regular expressions, and you can add the -F to tell it that the regular expressions are in fact just words....",
+        "url": "https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Sun, 19 Jul 2026 19:30:17 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Sum of low squares",
+        "summary": "Squares, high and low Let p be an odd prime number. Then half the numbers from 1 through p − 1 are squares and half are not. That is, for half of numbers 1 ≤ k < p, the equation x² = k mod p has a solution. The tradition...",
+        "url": "https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Sun, 19 Jul 2026 16:41:48 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I Worked On",
+        "summary": "",
+        "url": "http://www.paulgraham.com/worked.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Earnestness",
+        "summary": "",
+        "url": "http://www.paulgraham.com/earnest.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-19T22:40:49.235Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Claude Code uses Bun written in Rust now",
+        "summary": "19th July 2026\n\nIn [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) Jarred Sumner made the following claim:\n\n> Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. St",
+        "content": "19th July 2026\n\nIn [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) Jarred Sumner made the following claim:\n\n> Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good.\n\nI decided to have a poke at my own Claude Code installation to see if I could find evidence that it was using Bun written in Rust.\n\nI found these two commands convincing:\n\n```\nstrings ~/.local/bin/claude | grep -m1 'Bun v1'\n\n```\n\nFor me this outputs `Bun v1.4.0 (macOS arm64)`. The most recent release of [Bun on GitHub](https://github.com/oven-sh/bun/releases) is currently [v1.3.14](https://github.com/oven-sh/bun/releases/tag/bun-v1.3.14) from May 12th, so that v1.4.0 version number in Claude supports them shipping a preview of a not-yet-released Bun version.\n\n(**Update**: The Rust version *has* been released as [Bun canary](https://bun.com/docs/installation#canary-builds) - running `bun upgrade --canary` will install [this release](https://github.com/oven-sh/bun/releases/tag/canary).)\n\n```\nstrings ~/.local/bin/claude | grep -Eo 'src/[[:alnum:]_./-]+\\.rs'\n\n```\n\nThis outputs a list of [563 filenames](https://gist.github.com/simonw/c92fb0f67b114ac26e3b95a09ddccfdc), starting with these:\n\n```\nsrc/runtime/bake/dev_server/mod.rs\nsrc/runtime/bake/production.rs\nsrc/bundler/bundle_v2.rs\n\n```\n\nIt looks like Bun in Rust is indeed being run in production across millions of different devices. Like Jarred said, \"Boring is good\".\n\n**Update**: Here's a neat trick [from Ajan Raj](https://twitter.com/ajanraj25/status/2078825794701242697):\n\n```\ncat > /tmp/bun-version.ts <<'EOF'\nconsole.log(\"embedded bun:\", Bun.version);\nprocess.exit(0);\nEOF\nBUN_OPTIONS=\"--preload=/tmp/bun-version.ts\" claude --version\n\n```\n\nThis outputs `1.4.0` for me.\n\nHere's [the commit from May 17th](https://github.com/oven-sh/bun/commit/b18bf6d1d0a92238f240bfd125f0e3b3461b9243#diff-7ae45ad102eab3b6d7e7896acd08c427a9b25b346470d7bc6507b6481575d519) that updated the version in `package.json` to 1.4.0. That version hasn't been changed since then, but also hasn't yet made it into a tagged release outside of `canary`.",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-19T03:54:09.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "summary": "19th July 2026 - Link Blog\n\n**[AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)** ([via](https://news.ycombinator.com/",
+        "content": "19th July 2026 - Link Blog\n\n**[AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)** ([via](https://news.ycombinator.com/item?id=48964185)) Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources.\n\n> In one extreme case, I have seen an executive confess that they had never even used ChatGPT or any AI tool in their life, immediately after producing a technical strategy for an organisation with $2B+ in revenue which was entirely centered around AI.\n\nHere's a report from an engineer at a company with a token leaderboard:\n\n> Checking out a parallel copy of our Go repository and telling the AI to rewrite the whole thing in Zig while I work on something else just so I can keep my job.\n\nI particularly enjoyed this conversation with a skeptical executive at an over-enthusiastic company:\n\n> I asked *why* this was being repeated without opposition. Was it just sales fluff?\n\n> The answer was a lot more interesting. It was *partially* ridiculous sales material being delivered to an easily excitable audience, but this was not the dominant factor constraining honesty. Executives at their *customers* were saying absurd things about achieving 100x productivity, and this meant that if any executive at the *vendor* said that these gains were not plausible, it would undermine the credibility of the customer’s executive, be perceived as an attack (or heresy), and possibly result in an enterprise contract cancellation. And getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired.",
+        "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-07-19T05:06:21.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil",
+        "summary": "![Apple App Store Brazil Brazilian regulator](https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&strip=all&w=1600)\n\t\n\nAn investigation by 9to5Mac reveals dozens of ",
+        "content": "![Apple App Store Brazil Brazilian regulator](https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&strip=all&w=1600)\n\t\n\nAn investigation by 9to5Mac reveals dozens of apps that disguise gambling platforms as simple games and utilities. Here are the details.\n\n## Betting platforms pose as simple apps\n\nBrazilian users browsing the App Store rankings in categories such as Navigation, Travel, and Weather have noticed a growing number of poorly made games appearing among the top results, many of them featuring AI-generated illustrations of animals as their app icons.\n\nAs it turns out, these are so-called jacket apps, which are just a front for hidden betting and gambling apps.\n\nA 9to5Mac investigation has uncovered more than 60 apps that behave exactly as depicted in their App Store screenshots when accessed from virtually anywhere in the world, except Brazil.\n\nWhen opened from a Brazilian IP address, the same apps instead reveal online betting platforms, as shown in the example below, which is currently the top app in the Weather category:\n\n![](https://9to5mac.com/wp-content/uploads/sites/6/2026/07/app-store-gambling.jpg?quality=82&strip=all)\n\nMost of the apps are published by developer accounts with only a single App Store listing. Many of the developer names appear to be common in Vietnam and other countries, rather than Brazil.\n\nThe apps also tend to use similar (and, in some cases, identical) privacy policies, have generally no recorded updates, and are roughly 15MB in size.\n\nDigging deeper, 9to5Mac found a public GitHub repository containing instructions for a Cursor agent to create simple, vibe-coded apps that serve as fronts for the betting platforms.\n\nThe instructions call for each app to include three to five visible interfaces, use a marketable name and animal-themed icon (a dragon, ox, rabbit, rat, or tiger), and support remotely controlled routing to either the local app, an in-app web page, or an external website.\n\nThey also say the apps should be built around simple, immediately understandable concepts, with clear branding and several prominent feature areas, while differing enough from one another to appear as separate products.\n\nThe repository also includes explicit instructions intended to prevent the apps from being flagged as suspicious during App Store review. These include giving each app uniquely named startup and remote-configuration codes, making it harder for reviewers to identify them as part of the same group.\n\nIronically, the App Store’s own recommendation system appears to have little trouble grouping the apps together, as the “You Might Also Like” section on several of these apps points users toward other suspicious apps more frequently than they point to genuine apps.\n\nAlthough this is [far from a new problem](https://9to5mac.com/2024/07/19/pirate-streaming-ios-app-store-review/) on the App Store, the discovery comes on the heels of [renewed pressure](https://9to5mac.com/2026/07/15/apple-faces-new-questions-from-brazil-over-betting-apps-accessible-to-minors/) from Brazilian authorities over the availability of unauthorized betting apps on Apple’s and Google’s platforms.\n\nJust a few days ago, Brazil’s Ministry of Justice gave both companies five business days to explain how they detect apps that hide or change betting features after approval, verify that operators are federally authorized, and prevent minors from accessing gambling services.\n\nEarlier today, Apple was also ordered to [remove eight AI “nudify” apps](https://9to5mac.com/2026/07/17/apple-ordered-to-remove-8-ai-nonconsensual-undressing-apps-from-the-app-store/) from the App Store after pressure from the San Francisco City Attorney, which came six months after a separate Tech Transparency Project investigation [uncovered dozens of similar apps](https://9to5mac.com/2026/01/27/report-claims-app-store-hosts-widespread-nonconsensual-ai-undressing-apps/) on the platform.\n\n9to5Mac has reached out to Apple for comment, and we will update this story if we hear back.\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)",
+        "url": "https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-07-19T17:18:57.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Paper",
+        "summary": "## design incredible\n\nthe connected canvas for\n\nteams shipping with agents\n\nPaper connects your teams, agents, code, and data on a single design space built on web standards, so nothing gets lost in t",
+        "content": "## design incredible\n\nthe connected canvas for\n\nteams shipping with agents\n\nPaper connects your teams, agents, code, and data on a single design space built on web standards, so nothing gets lost in translation\n\nused in production by designers at\n\n## Introducing \nPaper Desktop\na fully connected canvas,\n a whole new workflow\n\nPaper desktop unlocks a new design workflow that easily connects your visual work with all your apps, agents, and repos, via MCP\n\n[download Paper](https://download.paper.design/)design to code and back\n\n## finally a continuous loop,\nfrom Paper to code and back\n\nyour agents can sync design tokens, styles, and components between your codebase and your canvas—one source of truth, always current\n\n### connect any agent to your canvas\n\nConnect any IDE or CLI agent and start working in a shared layer that goes from code to design and back\n\n### design and code, one language\n\nPaper's HTML/CSS canvas means your design exports as code. nothing gets lost in translation\n\ngood bye lorem ipsum\n\n## connected to real content,\nreal data, from anywhere\n\nbring content, databases, and context from any app on your computer or in the cloud—design with the real thing\n\n### prompt to get data from anywhere\n\nBring any agent to pull data from any tool or API. Paper connects your files, CMS, or database to your layers\n\n### update content from your canvas\n\nWrite and edit your copy on the canvas, iterate together, then ask your agent to send the copy back into your codebase\n\nanti-slop\n\n## hand off boilerplate work,\nfocus on the human touch\n\nleverage agents to handle responsive layouts, style variations, and other repetitive tasks—so you can focus on the decisions only you can make\n\n### agents that see your canvas\n\nPaper canvas lets agents read and write on the right foundations, helping you enhance your workflows in real time\n\n### stay in control\n\nFocus on the creative call while agents deal with the tedious work like responsive variants, consistency checks, and more\n\nclose the gap\n\n## the full-circle,\n anti-slop workflow\nfor humans and agents\n\na new way to design, from canvas to code and back—connected, fluid, built on the foundations of the web\n\n[download Paper](https://download.paper.design/)[![](https://paper.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjune-2026-light.35d2d617.webp&w=3840&q=75&dpl=dpl_87eyAE55Bpiza9ouCfcCrh6kHbMz)![](https://paper.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjune-2026-dark.9d68af20.webp&w=3840&q=75&dpl=dpl_87eyAE55Bpiza9ouCfcCrh6kHbMz)](https://paper.design/build-log)\n\n### what's new in Paper\n\njune, 2026: design tokens, pen tool & vector editing, folders\n\n[build log](https://paper.design/build-log)\n\n[![](https://paper.design/_next/image?url=%2Fblog%2Fdesign-engineer%2Fdesign.webp&w=3840&q=75)](https://paper.design/blog/design)\n\n### design at Paper, two new roles\n\nwe’re hiring two principal roles: Product Designer and Design Engineer\n\n[read the announcement](https://paper.design/blog/design)",
+        "url": "https://paper.design/?utm_source=df",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-07-19T22:31:11.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Mornings in Cupertino Have the Aroma of Napalm Once Again",
+        "summary": "## ‘It Seems You Have a Different Policy’\n\n[Ben Thompson, in a subscriber-only Stratechery update Tuesday](https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/):\n\n> I got a fu",
+        "content": "## ‘It Seems You Have a Different Policy’\n\n[Ben Thompson, in a subscriber-only Stratechery update Tuesday](https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/):\n\n> I got a fun email from former Apple executive, Nest founder, and\n> one-time Stratechery Interview subject Tony Fadell in response to\n> yesterday’s Update about Apple suing OpenAI (published with\n> permission):\n\n> \n> \n> Good article as always… This is Apple’s typical tactic to scare\n> Apple employees — either former or current. I heard this lawsuit\n> was driven by the Apple board.\n\n> \n> Steve threatened to file a lawsuit against Nest for poaching\n> 80-100 Apple employees. He called me, screamed for a while with\n> lots of accusations. Then I said, “Steve, it’s Apple’s job to\n> retain its talent, not mine.” He stopped his rant and then we\n> went on to talk about our families and vacation plans. We kept\n> hiring…\n\nThis sounds about right — and in terms of the Steve Jobs angle,\n[John Gruber made a compelling case on Dithering](https://dithering.passport.online/member/episode/apple-sues-open-ai) that this\nlawsuit may very well have been driven by John Ternus channeling\nhis inner Jobs.\n\nFadell, of course, is correct that it’s Apple’s job to retain its talent. Recent reporting from Mark Gurman [suggests that John Ternus is keenly aware of this](https://9to5mac.com/2026/06/21/john-ternus-apple-design-team-influence/), at least as it pertains to Apple’s industrial design team, which has been ground zero for the Apple-to-OpenAI recruitment pipeline. (And the Dithering episode Thompson references is [the one we made free-to-listen this week](https://dithering.passport.online/member/episode/apple-sues-open-ai).)\n\nPlaying hardball when it comes to poaching is deeply embedded in Apple’s DNA. Steve Jobs hated Apple employees getting poached. In 2005 [he sent this email to Adobe CEO Bruce Chizen](https://www.techemails.com/p/steve-jobs-emails-adobes-ceo):\n\n> From: Steve Jobs \n\n> To: Bruce Chizen \n\n> Date: Thursday, May 26, 2005 9:36 AM \n\n> Subject: Recruiting\n\n> \n> Bruce,\n\n> \n> Adobe is recruiting from Apple. They have hired one person already\n> and are calling lots more. I have a standing policy with our\n> recruiters that we don’t recruit from Adobe. It seems you have a\n> different policy. One of us must change our policy. Please let me\n> know who.\n\n> \n> Steve\n\nAfter one back-and-forth exchange with Jobs, Chizen agreed Adobe would change its policy.\n\nA more contentious example came in August 2007, when Jobs sent an email to Palm CEO Ed Colligan [that read](https://www.theverge.com/2013/1/23/3906310/the-no-hire-paper-trail-steve-jobs-and-eric-schmidt-didnt-want-you-to-see):\n\n> From: Steve Jobs \n\n> To: Ed Colligan \n\n> Date: Sunday, August 26, 2007 11:42 am \n\n> Subject: Fwd: Your proposal\n\n> \n> Ed,\n\n> \n> This is not satisfactory to Apple. It is not just a matter of our\n> employees deciding they want to join Palm. They are being actively\n> recruited using knowledge supplied by Jon Rubenstein [*sic*] and Fred\n> Anderson, with Jon personally participating in the recruiting\n> process. We must do whatever we can to stop this. I’m sure you\n> realize the asymmetry in the financial resources of our respective\n> companies when you say: “We will both just end up paying a lot of\n> lawyers a lot of money.”\n\n> \n> Just for the record, when Siemens sold their handset business to\n> BenQ they didn’t sell them their essential patents but rather just\n> gave them a license. The patents they did sell to BenQ are not\n> that great. We looked at them ourselves when they were for sale. I\n> guess you guys felt differently and bought them. We are not\n> concerned about them at all. My advice is to take a look at our\n> patent portfolio before you make a final decision here.\n\n> \n> Steve\n\nThat’s a good email. Information dense. My favorite part isn’t the “I’m sure you realize the asymmetry in the financial resources of our respective companies”, although that’s good. It’s the “I guess you guys felt differently and bought them.” Stone cold.\n\nSome backstory on the players:\n\nColligan, of course, is Mr. “[PC guys are not going to just figure this out. They’re not going to just walk in.](https://daringfireball.net/2006/11/colligan_head_stuck)” He was a business guy who thought product guys didn’t matter in an industry that was about to be taken over by product guys. Sort of like Steve Ballmer, without the charisma, at a much smaller company.\n\nJon Rubinstein[1](#fn1-2026-07-18) was a hardware engineering executive at Apple, overseeing Mac hardware during the comeback years after Steve Jobs returned, then switching [to oversee the newly-created iPod division](https://daringfireball.net/2005/10/brief_observations) in 2004. (Mac hardware then went under the supervision of a then-little-known operations executive referred to in [the announcement](https://www.macobserver.com/news/apple-new-ipod-macintosh/) as “Timothy Cook”.) Rubinstein left Apple in early 2006, [citing exhaustion](https://spectrum.ieee.org/from-podfather-to-palms-pilot).[2](#fn2-2026-07-18) His departure was [announced six months earlier](https://daringfireball.net/linked/2005/10/14/rubinstein), alongside the promotion of Cook to COO. By 2007 Rubinstein was involved with Palm, by way of Elevation Partners, an investment firm that took a 25 percent stake in Palm. He became CEO of Palm in 2009, [tried to turn it around](https://daringfireball.net/linked/2010/02/26/rubinstein), and then wasted a few years as an executive at HP after HP bought Palm’s carcass thinking it was still alive.\n\nFred Anderson was Apple’s CFO from March 1996 (almost a year *before* the NeXT reunification) to June 2004 — the nail-biting, at-times-near-bankruptcy turnaround years. Anderson took the fall, perhaps unfairly, for [the stock options backdating scandal](https://daringfireball.net/linked/2006/08/11/lawcom) under Steve Jobs and, after leaving Apple, paid a $3.5 million fine in a settlement with the SEC. Needless to say, in the summer of 2007, [there was bad blood between Anderson and Apple](https://daringfireball.net/linked/2007/04/25/apple-board-statement). Anderson, post-Apple, was a co-founder of Elevation Partners and had recruited Rubinstein to join.\n\nSome bad blood. Some former high-level Apple executives putting a team of ex-Apple engineers and designers together to take on the iPhone. History doesn’t repeat, but it often rhymes.\n\nIf in addition to thinking that this sounds familiar, you also think these emails sound illegal, you may recall that in 2015, Apple (along with Google, Adobe, Intel, and other companies) [paid a collective $415 million penalty to settle a class-action anti-poaching lawsuit](https://www.cnet.com/tech/tech-industry/apple-google-others-settle-anti-poaching-lawsuit-for-415-million/). That they settled doesn’t mean they regret playing hardball. Rules are only followed by those who fear the penalties.\n\n[Jobs *liked* to fight](https://daringfireball.net/2010/03/napalm_in_the_morning), and wasn’t afraid to let his temper show. Tim Cook has a fierce temper and [steel nerves](https://daringfireball.net/linked/2021/02/11/lashinsky-cook), but he arguably only once, ever, [showed it in public](https://www.macobserver.com/news/tim-cook-rejects-ncppr-politics/). I do not think he relishes a fight. He’s a diplomat, not a general. I suspect there’s no undiscovered tranche of Jobs-style stone-cold threatening emails from Cook to competing CEOs.\n\nSteve Jobs’s [oft-cited parting advice to Tim Cook](https://www.wsj.com/tech/apple-tim-cook-advice-john-ternus-steve-jobs-2934ed33?st=cuJyaF) was “*Don’t ask what I would do. Just do the right thing.*” Cook has largely lived by that mantra. But maybe — maybe — by taking that advice to heart, he has at times deliberately steered the company in ways Jobs would not have, just for the sake of steering it in a different way. I think maybe John Ternus is more of a “*Hey, what* would *Steve have done here?*” kind of guy.\n\nOn the one hand, this lawsuit is a bad look for Apple. It could be perceived that Apple does not think their employees are free to leave and compete against them. On the other hand, Apple could use a booster shot of Steve Jobs’s “us against the world” attitude. It might be wrong to start a war, but it’s never wrong to finish one after being attacked.\n\nWhat would Steve Jobs do with this OpenAI situation? [He’d go to war](https://daringfireball.net/2010/03/napalm_in_the_morning).[3](#fn3-2026-07-18)\n\n## ‘This Is Not Satisfactory to Apple’\n\nThe early history of the Macintosh GUI went something like this: When the Macintosh debuted in 1984 it didn’t hit like Apple had hoped it would. (That’s when Steve Jobs was run out of the company.) But by the late 1980s it had caught on, especially in markets like design and desktop publishing. It was the only GUI game in town — command-line DOS PCs were popular, but [Windows 1.0 was almost too primitive to believe](https://www.pcjs.org/software/pcx86/sys/windows/1.01/ega/) and [Windows 2 wasn’t much better](https://www.pcjs.org/software/pcx86/sys/windows/2.0x/). Apple was certain that the [WIMP](https://en.wikipedia.org/wiki/WIMP_(computing)) GUI was the future of computing, and because the Macintosh was the only credible GUI then on the market, Apple owned the future of computing. They were correct about one of those things. Because then came [Windows 3](https://www.pcjs.org/software/pcx86/sys/windows/3.10/), which *still* sucked — still was ugly, still was terribly designed, still severely limited compared to the Mac in its UI grace and vocabulary of actions — but, it didn’t suck *as much*. It wasn’t good but it was good enough for the corporate IT market, and the corporate IT market drove the industry at the time.\n\nIn the early 1990s John Sculley filed and pushed [the infamous “look and feel” lawsuit against Microsoft](https://en.wikipedia.org/wiki/Apple_Computer,_Inc._v._Microsoft_Corp.). One year out from the launch of Windows 95 — which at least looked pretty good[4](#fn4-2026-07-18) — Apple’s response was to try to argue in court that they owned the copyright and patent rights to the very concepts of the GUI and the desktop metaphor. The court handed Apple its ass. Apple soon found itself 90 days away from bankruptcy and in desperate need of a new modern operating system, which they themselves had proven incapable of creating. Windows 95 launched with such anticipation that customers lined up overnight outside retail stores to buy it the morning it launched.\n\nThat lawsuit was the low point in the entirety of Apple’s history. It was incoherent and, worse, pathetic. Incoherent because Apple was simultaneously arguing in marketing that the Mac remained vastly superior to Windows (“[C:\\ONGRTLNS.W95](https://aaplinvestors.net/marketing/win95/)”), while arguing in court that Windows was a feature-for-feature clone. It couldn’t be both. I would argue that the former was true — the Mac remained superior in many ways — but actions speak louder than words and Apple’s *action* was to sue Microsoft and lose. It was pathetic because you know who loses? Losers.\n\nThe correct response to the competitive threat of Windows wasn’t to futilely attempt to argue that Windows should not be allowed to exist. It was to make the Macintosh so much better than it already was — to inject so much new innovative insane greatness — that customers would line up overnight to buy *Mac* software (and watch *Apple* keynotes). What Microsoft had in 1995 that Apple could not muster was vast customer enthusiasm. That cannot be bought. It cannot be faked. It can only be earned. And you sure as shit cannot stop it with a lawsuit.\n\nEarning that sort of consumer enthusiasm — in spades — is exactly how Steve Jobs pulled Apple out of its nosedive. It took the better part of a decade.\n\nWhen Apple announced [this new lawsuit](https://daringfireball.net/linked/2026/07/10/apple-sues-openai) last week against OpenAI, I wondered, at first, whether it had a whiff of that 1994 look-and-feel loser desperation. Is it Apple’s position that the only way to stop its talent exodus to OpenAI is in court? Upon consideration, I think not. First, it’s not incoherent. There’s no conflict between what Apple is saying about its products or itself as a company that is at odds with this lawsuit. They’re just saying, “*Fuck you, you goddamn traitors. You want to fuck with us? We’ll fuck with you.*” When you poke a bear — [400 times](https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/) — you better be ready for the bear to eventually react.\n\nFurther, while Apple can only have one CEO at a time, and that CEO remains Tim Cook until September 1, there’s no way that John Ternus doesn’t fully approve of this lawsuit. Cook has gone out of his way to leave Ternus with a clean plate. It would be insane to file this suit six weeks ahead of Ternus taking the helm if Ternus is anything short of fully on board. \n\nI’m not saying it’s a good look for Apple. I’m certainly passing no judgment on the merits of the case, which OpenAI hasn’t yet responded to legally. But it is a very different and much more *emotional* reaction than we’ve seen under Tim Cook. Those anti-poaching emails Steve Jobs sent to Adobe, Palm, [and Google](https://www.reuters.com/article/technology/steve-jobs-told-google-to-stop-poaching-workers-idUSTRE80Q275/) weren’t good looks for Apple either. But that doesn’t mean they were bad for Apple. A bad look can be a good thing. Passion is powerful, and in and of itself, inspiring. This is a passion-fueled lawsuit. I saw some commentators speculate that, already hemorrhaging cash on a daily basis, OpenAI will surely spew some of that in the direction of Cupertino and just settle it. But Apple doesn’t need cash. This is a lawsuit that I believe OpenAI cannot settle, because there is no settlement Apple would accept short of a dissolution of their entire hardware division.\n\nApple claims [in their complaint](https://daringfireball.net/misc/2026/06/Apple_Inc._v._Chang_Liu_et_al.pdf) that the trade-secret chicanery they’ve already documented “is the tip of the iceberg”. If Apple is wrong, and OpenAI has recruited above the board and hired 400 former Apple employees fair and square (or even just mostly fair and mostly square), they have nothing to fear, and John Ternus will look like a petty little jealous bitch, and a feckless one at that. If Apple is right, however, all bets are off. I said earlier that rules are only followed by those who fear the penalties. But some never consider the penalties in the first place because they believe the rules don’t apply to them. Sometimes they find out otherwise.\n\nI’m not saying OpenAI cannot win. I’m saying they can’t get Apple to settle — at least not until Apple is satisfied the whole iceberg has been revealed [through discovery](https://daringfireball.net/linked/2026/07/18/apple-letters-to-openai-employees). Until then, John Ternus’s offer to Sam Altman is nothing — [not even the fee for the gaming license](https://www.youtube.com/watch?v=wPmTp9up26w), which he would like Altman to put up.",
+        "url": "https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-07-19T00:38:17.000Z",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "email encryption",
+        "summary": "Email, one of the most pervasive and enduring technologies of computer\nnetworking, was invented in about a dozen places by dozens of people in the\n1960s. It's hard to lay out a clear history of the te",
+        "content": "Email, one of the most pervasive and enduring technologies of computer\nnetworking, was invented in about a dozen places by dozens of people in the\n1960s. It's hard to lay out a clear history of the technology because it's just\nso obvious—pretty much as soon as more than one person could use a computer,\nthere was some kind of mail facility. These ranged from mainframe-centric\nsystems where all of the users of a single computer could write messages to each\nother, to PC-centric systems where workstations would mount a network share to\nstore and retrieve messages. Pretty much any scheme you can come up with for\nmoving messages was probably in use somewhere from roughly the 1960s to the\n1990s, by which time the ARPANET-derived family of email implementations had\ntaken hold.\n\nThis form of email has a clearer heritage, to Ray Tomlinson, who came up with\nthe core idea that addresses could identify both a user and a host, and that\nsome kind of open protocol could be used to send messages to another host when\nnecessary. Over time, and with many revisions, Tomlinson's design became SMTP\nand was joined by protocols like IMAP that built out the form of email we use\ntoday. This is a form of email that is in some ways decentralized (any user is\nfree to choose a host) and in other ways centralized (each host assumed to be\ncontinuously online to store-and-forward messages for its users). Tomlinson's\ndesign was flexible enough that we have not had to totally get rid of it, but\nenough has changed about the modern Internet that we have had to take a new\napproach.\n\nEmail has many vexing limitations, artifacts of its age. For example, email\nhandling should not be assumed to be \"8-bit clean\"—email protocols were\noriginally defined over 7-bit ASCII and ran on many machines that used the\neighth bit as a checksum. These machines were prone to changing the last bit of\neach byte, or otherwise mishandling email with 8-bit content. That wasn't a\nproblem when text was completely limited to that 7-bit plane, but both Unicode\nand the desire to send binary files made 7-bit email unworkable. MIME was\ndeveloped as a workaround, an encoding technique that solves a few problems in\none go by encoding all non-ASCII content of email in the form of ASCII\ncharacters.\n\nThis is rather inelegant. MIME's ASCII encoding, whether quoted-printable style\nor base64 style, is annoying for humans to read and inefficient with regard to\nmessage size. As with all base64-like encodings, it counts as a *suspicious\nsmell,* an indication that we are papering over past mistakes. Email is full of\nthem. Let's consider another: security.\n\n\"Internet email,\" a term we can use to try to explicitly specify the SMTP-type\nemail system inherited from ARPANET, uses a simple design that dates to an era\nwhen the operators of networked computers all knew each other. While there were\nother possibilities, most email was delivered directly to the computer of the\nrecipient, and in a lot of cases the host-level security of the era wasn't very\ngood either. The possibility that someone else could read your private email was\nknown and there wasn't a whole lot you could do about it. The internet existed\nwithin a context of trust.\n\nWe don't extend that same trust today. Email is usually handled by third-party\nmail services on either end, which are not necessarily trustworthy, and to get\nbetween the two third-party mail services it has to pass through a series of\ninternet links that are also of questionable security. Email became one of the first,\nprobably *the* first, compelling application of large-scale computer networking.\nIt may have also been the first of the field's enduring security failures. The\nsystem was designed with no concern for message confidentiality or integrity,\nand much of it still operates that way today.\n\nStill, there's a long history of efforts to improve email security, and we\nshould probably start the story with the greatest of all: not just an email\nprotocol, but an entire stack of protocols that promised a better internet in\ngeneral: the OSI suite.\n\n## X.400\n\nThe modern internet was born of an era often called the \"protocol wars.\" When we\ntell the story of the internet today, we tend to simplify it to a nice linear\ntale in which ARPANET was created, everyone thought it was a good idea, and it\nproliferated. That's not totally wrong, but it leaves out a lot of the other\nactors. The telecom industry famously had its objections to the packet-switched\nmodel, which had originated from the computer industry rather than the\ncommunications industry and showed it. During the 1970s and 1980s, the telecom\nindustry defined its own set of network protocols, and fundamental approach to\ncomputer networking, which came to be known as the OSI protocol suite.\n\nToday, the relevance of the OSI protocols is limited to the frustrating\ninsistence of modern networking textbooks on trying to explain the internet in\nterms of the [\"OSI model,\"](https://computer.rip/2021-03-27-the-actual-osi-model.html) a now more speculative than actual layer model that\ndescribes a different system incompatible with the internet. The reason that\nacademia has this weird fixation on using the design documentation of a failed\ninternet to explain the fundamentally different architecture of the other\ninternet that succeeded... well, that itself is fallout of the protocol wars.\nHistory may be written by the victors, but the losers still get to dictate\ntheory.\n\nDespite my ongoing project to discourage the use of the OSI model for learning,\nwe can indeed learn from the OSI protocols. The reasons that the TCP/IP stack\nsucceeded over the OSI stack are many, one of them being that OSI's \"design by\ncommittee\" approach led to a set of protocols that are very thoroughly thought\nout but quite complex. This is a big difference from the internet protocols,\nwhose design philosophy was closer to \"good enough for now.\"\n\nThe difference in philosophy is especially stark when we look at the\napplication-layer protocols. The \"internet protocol suite\" as it is\nconventionally defined does not include application protocols at all, itself a\ntelling fact. The OSI suite does. Internet email started out as a special-case\nuse of [FTP](https://computer.rip/2020-05-20-file-transfer-pseudoprotocol.html),\nbefore moving over to a loose set of commands over Telnet that eventually\nformalized (or ossified, depending on who you ask) into SMTP.\n\nBy the time the OSI standards were published in 1984, it was known that email\nwas one of the killer applications—the first revision of SMTP was published in\n1982, a post-facto response to the popularity of email on the internet, and\nbesides, email had been a key feature of most proprietary networking systems\nsince the 1970s. So, OSI had a solution: X.400.\n\nX.400 is the \"Message Handling System\" part of the OSI suite, and provides\nfeatures which are recognizable as email but also a bit more generalized. X.400\nwas, in most regards, a failure. It was unsuccessful in displacing internet\nemail in almost all environments. Still, X.400 was decidedly influential. There\nwas a period, albeit brief, in which it was thought that major governments\nwould require X.400 compatibility in future purchasing. This was similar, and\nhad a similar effect, to the period where POSIX-compatibility was a government\nrequirement: a lot of vendors designed their products to meet the requirement,\nthe government lost interest, and it became a curious legacy. In email, this is\nmost obvious in the form of Microsoft Exchange: Exchange started out as an X.400\nimplementation, mostly for government reasons, and still provides a lot of X.400\nfeatures.\n\nX.400 is vastly more complex than internet email. For example, the encoding of\nX.400 messages is ASN.1, a binary serialization format that is more efficient\nand capable than MIME but also a lot more complicated. That X.400 has complexity\nstacked on top of complexity is useful in understanding why one of X.400's most\ncompelling features didn't go very far: encryption.\n\nIf you are sending an email to someone, and you don't want anyone else to read\nit, the most obvious approach is end-to-end encryption. For many practical\nreasons, you'll want to use asymmetric encryption. You find a public key for\nthe recipient, encrypt the message to that key, and then send it over the wire\nas usual. The recipient then decrypts it with their private key. Simple enough,\nexcept that every part of this process is laden with complexity.\n\nTo underscore that point, let's take a look at X.400 itself—the 1988 \"Blue Book\"\nversion, which seems most appropriate to when email was ossifying.\n\n> Aspects of an asymmetric key management scheme to support the above features\n> are provided by the directory system authentication framework, described in\n> Recommendation X.509. The directory stores certified copies of public keys for\n> MHS users which can be used to provide authentication and to facilitate key\n> exchange for use in data confidentiality and data integrity mechanisms. The\n> certificates can be read from the directory using the directory access\n> protocol described in Recommendation X.519.\n\n> Recommendations for other types of key management schemes, including symmetric\n> encryption, to support the security features are for further study.\n\nEnd-to-end encrypted email requires two basic parts:\n\nFirst, there must be a technical format for moving encrypted messages through\nthe message transfer system. X.400 handily resolves this by the use of ASN.1\ndefinitions that allow for encrypted messages bodies, thus making most of that\nsomeone else's problem. X.400 actually contemplated a lot more when it comes to\nsecurity features, things like non-repudiation of delivery, that required more\ncomplexity in message transfer but didn't make it to the modern day. We'll just\nignore those for now.\n\nSecond, there has to be a key infrastructure. You need some way of obtaining a\npublic key for the person you want to send a message, and of being sure that it\nreally belongs to them. This is important both for encrypting outbound email and\nfor authenticating inbound email, since end-to-end encryption is usually\ndeployed alongside end-to-end authentication using the same cryptographic\ninfrastructure. In the case of X.400, that whole problem is deferred to the\nX.500 family of protocols.\n\nWhat is X.500? It's our old friend, [directory access protocol](https://computer.rip/2021-05-10-lightweight-as-in-ldap.html). The X.500 directory standards are the\ncomparison by which LDAP is \"lightweight,\" and there is a parallel story: LDAP\nis the scrappy internet protocol that won against the X.500 Goliath. \n\nSo the gist of X.400 email security is this: use the directory to look up the\nrecipient's public key, and then encrypt the body of the ASN.1 message object\nto that key. In actuality, the details are different and more complicated, but\nthat goes for everything OSI and the simplified sketch here is enough to get the\ngist. It's straightforward. \n\nThere are just two problems: ASN.1 as a format for messages did not succeed, and\nthe concept of a global directory never materialized.\n\nTo the extent that X.400 succeeded, its security features were actually a big\nmotivation. The ISODE Consortium, which had created something like a reference\nimplementation of much of the OSI application suite, is still around today as\nIsode Ltd and still sells a message handling system. There are a few other\nmaintained X.400 descendants as well. One of the largest customer bases is\nmilitary: while less common in the US (keep in mind that *internet email* was\noriginally developed under the aegis of the US military), a number of European\ncountries adopted X.400 as their secure messaging solution and still have\nextensive reliance on it in military and intelligence organizations. Other\nenduring strongholds of X.400 include global aviation (ICAO's messaging system\nis X.400-based) and electronic data interchange, or EDI, a standardized system\nof financial and supply chain messaging between ERPs.\n\nIt is no coincidence that\nthese are the same kinds of applications where protocols like X.25 survived\nunusually late (indicating a high affinity to long-running, legacy systems) and\nthat they are contexts where the participants and messaging are governed by a\ncentral entity. That means that a directory exists, which means that the key\ndistribution problem is vastly simplified. It also means that the software in\nuse, both transfer agents (e.g. servers) and clients, are standardized and\nusually purchased from vendors that have specifically designed them to work well\nin an X.400 environment.\n\nIn other words, they are contexts that are very different from email, in which\npeople exchange messages between a huge number of organizations and many users\nare simply on \"mail providers\" that are not an organization in a traditional\nsense. This means that there is no meaningful directory capability in the email\nsystem. Email is also used with a hugely diverse landscape of clients, imposing\na steep penalty on the \"complicated message encoding that requires interaction\nwith a complicated directory system\" part of the design.\n\nSince X.400 proved a nonstarter in *most* of the email world, what about\nencryption for the rest of us? Well, this situation gets complicated and sad.\n\n## MIME\n\nFirst, it's helpful to expand a bit on the involvement of MIME, the Multipurpose\nInternet Mail Extensions. MIME originated as a solution to the 8-bit problem\nwith internet email, as a way to encode non-ASCII text and binary files in a\nconsistent, reliable way. Along the way to achieving this aim, it introduces\nthe concept of a \"multipart\" message which has multiple distinct objects as a\nbody instead of just one string of text. We use this multipart feature heavily\ntoday, both for obvious applications like file attachments and for more subtle\nones like HTML emails that provide a plaintext variant. I don't think it's\ntotally wrong to summarize MIME as \"email 2.0,\" because while it is limited in\nscope to the message format (not changing the transport protocols), MIME adds a\nlot of new functionality to email that we now consider basic requirements for a\nmessaging system.\n\nThe history of MIME has a lot more twists and turns than you might expect, which\nreflects the difficulty of making major changes to a system as distributed and\nheterogeneous as internet email. Still, the MIME authors seem to have had a\nsimilar view that MIME was a significant evolution of email by standardizing\nmessage bodies and paving the way for future extensions to that standard, adding\nnew functionality. This quote from RFC 1521 (1993), the first MIME standard, is\ninformative:\n\n> STD 11, RFC 822 defines a message representation protocol which specifies\n> considerable detail about message headers, but which leaves the message\n> content, or message body, as flat ASCII text.  This document redefines the\n> format of message bodies to allow multi-part textual and non-textual message\n> bodies to be represented and exchanged without loss of information. This is\n> based on earlier work documented in RFC 934 and STD 11, RFC 1049, but extends\n> and revises that work.  Because RFC 822 said so little about message bodies,\n> this document is largely orthogonal to (rather than a revision of) RFC 822.\n\nIn other words, existing email standards addressed how messages are conveyed\nbetween hosts, but did little to address what would actually go into those\nmessages. MIME addresses that problem by creating a proper standard for message\nbodies, one that adds features while contending with the unfortunate limitations\nof the many pre-MIME email implementations. The many RFCs around the general\ntopic of MIME (and other proposals for email body formats) spend a lot of time\ncontemplating how these new message types would be handled by email clients that\ndid not understand them. Email technology is generally easy, email standards are\nhard.\n\n## PGP\n\nAs these standards efforts marched on, the fast-growing field of computer\ncryptography had its own ideas. The first major event was cryptographer Phil\nZimmerman's unceremonious 1991 release of a tool called PGP, or Pretty Good\nPrivacy. The story of PGP is a long one, jumping from a casual release to an\nactivist Usenet group to criminal charges to the foundation of PGP Inc to\ncommercialize the system.\n\nThe funny thing is that PGP itself is not that important to the story of PGP.\nDespite the corporate ambitions of the company bearing that name, PGP started as\na loosely academic or activist project, and it ended up that way in the long\nterm as the open-source clone GnuPG (GPG) displaced PGP in the marketplace.\nPGP Inc became part of Symantec and faded into the obscurity that most Symantec\nproducts do. Along the way, PGP and GPG implementations rode the roller coaster\nthat was 1990s cryptography, swerving from algorithm to algorithm and growing a\ncomplex cipher selection system along the way.\n\nPGP was a general encryption tool and could be used for files or messages of any\nkind, but email was a key application. So how is a PGP-encrypted email actually\nconveyed? Well, it's not exactly pretty, but it aligns with the other messes\nwe've already seen. PGP typically outputs ciphertext as either binary data or in\na format called \"ASCII-armored,\" which is base64 except with an optional CRC\nchecksum trailer (which was deprecated decades ago). This is very similar to the\nPEM format widely used with modern cryptographic applications, and not by\ncoincidence: PEM stands for Privacy-Enhanced Mail and is itself an artifact of\na failed email encryption standard that produced quite a few RFCs. PGP's email\napplication and PEM were under development just about simultaneously, and there\nwas definitely cross-pollination of ideas between the two. PGP won, but not\nwithout taking parts of PEM along for the ride.\n\nIn practice, ASCII-armored PGP payloads are sent one of two ways: first is\n\"inline\" format in which each part of a MIME-encoded email is separately\nencrypted and have otherwise usual MIME types (e.g. application/octet-stream),\nso that non-PGP-capable email clients will treat them as opaque files that the\nuser can save off and process with a separate tool. The second approach is the\n\"MIME\" format in which the entire MIME-encoded email is encrypted whole and\ndropped into a new MIME document with the type \"application/pgp-encrypted.\" The\nlatter has better security properties (less metadata leakage) and tends to be\nmore user-friendly and elegant in clients that are designed with PGP in mind,\nbut fails very badly in non-PGP-capable clients which are not even able to\nseparate out attachments. You can still process the email with an external PGP\ntool by saving off the whole body, MIME-decoding, decrypting, and MIME-decoding\nagain, but you get a little frustrated just reading that, don't you?\n\nToday, this mess has become one of the two main criticisms of PGP. PGP is not the\nresult of a huge, multi-party standards effort like X.400, but rather the\nproduct of a small group of people taking a pragmatic approach. Nonetheless, it\ngrew up in the same climate and so survived with most of the same scars. From\nbottom to top, PGP is very complicated. Almost every part of PGP-encrypted email\nhas multiple options, some of which are known to be insecure. Modern tools\nmostly follow sane defaults, but plenty of older tools remain in use. Key tools\nlike gpg itself show their age with some of the least user-friendly interfaces\never designed. The immense difficulty faced by PGP users was the subject of\nseminal 1999 \"usable security\" paper \"Why Johnny Can't Encrypt\" (the paper that\nmore or less invented the field of \"usable security\"), and most of the\ncriticisms raised in that paper are still true of PGP implementations 27 years\nlater.\n\nAnd that brings us to the second aspect of PGP, key distribution. We've seen, at\nleast in sketch form, how PGP email is conveyed, the first challenge of\nencrypted email. But what of the second challenge—is PGP for use with a\ndirectory system? Well, the earliest examples of PGP de facto were, because they\ndid not address key distribution at all. Very early on, though, PGP gained a\nnovel concept called a \"web of trust.\" The web of trust, or WOT, is\nsimultaneously one of computer security's most intriguing and appealing\nconcepts and one of its most inane and stupid. I'll try to explain it\nsuccinctly.\n\nYou are Alice, and you want to send an email to Bob. The \"why\" is not important,\nthese are timeless characters of cryptographic explanations and they have a\ntimeless need to securely exchange messages. If you know Bob in person, say\nbecause you are colleagues at an institution, the key distribution problem is\nsimple. You can perform calculations on a key, like a checksum, to produce a\n\"fingerprint\" which is unique to the key and short enough to not be completely\nimpractical to read by eye. You, Alice, walk over to Bob's office and ask to see\nthe fingerprint of his key. You write that down on a sticky note, and then in\nthe future, you make sure to encrypt your emails to Bob using a public key that\nhas that correct fingerprint. Easy as pie so far, but that doesn't scale well to\nsituations where Bob is not within walking distance.\n\nAnd so the \"web\" enters: Bob may not be conveniently accessible to Alice\nbecause, say, he works somewhere else, but Alice's coworker Charlie might have\nbeen at a conference with Bob a few months ago. If Charlie took down Bob's\nkey fingerprint, he can give Alice a copy when he gets back. Since Alice knows\nCharlie and believes him to be trustworthy, this is a pretty good substitute for\ngetting the fingerprint straight from the horse's mouth.\n\nPGP's WOT model encodes this sneakernet approach to key distribution into a\nsoftware implementation. A PGP user can \"sign\" another user's key, a way of\ncryptographically attesting that they believe that to be the correct key. These\nsignatures are uploaded to public \"keyservers\" that allow anyone to query for a\nkey and for the set of signatures it has received. If there are enough keys with\nenough signatures, you can treat the whole thing as a graph and try to find\n\"trust paths\" between Alice and Bob, even if doing so requires six degrees of\nseparation[1](#fn-1). The tangled interconnection of keys and signatures verifying\nthem forms a web: the web of trust.\n\nIn practice, the tide seems to have turned against the WOT model by the 2010s,\nand today it has been completely abandoned. It didn't scale as well as its\nproponents had hoped, usability problems with the tooling discouraged\nparticipation, and both the implementation and concept were complex enough that\npoor user understanding undermined the benefits. Today the WOT has fundamental\nproblems (mostly related to the open keyservers) that have made it practically\nunusable, and I think it is fair to call it a failed experiment. Further\nextending that fairness, we should note that the WOT was surely an inspiration\nfor the vastly simplified key verification schemes that appear in most modern\nend-to-end encrypted messengers.\n\nFrom its messy academic origins to its transformation into an open project, PGP\nenjoyed a lot of prominence in academic and \"cypherpunk\" communities during the\n1990s and 2000s, but was less common in corporate environments. The WOT model\nonly made sense in the absence of a centrally maintained directory, and while\nPGP could be used with a directory it was not the path espoused by its\nadvocates. PGP was mostly used among researchers and hobbyists, the\ncryptographic establishment. In the Enterprise, there was another player:\nS/MIME.\n\n## S/MIME\n\nS/MIME originated with RSA Security, the company founded to commercialize the\nRSA encryption algorithm. RSA Security survives today as a subsidiary of\nteacher's pension funds, although its prominence in the industry has generally\ndeclined. Back in the 1990s, RSA was on the cutting edge, so 1996's introduction\nof an RSA solution for email encryption got quick attention from industry.\n\nOver the following two years, RSA's product evolved into an IETF standard called\nS/MIME, for Secure MIME. S/MIME saw a series of new versions up to the present\nday, and is exceptionally rare in the academic and hobbyist world but fairly\ncommon in corporate and government environments, especially with Microsoft\nExchange (having adopted S/MIME as its secure email option of choice after the\nfailure of X.400 to take over inter-organization mail). Let's see how S/MIME\nhandles the first challenge of encrypted email, encoding the message for\ntransport.\n\nWell, as the name suggests, MIME is involved. The simple sketch is like this:\nan email is prepared as a MIME document, which is then encrypted into the form\nof a PKCS#7 document. PKCS, the Public Key Cryptography Standards, refer to a\nseries of open standards memos published by RSA Security. PKCS#7 describes\n\"Cryptographic Message Syntax\" or CMS, a standard container for an encrypted\npayload along with various metadata. In the terminology of the time, S/MIME is\nsaid to \"enhance\" messages with the \"security services\" of PKCS#7. We still use\nthe term PKCS#7 today, mostly to refer to cryptographic certificates serialized\nin that format. For email, on the other hand, PKCS#7 has been superseded by an\nIETF standard called simply \"CMS.\"\n\nThe CMS version of the email, which remember is an encrypted MIME document plus\ncryptosystem-related metadata, is then encoded as PEM (functionally Base64) and\nmade the body of a MIME email with a type of \"application/pkcs7-mime\" (yes, I\njust said that PKCS#7 is gone from this application, but naturally the name has\nstayed). This is pretty much equivalent to the MIME version of PGP emails, and\nhas basically the same upsides and downsides: it's relatively elegant and avoids\na lot of weird edge cases in clients that support it, but it's quite hostile\nto clients without S/MIME support, which will be unable to make anything of the\nmessage. It also keeps many of the general downsides of MIME, and for example\nthe RFC has to spend some paragraphs justifying why binary data is base64d and\nthen converted to binary and then base64d again. Not having the extra layers of\nbase64 involved would break interoperability scenarios with non-S/MIME tools!\n\nOverall, S/MIME isn't that dissimilar from PGP in this regard, although I would\nsay that it is overall simpler and better standardized. That is not to say that\nit is \"simple\" or \"well-standardized,\" these are only relative observations.\nS/MIME implementations are still quite complex, and interoperability problems\ncan appear even between organizations running the same software, due to the many\nconfiguration knobs involved. RFC 2311 includes this gem, to give some of the\nflavor of it:\n\n> S/MIME provides one format for enveloped-only data, several formats for\n> signed-only data, and several formats for signed and enveloped data. Several\n> formats are required to accommodate several environments, in particular for\n> signed messages. The criteria for choosing among these formats are also\n> described.\n\n\"Several formats are required to accommodate several environments\" is the story\nof email in a nutshell... if not all of computing.\n\nLet's consider the second aspect of the encrypted email problem, then: key\ndistribution. Here, S/MIME takes a very X.400 style dodge. The original S/MIME\nstandards documents, as far as I can tell, do not address key distribution in\nany way except for oblique and incidental references like \"validating the\ncertificate to a trust anchor.\" This seems odd except in the context of S/MIME's\ndevelopment by RSA Security and, as it became an IETF standard, Netscape—the\nbirthplace of SSL. S/MIME was intended for use with the PKI, the Public Key\nInfrastructure, which has a nuanced and sometimes vague history but fell out of\na combination of X.500 concepts and implementation work by companies including\nRSA Security and Netscape. In other words, S/MIME grew up alongside SSL/TLS, and\nuses the same key distribution architecture.\n\nS/MIME emails are expected to provide the certificates that go along with the\nkeys used (one of the reasons for the CMS container format), and those\ncertificates are supposed to be signed by a Certificate Authority.\n\nI put a lot of time into writing this, and I hope that you enjoy reading\nit. If you can spare a few dollars, consider [supporting me on\nko-fi](https://ko-fi.com/jbcrawford). You'll receive an occasional extra,\nsubscribers-only post, and defray the costs of providing artisanal, hand-built\nworld wide web directly from Albuquerque, New Mexico.\n\nThis is not exactly the same as saying that keys will be retrieved from a\ndirectory, but if you remember that the X.500 that gave us these concepts was\nitself supposed to be *the directory,* you can see that they are closely\nrelated ideas. In practice, they are often pretty much the same: a classic\nreal-world application of S/MIME is in a Microsoft Active Directory environment,\nwhere the Domain Controller acts both as a directory (LDAP) and as a Certificate\nAuthority, signing certificates for the users that populate that directory. This\nmeans that key retrieval from LDAP vs. certificate verification against the (AD)\nCA are pretty much the same thing, and you have the same assumptions around\nthere being some sort of central authority to maintain the directory.\n\nThis means that S/MIME thrives in the same places that X.400 was more\nsuccessful. The US military, birthplace of internet email, opts for S/MIME for\nencrypting it. They have a truly enormous Exchange and Active Directory\nenvironment to this end. Once those emails leave the military, the whole thing\nbecomes a huge hassle, because properly using S/MIME requires establishing some\nform of federation with the military's Active Directory domain... or at least\nimporting their CA as trusted, which is not all that easy with most mail\nclients.\n\n## Today\n\nSo here we have the classical email encryption landscape: there are two major\noptions, PGP and S/MIME, each of which is unsuitable for most users for its own\nspecial reasons. Out of this frustrating stalemate, several other phenomenon\nhave emerged.\n\nFirst, we should briefly touch on \"modern\" email encryption, where \"modern\" can\nbecome a bit of a euphemism for \"proprietary.\" There is a new set of email\nproviders that offer some kind of built-in, managed E2E. Protonmail is the most\nprominent. Protonmail's dominant E2E encryption implementation is a proprietary,\nsimplified system that relies on Protonmail as key directory and cryptographic\nimplementation. This is not interoperable with other email providers, so I do\nnot consider it a true form of \"email encryption,\" but rather a proprietary\nencrypted messaging product offered alongside email. Protonmail does have two\nfeatures for sending secure email to non-Protonmail recipients: the first is\nessentially a compatibility layer to PGP that allows Protonmail's encryption to\nget along with PGP tools. The second is a traditional compliance-driven \"secure\nemail\" product where the recipient is actually sent a link to a website where\nthey can enter a password to retrieve the message—once again, not really email\nbut a separate product that loosely works with email.\n\nSecond, let's talk a bit about how email is really encrypted, in real reality,\nbecause there is this huge, grand-canyon-esque disconnect between the way that\npeople discuss email encryption and what actually happens in the real world.\nLet's start taking that on by differentiating some terms: so far I have\ndiscussed end-to-end or E2E encryption, which is not exactly a well-defined\ntechnical term but generally means that a single encrypted payload travels\nunmodified and undecrypted from a human user to a human user. This can be\ndistinguished from non-E2E encryption, where a message might be encrypted and\ndecrypted several times, and using keys controlled by people other than the\nsender and recipient. We should also note the distinction between \"encryption\nat rest,\" whether or not data is encrypted when stored (e.g. on disk), and\n\"encryption in transit,\" or whether or not data is encrypted when sent over the\nnetwork.\n\nEmail is exchanged between email servers using SMTP, and is exchanged between\nemail servers and clients using IMAP [2](#fn-2). Both of these protocols are now\nwidely used over encryption, either using the STARTTLS method or \"real\" TLS, a\ndistinction that I will not explain right now. While I lack solid data, it seems\nlike a safe bet that the vast majority of real-world email is encrypted in\ntransit, because at least the mail server logs that I have access to show the\nvast majority of mail servers using STARTTLS to secure their transfer\nconnections. Client configuration is a more confusing topic but everything other\nthan IMAP over TLS is now generally regarded as a big mistake, and modern\nclients should aggressively steer the user towards that route.\n\nThis is a confusing contradiction: we have had this big, long, boring discussion\nof how email encryption has failed to go anywhere. Then I tell you that almost\nall email is encrypted. What gives?\n\nTo start, remember our \"in transit vs. at rest, and E2E vs. not-E2E, distinctions.\nThe fact that the network connections between email participants are generally\nencrypted gives us a lot of security advantages, but it does not address the\nfull scope of requirements that PGP and S/MIME do. Your email is not secure from\nyour email provider, or the recipient's email provider for that matter, since\nemail is usually not encrypted at rest and the provider has all the keys anyway.\nIt also does not provide integrity protection, or non-repudiation, or any of a\nnumber of other useful security properties.\n\nWhat's even worse is the technical reality. I pointed out that one of the big\ncriticisms of PGP is that it is simply too complicated and provides too many\noptions. This resulted in a litany of defects in PGP implementations over the\nyears, and no small amount of insecure user behavior due to lack of usability.\nIn-transit email encryption has very similar problems. STARTTLS, for example, is\na fundamentally opportunistic mechanism. In its original form, an on-path\nattacker attempting to intercept an SMTP session can simply hijack it and\nsuppress the STARTTLS offers from the two sides, preventing them ever\nnegotiating a switch to encryption. This simple \"downgrade attack\" is a\npervasive problem, and it's the main reason that I say that anything other than\ntrue TLS is a mistake. Unfortunately, STARTTLS is the most widespread option\navailable for inter-provider email transfer.\n\nThat said, there are ways to address this problem. For example, DANE, the\nDNS-based scheme for TLS certificate distribution, has failed in the HTTP arena\nbut has decent adoption (although very far from universal) in email transfer.\nIt does a good job of providing mail servers with a way to discover that their\npeers are capable of encryption, without doing so over the SMTP channel itself.\nEven without DNSSEC to fully protect the DANE channel, this is an improvement\nthat prevents many common attack scenarios. There is an even more popular\napproach that, while clumsy, avoids the dependence on DNSSEC to avoid a *second*\non-path attack on the key channel: MTA-STS. MTA-STS is similar to DANE in that\nit provides an independent channel for a mail server to find if a peer supports\nTLS, but it uses HTTPS for that second channel, thus inheriting the protections\nof CA-rooted TLS.\n\nBoth DANE and MTA-STS are ways of \"tipping\" a mail server that a peer has\nSTARTTLS support, at which point the mail server knows that it should *only*\nconnect via STARTTLS, even if the mail server on the actual SMTP channel claims\nnot to support it. While the extra moving parts are unfortunate, this does a lot\nto close the downgrade attack window, and email transferred between mail\nproviders with DANE or MTA-STS support is really pretty well secured, at least\non par with most instant messaging solutions.\n\nThis also implies that you can improve your email security a lot by just\nmanually pinning major peers—e.g. configuring your mail server that, regardless\nof everything else, connections to major providers like gmail.com *must be\nencrypted*. This is actually a pretty common practice in some industries,\nincluding internal processes to maintain the list of \"secure email destinations\"\nso that it includes business partners and other frequent recipients.\n\nIn some industries, this is taken to an extreme: within the healthcare sector,\nfor example, there are healthcare information exchanges that operate secure\nmessaging platforms that are mostly just conventional email servers configured\nto refuse any non-TLS SMTP exchanges. This is sufficient to meet NIST 800-43\nrecommendations which is sufficient to meet the NIST security architecture for\nhealthcare information. That might be surprising to you but it illustrates how\nthis topic gets confusing: we all know that \"email is not secure,\" but that's\nreally a *configuration problem* with the \"public\" email system rather than a\ntechnical limitation. Few compliance standards actually require E2E, and\nsecuring email in transit and at rest, once you drop the E2E requirement, is so\neasy that it sometimes happens just by default when SMTP servers have STARTTLS\nsupport and disk encryption.\n\nIf you look at healthcare marketing materials, you'll sometimes see STARTTLS and\nS/MIME described as *alternatives to each other*. This doesn't make much\ntechnical sense, but you have to think about the context. If you have to\ncommunicate over mail servers whose configuration you do not control (or at\nleast have insight into), you don't have a way of ensuring that your messages\nwill be encrypted in transit unless you use E2E encryption such as S/MIME. If\nyou are sending mail between servers that you *do* control, though, you can\nensure encryption in transit by configuring the mail servers that way, and you\ndo *not* need E2E encryption to meet that specific aim. Taken in this view, E2E\nencryption is almost a workaround for a defect of the design of email, and if\nyou have taken anything from this longer than expected journey I hope it will be\nthat: the history of encrypted email is so odd, and full of so many false\nstarts, because it is basically the history of E2E encryption as an overlay\n\"fix\" for email's lack of the level of security provided by newer messaging\nsolutions out of the box.\n\nThis also helps to explain the lack of adoption: it's not really that we can't\nfigure out how to encrypt email, we *do* encrypt email. But as with most\ncommunications technology, the \"security layer\" has been pushed onto the service\nproviders rather than the users. This has significant downsides, since it\nrequires trust in those service providers, but one huge, conspicuous upside:\nif encryption is transparent to the user, people will actually use it.",
+        "url": "https://computer.rip/2026-07-19-email-encryption.html",
+        "source": "computers are bad",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "19 Jul 2026 00:00:00 UT",
+        "reading_time": 33,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Claude Code uses Bun written in Rust now - 19th July 2026 In [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust) Jarred Sumner...",
+    "AI Mania Is Eviscerating Global Decision-Making - 19th July 2026 - Link Blog **[AI Mania Is Eviscerating Global Decision-Making](https://lud...",
+    "9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil - ![Apple App Store Brazil Brazilian regulator](https://9to5mac.com/wp-content/uploads/sites...",
+    "Paper - ## design incredible the connected canvas for teams shipping with agents Paper connects yo...",
+    "★ Mornings in Cupertino Have the Aroma of Napalm Once Again - ## ‘It Seems You Have a Different Policy’ [Ben Thompson, in a subscriber-only Stratechery..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 5
+    },
+    {
+      "word": "words",
+      "count": 4
+    },
+    {
+      "word": "bun",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "blog",
+      "count": 4
+    },
+    {
+      "word": "regular",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "squares",
+      "count": 3
+    },
+    {
+      "word": "half",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "rust",
+      "count": 3
+    },
+    {
+      "word": "th",
+      "count": 3
+    },
+    {
+      "word": "mac",
+      "count": 3
+    },
+    {
+      "word": "dozens",
+      "count": 3
+    },
+    {
+      "word": "list",
+      "count": 2
+    },
+    {
+      "word": "add",
+      "count": 2
+    },
+    {
+      "word": "expressions",
+      "count": 2
+    },
+    {
+      "word": "low",
+      "count": 2
+    },
+    {
+      "word": "numbers",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "july",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "mania",
+      "count": 2
+    },
+    {
+      "word": "eviscerating",
+      "count": 2
+    },
+    {
+      "word": "global",
+      "count": 2
+    },
+    {
+      "word": "decision-making",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "store",
+      "count": 2
+    },
+    {
+      "word": "brazil",
+      "count": 2
+    },
+    {
+      "word": "paper",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "teams",
+      "count": 2
+    },
+    {
+      "word": "agents",
+      "count": 2
+    },
+    {
+      "word": "stratechery",
+      "count": 2
+    },
+    {
+      "word": "email",
+      "count": 2
+    }
+  ]
+}
