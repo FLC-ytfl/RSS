@@ -1,0 +1,634 @@
+{
+  "date": "2026-07-27",
+  "stats": {
+    "total_fetched": 272,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Counting permutations with roots",
+        "summary": "My post from yesterday on permutation roots ends with a Mathematica code for finding the probability that a permutation of n elements has a kth root. This is done by finding the coefficient of xn in the generating functi...",
+        "url": "https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 27 Jul 2026 16:03:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Printing floating point numbers in binary",
+        "summary": "It’s well known that you can convert the base 16 (hex) representation of an integer to the base 2 (binary) representation by simply converting each digit from hex to binary. For example, CAFEhex = 1100 1010 1111 1110two...",
+        "url": "https://www.johndcook.com/blog/2026/07/27/float-binary/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Mon, 27 Jul 2026 15:34:05 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6",
+        "summary": "Exception-safety, the invisible bug. The post Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6 appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Mon, 27 Jul 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Advantages and disadvantages of Windows NT 3.1",
+        "summary": "I’ve talked a lot about the advantages and disadvantages of old milestone operating systems. But what were the advantages and disadvantages of Windows NT 3.1, first released July 27, 1993? That’s a fair question, and the...",
+        "url": "https://dfarq.homeip.net/advantages-and-disadvantages-of-windows-nt-3-1/?utm_source=rss&utm_medium=rss&utm_campaign=advantages-and-disadvantages-of-windows-nt-3-1",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Mobile"
+        ],
+        "published_at": "Mon, 27 Jul 2026 11:00:38 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "We’re open-sourcing our privacy proxy CLI",
+        "summary": "pvcli is a curl-like tool designed to simplify the testing of complex privacy protocols like OHTTP.",
+        "url": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Product",
+          "Startup"
+        ],
+        "published_at": "Mon, 27 Jul 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-07-27T22:50:45.802Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "An opinionated guide to which AI to use to do stuff",
+        "summary": "27th July 2026 - Link Blog\n\n**[An opinionated guide to which AI to use to do stuff](https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22)**. It's interesting watching the evolution of",
+        "content": "27th July 2026 - Link Blog\n\n**[An opinionated guide to which AI to use to do stuff](https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22)**. It's interesting watching the evolution of Ethan Mollick's guide over time. \n\n[A year ago](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide) it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode.\n\nToday it's much more about agentic systems - \"where the AI is capable of doing the equivalent of many hours of real human work in one go\".\n\nGemini has fallen off Ethan's list, since Google still doesn’t have an established entry in the Codex/ChatGPT Work/Cowork category. [Gemini Spark](https://gemini.google/overview/agent/spark/) has yet to prove itself!\n\nEthan offers a useful explanation of the ways you can give ChatGPT or Claude a computer to use:\n\n> To use the computers provided by the AI companies, the mode you want is called ChatGPT Work in ChatGPT, and Cowork in Claude (the naming will not get less confusing, I am sorry to say). [...]\n\n> The most powerful way to use AI is to give it access to your computer. You do that by downloading the ChatGPT or Claude apps and picking a mode to use. ChatGPT's two agent modes are Work and Codex; Claude's are Cowork and Code. The names do not map onto each other in any way that will help you remember them. And yes, these use the same names as the Work and Cowork modes we discussed above, but operate differently, and have more features and capabilities because they can access your computer.\n\nI think the difference between ChatGPT Work on a mobile device and ChatGPT Work inside the desktop app (where it's effectively a less intimidating skin on top of Codex) is spectacularly unintuitive.\n\nShort version: if you flip ChatGPT mobile from \"Chat\" to \"Work\" mode you get a version where its Code Interpreter container is no longer restricted from accessing the internet!",
+        "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-07-27T21:55:53.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Ads in Software Are Like Stickers on Laptops",
+        "summary": "Regarding my [recent](https://daringfireball.net/2026/07/ads_on_apple_news_suck) [pieces](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) regarding Apple’s shitty ads in the App Store ",
+        "content": "Regarding my [recent](https://daringfireball.net/2026/07/ads_on_apple_news_suck) [pieces](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) regarding Apple’s shitty ads in the App Store and Apple News (and, perhaps soon, Apple Maps), a friend sent me this pithy take:\n\n> The ads Apple is happy to inflict on us in its apps are the\n> equivalent of the stickers it would never allow on its physical\n> products.\n\n*Bullseye.*\n\nThat’s what those stickers on PCs are: they’re ads. Intel pays for the “Intel Inside” stickers that booger up PC laptop palm rests. Longtime readers will recall that [back in August 2007](https://www.apple.com/newsroom/archive/2007/08/), Apple held a Town Hall event to introduce new iMacs and some iLife and iWork software updates. In a post-event Q&A (imagine that), [Bob Keefe of Cox Newspapers asked](https://daringfireball.net/linked/2007/08/09/keefe) “Can you say why you all are not participating in the Intel Inside program, putting the stickers on your new or previous Macs?” This question was so absurd *from the perspective of those who covered Apple closely* that it prompted outright laughter. [Jason Snell wrote a great column](https://www.macworld.com/article/186895/stickergate.html) arguing that it was actually a good question.\n\nHere’s the whole exchange ([via Dan Moren](https://web.archive.org/web/20080820104510/http://www.macuser.com/steve-jobs/world_exclusive_bob_keefe_is_n_1.php), then at MacUser). Give it a listen, it’s only 100 seconds or so:\n\nKeefe asks, Steve Jobs answers, Phil Schiller answers, and then Jobs closes it. Jobs broke the ice in his initial answer, with “What can I say? We like our own stickers better.” I was in the room, and that line killed. Jobs at his best. But you can tell that Jobs wasn’t really sure how to answer at first. He didn’t want to throw any shade at Intel, Apple’s partner, but he knew there was a key point to make here about Apple.\n\nThe whole thing is funny because at a fundamental level we all just know in our bones that Apple never even considered putting “Intel Inside” stickers on Macs. But *why*? For eons, mankind knew that when you drop something, it will fall to the ground. But *why*? Gravity is worth asking about. Worth figuring out. I think that’s the point of Snell’s 2007 column arguing that people (like me) were wrong to mock Keefe for asking.\n\nIt’s when Jobs comes back to the question, after Schiller, that we get the real answer:\n\n> You know, we put ourselves in the customers’ shoes and we say,\n> what do *we* want stuck on our product when we take it out of the\n> box? And the answer is, nothing.\n\n*That’s* the answer. Apple still treats its hardware with that level of respect. With reverence. iPhones don’t even say “iPhone” on the hardware. No model or serial numbers. No small print. Just an Apple logo on the back.\n\nPutting themselves in customers’ shoes today, how many ads do Apple’s executives want stuck in the results when they search for an app in the App Store? We know the honest answer. But the answer [evidenced by the actual App Store](https://daringfireball.net/misc/2026/07/app-store-ads-search-for-signal.png) is “Two really big ones, including one in the first spot.”",
+        "url": "https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "2026-07-27T16:32:51.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WorkOS MCP",
+        "summary": "Most configuration tasks in WorkOS have always required a trip to the dashboard. Setting up a domain, adjusting auth policies, managing users and roles, debugging a sign-in issue for a customer: all o",
+        "content": "Most configuration tasks in WorkOS have always required a trip to the dashboard. Setting up a domain, adjusting auth policies, managing users and roles, debugging a sign-in issue for a customer: all of it has lived behind a UI that only a human can drive.\n\nDashboards were built with a human on the other end. Someone with a mouse, a browser tab, and the patience to click through nested menus. That assumption made sense for a long time. It makes less sense now that agents are increasingly the ones doing the setup work, wiring up integrations, configuring services, debugging issues. An agent can write code at the speed of thought, but when it hits a dashboard, it stops.\n\nToday that changes. The WorkOS MCP server exposes the full management surface of your WorkOS account as tools your agent can use, and it works from anywhere you can run an agent.\n\n## **What is the WorkOS Management MCP Server**\n\nThe WorkOS MCP server is a remote, hosted server your agent connects to over OAuth. Once connected, it authenticates as you and inherits exactly the roles and permissions your dashboard login has. If your account is read-only in production, the agent is too. If you have full admin access, the agent does. There is nothing extra to configure and no separate permission model to maintain.\n\nThis is not a narrow slice of the API. The server exposes hundreds of operations across the full WorkOS product surface: organizations, SSO connections, Directory Sync, AuthKit users and sessions, roles and permissions, audit logs, webhooks, API keys, feature flags, environments, branding, and more. \n\nWhat the server does not expose is equally deliberate. Credential-minting operations, user impersonation, billing flows, and account-level administration are excluded entirely. Secret fields like API keys, client secrets, and webhook signing secrets are stripped from responses before they reach the agent's context. Nine irreversible deletes require a two-call confirmation before they execute. The agent can do everything you would do in the dashboard for day-to-day management, and nothing you would not.\n\n## **How agents interact with it**\n\nRather than exposing one tool per endpoint, the server uses a discover-then-execute design with four tools: `whoami`, `list_operations`, `query`, and `mutate`. This matters because every tool gets loaded into the LLM's context window, so exposing hundreds of operations as individual tools would consume the context budget before the agent even starts working. Instead, an agent uses `list_operations` to find what it needs, then calls query or mutate by operation name with the relevant variables.\n\nHere is what that looks like in practice. A support engineer gets a report that a customer cannot sign in:\n\n  `\nYou: A user at Acme Corp is reporting they cannot sign in. Can you check if their SSO connection is set up correctly and whether they have an active session?\nAgent: I found Acme Corp in your Production environment. They have one active SAML connection. The certificate is valid and not expiring soon, but the connection is pointed at a metadata URL that returned a 404 the last time it was fetched. That is most likely what is breaking sign-in.\nYou: Can you pull their recent SSO sessions to see when the issue started?\nAgent: Their last successful sign-in was three days ago. Sessions since then show a consistent failure at the IdP redirect step, which lines up with the metadata URL issue.\nYou: Generate a setup link so their IT admin can reconfigure it.\nAgent: Done. Here is an Admin Portal setup link for Acme Corp valid for 7 days: [link]. You can send this directly to their IT admin to complete the SAML reconfiguration.\n  `\n\n## **Getting connected**\n\nSetup is a single command. For example, for Claude Code, run the following,then complete the OAuth consent in your browser to finish connecting:\n\n  `\nclaude mcp add --transport http workos https://mcp.workos.com/mcp\n  `\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6a452209d1eae0afaa73cd69_16a7ae7c.png)\n\nFor details on how to connect other clients, check out the [docs](https://workos.com/docs/mcp).\n\nFrom there, Claude Code walks you through an OAuth flow using your existing dashboard login. No new credentials to create, nothing to provision. The same flow works for Cursor, Codex, ChatGPT, and any other agent that supports remote MCP servers.\n\nOnce connected, you can ask your agent to list your organizations, set up an SSO connection, update auth policy settings, pull audit log events for a specific user, or configure branding, all without leaving your agent conversation.\n\n## Managing Team Access to the MCP Server\n\nTeam admins can control MCP access from the team authentication settings page in the WorkOS dashboard. Three settings can be toggled independently, and all are enabled by default:\n\n- **Enable** turns MCP access on or off for the entire team. Disabling this also disables the two settings below.\n- **Allow production access** restricts agents to sandbox environments only when turned off. This never escalates anyone's permissions: agents can still only reach production for members who already have production access in the dashboard.\n- **Allow write access** restricts the MCP to read-only operations when turned off, so agents can query but not mutate anything.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6a452222263b5876e4934d79_5cf20010.png)\n\nThese controls let you adopt the MCP incrementally and set guardrails that match your team's risk tolerance before opening it up more broadly.\n\n## **How it fits with the WorkOS CLI**\n\nThe [CLI](https://workos.com/docs/authkit/cli-installer) and the MCP server cover a lot of the same ground, and that is by design. The CLI runs in a terminal alongside your codebase and suits developers who are already using it as part of their local setup. The MCP server is remote and requires no install, which means it works from any agent, on any device, without a local development environment. A Slack bot that diagnoses customer sign-in issues, an agent running in Claude Desktop while you are away from your desk, a workflow that reacts to support tickets: these are the cases the MCP server is built for.\n\n## **What to try first**\n\nConnect an agent and describe what you want in plain language. The agent discovers the right operations and runs them for you. A few things worth trying:\n\n- **Brand your sign-in page from a screenshot**: share a screenshot of your marketing site and ask the agent to make your AuthKit sign-in page match its aesthetic.\n- **Debug a sign-in problem**: ask the agent to investigate why a specific organization is having trouble signing in with SSO.\n- **Onboard a new customer**: set up a new organization and invite a list of users in a single conversation.\n- **Audit your configuration**: list every organization with a draft SSO connection, or flag directories that have not synced recently.\n- **Manage a user**: reset a password, revoke a session, or send a fresh magic link without opening the dashboard.\n- **Stream audit logs**: configure a Datadog or Splunk audit log stream for a production environment.\n\n## **Available now**\n\nThe WorkOS MCP is available today. Connect it to your agent of choice and let us know what you build. Check out the [docs](https://workos.com/docs/mcp) for more information.",
+        "url": "https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-07-27T16:30:00.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Can the Tide of AI Investment Lift All Boats on the Web?",
+        "summary": "[Jason Grigsby has a great article](https://cloudfour.com/thinks/improvements-to-web-for-ai-should-benefit-all-users/) where he surfaces an opinion from the Safari team about how AI agents shouldn’t g",
+        "content": "[Jason Grigsby has a great article](https://cloudfour.com/thinks/improvements-to-web-for-ai-should-benefit-all-users/) where he surfaces an opinion from the Safari team about how AI agents shouldn’t get special treatment:\n\n> An agent acting on a user’s behalf is, in effect, **assistive technology**: it should operate a site as the user would, and the site should not single it out for different treatment. \n\nJason synthesizes different discussions happening at standards levels to argue, in essence, that agents should be required to use existing technologies and solutions (APIs, semantics, etc.) rather than get their own bespoke ones. And where there are gaps in the platform, solutions should be centered around closing those gaps generally for everyone (vs. specifically for agents).\n\nImagine that! Take the billions being invested in AI and funnel it towards improving and enhancing the existing technology agents already use and profit from. No bespoke solutions just for AI, but generalized solutions everyone can benefit from.\n\nIn other words: allow the rising tide of AI investment to lift all boats in the platform because the web is for everyone. As Jason says:\n\n> If we’re solving this problem for AI, perhaps we can find a solution that works for end users too.\n\nHis suggestion being that maybe we should frame AI needs in the web platform the same way we do other needs in the web’s priority of constituents: user needs come before developer needs, implementor needs, spec writer needs — or even agent needs. ([UX over DX over AX](https://blog.jim-nielsen.com/2025/thoughts-on-ax/).)\n\nNow for the funny part. Here’s Jason:\n\n> let’s set aside for the moment the irony that AI is supposed to replace all of our jobs and become a super intelligence and at the same time we also need to add special AI training wheels for it to use the web.\n\nIt’s like that person you know who prides themselves on their independence, that they don’t bend to society and culture, and that they don’t need anyone or anything — oh, and by the way, could you spot them twenty bucks?",
+        "url": "https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Mon, 27 Jul 2026 19:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/27Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/27/eucd-6/)\n",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/27Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/27/eucd-6/)\n\n## Today's links\n\n- [How the EU can punish Google (despite Trump)](https://pluralistic.net/2026/07/27/eucd-6/#and-the-wisdom-to-know-the-difference): Grant me the courage to change the things I can.\n\n- [Hey look at this](https://pluralistic.net/2026/07/27/eucd-6/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/07/27/eucd-6/#retro): Chilling Effects; Billy Bragg v Myspace; Glenn Beck calls murdered Norwegian children \"Hitler Youth\"; Photog sues Getty for $1b copyfraud; Best paid CEOs perform worst; Olympics v \"Olympics\"; Alberta tar sands v \"hot lesbians\"; IoT security apocalypse; 3 Little Pigs in pidgin; The nasty party; Copyright extortionist infringed fellow extortionist; Grandpa mobbed for photographing grandson in park; Ice Bucket Challenge didn't cure ALS; Twiddling enshittifies your brain.\n\n- [Upcoming appearances](https://pluralistic.net/2026/07/27/eucd-6/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/07/27/eucd-6/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/07/27/eucd-6/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/07/27/eucd-6/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/07/27/eucd-6/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/goog-eu.jpg?w=840&ssl=1)\n\n## How the EU can punish Google (despite Trump) ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#and-the-wisdom-to-know-the-difference))\n\nThe \"Serenity Prayer\" (*Serenity to accept things I can't change/Courage to change the things I can/Wisdom to know the difference*) is usually cited as pop psychology or addiction recovery advice, but I think there's a place for it in policymaking.\n\nTake the EU's fight against US Big Tech. During the Biden years, the EU's tech policy matured into something serious and ambitious, culminating in the Digital Markets Act (DMA) and Digital Services Act (DSA), a pair of big, muscular policies that would curb Big Tech's most abusive conduct. The EU's ambition didn't occur in a vacuum: it was part of a global wave of antitrust fervor whose top agenda item was reining in tech:\n\n[https://pluralistic.net/2025/06/28/mamdani/#trustbusting](https://pluralistic.net/2025/06/28/mamdani/#trustbusting)\n\nIn this fight, the EU had important partners all over the world. For example, South Korea and Japan used the facts uncovered through EU enforcement action against Google and Apple to pursue similar cases:\n\n[https://pluralistic.net/2024/04/10/an-injury-to-one/#is-an-injury-to-all](https://pluralistic.net/2024/04/10/an-injury-to-one/#is-an-injury-to-all)\n\nBut the EU's most important partner in its fight against American Big Tech was *America*. Biden's trustbusters – Lina Khan, Rohit Chopra, Jonathan Kanter, Tim Wu, et al – were every bit as serious about Big Tech power as anyone in the EU. After all, the American public are always the first victims of any new tech scam, and America is the only country with a large, affluent population who lack modern, comprehensive consumer privacy protection, making Americans highly prized prey for tech companies:\n\n[https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)\n\nWith America and the EU on the same side of the tech fight, the world had a fighting chance. Tech knew this, which is why Big Tech backed Trump hard during the 2024 election and aggressively curried his favor after he won. From the tech barons who paid $1m each to sit behind Trump on the inaugural dais to the millions tech companies donated to Trump's Epstein Ballroom at the White House, tech has made it clear that it supports anything Trump wants to do, provided he shields Big Tech from any attempt to limit their ability to spy on and steal from Americans and the world.\n\nEven before he took office, Trump made it clear how he would reward tech's loyalty: weeks before the inauguration, Trump went to Davos and threatened the EU with reprisals if they enforced the DSA or DMA against his tech companies:\n\n[https://techcrunch.com/2025/01/23/trumps-not-happy-with-how-eu-regulators-have-treated-us-tech-giants/](https://techcrunch.com/2025/01/23/trumps-not-happy-with-how-eu-regulators-have-treated-us-tech-giants/)\n\nTrump wasted no time leaning on US trading partners on behalf of Big Tech. He bullied Canadian PM Mark Carney into dropping his plan to tax US tech companies. Big Tech uses a variety of tax-cheating gambits to evade taxation around the world, making it impossible for (tax-paying) domestic companies to compete:\n\n[https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html](https://www.canada.ca/en/department-finance/news/2025/06/canada-rescinds-digital-services-tax-to-advance-broader-trade-negotiations-with-the-united-states.html)\n\nTrump also got UK PM Keir Starmer to drop his plan to tax tech:\n\n[https://www.theguardian.com/us-news/2025/apr/01/starmer-offered-big-us-tech-firms-tax-cuts-in-return-for-lower-trump-tariffs](https://www.theguardian.com/us-news/2025/apr/01/starmer-offered-big-us-tech-firms-tax-cuts-in-return-for-lower-trump-tariffs)\n\nAnd he got the EU to roll back its plan to regulate AI:\n\n[https://fortune.com/2025/11/07/eu-ai-act-weaken-regulation-delay-big-tech-trump-government/](https://fortune.com/2025/11/07/eu-ai-act-weaken-regulation-delay-big-tech-trump-government/)\n\nNone of the governments that caved to Trump got anything in return. As I've written:\n\n> \n> Give Trump everything he asks for and he'll demand more. Deny Trump anything and he'll demand more. Sign a contract with Trump and he'll break it. Send Trump an invoice and he'll stiff you. For Trump, \"the art of the deal\" can be summed up in one word: *renege*.\n> \n\n[https://pluralistic.net/2026/07/22/table-flipper/#graveyard-of-indispensable-nations](https://pluralistic.net/2026/07/22/table-flipper/#graveyard-of-indispensable-nations)\n\nCase in point: after the EU surrendered to Trump on AI regulation, Trump announced that a on ban EU officials who had worked on the Digital Services Act from traveling to the USA:\n\n[https://www.state.gov/releases/office-of-the-spokesperson/2025/12/announcement-of-actions-to-combat-the-global-censorship-industrial-complex/](https://www.state.gov/releases/office-of-the-spokesperson/2025/12/announcement-of-actions-to-combat-the-global-censorship-industrial-complex/)\n\nThen, after the EU made *more* concessions to Trump, he announced a ban on even *more* EU officials:\n\n[https://www.lawfaremedia.org/article/the-trump-administration-targets-europe-s-content-moderation-laws](https://www.lawfaremedia.org/article/the-trump-administration-targets-europe-s-content-moderation-laws)\n\nTrump ordered his tech giants to dig through EU officials' private correspondence so he can figure out who to ban next:\n\n[https://www.politico.eu/article/us-congress-judiciary-committee-big-tech-private-communication-eu-officials/](https://www.politico.eu/article/us-congress-judiciary-committee-big-tech-private-communication-eu-officials/)\n\nTrump's tech companies got the memo. When the EU ordered Apple to follow the law, Apple told the EU to fuck off:\n\n[https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)\n\nAfter all, Apple is a key partner in the Trump administration's mass deportations. Apple blocked an iPhone app that warns Apple customers if they're about to be kidnapped or murdered by ICE. Trump *needs* Apple, just as much as Apple needs Trump:\n\n[https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)\n\nDespite this, the EU keeps trying to enforce its laws against Trump's companies. Last week, the Commission announced a $1b fine against Google for violating the Digital Services Act with conduct that cost Europeans many billions:\n\n[https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en)\n\nIn other words, Google wasn't even being ordered to disgorge *all* the money it stole, just some of it. Remember, a fine is a price: the EU's fine here will only make this kind of cheating slightly less profitable.\n\nNevertheless, Trump responded immediately by threatening the EU with many billions more in tariffs if they continue to attempt to enforce the law against one of his companies:\n\n[https://www.lemonde.fr/en/international/article/2026/07/24/trump-says-eu-to-pay-very-big-price-for-890-million-google-fine_6755804_4.html](https://www.lemonde.fr/en/international/article/2026/07/24/trump-says-eu-to-pay-very-big-price-for-890-million-google-fine_6755804_4.html)\n\nTrump, the European Commission and Google all know this is about more than one $1b fine. The DSA and DMA both provide for steeply rising fines and other penalties for repeat offenders, and Google clearly has no plan to end its very profitable European crime-spree. Trump's threats aren't a bid to kill *this* enforcement – Trump wants to kill *all* enforcement.\n\nRetaliatory tariffs aren't the only weapon Trump has at his disposal. If the EU (or any other country) levies a *serious* fine against Google, Apple, Oracle, Microsoft, or any of Trump's other tech companies, Trump can order US banks not to turn over those fines, even after the EU sends them a court order for the money. If a bank defies Trump, he can threaten to yank its charter. Or he could just run the same swindle he pulled on Tiktok: stealing the whole company and selling it to one of his buddies, who will run it the way Trump wants.\n\nThe reality is that without America's assistance, the EU has precious little hope of forcing American companies to do things they don't want to do. In terms of the Serenity Prayer, this is \"a thing they cannot change.\"\n\nThe Serenity Prayer doesn't stop with \"things you can't change.\" The next line seeks \"the courage to change the things I can.\" The EU has no control over Google's conduct, but it has *total* control over its *own* conduct.\n\nSpecifically, the EU could get rid of the laws that ban European companies from modifying US tech exports. The EU adopted the Copyright Directive in 2001. Article 6 of the EUCD makes it a crime to reverse-engineer and modify a device without the manufacturer's permission. This law was adopted under pressure from the US Trade Representative, who threatened the EU with tariffs on its exports unless it adopted an \"anticircumvention rule\" that banned EU technologists from making products that let Europeans prevent US tech companies from stealing their money and data\":\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nThis law is still in force in the EU, despite the fact that Trump (predictably) reneged on the US side of the bargain, hitting the EU with massive tariffs and even threatening to steal part of Denmark.\n\nArticle 6 of the Copyright Directive is the reason European tech companies can't jailbreak America's apps, whether that's to get its government and corporate data off of US platforms:\n\n[https://pluralistic.net/2025/10/15/freedom-of-movement/#data-dieselgate](https://pluralistic.net/2025/10/15/freedom-of-movement/#data-dieselgate)\n\nOr to modify American social media apps to respect EU privacy laws:\n\n[https://pluralistic.net/2026/01/30/zucksauce/#gandersauce](https://pluralistic.net/2026/01/30/zucksauce/#gandersauce)\n\nThe EU can't control what Apple or Google do. But the EU can *absolutely* decide whether Trump's companies can use *Europe's courts* to destroy *European companies* that defend the privacy and economic integrity of the *European people*.\n\nIf the EU kills off Article 6 of the Copyright Directive, they can use *European* companies to bring Google and Apple's defective tech exports into compliance with European law. Unlike Trump's companies, those companies can be forced to pay their taxes and respect their users' privacy, labor and consumer rights.\n\nThat's the Serenity Prayer's \"wisdom to know the difference.\"\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Nate Silver discovers the educated poor [https://crookedtimber.org/2026/07/25/nate-silver-discovers-the-educated-poor/](https://crookedtimber.org/2026/07/25/nate-silver-discovers-the-educated-poor/)\n\n- \nImagine a World in Which Microsoft Sold Cars the Way It Sells Software [https://www.thesling.org/imagine-a-world-in-which-microsoft-sold-cars-the-way-it-sells-software/](https://www.thesling.org/imagine-a-world-in-which-microsoft-sold-cars-the-way-it-sells-software/)\n\n- \nTesla swapped a solar owner’s lease contract for the Book of Enoch [https://electrek.co/2026/07/23/tesla-solar-lease-contract-book-of-enoch/](https://electrek.co/2026/07/23/tesla-solar-lease-contract-book-of-enoch/)\n\n- \nCanadian legislator reads out apparent LLM response in floor speech [https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/)\n\n- \nThe Resistance Liberal Lawyers Helping Trump Take Over the Media [https://www.thebignewsletter.com/p/the-resistance-liberal-lawyers-helping](https://www.thebignewsletter.com/p/the-resistance-liberal-lawyers-helping)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#retro))\n\n#25yrsago Chilling Effects [https://web.archive.org/web/20010801172448/http://eon.law.harvard.edu/chill/](https://web.archive.org/web/20010801172448/http://eon.law.harvard.edu/chill/)\n\n#25yrsago 13-year-old hacker's book deal: “The Unofficial Guide to Ethical Hacking\" [https://web.archive.org/web/20011102164905/http://www.vnunet.com/News/1124279](https://web.archive.org/web/20011102164905/http://www.vnunet.com/News/1124279)\n\n#20yrsago France’s new copyright law slaughters kills use and open source [https://web.archive.org/web/20060812223624/http://soufron.typhon.net/spip.php?article150](https://web.archive.org/web/20060812223624/http://soufron.typhon.net/spip.php?article150)\n\n#20yrsago Billy Bragg gets MySpace’s terms of service changed [https://web.archive.org/web/20100809150257/http://blogs.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=34570397&amp;blogID=137856388&amp;MyToken=626131d4-c695-42ba-867b-754b9e2bfeaa](https://web.archive.org/web/20100809150257/http://blogs.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=34570397&amp;blogID=137856388&amp;MyToken=626131d4-c695-42ba-867b-754b9e2bfeaa)\n\n#15yrsago Buy an Old West town in South Dakota for $0.8M [https://web.archive.org/web/20110728012824/https://edition.cnn.com/2011/US/07/27/south.dakota.town.sale/index.html](https://web.archive.org/web/20110728012824/https://edition.cnn.com/2011/US/07/27/south.dakota.town.sale/index.html)\n\n#15yrsago Glenn Beck compares murdered Norway campers to “Hitler Youth” [https://www.latimes.com/archives/blogs/top-of-the-ticket/story/2011-07-25/opinion-glenn-beck-hits-new-low-compares-norway-victims-to-hitler-youth](https://www.latimes.com/archives/blogs/top-of-the-ticket/story/2011-07-25/opinion-glenn-beck-hits-new-low-compares-norway-victims-to-hitler-youth)\n\n#15yrsago 3 Little Pigs rendered into Papua New Guinea pidgin [https://www.abc.net.au/reslib/200709/r184705_686227.mp3](https://www.abc.net.au/reslib/200709/r184705_686227.mp3)\n\n#15yrsago Why they call the Tories “the nasty party” [https://www.theguardian.com/uk/2011/jul/28/tory-lib-dems-clash-on-policy](https://www.theguardian.com/uk/2011/jul/28/tory-lib-dems-clash-on-policy)\n\n#15yrsago US ISP/copyright deal: a one-sided private law for corporations, without public interest [https://www.eff.org/deeplinks/2011/07/graduated-response-deal-what-if-users-had-been](https://www.eff.org/deeplinks/2011/07/graduated-response-deal-what-if-users-had-been)\n\n#15yrsago Copyright extortionist ripped off his competitor’s threatening material [https://torrentfreak.com/anti-piracy-lawyers-rip-off-work-from-competitor-110727/](https://torrentfreak.com/anti-piracy-lawyers-rip-off-work-from-competitor-110727/)\n\n#15yrsago Karl Schroeder: Science fiction versus structured study of the future, sf as aspiration [https://www.antipope.org/charlie/blog-static/2011/07/beyond-prediction.html](https://www.antipope.org/charlie/blog-static/2011/07/beyond-prediction.html)\n\n#15yrsago Norwegian PM refuses to let terrorist attacks drive his country to intolerance and paranoid “security” [https://www.nytimes.com/2011/07/28/world/europe/28norway.html?_r=1](https://www.nytimes.com/2011/07/28/world/europe/28norway.html?_r=1)\n\n#15yrsago Man with camera in park who fled angry parent sought by police (turns out he was taking pix of his grandson) [https://web.archive.org/web/20110829052009/https://pixiq.com/article/man-photographing-grandkid-in-park-deemed-suspicious](https://web.archive.org/web/20110829052009/https://pixiq.com/article/man-photographing-grandkid-in-park-deemed-suspicious)\n\n#10yrsago Laurie Penny at the DNC: “Dissent will not be tolerated. Protest will not be permitted.” [https://medium.com/welcome-to-the-scream-room/bad-moon-rising-8cd348df50e9#.9lhcixjn1](https://medium.com/welcome-to-the-scream-room/bad-moon-rising-8cd348df50e9#.9lhcixjn1)\n\n#10yrsago The Ice Bucket Challenge did not fund a breakthrough in ALS treatment [https://web.archive.org/web/20160914225439/http://www.healthnewsreview.org/2016/07/ice-bucket-challenge-breakthrough-experts-pour-cold-water-superficial-reporting/](https://web.archive.org/web/20160914225439/http://www.healthnewsreview.org/2016/07/ice-bucket-challenge-breakthrough-experts-pour-cold-water-superficial-reporting/)\n\n#10yrsago Silicon Valley banks offer tech giants’ new hires 100% mortgages on 24 hours’ notice [https://web.archive.org/web/20160727095557/http://www.bloomberg.com/news/articles/2016-07-27/zero-down-on-a-2-million-house-is-no-problem-in-silicon-valley](https://web.archive.org/web/20160727095557/http://www.bloomberg.com/news/articles/2016-07-27/zero-down-on-a-2-million-house-is-no-problem-in-silicon-valley)\n\n#10yrsago Patent fighters attack the crown jewels of three of America’s worst patent trolls [https://web.archive.org/web/20160727191625/https://arstechnica.com/tech-policy/2016/07/patent-defense-group-seeks-to-knock-out-top-three-trolls-of-2015/](https://web.archive.org/web/20160727191625/https://arstechnica.com/tech-policy/2016/07/patent-defense-group-seeks-to-knock-out-top-three-trolls-of-2015/)\n\n#10yrsago Censorship company drops bogus lawsuit against researchers who outed them [https://citizenlab.ca/research-interest/](https://citizenlab.ca/research-interest/)\n\n#10yrsago Photographer sues Getty Images for $1B because they’re charging for pix she donated to LoC [https://hyperallergic.com/photographer-files-1-billion-suit-against-getty-for-licensing-her-public-domain-images/](https://hyperallergic.com/photographer-files-1-billion-suit-against-getty-for-licensing-her-public-domain-images/)\n\n#10yrsago First-ever Michelin star for street food awarded to Singaporean hawker stalls [https://web.archive.org/web/20160723174014/http://uk.reuters.com/article/us-singapore-food-hawkers-michelin-star-idUKKCN1021XA](https://web.archive.org/web/20160723174014/http://uk.reuters.com/article/us-singapore-food-hawkers-michelin-star-idUKKCN1021XA)\n\n#10yrsago Highest-paid CEOs generate lowest shareholder returns [https://www.msci.com/documents/10199/91a7f92b-d4ba-4d29-ae5f-8022f9bb944d](https://www.msci.com/documents/10199/91a7f92b-d4ba-4d29-ae5f-8022f9bb944d)\n\n#10yrsago Olympics to companies: mentioning “Olympics” in social media is a trademark violation #https://web.archive.org/web/20160727075209/https://www.espn.com/olympics/story/_/id/17120510/united-states-olympic-committee-battle-athletes-companies-sponsor-not-olympics\n\n#10yrsago Pro-tar-sands activists say dirty Canadian oil is better because “lesbians are hot” [https://www.joeydevilla.com/2016/07/26/this-ill-advised-hot-lesbians-ad-promoting-canadian-vs-saudi-oil-is-real-and-not-a-parody-by-the-onion/](https://www.joeydevilla.com/2016/07/26/this-ill-advised-hot-lesbians-ad-promoting-canadian-vs-saudi-oil-is-real-and-not-a-parody-by-the-onion/)\n\n#5yrsago The infosec apocalypse is nigh [https://pluralistic.net/2021/07/27/gas-on-the-fire/#a-safe-place-for-dangerous-ideas](https://pluralistic.net/2021/07/27/gas-on-the-fire/#a-safe-place-for-dangerous-ideas)\n\n#1yrago How twiddling enshittifies your brain [https://pluralistic.net/2025/07/28/twiddlehazard/#outboard-brains-considered-harmful](https://pluralistic.net/2025/07/28/twiddlehazard/#outboard-brains-considered-harmful)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: EFFecting Change: Who the Machine Serves, Aug 12\n\n[https://www.eff.org/event/effecting-change-who-machine-serves](https://www.eff.org/event/effecting-change-who-machine-serves)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/program/](https://festivalofdangerousideas.com/program/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#recent))\n\n- A Conversation with Lina Khan (Law and Economy Student Network)\n\n[https://www.youtube.com/live/7Ak5LZllqwE](https://www.youtube.com/live/7Ak5LZllqwE)\n\n- \nWill AI ever come alive, and what happens if it does? (BBC News)\n\n[https://www.youtube.com/watch?v=Lzk4o3fPZZE](https://www.youtube.com/watch?v=Lzk4o3fPZZE)\n\n- \nWaarom jij straks het hulpje van AI bent (VPRO)\n\n[https://www.youtube.com/watch?v=tOnvR2fs8CA](https://www.youtube.com/watch?v=tOnvR2fs8CA)\n\n- \nTalk Tech Bock (Vera Linß)\n\n[https://www.youtube.com/watch?v=3PFjGvQoBgc](https://www.youtube.com/watch?v=3PFjGvQoBgc)\n\n- \nHow To Think About AI Before It’s Too Late (This Is Hell)\n\n[https://thisishell.com/episodes/1919](https://thisishell.com/episodes/1919)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/07/27/eucd-6/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/07/27/eucd-6/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Product"
+        ],
+        "published_at": "Mon, 27 Jul 2026 10:52:03 +0000",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Fa Fa",
+        "summary": "**Old habits die hard,** and the one that led to this post died a lot harder than some of the others.\n\nRecently, I made a realization: I have been unwillingly addicted to Facebook for a long time, and",
+        "content": "**Old habits die hard,** and the one that led to this post died a lot harder than some of the others.\n\nRecently, I made a realization: I have been unwillingly addicted to Facebook for a long time, and it’s not even because I like Facebook. Rather, it’s because I find it an extremely easy URL to type into a modern web browser’s omnibar. This sounds crazy, but the first two letters, f and a, are on the home row, and I don’t really rely on bookmarks, but my browser’s history function to type in URLs.\n\nThis creates a sort of recency bias. If I type in the same URL a lot, it’s the one that pops up the most. And so, if I’m at a browser with no clear idea of what my intent for the next page I load up, I inevitably type in “fa,” which would suck me in.\n\nOver the years, Facebook’s bad content has gotten worse and worse, and despite my dislike of the company, I’ve kept it mostly out of desire to keep connected with a small number of people from real life. In the past I’ve used an extension designed to hide specific Facebook features on the desktop, most notably reels, and I have limited my Facebook access to my mobile app. But I still loaded the site, even though I hated the company and everything it represents.\n\nTo put it in terms of Guster’s 2000 single “[Fa Fa](https://www.youtube.com/watch?v=qo4lT_y7bpw),” I was always clicking somewhere I swear I’d never click again.\n\nIt’s an infuriating problem that really shows how far dark patterns go. If you type in a URL as a force of habit, inevitably you type it in even when it’s the last place you want to go.\n\nRecently, I came up with a solution which appears to be deeply effective, and I’m hoping sticks long-term. Essentially, rather than fighting my tendency to type these two characters in my omnibar, I neutralized it. At first, this involved just blocking Facebook in the hosts file, which prevented the website from loading entirely. However, I found this too disruptive, as it gave me nowhere to click. Plus, immediately after I did that, I inevitably had a task that required me to use Facebook.\n\n![facebook_browser.jpg](https://proxy.tedium.co/fzn_1lmYbyfgbEvatw61_vFliOo=/1000x667/filters:quality(80)/uploads/facebook_browser.jpg)Facebook is one of the easiest sites to type on a keyboard thanks to the omnibar. Both the F and A keys are on the home row! ([DepositPhotos.com](https://depositphotos.com/))So, what I ended up doing was creating a URL that does nothing but forward to Google News. (You can supply any domain you’d like, as long as it starts with “fa.” Wanna go to [fatberg.com](http://www.fatberg.com/) every time you load your computer? Or maybe [faxtoy.net](https://www.faxtoy.net/)? Up to you.) At the same time, I went through my entire history in Vivaldi and removed every reference to the Facebook website. The result is that whenever I type in my new Facebook URL, I go to a news aggregator, which is inevitably what I was using Facebook for anyway. A week later, and my Facebook usage has gone down considerably, and I’m now fully aware of how far downhill Google News has gone; open to suggestions there. Kind of shocked that’s all it took, actually. (I will admit that I did just start on a GLP-1, which is known to ease addictive behavior, but that’s a story for another time.)\n\nI think addictive behaviors can be really difficult for anyone, no matter how well meaning, to get past. For whatever reason, this one was particularly hard to defeat. I’ve used similar strategies in the past. One of my go-tos: When I need to focus on something creative, I switch my YouTube account to a curated feed that leans on instrumental music. If I start looking up random junk, it ruins the feed. So I’m discouraged from looking up random junk if I’m listening to vintage jazz or [higher consciousness music](https://www.youtube.com/watch?v=xM2D9egIpyg), as I am right now.\n\nAt this point in time, I think this is something that I’m really trying to get a grasp on. I think that so much of the work we do on computers requires a good sense of flow and rhythm, but if that flow leads to things that take us away from our work, does it really serve our needs?\n\nIn the case of a browser for example, wouldn’t it be great if the browser detected obsessive behavior like this and called it out for you, rather than you having to call it out for yourself and adapt accordingly?\n\nWe should be challenging our technology experiences and letting go of things that make our tech worse. And if it means I need to trick my brain to look at the news instead of my Facebook feed, I guess that’s where we’re at.\n\nI guess what I’m saying is that I should switch to a Dvorak keyboard layout so I don’t mindlessly go to Facebook.\n\n##### “Fa”-Free Links\n\n**… Speaking of Dvorak,** I want to offer my condolences to the family of John C. Dvorak, who [died last week](https://mailchi.mp/nashownotes/rip-jcd-no-agenda-newsletter?e=85c9e2d6b2) at the age of 80. He wasn’t my favorite tech columnist of his era (that honor goes to [Jerry Pournelle](https://tedium.co/2017/09/11/rip-jerry-pournelle/)), and his political opinions later in life kind of lost me. But I have to admit that I loved disagreeing with his questionable opinions when they came up. (He [once said](https://gizmodo.com/dvorak-opposite-day-podcasting-is-dead-24218) podcasting wasn’t ready for prime time, then became known for a [podcast](https://www.noagendashow.net/) just a couple years later.) I linked his old pieces a lot; I [once](https://tedium.co/2019/02/28/ibm-workplace-os-taligent-history/) called Dvorak “voice of his generation,” and while I’m sure I meant it in jest, I am convinced that there’s probably more truth to that than most would care to admit.\n\n**Over the weekend,** I caught *Nirvanna the Band the Show the Movie*, which I had heard good things about and was more than surprised the movie lived up to. It makes one miss the days when comedies were good, frequent, and invested in the creator’s vision. Anyway, both the movie and the show are on [now on Hulu](https://www.youtube.com/watch?v=LW0FUQjoH7c); definitely diving into the show next.\n\n**Cool self-hosted app of the day:** [Crumbs](https://crumbs.bretzel.app/), which is a great way to gather and share quick notes as needed. May your shopping lists get easier to build.\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/07/27/facebook-home-row-keyboard-trick/)! And may my tip make it easier to stop using Facebook.\n\nWanna support Tedium? Check out the [Tedium Shopping Network](https://shopping.tedium.co/). You might find something good there.",
+        "url": "https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "2026-07-27T17:45:21.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "An opinionated guide to which AI to use to do stuff - 27th July 2026 - Link Blog **[An opinionated guide to which AI to use to do stuff](https:/...",
+    "★ Ads in Software Are Like Stickers on Laptops - Regarding my [recent](https://daringfireball.net/2026/07/ads_on_apple_news_suck) [pieces](...",
+    "WorkOS MCP - Most configuration tasks in WorkOS have always required a trip to the dashboard. Setting u...",
+    "Can the Tide of AI Investment Lift All Boats on the Web? - [Jason Grigsby has a great article](https://cloudfour.com/thinks/improvements-to-web-for-a...",
+    "Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "windows",
+      "count": 4
+    },
+    {
+      "word": "ai",
+      "count": 4
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "binary",
+      "count": 3
+    },
+    {
+      "word": "advantages",
+      "count": 3
+    },
+    {
+      "word": "disadvantages",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "ads",
+      "count": 3
+    },
+    {
+      "word": "net",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "roots",
+      "count": 2
+    },
+    {
+      "word": "permutation",
+      "count": 2
+    },
+    {
+      "word": "finding",
+      "count": 2
+    },
+    {
+      "word": "base",
+      "count": 2
+    },
+    {
+      "word": "hex",
+      "count": 2
+    },
+    {
+      "word": "representation",
+      "count": 2
+    },
+    {
+      "word": "simply",
+      "count": 2
+    },
+    {
+      "word": "making",
+      "count": 2
+    },
+    {
+      "word": "agile",
+      "count": 2
+    },
+    {
+      "word": "version",
+      "count": 2
+    },
+    {
+      "word": "runtime",
+      "count": 2
+    },
+    {
+      "word": "delegate",
+      "count": 2
+    },
+    {
+      "word": "winrt",
+      "count": 2
+    },
+    {
+      "word": "part",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "nt",
+      "count": 2
+    },
+    {
+      "word": "lot",
+      "count": 2
+    },
+    {
+      "word": "july",
+      "count": 2
+    },
+    {
+      "word": "privacy",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "hard",
+      "count": 2
+    },
+    {
+      "word": "opinionated",
+      "count": 2
+    },
+    {
+      "word": "guide",
+      "count": 2
+    },
+    {
+      "word": "stuff",
+      "count": 2
+    },
+    {
+      "word": "regarding",
+      "count": 2
+    },
+    {
+      "word": "daringfireball",
+      "count": 2
+    },
+    {
+      "word": "workos",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "jul",
+      "count": 2
+    },
+    {
+      "word": "fa",
+      "count": 2
+    }
+  ]
+}
