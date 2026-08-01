@@ -1,0 +1,631 @@
+{
+  "date": "2026-08-01",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Why polynomial coefficients?",
+        "summary": "Second order linear differential equations with polynomial coefficients form their own area of study. This seems like a narrow class of equations, but it’s very important in applications. This class of equations seems li...",
+        "url": "https://www.johndcook.com/blog/2026/08/01/why-polynomial-coefficients/",
+        "source": "John D. Cook",
+        "tags": [
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Sat, 01 Aug 2026 20:18:41 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Counting rooted trees",
+        "summary": "Combinatorial problems can be interesting for their own sake, but they are more interesting when there is a connection to a problem outside combinatorics, and the more unexpected the connection the better. Counting the n...",
+        "url": "https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/",
+        "source": "John D. Cook",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Sat, 01 Aug 2026 16:15:53 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Runge-Kutta order versus stages",
+        "summary": "The textbook version of the Runge-Kutta method for solving differential equations has 4 stages and has 4th order error. For lower order versions of RK the number of stages s also matches the order of the error p. But in...",
+        "url": "https://www.johndcook.com/blog/2026/08/01/butcher-barrier/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Sat, 01 Aug 2026 15:58:15 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Reading List 08/01/26",
+        "summary": "Pepper-spray drones, China’s chip Manhattan Project, Commonwealth Fusion’s fundraise, and a proposed Dulles Airport renovation.",
+        "url": "https://www.construction-physics.com/p/reading-list-080126",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "Sat, 01 Aug 2026 12:04:01 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-01T22:43:27.252Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "summary": "1st August 2026 - Link Blog\n\n**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)** ([via](https://news.ycombinator.com/item?id=49132",
+        "content": "1st August 2026 - Link Blog\n\n**[Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)** ([via](https://news.ycombinator.com/item?id=49132058)) A few days ago it was Anthropic [discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/) using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\"\n\nNow it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no progress on the main result for at least a decade\". They claim to have spent less than $2,000 at GPT-5.6 Sol token prices on each one.\n\n(No news on how many problems they spent $2,000 on *without* reaching a solution though.)\n\nThe [openai/ten-proofs](https://github.com/openai/ten-proofs) repository has Lean 4 formalizations of their results, and there's also [a paper](https://cdn.openai.com/pdf/ten-proofs-oai.pdf) describing the solutions and an additional [LLM-generated PDF](https://cdn.openai.com/pdf/reasoning-walkthroughs.pdf) where the model \"reconstructs how the proof came together\" based on the unpublished reasoning traces.\n\nThat's a decent level of transparency, but I want to see the prompts they used!\n\nA lot of mathematicians online are experiencing a collective burst of [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/). Mathematician Kirwin Hampshire published an impassioned essay last week, [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics), describing \"a profound spiritual crisis\" brought on by previous (and less significant) results.\n\nOpenAI's results reminds me of what Terence Tao described as \"big mathematics\" in [IEEE Spectrum in June](https://spectrum.ieee.org/ai-in-mathematics):\n\n> Unlike some of his peers, Tao is neither dismissive of AI nor fearful. Instead, he sees it as the catalyst for a fundamental shift in the discipline—a transition toward what he calls “big mathematics.” He envisions a future of large-scale, decentralized collaborations between humans and machines, where complex mathematical tasks can be diced and sliced, with humans claiming the creative parts and AI doing the lion’s share of the technical grunt work.",
+        "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-01T20:34:49.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Greg Brockman",
+        "summary": "1st August 2026\n\n> at openai, many people hook their chatgpt up to slack.\n\n> people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly",
+        "content": "1st August 2026\n\n> at openai, many people hook their chatgpt up to slack.\n\n> people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker.\n\n> reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people.\n\n— [Greg Brockman](https://twitter.com/gdb/status/2083435180392673714), President and Co-Founder, OpenAI\n\nPosted [1st August 2026](https://simonwillison.net/2026/Aug/1/) at 10:29 pm\n\n## Recent articles\n\n  \n    - [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/) - 31st July 2026\n\n  \n    - [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/) - 22nd July 2026\n\n  \n    - [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/) - 21st July 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [1st August 2026](https://simonwillison.net/2026/Aug/1/).\n\n    \n        [\n            ai\n            2,159\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            openai\n            440\n        ](https://simonwillison.net/tags/openai/)\n    \n        [\n            generative-ai\n            1,911\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1,878\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            ai-ethics\n            330\n        ](https://simonwillison.net/tags/ai-ethics/)\n    \n        [\n            ai-misuse\n            58\n        ](https://simonwillison.net/tags/ai-misuse/)",
+        "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-01T22:29:44.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "datasette-apps 0.2a0",
+        "summary": "> Changes that improve Datasette Apps when created and edited using [Datasette Agent](https://agent.datasette.io/):\n\n> \n> - New `app_debug()` tool allowing agent to open an app (invisibly) and test it",
+        "content": "> Changes that improve Datasette Apps when created and edited using [Datasette Agent](https://agent.datasette.io/):\n\n> \n> - New `app_debug()` tool allowing agent to open an app (invisibly) and test it using JavaScript. [#33](https://github.com/datasette/datasette-apps/pull/33)\n\n> - New `app_list()` tool for listing apps the user has permission to edit, so the agent can edit them. [#36](https://github.com/datasette/datasette-apps/issues/36)\n\n> \n\nThe `app_debug()` tool is pretty neat: it works by displaying the app in a `opacity: 0` iframe with `pointer-events: none` (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe. This means the agent can smoke test that the app is working and even do things like measure the dimensions of different elements.\n\nThis uses the new `context.browser_task()` mechanism added in [datasette-agent 0.4a0](https://simonwillison.net/2026/Jul/31/datasette-agent/).",
+        "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-08-01T21:23:56.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Q3 2026 Results",
+        "summary": "On Thursday, Apple announced [record third-quarter earnings](https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/), with total revenue of $109.4B, up 16 percent from the year-ag",
+        "content": "On Thursday, Apple announced [record third-quarter earnings](https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/), with total revenue of $109.4B, up 16 percent from the year-ago quarter. iPhone revenue was up 22%, Mac revenue was up 10.4%, Services revenue was up 12%, and Wearables revenue was up 6%. iPad revenue was down 6%.\n\nShortly thereafter, Apple execs spent an hour on the phone with financial industry analysts, and we’ve got [our usual complete transcript](https://sixcolors.com/post/2026/07/one-last-time-this-is-tim-transcript-of-apples-q3-2026-financial-call/), including many farewells to Tim Cook.\n\nAnd now, to help you visualize what Apple just announced, here is our traditional barrage of charts and graphs:\n\n![Total Apple revenue](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-1b.png?ssl=1)\n\n![Year-over-year total revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-2b.png?ssl=1)\n\n![Apple quarterly revenue by category pie chart](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-2-1b.png?ssl=1)\n\n![Total Apple profit](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-3b.png?ssl=1)\n\n![Year-over-year Total Apple profit](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-4b.png?ssl=1)\n\n![Apple gross margin](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-5b.png?ssl=1)\n\n![Product & Services Total Profit](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-1-6b.png?ssl=1)\n\n![Percentage revenue by product line](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-2-2b.png?ssl=1)\n\n![Apple regional year-over-year growth](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-2-3b.png?ssl=1)\n\n![Year-over-year Greater China revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-2-4b.png?ssl=1)\n\n![Apple regional revenue (four-quarter average)](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-2-5b.png?ssl=1)\n\n![iPhone revenue](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-1b.png?ssl=1)\n\n![Year-over-year iPhone revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-2b.png?ssl=1)\n\n![Mac Revenue](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-3b.png?ssl=1)\n\n![Year-over-year Mac revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-4b.png?ssl=1)\n\n![iPad revenue](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-5b.png?ssl=1)\n\n![Year-over-year iPad revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-3-6b.png?ssl=1)\n\n![Services revenue](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-4-1b.png?ssl=1)\n\n![Year-over-year Services revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-4-2b.png?ssl=1)\n\n![Wearable/Home/Accessories](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-4-3b.png?ssl=1)\n\n![Year-over-year W/H/A revenue change](https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/07/financials-2026-7-4-4b.png?ssl=1)\n\n\t**If you appreciate articles like this one, support us by [becoming a Six Colors subscriber](https://sixcolors.com/subscribe/). Subscribers get access to an exclusive podcast, members-only stories, and a special community.**",
+        "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-08-01T16:15:15.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Apple Upgrade Situation",
+        "summary": "The final measure of any financial negotiation is the feeling of whether or not you got a “deal”.\n\n That prior sentence… makes no sense.\n\n I wrote “measure,” and then six words later I wrote “feeling”",
+        "content": "The final measure of any financial negotiation is the feeling of whether or not you got a “deal”.\n\n That prior sentence… makes no sense.\n\n I wrote “measure,” and then six words later I wrote “feeling”. A feeling is never a measure, but yet, when you hand over your hard-earned money to buy a thing, you’ll feel better because you believe the value received is higher than the dollars paid.\n\n Too abstract. Here’s a good example:\n\n I have felt since it was announced that the [Apple iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program) has not just been a deal, but a steal. The specifics:\n\n  - You apply for a loan for a full-price iPhone at 0%.\n - If approved, your payments are split over 24 months.\n - Pay for 24 months, and the phone is yours.\n \n That was just the deal; the steal was that it was low effort every single year to get a new phone. I’d re-up for a new phone, and Apple would forgive the remaining payments of the loan because I’d signed up for another 24 months. Oh, and bonus, AppleCare was included, which was a total steal because I hate iPhone cases (iPhones are designed to be felt) and, uh, also I have been known to drop my phone.\n\n Felt fair. The Apple bet was that users would embrace the original plan, were going to re-up regularly, and Apple would refurb the phone on a strong used market. That bet [ended on a Tuesday](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/). Apple retired the Upgrade Program and replaced it with [Apple Upgrade](https://www.apple.com/shop/apple-upgrade): a Klarna-financed lease covering iPhones, Watches, iPads, and Macs. The loan became a lease. And it feels different.\n\n \n## Follow the AppleCare Money\n\n At first glance, the new plan looks cheaper. The original plan: one year of iPhone 17 Pro (256GB, $1,099 sticker) was ~$57/month. 12 payments, trade-in, restart: **~$684 for the year**. The new one, same phone: $45.99/month on the 12-month lease: **$552 for the year**.\n\n But wait! The first and most important change to the new plan is that AppleCare is **no longer included**. Adding it back to this phone at $13.99/month: **$720 for the year**.\n\n But wait once more! You have [AppleCare One](https://www.apple.com/applecare/)? Well, good news, your new iPhone can ride along in a $5.99/month slot, bringing us to **$624 for the year**. In fact, and illuminatingly so, the only way to get the good price on iPhone-plus-AppleCare is to get three pieces of hardware on the AppleCare One plan, which means having three pieces of hardware.\n\n This might sound reasonable until you think about the number of times I’ve never had the opportunity to drop my Mac Studio. For all Mac hardware in general, there was that one time Rands Jr. somehow cracked her MacBook screen. That one time — in a couple of decades.\n\n AppleCare is insurance. Like all insurance, you pay for protection from expensive, but hopefully unlikely disasters. In the event of the unlikely, you don’t pay. My issue with this approach is it appears Apple is removing AppleCare from the upgrade plan and herding folks towards AppleCare One because margins on insurance are sweet — like 2x the margins on hardware. I already pay Apple insurance. It’s not called insurance; it’s called “incredibly high quality hardware.” I gleefully pay Apple a premium not just because of its cutting-edge design, but also exemplary quality. With Dell, I pay for the insurance because the motherboard on my fancy Alienware gaming PC has already failed once.\n\n \n## It Still Feels Like a Deal, Not a Steal\n\n When I buy a ticket at United, just before I click purchase, there is a must-acknowledge box I am required to read. It is a light-fear-inducing reminder that “Stuff changes when you are flying. You never know, but… maybe plop down a couple of hundred dollars because, well, you never know and we know better so maybe yeah, pay us money, and we’ll make it ok.”\n\n Never in the history of ever have I done this. Yes, in the middle of winter when travel plans are truly up in the air, I think about it, but mostly… gross. This is a business trying to eke out high-margin dollars just before the sale when you are most worried about the value of your purchase.\n\n There is genuine value in AppleCare, and I’ve considered AppleCare One because the Rands house has a lot of hardware, but the more I stare at the new plan, the more I feel a little gross.\n\n I’ll stick with the plan for the phone along with additional AppleCare (not AppleCare One) because, remember, it’s whether or not I feel I got a deal. The primary intangible is that Apple is quite good at operations. The process of re-upping for the new phone has historically been trivial.\n\n  - After the new phone has been announced, click a couple of things in the Store app, and you’re done.\n - New phone arrives promptly along with a pre-labeled return box for your old phone.\n - Drop that box off at FedEx. And done.\n \n New phone sitting at the door. Almost like magic. Almost.\n\n  ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)",
+        "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-01T16:30:40.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "This Week in Package Management: 1 August 2026",
+        "summary": "Week eleven of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastod",
+        "content": "Week eleven of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastodon.social/@andrewnez).\n\n## Releases\n\n[mise 2026.7.14–18](https://github.com/jdx/mise/releases/tag/v2026.7.18): the default shell-argument settings are now global-only, so an untrusted repo’s local config can’t influence command execution before trust evaluation runs. Experimental task output caching restores a task’s declared outputs and replays logs when its sources, tools and environment are unchanged, and experimental monorepo tasks now infer Node workspace dependency edges and import `package.json` scripts as `node:<package>#<script>` tasks.\n\n[Verdaccio 6.9.0](https://github.com/verdaccio/verdaccio/releases/tag/v6.9.0) requires Node.js 22 as the minimum runtime and ships a dual CJS+ESM build with an `exports` field, so `import { runServer } from 'verdaccio'` resolves a real ES module. The bundled `@verdaccio/config` moves to js-yaml 4.3.0, resolving [GHSA-52cp-r559-cp3m](https://github.com/advisories/GHSA-52cp-r559-cp3m).\n\n[setup-uv v9.0.0](https://github.com/astral-sh/setup-uv/releases/tag/v9.0.0) flips the `prune-cache` default to `false` to reduce load on PyPI infrastructure. The major bump reflects that workflows may see higher GitHub Actions cache usage as a result; the [reasoning is written up in #967](https://github.com/astral-sh/setup-uv/pull/967).\n\n[Renovate 43.282.0](https://github.com/renovatebot/renovate/releases/tag/43.282.0) has the mise manager run `mise lock` in the `MISE_SAFE=1` mode [added last week](https://nesbitt.io/2026/07/25/this-week-in-package-management), so lockfile updates against untrusted branches no longer need `allowedUnsafeExecutions`. [43.283.0](https://github.com/renovatebot/renovate/releases/tag/43.283.0) adds a `commitTrailers` option. [44.0.0](https://github.com/renovatebot/renovate/releases/tag/44.0.0) was an [accidental major](https://github.com/renovatebot/renovate/discussions/44952): a squash-merged PR carried a leftover `BREAKING CHANGE` footer that semantic-release acted on, so 44.x is being treated as a continuation of 43.x with no breaking change.\n\n[uv 0.11.33](https://github.com/astral-sh/uv/releases/tag/0.11.33) runs the malware check against locked tools before reusing them from cache, and the preview lockfile format can now be written and read without embedded `package.metadata`. [0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0) collects accumulated correctness changes: `uv init` defaults to a packaged `src/` layout with `uv_build`, wheels that would overwrite the Python interpreter are rejected, and `--require-hashes` directives in requirements files are now enforced with MD5-only hashes refused. [0.12.1](https://github.com/astral-sh/uv/releases/tag/0.12.1) adds per-package pre-release policies via `--prerelease-package`, accepts local HTML files as flat indexes, and the preview `uv check` gains `--fix`.\n\n[pip 26.2](https://github.com/pypa/pip/releases/tag/26.2) adds `--only-deps` to install only a requirement’s dependencies, an experimental `--use-feature=venv-isolation` mode that uses a standard venv for build isolation instead of the `sitecustomize.py` overlay, and caches simple-index responses per their `Cache-Control` headers so repeated resolves against the same index are faster. The legacy resolver (`--use-deprecated=legacy-resolver`) is deprecated for removal in 2027. Richard Si has [a write-up of the release](https://sichard.ca/blog/2026/07/whats-new-in-pip-26.2/).\n\n[pixi 0.74.0](https://github.com/prefix-dev/pixi/releases/tag/v0.74.0) lets environments define dependencies and solve strategy inline without a separate feature block, adds an `--offline` mode, and `pixi global install --git` can build a tool from source given only `--build-backend` and no package manifest. [0.75.0](https://github.com/prefix-dev/pixi/releases/tag/v0.75.0) has `pixi publish` publish all opted-in workspace packages in dependency order, refusing if a required source dependency has not opted in, and restricts `--offline` solves to packages already in the local cache or on a `file://` channel.\n\n[pnpm 11.15–11.19](https://pnpm.io/blog/releases/11.15-11.19) on the stable branch: `pnpm update` and `pnpm outdated` now cover GitHub Actions references in workflow files, `pnpm update` can emit changesets for the bumps it makes, `pnpm self-update` ignores project-supplied configuration, web-based `pnpm login` works without a TTY, and peak resolution memory on large workspaces is cut several times over.\n\n[pnpm 12.0.0-beta.0](https://github.com/pnpm/pnpm/releases/tag/v12.0.0-beta.0) is the first beta of the Rust-engine rewrite; it now reads `frozenLockfile`, `savePrefix`, `savePeer` and `saveCatalogName` from `pnpm-workspace.yaml` and `PNPM_CONFIG_*` rather than only accepting them as CLI flags.\n\n[Maven 4.0.0-rc-6](https://github.com/apache/maven/releases/tag/maven-4.0.0-rc-6) fixes the RC-5 regressions: a globally-cached field-accessibility state that broke plugin configuration injection, a `ConcurrentModificationException` in the v4 API, and consumer POM conversion for BOM projects.\n\n[Docker 29.7.0](https://github.com/moby/moby/releases/tag/docker-v29.7.0) adds an experimental `embedded-containerd` feature that runs containerd inside the daemon process rather than as a separate managed process, promotes the `image` mount type out of experimental, and updates go-archive to 0.3.0 for [CVE-2026-17106](https://github.com/moby/go-archive/security/advisories/GHSA-hfg8-hc9c-6c3h). [29.7.1](https://github.com/moby/moby/releases/tag/docker-v29.7.1) fixes two regressions from 29.7.0: pulling images whose layers omit explicit parent-directory entries, and `CopyToContainer` rejecting paths that traverse absolute symlinks.\n\n[Homebrew 6.0.14](https://github.com/Homebrew/brew/releases/tag/6.0.14) attaches vulnerability data from the GitHub Advisory Database to the generated formula API and adds a `brew advisory-match` developer command (both from me), removes most subprocess forks from a no-op `brew` startup, and extends Landlock sandboxing to Linux kernel 6.1’s ABI 2.\n\nAlso out: [npm 12.0.2](https://github.com/npm/cli/releases/tag/v12.0.2), [Conda 26.7.0](https://github.com/conda/conda/releases/tag/26.7.0), [pipx 1.16.5](https://github.com/pypa/pipx/releases/tag/1.16.5), [sbt 2.0.4](https://github.com/sbt/sbt/releases/tag/v2.0.4), [snapd 2.77](https://github.com/canonical/snapd/releases/tag/2.77), [vcpkg 2026-07-27](https://github.com/microsoft/vcpkg-tool/releases/tag/2026-07-27), [Dependabot Core 0.389.0](https://github.com/dependabot/dependabot-core/releases/tag/v0.389.0), [cabal-install 3.18.1.0](https://github.com/haskell/cabal/releases/tag/cabal-install-v3.18.1.0), [winget 1.30.80-preview](https://github.com/microsoft/winget-cli/releases/tag/v1.30.80-preview), [Yarn 4.18.0](https://github.com/yarnpkg/berry/releases/tag/%40yarnpkg%2Fcli%2F4.18.0), [Gradle 9.7.0-RC2](https://github.com/gradle/gradle/releases/tag/v9.7.0-RC2), [APT 3.3.2](https://salsa.debian.org/apt-team/apt/-/tags/3.3.2), [Mamba 2.9.0.rc0](https://github.com/mamba-org/mamba/releases/tag/2.9.0.rc0), [Podman 6.1.0-rc1](https://github.com/podman-container-tools/podman/releases/tag/v6.1.0-rc1), [diffoscope 326](https://diffoscope.org/news/diffoscope-326-released/).\n\n## Security\n\n[npm now scans packages at publish time](https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata/) before they become installable, holding or blocking uploads that trip the check. Packages with legitimate security-relevant behaviour declare it via a `contentPolicy` field in `package.json` plus a root `DISCLOSURE` file, and must then be published with 2FA or trusted publishing. Once declared, neither can be removed in later versions.\n\nGitHub Actions [now holds workflow runs identified as potentially malicious](https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval) until a collaborator with write access approves them through an authenticated web session. It applies automatically to public repositories on github.com with no configuration.\n\nArch Linux has [disabled orphaned-package adoption on the AUR](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/DRDEU3JUSC72CB265XHXPFA3DFSLXPBP/) after attackers adopted unmaintained packages to inject a Tor-based remote-access trojan, an escalation of the campaign that began with the [alvr takeover in June](https://nesbitt.io/2026/06/13/this-week-in-package-management). New account registration was suspended in June and reopened on 13 July with additional restrictions, which have not been sufficient. [LWN has more context](https://lwn.net/Articles/1086489/).\n\n## Articles\n\n[Open Source Must Be Fun or It Will Die](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/) (Mike McQuaid) argues that maintainer enjoyment is the scarce resource that keeps a project alive, and points at Homebrew’s numbers: 26 of last year’s 29 maintainers are still active, with automation and CI doing the pedantic review work.\n\n[The Package Manager for Everywhere](https://starhaven.io/blog/2026-07-27-the-package-manager-for-everywhere/) (Patrick Linnane) breaks down Homebrew’s public analytics by platform: about a quarter of events are on Linux, Universal Blue images (which ship brew by default) account for roughly 26% of non-CI Linux traffic, and WSL is at 3.7%.\n\n[You Don’t Have a Supply Chain, You Have a Supply Soup](https://opensourcesecurity.io/2026/07-supply-soup/) (Josh Bressers) argues the supply-chain metaphor breaks down when the inputs to a single dependency include CI runners, developer workstations and everyone with commit access, none of which current tooling captures.\n\n## Papers\n\n[No Edges, No Verdict](https://arxiv.org/abs/2607.22140) (Zięba-Kozarzewski, arXiv) analyses 78,000 SBOMs in the wild and finds 52.9% declare no dependency edges at all, and only 0.10% use CycloneDX compositions to flag that the graph is incomplete; treating edgeless SBOMs as degenerate raised KEV-detection recall from 0.600 to 0.950.\n\n[No Snake Oil: Verifying Python Package Builds](https://arxiv.org/abs/2607.21888) (Dietrich et al., arXiv) rebuilds 12,180 popular PyPI releases with macaron and oss-rebuild: only 15.4% and 19.1% of wheels come out byte-identical to the published artifact, but their daleq4py tool establishes semantic equivalence for 60.2% and 78.9% of source-equivalent rebuilds.\n\n## Elsewhere\n\nThe [EuroPython 2026 Packaging Summit notes](https://hackmd.io/DZj3uo6eT_qyddBP0PZlDw?view) are up, following on from [last week’s](https://nesbitt.io/2026/07/25/this-week-in-package-management) mention of the summit itself. Sessions covered wheel-variant provider trust (PEPs 817 and 825), whether PyPI should distribute application lockfiles separately from libraries, external build-dependency metadata via PURL (PEPs 725 and 804), and the Packaging Council election timeline.\n\nMost WASI phase 2 proposals now have OCI packages published and are indexed on [wasm.directory](https://wasm.directory/wasi), a meta-registry for WebAssembly components that is intended for eventual donation to the Bytecode Alliance.\n\nComposer and Packagist.org have [launched a formal sponsorship programme](https://blog.packagist.com/announcing-the-composer-packagist-sponsorship-program/) with three annual tiers, funding operations, incident response and security-feature work such as malware detection and transparency logs. Ten companies signed on at launch alongside Sovereign Tech Agency funding routed via the PHP Foundation.\n\nRenovate maintainer Sebastian Poxhofer has released a [Renovate Config Debugger](https://renovate.secustor.dev/) that steps through parsing, migration, validation, preset resolution and `packageRules` matching using Renovate’s own code compiled to run in the browser.\n\nGitHub Actions workflows can now [reference actions in the same repository](https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax) with `uses: $/path/to/action`, which resolves to the workflow’s own repository at the commit that is running. It works in steps, composite actions and reusable workflow calls without a checkout, and satisfies policies that require full-length SHA pinning.\n\nFedora’s [Adopt PURL Metadata](https://fedoraproject.org/wiki/Changes/Adopt_PURL_Metadata) change was accepted for Fedora 45: RPMs built from language-ecosystem packages will carry virtual Provides such as `purl(pkg:cargo/[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection))` across nine language ecosystems, with no spec file changes needed.\n\n## git-pkgs\n\nI tagged 18 repos this week:\n\n  - [git-pkgs v0.18.2](https://github.com/git-pkgs/git-pkgs/releases/tag/v0.18.2)\n\n  - [clone v0.1.2](https://github.com/git-pkgs/clone/releases/tag/v0.1.2) (new), a Go library for keeping shallow local checkouts of HTTPS Git repositories by shelling out to `git`\n\n  - [cwe v0.1.0](https://github.com/git-pkgs/cwe/releases/tag/v0.1.0) (new), a Go library for looking up MITRE CWE entries by ID with the catalogue embedded at build time\n\n  - [licenses v0.3.0](https://github.com/git-pkgs/licenses/releases/tag/v0.3.0) (new), a Go library and CLI for matching license text against ScanCode’s rule corpus, with the corpus embedded so matching needs no network, cgo or Python\n\n  - [magic v0.1.0](https://github.com/git-pkgs/magic/releases/tag/v0.1.0) (new), a pure-Go content-detection library that reports format, MIME type and text encoding for a byte slice with no cgo or third-party dependencies\n\n  - [archives v0.4.0](https://github.com/git-pkgs/archives/releases/tag/v0.4.0)\n\n  - [brief v0.9.4](https://github.com/git-pkgs/brief/releases/tag/v0.9.4)\n\n  - [capcheck v0.1.3](https://github.com/git-pkgs/capcheck/releases/tag/v0.1.3)\n\n  - [distill v0.1.1](https://github.com/git-pkgs/distill/releases/tag/v0.1.1)\n\n  - [enrichment v0.6.4](https://github.com/git-pkgs/enrichment/releases/tag/v0.6.4)\n\n  - [forge v0.7.0](https://github.com/git-pkgs/forge/releases/tag/v0.7.0)\n\n  - [manifests v0.6.1](https://github.com/git-pkgs/manifests/releases/tag/v0.6.1)\n\n  - [outline v0.1.8](https://github.com/git-pkgs/outline/releases/tag/v0.1.8)\n\n  - [pin v0.1.1](https://github.com/git-pkgs/pin/releases/tag/v0.1.1)\n\n  - [proxy v0.6.0](https://github.com/git-pkgs/proxy/releases/tag/v0.6.0)\n\n  - [registries v0.6.4](https://github.com/git-pkgs/registries/releases/tag/v0.6.4)\n\n  - [sigstore v0.1.2](https://github.com/git-pkgs/sigstore/releases/tag/v0.1.2)\n\n  - [spdx v0.2.0](https://github.com/git-pkgs/spdx/releases/tag/v0.2.0)\n\nSend links for next week to [@[email protected]](https://mastodon.social/@andrewnez).",
+        "url": "https://nesbitt.io/2026/08/01/this-week-in-package-management.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Security"
+        ],
+        "published_at": "2026-08-01T10:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Put A Tag On It",
+        "summary": "**Today in Tedium:** Determining how much something costs shouldn’t be difficult, but in an ecosystem where everything is driven by highly personalized data, concerns are rising that prices might not ",
+        "content": "**Today in Tedium:** Determining how much something costs shouldn’t be difficult, but in an ecosystem where everything is driven by highly personalized data, concerns are rising that prices might not be on stable ground. Recently, [some states and regulators](https://www.grocerydive.com/news/surveillance-pricing-grocery-state-bills-house-senate-esl-ufcw/814885/) have started to scrutinize e-paper price tags out of a concern that those tags will enable pricing that adapts to demand—or worse, to the customer. A major union, the United Food and Commercial Workers International Union (UFCW), even announced [plans to launch a campaign against electronic shelf labels](https://www.supermarketnews.com/grocery-technology/ufcw-demands-ban-on-electronic-shelf-labels), as they’re called. But what if I were to tell you that this concern is not in fact a new one, and it more or less played out like this 50 years ago, on a technology that most people take for granted today? That’s right, we’re talking about barcodes, along with its predecessor technology, the pricing gun. Today’s Tedium dives into the surprisingly long-running conflict between price tags and barcodes. *— Ernie @ Tedium*\n\n### 200,000\n\n**The number of pricing guns** that Sears [used during a 1989 promotion](https://www.washingtonpost.com/archive/business/1989/03/01/sears-sets-new-sales-strategy-lower-prices/90af194a-fb22-49d8-a6df-1933a1d32bc7/) that saw the company permanently lower prices at its stores throughout the United States. (The company also used 100 million pricing labels, which is about the amount, in dollars, that the retailer spent on the campaign.) The moment was big and showy, and involved the company closing its stores for 42 hours, with a single store having to mark down prices on about 1 million individual items.\n\n![pricing_gun.jpg](https://proxy.tedium.co/LcQC4ATRDHlwMJof5GZe3U0cGbc=/1024x768/filters:quality(80)/uploads/pricing_gun.jpg)The problem with looking for a stock photo of a pricing gun is that you get surrounded by images of guns that don’t shoot prices. ([Martin Chung/Flickr](https://flickr.com/photos/solkana/34574221666/))\n### The pricing gun: Where the hell did it come from?\n\nIt turns out that searching for something called a “pricing gun” is kind of tough to do. As our search engines have declined, anything with the word “gun” on it is suspect, even if it’s for something fairly innocuous.\n\nBut the pricing gun is nonetheless an excellent example of a device that has helped millions of people identify shifting prices, yet is only truly used in one context: Retail. You can clearly see the roots of where it came from by taking separate, unrelated ideas and combining them. You can look at things like combination locks, typewriters, and rubber stamps, and see how they were combined in novel ways to produce an iconic piece of supermarket kit.\n\nIn many ways, the pricing gun, which at its root takes a sticker with self-stick adhesive, prints a price on it, and tags it on a product, is a synthesis of multiple ideas that, together, created something new. We talked about one, [self-stick adhesive](https://tedium.co/2020/06/09/self-stick-adhesive-history/) (terrible name upon its initial release BTW), six years ago. Great innovation by the adhesive giant now known as Avery Dennison, but not one that was designed to scale. Imagine putting a label on every single product in a grocery store, by hand, writing the prices out, cutting the stickers, and so on. It would be the definition of Tedium.\n\nBut there were other lanes for price labeling that were already starting to emerge. Consider the printing process, for example, which essentially involved pressing metal or rubberized content onto ink, then taking the ink-stained surface and pressing it onto a sheet of paper. These were once parts of giant machines, but they could also be made handheld or somewhat more portable. The first commercial typewriter, the [Hansen Writing Ball](https://www.officemuseum.com/typewriters_hansen_writing_ball.htm), feels like it could’ve been used for price tags if put in a slightly different context. All of this fed into the idea of the handheld “rubber stamp,” which gradually gained a “self-inking” capability, which meant that you didn’t even need an inkwell to dip them in.\n\nMeanwhile, innovations in the combination lock during the 1870s began to bleed to similar tools. If you make the numbers on a combination lock lean outward rather than inward, the wheels could be used not unlike a printing press. So you can see where this is going!\n\n![bates_machine.jpg](https://proxy.tedium.co/eY6z3kAQeM_hMmc18XFSouMmZgA=/1000x1651/filters:quality(80)/uploads/bates_machine.jpg)A combination lock that prints. How neat. ([Google Patents](https://patents.google.com/patent/US676082A/en))All of this led to the [Bates Automatic Numbering Machine](https://patents.google.com/patent/US676082A/en), a press-down device Edwin G. Bates patented around 1901. While intended for checks and similar documents, the approach is fairly similar to how a price tagger works. You set the number, you press down on the page, and then it goes to the next number for the next page. This device helped to reshape the legal industry in particular, as pages could now easily be numbered, and became known enough that “Bates numbering” became a common business-world shorthand. In fact, some later versions of the device could keep the same number for multiple stamps.\n\nThis was clearly the path that led to adjustable price tagging, though other inventors took the helm. At the turn of the 20th century, Frederick Kohnle of the Automatic Pin Ticketing Machine Company [effectively brought this process to price tags](https://patents.google.com/patent/US762323A/en) of the kind that might be attached to clothing, rather than to stickers. (It wasn’t quite handheld, but you can see the DNA bleed through.)\n\nAnother inventor working in the same area, William G. Metcalf, developed a pricing ticket machine, and as [The Price Gun Store](https://www.pricegun.com/monarch-brand-history/) notes, the patents ultimately came under Kohnle’s ownership.\n\nKohnle has a lot of patent filings to his name around pricing tagging technology, so while he didn’t necessarily create the pricing gun, he likely created the environment that led to its eventual creation. His innovations live through to the modern day in another company he founded, Monarch Tag and Label—which is, of course, [now owned by Avery Dennison](https://www.identificationsolutions.averydennison.com/en/home/about-us/history.html) and specializes in pricing guns.\n\n![monarch-dial-a-pricer.jpg](https://proxy.tedium.co/3UZyF1Ma7Qf1TEKPRNROTLxG_TE=/1000x1000/filters:quality(80)/uploads/monarch-dial-a-pricer.jpg)This device was how we printed pricing labels before we came up with something handheld. It’s called the Dial-A-Pricer, which perfectly dates when it came out. (via [eBay](https://www.ebay.com/itm/204379934800))Monarch, which also spent time as a subsidiary of Pitney Bowes, developed one of the most important direct predecessors to the modern pricing gun, the “[Dial-A-Pricer](https://www.industrialalchemy.org/articleview.php?item=938),” in the 1950s. But it wasn’t the only one. As the 2023 book *Fixing Prices: A Century of Setting, Posting and Adjusting Retail Prices* notes, a number of related solutions started to emerge around the same period, most notably the Garvey price stamper, invented by Ed Garvey in the 1950s.\n\n![pricing_gun_patent.jpg](https://proxy.tedium.co/gd3rjaEj9S84cYoLSCYuU7SB_hM=/1095x1763/filters:quality(80)/uploads/pricing_gun_patent.jpg)As far as I can tell, this is the first patent filing that shows a modern-day pricing gun. But I find no evidence that the patent was ever commercialized. ([Google Patents](https://patents.google.com/patent/US2656063A/))What’s interesting is that Google Patents appears to have a full-on example of a pricing gun patent filed in the 1940s, predating Monarch’s own gun-shaped attempts. But there’s no evidence that the device, developed by [Robert S. Kafka](https://patents.google.com/patent/US2656063A/) for the Midland Equipment Corp., ever meaningfully made it to market—literally no information about the invention, beyond a defunct-company listing in the Robert D. Fisher Manual of Valuable and Worthless Securities, exists beyond the patent. *Other* companies eventually developed their own versions, including Monarch and Garvey, along with the Japanese company SATO.\n\nBut Kafka’s innovation is definitely worth our time, as it diagnoses the problem thoughtfully:\n\n> In stores, and particularly in stores where large numbers of articles are to be price-tagged, the labor of affixing the price tags is very great. For instance, if 1,000 glasses are to be labelled “$.39,” it is necessary to take a thousand labels, write, print, or type the price upon each one, after which the operator is required to separate the protective backing tape from the adhesive side of the label and apply the label to the glass. This entire operation is done by hand. The complexity of the operation is immeasurably increased by the number of articles that are to be labelled for sale and by the variety of prices at which the articles are to be sold.\n\nIt is an object of this invention to make a hand labeller which will print the proper price mark and apply a price label by adhesive to an article.\n\nIf you can label a thousand cans just by setting a price and hitting a button, you’ve turned a multi-hour process into something that can be done in a matter of minutes.\n\n![pricing_gun_price.jpg](https://proxy.tedium.co/ZCg_gZybzunTO1CbncfGapf3g5g=/1000x667/filters:quality(80)/uploads/pricing_gun_price.jpg)Key to the pricing gun’s capabilities was the ability to adjust prices on the fly, like a combination lock. ([DepositPhotos.com](https://depositphotos.com/))If Kafka didn’t commercialize his invention at a large scale, many other companies soon did. *Fixing Prices* co-authors Franck Cochoy, Johan Hagberg, and Hans Kjellberg [credit Monarch](https://www.google.com/books/edition/Fixing_Prices/aLLLEAAAQBAJ?hl=en&gbpv=1&pg=PA141&printsec=frontcover) for spreading the innovation far and wide:\n\n> However, the Monarch company did much more: it paved the way for rebalancing prices and qualities on item labels, reunifying the scattered languages of manufactured qualities (on product packaging) and retail prices (on store shelves), and thus reagencing product labeling in favor of the grocers. This development took several decades and relied on a number of innovations to come fully into fruition, along a complex process of qualitization, digitalization, and paperization of shelf labels.\n\nLet’s think about what they wrote for a second: If grocers can label devices by the hundreds in a matter of minutes, that means they can raise or lower prices much more quickly than they could before. It’s not quite automation; someone has to put their mark on all those cans or pairs of pants. But you can put a price label on top of the other price label and all of a sudden a $2.00 can of food can jump in price to $2.99.\n\n(Plus, it allowed retailers to put their mark on the products, literally. Old price tags, [some of which can be seen on Flickr](https://www.flickr.com/groups/vintagepricestickers/pool/), are often seen as a great way of determining a sealed object’s age and vintage.)\n\nIn this light, the barcode, which was printed on the product by the manufacturer rather than the retailer, could be seen as a way to put the product seller back in charge of [their MSRP destiny](https://tedium.co/2022/08/05/manufacturers-suggested-retail-price-msrp-history/). But oddly, the relatively manual process of price tagging actually became something of a rallying cry for consumers and unions, rather than the retailers or manufacturers.\n\nWhich leads us to the 1970s, when retailers attempted to innovate past them.\n\n### 330\n\n**The estimated number of pricing tags** that could be created from a single piece of 8.5-inch by 11-inch sheet of paper. The Anderson Economic Group shared this detail [in a 2010 report](https://www.andersoneconomicgroup.com/Portals/0/upload/MRA_ItemPricing_Public.pdf) arguing against a Michigan law that mandated price tagging. (It was clearly part of a larger lobbying effort against the law, [and consumer advocates pushed against the report](https://www.mouseprint.org/2011/02/07/the-2-2-billion-lie/), so take any of its findings with a grain of salt.) The research firm estimated that if one were to combine the paper use of every grocery store in the state just on price tags, it would be a stack of paper nearly as tall as the Empire State Building. And it added that this was actually something of an undercount. “Many price stickers are larger than those used in our calculations, some items end up with multiple price stickers—especially if re-priced—and equally significant amounts of adhesive and ink must also be used to price each item,” the firm wrote. “Account for these factors, and spread the waste over the many smaller retailers within the state, and the numbers magnify greatly.”\n\n![price-tag.jpg](https://proxy.tedium.co/50_kQwGUrt1D2hYb_dT23WM6mgU=/1000x750/filters:quality(80)/uploads/price-tag.jpg)The constant tension between barcodes and price stickers led to some pretty aggressive laws at the state level over the years.\n### How Michigan became ground zero for a price-tag debate\n\nIn the late ’90s, as I’ve written [many](https://tedium.co/2015/09/17/bottle-deposit-recycling/) times, I started [my first job](https://tedium.co/2025/12/19/chris-zolinski-remembrance/) at a grocery store—and immediately came to hate the bottle machines. Those machines, which attempted to automate bottle deposit laws, were not unique to Michigan but emerged thanks to some unique quirks in state law.\n\nBut one thing I did not realize at the time was that Michigan law was also onerous in another way: With pricing. Thanks to state law, my grocery store had to have employees go around the stores and do nothing for hours but put price tags on tens of thousands of items. These items each had to be tagged individually, even though there was a price listing near the original spot on the shelf.\n\nBut it’s not like we had phones on us at all times when we could spot check the price, like we do now. So there was a certain logic to it, even if retailers did not like it.\n\nThe law, passed in 1976, came about despite the fact that the barcode had emerged at this time. And honestly, it emerged because of it, in part because of union concerns.\n\n“There is an attempt being made to replace clearly marked prices on items with unintelligible lines that can only be deciphered by a computer,” said William C. Marshall, the president of the Michigan State AFL-CIO, [in a 1976 wire story](https://www.newspapers.com/article/the-muskegon-chronicle-michigan-price-ta/201039160/). “This would make comparison shopping in the supermarkets impossible and could become the greatest ripoff of consumers imaginable.”\n\n(Other states passed laws too; Massachusetts actually had a “sticker law” on the books [a year longer](https://www.wamc.org/new-england-news/2012-07-10/massachusetts-to-change-item-pricing-requirement-in-grocery-stores) than Michigan did. And many states require shelf labels. But no states required stickers on quite so many things, quite as strictly, for quite as long.)\n\n![price-tag-example.jpg](https://proxy.tedium.co/T_keMkXt9Dhec4HLhrWKoOraaGY=/1000x750/filters:quality(80)/uploads/price-tag-example.jpg)It was shockingly hard to find an example of a store shelf with products that have price stickers on them. This shot from a Detroit grocery store of British food offers a good example: Often, price tags were put on the backs of products, rather than the front, or on the tops of cans. But sometimes it was smack-dab on the front of the thing. ([Jason Tester/Flickr](https://www.flickr.com/photos/streamishmc/2240628786/))It’s not hard to see how this in practice helped to protect jobs while also protecting consumers. After all, if each individual item needed to be tagged, that meant someone needed to do the tagging. Any retailer that failed to tag its items was on the hook for an up to $25,000 fine. That was enough to bring in part-time reinforcements.\n\nWhile pricing guns were quite fast and could tag a lot of prices in a short amount of time, it was still a lot of work that wouldn’t exist if not for this law.\n\nGrocery stores, over the years, grew increasingly opposed to the law, in part because of that labor pressure, which, among other things, required repeated retagging of items as things went on sale or prices naturally increased.\n\n“To individually price those items on a daily basis takes a tremendous amount of labor,” a D&W Food Centers spokesperson [told the *Grand Rapids Press* in 1993](https://www.newspapers.com/article/the-grand-rapids-press-pushback-against/201039197/).\n\n(Granted, it was a lot less labor than before the pricing gun was a thing, but hey, let them be mad.)\n\n![price_tag_battery.jpg](https://proxy.tedium.co/8kVczqaHAyuOxJ6xwyOgkbRP7XM=/800x536/filters:quality(80)/uploads/price_tag_battery.jpg)These tiny labels gave thousands of kids jobs throughout the ’70s and ’80s. ([Bill So/Flickr](https://www.flickr.com/photos/billibala/2817264932/))[In one wire story](https://www.spokesman.com/stories/1997/aug/24/vanishing-price-tags-spark-uprising-among/), the home improvement retailer Builders Square estimated that one-tenth of the total cost of its labor in the state went to price tagging, a cost of $2.4 million. It was a cost, one that came with added labor concerns, but not ones so significant to, say, ignore the Michigan market.\n\nDespite periodic pressure from grocers, the law didn’t actually get removed from the books until Obama was the president, well after most other states got rid of similar laws. In fact, by the time it did, the pricing gun was more or less of a relic from another time, although one people still saw around from time to time.\n\n**There’s a bit of an awkward history** to discuss when it comes to a device that looks kind of like a gun, but isn’t one, but is commonly used in retail settings. One of the things I’ve found interesting in my research is that there are many cases out there where a pricing gun was either used as a makeshift weapon, or was mistaken as one.\n\nObviously, it’s not actually a gun in the Second Amendment sense. It doesn’t fire bullets, it prints prices. But it is large, unwieldy, and kind of looks like a gun from a distance. There are the [occasional](https://www.nine.com.au/australia-news/qld/armed-robbery-fended-off-with-pricing-gun-20160720-p5ukhh.html) news [stories](https://www.mirror.co.uk/news/uk-news/watch-knife-raider-nabbed-after-5137019) about a brave employee who successfully shooed away an armed robber with one of these things.\n\nBut not every story ends like this. [One particularly tragic case, dating to 2010](https://www.newspapers.com/article/fort-worth-star-telegram-murder-suspect/202851171/), involved a Texas man named Hayward George Slater Jr., who attempted to rob a convenience store, but reacted negatively to the pricing gun the victim, Prem Sharma, picked up to defend himself. Slater, in an instant, shot and killed Sharma. During his 2011 murder trial, the defense argued that Slater wouldn’t have done anything had the victim not picked up the pricing gun.\n\n(The prosecutor accused the defense of victim-blaming, and as you might assume, the case did not go Slater’s way, [even after an appeal](https://law.justia.com/cases/texas/second-court-of-appeals/2013/02-11-00368-cr.html).)\n\nPricing guns over time became a security risk, too. If someone stole a pricing gun that printed the same way as the gun at a local retail store, that meant they could put an extremely low price on a product, defrauding the store. With barcodes, retailers could better control the process, soup to nuts.\n\nEverything I see on Google suggests that pricing guns are extremely niche, and are increasingly uncommon, with only commercial results coming up for these devices. (Hey, maybe this story will change that.) Even crime stories involving pricing guns have slowed down considerably. A big reason for this is that in most of the country, laws mandating price tags went away a long time ago. Which means that the time in the sun for the pricing gun was really, in practice, only about 20 years before the barcode came into play. Which means that the pricing gun was a [bridge device](https://tedium.co/2020/01/21/cidco-mailstation-history/) with tentacles, thanks to state-level legislation.\n\nSure, there are newer kinds of devices, such as inkjet printers that can literally print info directly on the box. And labeling itself never went away. But retailers don’t *have* to use them if they have another way to do so. If the barcode is there, they can just use that.\n\n![electronic_shelf_label.jpg](https://proxy.tedium.co/F0ttzdGKBH3h6Om8WR1nV1kZtMA=/999x751/filters:quality(80)/uploads/electronic_shelf_label.jpg)Not going to lie, the nerd in me finds this tech fascinating, even if I get why some are freaked out about it. ([Dominic Alves/Flickr](https://www.flickr.com/photos/dominicspics/52710231417))As hinted at up top, [a recent piece from The Food Institute](https://foodinstitute.com/focus/why-the-digital-shelf-label-backlash-is-history-repeating-itself/) argues that the recent complaints about e-paper price labels and dynamic pricing basically mirror what happened with barcodes 50 years ago. Which means that lobbyists and advocacy groups already know what they’re up against. That had led industry groups like the Food Marketing Institute to argue on their websites [that retailers aren’t necessarily surge pricing](https://www.fmi.org/industry-topics/fact-sheet/electronic-shelf-labels--improving-accuracy--reducing-waste-and-supporting-modern-grocery-retail), but changing prices maybe once a day tops. The only exception? Goods that are reaching their expiration date.\n\nOne might argue that the industry has to put the nicest spin on it they possibly can. The fact is, consumers are right to put their guard up, as retailers have not yet proven they can be trusted with the new technology. They more or less earned that trust with barcodes.\n\nNow, to be clear, there may be reasons to use price guns outside of pricing. It might be an effective way of tagging an item’s expiration date, for instance, if it’s suitably small-batch. But we are well past the point where people have to tag prices on every single item every time there’s a change in price.\n\nBut you gotta admit, those guns (despite arguably being liabilities, given how often they cropped up in crime blotters) made price tagging as fast as a deeply manual process probably could be.\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/08/01/pricing-guns-vs-barcodes-history/)!\n\nAnd want some electronic shelf labels for no good reason? Check out the [Tedium Shopping Network](https://shopping.tedium.co/).",
+        "url": "https://feed.tedium.co/link/15204/17399769/pricing-guns-vs-barcodes-history",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-08-01T20:18:00.000Z",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Why businesses lie about AI (01 Aug 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/01Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/01/dare-snot",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/01Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/01/dare-snot/)\n\n## Today's links\n\n- [Why businesses lie about AI](https://pluralistic.net/2026/08/01/dare-snot/#i-will-fucking-piledrive-you-if-you-mention-ai-again): Humoring the boss all the way into bankruptcy.\n\n- [Hey look at this](https://pluralistic.net/2026/08/01/dare-snot/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/08/01/dare-snot/#retro): Vinge x NYT; Syklarov x publishers; Human hair castles; Gingrich's bot army; Accessibility v Web DRM; David Byrne x WinXP; Furries don't fuck in fursuits; AI's pogo-stick grift.\n\n- [Upcoming appearances](https://pluralistic.net/2026/08/01/dare-snot/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/08/01/dare-snot/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/08/01/dare-snot/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/08/01/dare-snot/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/08/01/dare-snot/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/ai-boardroom-psychosis.jpg?w=840&ssl=1)\n\n## Why businesses lie about AI ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#i-will-fucking-piledrive-you-if-you-mention-ai-again))\n\nNeoclassical economics assumes rationality. The corollary of, \"If you're so smart, why aren't you rich?\" is \"you're rich, so you must be very smart!\" Thus it is that many people assume that if powerful, well-compensated CEOs insist that \"AI is changing everything,\" well then, *AI must be changing everything*.\n\nBut the evidence for this \"changing everything\" thesis is thin on the ground. Despite a global mania that has reduced the real, pressing need for digital sovereignty to the imaginary need to create \"sovereign AI,\" no one can really articulate the case for \"sovereign AI.\" If Donald Trump ordered Big Tech to turn off all of your country's chatbots tomorrow, nothing would change. Every one of your country's ministries and corporations would chug on with nary a hitch. Households, too, though perhaps a few of the younger members of those families would have to do their own homework again.\n\n(Contrast this with what would transpire if Trump directed his tech giants to switch off your country's Office 365 access, or to brick your Android and iOS phones, or to killswitch your John Deere tractors. Your country would effectively cease to exist. If \"digital sovereignty\" means anything, it means doing something about *this* urgent fact):\n\n[https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize](https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize)\n\nThe world is full of people who insist that \"AI is changing everything\" but who – when pressed – have to admit that what they mean is that they're pretty sure that AI *will* change everything. Eventually. After we allow it to consume all the planet's energy, carbon, water and financial resources.\n\nMaybe.\n\n(They're pretty sure.)\n\nOne person who's had a lot of opportunity to observe the shear between the stated business/AI situation and the *real* business AI situation is Nikhil Suresh from Hermit Tech, a consulting firm of \"radically ethical data wizards\" (that is, tech consultants). Suresh reports on his experience talking with hundreds of executives (and, more importantly, their subordinates) about what (if anything) AI is doing for business in an essay entitled \"AI Mania Is Eviscerating Global Decisionmaking\":\n\n[https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)\n\nSuresh has a good track record of writing trenchant, frank criticism of AI. You may know him from his 2024 essay, \"I Will Fucking Piledrive You If You Mention AI Again\":\n\n[https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)\n\nOr possibly from his \"Contra Ptacek's Terrible Article On AI,\" a stinging rebuttal to Thomas Ptacek's widely read \"My AI Skeptic Friends Are All Nuts\":\n\n[https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/](https://ludic.mataroa.blog/blog/contra-ptaceks-terrible-article-on-ai/)\n\nWhile those are important pieces of critical AI realpolitik, none of them have the heft or urgency of \"AI Mania Is Eviscerating Global Decisionmaking,\" whose thesis can be summed up with this passage from halfway through this 6,000-word article:\n\n> \n> [W]e’re facing a coordination problem around executives being honest around the AI gains they’ve witnessed – if they co-operate, they keep their jobs. If they defect, they will possibly be fired by their embarrassed peers (who have now been implicitly called liars, cowards, or incompetents) and then replaced with someone that will toe the line anyway. If they could all admit the truth at once there might be some hope, but there is no way to coordinate that event.\n> \n\nIn other words, corporate leadership is starting from the premise that AI has (or will) radically change the business, and they're working backwards from that premise to find the evidence to support this article of faith.\n\nIn support of this thesis, Suresh cites \"hundreds\" of conversations with execs and employees who spoke to him on the condition that he would \"file the serial numbers\" off their stories. These, combined with his own experience consulting for large, multi-billion-dollar companies make it clear that \"AI mania\" is an absolutely justifiable label for the state of AI in corporate circles.\n\nHere are a few highlights from this morning's read – moments where I had to look away from my screen and read out a passage to my wife so that we could share a \"holy shit\" moment.\n\nA person worked for a division that \"pivoted\" to re-engineer its software to create interfaces that support AI agents. When it became apparent that only *ten users* had touched this expensive new technology, they \"pivoted\" again to support \"agentic workflows.\" Why did they double down on AI agents after discovering such yawning market indifference for \"agentic\"? \"Because every company has to do something agentic now.\"\n\nSuresh describes this as a literal religious mania. In the 500+ employee businesses Suresh studied, the only people who were promoted – or even spared from being fired – were people who professed \"religious declarations of faith\" about \"the transformative power of AI.\" Employees who voiced honest, informed objections to AI in the workplace were passed over for promotions or targeted for layoffs.\n\nThis has created a situation in which *everyone* – \"boards, executives, employees, vendors, consultants\" – has a strong incentive to lie about how much AI is delivering for their companies. Suresh says he's seen announcements from publicly traded companies about their AI triumphs that he knows for a fact never took place.\n\nSuresh says he's *never* seen a successful enterprise AI project: \"Every single one – we have seen 0% success in a year and a half.\" Not one of their clients would face a business challenge if OpenAI went out of business tomorrow. The problem most companies struggle with is that they're \"terminally bad at running software projects effectively.\" Adding AI to the mix doesn't solve this problem – it just adds a whole new range of ways that software deployment can fail.\n\nChatbots don't help. The internally facing chatbot that's supposed to help employees figure out how to navigate the business sucks because it is only as good as its training date – the business's documentation of its own processes. Businesses *suck* at documenting their processes. Customer-facing chatbots *also* suck. They either can't solve your problem, or, when they seem to solve your problem, the \"solution\" goes nowhere.\n\nSuresh recounts his sole positive customer service chatbot experience: a Mitsubishi chatbot with a natural sounding, responsive voice politely took all the details of an automotive failure and promised him a callback. That callback never came, but Suresh is certain that Mitsubishi has logged this as a chatbot success story, even though the experience convinced him *not* to buy a Mitsubishi car.\n\nSuresh and his team at Hermit Tech now have a policy of not even asking about ongoing AI projects. They've learned that by the time an AI project has begun, no one will discuss it honestly until it reaches a crisis point.\n\nSuresh says he frequently encounters people who reflexively utter the AI catechism: \"AI is changing everything.\" But when he presses these people for details, they admit that their organization \"does not currently use LLMs for anything, and indeed, that they cannot name a single thing that has changed other than they get some use out of ChatGPT.\"\n\nThis shear (\"AI is changing everything\"/\"Well, OK, we're not using AI for anything\") is so extreme that Suresh once met an exec who confessed to crafting an AI-centered AI strategy for a $2b/year business, even though that exec \"had never even used ChatGPT or any AI tool in their life.\"\n\nSome people have privately admitted to Suresh that they've embraced AI in order to earn a career-boosting corporate reputation for \"thought leadership.\" But many other people (especially nontechnical people) sincerely believe that AI is about to \"change everything.\" As Suresh says, if you're in business with a liar, you might be able to reason with them in private – but you can't reason with a true believer.\n\nThe true believers are in charge. Suresh points out that it would be very weird for the CEO of an engineering firm or a hospital to mandate \"specific procedures or building techniques without explicit agreement from the professionals on staff.\" But when it comes to AI, business leaders will confidently demand that the skilled professionals who perform the business's core functions use AI, even if those professionals don't think it will help.\n\nAs an aside: I remember the dotcom era, when the business press was full of articles about the conflict between CEOs and a new workforce that *demanded* the right to use the web on the job. Today, the business press is full of articles about the conflict between the workforce and CEOs who *demand* that they use AI.\n\nSuresh describes workers who feel they have to \"AI wash\" their work: \"They just do the work, the same way they have for decades, and say Claude did it.\" To add verisimilitude to this sham, they write circular processes in which one chatbot prompts another, and then the process repeats itself in reverse, for the sole purpose of consuming AI tokens to score a high rank on corporate \"token leaderboards.\"\n\nHow to account for this wildly, expensively irrational corporate leadership? Suresh places the blame in the hypnotizing, mesmerizing power of the AI demo. For example: Hermit Tech is often engaged to set up a database product called Snowflake for its customers. Snowflake has a useless, expensive AI bolt-on called Cortex, that Snowflake itself describes as being 92% accurate under ideal circumstances (that is, at least 8% of the time, it will mislead you, perhaps very badly).\n\nSuresh describes sales meetings with execs who were lukewarm on the idea of retooling with Snowflake, but who were very interested in Cortex. Against their better judgment, Suresh and his team provided them with a Cortex demo, carefully explaining that this AI tool *could not* satisfy their requirements. Without fail, this resulted in the previously lukewarm customers insisting that they be allowed to purchase Cortex *immediately*. Sales prospects who'd been unmoved by a pitch for new technology that would result in *millions* in savings were *hypnotized* by demos of a product that was described as *unsuitable and unreliable*.\n\nTo their credit, Hermit Tech refused to sell these customers Cortex, and stopped doing Cortex demos altogether. Suresh describes the experience of \"the total 180°, that shift from ice-cold to red-hot buying frenzy\" as \"deeply unsettling.\" What's more, the Cortex demos that Suresh and co performed were, by his account, pretty uninspiring. The thing that these demos had going for them is that they showed AI actually doing something marginally useful, to execs who'd already spent millions on AI without having *anything* to show for their money. The spectacle of AI that *does something* galvanizes corporate leaders who feel like they're the only bosses who can't find a revolutionary use for AI in their businesses.\n\nThis is the situation up and down the corporate org-chart. Suresh has a reader whose title is \"Head of AI\" at a billion-dollar firm who tells him \"their job is totally fraudulent but it was the only promotion pathway remaining at the organisation.\" This exec is hardly alone. They're part of a cohort of executives at companies that have publicly announced \"100x\" productivity gains, but who confessed to Suresh that nothing of the sort has happened.\n\nWhy did these companies make these claims? Because their *customers* were making the claims. How could you hope to sell to a company that had 100x'ed its productivity with AI unless you, too had 100x'ed your productivity? If, as a vendor, you walked into a boardroom and said that this wasn't a plausible claim, you'd be calling your sales prospect a liar, with real consequences: \"getting enterprise contracts cancelled because you wanted to opine on something that doesn’t really matter to your organisation’s mission is a great way to get fired.\"\n\nWith the state of the industry dominated by froth, lies and mutual destruction pacts, it's no wonder that companies are deploying \"totally gameable metrics such as 'money spent on AI'\" as a means of evaluating employees and divisions.\n\nBetween true believers and people who must find ways to plausibly tout their AI usage, there is now a gigantic market for \"AI solutions.\" At *best* these are just traditional tech consulting contracts, like migrating a database from Oracle to Snowflake, with some kind of ornamental AI usage around the edges so that the person who commissions the work can claim to be \"procuring AI-enabled services\" for the business.\n\nThis isn't a harmless frippery: contracts are delayed and work is put off until the work can be made \"sufficiently AI\" to attain the minimum degree of buzzword compliance. Worse: every fake AI project that produces real results (because it's not really AI) adds credibility to the AI true believers, who view these projects as proof that AI can do anything, and therefore demand to know why *everything* isn't being done by AI.\n\nSuresh ends his essay with a long section on how to \"navigate AI mania\" – advice for how to smile and nod politely when you're confronted with AI bullshit, while steering clear of the worst consequences and avoiding needless fights. This looks like very sound advice for anyone in a corporate environment, but thankfully, that isn't me.\n\nRather than summarize that advice, I want to reflect a little on two questions that Suresh's essay raises but doesn't answer. The first is *why*? Why are people in power such easy converts to this religious mania?\n\nI have my own theory. The most important discomfort that powerful people experience is having ego-shattering conflicts with subordinates who know how to do things they do not know how to do. The fact that you're \"in charge\" is hard to reconcile with the fact that the people you're nominally in charge *of* tell you that all your ideas are impossible, illegal, immoral, or lethal:\n\n[https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)\n\nTake that Cortex demo. Sure, Cortex is an expensive, unreliable way to address a Snowflake database. But (unlike Snowflake) Cortex is controlled via conversational, plain-language commands. With Cortex, a boss doesn't need to ask an underling to retrieve information from the company Snowflake system, an interaction that might come with unsolicited feedback about the technical or commercial incoherence of the boss's request. Cortex *is* the underling, except that unlike a human underling, Cortex *never* back-sasses you about your foolish questions. The fact that it grossly misleads you 8% of the time is a small price to pay for a life untroubled by uppity pismires who insist that your ideas be connected to base reality as they understand it.\n\nThe other question Suresh implicitly raises is, \"How can you reconcile the failure of AI in the enterprise with the individual claims of skilled technologists who insist that AI is helping them do great work?\" The answer is that these AI users are \"centaurs\" – experienced workers who are assisted by automation on terms that they set for themselves:\n\n[https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)\n\nThanks to their skill and experience, these workers possess *discernment*, the ability to tell good code from bad, and (more importantly) good *uses* of code-generation tools from bad. They demonstrate the adage that worker-driven automation improves quality, while capital-driven automation improves *throughput*:\n\n[https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh](https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh)\n\nAn automation technique that requires close supervision by skilled and experienced workers isn't going to be a raw productivity powerhouse. You don't \"100x\" your code this way, at least, not in the sense of firing 99 of your coders and having the remaining programmer pick up all their work. Rather, an automation tool that requires the continuous and conscientious exercise of discernment will let individual practitioners improve their work in extremely satisfying and useful ways. It's a way to spend more on operations in order to produce better outputs. It's *not* a way to cut your workforce, realize a gigantic savings, and still produce comparable goods and services at a far lower cost.\n\nThat is why some individual coders report such delight with their AI tools. They engage with those tools on their own terms, to improve their work in the ways that they, in their expert judgment, consider beneficial. No one ranks them on a \"token-maximization\" scoreboard. No one tells them they can't do a project if it isn't \"sufficiently AI.\" When they set out to do a project, no one makes them prove that it couldn't be \"done by AI.\"\n\nAs ever, the most important fact about a given technology isn't \"what it does,\" but \"who it does it *for*\" and \"who it does it *to*.\"\n\nAll the pathologies Suresh observes and documents so well in this piece are hypertrophied versions of the buzzword-compliance dysfunctions from previous bubbles, but at a scale never before seen. Quantity has a quality all its own. These businesses aren't just wasting billions – they're replacing skilled workers with defective chatbots. As I've written before, AI is the asbestos we're shoveling into the walls of our technological society. Our descendants will spend *generations* digging it out again, and the longer the bubble goes on without popping, the longer it will take to repair the damage.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- The rent was already high. Then came the $200 work-from-home fee [https://finance.yahoo.com/real-estate/articles/rent-already-high-then-came-174555709.html](https://finance.yahoo.com/real-estate/articles/rent-already-high-then-came-174555709.html)\n\n- \nFamilies in London temporary housing told they cannot use in-built air conditioning [https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning](https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning)\n\n- \nThe New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key [https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)\n\n- \nUS government map of Africa mislabels every country at global conference [https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries?CMP=Share_AndroidApp_Other](https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries?CMP=Share_AndroidApp_Other)\n\n- \nEFF Guide to Recording Law Enforcement [https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement](https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#retro))\n\n#25yrsago Vernor Vinge in the NYT  [https://www.nytimes.com/2001/08/02/technology/a-scientist-s-art-computer-fiction.html](https://www.nytimes.com/2001/08/02/technology/a-scientist-s-art-computer-fiction.html)\n\n#25yrsago Why publishers should thank Syklarov [https://web.archive.org/web/20011023092940/http://www.zdnet.com/zdnn/stories/comment/0,5859,2800985,00.html](https://web.archive.org/web/20011023092940/http://www.zdnet.com/zdnn/stories/comment/0,5859,2800985,00.html)\n\n#25yrsago David Byrne track to be bundled with WinXP [https://web.archive.org/web/20010804040357/http://www.ananova.com/news/story/sm_365899.html?menu=news.technology](https://web.archive.org/web/20010804040357/http://www.ananova.com/news/story/sm_365899.html?menu=news.technology)\n\n#20yrsago Five things about blogs that no one ever needs to say again [https://web.archive.org/web/20060813090449/http://www.stevenberlinjohnson.com/2006/08/five_things_all.html](https://web.archive.org/web/20060813090449/http://www.stevenberlinjohnson.com/2006/08/five_things_all.html)\n\n#15yrsago Castles made from human hair [https://inhabitat.com/artist-uses-human-hair-to-construct-a-castle-of-3000-bricks/](https://inhabitat.com/artist-uses-human-hair-to-construct-a-castle-of-3000-bricks/)\n\n#15yrsago Wisconsin Democratic voters targeted with Koch-funded absentee ballot notices advising them to vote 2 days after the recall election [https://www.politico.com/blogs/david-catanese/2011/08/afp-wisconsin-ballots-have-late-return-date-037977?showall](https://www.politico.com/blogs/david-catanese/2011/08/afp-wisconsin-ballots-have-late-return-date-037977?showall)\n\n#15yrsago Gingrich’s million Twitter followers: “80% dummy accounts, 10% paid followers” [https://web.archive.org/web/20110812100159/https://gawker.com/5826645/most-of-newt-gingrichs-twitter-followers-are-fake](https://web.archive.org/web/20110812100159/https://gawker.com/5826645/most-of-newt-gingrichs-twitter-followers-are-fake)\n\n#15yrsago Missouri State business-school professor leads successful campaign to ban Slaughterhouse-Five from local schools [https://www.theguardian.com/books/2011/jul/29/slaughterhouse-five-banned-us-school](https://www.theguardian.com/books/2011/jul/29/slaughterhouse-five-banned-us-school)\n\n#10yrsago Australian media accessibility group raises red flag about DRM in web standards [https://hotelsantalya.net/accessiq/news/news/2016-p/08-p/concerns-raised-for-assistive-technology-development-as-w3c-debates-encrypted/](https://hotelsantalya.net/accessiq/news/news/2016-p/08-p/concerns-raised-for-assistive-technology-development-as-w3c-debates-encrypted/)\n\n#10yrsago Reminder: the GOP has been attacking veterans and their families for years [https://web.archive.org/web/20160803203106/https://crookedtimber.org/2016/08/02/trumps-indecent-proposal/](https://web.archive.org/web/20160803203106/https://crookedtimber.org/2016/08/02/trumps-indecent-proposal/)\n\n#10yrsago Isis joins Donald Trump in denouncing Khizr Khan [https://web.archive.org/web/20160802161454/https://theintercept.com/2016/08/02/donald-trump-and-islamic-state-agree-no-room-for-people-like-khizr-khan/](https://web.archive.org/web/20160802161454/https://theintercept.com/2016/08/02/donald-trump-and-islamic-state-agree-no-room-for-people-like-khizr-khan/)\n\n#10yrsago Furries don’t have sex in fursuits [https://www.ohjoysextoy.com/fursuits-grey-white/](https://www.ohjoysextoy.com/fursuits-grey-white/)\n\n#5yrsago Machine learning sucks at covid [https://pluralistic.net/2021/08/02/autoquack/#gigo](https://pluralistic.net/2021/08/02/autoquack/#gigo)\n\n#1yrago AI's pogo-stick grift [https://pluralistic.net/2025/08/02/inventing-the-pedestrian/#three-apis-in-a-trenchcoat](https://pluralistic.net/2025/08/02/inventing-the-pedestrian/#three-apis-in-a-trenchcoat)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: EFFecting Change: Who the Machine Serves, Aug 12\n\n[https://www.eff.org/event/effecting-change-who-machine-serves](https://www.eff.org/event/effecting-change-who-machine-serves)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/program/](https://festivalofdangerousideas.com/program/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#recent))\n\n- F@#$ the AI Overlords (On The Media)\n\n[https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords](https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords)\n\n- \nWhy AI Won't Replace Workers, But Will Crash The Economy (Smart Cookies)\n\n[https://www.youtube.com/watch?v=rRRmUuxJolY](https://www.youtube.com/watch?v=rRRmUuxJolY)\n\n- \nAI and the Enshittification Era (The Weekly Show with Jon Stewart)\n\n[https://www.youtube.com/watch?v=-dAIJRjb-Bw](https://www.youtube.com/watch?v=-dAIJRjb-Bw)\n\n- \nAI is not inevitable (Betakit)\n\n[https://www.youtube.com/watch?v=DbiTVkq1WHo](https://www.youtube.com/watch?v=DbiTVkq1WHo)\n\n- \nA Conversation with Lina Khan (Law and Economy Student Network)\n\n[https://www.youtube.com/live/7Ak5LZllqwE](https://www.youtube.com/live/7Ak5LZllqwE)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/08/01/dare-snot/#bragsheet))\n\nToday's top sources:\n\n**Currently writing: \"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- A Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/08/01/dare-snot/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "Sat, 01 Aug 2026 12:29:28 +0000",
+        "reading_time": 22,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Ten advances in mathematics and theoretical computer science - 1st August 2026 - Link Blog **[Ten advances in mathematics and theoretical computer scienc...",
+    "Quoting Greg Brockman - 1st August 2026 > at openai, many people hook their chatgpt up to slack. > people really d...",
+    "datasette-apps 0.2a0 - > Changes that improve Datasette Apps when created and edited using [Datasette Agent](http...",
+    "Apple Q3 2026 Results - On Thursday, Apple announced [record third-quarter earnings](https://www.apple.com/newsroo...",
+    "The Apple Upgrade Situation - The final measure of any financial negotiation is the feeling of whether or not you got a..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 8
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "order",
+      "count": 5
+    },
+    {
+      "word": "equations",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "stages",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 3
+    },
+    {
+      "word": "august",
+      "count": 3
+    },
+    {
+      "word": "datasette",
+      "count": 3
+    },
+    {
+      "word": "agent",
+      "count": 3
+    },
+    {
+      "word": "polynomial",
+      "count": 2
+    },
+    {
+      "word": "coefficients",
+      "count": 2
+    },
+    {
+      "word": "differential",
+      "count": 2
+    },
+    {
+      "word": "seems",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "class",
+      "count": 2
+    },
+    {
+      "word": "counting",
+      "count": 2
+    },
+    {
+      "word": "interesting",
+      "count": 2
+    },
+    {
+      "word": "connection",
+      "count": 2
+    },
+    {
+      "word": "runge-kutta",
+      "count": 2
+    },
+    {
+      "word": "error",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "ten",
+      "count": 2
+    },
+    {
+      "word": "advances",
+      "count": 2
+    },
+    {
+      "word": "mathematics",
+      "count": 2
+    },
+    {
+      "word": "theoretical",
+      "count": 2
+    },
+    {
+      "word": "computer",
+      "count": 2
+    },
+    {
+      "word": "science",
+      "count": 2
+    },
+    {
+      "word": "st",
+      "count": 2
+    },
+    {
+      "word": "openai",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "measure",
+      "count": 2
+    },
+    {
+      "word": "feeling",
+      "count": 2
+    },
+    {
+      "word": "wrote",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "aug",
+      "count": 2
+    }
+  ]
+}
