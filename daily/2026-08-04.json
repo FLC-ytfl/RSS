@@ -1,0 +1,735 @@
+{
+  "date": "2026-08-04",
+  "stats": {
+    "total_fetched": 282,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "TerminalWidget 1.0",
+        "summary": "New app from Brett Terpstra: TerminalWidget lets you send output from commands, scripts, APIs, and Shortcuts directly to widgets across macOS, iOS, and iPadOS with rich formatting, progress bars, sparklines, and image su...",
+        "url": "https://terminalwidget.app/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile",
+          "AI/ML"
+        ],
+        "published_at": "2026-08-04T02:32:33.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ratio of metallic ratios",
+        "summary": "The golden ratio is the first and best known of the metallic ratios. I’ve written about the silver ratio a few times, most recently here. And I’ve mentioned the bronze ratio a couple times. The metallic ratios after bron...",
+        "url": "https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "Tue, 04 Aug 2026 11:41:49 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Yours Truly on TBPN Yesterday",
+        "summary": "TBPN seems like a show I wouldn’t enjoy guesting on, but I actually enjoy it quite a bit. ★",
+        "url": "https://www.youtube.com/live/ruL8Q-TsbbI?t=4085",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T18:34:06.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Gig Review: Belle & Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★",
+        "summary": "It's 1998 and Doogie, the guy across the hall in our student accommodation, will not stop playing The Boy With The Arab Strap. Eventually I crack and ask him who the band are. He infodumps on me with all the authority of...",
+        "url": "https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Tue, 04 Aug 2026 11:34:22 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Metallic alchemy",
+        "summary": "After writing the previous post about metallic ratios, I thought about the analogy to alchemy and the attempt to make precious metals out of base metals. When can you make one metallic ratio out of another? Can you make...",
+        "url": "https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:18:58 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The AI Demand Bubble",
+        "summary": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detail...",
+        "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 04 Aug 2026 15:49:28 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Radio Shack’s TRS-80: Introduced Aug 3, 1977",
+        "summary": "When Radio Shack announced its TRS-80 Model 1 on Aug 3, 1977, designer Steve Leininger thought they could sell 50,000 units. Tandy executives didn’t believe him. But the response overwhelmed the company, and 250,000 peop...",
+        "url": "https://dfarq.homeip.net/radio-shacks-trs-80-introduced-aug-3-1977/?utm_source=rss&utm_medium=rss&utm_campaign=radio-shacks-trs-80-introduced-aug-3-1977",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 04 Aug 2026 11:00:05 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet",
+        "summary": "Cloudflare Wallets will provide AI agents with native payments and verifiable identity on the web. Using the x402 protocol, agents can autonomously purchase APIs and content within clear safety guardrails.",
+        "url": "https://blog.cloudflare.com/wallets/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Cloud"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Run CI/CD for millions of repos — on your platform, on Cloudflare",
+        "summary": "Learn how to build customizable, sandboxed CI/CD pipelines natively on Cloudflare using Workflows, Artifacts, and the CI SDK. We walk through replacing complex YAML configurations with TypeScript workflow steps and self-...",
+        "url": "https://blog.cloudflare.com/ci-workflows/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "DevOps",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How Cloudflare enforces engineering standards using AI",
+        "summary": "We created the Cloudflare Codex, a governed body of engineering standards that AI agents consume across the development lifecycle. By pairing structured RFCs with agentic reviews, teams automatically enforce consistency...",
+        "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we built a software factory to drive Astro’s GitHub issue count to zero",
+        "summary": "By replacing manual issue verification with isolated AI subagents running in GitHub Actions, the Astro maintainers reduced open issue count by 85%. This post explores the architecture behind automated bug reproduction, p...",
+        "url": "https://blog.cloudflare.com/astro-issue-triage/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "DevOps"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Agent Development Lifecycle has arrived on Cloudflare",
+        "summary": "Agents can write code faster than teams can review, deploy, and maintain it. Today we’re introducing the Agent Development Lifecycle and the Cloudflare primitives that underpin it",
+        "url": "https://blog.cloudflare.com/agent-development-lifecycle/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Product"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing: Cloudflare Agents",
+        "summary": "Cloudflare Agents brings all of your deployed agent sessions into a single experience, surfacing key information and insights into how your agents perform at scale.",
+        "url": "https://blog.cloudflare.com/agents-on-cloudflare/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Your agent can now debug Workers with local tracing",
+        "summary": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required.",
+        "url": "https://blog.cloudflare.com/local-tracing/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "DevOps"
+        ],
+        "published_at": "Tue, 04 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-04T22:51:38.230Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Bending Spoons to Buy Airtable for $1.3 Billion",
+        "summary": "In Brief\n\nPosted:\n\n4:30 AM PDT · August 4, 2026\n\n![](https://techcrunch.com/wp-content/uploads/2026/08/1775612684808b896334503189e6f0c1fadd8857-2378x1280-1.jpg?w=1024)**Image Credits:**Airtable\n\nIn it",
+        "content": "In Brief\n\nPosted:\n\n4:30 AM PDT · August 4, 2026\n\n![](https://techcrunch.com/wp-content/uploads/2026/08/1775612684808b896334503189e6f0c1fadd8857-2378x1280-1.jpg?w=1024)**Image Credits:**Airtable\n\nIn its first acquisition since going public last month, Bending Spoons on Tuesday said that it has agreed to buy spreadsheet and database startup Airtable for $1.28 billion in cash. \n\nFounded in 2013, Airtable has so far raised more than $1.4 billion over multiple funding rounds. At its peak, during the boom days of 2021, it was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.\n\nWith its current net cash-and-cash-equivalents balance, Airtable is now valued at about $2.25 billion, Bending Spoons said.\n\n“Airtable is a pioneering brand reshaping how teams organize data and manage critical workflows. The value being delivered is reflected in annual recurring revenue growing over 20% YoY to approximately $480 million as of June 2026, and joining forces with Bending Spoons will accelerate innovation even further,” Bending Spoons’ founder Luca Ferrari said in a statement.\n\nIn January, Airtable unveiled [a new product line](https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/) under the Superagent moniker: an orchestration platform that can help users spin up a team of AI agents to do tasks. The company’s CEO, Howie Liu, said at the time that Airtable serves over 500,000 organizations, including 80% of the Fortune 100.\n\nBending Spoons, which went public at [an $18 billion valuation in July](https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/), typically acquires companies that are trading at a decent discount to their private valuations, trims the staff, streamlines products, and tries to make them run profitably.\n\nThe company has so far acquired several notable brands, including Evernote, [WeTransfer](https://techcrunch.com/2024/07/31/bending-spoons-acquires-file-transfer-service-wetransfer/), [EventBrite](https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/), and [Vimeo](https://techcrunch.com/2025/09/10/vimeo-to-be-acquired-by-bending-spoons-in-1-38b-all-cash-deal/).\n\n\t\n\t\t\n\t\t\t\n### Newsletters\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\tSubscribe for the industry’s biggest tech news\n\n\t\n\t\n\t\t\n\t\n\t\n\n## Related\n\n## Latest in Fundraising",
+        "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Startup",
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "2026-08-04T15:13:48.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Quoting Steve Yegge",
+        "summary": "4th August 2026\n\n> [Gas Town](https://yegge.ai/gastown.html) was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through ",
+        "content": "4th August 2026\n\n> [Gas Town](https://yegge.ai/gastown.html) was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more things\" tic, which prevented Opus from ever converging on being ready to do real work—it always wanted to fiddle with Gas Town itself. The Opus tic never went away, so Gas Town effectively burned down. It had other problems, too, but 4.7 was the final straw.\n\n— [Steve Yegge](https://yegge.ai/essays/the-shape-of-things-to-come/), The Shape of Things to Come",
+        "url": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-04T00:42:45.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "PipeNetwork/minimax-h3-mlx",
+        "summary": "4th August 2026 - Link Blog\n\n**[PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx)**. MiniMax released [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) two days ago - ",
+        "content": "4th August 2026 - Link Blog\n\n**[PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/minimax-h3-mlx)**. MiniMax released [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) two days ago - they describe it as a \"a general-purpose, omni-modal generative system\", which in practice means it accepts text, images, audio and video and can use them to generate up to 15 second video clips with audio included.\n\nThis Python package ports it to MLX for running on Apple Silicon.\n\nI got it running on my M5 Max MacBook Pro. I cloned the repo and ran the model like this:\n\n```\n# First download the models\nuvx --from huggingface_hub hf download MiniMaxAI/MiniMax-H3 \\\n  --include 'FL2VA/*' --exclude 'FL2VA/transformer/*'\nuvx --from huggingface_hub hf download pipenetwork/MiniMax-H3-MLX-8bit\n\n# Now run the prompt\nuv run --with mlx-vlm \\\n  --with-requirements requirements.txt python scripts/generate.py \\\n  \"a rainbow colored skunk leaps over a mossy log in a supermarket\" \\\n  -o skunk.mp4 \\\n  -c ~/.cache/huggingface/hub/models--MiniMaxAI--MiniMax-H3/snapshots/fa9c8ab1eaa21c8ae25e7e40b83b2e6002f340af/FL2VA \\\n  -t ~/.cache/huggingface/hub/models--pipenetwork--MiniMax-H3-MLX-8bit/snapshots/3ac52081470b0488921c3ec3ba84a39097bf2361\n\n```\n\nHere's the video I got for the prompt:\n\n> `a rainbow colored skunk leaps over a mossy log in a supermarket`\n\n    \n    Your browser does not support HTML5 video.\n  \n\nIt downloaded ~115 GB of model files, and the video generation took just under 45 minutes.\n\nThe video is impressive, but the audio is weird speech-like garbage, because I didn't provide any prompt guidance as to what the audio should be. The [prompting guide](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/VIDEO_PROMPT_WRITING_GUIDE_base_en.md) (which I didn't read prior to this experiment) has a whole bunch of information on how to get this to work.",
+        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-04T19:10:09.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/04Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/04/technolog",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/04Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/)\n\n## Today's links\n\n- [Post-American compute for a post-American Internet](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#hrdag): Building cooperative human rights computing infrastructure in Puerto Rico, the EU, Canada and Mexico.\n\n- [Hey look at this](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#retro): Urine Luck; Germany v pornoscanners; Moorcock's 3-day novels; Women's voices can never be \"right\"; Drone delivery v reality; Abortion activists: TNG; AI coders are a marketing claim.\n\n- [Upcoming appearances](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/intl-data-coop.jpg?w=840&ssl=1)\n\n## Post-American compute for a post-American Internet ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#hrdag))\n\nObviously, the non-American world has a digital sovereignty problem – Trump has means, motive and opportunity to order his tech companies to shut down any public official, large corporation, or individual who displeases him:\n\n[https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize](https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize)\n\nBut *Americans* face the same digital sovereignty risk. America is a lawless place now, where a pliable Supreme Court and supine Congress have affirmed that \"it's not a crime if the president does it.\" The same tech giants who sold out to Trump for tax breaks and protection from antitrust enforcement will happily disconnect any member of the American public, any American company, any American official who displeases Trump.\n\nIt's a strange irony that in this moment when so many of us are struggling to \"de-Google\" our lives, a forcible, sudden de-Googling amounts to a sort of digital death penalty:\n\n[https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)\n\nIn a world dominated by tech monopolies, duopolies and cartels, there's every reason in the world to seek protection and insulation from these companies that are \"too big to care\" – and yet, the very same dominance that makes these companies such a danger also makes them indispensable.\n\nTake \"ICE Block,\" an iOS app that warns you if there's an ICE thug hunting people like you in your vicinity, which might save you from being kidnapped, disappeared, sent to a concentration camp, forced into slave labor in El Salvador, or simply murdered. In order to protect its relationship with the Trump regime (and the tax breaks, monopoly power and tariff-free access to Chinese labor that that relationship guarantees), Apple declared ICE officers to be a protected class and then removed ICE Block from its App Store:\n\n[https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)\n\nBig Tech is key to Trump's pogroms. Without Oracle's databases, Microsoft's administrative tools, Amazon's cloud, and Google's location data, ICE would be frozen in place. Big Tech is the source of Americans' risk from authoritarian oppression. That means that Americans *cannot* rely on Big Tech to protect them from that authoritarianism.\n\nAnd yet, after decades of regulatory forbearance and lax antitrust enforcement, Big Tech has forced nearly all its rivals out of business. Who can compete with companies that use Irish domicile to evade taxation and US domicile to evade privacy law?\n\nThere's a joke from eastern Canada I think of often in situations like this. Its punchline goes, \"If you wanted to get there, I wouldn't start from here.\"\n\nBut here we are. And speaking of Canada, while it has many problems, it is not (as of time of writing) the USA, but it *is* connected to the USA via the internet. Which means that Americans could – hypothetically – source their computing infrastructure from suppliers that were based in Canada, and who strictly ensured that they had no dependency on US services and scrupulously avoided a US \"enforcement nexus\":\n\n[https://pluralistic.net/2023/03/05/theyre-still-trying-to-ban-cryptography/](https://pluralistic.net/2023/03/05/theyre-still-trying-to-ban-cryptography/)\n\nThat is *exactly* what some American – and international – human rights nonprofits have done. The Technology Freedom Cooperative is a brand new organization founded by the Human Rights Data Analysis Group (San Francisco), Kilómetro 0 (Puerto Rico), Invisible Institute (Chicago), Data Cívica (Mexico) and Innocence & Justice Louisiana:\n\n[https://www.linkedin.com/pulse/techfreedomcoop-stuart-flack-8eipc/](https://www.linkedin.com/pulse/techfreedomcoop-stuart-flack-8eipc/)\n\nAll of these organizations are longstanding, highly effective human rights fighters. They have long, storied histories of collecting, analyzing, and presenting data to address systemic discrimination, false imprisonment, extrajudicial killings, war crimes and genocides. They have concluded that they can't rely on US tech and US servers with their data. Not after Trump and Microsoft colluded to kill the online accounts of the Chief Prosecutor of the International Criminal Court to punish him for swearing out a genocide warrant against Netanyahu:\n\n[https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3](https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3)\n\nTech Freedom Coop has federated computing resources in Canada, the United States, Mexico, Puerto Rico and Europe. By spreading out their data and computation across multiple jurisdictions, they seek to ensure that a US seizure or deletion of their data will not halt their work.\n\nThis federated system serves as a replacement for Big Tech's administrative tools – email hosting, cloud storage, document collaboration. More than that: Tech Freedom Coop is also building out its own AI infrastructure, locally hosted and managed.\n\nGroups like HRDAG have decades of experience using cutting edge statistical techniques to uncover and reveal the extent of crimes committed during civil wars, hot wars, genocides and secret wars. They built the largest human rights database ever created, to track every death in the Colombian Civil War and estimate the likelihood that each killing was carried out by a CIA-backed militia, FARC guerrillas, or the Colombian military:\n\n[https://hrdag.org/colombia/](https://hrdag.org/colombia/)\n\nThey conducted the first ever census of killing by US police officers:\n\n[https://hrdag.org/poli/](https://hrdag.org/poli/)\n\nThey partnered with Innocence Project New Orleans to sift through mountains of arrest reports to surface cases similar to successful exonerations, helping more innocents to win their freedom:\n\n[https://hrdag.org/2025/02/20/ipno/](https://hrdag.org/2025/02/20/ipno/)\n\nToday, they are active across the USA, tracking and analyzing the crimes committed by the Trump regime:\n\n[https://hrdag.org/2026/07/05/naming-police-officers-who-kill-in-california/](https://hrdag.org/2026/07/05/naming-police-officers-who-kill-in-california/)\n\nAnd they are working in Gaza, to document the genocide so that someday, the truth can be acknowledged and the perpetrators brought to justice:\n\n[https://hrdag.org/pressroom/nyt-gaza-toll/](https://hrdag.org/pressroom/nyt-gaza-toll/)\n\nI've known Patrick Ball, the statistician and programmer who founded HRDAG, for more than 20 years, and every time we meet, I learn something from him. He's the person who comes to mind whenever people tell me that AI is useless and that programmers who claim otherwise are deluded. Patrick is one of the best programmers I know, he is the very best statistician I know, and he's found many, many ways to use coding assistants to help him perform massive data-analysis projects that are vital to human rights struggles. He's a \"centaur\" if ever there was one:\n\n[https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)\n\nIt's exciting to see Patrick and his colleagues and collaborators taking these decisive steps to begin building the post-American internet and a kind of post-bubble AI, where AI tools are treated as normal technologies, capable of helping skilled practitioners who have discernment born of experience to apply them wisely to achieve important things:\n\n[https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh](https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh)\n\nFor more than 20 years, HRDAG has been impressing me with the things we can do using advanced statistical analysis. The current generation of AI tools are founded in advanced stats, too. No one should think that advanced stats can solve all your problems of course. The AI bubble is madness and will lead to ruin – environmental, economic, political:\n\n[https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves](https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves)\n\nThe world would be a better place without the AI bubble. But AI? It's fine. It's another form of statistical analysis and inference. There's no reason to use all the planet's energy, computing and water to perform that analysis, but the correct and desirable amount of useful AI-style computation is nowhere near zero.\n\nThe coop is building good AI tools – ones grounded in a realistic assessment of their usefulness and a reasonable commitment of resources to them. They're running open models based on their own data, on computers they own and control. Their stated goal is to \"help organizations test whether models are accurate, reproducible, secure, and appropriate for specific human rights use cases.\"\n\nWhich brings me to the final component of Tech Freedom Coop: training. They're teaching people who work in human rights how to administer their own servers, secure their data and communications, and analyze data. As their press release says, these are all \"skills that are increasingly necessary for human rights organizations documenting abuses of power.\"\n\nI've known this was coming for a while now, and I'm so pleased to see that it's finally launched. At last, the first steps towards a post-American internet.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Rappler: Open Source Intelligence Researcher [https://gijn.org/jobs/open-source-intelligence-researcher/](https://gijn.org/jobs/open-source-intelligence-researcher/)\n\n- \nPlutonomy—the AI Edition—and the Coming Crisis [https://www.levyinstitute.org/wp-content/uploads/2026/07/wp_1122.pdf](https://www.levyinstitute.org/wp-content/uploads/2026/07/wp_1122.pdf)\n\n- \nThe Real Story Behind the 2018 Google Walkout [https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/](https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#retro))\n\n#25yrsago Asia Carrera’s makeup tips [http://www.asiacarrera.com/makeup/welcome.html](http://www.asiacarrera.com/makeup/welcome.html)\n\n#25yrsago Tommy Chong's Urine Luck [https://web.archive.org/web/20010818124925/https://hempmasters.com/urineluck/](https://web.archive.org/web/20010818124925/https://hempmasters.com/urineluck/)\n\n#15yrsago German cops call airport full-body pornoscanners “useless,” EU requires opt out from scanning [https://www.schneier.com/blog/archives/2011/08/german_police_c.html](https://www.schneier.com/blog/archives/2011/08/german_police_c.html)\n\n#15yrsago Write an adventure novel in three days, the Michael Moorcock way [https://web.archive.org/web/20110705155756/https://wetasphalt.com/?q=content/how-write-book-three-days-lessons-michael-moorcock](https://web.archive.org/web/20110705155756/https://wetasphalt.com/?q=content/how-write-book-three-days-lessons-michael-moorcock)\n\n#10yrsago DRM: You have the right to know what you’re buying! [https://www.eff.org/files/2016/08/06/eff_request_for_investigation_re_labeling_drm-limited_products.pdf](https://www.eff.org/files/2016/08/06/eff_request_for_investigation_re_labeling_drm-limited_products.pdf)\n\n#10yrsago Bureaucrats disqualify Hong Kong legislative candidates for insufficient loyalty [https://globalvoices.org/2016/08/05/hong-kong-election-officials-disqualify-six-legislative-candidates-for-not-being-loyal-enough-to-china/](https://globalvoices.org/2016/08/05/hong-kong-election-officials-disqualify-six-legislative-candidates-for-not-being-loyal-enough-to-china/)\n\n#10yrsago The Vlogbrothers guide to voting in every state in the union [https://www.youtube.com/c/howtovoteineverystate](https://www.youtube.com/c/howtovoteineverystate)\n\n#10yrsago Vocal fry, uptalking, nasal: women’s voices can never be “right” [https://www.thecut.com/2016/07/female-voice-anxiety-c-v-r.html](https://www.thecut.com/2016/07/female-voice-anxiety-c-v-r.html)\n\n#5yrsago Facebook escalates war on accountability [https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#quis-custodiet-ipsos-zuck](https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#quis-custodiet-ipsos-zuck)\n\n#5yrsago Drone delivery crashes [https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#droned](https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#droned)\n\n#5yrsago Anti-vaxers cool the mark [https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#goffman](https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#goffman)\n\n#5yrsago Meet the new generation of pro-abortion activists [https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#never-again](https://pluralistic.net/2021/08/05/comprehensive-sex-ed/#never-again)\n\n#1yrago Bragging about replacing coders with AI is a sales-pitch [https://pluralistic.net/2025/08/05/ex-princes-of-labor/#hyper-criti-hype](https://pluralistic.net/2025/08/05/ex-princes-of-labor/#hyper-criti-hype)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: EFFecting Change: Who the Machine Serves, Aug 12\n\n[https://www.eff.org/event/effecting-change-who-machine-serves](https://www.eff.org/event/effecting-change-who-machine-serves)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/program/](https://festivalofdangerousideas.com/program/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#recent))\n\n- The AI Enshittification Bubble (Hidden Forces)\n\n[https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/](https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/)\n\n- \nF@#$ the AI Overlords (On The Media)\n\n[https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords](https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords)\n\n- \nWhy AI Won't Replace Workers, But Will Crash The Economy (Smart Cookies)\n\n[https://www.youtube.com/watch?v=rRRmUuxJolY](https://www.youtube.com/watch?v=rRRmUuxJolY)\n\n- \nAI and the Enshittification Era (The Weekly Show with Jon Stewart)\n\n[https://www.youtube.com/watch?v=-dAIJRjb-Bw](https://www.youtube.com/watch?v=-dAIJRjb-Bw)\n\n- \nAI is not inevitable (Betakit)\n\n[https://www.youtube.com/watch?v=DbiTVkq1WHo](https://www.youtube.com/watch?v=DbiTVkq1WHo)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/#bragsheet))\n\nToday's top sources:\n\n**Currently writing:**\n\n**\n- “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 692 (692 total).\n\n**- **\n****\"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/08/04/technology-freedom-cooperative/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Cloud",
+          "Mobile"
+        ],
+        "published_at": "Tue, 04 Aug 2026 11:14:27 +0000",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "brew install actions/checkout",
+        "summary": "In December I went through why [`uses:` is a package manager with no lockfile, no integrity hashes and no transitive visibility](https://nesbitt.io/2025/12/06/github-actions-package-manager.html), and",
+        "content": "In December I went through why [`uses:` is a package manager with no lockfile, no integrity hashes and no transitive visibility](https://nesbitt.io/2025/12/06/github-actions-package-manager.html), and in April through the [run of incidents](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html) that followed from that. GitHub’s [2026 security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) has since committed to a lockfile, now in preview as [`gh-actions-lock`](https://github.com/github/gh-actions-lock), and made immutable actions the preferred resolution path. Neither of those changes adds any review between an action author tagging a release and the runner executing it. Homebrew has run that kind of curated index for fifteen years and, as of the immutable-actions rollout, stores its artifacts as OCI manifests on ghcr.io alongside the actions themselves, so I spent some time working out how much of a GitHub Actions registry you could assemble from Homebrew parts.\n\n### Shared storage\n\nImmutable actions and Homebrew bottles are both OCI artifacts on ghcr.io: [`actions/publish-immutable-action`](https://github.com/actions/publish-immutable-action) tars the action directory, pushes it as a layer with `artifactType: application/vnd.github.actions.package.v1+json`, attaches a sigstore bundle through the OCI referrers API, and tags the manifest with the semver, after which a workflow referencing `actions/[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection)` [resolves through `pkg.actions.githubusercontent.com`](https://github.blog/changelog/2024-12-05-notice-of-upcoming-releases-and-breaking-changes-for-github-actions/) instead of the git tarball. `brew pr-pull` pushes bottles under the same manifest schema at `ghcr.io/homebrew/core/<name>` with a `com.github.package.type: homebrew_bottle` annotation and a [sigstore attestation](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/) that `brew verify` checks against Homebrew’s CI identity, so `crane manifest ghcr.io/homebrew/core/jq:1.7.1` and `crane manifest ghcr.io/actions/checkout:4.2.2` return the same document type, as you’d expect from [last week’s post](https://nesbitt.io/2026/07/30/wheels-bottles-images.html).\n\nThe [comparison table in the December post](https://nesbitt.io/2025/12/06/github-actions-package-manager.html) marked Actions ✗ on integrity hashes, transitive visibility, dependency-tree inspection and immutable versions, and homebrew-core provides all four for its 8,400 formulae through the index rather than the storage: each formula pins a source URL to a sha256, declares dependencies that `brew deps --tree` can walk, passes [`brew audit`](https://docs.brew.sh/Formula-Cookbook#audit-the-formula) and human review on every change, gets autobumped by `livecheck` when upstream tags a release, and can carry `deprecate!` or `disable!` when it shouldn’t be installed.\n\n### A tap of actions\n\nThe index can be a tap, with each formula pinning an action tarball by SHA-256:\n\n```\nclass ActionsCheckout < Formula\n  desc \"Checks out a repository for a GitHub Actions workflow\"\n  homepage \"https://github.com/actions/checkout\"\n  url \"https://github.com/actions/checkout/archive/refs/tags/v4.2.2.tar.gz\"\n  sha256 \"63e9c07ff6c9ddf3a3b39d30e59f0bf3a...\"\n  license \"MIT\"\n\n  livecheck do\n    url :stable\n    strategy :github_latest\n  end\n\n  def install\n    prefix.install Dir.children(\".\")\n  end\nend\n\n```\n\nFor a JavaScript action that ships a built `dist/` in its release tarball, that’s sufficient: the tarball is pinned to a content hash, `brew audit` and `brew verify` apply as they would to any formula, and `brew bump-formula-pr` opens a reviewed PR when checkout tags v4.2.3. Everything above `def install` is already static data. Homebrew is in the middle of [migrating install hooks to declarative steps](https://github.com/Homebrew/brew/pull/23196) so that bottle and cask installs need no Ruby evaluation at all, at which point an actions tap could be `.json` files with no code execution on install.\n\nThe [transitive problem](https://nesbitt.io/2025/12/06/github-actions-package-manager.html) is specific to composite actions, whose `action.yml` carries its own `uses:` lines that the runner re-resolves at execution time regardless of how the outer action was pinned. In a formula those become `depends_on` entries plus an `inreplace` at build time. For a composite that internally calls `actions/cache@v4`:\n\n```\ndepends_on \"actions-cache\"\n\ndef install\n  inreplace \"action.yml\",\n    \"uses: actions/cache@v4\",\n    \"uses: ./.brew-actions/actions-cache\"\n  prefix.install Dir.children(\".\")\nend\n\n```\n\nThe resulting bottle has no floating refs left in it, `brew deps --tree` prints the transitive graph that no runner command exposes today, and the tap’s git log records which `actions-cache` revision the composite was built against. Moving that pin requires a reviewed PR; an action author cannot change it with `git tag -f` in someone else’s repository.\n\nEvery incident in the [weakest-link post](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html) would have required a reviewed change to that index before reaching downstream users, where an npm-style per-project lockfile would only have reduced the number of downstream repositories exposed. A workflow that pins `@v4` today has already delegated the version decision to whoever can push a tag to the action repo, and a tap moves that delegation to a reviewer instead. It also matches Homebrew’s rolling-release design, where `Brewfile.lock.json` was [removed in November 2024](https://github.com/Homebrew/homebrew-bundle/pull/1509) and per-project pinning is [currently out of scope](https://docs.brew.sh/Brew-Bundle-and-Brewfile). I’d like to see the lockfile come back this year, and until it does a workflow that needs stricter reproducibility than the tap’s HEAD can pin the tap itself to a commit.\n\nAn `audit_formula` extension for the tap would run [zizmor](https://docs.zizmor.sh/) over the extracted `action.yml` and reject anything that trips `dangerous-triggers` or `template-injection`, and reject composites whose internal `uses:` lines aren’t fully covered by `depends_on`. The Marketplace’s “verified creator” badge checks the publisher’s identity and nothing about the action’s contents, so a static-analysis gate at index time would be new. Bottles built from the tap are attested by the tap’s CI the same way homebrew-core bottles are. Each formula’s `url` points at a GitHub repository, which is the input `brew vulns` [already keys OSV lookups on](https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html), so an advisory against `actions/download-artifact` surfaces through the same path as one against `openssl`.\n\n### Getting the runner to use it\n\nThe runner has three `ActionSourceType` values in [`ActionStepDefinitionReference.cs`](https://github.com/actions/runner/blob/main/src/Sdk/DTPipelines/Pipelines/ActionStepDefinitionReference.cs) (repository, container registry, script) and none of them is “an installed package on disk”, so consuming a Homebrew-installed action means picking one of three integration points at increasing cost.\n\nThe runner accepts `uses: ./path/to/action` relative to `$GITHUB_WORKSPACE`. The prototype tap at [andrew/homebrew-actions](https://github.com/andrew/homebrew-actions) packages `actions/checkout`, `actions/cache`, `pre-commit/action` and `actions/first-interaction`. Its setup action runs `brew bundle --file .github/Actionfile` and copies each keg into `./.brew-actions/<name>`, which is where the formula’s `inreplace` above pointed the composite’s dependency. The Actionfile is a normal Brewfile:\n\n```\ntap \"andrew/actions\"\nbrew \"andrew/actions/pre-commit-action\"\n\n```\n\n```\nsteps:\n  - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1\n  - uses: andrew/homebrew-actions@7def8ee0f83dbb7850e9029c9e0e6ccbafdd209e\n  - uses: ./.brew-actions/pre-commit-action\n\n```\n\nThe four formulae pass `brew audit`, install and test on hosted macOS and Ubuntu runners, and the integration job runs the copied `pre-commit/action` composite through to its rewritten `actions/cache` step. It still costs one round-trip to fetch the setup action itself the old way, and `checkout` stays on a plain SHA pin because it runs before the workspace has anything in it to `uses: ./` from.\n\nBecause `./` is anchored at `$GITHUB_WORKSPACE`, the setup action has to copy each keg there and `checkout` has to run first. Runner 2.336.0 [added a `$/` prefix](https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax/) that anchors at the repository containing the defining file, resolved at the running commit: in a workflow `$/` is readable before any step has run, and it’s also valid for reusable workflows (`uses: $/.github/workflows/foo.yml`), which `./` never supported. `gh-actions-lock` [rewrites existing `./` references to `$/`](https://github.com/github/gh-actions-lock#self-repository-actions-) by default and treats the result as inherently pinned, so no lockfile entry is generated for it. Inside a composite loaded via `uses: ./path`, though, `$/` still resolves against the workflow’s repository rather than the copied directory: an earlier iteration of the prototype rewrote the composite’s `uses:` to `$/../actions-cache` and the runner attempted to fetch `andrew/homebrew-actions/../actions-cache@<sha>`. So the setup step can’t use `$/` to point at `$(brew --prefix)/opt`, and the `.brew-actions` destination has to be baked into the formula’s `inreplace`.\n\nOn self-hosted runners, [`ActionManager.cs`](https://github.com/actions/runner/blob/main/src/Runner.Worker/ActionManager.cs) reads `ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE` and, if `<owner>_<repo>/<resolved-sha>.tar.gz` exists there, skips the download. A `brew bundle` on the runner host could populate that directory from the tap. GitHub’s server-side resolver has already chosen the SHA used as the cache key, so this only controls where its bytes come from. It provides an offline mirror but cannot override `@v4` resolution.\n\nA fourth `ActionSourceType` could read a formula’s JSON from `formulae.brew.sh` (or any tap’s API endpoint), verify the bottle attestation, and extract to `_actions/`. Hosted runners resolve refs to tarballs through the server-side `ResolveActionsDownloadInfoAsync` call, so a client-side patch would affect self-hosted runners and compatible forks such as [act](https://github.com/nektos/act) and [Forgejo’s runner](https://code.forgejo.org/forgejo/runner), with no GitHub backend changes. `$/` covers the same-repo case. The setup-step option would also need a similar anchor rooted in a runner-side directory outside any repository.\n\nReusable workflows referenced across repositories (`uses: org/repo/.github/workflows/foo.yml@ref`) go through a different loader and have no local-path form even with `$/`, so the setup step cannot load them. They require the runner patch. Docker actions already resolve through a container registry and get whatever pinning the image reference carries.\n\n### Built in\n\nGitHub could integrate the tap into its resolver and leave `uses: actions/checkout@v4` unchanged. An organisation or repository setting alongside the existing [action allowlists](https://docs.github.com/en/organizations/managing-organization-settings/disabling-or-limiting-github-actions-for-your-organization) would name the index the resolver consults, and that index would map `actions/checkout` to a bottle manifest digest instead of a git ref. The runner would pull the layer from ghcr.io, verify the attestation against the tap’s CI identity, and extract to `_actions/`. Because a composite’s internal refs were rewritten at bottling time, the index response could carry the resolved dependency closure, making the whole transitive tree one index query plus N content-addressed blob fetches. Re-running last week’s job against an unchanged tap commit would produce identical bytes. Switching an organisation from GitHub’s default index to a community tap or an internal one with stricter audit rules would be a settings change, roughly the choice apt users make between Debian stable and a private mirror.\n\nAn alternative to a settings toggle is [package URLs](https://github.com/package-url/purl-spec) in the `uses:` line itself (`pkg:brew/actions-setup-python`, or `pkg:oci/...@sha256:...` for a direct digest pin), with org policy allowlisting which types and namespaces are permitted. Either way Homebrew’s role is producing one index in the [formulae.brew.sh JSON schema](https://formulae.brew.sh/docs/api/), and once the declarative-install work above lands the tap and the index are the same JSON, so any other curator could produce a compatible one without going near Homebrew’s Ruby.\n\n### Prototype\n\nI generated draft formulae for the [70 actions in ecosyste.ms’ current critical set](https://packages.ecosyste.ms/critical?registry=github+actions). The pinned sources are 55 JavaScript actions, nine composites and six Docker actions; the JavaScript group is 30 Node 24, 19 Node 20 and six still on Node 12, and all 71 declared `pre`, `main` and `post` entrypoints were present in the archives. Seven of the composites declare external actions, giving seven dependency edges into five repositories, four of which are already in the 70. The two Gradle compatibility actions both depend on subdirectories of `gradle/actions`, so closing the first-level graph takes one extra formula for 71 in all.\n\nRunning zizmor 1.28.0 over the extracted `action.yml` files, as the audit extension above would, reported 61 findings across seven of the 70. 45 are high-severity, high-confidence findings in five actions: 40 template-injection and five unpinned-uses. Five of the six Docker actions also reference their image or Dockerfile base image by tag rather than digest. The generator hit a few ecosyste.ms data issues on the way (two conda-forge packages whose latest release is recorded as `master` with codeload URLs that now 404 though the stored commit SHAs still fetch, and `conda-forge/webservices-dispatch-action` classified as composite when the pinned source is a Docker action), and one action, `Platane/snk`, has no license file for `brew audit` to accept.\n\nThe parser, formula emitter and dependency rewrite are in [`bin/generate-formulae`](https://github.com/andrew/homebrew-actions/blob/main/bin/generate-formulae) and stayed short because the [community lockfile tools](https://nesbitt.io/2025/12/30/community-tools-bring-lockfile-support-to-github-actions.html) already do the same `action.yml` walk. Getting from the generated drafts to a usable tap needs the `audit_formula` hook wrapping zizmor and the `depends_on` coverage check, plus a Windows path for the setup step, which can’t run `brew` and would have to pull the bottles as plain OCI blobs instead.\n\n[Gitea’s `act_runner`](https://gitea.com/gitea/act_runner) and [Forgejo’s runner](https://code.forgejo.org/forgejo/runner) implement the same `uses:` semantics with no closed server-side resolution call, so the setup-step path works on them today and either of the built-in forms above could land there without a GitHub backend change. Codeberg, Forgejo and Gitea each already maintain an `actions` org ([codeberg.org/actions](https://codeberg.org/actions), [code.forgejo.org/actions](https://code.forgejo.org/actions), [gitea.com/actions](https://gitea.com/actions)) that mirrors a hand-picked subset of upstream actions so their users’ workflows resolve without touching github.com. Those orgs are the curated index a tap would produce, maintained by hand, and the Forgejo maintainers have been [vocal about wanting](https://codeberg.org/forgejo/discussions/issues/214) something better than inheriting GitHub’s resolution model.",
+        "url": "https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-08-04T10:00:00.000Z",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Relative velocity and closing speed",
+        "summary": "In Physics simulations or game engines it’s sometimes useful to\ndetermine the speed with which two objects are approaching each other.\nThis post will discuss the concept of *closing speed*, which is t",
+        "content": "In Physics simulations or game engines it’s sometimes useful to\ndetermine the speed with which two objects are approaching each other.\nThis post will discuss the concept of *closing speed*, which is the\n*normal component* of the *relative velocity* of two objects.\n\n## Relative velocity and its components\n\nSuppose we have objects A and B [[1]](#footnote-1) with velocity vectors\n and . The *relative velocity* of B\nw.r.t. A is:\n\nPut differently, it’s the velocity of B in A’s frame of reference.\n\nThis relative velocity is a vector, and we can split it into orthogonal\ncomponents. Obviously, the nature of such a split depends on the basis\nwe want to use. We could look at the vector’s x an y components (we’ll\nbe using ![](https://eli.thegreenplace.net/images/math/2b688757b3d0949451e1fa97e71ac5f5f284a5e4.png) - two dimensional space, but everything\nhere applies to 3D as well), but for this post we’re interested in\nsomething slightly different:\n\n![](https://eli.thegreenplace.net/images/2026/normal-and-tangential.png)\n\nWe draw a line connecting the two objects. The component of\n in the direction of this line is called the\n*normal component* of relative velocity, while the component\nperpendicular to this direction is called the *tangential component*.\n\n## Computing the normal component\n\nHow do we find the component of a vector in the direction of a specific\nline? By using a [vector\nprojection!](https://eli.thegreenplace.net/2024/projections-and-projection-matrices/).\nWe’ll represent the line by a vector, and find the projection of\n onto this vector.\n\nThe positions of A and B can also be seen as vectors: \nand . The line connecting them can then be expressed as\nthe vector :\n\n![](https://eli.thegreenplace.net/images/2026/the-relative-position.png)\n\nAll we need from this position difference vector is its direction, not\nits magnitude, however [[2]](#footnote-2). So we’ll use the *unit vector* of\n, denoted as:\n\nFinally, to find the projection of  onto\n, we compute [[3]](#footnote-3):\n\nWhere the multiplication operator between the vectors is the *dot\nproduct*. Note that the result of the dot product is a scalar;\ntherefore, the quantity  is called the *closing speed* - it\nexpresses the rate at which the relative distance of the two objects is\nchanging. If it’s positive, the objects are drifting farther apart; if\nit’s negative, the objects are getting closer together. Therefore the\nterm \"closing speed\" may be slightly confusing; alternatively, this has\nbeen called a \"signed separation speed\", or \"normal relative speed\" [[4]](#footnote-4).\n\nThe signs in these calculations can be tricky to get right, so we have\nto be very careful. Let’s see a few examples that will help us make\nthese computations more concrete.\n\n## Examples\n\nTo build up some intuition and get some practice with the equations,\nwe’ll review the following examples:\n\n![](https://eli.thegreenplace.net/images/2026/four-relative-motion.png)\n\n**Example I**: We’ll start by computing the relative position unit\nvector :\n\nThen, the closing speed is:\n\nBased on our convention, the negative sign of  means that the\nobjects are approaching each other. Due to the simple nature of the\nexample, this result is easy to verify, as it can be immediately guessed\njust by looking at the diagram.\n\n**Example II**: Here  is the same as in the previous\nexample. The closing speed is:\n\nSame magnitude, but different sign from before, because the objects are\nmoving farther apart.\n\n**Example III** This example is to demonstrate that we get consistent\nresults even if B is to the left of A. Here the relative position unit\nvector is:\n\nAnd the closing speed:\n\nWhich is the same as in example I, as expected. The direction of\n flipped, but so did the direction of the relative\nvelocity vector, so the result has the same sign.\n\n**Example IV**: Finally, an example showing more arbitrary positions and\nvelocities.\n\nThen:\n\nThis example is a good opportunity to demonstrate something important\nabout : it’s time-dependent, because positions change with\ntime. Here, -6.6 is the closing speed at the exact moment when A’s and\nB’s positions and velocities are as stated in the example. In the next\ntime step, the position of A will be  and the\nposition of B will be , while their velocities\nremain the same. The  then will be quite different. This is a\ngood segue to the next topic - which is a more physical view of closing\nspeed.\n\n## Closing speed as a function of time\n\nThe computation shown so far represents a static view of the world;\nperhaps the right word to use is *instantaneous*. Given the positions\nand velocities at a given moment, what is the closing speed between the\nobjects *at that exact moment*?\n\nBut there’s no reason to not generalize this using a more standard\nphysical interpretation of velocity.\n\nFirst, let’s state the position vectors of A and B as a function of\ntime:  and . The relative\nposition vector between the objects is also a function of time:\n\nNow we’ll define the scalar distance as the magnitude of this vector:\n\nWe’re interested in  - the change in this\ndistance over time. Let’s start by breaking  down to its\nconstituents:\n\nBy the chain rule [[5]](#footnote-5):\n\nSwitching back to the vector representation: since\n, the numerator of the\nfraction above is then a dot product between  and\n, we can write this as:\n\nBut  is precisely  from the earlier\nsection, as a function of time. Moreover:\n\nBecause velocity is the time derivative of position. Therefore, we end\nup with the same equation, just as a function of time:\n\nThis formulation is more precise because it makes it very obvious that\nall the quantities we’re dealing with are time dependent.\n\n[[1]](#footnote-reference-1)Throughout this post, we assume our objects are sufficiently far\napart that they can be treated as *points* (or *particles*) without\nany shape, area or volume.\n\n[[2]](#footnote-reference-2)The velocity components should be the same regardless of how far\napart the two objects are.\n\n[[3]](#footnote-reference-3)In the standard projection formula we’d also divide by the magnitude\nof , but in our case it’s a unit vector anyway.\n\n[[4]](#footnote-reference-4)In some online sources you may see the closing speed described as\nclosing velocity because it has a direction. IMHO this is the wrong\nframing. Scalars can be signed! The closing speed is certainly a\nscalar, not a vector.\n\n[[5]](#footnote-reference-5)The notation  means",
+        "url": "https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/",
+        "source": "Eli Bendersky's website",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-08-04T03:01:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Bending Spoons to Buy Airtable for $1.3 Billion - In Brief Posted: 4:30 AM PDT · August 4, 2026 ![](https://techcrunch.com/wp-content/upload...",
+    "Quoting Steve Yegge - 4th August 2026 > [Gas Town](https://yegge.ai/gastown.html) was intended to be reusable, b...",
+    "PipeNetwork/minimax-h3-mlx - 4th August 2026 - Link Blog **[PipeNetwork/minimax-h3-mlx](https://github.com/PipeNetwork/...",
+    "Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http...",
+    "brew install actions/checkout - In December I went through why [`uses:` is a package manager with no lockfile, no integrit..."
+  ],
+  "wordcloud": [
+    {
+      "word": "cloudflare",
+      "count": 10
+    },
+    {
+      "word": "agents",
+      "count": 7
+    },
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "metallic",
+      "count": 6
+    },
+    {
+      "word": "ai",
+      "count": 6
+    },
+    {
+      "word": "ratio",
+      "count": 5
+    },
+    {
+      "word": "agent",
+      "count": 5
+    },
+    {
+      "word": "minimax-h",
+      "count": 5
+    },
+    {
+      "word": "ratios",
+      "count": 4
+    },
+    {
+      "word": "aug",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "across",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "ci",
+      "count": 3
+    },
+    {
+      "word": "development",
+      "count": 3
+    },
+    {
+      "word": "lifecycle",
+      "count": 3
+    },
+    {
+      "word": "github",
+      "count": 3
+    },
+    {
+      "word": "issue",
+      "count": 3
+    },
+    {
+      "word": "august",
+      "count": 3
+    },
+    {
+      "word": "pipenetwork",
+      "count": 3
+    },
+    {
+      "word": "mlx",
+      "count": 3
+    },
+    {
+      "word": "speed",
+      "count": 3
+    },
+    {
+      "word": "terminalwidget",
+      "count": 2
+    },
+    {
+      "word": "apis",
+      "count": 2
+    },
+    {
+      "word": "image",
+      "count": 2
+    },
+    {
+      "word": "ve",
+      "count": 2
+    },
+    {
+      "word": "times",
+      "count": 2
+    },
+    {
+      "word": "tbpn",
+      "count": 2
+    },
+    {
+      "word": "enjoy",
+      "count": 2
+    },
+    {
+      "word": "review",
+      "count": 2
+    },
+    {
+      "word": "re",
+      "count": 2
+    },
+    {
+      "word": "alchemy",
+      "count": 2
+    },
+    {
+      "word": "thought",
+      "count": 2
+    },
+    {
+      "word": "metals",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "radio",
+      "count": 2
+    },
+    {
+      "word": "shack",
+      "count": 2
+    },
+    {
+      "word": "trs-",
+      "count": 2
+    },
+    {
+      "word": "steve",
+      "count": 2
+    },
+    {
+      "word": "wallets",
+      "count": 2
+    },
+    {
+      "word": "agentic",
+      "count": 2
+    },
+    {
+      "word": "internet",
+      "count": 2
+    },
+    {
+      "word": "cd",
+      "count": 2
+    },
+    {
+      "word": "build",
+      "count": 2
+    },
+    {
+      "word": "replacing",
+      "count": 2
+    },
+    {
+      "word": "engineering",
+      "count": 2
+    },
+    {
+      "word": "standards",
+      "count": 2
+    },
+    {
+      "word": "structured",
+      "count": 2
+    },
+    {
+      "word": "teams",
+      "count": 2
+    },
+    {
+      "word": "astro",
+      "count": 2
+    },
+    {
+      "word": "count",
+      "count": 2
+    },
+    {
+      "word": "actions",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "single",
+      "count": 2
+    },
+    {
+      "word": "local",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "airtable",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "yegge",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "gas",
+      "count": 2
+    },
+    {
+      "word": "town",
+      "count": 2
+    },
+    {
+      "word": "html",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "post-american",
+      "count": 2
+    },
+    {
+      "word": "closing",
+      "count": 2
+    }
+  ]
+}
