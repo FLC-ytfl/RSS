@@ -1,0 +1,740 @@
+{
+  "date": "2026-08-05",
+  "stats": {
+    "total_fetched": 283,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 22,
+    "long_articles": 8
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "The code that didn’t break",
+        "summary": "Last week I wrote a post on hiding cryptographic keys in decks of cards. I wrote some code for that post that shouldn’t work, but before fixing I noticed that it in fact did work. The code computes logarithms for integer...",
+        "url": "https://www.johndcook.com/blog/2026/08/05/math-log/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Wed, 05 Aug 2026 18:26:25 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Enumerating trees and circles",
+        "summary": "A few days ago I wrote a post on counting rooted trees. That post looked at the sequence c(n) which counts the number of rooted trees with n nodes. Here one node is distinguished as the root, but the nodes below the root...",
+        "url": "https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Algorithms"
+        ],
+        "published_at": "Wed, 05 Aug 2026 14:49:35 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Apple News Ad of the Week",
+        "summary": "I look forward to this level of class and brand prestige coming to Apple Maps. ★",
+        "url": "https://mastodon.social/@gruber/117044545772667716",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-08-05T19:29:49.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ebay’s 1995 debut",
+        "summary": "The eBay domain name was registered 31 years ago today, on August 4, 1995. But the site we know today as Ebay didn’t launch until almost month later, September 3, 1995, under a different name. Auctionweb, the original na...",
+        "url": "https://dfarq.homeip.net/ebays-1995-debut/?utm_source=rss&utm_medium=rss&utm_campaign=ebays-1995-debut",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 05 Aug 2026 11:00:21 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we’re rethinking work at Cloudflare with Cloudflare OS",
+        "summary": "We built Cloudflare OS to equip our teams to safely rethink how they get work done with AI. The platform brings together the best of our technologies, from our Compute primitives to our Zero Trust suite. This post walks...",
+        "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Wed, 05 Aug 2026 13:00:01 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare OS: an open platform for agents, apps, and work",
+        "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates",
+        "url": "https://blog.cloudflare.com/cloudflare-os/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Systems",
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Wed, 05 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "WriteGuard: fine-grained controls for MCP Servers",
+        "summary": "At Cloudflare, we knew we could not depend on every employee to configure every agent perfectly or watch every tool call. Before expanding write access across our own internal MCP servers, we built WriteGuard. We are now...",
+        "url": "https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Wed, 05 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, more than 7% of FY26 Revenue",
+        "summary": "Executive Summary: Microsoft disclosures and Bloomberg analyses show that OpenAI's compute spend and revenue share accounted for 70% or more of Microsoft's FY26 AI revenues, and more than 7% of Microsoft's overall FY2026...",
+        "url": "https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Wed, 05 Aug 2026 18:41:14 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Incentives are for losers",
+        "summary": "OR: you must look at this fish and go insane",
+        "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+        "source": "Experimental History",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 05 Aug 2026 14:54:40 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Agent Access Model",
+        "summary": "The Agent Access Model proposes a new architecture to secure task-scoped agents using strict identity brokering, continuous mediation, and stateful trust.",
+        "url": "https://blog.cloudflare.com/the-agent-access-model/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Wed, 05 Aug 2026 13:00:41 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Catching rogue AI behavior with identity-aware analytics",
+        "summary": "Identity-aware AI Gateway is now in open beta. User Insights turns that traffic into a behavioral baseline for every person and agent, and flags insider risk the moment it appears.",
+        "url": "https://blog.cloudflare.com/identity-aware-ai-gateway/",
+        "source": "The Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Product"
+        ],
+        "published_at": "Wed, 05 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-05T22:48:19.013Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Proxmox officially supports Arm, with some caveats",
+        "summary": "Proxmox today announced their [Proxmox Virtual Environment is now available for 64-bit ARM](https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/).\n\n",
+        "content": "Proxmox today announced their [Proxmox Virtual Environment is now available for 64-bit ARM](https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/).\n\nI tested it on my [Ampere Altra Dev Platform](https://www.jeffgeerling.com/blog/2023/testing-96-core-ampere-altra-developer-platform/)—the same machine on which I've [booted Windows on Arm](https://www.jeffgeerling.com/blog/2023/ampere-altra-max-windows-gpus-and-gaming/) the first time, messed with multiple GPUs, and most recently [tested Houdini's native arm64 support](https://www.youtube.com/watch?v=QdU7WszFTAA).\n\n![Proxmox VE running on Ampere Altra Max workstation](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/proxmox-ve-on-arm-vm.jpg)Install was easy, as the Ampere Altra uses UEFI / ACPI for its hardware, meaning Proxmox didn't have to tailor its ISO to specific platforms, like you have to do with Raspberry Pis and most SBCs using a Device Tree setup.\n\nI just went into the BIOS, selected my USB stick with the [official Proxmox VE 9.2 for ARM64 ISO](https://www.proxmox.com/en/downloads) flashed to it, and ran the graphical installer.\n\nI had a little trouble installing Ubuntu 24.04.1 from an arm64 minimal server live CD inside the VM, so I've opened up this issue on the Proxmox forums: [Testing Proxmox VE on Ampere Altra Max (Armv8)](https://forum.proxmox.com/threads/testing-proxmox-ve-on-ampere-altra-max-armv8.185541/).\n\n## Platform Support\n\nOfficially, they only support NVIDIA Grace Hopper and Vera server platforms (I'm guessing NVIDIA was interested in bringing up Proxmox support, and helped in some way?).\n\nFor other platforms:\n\n> - Best-effort support on other UEFI-based ARMv9-A or newer hardware (ARMv8-A generally works as well, likewise best-effort)\n- The host must boot through UEFI and describe its hardware through ACPI\n- Device-tree-only single-board computers, such as the Raspberry Pi, are not supported\n\nI don't think that precludes this flavor of Proxmox from running on the Raspberry Pi. The forked [Raspberry Pi 5 UEFI](https://github.com/NumberOneGit/rpi5-uefi) project enables UEFI support (with some limiations) on the Pi 5, and similar projects exist for other popular SBCs, like the [Rockchip RK3588](https://github.com/edk2-porting/edk2-rk3588).\n\n> **Update**: Mastodon user [@[email protected] got it running on Pi 4](https://mastodon.social/@luna@catgirl.center/117043938463789909) already, using [this UEFI firmware from pftf](https://github.com/pftf/RPi4).\n\n> **Update 2**: And YouTube user [@_Jonny_ got it working on a Pi 5](https://www.youtube.com/watch?v=Lg263L1W97w&lc=Ugz7B8Dia-O1P1qogyV4AaABAg), installing things manually on top of Pi OS 13 (\"Trixie\"), and disabling NetworkManager and cloud-init.\n\nThe other main Armv9 platforms I've used are Apple's M-series computers (some older M-series systems may work via Asahi Linux, maybe?), and systems built around the Cix P1 SoC in the [Radxa Orion O6](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc/), [Minisforum MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1/), and [Framework AI PC Mainboard](https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/).\n\nHere's a video of the entire install and first look on my Ampere Altra Developer Platform:\n\nDue to time limitations, I've only been able to test on my Ampere Altra Max system. I'd love to hear any of your experiences on other arm64 systems in the comments below!",
+        "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Hardware",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Wed, 05 Aug 2026 11:50:00 -0500",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Sam Altman, Definitely Not a Ghoul",
+        "summary": "[\n                            \n                                ![Katie Notopoulos](https://i.insider.com/6785314850dfd88e193e0de7?crop=1:1&width=256&format=jpeg&auto=webp&saturation=-100)\n            ",
+        "content": "[\n                            \n                                ![Katie Notopoulos](https://i.insider.com/6785314850dfd88e193e0de7?crop=1:1&width=256&format=jpeg&auto=webp&saturation=-100)\n                              \n                              \n                              \n                              \n\n  \n                        ](https://www.businessinsider.com/author/katie-notopoulos)\n                      \n                        \n                          \n                            \n                      \n                        \n                      \n                        \n                        \n                      \n                          \n                            Senior Correspondent covering technology and culture\n                          \n                        \n                    \n                    \n                      \n                    \n\n      \n    \n    \n    \n    \n      \n            \n            \n            \n            \n                  \n                      \n                        \n                        ![two kids with headphones in a car](https://i.insider.com/6a70ee8187737bff3ebdad17?width=700)\n                      \n\n                  \n                    \n                          \n                            \n                            \n                                      \n                    \n                            \n                              AI could make a podcast for your kids for their ride to school, but why would you want that?\n                              \n                                Jamie Grill/Getty Images/Tetra images RF          \n                            \n                          \n                    \n            \n    \n    \n    \n            \n      \n              \n      \n      \n              \n              \n              \n              \n      \n            \n      \n        \n                  \n                      There are a lot of things about parenting that are unpleasant drudgery. There's the obvious ones: diapers, cleaning bottle parts, picking up Legos, listening to \"Wheels on the Bus\" over and over.\n\nAs kids get older, you'll also discover so many more annoying things: The constant sorting of too-small clothes, dividing between storage, donation, and hand-me-downs. All the separate apps for messaging used by schools, bus companies, daycares, and sports leagues seem to have [UI designed by Satan himself](https://www.businessinsider.com/school-apps-mobile-web-design-parents-kids-teachers-bad-why-2025-8). The fact that there will be at least one early release or day off from school on a random non-holiday day you learn about the day before. And the most grueling scourge of it all: summer camp signup.\n\nI embrace the idea of ceding some of the unfun mental load of parenting to AI.\n\nThat's different than delegating away the parts of parenting that, sure, take time and effort and being present — but are also the precious interactions you'll miss when your kids are grown up.\n\n## AI can help parents, but *how *is key\n\nI would love [a robot that could fold laundry](https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7). It does seem like the separate messaging app problem should be solvable (I pray for [the singularity](https://www.businessinsider.com/sam-altman-openai-the-singularity-agi-prediction-anthropic-nvidia-2026-7) whenever I get a push notification from the dedicated school messaging app about a new message containing Google Drive link to the PDF that lists all the daily themes for school spirit week).\n\nSure, great! But there are also some clunker ideas of what you could use AI for with parenting.\n\n> cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.\n\n— Sam Altman (@sama) [July 31, 2026](https://x.com/sama/status/2083221585792762171?ref_src=twsrc%5Etfw)\n\n                  \n                  \n                  OpenAI CEO Sam Altman, a parent himself, recently posted to X about what he described as a cool use for AI: making a custom podcast for kids about their interests and calendar to listen to during their drive to school. The [backlash was swift](https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8), the main response being something along the lines of, \"What if you just talked to your children?\"\n\n                    \n                  \n                    \n                  I agree with that critique, for the most part. And more so: why would I want to give up that actually pleasant task?\n\nSure, I think an audio reminder of that day/week's afterschool activities is probably helpful for kids. Keeping on top of the calendar does get difficult when kids get older and busier, especially if there are multiple kids.\n\nThis is something where a technological solution feels within our grasp. Something like [Skylight's \"smart family calendar\"](https://www.businessinsider.com/guides/home/skylight-calendar-2-review) or AI chatbot apps that act as personal assistants for busy parents.\n\nMy colleague Ben Shimkus talked to a [Ford exec who vibecoded family \"chief of staff\"](https://www.businessinsider.com/ford-executive-ai-vibe-coded-family-chief-of-staff-2026-6) that sends a daily email to her and her husband going over the calendar of daycare drop-offs, appointments, activities, and other kid-related items for the day. \n\nDealing with the [gruntwork of managing a calendar](https://www.businessinsider.com/mom-uses-ai-manage-household-parenting-2026-6) is something many parents would be happy to [offload to AI](https://www.businessinsider.com/how-moms-use-ai-co-parent-kids-2025-11) or some other tech to deal with. I'm less confident in Altman's idea of making this a whole \"podcast\" instead of just a brief audio calendar reminder. I suspect my elementary-aged kids would find this cringe and annoying.\n\nBut I see why so many people reacted so strongly to his tweet. It's suggesting more than just an automated calendar reminder — it's taking the place of time that could otherwise be spent talking to your kids.\n\n## Talking to your kids is the fun part\n\nTalking to your kids about their upcoming soccer game or birthday is one of the enjoyable, pleasurable experiences of parenting. Those nice moments of positive connection, chatting in the car, are something I suspect most parents aren't looking to give up or outsource.\n\nThis is one of the overall challenges with where we are with AI right now: AI might be capable of doing some of the tasks we find pleasurable and enjoyable (like creative writing or drawing), but what many people want is for it to take on the ones we don't want to do.\n\nMeta is [testing out an app called Storykit](https://9to5mac.com/2026/07/21/meta-testing-storykit-an-ai-iphone-app-that-creates-personalized-childrens-stories/) that allows parents to create AI-generated bedtime stories for kids. \"Write a story about a teddy bear in a magical forest\" is a task that an LLM is very capable of doing, and there is probably some fun novelty for kids to have a personalized story — the kids might enjoy it a few times.\n\nI'd argue that making up stories at bedtime for your kids is one of those rewarding parts of parenting you shouldn't outsource. Though it may sometimes feel like there are 3,000 minutes between 7 and 8 p.m., the reality is that the years your kids want to hear you make up stories at bedtime is shockingly brief.\n\nThese are the sweet moments people dream of when they want to become parents: making up stories at bedtime, or peering at your kids in the rearview mirror while chatting about soccer games and birthday gift wish lists. These moments are the reward for putting up with all the grinding drudgery or the endless put-on-your-shoes reminders.\n\nThere are plenty of annoying and mundane parts of dealing with young kids — any parent could help you identify those tasks. Those things are often hard for AI to take over (good news to the parent in charge of emptying the Diaper Genie: your job is safe from AI).\n\nThe things that are fun and pleasant might be easier for AI to replicate — but who wants that?\n\n                  \n                  \n                  \n    \n    \n    \n    \n      \n\n    \n      \n\n    \n      \n      \n        \n    \n    \n            \n            \n    \n              \n                \n                \n                \n                    \n                      \n## \n                        Read next\n                      \n\n                    \n\n              \n              \n                  \n                \n          \n          \n        \n                Katie Notopoulos is a senior correspondent at Business Insider who writes about technology, business, and culture. She covers topics such as internet culture, Big Tech, retail, AI,  parenting in the digital age, and personal tech.Previously, Katie was a tech reporter at BuzzFeed News and has written for The Atlantic, The New York Times, Fast Company, and MIT Technology Review. Based in New York, you can reach her by email knotopoulos@businessinsider.com or find her on Twitter. Bluesky, and Threads @katienotopoulos.Some of her stories include:\n\n- [Google AI said to put glue in pizza — so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)\n- [The Zuckermoon is over](https://www.businessinsider.com/mark-zuckerberg-honeymoon-period-over-trump-inauguration-2025-1)\n- [Gen Z doesn't want to say \"hello\" when answering the phone. I'm concerned](https://www.businessinsider.com/gen-z-phone-ansewring-hello-2025-7). \n- [Wait, is Walmart cool now?](https://www.businessinsider.com/walmart-is-cool-explained-why-target-competitor-clothes-fashion-prices-2025-6)\n- [Mark Zuckerberg has created the saddest place on the internet with Meta AI's public feed](https://www.businessinsider.com/mark-zuckerberg-meta-ai-chatbot-discover-feed-depressing-why-2025-6)\n- [How Instagram got its mojo back](https://www.businessinsider.com/how-instagram-stories-reels-made-comeback-beat-tiktok-2024-3)\n- [Am I the JD Vance of my group chat?](https://www.businessinsider.com/signal-group-chat-houthis-hegseth-vance-war-personalities-explained-2025-03)\n- [We need to talk about whatever's happening with Starbucks' drinks](https://www.businessinsider.com/starbucks-menu-drink-order-why-coffee-2024-5)\n- [This chart shows a key reason why millennial parents are miserable](https://www.businessinsider.com/millennial-parents-miserable-cheap-toys-high-childcare-costs-2023-12)\n- [It's not just you. Eggshells really are chipping more.](https://www.businessinsider.com/eggshells-eggs-breaking-why-shells-chipping-avian-flu-2024-3)\n\n              \n    \n          \n          \n          \n          \n            \n                \n                - \n                  [AI](https://www.businessinsider.com/category/ai)\n                \n      \n                - \n                  [Sam Altman](https://www.businessinsider.com/category/sam-altman)\n                \n      \n                - \n                  [Parenting](https://www.businessinsider.com/category/parenting)\n                \n\n                - \n                  More",
+        "url": "https://www.businessinsider.com/ai-parenting-debate-sam-altman-2026-8",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Mobile"
+        ],
+        "published_at": "2026-08-05T21:10:24.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A Bad HDMI Cable Broke My Mouse",
+        "summary": "I got tasked to fix some bizarre issues a friend was having with their gaming PC.\nThey had had lots of bluetooth issues, and recently their mouse stopped working\nentirely in Windows 11 - nothing would",
+        "content": "I got tasked to fix some bizarre issues a friend was having with their gaming PC.\nThey had had lots of bluetooth issues, and recently their mouse stopped working\nentirely in Windows 11 - nothing would show up in Control Panel. Other mice also\ndidn’t work.\n\nIt worked fine in the BIOS and in an Manjaro installer, so I got suspicious and\nfor the first time in my storied career there was actually bad stick of RAM!\n\nThis person had expressed interest in switching to Linux before, and they had\ndone enough fiddling around with drivers (plus the OS was installed with bad ram\n\n  - I’m never trusting it again) that I convinced them to install Manjaro.\n\nThe mouse worked fine in the installer, rebooted, no mouse. Or keyboard now! We\nmade it worse!\n\n`Ctrl` + `Alt` + `F1` switched to a working TTY though, which was odd. I tried\nupdating the BIOS, checking `dmesg`. The chatbots had me going down wild goose\nchases in the BIOS fiddling IOMMU settings and XHCI handoffs.\n\nFinally I decided to just start unplugging things to see if something was screwing\nup the USB bus. WiFi/BT card didn’t help, so the next step was the 4k Samsung\nmonitor.\n\nThe mouse immediately started working.\n\nI plugged it back in.\n\nIt stopped.\n\nI used a different HDMI cord.\n\nIt continued to work.\n\n̄_(ツ)_/ ̄\n\nReminds me of the time [I had a cheap USB switch that would cause WiFi / HDMI\nradio interference](https://www.youtube.com/watch?v=n2DPLEvwO-k) \n*but only when the screen was mostly white*. I guess HDMI is cursed.",
+        "url": "https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html",
+        "source": "Jayden’s Blog",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-05T16:35:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Committing to creativity",
+        "summary": "*\n                \n    05 Aug, 2026\n\n            *\n        \n\n    \n\n    There's a quote from the book *City of Thieves* by David Benioff where a character laments the fickleness of talent:\n\n> Talent mu",
+        "content": "*\n                \n    05 Aug, 2026\n\n            *\n        \n\n    \n\n    There's a quote from the book *City of Thieves* by David Benioff where a character laments the fickleness of talent:\n\n> Talent must be a fanatical mistress. She's beautiful; when you're with her, people watch you, they notice. But she bangs on your door at odd hours, and she disappears for long stretches, and she has no patience for the rest of your existence; your wife, your children, your friends. She is the most thrilling evening of your week, but some day she will leave you for good. One night, after she's been gone for years, you will see her on the arm of a younger man, and she will pretend not to recognize you.\n\nWhile I love this quote, as well as the book (you should definitely read it), I can't help but disagree with the premise that talent and creativity are divinely bestowed and out of your control.\n\nI've read a few autobiographies of prolific authors, and they all state the same thing: the words don't come easily and sometimes need to be dragged, kicking and screaming, into the light. The book *Creativity* by the winner of the most-difficult-to-pronounce-name-award, Mihaly Csikszentmihalyi, shares this conclusion and suggests that creativity is a creature to be nurtured, given space to grow, and needs commitment and a lack of distractions to thrive.\n\nThe thesis is clear: relying on motivation is a losing game. Motivation is a feeling, while commitment is a decision that outlives the feeling.\n\nI've found this to be true in my own life, both in creative pursuits, and in things like relationships and exercise. It is a rare person who is amped to exercise all the time, and so it requires commitment to stick with it. Similarly, showing up well in your relationships can't depend on fleeting passions, because life is bumpy.\n\nThe nice thing is that commitments become easier with time. I have near zero resistance to exercising and journalling, and have been doing both almost every day for close to a decade. The first year or two were difficult, but once they were a part of my day, they became absurdly easy to continue doing. Relatedly, when I'm in a good writing routine it is effortless to write. However, if I go a month without writing on my blog (as is currently the case), each word is a struggle.\n\nAction begets motivation, not the other way around.\n\nCreativity is like a muscle. It requires constant use to grow, and atrophies when neglected. But creativity is transferable, and so, engaging creatively has positive effects in other creative domains. This post was inspired by a comic jam I attended this past weekend. The comics were great, genuinely funny, and everyone had a wholesome time. It also made me realise how long it had been since I'd sketched.\n\n[![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity1.webp)](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity1.webp)\n[![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity2.webp)](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity2.webp)\n[![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity5.webp)](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity5.webp)\n[![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity4.webp)](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity4.webp)\n\nConversely, I speculate that forgoing creative thought will lead to it \"leaving you for a younger man\". She doesn't leave on a whim, she leaves when you stop showing up.\n\nIt hurts when I see people \"brainstorming with AI\". This is essentially offloading creative thought to a machine, forgoing the most human of processes. It honestly makes me sad, and I can't help but feel that collectively we’re losing something beautiful. The machines are coming for so much, but we can’t let them have this.\n\nSo go do something creative. Anything. Make a zine, paint with some watercolours, come up with a song. And keep doing that, forever.\n\n![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman/creativity3.webp)",
+        "url": "https://herman.bearblog.dev/creativity/",
+        "source": "Herman's blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-08-05T12:04:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Paul Thurrott Reviews the HP OmniBook Ultra 14, With Qualcomm’s Snapdragon X2",
+        "summary": "![HP OmniBook Ultra 14 (Snapdragon X2) Review](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-open.jpg)\n\nWe didn’t need more evidence that Qualcomm’s",
+        "content": "![HP OmniBook Ultra 14 (Snapdragon X2) Review](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-open.jpg)\n\nWe didn’t need more evidence that Qualcomm’s Snapdragon X2 compute platform is superior to anything in the x86 world. But here it is, regardless: The HP OmniBook Ultra 14 is yet another nearly-perfect laptop running Windows 11 on Arm, an ideal combination of hardware and software that delivers a superior overall experience.\n\n## Design\n\nThe OmniBook Ultra 14 is a handsome, premium laptop aimed at creators and other consumers–what I would call prosumers–with a three-piece matte aluminum body that was sandblasted on the edges for a shiny, polished look. Few Windows laptops are head-turners, but through a combination of design, colors, and materials, HP landed on something special here.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-angled-rear.jpg)\n\nIn Snapdragon X2 guise, the laptop comes in a unique blue-gray Stone Blue color that’s nicely complemented by the darker gray of the keyboard keycaps. But if you get an Intel model, oh the horror, you can choose between Eclipse Gray and Silk Sand colors instead. Either way, the branding is minimal and classy and premium all the way.\n\nAs good, the outside of the display lid and the top of the keyboard deck are both coated in an anti-fingerprint finish that mostly works. I can turn the laptop in the light and catch some visible skin oils on the touchpad, but the wrist rests and display lid are notably clean despite the regular usage.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-branding2.jpg)\n\nThe screen doesn’t fare as well: The keycaps transfer finger oils to the display in a distractingly visible pattern that I found myself wiping away every few days. The MacBook Air has the same issue, but PC makers generally place small rubber stops below the keyboard at the top of the wrist rests to prevent this from happening. HP didn’t do so in this case, and it also elevated the keyboard ever so slightly above the laptop deck. I feel like the company was going for some kind of thinness record here, and therein lies a tale.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-opu-key-smudges.jpg)\n\nI grew up in Dedham, Massachusetts, which at one point claimed that the Fairbank’s house, built in 1637, was the oldest house in the United States. This claim fell apart with just a little scrutiny, with the town later adjusting the claim to its being the oldest house east of the Mississippi, also not true, and whatever else over time. Today, the Fairbank’s house is, well, old. Today, it’s described as the oldest timber frame house in North America.\n\nWith the OmniBook Ultra 14, HP makes a few similarly curious claims tied to the laptop’s thinness. It was originally described as the thinnest premium consumer laptop on the market. And now it’s the world’s most durably slim consumer notebook and, separately, the world’s slimmest consumer notebook with the fastest AI performance. Whatever the claim, the OmniBook *is* thin, but there are a few cheats in there, too. It’s thinner at the front than the back; it has a concave design that gives the appearance of even better thinness, and no one is counting the size of the large rubber feet under the thing in any of these measurements.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-corner-upside-down.jpg)\n\nNone of this matters, of course. The OmniBook Ultra 14 is thin, light, and gorgeous, with a delightfully refined design and that unique Stone Blue color. That it’s so durable even with this thinness is perhaps more notable: The OmniBook passed 20 standard MIL-810H drop, shock, and extreme temperature tests, which is typical for premium business-class thin-and-light laptops, but less common in the consumer space.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-thin.jpg)\n\n## Display\n\nHP offers two display choices with the OmniBook Ultra 14. Both are impressive 14-inch multitouch OLED panels with a 16:10 aspect ratio, ultra-wide viewing angles, edge-to-edge Gorilla Glass 3 protection, low blue light capabilities, and 100 percent coverage of the DCI-P3 color gamut and Delta E < 1 color accuracy for creative professionals.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-opu-screen.jpg)\n\nIf you order the Snapdragon X2 Plus configuration, you get the base display with a Full HD+/2K (1920 x 1200) panel with a 60 Hz refresh rate that emits 300 nits of brightness by default. The upgraded display provided with Snapdragon X2 Elite configurations like the review unit is a 3K (2880 x 1800) panel with a 120 Hz variable refresh rate (VRR) that emits 500 nits of brightness or up to 1100 nits for HDR content.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-opu-screen2.jpg)\n\nI did enable the 120 Hz VRR mode in Display settings and kept it that way, but I also temporarily experimented with some display-related settings in the HP (formerly myHP) app. For example, you can configure the display for photo and video work (P3 D65), entertainment, or a native output, and you can even manually adjust the contrast if needed. In the end, I stuck with the default display mode, but you can even create custom display modes for specific apps, which may be of interest to creators.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-opu-open2.jpg)\n\nThough OLED displays tend to be glossy and reflective, this one isn’t horrible in that regard unless you’re in, say, a hotel room, and I found it to work well with productivity and creative work as well as entertainment.\n\nThe display bezels are quite small, especially on the left and right sides.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-bezels.jpg)\n\nBut the display comes nowhere close to lying flat.  It’s unclear why.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-display-angle.jpg)\n\n## Internal components\n\nThe OmniBook Ultra 14 can be configured with a 10-core Snapdragon X2 Plus X2P-64-100, a 12-core Snapdragon X2 Elite X2E-84-100, or an 18-core Snapdragon X2 Elite X2E-90-100 processor. And then there are different base amounts of soldered RAM (16, 32, or 64 GB LPDDR5x-9523 MT/s) and removable storage (512 GB, 1 TB, or 2 TB of M.2-based PCIe Gen 5 NVMe SSD). The X2 Plus variants have an 80 TOPS Hexagon NPU, while those with an X2 Elite have an 85 TOPS NPU that HP claims is exclusive to its laptops.\n\nThe review unit includes the highest-end Snapdragon X2 Elite processor, an incredible 64 GB of RAM, and 2 TB of storage. As was the case with the original generation Snapdragon X chipsets, it’s unclear what, if any, benefit one sees from the processor upgrades in normal day-to-day work. But the benefits of Snapdragon X2 are undeniable: In addition to epic battery life, there’s no noticeable performance change when you’re detached from power as is the case with x86 chipsets, especially those made by Intel. And while the transition to local AI is proceeding slowly, the 85 TOPS NPU in the review laptop is about as future-proof as such a component can be.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-bottom.jpg)\n\nI rely on real-world experiences, not benchmarks, for my reviews, but I found it interesting that HP supplied its own results for this laptop in both Snapdragon X2 and Intel Core Ultra Series 3 “Panther Lake” versions, in part because the Snapdragon versions routinely trounced the performance of the Intel variants, and often by a large margin. Intel only came out ahead in two of several graphics benchmarks, and then just barely. Other than that, Snapdragon X2 ran the rack.\n\nIn my usage, compatibility and performance of standard productivity, developer, and creator apps and services were top-notch with not a single issue, as is always the case with Snapdragon X/X2. In addition to the usual daily work–web browsing with Brave and Helium, writing with Typora, note-taking with Notion, image editing in Affinity, and Slack-based collaboration–I edited several videos for our Eternal Spring YouTube channel using Clipchamp, used the Windows Subsystem for Linux with multiple distributions, and hammered on other little-touched parts of Windows 11 while updating the *Windows 11 Field Guide*. The OmniBook never broke a sweat from what I can tell: I didn’t hear the fans come on once.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-angled.jpg)\n\nSnapdragon X2 is terrific, but Qualcomm got a bit of help here, too. In addition to the inherent efficiency of the laptop’s Arm-based innards, HP redesigned the OmniBook’s active cooling system to accommodate its first compact vapor chamber with liquid cooling, and it uses an AI-based Smart Sense feature by default to optimize performance in real-time. So there’s still a pair of fans, but they’re needed less often than ever, even when the system is under load.\n\nAlso helping matters, those two cross-body rubber feet that don’t factor into the laptop’s size measurements keep it elevated for air circulation. The system was always delightfully cool and quiet.\n\n## Connectivity\n\nConnectivity is modern thanks to the OmniBook’s Qualcomm FastConnect 7800 Wi-Fi 7 and Bluetooth 5.4 capabilities. However, 5G cellular connectivity isn’t available, even as an option. You may recall that this was originally a major selling point of Windows on Arm, but customer demand never materialized.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-branding.jpg)\n\n## Ports and expansion\n\nGiven the laptop’s thin form factor, it’s perhaps not surprising that it only has a handful of modern Type-C ports. But there’s at least one on each side of the laptop, which is ideal. I can’t tell you the last time I needed a dongle.\n\nOn the left, HP provides a single 40 Gbps Thunderbolt 4/USB4 Type-C port with Power Delivery 3.1, DisplayPort 1.4, and HP Sleep and Charge capabilities and a combo microphone/headphone jack.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-ports-left.jpg)\n\nOn the right, there are two 40 Gbps Type-C ports with the same capabilities as above.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-ports-right.jpg)\n\n## Audio and video\n\nDespite its thin body, the OmniBook Ultra 14 has four discrete downward-firing speakers–two tweeters and two woofers–with spatial audio tuning, though there’s no Dolby Atmos or DTS: Whatever sound optimization there is comes courtesy of HP Audio Boost and Poly Studio, according to HP.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-speaker.jpg)\n\nThe sound quality is excellent, with no distortion at the highest volumes and a wide stereo soundstage. But there’s no software included on the laptop for customizing the sound, oddly, and the Audio section in the HP app recommends using the Windows 11 Settings app for configuration. Which, yes, is useless.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-movie3.jpg)\n\nRegardless, the multimedia experience is very good, and the OLED display panel really helps to complete the story. As always with bottom-firing laptop speakers, the best results are had when the device is used on a hard surface like a table or desk.\n\n## Hybrid work\n\nWith its consumer focus, HP might be forgiven for under-delivering on the OmniBook Ultra 14’s remote and hybrid work capabilities. But that’s not the case, for the most part. Instead, you get a 5 MP webcam with a surprising range of additional capabilities and the type of dual-array microphone system that’s common in laptops these days.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-webcam.jpg)\n\nThe webcam is surprisingly good, with crisp video and little noise unless you’re in a very dark environment. It supports the full suite of Windows Studio Effects, which is nice. But also optional screen distance and posture detection, along with camera gestures, each of which can be enabled and configured to some degree in the HP app. The camera gestures are mostly tied to entertainment scenarios–you can pause/resume videos, adjust the volume, and scroll with hand movements if desired–but feel unique.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-opu-webcam-image.jpg)\n\nThe microphones aren’t all that interesting, though they do at least support Windows Studio Effects Voice Clarity with Voice Focus for reducing background noise. But they’re still just average, with a bit of distortion as is typical for laptop microphones.\n\n## Keyboard and touchpad\n\nHP doesn’t get enough credit for the quality of the keyboards it delivers with its premium consumer and business laptops. But the full-sized and backlit keyboard that comes with the OmniBook Ultra 14 is perhaps a new high-water mark and among the best I’ve ever used.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-kb.jpg)\n\nThe keyboard is latticeless, which means there’s no spacing between the keys, but HP sculpted each key to introduce spacing while making the key dishes deeper. Despite having relatively long key throws, especially for the form factor, these changes deliver a nearly perfect typing experience with excellent feedback. I love it, though I wish the backlighting supported an automatic mode. Instead, you get two levels of manual brightness.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-keys.jpg)\n\nGiven the form factor, the precision touchpad is surprisingly large, and I did have to disable the three-finger swipe gesture to achieve the level of reliability I want. That’s probably at least partially my fault, but the touchpad’s glass haptic design is excellent overall and handles a light touch as well as it does my usual more punishing interactions.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-touchpad.jpg)\n\n## Security\n\nSnapdragon X2-based Copilot+ PCs like the OmniBook Ultra 14 provide the best out-of-the-box security protections thanks to Windows Hello Enhanced Sign-in Security (ESS) and all the low-level enhancements that feature requires.\n\nThe OmniBook Ultra 14 comes with Windows Hello ESS facial recognition but not a fingerprint reader. There’s also a full suite of presence-sensing capabilities for automatic wake and lock, with discrete toggles for turning off the screen when you leave, waking the PC when you approach, dimming the screen when you look away, and detecting when others are looking over your shoulder at the screen.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-presence.jpg)\n\nThese features are undeniably useful and improve both security and convenience, especially when you use facial recognition to sign in. But I find some of these behaviors annoying, and so I keep experimenting with different configurations. With the OmniBook Ultra 14, I only left the auto-wake capability enabled.\n\nBeyond all that, you get a manual webcam privacy switch right above the camera on the display lid top, which isn’t ideal but works OK, and a microphone mute toggle key in the function key row.\n\n## Sustainability\n\nThe HP OmniBook Ultra 15 is made with up to 80 percent recycled metal in the cover, keyboard frame, and base, over 40 percent post-consumer recycled materials in the keyboard keycaps, scissors, and keyboard plate, and ocean-bound plastic in the speaker enclosures and bezel.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-screw.jpg)\n\nIn keeping with HP’s sustainability work in recent years, the OmniBook is user serviceable and easily repaired thanks to four exposed screws on the bottom of the laptop. Anyone can replace the SSD and battery, while other internal components are accessible to service technicians.\n\n## Efficiency and portability\n\nThe HP OmniBook 14 is quite portable with a thin and light form factor that measures 12.25 x 8.49 x 0.42 inches (in the rear; it’s just 0.29 inches in the front) and weighs just 2.81 pounds. That’s well under the 3-pound norm for a 14-inch premium thin and light laptop, and I barely noticed it in my bag when we traveled to Mexico City from Pennsylvania and during a subsequent trip from Mexico City to Las Vegas. (Where I am as I finish writing this review.)\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-thin2.jpg)\n\nWhat I did notice was the battery life.\n\nHP claims that the Snapdragon X2-based OmniBook Ultra 14 models deliver up to 28 hours of battery life, though that’s for offline video playback, not real-world usage. That’s well understood, but my first few experiences with Snapdragon X2 Elite suggested that the additional performance gains of this generation of chipset were reducing the battery life gains we saw with the OG Snapdragon X. And so I went into this curious whether that would continue.\n\nIt did not. In over a month and a half of real-world usage, I saw an average of almost 11 hours of uptime. That’s on par with the best results I saw with the original Snapdragon X laptops I reviewed two years ago and a welcome return to form. And I can only assume that the 2K display option would improve matters further.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-obu-closed.jpg)\n\nAs an example, I wrote part of this review while on battery power flying from Mexico City to Las Vegas for a work conference. After using it for four hours straight while charging my iPhone over USB, I was told to stow it for landing, and there was 65 percent battery life left.\n\nHP bundles its new 65-watt USB Type-C GaN mini wall adapter with the OmniBook Ultra 14. It’s excellent, thanks to its small size, removable USB-C cable, and foldable power prongs. And it can fast-charge the 4-cell 70 watt-hour battery in the laptop to about 50 percent in 45 minutes.\n\nAs good, the instant-on performance and reliability were both flawless too. You raise the lid, the laptop springs to life instantly, and Windows Hello ESS facial recognition kicks in immediately. Two years into this miraculous platform, and I still smile as this happens every single time.\n\n## Software\n\nThe OmniBook Ultra 14 is a Copilot+ PC that can be configured with Windows 11 on Arm Home or Pro. So you get all the software advantages of that platform, including Click to Do and Recall, the many local AI-based additions across in-box apps like Notepad, Paint, Photos, and more.\n\nThe crapware situation is a bit less positive. The OmniBook Ultra 14 may be a premium laptop, but it’s also a consumer product, and HP doesn’t always do right by its customers when it comes to the software loadout. That’s true here, sadly. You get some traditional forms of crapware like McAfee, which is two apps, one of which you can only uninstall using Control Panel. There are nonsense app links for Adobe, Booking.com (for some reason), and Dropbox. And a slew of superfluous or pointless utilities like Find My HP by Absolute, HP, HP Documentation, HP Inc. Energy Star, HP Privacy Settings, HP System Event Utility, many of which should simply be part of a single utility.\n\n![](https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/08/hp-app.jpg)\n\nBut the real insult here is the collection of pointless apps that add almost literally no value, from the HP app that combines system utilities with subscription and accessory upsells, yet another password manager in the form of HP Omni+, and perhaps the strangest entry of all, the HP TV+ streaming video app. I can’t imagine a single person using this laptop cares about or wants either of these things. (To be fair to HP, there are some incredibly useful and unique system features available in the HP app.)\n\nAnd that’s before we get to the junk Microsoft tosses into Windows 11 with abandon, including its most recent atrocity, OneDrive Photos. In the good news department, cleaning this stuff off the PC is simple enough for the most part, though the McAfee uninstall requires a reboot along with its dire warnings.\n\n## Pricing and configurations\n\nA base OmniBook Ultra 14 with a Snapdragon X2 Plus processor, 16 GB of RAM, 512 GB of storage, and a 14-inch 2K (1920 x 1200) OLED multitouch display panel is $1900 at the time of this writing. That’s quite expensive, yes, and all the usual component crisis caveats apply in this terrible era to buy a new laptop. But the prices can go up sharply from there.\n\nThe three Snapdragon X2 Elite processor upgrades are an additional $400, $540, and $1120, respectively, though each brings more RAM (32, 32, and 64 GB). You can move up to 1 TB of SSD storage for an additional $170 and to 2 TB for a horrifying $620. And the display upgrade to a 3K OLED panel is a reasonable $70. Which means that you could spend as much as $3700 on this laptop if you wanted to.\n\nYou can save money by buying a stock configuration, but your best bet is to wait for a sale. HP isn’t quite as aggressive in this regard as Lenovo, but there are almost always deals to be had. And that’s just HP: Mass market retailers like Best Buy also sell specific OmniBook Ultra 14 configurations and often at better prices.\n\n## Recommendations and conclusions\n\nAside from the sky-high pricing that’s not HP’s fault, the OmniBook Ultra 14 is a nearly flawless premium thin-and-light laptop that’s ideal for productivity, developer, and creator workloads. It delivers effortless and silent performance, excellent compatibility with all the apps most people use every day, terrific reliability, unmatched battery life and efficiency, and all the AI and security benefits of the Copilot+ PC platform. HP’s keyboards remain a personal favorite and yet keep getting better, and everything from the connectivity to the expansion capabilities is as modern and future-proof as possible. You can’t go wrong with this laptop.\n\n## At-a-glance\n\n**Pros**\n\n✔️ Epic, silent performance\n\n✔️ Gorgeous thin and light design\n\n✔️ Incredible battery life and efficiency\n\n✔️ Vibrant, color-correct display\n\n✔️ Modern connectivity and expansion\n\n✔️ Best-in-class security\n\n✔️ Terrific keyboard, haptic touchpad\n\n**Cons**\n\n❌ Not HP’s fault, but it’s expensive",
+        "url": "https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-05T15:41:32.000Z",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+        "summary": "5th August 2026\n\nBack in 2024 [I tweeted](https://twitter.com/simonw/status/1555626060384911360) screenshots of a game concept generated by GPT-3 and some concept “art” created using DALL-E. Today, on",
+        "content": "5th August 2026\n\nBack in 2024 [I tweeted](https://twitter.com/simonw/status/1555626060384911360) screenshots of a game concept generated by GPT-3 and some concept “art” created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in [Claude Code for web](https://code.claude.com/docs/en/claude-code-on-the-web)) could build the entire game from the content of that tweet. It did a pretty good job of it!\n\nYou can [play the game here](https://simonw.github.io/raccoon-heist/). Here’s [the GitHub repo](https://github.com/simonw/raccoon-heist/), and a short video demo:\n\n    \n    Your browser does not support HTML5 video.\n  \n\n#### How I built this\n\nThis is [the August 5th, 2022 tweet](https://twitter.com/simonw/status/1555626060384911360):\n\n![Simon Willison @simonw - New hobby: prototyping video games in 60 seconds using a combination of GPT-3 and DALL-E Here's \"Raccoon Heist\". Two images - the first is a screenshot of the GPT-3 playground, prompt below. On the right is a very clearly DALL-E generated image of an almost-isometric 3D computer game, with two raccoons sneaking down a street past a futuristic looking building, looking like they want to steal something.](https://static.simonwillison.net/static/2026/raccoon-heist-tweet.webp)\n\nMy GPT-3 prompt back then was:\n\n> `Write a detailed product description of a computer game where a team of raccoons go on heists.`\n\nThis was in the text completion days, where you asked GPT-3 to complete the rest of the text. It completed:\n\n> In “Raccoon Heist”, you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew. You’ll need to use your wits and your skills to avoid the police and make a clean getaway with the loot. With exciting gameplay and a charming cast of characters, “Raccoon Heist” is the perfect game for anyone looking for a light-hearted caper.\n\nMy prompt to DALL-E was short:\n\n> `Screenshot from a video game where a team of raccoons go on a heist`\n\nToday’s experiment: can I dump those screenshots into Fable 5 with a prompt telling it to write a game, then leave it to its own devices and get a working game at the end?\n\n#### Setting Claude Code for web up to use GitHub Pages\n\nA frustrating thing about Claude Code for web is that it can be hard to test what it’s working on while it’s still working.\n\nI’ve been using GitHub Pages to work around that limitation, and found it to work really well.\n\nHere’s my process:\n\n- Create a new repository for the project at [https://github.com/new](https://github.com/new)—this can be public or private, the trick works equally well for both.\n\n- Start a Claude Code for web session, in the Claude iPhone or Desktop apps or in the browser at [https://claude.ai/code](https://claude.ai/code)\n\n- Tell Claude what to work on, and encourage it to commit an `index.html` page as quickly as possible. This will create a branch with a name like `claude/3d-raccoon-heist-game-50n293`\n\n- Navigate to the Settings -> Pages area for the repository (`github.com/simonw/raccoon-heist/settings/pages` in my case), select “Deploy from a branch”, pick the branch name, and hit Save.\n\nThat’s all it takes! Within about 30 seconds of each push the latest content will be visible at `yourname.github.io/your-repo/`.\n\nIf you do this with a private repo, anyone who can guess the name of the repo will be able to view the published content. I don’t worry much about this myself.\n\n#### The Fable 5 prompt\n\nHere’s the prompt I gave Fable 5 (written in the notes app on my phone—this entire project was conducted on mobile). I accompanied it with the two images from the original tweet.\n\n> `Build this 3D game, for the browser.`\n\n> `This repo is configured to serve static files so make sure there is an index.html that loads everything else.`\n\n> `Make sure it is mobile-friendly (touch controls, works well on small screens).`\n\n> `You have an OpenAI API key and access to their image generation model APIs, use that for textures to use with your 3D models. Docs here: https://developers.openai.com/api/docs/guides/image-generation - use gpt-image-2`\n\n> `Work independently - do not ask me to make any further design decisions. Make sure the game is fun, a little surprising, has good raccoon heist vibes, and is visually pleasing.`\n\n> `Commit and push as often as possible so I can preview your work - start with an index.html that presents a title screen, then build from there.`\n\n> `Append to a notes.md file as you work, including your changes to that as part of every commit.`\n\nI didn’t make any technology choices. I assumed (correctly) that it would probably use [Three.js](https://threejs.org/) based on previous experiments.\n\nGiving Claude access to an OpenAI key turns out to work really well for filling in gaps in its capabilities—in this case we needed some way to generate images to use as textures. Fable is very good at prompting image generators!\n\nI said “Work independently—do not ask me to make any further design decisions” because I wanted to see if it could produce a full, working game without any further input from me.\n\nI also said “Commit and push as often as possible so I can preview your work”. When you use Claude Code in the Claude iPhone app you give it a GitHub repository and it works in a branch. Telling it to “push as often as possible” means commits start landing in that branch straight away.\n\nI like asking for `notes.md` as a bit of added flavor—here’s [that finished file](https://github.com/simonw/raccoon-heist/blob/main/notes.md), and the entry it made when it added the dog:\n\n> New escalation: from night 3 the yards get a patrolling guard dog — a low-poly brown hound with a spiked red collar and a wagging tail. It wanders between random spots, and within 12 units it catches your scent and tracks you by smell (line of sight is irrelevant — it’s all nose, shown by a 👃 over its head and barking). It gives up if you open a 17-unit gap. Getting caught messages are now source-specific: guard / headlights / hound. Verified wander → track → caught with an automated test.\n\n#### Reviewing the transcript\n\nYou can access [the Claude Code shared session](https://claude.ai/code/session_01NUBoCfnhGETcCDyEUPS8jp), and I also used my [claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) tool to export my own HTML version which you [can find here](https://simonw.github.io/raccoon-heist/transcript/page-001.html).\n\nFable started with an index page, [vendored a copy](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T14-55-13-304Z) of Three.js, then wrote its own [gen_textures.py script](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T14-55-49-064Z) ([copy here](https://github.com/simonw/raccoon-heist/blob/main/gen_textures.py)).\n\nIt generated the textures and [spot-checked them](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T14-59-07-900Z) to make sure they looked OK. The [metal.jpg file](https://github.com/simonw/raccoon-heist/blob/main/textures/metal.jpg) it generated for the trash can looks like this, though I don’t think it was applied exactly right in the game itself:\n\n![A game texture atlas of dark blue-grey riveted metal panels, showing a circular hatch with a handle in the top left, ribbed corrugated panels across the middle, a plain circular plate bottom left, and flat banded strips at top and bottom. No text visible.](https://raw.githubusercontent.com/simonw/raccoon-heist/refs/heads/main/textures/metal.jpg)\n\nThen it built out the first basic version of the game, then [decided to](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-04-51-625Z) “smoke-test in the pre-installed Chromium” using Playwright. This meant it could take screenshots of its own work and [eyeball them](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-05-53-823Z). It did that for both desktop and mobile widths of the page, then noticed that [the raccoon was invisible](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-09-33-406Z) at mobile widths, so it [fixed that](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-14-39-180Z):\n\n> The raccoon, dumpster hideout, and both crew raccoons are now perfectly visible on mobile. Committing this critical fix.\n\nIt decided to generate a title screen, which [it did](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-15-02-574Z) using this [gen_title.py](https://github.com/simonw/raccoon-heist/blob/main/gen_title.py) script. Here’s the `gpt-image-2` prompt it used for that:\n\n> `Video game key art, low-poly 3D render style, moody nighttime scene: a cute low-poly raccoon wearing a tiny black burglar mask sneaking on its hind legs carrying a glowing gold coin, next to a tipped-over metal trash can, suburban house with warm glowing windows in the background, deep blue night, full moon, fireflies, cinematic rim lighting, charming heist caper mood. No text, no words, no logos.`\n\nAnd the resulting image (which Claude [thought was “gorgeous”](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-16-42-176Z))—though I note that when it’s shown on desktop it gets cropped to just the top third without the raccoon!\n\n![Polygon raccoon holding a gold coin next to an overturned trash can, a house and the moon in the background.](https://static.simonwillison.net/static/2026/raccoon-heist-title.jpeg)\n\nThen my favorite change: it [added the dog](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-23-00-850Z):\n\nexport function makeDog() {\n  const g = new THREE.Group();\n  const BROWN = 0x8a6440, DARK = 0x5e4128;\n  const body = new THREE.Mesh(new THREE.SphereGeometry(0.42, 10, 8), M(BROWN));\n  body.scale.set(0.9, 0.8, 1.5);\n  body.position.y = 0.55;\n  body.castShadow = true;\n  g.add(body);\n  const head = new THREE.Mesh(new THREE.SphereGeometry(0.3, 10, 8), M(BROWN));\n  head.position.set(0, 0.85, 0.62);\n  g.add(head);\n  const snout = new THREE.Mesh(new THREE.SphereGeometry(0.16, 8, 6), M(DARK));\n  snout.scale.set(0.9, 0.7, 1.3);\n  snout.position.set(0, 0.76, 0.9);\n  g.add(snout);\n  const nose = new THREE.Mesh(new THREE.SphereGeometry(0.06, 6, 6), M(BLACK));\n  nose.position.set(0, 0.78, 1.08);\n  g.add(nose);\n  for (const s of [-1, 1]) {\n    const ear = new THREE.Mesh(new THREE.SphereGeometry(0.12, 6, 6), M(DARK));\n    ear.scale.set(0.7, 1.3, 0.5);\n    ear.position.set(0.2 * s, 1.08, 0.55);\n    g.add(ear);\n    const eye = new THREE.Mesh(new THREE.SphereGeometry(0.05, 6, 6), M(0x1a1a1a, { emissive: 0x331111 }));\n    eye.position.set(0.13 * s, 0.92, 0.86);\n    g.add(eye);\n  }\n  const tail = new THREE.Mesh(new THREE.CylinderGeometry(0.05, 0.09, 0.5, 6), M(DARK));\n  tail.position.set(0, 0.8, -0.62);\n  tail.rotation.x = 0.8;\n  g.add(tail);\n  // spiked collar\n  const collar = new THREE.Mesh(new THREE.TorusGeometry(0.22, 0.05, 6, 12), M(0xc0392b));\n  collar.position.set(0, 0.78, 0.5);\n  collar.rotation.x = Math.PI / 2.4;\n  g.add(collar);\n  const legGeo = new THREE.CylinderGeometry(0.07, 0.09, 0.34, 6);\n  const legs = [];\n  for (const [x, z] of [[-0.22, 0.35], [0.22, 0.35], [-0.22, -0.35], [0.22, -0.35]]) {\n    const leg = new THREE.Mesh(legGeo, M(DARK));\n    leg.position.set(x, 0.17, z);\n    g.add(leg);\n    legs.push(leg);\n  }\n  let phase = Math.random() * 10;\n  return {\n    group: g,\n    animate(dt, speed) {\n      phase += dt * (3 + speed * 10);\n      const amp = Math.min(0.6, 0.1 + speed * 0.6);\n      legs[0].rotation.x = Math.sin(phase) * amp;\n      legs[3].rotation.x = Math.sin(phase) * amp;\n      legs[1].rotation.x = -Math.sin(phase) * amp;\n      legs[2].rotation.x = -Math.sin(phase) * amp;\n      tail.rotation.z = Math.sin(phase * 1.5) * 0.4;\n      body.position.y = 0.55 + Math.abs(Math.sin(phase)) * 0.04 * (0.3 + speed);\n    },\n  };\n}\nAnd did a [round of testing on it](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-24-09-230Z) using Playwright, including [another screenshot](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-24-33-559Z).\n\n  // walk near the dog\n  await page.evaluate(() => { const d = window.__rh.dog; window.__rh.teleport(d.x + 6, d.z); });\n  await page.waitForTimeout(2000);\n  info = await page.evaluate(() => JSON.stringify({ dog: window.__rh.dog, state: window.__rh.state, player: window.__rh.debug().player }));\n  console.log('after approach:', info);\n  await page.waitForTimeout(3000);\n  info = await page.evaluate(() => JSON.stringify({ dog: window.__rh.dog, state: window.__rh.state }));\n  console.log('after chase:', info);\n  await page.screenshot({ path: __dirname + '/shot-dog.png' });\n![Screenshot of the game. Night 3, the raccoon is in the middle intersecting with the dog. A message reads Busted! The Guard shooed you off! The screen has a red tinge around the edges.](https://static.simonwillison.net/static/2026/shot-dog.png)\n\nIt made a few more tweaks, then [declared itself done](https://simonw.github.io/raccoon-heist/transcript/page-001.html#msg-2026-08-05T15-29-13-245Z):\n\n> **Raccoon Heist is built, tested, and pushed** — 7 commits on `claude/3d-raccoon-heist-game-50n293`, all verified with automated Playwright playthroughs on desktop, portrait-phone, and landscape-phone viewports.\n\n> **The game:** You’re a masked raccoon sneaking out of your crew’s dumpster hideout into a moonlit cul-de-sac. Grab coins, gems, rings, donuts, and fish (they visibly stack on your back and slow you down), then waddle home and bank them before dawn. Each night raises the goal and the heat: night 1 has one flashlight-sweeping guard, night 2 has two, night 3 adds a scent-tracking hound that ignores line-of-sight entirely. A police cruiser sweeps the street with headlights, homeowners randomly peek out of windows, a seagull periodically dive-bombs your unclaimed loot, pizza slices trigger a 6-second speed FRENZY, and a rare golden TV is worth 120 points if you can haul its weight home. Win ranks: TRASH PANDA ⭐ → CAT BURGLAR ⭐⭐ → MASTER OF DISGUISE ⭐⭐⭐, with your best run saved to localStorage.\n\n> **How it’s built:** Vendored Three.js (no CDN), procedural low-poly characters, and a procedural WebAudio soundtrack (sneaky walking-bass jazz plus all sound effects — zero audio files). All seven ground/wall textures and the title-screen hero art were generated with gpt-image-2 and committed as static assets, so the deployed game makes no API calls. Mobile gets a dynamic touch joystick (appears wherever you touch) plus a DASH button; desktop uses WASD/arrows and Space.\n\n> **Testing caught two real bugs worth mentioning:** the canvas rendered at 2× size on any real phone (a `cssText` assignment was wiping Three.js’s inline sizing — desktop DPR-1 tests masked it completely), and the win screen’s star-rating div inherited the title screen’s full-screen `.stars` CSS and silently swallowed every tap on the “next night” button. Both are fixed and regression-tested, along with pickup, banking, chase/caught, dawn, night progression, and lose/retry flows.\n\n> `notes.md` has the full build log. The game is live on the branch — just serve the repo root and open `index.html`.\n\n#### Is the game any good?\n\nIt’s an impressive starting point, but it’s not a *good* game.\n\nYou move your raccoon around a yard collecting items—donuts, fish, gold coins, jewels—while avoiding guards with flashlights and, in later levels, a dog. You have a limited carrying capacity, and once that’s full you need to drop stuff off at the dumpster. If you pick up a pizza slice you get a temporary speed boost.\n\nThere are no team mechanics at all—there are two other static raccoons next to the dumpster but they’re purely decoration.\n\nIt gets slightly more challenging as the levels progress—the dog introduced in level 3 is the most interesting new mechanic—but it’s very, very easy to beat. It’s also pretty boring—each night has a fixed duration and you can collect all of the items and then have nothing else to do while waiting for the dawn.\n\nI was impressed by the implementation. It’s fully 3D, there are trash cans, the flashlight illumination cones are fun, and it has a reasonably coherent visual style. It works on mobile. The music (“a procedural WebAudio soundtrack (sneaky walking-bass jazz plus all sound effects — zero audio files)” according to Claude) is simple but feels about right.\n\nAs a finished game project, it’s mediocre. As a starting point from a single prompt I think it’s very impressive.\n\nI’ve vibe coded up quite a few games now. They’ve all been deeply disappointing from a gameplay perspective—it turns out designing games that are *fun* remains a uniquely human trait, and one which requires significantly more skill and experience than either Claude or I can bring to bear.\n\nThat said, I thoroughly recommend tinkering with game development projects as a way to explore the capabilities of agents. It’s a fun, low-risk way to try out new things. If you stick at it long enough you might even produce something that’s worth playing!",
+        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-08-05T19:42:38.000Z",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "How Compiler Explorer Runs on AWS in 2026",
+        "summary": "Written with LLM assistance.\nDetails at end.\n\nI’ve been meaning to write an update on how [Compiler Explorer](https://godbolt.org/) actually runs on Amazon’s cloud, and it’s been sat on my list for a ",
+        "content": "Written with LLM assistance.\nDetails at end.\n\nI’ve been meaning to write an update on how [Compiler Explorer](https://godbolt.org/) actually runs on Amazon’s cloud, and it’s been sat on my list for a good while now, somewhere behind the other random things that take up what laughably I refer to as my spare time[1](#fn:list).\n\nThe last time I wrote about this was [2016](http://xania.org/201609/how-compiler-explorer-runs-on-amazon), when the whole site was a load balancer, a couple of instances and some Docker containers I built on my laptop. I wrote a much longer [how it works](http://xania.org/202506/how-compiler-explorer-works) last summer, but that one is mostly about Compiler Explorer and only incidentally about the cloud it sits on.\n\nIt’s no secret that we run on AWS, and none of it is hidden: the [infra repository](https://github.com/compiler-explorer/infra) has all the terraform, the install scripts and the `ce` command line tool we drive the whole thing with, so if you’d rather read the real thing than my description of it, help yourself. So this one goes the other way round, through the Amazon services we lean on, roughly in the order your compile request runs into them.\n\n### Getting your code as far as our servers\n\nYour browser talks to [CloudFront](https://aws.amazon.com/cloudfront/), Amazon’s CDN. We run two separate CloudFront distributions. The one in front of `godbolt.org` mostly just hands requests on to our load balancer, caching what it sensibly can and compressing things on the way back out[2](#fn:brotli). The bulky static stuff lives in an S3 bucket behind a second distribution at `static.ce-cdn.net`: the compiled JavaScript, the images, the web fonts. Much the largest part of that is [Monaco](https://github.com/microsoft/monaco-editor), the editor component out of Visual Studio Code, which is what gives you the syntax highlighting and the squiggly underlines and the rest of it. It’s a lot of JavaScript to send someone who only wants to look at some assembly, so it’s worth having it cached near them.\n\nSitting in front of that is [WAF](https://aws.amazon.com/waf/), doing our rate limiting. Our limits are *very* simple and *very* high, mostly because we used to be stricter and it kept catching C++ trainers: a whole classroom behind a conference’s NAT looks like a single very keen IP address. We could probably do something cleverer with fingerprinting, but raising the limit was easier and it hasn’t been a problem since.[3](#fn:bans)\n\n### Rather a lot of fleets behind one load balancer\n\nBehind CloudFront is a single [Application Load Balancer](https://aws.amazon.com/elasticloadbalancing/application-load-balancer/). It works out from the path which cluster a request is for, and then picks a healthy instance in that cluster to send it to. Almost everything has no special prefix at all and goes to the production fleet, which is where the overwhelming bulk of the traffic ends up. `/beta*` and `/staging*` go to the beta and staging fleets[4](#fn:envs). `/winprod*` goes to a fleet of Windows instances running [MSVC](https://learn.microsoft.com/en-us/cpp/build/reference/compiling-a-c-cpp-program), `/aarch64prod*` to [Graviton](https://aws.amazon.com/ec2/graviton/) machines that run ARM code natively rather than under emulation, and `/gpu*` to machines with real NVIDIA cards in them[5](#fn:gpu).\n\nEach of those is an [Auto Scaling Group](https://aws.amazon.com/ec2/autoscaling/), and these days each one is doubled up: a blue and a green. To deploy, we bring up the other colour, wait for it to go healthy, point the load balancer’s target group at it and drain the old one. If it’s wrong, we point it back. Before that, deploying meant a rolling restart of the fleet with our `ce` command line tool, one instance at a time. That worked well enough, but backing out a bad release meant rolling the whole fleet forward again onto the previous version, which is a bit slow when you’ve just broken the site.\n\nThe scaling itself is simple: we just try and keep the average CPU load below a threshold. We’ve kicked around more sophisticated ideas but this one is supported out of the box[6](#fn:queuescale).\n\n### Renting the bits nobody else wants\n\nThe production fleet is almost entirely [spot instances](https://aws.amazon.com/ec2/spot/) – unused EC2 capacity, sold off cheap, on the understanding that you can be evicted at two minutes’ notice. It’s a 60-90% saving over on-demand – quite a lot of money, for us.\n\nWe can get away with that because our instances don’t really matter. Everything that needs to survive lives on the shared filesystem, in S3 or in DynamoDB, so an instance that vanishes is just an instance that gets replaced. We ask for sixteen different instance types across the `m5`, `m6`, `m7`, `r6` and `i3`/`i4i` families. The allocation strategy is `price-capacity-optimized` – Amazon’s way of saying “pick whichever of these is cheapest and least likely to get yanked”. In practice we get evicted, the scaling group notices, and a new one turns up.\n\n### Why the compilers are the hard part\n\nWe have around 6,000 compiler entries[9](#fn:double) across 93 languages, and we never delete any of them[7](#fn:never). Once a compiler version goes up it stays up, so that Stack Overflow answer showing a GCC 4.8 codegen quirk still compiles today. It’s our bit against link rot, and it does mean we hoard an awful lot of binaries.\n\nAll of that lives on [EFS](https://aws.amazon.com/efs/), Amazon’s elastic NFS, and NFS has latency. C-like languages pull in an enormous number of very small header files, so the naive version of this is unusably slow. Our fix, which sounds daft, is to build a [SquashFS](https://docs.kernel.org/filesystems/squashfs.html) image per compiler, store the image *also* on EFS, and mount it through a loopback device. The kernel then thinks it’s talking to a local block device and caches blocks properly instead of checking with a server in another building every time[10](#fn:squash).\n\nThat worked, but it meant mounting a couple of thousand images at every boot, which took the best part of a minute and kept the metadata for thousands of filesystems resident in kernel memory. That cached metadata is a good chunk of why squashfs beats NFS in the first place, so it’s not wasted as such; it’s just that any one instance is only ever going to touch a handful of those compilers, so we were paying for all of it to use a fraction of it. It took me three years and several abandoned attempts to fix that, and the answer was [CEFS](http://xania.org/202509/cefs): content-addressed images, packed into bundles of around 20GB, mounted on demand by [autofs](https://www.kernel.org/doc/html/latest/filesystems/autofs.html) the first time something touches the path. The migration took us from 2,182 images down to 121, and OS startup from 50 seconds to 20! It’s crept back up to around 883 since, because the nightly builds keep making new images and consolidation only packs down whatever is already there. A garbage collection while I was writing this turned up 111 images that nothing references any more, about 63GiB’s worth[8](#fn:gc).\n\nOur storage has come down a lot over the year too, though I’m honestly not sure how much of that is CEFS and how much is me finally deleting the old squash images:\n\n```\nAug/04 01:55 admin-node~ $ df -h\nFilesystem                                 Size  Used Avail Use% Mounted on\n/dev/nvme0n1p1                              97G   20G   77G  21% /\nfs-db4c8192.efs.us-east-1.amazonaws.com:/  8.0E  2.2T  8.0E   1% /opt\n\n```\n\n2.2T, where a year ago it was 3.9T. Still nowhere near 8 exabytes, mind.\n\n### Building compilers all night, every night\n\nWe build a pile of compilers from scratch every night: GCC trunk, Clang trunk, and a long tail of experimental branches for reflection, contracts, coroutines and all the other fun stuff. That’s 94 nightly build jobs at the moment[11](#fn:jobs), up from 73 a year ago and 33 in 2022.\n\nThose run on our own [GitHub Actions](https://github.com/features/actions) runners on [EC2](https://aws.amazon.com/ec2/), spun up on demand with the excellent [terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner), with all the compiler orchestration on top being ours. Building trunk LLVM wants a big machine and a decent chunk of time, and GitHub’s hosted runners weren’t up to it when we set this up.\n\nThis is the part of the bill that goes up every time somebody asks us for another compiler and we say yes[12](#fn:stale).\n\n### The bits that are half-finished\n\nOne thing we’ve built but not finished rolling out is what we call the CE Router: a small fleet whose job is to decide *where* a compilation should happen, look the answer up in [DynamoDB](https://aws.amazon.com/dynamodb/) and drop the request on an [SQS](https://aws.amazon.com/sqs/) queue, with the result coming back to your browser over an [API Gateway](https://aws.amazon.com/api-gateway/) WebSocket. The point is to stop the machine that answers the HTTP request having to be the machine that owns the compiler.\n\nIt works, but it isn’t carrying production traffic yet: the load balancer rules that would send compilations through it are still commented out, and we’re migrating gradually. Your compile today still goes straight to a machine in the prod fleet, the way it always has.\n\nBuilding it did turn up a good AWS gotcha, though. API Gateway WebSocket frames top out at 32KiB, and the assembly for almost any non-trivial program is bigger than that; in the other direction SQS messages cap out at 256KB, which a decent-sized multi-file project will go past. So in both directions, if the thing is too big we shove it in S3 and send a key instead.\n\n### Everything else\n\nA scattering of other services doing one job each:\n\n- **[DynamoDB](https://aws.amazon.com/dynamodb/)** holds the short links. Every `godbolt.org/z/...` you’ve put in a slide deck is a row in a table, and there are a couple of million of them.\n\n- **[S3](https://aws.amazon.com/s3/)** holds the compilers we build, the static assets, the logs, and a daily-expiring content-addressable compilation cache, so the second person to compile the same thing gets it for free.\n\n- **[Lambda](https://aws.amazon.com/lambda/)** does the odd jobs: the [Claude Explain](http://xania.org/202505/ai-and-compiler-explorer) backend, the nightly version tracking, and the one that pushes CloudWatch alarms into our Discord so it’s not just my phone buzzing at 3am.\n\n- **[Route 53](https://aws.amazon.com/route53/)**, **[ACM](https://aws.amazon.com/certificate-manager/)**, **[CloudTrail](https://aws.amazon.com/cloudtrail/)**, **[Backup](https://aws.amazon.com/backup/)** and **[SES](https://aws.amazon.com/ses/)** are the plumbing. I don’t think about them much.\n\n- **[CloudWatch](https://aws.amazon.com/cloudwatch/)** drives the auto-scaling triggers, though for actually looking at things we run [Grafana](https://grafana.com/), [Prometheus](https://prometheus.io/) and [Loki](https://grafana.com/oss/loki/). Those [dashboards are public](https://stats.compiler-explorer.com/).\n\nEverything is in `us-east-1`. If you’re compiling from Sydney your code goes a long way round, and I’m afraid it’s going to keep doing that: keeping a couple of terabytes of compilers in sync across regions would be an absolute nightmare.\n\n### Some numbers\n\nWe log a heavily anonymised JSON record to S3 for every compilation, with a [Glue](https://aws.amazon.com/glue/) table over the top, so while writing this I went and counted them properly: **5,238,210** compilations in July, and **78.7 million** over the last twelve months. It’s been sliding gently all year, down about a third from last autumn’s peak.\n\n[\n![Chart of monthly compilations from August 2025 to July 2026, peaking at 7.77 million in October 2025 and falling to 5.24 million in July 2026](http://xania.org/202608/compilations-per-month.svg)\n](http://xania.org/202608/compilations-per-month.svg)\n\nCompilations per month over the last year. Generated from [this script](http://xania.org/202608/generate_compilation_chart.py).\n\nThe big drop before that, from 2024’s 14 million a month, I can at least half explain: in mid-2024 we doubled the default delay before we auto-recompile as you type, from 750ms to 1500ms, and then to 2 seconds[13](#fn:delay). If you type continuously, doubling that delay roughly halves the number of compilations you generate, without anybody noticing anything much. This latest slide isn’t that, though: it started well over a year later.\n\nSo I don’t really have a good explanation, and I can’t easily go and find one, because we deliberately [don’t track who you are](https://godbolt.org/#privacy): no cookies, nothing that would let me tell you how many people used the site yesterday. I’d make that trade again every time, but it does leave me squinting at graphs occasionally.\n\nSince I had the query open, here’s what folks actually compiled in July:\n\n```\nid                      compiles   compiler\ng161                   1,386,532   GCC 16.1 (C++)\ncg161                    403,659   GCC 16.1 (C)\ngsnapshot                298,256   GCC trunk\nclang_trunk              287,885   Clang trunk\ng152                     239,331   GCC 15.2\nclang2210                177,958   Clang 22.1\nvcpp_v19_latest_x64      132,186   MSVC\nr1970                     65,380   Rust 1.97\npython314                 51,104   Python 3.14\n\n```\n\nThat top entry is **26%** of everything – roughly what you’d expect when you’re the default[15](#fn:top10). The load balancer sees around 14 million requests a month; our busiest day this year was the 21st of April at 1.44 million. The auto-scaling dealt with that one by itself; I only found out about it while writing this.\n\nAll of that costs us somewhere around $3,600 a month on AWS at the moment, which works out at about $0.0007 per compilation[14](#fn:percomp). For the best part of a year we barely paid any of that: AWS’s [open source credits](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) covered almost all of it. Those ran out in the spring, we paid our own way for a few months, and AWS have just renewed them for another year, which is a huge help. Either way we’re fine for money, thanks to our [Patreon](https://patreon.com/mattgodbolt) supporters, our [GitHub sponsors](https://github.com/sponsors/mattgodbolt) and our [commercial sponsors](https://godbolt.org/#sponsors). I did a [full breakdown of the costs](http://xania.org/202506/compiler-explorer-cost-transparency) last year and it’s still roughly the right shape.\n\n[\n![Visualisation showing 6,157 compilers across 93 languages](http://xania.org/202608/compiler-wall-dynamic.svg)\n](http://xania.org/202608/compiler-wall-dynamic.svg)\n\nThe wall of compilers, a year on: 6,157 entries across 93 languages.\nRegenerated from [the same script](http://xania.org/202608/generate_compiler_wall.py) as last year's.\n\n### Things I’d still like to fix\n\nDeployment is better than it was but there’s still more hand-holding in it than I’d like[16](#fn:discovery). The CE Router migration has been “nearly done” for a while now… I still wish I’d laid out the NFS directory structure properly at the start instead of growing it one compiler at a time for a decade. And we moved everything to [Ubuntu 24.04](https://releases.ubuntu.com/noble/) this year, which was not the tidy little upgrade it sounds like[17](#fn:relr).\n\nNone of this is especially clever: it’s a load balancer, some scaling groups full of cheap spot instances, a network filesystem and a decade of accumulated hacks. It does keep working, though, and these days it mostly keeps working without anyone having to go and poke it. I’m pretty happy with that.\n\n### Thanks\n\nAs ever, the people who keep this running are the contributors. [Partouf](https://bsky.app/profile/partouf.bsky.social) (Patrick Quist) above all – I really don’t know what CE would do without them – along with the core team and the many, many people who send PRs and file issues. Thank you all. Thanks too to AWS, whose [open source credits programme](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/) paid for the best part of a year of everything described above, and who have just renewed for another year – which is not a small thing for a project our size, and it lets us get on with the interesting problems instead of watching the bill. Thank you AWS! And thanks, as always, to our [Patreon](https://patreon.com/mattgodbolt) and [GitHub Sponsors](https://github.com/sponsors/mattgodbolt) supporters and our [commercial sponsors](https://godbolt.org/#sponsors), who cover the rest.\n\nQuestions? Complaints? Compilers we’re missing? Drop by our [Discord](https://discord.gg/B5WacA7), or find me on [Bluesky](https://bsky.app/profile/matt.godbolt.org) or [Mastodon](https://hachyderm.io/@mattgodbolt).\n\n### Disclaimer\n\nThis article was a collaboration between a human and an [LLM](https://anthropic.com/). I set it off to dig through our infrastructure repositories and our AWS account for the current numbers, which turned up several things I had wrong, and worked from that. It also ran the Athena queries and regenerated the graphs. The opinions, em- and en-dashes, and mistakes are all mine.\n\n    \n                \n                \n                Posted at 10:19:00 CDT on 5th August 2026.",
+        "url": "http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&utm_medium=rss",
+        "source": "Matt Godbolt’s blog",
+        "tags": [
+          "Cloud",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-05T15:19:00.000Z",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Google is a scammer's paradise (05 Aug 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/05Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/05/absentee-",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/05Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/05/absentee-landlord/)\n\n## Today's links\n\n- [Google is a scammer's paradise](https://pluralistic.net/2026/08/05/absentee-landlord/#): The internet's absentee landlord.\n\n- [Hey look at this](https://pluralistic.net/2026/08/05/absentee-landlord/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/08/05/absentee-landlord/#retro): DEVELOPERS DEVELOPERS DEVELOPERS; EZ realistic corpse; $300m login button; Short Uber; Who goes AI?\n\n- [Upcoming appearances](https://pluralistic.net/2026/08/05/absentee-landlord/#upcoming): Edinburgh, Sydney, Melbourne, Brighton, London, South Bend.\n\n- [Recent appearances](https://pluralistic.net/2026/08/05/absentee-landlord/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/08/05/absentee-landlord/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/08/05/absentee-landlord/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/08/05/absentee-landlord/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/hotel-scam-google.jpg?w=840&ssl=1)\n\n## Google is a scammer's paradise ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#))\n\nForget \"Don't be evil\"; Google's true motto is a form of vulgar spidermanism: \"With great power comes no responsibility.\" The internet's *de facto* boss is an absentee landlord.\n\nGoogle – a thrice-convicted monopolist – is the gateway to the internet, with more than a 90% search market share that it attained by buying out all its competitors and bribing Apple more than $20b/year not to start a rival search engine:\n\n[https://www.democracynow.org/2024/8/6/google_monopoly](https://www.democracynow.org/2024/8/6/google_monopoly)\n\nGoogle likes to position itself as a wise steward of the internet. They say they use their vast troves of data about the internet and its users to connect the right person with the right information at the right moment. As their mission statement has it, \"organize the world's information and make it universally accessible and useful\":\n\n[https://www.google.com/intl/en_us/search/howsearchworks/our-approach/](https://www.google.com/intl/en_us/search/howsearchworks/our-approach/)\n\nThe tacit argument is, \"Sure, we repeatedly violated antitrust law in order to monopolize the internet, but the internet *needs* a monopolist. It's scary out there! We have amassed power so that we can protect and guide *you*.\"\n\nIt's a bullshit argument and no one should accept it – but even if you think it's worth harnessing monopoly power to promote a wise king to rule over the internet, you'd still want Google to take that responsibility seriously. If we're to have a landlord for our civilization's digital nervous system, let's not have it be an *absentee* landlord.\n\nGoogle is an absentee landlord. In 2019, they chose to *deliberately worsen* search results in order to make you search repeatedly to find the information you're seeking, because every fresh query lets them serve fresh advertisements:\n\n[https://pluralistic.net/2025/05/26/babyish-radical-extremists/#cancon](https://pluralistic.net/2025/05/26/babyish-radical-extremists/#cancon)\n\nNot all of Google's enshittification can be attributed to deliberate sabotage. Much of it is the result of neglect. Ask Google for a product review and they'll pass over the most rigorous, honest websites on the internet in favor of affiliate scammers who repackage Amazon best-of lists to peddle overpriced, underperforming junk that's sometimes so bad it's *dangerous*:\n\n[https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)\n\nGoogle keeps announcing that it Takes This Problem Very Seriously – and then nothing happens:\n\n[https://pluralistic.net/2024/05/03/keyword-swarming/#site-reputation-abuse](https://pluralistic.net/2024/05/03/keyword-swarming/#site-reputation-abuse)\n\nAnd of course, Google AI search results present the company with a highly refined and confident-sounding way to launder spam into product recommendations:\n\n[https://pluralistic.net/2025/07/15/inhuman-gigapede/#coprophagic-ai](https://pluralistic.net/2025/07/15/inhuman-gigapede/#coprophagic-ai)\n\nCould Google do better? Provably so. Kagi, a small company that runs a search engine powered by Google's own search index consistently delivers results that are substantially superior to Google's – using Google's own infrastructure:\n\n[https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/#kagi](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/#kagi)\n\nIf Kagi (a startup with a handful of engineers) can extract useful search results from Google's databases, then Google – a thrice-convicted monopolist that's had its pick of *thousands* of the top computer scientists from the world's most prestigious universities for a generation – could also do so.\n\nThey just choose not to.\n\nThey're too big to fail. They're too big to jail. They're too big to care.\n\nGoogle's AI search isn't a way to fix its broken core product: it's a way to partially remediate the damage Google itself inflicted on the open internet, while imprisoning the web in a walled garden that would make Steve Jobs drool:\n\n[https://pluralistic.net/2026/06/29/arsonist-firefighters/#im-feeling-lucky](https://pluralistic.net/2026/06/29/arsonist-firefighters/#im-feeling-lucky)\n\nIt's a deadly combination: Google has committed hundreds of billions to stock buybacks and its AI money-furnace, financed by mass layoffs targeting the people who keep the core services useful. The too-big-to-care company is still the internet's gatekeeper, but half the guards at the gate have been fired and the other half have pulled so much overtime that they keep falling asleep on the job.\n\nGoogle has become a scammer's paradise.\n\nTake Google's \"answer box.\" This is the part of the search results page that tries to answer your query directly, without sending you elsewhere for that info. Back in 2023, Google's Answer Box was taken over by scammers who impersonated airline help desks. When Google's users searched for airlines' toll-free phone numbers, Google directed them to phones that rang in the scammers' boiler room, where they were tricked into giving up their passport info and credit card numbers to boiler-room thieves:\n\n[https://www.nbcnews.com/tech/tech-news/phone-numbers-airlines-listed-google-directed-scammers-rcna94766](https://www.nbcnews.com/tech/tech-news/phone-numbers-airlines-listed-google-directed-scammers-rcna94766)\n\n(This was an especially devastating attack because the airlines themselves hide their customer service phone numbers – as enshittified monopolists, they want your money, not your complaints – so it's normal to search Google for the number you're seeking, rather than scouring the airlines' deliberately confusing customer service sites.)\n\nThis is especially galling because Google has an extensive \"verified merchant\" program that goes to enormous lengths to establish the true identity of every merchant whose businesses are listed on Google, in maps, ads and search results. Google \"knows\" which URLs belong to the airlines. If it can be tricked into scraping a different website for the airlines' phone numbers, that's because Google couldn't be bothered to connect its own database of canonical airline URLs to the process that serves phone numbers to the 90% of the web-using public who search with Google.\n\nGoogle's database of the canonical URLs for businesses doesn't stop at airlines or even large businesses. Nearly every local merchant has undergone Google's verification process, which includes a step where Google physically mails a postcard with a unique number to the merchant's registered address, which the merchant must then key into Google to prove that they're located where they say they are.\n\nDespite this, Google's ad-sales system will happily sell *anyone* the right to advertise a *different* website for queries for specific merchants, and those ads appear *above* the real result for the business's website. To make this even worse, Google's spent years making it more difficult to distinguish ads from \"organic\" search results, changing the font and size of the \"ad\" warning to make it harder to spot, and making the font and color of the ad itself closer to the color of the search results below it.\n\nThis is a gift to fraudsters. I had my own run-in with it in 2023, when I was tricked by a Google ad into ordering dinner from my local Thai place using a scam site that had cloned the restaurant's menu. The scammers marked up the price by 15%, then passed the order on to the restaurant, pocketing the vig:\n\n[https://pluralistic.net/2023/02/24/passive-income/#swiss-cheese-security](https://pluralistic.net/2023/02/24/passive-income/#swiss-cheese-security)\n\nThis scammer – based out of a UC Berkeley dorm-room – had copied *hundreds* of restaurant websites, then bought Google ads for the restaurants' names, ensuring that searchers would see the scam result *before* the real one. Remember: Google *knows* what the true URL is for every one of those restaurants but it sold the scammer ads for a different URL that appeared when people searched for the restaurant by name.\n\nGoogle could trivially add a step to the ad sales pipeline that detects mismatches between a merchant's known URL and the URL in an ad bought against the merchant's name. It could automatically resolve these mismatches by sending an email to the merchant's verified email address that says, \"Hey, are you buying an ad with a new URL? If so, just reply to this email.\"\n\nI don't know why Google doesn't do this. Maybe they make huge sums from these scam ads and they don't want to forego the revenue. Or maybe they just don't care.\n\nWhichever it is, there's real consequences for this negligence by the internet's absentee landlord. Take abortions: fake abortion clinics – where pregnant women are bullied or tricked out of the abortions they're seeking – buy Google ads against the names of *real* abortion clinics. Google makes millions sending abortion-seekers to fake abortion providers:\n\n[https://pluralistic.net/2023/06/15/paid-medical-disinformation/#crisis-pregnancy-centers](https://pluralistic.net/2023/06/15/paid-medical-disinformation/#crisis-pregnancy-centers)\n\nGoogle started off as the ideal \"intermediary\" – the fancy economist's term for a \"middleman.\" They took as their duty to figure out the best websites for you to look at based on your interests, serving as an honest broker between internet users and internet publishers. In the quarter-century since the company's founding, as it transformed itself into a monopolist, it developed the curse of every intermediary: it got Main Character Syndrome.\n\nThis is Tim Wu's formulation: the reason for an intermediary existence is to serve the parties to the transaction. Ebay says it exists to connect buyers and sellers, Uber is supposed to connect drivers and riders, dating sites are supposed to connect people with their love-matches. But intermediaries are cursed with an enviable position: by dint of sitting between these different groups of people, the intermediary learns everything about *both* sides of the transaction, while each side only knows about its own position.\n\nAmazon knows the price you're willing to pay, it knows who's set the lowest price, and it knows how many identical items that match your query are for sale. But the sellers don't know any of that, and you only know some of it. By capitalizing on that information (rather than using it to efficiently match buyers and sellers), Amazon can match you with the sellers willing to pay the highest junk fees, rather than the ones who offer the best price for the best goods:\n\n[https://pluralistic.net/2023/11/03/subprime-attention-rent-crisis/#euthanize-rentiers](https://pluralistic.net/2023/11/03/subprime-attention-rent-crisis/#euthanize-rentiers)\n\nThis is Wu's Main Character Syndrome in action. Once Amazon attains a dominant market share, it can maximize its own welfare at the expense of its buyers and sellers, transforming itself from a helper to a parasite:\n\n[https://www.lawfaremedia.org/article/lawfare-daily–tim-wu-on–the-age-of-extraction](https://www.lawfaremedia.org/article/lawfare-daily--tim-wu-on--the-age-of-extraction)\n\nGoogle *says* it wants to \"organize the world's information and make it universally accessible and useful,\" but every dime it spends fighting fraud (a critical part of this mission!) is a dime it can't spend on stock buybacks, executive compensation and AI servers. \"Organize the world's information and make it universally accessible and useful\" is the mission of a *good* intermediary; \"do the absolute minimum to fight fraud\" is the mission of a formerly good intermediary with terminal Main Character Syndrome.\n\nGoogle keeps finding ways to expose its users to fraud while lining its own pockets. That restaurant markup scam that caught me in 2023? Three years later, it's *way* worse.\n\nSan Francisco City Attorney David Chiu just filed suit against GuestReservations.com, BookOnline.com and Booking Holdings for running a *massive* version of the restaurant menu scam – one that extracted *millions* from people booking hotel rooms:\n\n[https://www.kron4.com/news/bay-area/alleged-sf-hotel-booking-scam-had-up-to-85-markup-fees-city-attorney/](https://www.kron4.com/news/bay-area/alleged-sf-hotel-booking-scam-had-up-to-85-markup-fees-city-attorney/)\n\nHere's how the scam worked: these companies put up websites with deceptive URLs, like *SanFranciscoMarriott.GuestReservations.com*, and then bought the associated Google ad-word (\"San Francisco Marriott\"). At the top of Google searches for \"San Francisco Marriott booking\" was the ad for SanFranciscoMarriott.GuestReservations.com. This site would sell you a room at the Marriott, at a markup of *35% to 85%*.\n\nThis is a pure ripoff. If Google had served the correct result at the top of the page – if it had used its own database of confirmed merchants and their associate websites to validate its ads – then people booking hotels would have saved 35% to 85% on their rooms.\n\nCity Attorney Chiu says that the perps here registered domains for all kinds of hotels, even tiny ones in small towns, all over America. That means that it's not just visitors to San Francisco who got screwed by these creeps – it's also San Franciscans who booked hotel rooms around the country.\n\nGoogle bears the lion's share of the blame here, but Visa and the other credit card companies are critical to these scams. Card companies allow merchants to set terms of service that refuse refunds under almost any circumstances, and, more often than not, the card issuers side with the merchants over their own customers when they call to cancel a charge from one of these scammers.\n\nI discovered this for myself when I was tricked into buying theater tickets from a ripoff site that had registered the URL of the show I wanted to go to. I figured out that I'd been rooked within a minute of clicking the buy button, but it took months and multiple appeals – and ultimately a threat to cancel my credit card – to get Visa to refund me.\n\nVisa – another bloated monopolist with terminal Main Character Syndrome – can see that it has merchants who generate zillions of  appeals and charge-backs because they run scam businesses like these. They *could* treat these merchants as the fraudsters they are, but because the crooks wreathe themselves in gauzy excuses and lengthy terms of service, Visa enables these massive, nationwide cons.\n\nGoogle, Visa and the other monopolists who serve as *de facto* regulators for our society have arrogated to themselves the power to observe every transaction and block the obvious scams. We pay for their failure to take minimal, obvious steps to protect us from the scammers who thrive on their platforms.\n\nWhy should they? They're the main characters. They're Bizarro-world spidermen, whose great power confers no responsibility.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- When the AI bubble bursts, will Europe be ready? [https://www.euractiv.com/opinion/when-the-ai-bubble-bursts-will-europe-be-ready/](https://www.euractiv.com/opinion/when-the-ai-bubble-bursts-will-europe-be-ready/)\n\n- \nGavin Newsom Makes An Ass Of Himself On Antitrust, Paramount Merger [https://www.techdirt.com/2026/08/04/gavin-newsom-makes-an-ass-of-himself-on-antitrust-paramount-merger/](https://www.techdirt.com/2026/08/04/gavin-newsom-makes-an-ass-of-himself-on-antitrust-paramount-merger/)\n\n- \nAgainst Self-Fulfilling Prophecy [https://www.hamiltonnolan.com/p/against-self-fulfilling-prophecy](https://www.hamiltonnolan.com/p/against-self-fulfilling-prophecy)\n\n- \nArson markets [https://www.merkley.senate.gov/wp-content/uploads/2026.08.03-LTR-Wildfire-Prediction-Markets-FINAL.pdf](https://www.merkley.senate.gov/wp-content/uploads/2026.08.03-LTR-Wildfire-Prediction-Markets-FINAL.pdf)\n\n- \nEight Myths on Software Engineering and GenAI [https://queue.acm.org/detail.cfm?id=3807963](https://queue.acm.org/detail.cfm?id=3807963)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#retro))\n\n#25yrsago Steve Ballmer: DEVELOPERS DEVELOPERS DEVELOPERS DEVELOPERS DEVELOPERS [http://www.ntk.net/ballmer/dancemonkeyboy.mpg](http://www.ntk.net/ballmer/dancemonkeyboy.mpg)\n\n#15yrsago HOWTO E-Z realistic corpse from a cheap plastic skeleton [https://propnomicon.blogspot.com/2011/08/quick-and-dirty-corpses.html](https://propnomicon.blogspot.com/2011/08/quick-and-dirty-corpses.html)\n\n#15yrsago $300 Million Button: making customers create logins to buy cost etailer $300M/year [https://centercentre.com/](https://centercentre.com/)\n\n#10yrsago 1 billion computer monitors vulnerable to undetectable firmware attacks [https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Cui](https://www.defcon.org/html/defcon-24/dc-24-speakers.html#Cui)\n\n#10yrsago Stiglitz quits Panama’s official money-laundering panel over internal sabotage [https://www.reuters.com/article/us-panama-tax-idUSKCN10G24Z/](https://www.reuters.com/article/us-panama-tax-idUSKCN10G24Z/)\n\n#10yrsago BBC will use surveillance powers to sniff Britons’ wifi and find license-cheats [https://web.archive.org/web/20160806155022/https://www.telegraph.co.uk/news/2016/08/05/bbc-to-deploy-detection-vans-to-snoop-on-internet-users/](https://web.archive.org/web/20160806155022/https://www.telegraph.co.uk/news/2016/08/05/bbc-to-deploy-detection-vans-to-snoop-on-internet-users/)\n\n#10yrsago How and why to short Uber [https://qz.com/707947/investors-have-placed-a-one-way-bet-on-uber-which-made-us-want-to-figure-out-a-way-to-short-it](https://qz.com/707947/investors-have-placed-a-one-way-bet-on-uber-which-made-us-want-to-figure-out-a-way-to-short-it)\n\n#5yrsago Facebook's official disinformation research portal is a bad joke [https://pluralistic.net/2021/08/06/get-you-coming-and-going/#potemkin-research-program](https://pluralistic.net/2021/08/06/get-you-coming-and-going/#potemkin-research-program)\n\n#5yrsago Scammers sell griefers social media banning services [https://pluralistic.net/2021/08/06/get-you-coming-and-going/#curse-of-bigness](https://pluralistic.net/2021/08/06/get-you-coming-and-going/#curse-of-bigness)\n\n#1yrago Which jobs can be replaced with AI? [https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice](https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Virtual: EFFecting Change: Who the Machine Serves, Aug 12\n\n[https://www.eff.org/event/effecting-change-who-machine-serves](https://www.eff.org/event/effecting-change-who-machine-serves)\n\n- \nEdinburgh International Book Festival with Jimmy Wales, Aug 17\n\n[https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales](https://www.edbookfest.co.uk/events/the-front-list-cory-doctorow-and-jimmy-wales)\n\n- \nSydney: The Festival of Dangerous Ideas, Aug 23-24\n\n[https://festivalofdangerousideas.com/program/](https://festivalofdangerousideas.com/program/)\n\n- \nMelbourne: Enshittification at the Wheeler Centre, Aug 25\n\n[https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification](https://www.wheelercentre.com/events-tickets/season-2026/cory-doctorow-enshittification)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#recent))\n\n- The AI Enshittification Bubble (Hidden Forces)\n\n[https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/](https://hiddenforces.io/podcasts/the-ai-enshittification-bubble-cory-doctorow/)\n\n- \nF@#$ the AI Overlords (On The Media)\n\n[https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords](https://www.wnycstudios.org/podcasts/otm/articles/f-the-ai-overlords)\n\n- \nWhy AI Won't Replace Workers, But Will Crash The Economy (Smart Cookies)\n\n[https://www.youtube.com/watch?v=rRRmUuxJolY](https://www.youtube.com/watch?v=rRRmUuxJolY)\n\n- \nAI and the Enshittification Era (The Weekly Show with Jon Stewart)\n\n[https://www.youtube.com/watch?v=-dAIJRjb-Bw](https://www.youtube.com/watch?v=-dAIJRjb-Bw)\n\n- \nAI is not inevitable (Betakit)\n\n[https://www.youtube.com/watch?v=DbiTVkq1WHo](https://www.youtube.com/watch?v=DbiTVkq1WHo)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/08/05/absentee-landlord/#bragsheet))\n\nToday's top sources:\n\n**Currently writing:**\n\n**\n- “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 623 (1336 total).\n\n**- **\n****\"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/08/05/absentee-landlord/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Database",
+          "Systems"
+        ],
+        "published_at": "Wed, 05 Aug 2026 10:50:43 +0000",
+        "reading_time": 19,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Proxmox officially supports Arm, with some caveats - Proxmox today announced their [Proxmox Virtual Environment is now available for 64-bit ARM...",
+    "Sam Altman, Definitely Not a Ghoul - [ ![Katie Notopoulos](https://i.insider.com/6785314850dfd88e193e0de7?crop=1:1&width=256&fo...",
+    "A Bad HDMI Cable Broke My Mouse - I got tasked to fix some bizarre issues a friend was having with their gaming PC. They had...",
+    "Committing to creativity - * 05 Aug, 2026 * There's a quote from the book *City of Thieves* by David Benioff where a...",
+    "Paul Thurrott Reviews the HP OmniBook Ultra 14, With Qualcomm’s Snapdragon X2 - ![HP OmniBook Ultra 14 (Snapdragon X2) Review](https://thurrott-assets.nyc3.digitaloceansp..."
+  ],
+  "wordcloud": [
+    {
+      "word": "work",
+      "count": 7
+    },
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "cloudflare",
+      "count": 6
+    },
+    {
+      "word": "com",
+      "count": 6
+    },
+    {
+      "word": "post",
+      "count": 5
+    },
+    {
+      "word": "ai",
+      "count": 5
+    },
+    {
+      "word": "today",
+      "count": 4
+    },
+    {
+      "word": "os",
+      "count": 4
+    },
+    {
+      "word": "access",
+      "count": 4
+    },
+    {
+      "word": "agent",
+      "count": 4
+    },
+    {
+      "word": "fy",
+      "count": 4
+    },
+    {
+      "word": "proxmox",
+      "count": 4
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "didn",
+      "count": 3
+    },
+    {
+      "word": "wrote",
+      "count": 3
+    },
+    {
+      "word": "trees",
+      "count": 3
+    },
+    {
+      "word": "ebay",
+      "count": 3
+    },
+    {
+      "word": "platform",
+      "count": 3
+    },
+    {
+      "word": "revenue",
+      "count": 3
+    },
+    {
+      "word": "aug",
+      "count": 3
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "ago",
+      "count": 2
+    },
+    {
+      "word": "rooted",
+      "count": 2
+    },
+    {
+      "word": "nodes",
+      "count": 2
+    },
+    {
+      "word": "root",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "news",
+      "count": 2
+    },
+    {
+      "word": "look",
+      "count": 2
+    },
+    {
+      "word": "name",
+      "count": 2
+    },
+    {
+      "word": "august",
+      "count": 2
+    },
+    {
+      "word": "built",
+      "count": 2
+    },
+    {
+      "word": "safely",
+      "count": 2
+    },
+    {
+      "word": "compute",
+      "count": 2
+    },
+    {
+      "word": "trust",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "agents",
+      "count": 2
+    },
+    {
+      "word": "apps",
+      "count": 2
+    },
+    {
+      "word": "internal",
+      "count": 2
+    },
+    {
+      "word": "around",
+      "count": 2
+    },
+    {
+      "word": "writeguard",
+      "count": 2
+    },
+    {
+      "word": "mcp",
+      "count": 2
+    },
+    {
+      "word": "servers",
+      "count": 2
+    },
+    {
+      "word": "write",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "disclosures",
+      "count": 2
+    },
+    {
+      "word": "microsoft's",
+      "count": 2
+    },
+    {
+      "word": "model",
+      "count": 2
+    },
+    {
+      "word": "identity-aware",
+      "count": 2
+    },
+    {
+      "word": "insider",
+      "count": 2
+    },
+    {
+      "word": "ideas",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "arm",
+      "count": 2
+    },
+    {
+      "word": "mouse",
+      "count": 2
+    },
+    {
+      "word": "issues",
+      "count": 2
+    },
+    {
+      "word": "talent",
+      "count": 2
+    },
+    {
+      "word": "hp",
+      "count": 2
+    },
+    {
+      "word": "omnibook",
+      "count": 2
+    },
+    {
+      "word": "ultra",
+      "count": 2
+    },
+    {
+      "word": "qualcomm",
+      "count": 2
+    },
+    {
+      "word": "snapdragon",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "game",
+      "count": 2
+    },
+    {
+      "word": "concept",
+      "count": 2
+    },
+    {
+      "word": "compiler",
+      "count": 2
+    },
+    {
+      "word": "explorer",
+      "count": 2
+    },
+    {
+      "word": "runs",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    }
+  ]
+}
