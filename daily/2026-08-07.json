@@ -1,14 +1,212 @@
 {
   "date": "2026-08-07",
   "stats": {
-    "total_fetched": 262,
+    "total_fetched": 290,
     "after_filter": 150,
     "final_count": 30,
-    "short_news": 30,
-    "long_articles": 0
+    "short_news": 19,
+    "long_articles": 11
   },
   "sections": {
     "short_news": [
+      {
+        "type": "short_news",
+        "title": "An AI Model From Meta Also Hacked Another Company During Testing",
+        "summary": "Simon Willison: So that’s Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. I’m surprised Willison hasn’t heard about how much momentum Gemini has. ★",
+        "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "2026-08-07T18:13:55.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How not to calculate cosine",
+        "summary": "Calculus professors with no experience in numerical computing will tell students that computers calculate trig functions with power series. They don’t. I worked on the implementation of trig functions in hardware, and I...",
+        "url": "https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Fri, 07 Aug 2026 15:11:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Premium: The Hater's Guide To NVIDIA (Part 2)",
+        "summary": "For a little under a year, everyone — myself included — has compared NVIDIA to Enron, largely because NVIDIA insisted, in detail, that it was nothing like Enron, WorldCom, or Lucent, a potent example of the Streisand Eff...",
+        "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Fri, 07 Aug 2026 17:30:26 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release",
+        "summary": "Jeremy Hsu, Ars Technica: Google briefly allowed anyone to create AI-modified versions of satellite imagery available in Google Earth — before quickly reversing its decision as people shared examples of AI-generated pict...",
+        "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-08-07T19:43:23.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Some New Data Centers Are Necessary",
+        "summary": "A bunch of mine are stored here. ★",
+        "url": "https://www.newyorker.com/cartoon/a62045",
+        "source": "Daring Fireball",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-07T19:39:15.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Life and Times of Maxis, Part 3: The Sims",
+        "summary": "This article tells part of the story of Maxis Software. I don’t think people realize how much tactical and strategic forethought goes into their daily lives. There’s a whole subconscious time-efficiency layer in our live...",
+        "url": "https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/",
+        "source": "The Digital Antiquarian",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Fri, 07 Aug 2026 16:05:16 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Netscape: The IPO that went boom on its way up and down",
+        "summary": "The early star of the dot-com boom wasn’t Amazon or Ebay, it was Netscape, a company who produced a web browser of the same name. It went boom high and it went boom fast as it rose. And when it The post Netscape: The IPO...",
+        "url": "https://dfarq.homeip.net/netscape-the-ipo-that-went-boom-on-its-way-up-and-down/?utm_source=rss&utm_medium=rss&utm_campaign=netscape-the-ipo-that-went-boom-on-its-way-up-and-down",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 07 Aug 2026 11:00:25 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Unveiling good and bad behaviors on the Agentic Internet",
+        "summary": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precur...",
+        "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Fri, 07 Aug 2026 13:01:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+        "summary": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language querie...",
+        "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Fri, 07 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+        "summary": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.",
+        "url": "https://blog.cloudflare.com/community-program-refresh/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Cloud",
+          "Startup"
+        ],
+        "published_at": "Fri, 07 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+        "summary": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and...",
+        "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Fri, 07 Aug 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5",
+        "summary": "Cheating with std::unique_ptr. The post Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5 appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 07 Aug 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "cos(200!)",
+        "summary": "In a footnote to the previous post, I said that Python’s math library can calculate the logarithm of extremely large numbers but not the cosine. This post will expand on that comment. In this post I’ll use n = 200! as my...",
+        "url": "https://www.johndcook.com/blog/2026/08/07/cos200/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Fri, 07 Aug 2026 13:19:07 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "8 Predictions for the Era of Continual Learning",
+        "summary": "Locking in AI safety regulation now is a mistake.",
+        "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Fri, 07 Aug 2026 17:17:40 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
       {
         "type": "short_news",
         "title": "The Contracting Circle",
@@ -31,7 +229,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-07T01:27:20.876Z",
+        "published_at": "2026-08-07T22:24:14.053Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -44,7 +242,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-07T01:27:20.876Z",
+        "published_at": "2026-08-07T22:24:14.053Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -57,7 +255,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-07T01:27:20.876Z",
+        "published_at": "2026-08-07T22:24:14.053Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -70,354 +268,618 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What You (Want to)* Want",
-        "summary": "",
-        "url": "http://www.paulgraham.com/want.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Alien Truth",
-        "summary": "",
-        "url": "http://www.paulgraham.com/alien.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I've Learned from Users",
-        "summary": "",
-        "url": "http://www.paulgraham.com/users.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Putting Ideas into Words",
-        "summary": "",
-        "url": "http://www.paulgraham.com/words.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Is There Such a Thing as Good Taste?",
-        "summary": "",
-        "url": "http://www.paulgraham.com/goodtaste.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Beyond Smart",
-        "summary": "",
-        "url": "http://www.paulgraham.com/smart.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Weird Languages",
-        "summary": "",
-        "url": "http://www.paulgraham.com/weird.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Work Hard",
-        "summary": "",
-        "url": "http://www.paulgraham.com/hwh.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "A Project of One's Own",
-        "summary": "",
-        "url": "http://www.paulgraham.com/own.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Fierce Nerds",
-        "summary": "",
-        "url": "http://www.paulgraham.com/fn.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Crazy New Ideas",
-        "summary": "",
-        "url": "http://www.paulgraham.com/newideas.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "An NFT That Saves Lives",
-        "summary": "",
-        "url": "http://www.paulgraham.com/nft.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Real Reason to End the Death Penalty",
-        "summary": "",
-        "url": "http://www.paulgraham.com/real.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How People Get Rich Now",
-        "summary": "",
-        "url": "http://www.paulgraham.com/richnow.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Write Simply",
-        "summary": "",
-        "url": "http://www.paulgraham.com/simply.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Donate Unrestricted",
-        "summary": "",
-        "url": "http://www.paulgraham.com/donate.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Web Dev"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I Worked On",
-        "summary": "",
-        "url": "http://www.paulgraham.com/worked.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Earnestness",
-        "summary": "",
-        "url": "http://www.paulgraham.com/earnest.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Billionaires Build",
-        "summary": "",
-        "url": "http://www.paulgraham.com/ace.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Airbnbs",
-        "summary": "",
-        "url": "http://www.paulgraham.com/airbnbs.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Think for Yourself",
-        "summary": "",
-        "url": "http://www.paulgraham.com/think.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Early Work",
-        "summary": "",
-        "url": "http://www.paulgraham.com/early.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Modeling a Wealth Tax",
-        "summary": "",
-        "url": "http://www.paulgraham.com/wtax.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Four Quadrants of Conformism",
-        "summary": "",
-        "url": "http://www.paulgraham.com/conformism.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Database"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Orthodox Privilege",
-        "summary": "",
-        "url": "http://www.paulgraham.com/orth.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-07T01:27:20.876Z",
+        "published_at": "2026-08-07T22:24:14.053Z",
         "translated_title": null,
         "translated_summary": null
       }
     ],
-    "long_articles": []
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’",
+        "summary": "On July 25, [Jeff Dean spoke to 6,000](https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai) would-be founders at [Y Combinator’s](https://www.wired.com/tag/y-combinator/) St",
+        "content": "On July 25, [Jeff Dean spoke to 6,000](https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai) would-be founders at [Y Combinator’s](https://www.wired.com/tag/y-combinator/) Startup School at San Francisco’s Chase Center. Dean is a legendary [engineer at Google](https://www.wired.com/story/googles-ai-chief-do-more-less-data/). He is cofounder of Google Brain, chief scientist of [Google DeepMind](https://www.wired.com/tag/deepmind/) and Google Research, and technical colead on the company’s flagship [AI model Gemini](https://www.wired.com/tag/google-gemini/). With his frequent collaborator [Sanjay Ghemawat](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge), he’s written significant parts of the company’s computing and search infrastructure. A running joke in geekdom is a list of surreal [“facts”](https://github.com/LRitzdorf/TheJeffDeanFacts) about his technical prowess: *Jeff Dean’s resume lists the things he hasn’t done; it’s shorter that way*. At Chase Center, the interviewer asked him what areas startup founders should think about tackling.\n\nDean said that the most important thing would be to pick something you’re excited about and would be useful in the world. He then shared his own interest: an automated version of the scientific method. “You propose an experiment, you implement what you need to run the experiment, you evaluate the experiment, and then you get results from that,” he said. Dean said that running thousands of those automated loops could unlock groundbreaking advances in multiple domains like science, biology, chip design, and even making improved AI models.\n\nUnbeknownst to the crowd, Dean was talking about his own secret startup, which he had just organized. Today it’s official: After almost 27 years, Dean is leaving Google, along with Ghemawat and two other top-tier AI scientists, to found a company called [Discovery Loop](http://discoloop.ai/).\n\nEven though Google will take a stake in the new company, it’s a devastating blow to the search giant as it attempts to keep pace in the frantic AI model competition. It’s bad enough that Dean and Ghemawat, who were among the company’s first hires, are leaving—that’s like Mick Jagger and Keith Richards ditching the Rolling Stones to start a new band. Worse, the other cofounders are also supernovas in the AI firmament: [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html?ref=ruder.io), VP of research at DeepMind and a technical lead for Gemini, and [Quoc Le](https://www.historyofdatascience.com/quoc-v-le-fast-furious-and-automatic/), a cofounder of Google Brain and the key scientist behind Google’s [AutoML-Zero,](https://arxiv.org/abs/2003.03384) a project that uses machine learning algorithms to autonomously build AI products.\n\nIn an interview I did with the cofounders just before launch, Dean tells me the idea came up only a few weeks ago. He was quickly joined by the other three, who are not only long-time colleagues but friends who vacation together. “We were working on different things, but we were all starting to see the possibility of AI being able to automate scientific and engineering loops,” he says.\n\nThe quartet worked up a road map wherein Discovery Loop would be its own first customer. The autonomous experiment loops they create initially will be directed towards improving the company’s advanced machine learning algorithms. That improved software will then become the core of an AI system that can tackle problems in subsequent domains. “I’m very excited about automating machine learning,” says Le. “It might be that we will discover a different transformer architecture.”\n\nFrom there, Discovery Loop will set out to make superhuman advances in a variety of fields, including chip design, biology, drug discovery, and material design. “As we create the core intelligence and the discovery loop fundamentals, we'll be able to quickly generalize to other domains,” says Vinyals. “One of the things that we'll be obviously very focused on is how these models come up with new ideas to try. That's not something that currently they're super strong at.”\n\nAt first, the team envisions that those ideas will be codeveloped with humans, but their goal is deeply automating the process. If it works out, they contend, it’s possible that a few dedicated individuals may use Discovery Loop to out-invent the world’s largest research organizations. Presumably those small teams will be customers of Discovery Loop. (The startup also may make its own loops to seek and monetize breakthroughs.)\n\nThey put together a simple pitch deck and set out to talk to VCs about funding their company, which they set up as a public benefit corporation. “We just put a few slides with our backgrounds and a rough sketch of how we think our approach will be successful in a bunch of different ways,” says Dean. (They didn’t use AI to create it.) But their presence spoke louder than any PowerPoint could.\n\n“With this team, I wouldn’t need to know what they were doing before I backed them,” says venture capitalist Vinod Khosla, who met with them in his Sand Hill Road office on a Saturday, so no one would get a hint of Google’s upcoming loss. “It’s the ultimate superstar team.” Khosla also loved their idea: “Humans have been using AI to do research, not using AI to be a researcher,” he says. “The fundamental thing [in Discovery Loop] is that AI is the researcher.”\n\nOther meetings took place at Dean’s house. Ultimately Khosla Ventures and an AI-oriented VC firm called Radical Ventures bought in, along with a handful of other firms. (The founders aren’t sharing how much the funding was and at what valuation–but consider that some companies are paying tens or even [hundreds of millions](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/) for a single AI superstar, and these guys are GOATs.) “Building something to solve all those problems is a powerful idea,” says Radical managing partner Jordan Jacobs, who will join the startup’s board. “These people have been doing this kind of work in the past so they know what they’re doing.”\n\nNegotiating the exit from Google was more painful. Dean says that Alphabet CEO Sundar Pichai tried over multiple meetings to get them to keep their badges. Ultimately the team decided that they wanted the fun–and the freedom–of doing a startup.\n\n“In a large organization there is always a lot of inertia you have to overcome to make any radical changes,” says Vinyals. “We want to build something different.” Google ultimately gave the departing engineers its blessing, along with an investment and an arrangement to provide compute power for the first year.\n\n“Over 27 years, Jeff and Sanjay helped to drive some of the most significant technology transitions, from our early search infrastructure to the neural networks that helped create the modern AI era,” Pichai said in a statement. “We’ll continue to work with Discovery Loop as a founding investor and Cloud partner, and collaborate on a research framework for ML systems and related infrastructure advances.”\n\nIn part because of the impact this mini-exodus will have on Google. Dean and his cofounders have taken pains to maintain stealth. To date, they haven’t yet begun to hire a team (which may mean even more defections from Google) or even to rent office space. When I ask who the CEO is, there is a brief pause. “I think I’m the CEO,” says Dean, sheepishly. “Everyone pointed at me.”\n\nDiscovery Loop’s mission is not novel. Just about every major figure in AI—[Dario](https://darioamodei.com/essay/the-adolescence-of-technology), [Sam](https://blog.samaltman.com/the-gentle-singularity), [Jensen](https://blogs.nvidia.com/blog/supercomputing-24/)—has claimed at one point or another that AI will become an engine of scientific discovery, solving problems that humans could never crack on their own. This team is betting that their knowledge and skills will prevail in building a system that actually makes such breakthroughs. Short of that, Discovery Loop faces a narrower mark for success: Will the work they do as a startup be as significant as the talent gap they’re creating by leaving Google?",
+        "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org",
+        "source": "Daring Fireball",
+        "tags": [
+          "Startup",
+          "AI/ML",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-07T17:05:02.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+        "summary": "7th August 2026 - Link Blog\n\n**[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop",
+        "content": "7th August 2026 - Link Blog\n\n**[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/)** ([via](https://www.tiktok.com/@404.media/video/7654962124053171470)) There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th:\n\n> “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, said [...]\n\n> Stuart Henderson, Accenture’s client group lead, interrupts. He jokes he hopes Kwak didn’t just convert a PDF into images and then into markdown files. “I’m learning that’s one of the big token chewers,” Henderson says. “Turning PDFs into markdown: is that right?”\n\n> That’s when Kwak says that’s what Accenture’s own data shows.\n\nMaybe if Accenture figure out that PDFs are a *terrible medium for communicating information* they'll be able to push that message out to the rest of the business world too!",
+        "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-07T16:18:51.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "I'm excited for Intel after testing the XPS 13",
+        "summary": "Shortly after Apple launched the budget [MacBook Neo](https://github.com/geerlingguy/sbc-reviews/issues/102), Dell announced their response, a new low-end [XPS 13](https://www.dell.com/en-us/shop/dell",
+        "content": "Shortly after Apple launched the budget [MacBook Neo](https://github.com/geerlingguy/sbc-reviews/issues/102), Dell announced their response, a new low-end [XPS 13](https://www.dell.com/en-us/shop/dell-laptops/new-xps-13-laptop/spd/xps13dx13260laptop).\n\n![Dell XPS 13 running Fedora 44](https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/dell-xps-13-running-fedora.jpeg)Matching the Neo's *current* pricing, it starts at $699, or $599 with an educational discount. That discount is currently set to expire on November 2, and with the current component pricing insanity, I'd be surprised if we don't see a price increase on both laptops by next year.\n\nI ran the XPS 13 through my [gauntlet of benchmarks](https://github.com/geerlingguy/sbc-reviews/issues/111), and published a review on my YouTube channel:\n\n*\n\nSome headline improvements over the Neo:\n\n- Higher-resolution touchscreen display, with a more matte finish\n- Backlit keyboard (includes a CoPilot button, ick)\n- Both USB-C ports are 10 Gbps with DisplayPort and PD\n- Base storage is 512GB, the included SSD is faster than the Neo's built-in storage, and it's upgradeable* (2230-sized NVMe).\n- Linux support is specifically not advertised, but I was able to get all hardware functionality working in Fedora 44, including WiFi 7 (I had to plug in a USB Ethernet adapter temporarily to run `dnf upgrade`)\n\nA few things are worse, of course:\n\n- The top-hinge trackpad makes it hard to click anywhere besides the bottom (tap to click is fine anywhere)\n- The built-in webcam and microphone are a bit lower quality\n- Sound from the built-in speakers is noticeably worse\n- There's no headphone jack\n- It only *officially* supports Windows 11 (and comes with Home)\n\nWatch the video for opinions on the laptop itself.\n\nIn this blog post, I thought I'd dive deeper into the most interesting part *for me*: the Intel Core 5 320.\n\n## Intel Core 5 320\n\nIntel's had a string of decent low-end SoCs, incorporating a CPU, GPU, and more recently, NPU. At the lowest end, the N150 and N350 match or surpass midrange Arm SoCs, while keeping the wide x86 compatibility Intel's known for.\n\nThese chips are the reason many Mini PCs became viable sub-$200 options for homelabs and low power utility computers (at least until DRAM prices torched everything).\n\n![Dell XPS 13 internals](https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/dell-xps-13-internals.jpg)But the [Core 5 320](https://www.intel.com/content/www/us/en/products/sku/246018/intel-core-5-processor-320-6m-cache-up-to-4-60-ghz/specifications.html) inside—one of Intel's new low-end Wildcat Lake chips—is the first x86 chip that's scored in the top 10 of my [HPL FP64 efficiency benchmark](https://github.com/geerlingguy/top500-benchmark).\n\nIn fact, it's number two, second only to the M4 Mac mini!\n\n![Dell XPS 13 internals](https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/hpl-fp64-efficiency-dell-xps-13.png)This surprised me, because I'd never seen an x86 system (laptop, desktop, or server) approach even 4 Gflops/W of efficiency in this specific benchmark. The next-best x86 system *I've* tested, one with Intel's slightly-older 265K chip, came in at 2.71 Gflops/W.\n\nAnd idle power consumption is wildly improved, too—the XPS 13 would only use 0.5-0.8W at idle with the display turned off, matching the MacBook Neo. That bumps up to 3-4W with the display on at 50% brightness, and add 1-3W for WiFi activity and video playback.\n\n## Conclusion\n\nObviously, all this efficiency is on the low end—the laptop only achives a little over 120 Gflops, while Apple's faster M3 and M4 Macs are pushing through up to 1.2 *Teraflops*.\n\nBut these new cores paired with Intel's power management tweaks, are exciting. I can only hope they'll push through the same efficiency to dense-core-count server chips, and low-end IoT chips in < 10W TDPs.\n\nThat is, if the product managers can get it through that efficiency matters more than pushing clocks to their extreme.\n\nBetter efficiency targets lead to:\n\n- Lower cooling requirements (for slower fans, or none at all, as in the MacBook Neo's case)\n- Lower power consumption (better battery life or more compute density with lower power requirements per rack)\n- Chips that don't [burn themselves out](https://www.pcworld.com/article/2415697/intels-crashing-13th-14th-gen-cpu-nightmare-explained.html)\n\nIntel's built-in graphics don't hold up nearly as well as the CPU side of these low-end SoCs, though—at least compared to Apple.\n\nBut I'm glad competition has spurred the market to better solutions, especially in an affordable laptop.",
+        "url": "https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "Hardware",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 07 Aug 2026 09:00:00 -0500",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+        "summary": "7th August 2026 - Link Blog\n\n**[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonw.github.io/raccoon-heist-codex/)**. On Wednesday I wrote about [One-shotting a Raccoon He",
+        "content": "7th August 2026 - Link Blog\n\n**[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonw.github.io/raccoon-heist-codex/)**. On Wednesday I wrote about [One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/), where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E [four years ago](https://twitter.com/simonw/status/1555626060384911360).\n\nI decided to pose the [exact same prompt](https://simonwillison.net/2026/Aug/5/raccoon-heist/#the-fable-5-prompt) to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes *aggressive* use of sub-agents - to see how it would do.\n\nIt produced a much better game! Here's [Moonlight & Mayhem](https://simonw.github.io/raccoon-heist-codex/) - [GitHub repository here](https://github.com/simonw/raccoon-heist-codex/), including the [textures and prompts](https://github.com/simonw/raccoon-heist-codex/tree/main/output/imagegen) it generated using `gpt-image-2`.\n\n    \n    Your browser does not support HTML5 video.\n  \n\nThe original GPT-3 generated game description included:\n\n> In “Raccoon Heist”, you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew.\n\nFable's version had you as a single raccoon running around a back yard collecting coins and fish. GPT-5.6 Sol has you in a museum, rescuing your two other raccoon crewmates in order to stack on top of each other and bust the golden sardine out of its case.\n\nMuch more heisty!\n\nThere was one catch though: the version produced from the one-shot prompt had a bug where each raccoon had an eyeball that was enlarged to the size of a giant sphere floating over their head!\n\n![](https://static.simonwillison.net/static/2026/raccoon-heist-codex-bug.jpg)\n\nYou can [play that version here](https://static.simonwillison.net/static/2026/raccoon-heist-eyeball-edition/).\n\nDespite reviewing screenshots during development Codex failed to spot and correct this bug.\n\nI fixed it by prompting:\n\n> `Why do the raccoons have huge black spheres on them?`\n\nAnd then:\n\n> `Fix it`\n\nWhich resulted in [this fix](https://github.com/simonw/raccoon-heist-codex/commit/4e9a390dfbe80533324ee61a37aa661813c08446).\n\nI shared [the full Codex transcript](https://github.com/simonw/raccoon-heist-codex/blob/main/transcript.md) in the repository - I wish Claude Code had the same \"copy as Markdown\" feature.\n\nCodex spent 52 minutes on the project. Here's the [AgentsView](https://www.agentsview.io/) cost estimate for that session if I had been paying full API prices as opposed to using my monthly Codex subscription:\n\n![](https://static.simonwillison.net/static/2026/raccoon-heist-codex-cost.webp)",
+        "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Algorithms"
+        ],
+        "published_at": "2026-08-07T19:18:09.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ App Store Rejection of the Week: Dark Hours",
+        "summary": "Terry Godier, “[Browsers Have Standards, the App Store Has Judgment](https://blog.terrygodier.com/2026/08/07/browsers-have-standards-the-app.html)”:\n\n> A while ago I tried to submit an iOS app for [Da",
+        "content": "Terry Godier, “[Browsers Have Standards, the App Store Has Judgment](https://blog.terrygodier.com/2026/08/07/browsers-have-standards-the-app.html)”:\n\n> A while ago I tried to submit an iOS app for [Dark Hours](https://darkhours.io/), my\n> astronomy website for normal people. It was rejected on the\n> grounds that it was astrology.\n\n> \n> It has no tarot function, no horoscopes, and nothing that I, or\n> anyone else I’ve asked, would associate with astrology.\n\nI penned [a nice little rant two years ago](https://daringfireball.net/linked/2024/04/11/astrology-astronomy-eclipse) expressing my fury over the way that kooks promoting astrology often try to insinuate that their voodoo pseudoscience is even vaguely related to the hard science of astronomy. And it really is an unfortunate fluke of the English language that two subjects with a contentious relationship are differentiated as words by two letters. Even if you know the difference between the two, and care, if you’re reading quickly your eyes might conflate one word with the other.\n\nBut if you actually look at Godier’s [Dark Hours](https://darkhours.io/), for even just a few seconds, it is instantly obvious that it pertains to the science of astronomy and has absolutely nothing — zero, zilch, nada — to do with astrology. So even if Apple’s App Store reviewer misread the submission’s description, and wrongly assumed it was yet another quack astrology app, if they *launched* it and spent just a few seconds poking around, they should have instantly recognized their incorrect assumption. But that’s not what happened. They rejected the app on the utterly incorrect grounds that it pertained to astrology. If this was an honest mistake from a reasonable judicial board, you’d expect the interaction with Godier, the developer, to have gone something like this:\n\nApp Review: ***REJECTED**: Astrology.* \n\nDeveloper: *No, it’s astroNoMy not astroLoGy.* \n\nApp Review: *Oh, sorry! Carry on, **APPROVED**.*\n\nBut that’s not what happened at all. Godier proceeded through a series of escalations up to the App Review Board and the Review Board responded that they determined the original rejection was *valid* because, I shit you not, “We understand that the app includes a live tarot reading feature.” Which isn’t even about astrology. It’s straight out of Kafka.\n\nDark Hours is not just merely *un*related to astrology (let alone tarot-card reading). It’s actually exquisitely well-designed and painstaking crafted. It’s exactly the sort of app that the App Store ought to celebrate and highlight. It doesn’t just belong in the category of astronomy apps in the App Store, it will raise the quality bar for astronomy apps in the App Store. iOS-exclusive, native Liquid Glass UI, smooth scrolling, beautiful typography and layout, and way more useful as a native mobile app than as a website. [Go check out the website](https://darkhours.io/) and I’m sure you’ll agree that it’s the sort of thing that would be even cooler as an app. But it *is* an app, and the app *is* better and more useful than the website version, and Godier has fought to get it approved. But Apple’s App Review Board said no, on fallacious easily-refuted grounds. This isn’t just contrary to the benefit of developers, like Godier. It’s obviously contrary to the benefit of Apple itself, which  should not just *accept* an app like Dark Hours, but *celebrate* it as an exemplar of the platform.\n\nMistakes happen. But in a functioning system mistakes get corrected, and mistakes as obvious as this one get corrected almost instantly and include a quick apology for the conflation. The App Store is not a functioning system.",
+        "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-08-07T16:40:11.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Leadership Shake-Up at Google DeepMind",
+        "summary": "*Editor’s note: Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams, including new roles for Demis Hassabis and Koray Kavukcuoglu. Below are the messages Sundar",
+        "content": "*Editor’s note: Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams, including new roles for Demis Hassabis and Koray Kavukcuoglu. Below are the messages Sundar and Demis sent to employees.*\n\n  \n\n  \n\n  \n    \n\n  \n\n  \n    \n\n  \n    \n## Message from Sundar Pichai\n\nWe’ve made extraordinary progress to deliver on our full AI stack. We’ve got amazing talent, world-class compute, and products that bring AI to more people than any other company. And you saw the incredible momentum at earnings across all our businesses, including Search, YouTube, and Cloud. Our Gemini models are in high demand among developers and businesses, and the Gemini app reached 950M+ monthly users. Meanwhile, our AI research continues to drive field-defining breakthroughs (like last week’s Gemini Robotics advances).\n\nWe have to accelerate all this work and stay focused on the AI frontier. At the same time, there’s never been a more important moment to shape the future of AGI and science. Today Demis, Koray and I are sharing a few changes to our Google DeepMind teams that will enable us to do both.\n\n**AGI and science:** Demis has described us as standing in the foothills of the singularity, and has been spending a lot of his time [engaging externally](https://x.com/demishassabis/article/2076957440109625718?lang=en). He and I have been long discussing a role that allows him to put his full attention on actively shaping the future of AGI. It’s work that is vitally important to Alphabet and humanity, and I can’t imagine a better person than Demis to do it. So, moving forward, Demis will become the Chair of GDM and Chief Scientist of Alphabet, while continuing to lead [Isomorphic Labs](https://www.isomorphiclabs.com/). He’ll remain closely connected to Koray, Josh, and our GDM teams, advising across models and research. I’m so excited for Demis — this is truly his life’s work and purpose. You can read Demis’s note to GDM below.\n\n**Google DeepMind:** We are building strong momentum: Flash is in high demand, our Cyber model is live, and Gemma models have surpassed 900M+ downloads. We are committed to being at the frontier, and are super focused on the areas where we need to improve. I’m really excited for our upcoming model releases and the progress we’re seeing. We have to continue to move fast and with clear purpose here. [Koray](https://blog.google/authors/koray-kavukcuoglu/), the current Chief Technology Officer of GDM and our Chief AI Architect, will step up as SVP of Google DeepMind, reporting to me. He will oversee Gemini model development, Frontier AI research, and the Gemini app and developer teams. Koray has been at DeepMind since its early days, and over his 13 years there, he has started our deep learning team and led the way on breakthroughs like WaveNet and DQN. I look forward to seeing him lead GDM into this next chapter.\n\nLastly, after an incredible 27-year run, Jeff Dean is at a moment where he wants to try something new, and we’re excited to support him in that. Jeff and Google Senior Fellow Sanjay Ghemawat are launching an independent public benefit corporation to accelerate discoveries in ML, science, and engineering. Jeff and Sanjay helped to drive some of the most significant technology transitions, from our early search infrastructure to the neural networks that helped create the modern AI era. On a personal note, it’s been a privilege to work alongside Jeff and Sanjay, and I wish them all the best! We’ll continue to work with them as a founding investor and Cloud partner, and collaborate on a research framework for ML systems and related infrastructure advances.\n\nWe are at a dynamic moment with so much opportunity ahead. With today's changes we're going to keep driving our momentum. Onwards!\n\n-Sundar\n\n  \n\n  \n\n  \n    \n\n  \n\n  \n    \n\n  \n    \n## Message from Demis Hassabis\n\nHi Team\n\nWe have arrived at a pivotal moment in human history. I’ve been working towards AGI my whole life and now, like many of you, I feel it is close at hand. It’s critical that we collectively get the next steps right to ensure this all goes well for humanity and we usher in an incredible new age of discovery and wonder.\n\nWith this backdrop, I’ve decided that now is the right time for me to hand over my day-to-day operational responsibilities at GDM, so that I have the time and space to focus on the big picture and help influence what is to come to the best of my ability. I will be taking on a new strategic role as Chair of GDM and Chief Scientist of Alphabet, and I’m excited to announce that Koray will be stepping up to lead GDM as SVP of Google DeepMind, in addition to his role as Chief AI Architect of Google.\n\nKoray and I have been working together for over 13 years, since the early days of DeepMind. He is one of the world's foremost AI experts and has been championing GDM's mission from day one. I have total confidence in Koray, Josh, and the rest of the GDM exec team as they continue to spearhead the latest AI developments across Google. The Gemini models are in good hands with Koray and the leads, as they have been for a while, and I'm excited about the great progress we’re making with our new models including Gemini 4.\n\nIn my new role, I will continue to work closely with Sundar on strategic and global AGI matters, and to advise Koray, Josh, and the GDM leads, from our awesome new London Platform 37 offices. As part of this transition, I’ll also be leaning into my role at Isomorphic, where we are making extremely rapid and promising progress, to accelerate our mission there even faster. As you've heard me say many times, I’ve always believed the No.1 application of AI should be to improve human health. It’s time for AI to prove its unequivocal value to the world, and what better way to demonstrate that than to help finally cure diseases like cancer.\n\nWe’ve built a unique culture at GDM that has served us very well. I want to thank each and every one of you for your brilliance, dedication, and effort that make GDM the huge success it is today. We should all be extremely proud of the amazing things we’ve achieved so far. We’ve become the AI engine room of Google, with Gemini delivering helpful experiences everywhere including AI Mode and AI Overviews, the Gemini App rocketing to over 950M monthly users, and our fundamental and scientific research continues to lead the world. I’m very excited for our next chapter and the best is yet to come!\n\nAs a business we are in an incredibly strong position. We are the only company that has the full stack and we’re world-class at every layer from infrastructure to cloud to frontier models to AI-first applications. We have all the ingredients to lead from here, and I firmly believe we will.\n\nBest\n\nDemis",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "2026-08-07T17:23:17.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Meta: Introducing Muse Code and Muse Spark 1.2",
+        "summary": "We're excited to release Muse Code (beta), a terminal coding agent powered by Muse Spark 1.2, our newest model. This marks our next step toward the frontier, with larger and much more capable models o",
+        "content": "We're excited to release Muse Code (beta), a terminal coding agent powered by Muse Spark 1.2, our newest model. This marks our next step toward the frontier, with larger and much more capable models on the way.\n\n## Install Muse Code on macOS or Linux:\n\nMuse Code takes on complex software engineering tasks across large repositories: planning changes, writing code, and validating the results. It can coordinate multiple persistent subagents for each task, solving difficult problems faster, more accurately, and with less intervention.\n\n## Muse Code\n\n### Async Background Agents\n\nMuse Code operates with a simple agent loop plus a set of async background agents to enhance the main agent's capability. These specialized background agents remain active throughout each session, rather than being spawned for individual tasks, helping avoid redundant information gathering. They carry out next steps and choose when to communicate back to the main agent. Their persistence reduces latency and the need for steering on difficult, multi-step tasks.\n\n### Runtime Design\n\nMuse Code uses a local event log in which every model call, tool run, approval, and edit is appended. This single source of truth makes the runtime replay-exact and restart-safe: after a crash, the agent can resume precisely where it stopped. That ability lets Muse Code take on long-running tasks without being derailed by failures.\n\n### Bundled Skills\n\nMuse Code ships with several default skills. `/plan` turns a task into an approval-gated plan, `/grill` stress-tests that plan until it holds up, and `/goal` works toward successful completion of the specified objective.\n\nThe user inputs a fly-through video of a home into the terminal as an mp4 file. Muse Code\ninterprets the video and produces a visually rich vacation home marketing and booking page.\n\n## Muse Spark 1.2\n\nMuse Spark 1.2 is a coding-focused update to Muse Spark 1.1, with improvements in code generation, complex debugging, codebase understanding, and end-to-end developer workflows. In Muse Spark 1.2, we significantly scaled up training compute on coding tasks while expanding training environment diversity. The model also maintains its strength in other key areas like general agents.\n\nFor more details about our evaluations, see [our report](https://research.meta.ai/static/muse-spark-1-2-methodology).\n\n### Co-Training With Muse Code\n\nWe co-trained Muse Spark 1.2 with Muse Code to ensure the model exhibits its best performance and coding usability when paired together. The training included rejection sampled harness trajectories and recipe optimizations for goals, compaction, and subagents, alongside the integration of the Muse Code toolset to maximize harness compatibility.\n\n### Long-Horizon\n\nMuse Spark 1.2 was extensively trained on long-horizon coding tasks, including whole-repository generation, large end-to-end projects, and auto-research. It leverages planning to sequence work, goal conditioning to maintain direction, and context compaction to retain the knowledge needed to sustain progress.\n\n### Self-Improvement\n\nWe also used Muse Spark 1.1 to generate challenging coding environments and instruction-following templates. The model then graded candidate solutions on how well they satisfied those requirements, producing a scalable training dataset for Muse Spark 1.2. This self-improvement loop helped Muse Spark 1.2 follow complex instructions more precisely than its predecessor.\n\n## Case Study: Kernel Optimization\n\nWe tested the model's ability to iteratively optimize GPU kernels over 1,000+ tool calls (up to 24 hours). Leveraging Muse Code's agentic coding environment, the model writes, compiles, profiles, and progressively improves kernel performance relative to a provided baseline implementation. We benchmarked on KDA and MLA kernels for NVIDIA Hopper GPUs. The agent continues to achieve substantial improvements over the provided baseline implementation.\n\n![](https://research.meta.ai/_next/image?url=%2Farticles%2Fintroducing-muse-code-and-muse-spark-1-2%2Fkernel-optimization%2Fkda-speedup-v1.png&w=3840&q=90&dpl=dpl_BYXkxrZ95btqQUSWgyRMuc4eaDAa)The baseline is the FLA Triton implementation of KDA. Models were prohibited from importing third-party kernel libraries such as FLA directly; instead, they had to apply specialized kernel-optimization knowledge to implement the algorithm in Triton, rather than wrap existing implementations. Muse Spark 1.2 paired a chunk-parallel preparation kernel with a sequential inter-chunk scan, combining standard fusion and tiling with KDA-specific optimizations such as re-centering the gated cumulative decay at the chunk midpoint.\n\n## Availability\n\nMuse Spark 1.2 is available today in Muse Code and in Meta Model API with expanded global access. We have a lot on the horizon, including new harness features and more powerful models. We can’t wait to see what you build!\n\n[Get started with Muse Code](https://dev.meta.ai/)",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-08-07T18:05:03.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "How to keep thinking",
+        "summary": "Imagine you’re the guest on some kind of frenetic, software-engineering-themed game show. The host is constantly flipping over new cards with questions that you have to answer as fast as possible:\n\n- ",
+        "content": "Imagine you’re the guest on some kind of frenetic, software-engineering-themed game show. The host is constantly flipping over new cards with questions that you have to answer as fast as possible:\n\n- Is this adjustment to the database schema right?\n\n- Do these bits of data look plausible?\n\n- Do these five paragraphs of text describe an actual series of manual tests that took place?\n\n- Does this suggested architecture pass the smell test?\n\n- Is this implementation better than the current code? Or this one? Or this one?\n\nWorking in 2026 feels a bit like this. When frontier AI models can do most of the tasks in your queue, the most efficient way to work is often spinning off tasks for an AI agent and continually context-switching between the results[1](#fn-1). This isn’t *quite* mindless — in fact, it requires quite a lot of skill to skim the AI response and rapidly decide what to do with it — but it certainly involves less time for slow, careful reflection.\n\n### Why not slow down?\n\nWhy does it have to be frenetic? Why not just slow down? I suppose you *could*, but I don’t recommend it. **It’s just such a miserable experience to spend your day close-reading LLM output**: carefully chewing and savoring each morsel of slop. It’s far less unpleasant to skim through quickly and pick out the useful nuggets of content.\n\nCouldn’t you simply do more of the work by hand? It’s unfortunately true that [tech is high-pressure these days](https://seangoedecke.com/good-times-are-over/). If you’ve got the time and space to work more slowly, that’s great! But when your company gives you a “solve this task ten times more quickly” button, you are heavily incentivized to use it as much as possible, or risk being outcompeted by your peers.\n\nI sometimes worry that working with LLMs is making me dumber. Not in the “literally melting your brain” sense that some [papers](https://seangoedecke.com/your-brain-on-chatgpt/) [imply](https://seangoedecke.com/how-does-ai-impact-skill-formation/), but in the sense that it’s biasing me towards the quick “skimming and judging” parts of my mental toolkit and away from the slow [“hammock time”](https://www.youtube.com/watch?v=f84n5oFoZBc) needed for deep thought and real creativity. I don’t want to attribute this shift entirely to LLMs, since the post-2010s tech industry has become more frenetic for [broader economic reasons](https://seangoedecke.com/good-times-are-over/). But either way, it’s got me wondering how I can keep [thinking](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) [slowly](https://seangoedecke.com/thinking-clearly/).\n\n### To keep on thinking, read and write\n\nThe main thing that’s worked for me is to write more. Specifically, I mean **writing in my own words**. Writing with an LLM does not work for this at all, even if you’re going to some effort to iterate on the content and outline the things you want to say. Why? Having to put the words together yourself forces you to articulate your thoughts. In a very real sense, it forces you to *think*.\n\nWhen you have an idea in your head for something to write, you don’t really have an idea. What you have is a kind of directional sense of where an idea might be, or a fragment of the kind of thing that might eventually become an idea. You construct the idea itself while writing. Incidentally, this is why I don’t really agree with [“ideas are easy, execution is everything”](https://www.goodreads.com/quotes/9292714-ideas-are-easy-execution-is-everything)[2](#fn-2): most “ideas” are not really even ideas.\n\nThe other thing I recommend is to **read actual books**. Books — particularly dense non-fiction books — are the antithesis of AI slop. The slower you can read them, the better. I’ve been reading more and more non-fiction in the last few years, and I don’t think it’s a coincidence. I think my brain is naturally craving information-dense content, in the same way that sodium-deficient people [start to crave salt](https://pmc.ncbi.nlm.nih.gov/articles/PMC4433288/).\n\nIn fact, I’ve been combining the two approaches: reading a book and then [writing about it](https://seangoedecke.com/tags/book%20reports/). This process is *exactly* what I’ve been craving since I started programming with LLMs. I get to carefully read a book, think hard about it, often go and read another book or two on the same topic, then sit and try to articulate what I’ve learned. It’s great! I can feel parts of my brain stretching again.\n\n### Don’t lose the habit\n\nIt was pretty nice when I got paid to use those parts of my brain all day. Unfortunately, I think [those times are coming to an end](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/). There will always be room for *some* amount of careful, slow reflection in software engineering, but (for at least a little while) we’ll be expected to be rapidly switching between LLM outputs. We may have to find ways outside of work to continue the habit of thinking slowly. \n\nEven just in terms of work, I think losing that habit entirely would be a big mistake. There are still plenty of ordinary problems that are too hard for current LLMs to solve on their own. The most common example I run into is “large refactor on a complicated codebase”. Current-generation LLMs can do this without (many) errors, but they can’t yet do it *tastefully*. Sometimes you need to be able to think a problem through entirely with your own brain. \n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fhow-to-keep-thinking%2F&t=How%20to%20keep%20thinking).\n\nHere's a preview of a related post that shares tags with this one.\n\n> AI models need moral support to make discoveries\n\nOne recent development in AI is its ability to solve some long-standing problems in mathematics. In 2024 and 2025, this was a trickle: once or twice a year somebody would say that an LLM came up with a proof, and then everyone would argue over whether that counted as “real” mathematical innovation. In 2026, it’s a flood. Almost every day I see [some](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) [new](https://arxiv.org/abs/2601.22401) [LLM-produced](https://x.com/__alpoge__/status/2079028340955197566) mathematical result.\n[Continue reading...](https://seangoedecke.com/ai-models-need-moral-support/)",
+        "url": "https://seangoedecke.com/how-to-keep-thinking/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 07 Aug 2026 00:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Software Stewardship Lab",
+        "summary": "The [Software Stewardship Lab](https://stewardshiplab.org/) launches today, a Scottish non-profit set up to do applied research on the open source ecosystem, and I’m one of its directors. [Vlad-Stefan",
+        "content": "The [Software Stewardship Lab](https://stewardshiplab.org/) launches today, a Scottish non-profit set up to do applied research on the open source ecosystem, and I’m one of its directors. [Vlad-Stefan Harbuz](https://vlad.website/), who runs the [Open Source Pledge](https://opensourcepledge.com/), is the executive director and did the bulk of the work getting it incorporated.\n\nI’ve been trying to do this kind of research for about a decade, starting with [Libraries.io](https://libraries.io/) in 2015 as a side project indexing every package registry I could find, which was acquired when the hosting bills outgrew what I could cover on my own. [ecosyste.ms](https://ecosyste.ms/) is the second attempt at the same idea, kept running by a sequence of grants and contracts that each cover a year or two of server costs, with most of my own time on it either unpaid or subsidised by other contracting work.\n\nThe organisations set up to address open source sustainability have the same funding problem as the maintainers they are trying to help, often a worse version of it because a maintainer at least produces software that people want to use, and almost everyone I know doing this kind of research is patching together an income the same way I am. Grant programmes fund a project for a fixed term and then stop, which is also roughly how the academic contracts work for researchers studying maintainer burnout, while the tools built to measure the ecosystem need servers and bandwidth that someone has to keep paying for year after year regardless.\n\nThe funding pattern also pushes the research towards one-off snapshots rather than systems that keep collecting and reporting, so each new grant redoes much of the same data collection from scratch, and a large part of why ecosyste.ms exists is to be a continuously running layer underneath that later work can build on. I’ve watched a fair number of good efforts wind down when a grant ended or a sponsor changed priorities, and the questions they were working on are all still open.\n\nThe Lab is an attempt to give that work an institutional home with a horizon longer than a single grant cycle, structured as a research lab that contracts researchers, publishes open-access papers and open datasets, and builds tools that stay open source, on the basis that instruments for monitoring critical infrastructure [are themselves critical infrastructure](https://stewardshiplab.org/ideas/a-research-lab-for-open-source/) and shouldn’t sit behind a licence fee.\n\nWork is also under way with solicitors to register it as a charity, which if granted would make it the first UK charity working on the sustainability of the open source ecosystem, and would mean a regulator accepting that as a charitable purpose in its own right.\n\nThe initial [research themes](https://stewardshiplab.org/ideas/) are supply chain security, maintainer wellbeing, funding models, and governance, which overlap heavily with what I’ve been writing about here for the past year, and a chunk of that writing is already syndicated on the Lab’s site alongside work from the others.\n\nI’ve been reading and citing the rest of the board for years, which is a large part of why I said yes: Miranda Heath, a psychologist at the University of Edinburgh, wrote the most thorough [study of burnout in open source](https://opensourcepledge.com/blog/burnout-in-open-source-a-structural-problem-we-can-fix-together/) I’ve come across, and [Dawn Foster](https://fastwonder.com/) brings a PhD in software metrics along with board seats at CHAOSS and OpenUK.\n\n[Daniel Roe](https://roe.dev/) leads Nuxt, [Matias Capeletto](https://patak.cat/) is a core Vite developer, and the two of them are behind [npmx](https://npmx.dev/), which I [wrote about back in April](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html), so the board includes people who maintain a sizeable share of the modern JavaScript toolchain and know first-hand what being on the receiving end of sustainability advice is like.\n\n[Mike McQuaid](https://mikemcquaid.com/), who I worked with at GitHub and now maintain [Homebrew](https://brew.sh/) alongside, is advising, and I’m lucky to be working with that group on this.\n\nThe stated long-term goal in the [pitch document](https://stewardshiplab.org/pitch.pdf) is to raise enough recurring funding to offer open-ended stipends to people doing this research, so the work can outlast whichever grant happens to be paying for it in a given year, and after a decade without anything like that available it’s the part I most want to see exist.\n\nThat funding will come from company [sponsorships](https://stewardshiplab.org/sponsor) and individual contributions through [Open Collective](https://opencollective.com/stewardshiplab), and there’s a [Discord](https://discord.gg/2GNQHcKmcH) open to anyone working on these problems who wants to compare notes.",
+        "url": "https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Product",
+          "AI/ML"
+        ],
+        "published_at": "2026-08-07T10:00:00.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A quick look at zero-knowledge proofs",
+        "summary": "*NB: This isn’t about crypto. I don’t care about crypto.*\n\n[Chris](https://www.chrisgregory.me/) messaged me the other week asking\nif I wanted to implement zero-knowledge proofs. I initially was not i",
+        "content": "*NB: This isn’t about crypto. I don’t care about crypto.*\n\n[Chris](https://www.chrisgregory.me/) messaged me the other week asking\nif I wanted to implement zero-knowledge proofs. I initially was not interested,\nbut then he said:\n\n> What if I told you there’s a version of them that has nothing to do with\n> cryptocurrencies? What if I told you it involves graph theory? What if I told\n> you there’s a 30 line implementation?\n\nNow *that* was interesting.\n\nThe idea of a zero-knowledge proof (ZKP) is that there are two parties: the\nprover and the verifier. The prover asserts that it has a solution to a\n(generally NP-complete) problem. The prover can convince the verifier of this\nwithout sharing the actual solution to the problem.\n\nThe canonical example is 3-coloring a graph. That is, the prover asserts that,\nfor a given (shared) graph, it has a valid 3-coloring. It wants to convince the\nverifier of this without revealing the actual color assignment.\n\n> As a quick recap, graph coloring is the problem where given a graph,\n> we find a way to assign each node a color such that no two adjacent nodes\n> have the same color. 3-coloring is coloring with at most 3 colors.\n\nHow do you do this? Assorted blog posts and fancy-looking demonstrations were\ninteresting but did not help us understand much.\n\nChris and I went around in circles for a bit until we decided to take a look at\n[one of the original papers](https://dl.acm.org/doi/pdf/10.1145/116825.116852)\n(PDF) by Goldreich, Micali, and Widgerson. We only really read page 23 (labeled\npage 713 in the PDF) but that was enough to get things going.\n\n## The paper’s protocol\n\nProtocol 4 from the paper describes an interactive 3-color proof session\nbetween the prover (P, with numbered steps) and the verifier (V, with numbered\nsteps), reproduced here:\n\n> *common input* A graph `G(V, E)` (`n = |V|`, `m = |E|`).\n\n> \n> The following four steps are executed `m²` times, each time using independent\n> coin tosses.\n\n> \n> (P1) The prover chooses at random an assignment of three colors to the\n> three independent sets induced by `φ`, colors the graph using this 3-coloring,\n> and places these colors in `n` locked boxes each bearing the number of the\n> corresponding vertex. More specifically, the prover chooses a permutation\n> `π ∈R S₃`, places `π(φ(i))` in a box marked `i` (∀ `i ∈ V`), locks all boxes\n> and sends them (without the keys) to the verifier.\n\n> \n> (V1) The verifier chooses at random an edge `e ∈R E` and sends it to the\n> prover. (Intuitively, the verifier asks to examine the colors of the endpoints\n> of `e ∈ E`.)\n\n> \n> (P2) If `e = (u, v) ∈ E`, then the prover reveals the colors of `u` and\n> `v` by sending the verifier the keys to boxes `u` and `v`. Otherwise, the\n> prover does nothing.\n\n> \n> (V2) The verifier opens boxes `u` and `v` using the keys received and\n> checks whether they contain two different elements of `{1, 2, 3}`. If the keys\n> do not match the boxes, or the contents violate the condition then the\n> verifier *rejects* and stops. Otherwise, the verifier continues to the next\n> iteration.\n\n> \n> If the verifier has completed all `m²` iterations then it *accepts*.\n\nWe’ll come back to the number of iterations. For now let’s try to just do *one*\niteration. For each step, I’ll annotate the code with “Only prover” or “Only\nverifier” so that it’s clear who can see what data.\n\n## One iteration\n\nWe’ll start by sketching out what it means to have a graph. For the example\ngraphviz graph above, we have the following edge list data structure:\n\n```\n# Shared between prover, verifier\nedges = [(0, 1), (1, 2), (2, 3), (3, 4), (4, 0), (0, 2)]\n\n```\n\nEach tuple in the list represents a connection between two numbered nodes.\nFancy stuff. Because it’s an undirected graph, `(0, 1)` means the same as `(1,\n0)` so we don’t have to include both. We can also color it:\n\n```\n# Only prover\ncoloring = {0: \"navy\", 1: \"darkgreen\", 2: \"crimson\", 3: \"navy\", 4: \"darkgreen\"}\n\n```\n\nEach key is a node number and each value is a color.\n\nThough finding a 3-coloring of a graph is slow, verifying one is fast—linear\nin the number of edges. Let’s verify that we have a valid sample coloring:\n\n```\n# For the reader\n# Check each edge to make sure no edge has the same color on each node\nassert all(coloring[u] != coloring[v] for u, v in edges)\n# Check that the total number of colors used is 3\nassert len(set(coloring.values())) <= 3\n\n```\n\nWe’ll now go through the paper’s steps one by one, writing some code to\naccompany each step.\n\n### Tips and tricks\n\nIf you are building alongside the blog post, I recommend using `random.seed(0)`\nso your randomness doesn’t change between runs of your program. I also\nrecommend setting the environment variable `PYTHONHASHSEED` to `0` if you are\nusing `hash` for the same stability reasons.\n\n### Step P1\n\nThe first thing we need to do is permute the coloring we have. That is, we\nshould swap around the color values while maintaining the 3-color property.\n\nThankfully, this is easier than it might sound: the names of colors are\nmeaningless to the 3-coloring; they need only be different along the edges. So\nif we do a bijective (A maps to one B, and B came from one A) mapping from old\nto new name, this will hold.\n\nI came up with this function that shuffles the colors, lines them up\nside-by-side, makes a table, and then uses that to make a new coloring:\n\n```\nimport random\n\n# Only prover\ndef permute_three_coloring(coloring):\n    all_colors = list(set(coloring.values()))\n    new_colors = random.sample(all_colors, len(all_colors))\n    permutation = {old: new for old, new in zip(all_colors, new_colors)}\n    return {node: permutation[color] for node, color in coloring.items()}\n# For example,\n# {0: \"crimson\", 1: \"navy\", 2: \"darkgreen\", 3: \"crimson\", 4: \"navy\"}\n\n```\n\nThen we have to place the colors in “locked boxes”. One way to proverbially\nlock a box is to apply a one-way function to it: for example, a hash function.\nIf we hash each color and then pass only the hashes to the verifier, the\nverifier cannot open them.\n\nThis example uses the Python standard library hash function for brevity but it\nmight be better to use a cryptographic hash function like `hashlib.sha256`:\n\n```\n# Only prover. Wrong!\ndef hash_coloring_wrong(coloring):\n    return {node: hash(color) for node, color in coloring.items()}\n# For example:\n# {0: -6789624683659967261, 1: 7846608853949633950, 2: 6009240650600289446,\n#  3: -6789624683659967261, 4: 7846608853949633950}\n\n```\n\nThere’s just one problem with handing these locked boxes to the verifier: two\nboxes locked with the same colors will have the same hashes. The verifier would\nknow the coloring. Even if the exact colors are now hidden, it’s really the\nstructure of the coloring for which we want to give up zero knowledge.\n\nTo get around this, we can add what’s called a *nonce* to each node and its\ncoloring. That is, each node gets a little bit of random data packed into the\nhash so that different nodes’ `\"darkgreen\"` hash values look different.\n\n```\n# Only prover\ndef nonce():\n    return random.randrange(100)\n\ndef box_coloring(coloring):\n    return {node: (color, nonce()) for (node, color) in coloring.items()}\n\ndef hash_values(coloring):\n    return {k: hash(v) for (k, v) in coloring.items()}\n\npermuted_coloring = permute_three_coloring(coloring)\n# For example:\n# {0: \"crimson\", 1: \"navy\", 2: \"darkgreen\", 3: \"crimson\", 4: \"navy\"}\nboxed_coloring = box_coloring(permuted_coloring)\n# For example:\n# {0: (\"crimson\", 33), 1: (\"navy\", 65), 2: (\"darkgreen\", 62),\n#  3: (\"crimson\", 51), 4: (\"navy\", 38)}\nhashed_coloring = hash_values(boxed_coloring)\n# For example:\n# {0: -2275004828450249492, 1: 2227921633151400991, 2: -5024343381376265886,\n#  3: -5381005702768533635, 4: 1164729608819214729}\n\n```\n\nAgain, you probably don’t want to use the standard library random number\ngenerator for your nonces. You should consider something like\n`secrets.token_hex()` from the `secrets` module (Python 3.6+). Maybe even\nconsider using the `hmac` module.\n\nFinally, we can send the `hashed_coloring` to the verifier and begin step V1.\n\n### Step V1\n\nSince the verifier knows the graph (but not its colors), it can pick an\narbitrary edge to inspect. It wants to verify that the arbitrary edge it picked\nsatisfies the 3-color conditions. It sends off a request for an arbitrary edge\n`e`:\n\n```\n# Only verifier\ne = random.choice(edges)\nrevealed = prover_please_reveal_colors(e)\n\n```\n\nThis is implicitly relying on some global state (the prover knowing what\n“session” is active with the verifier). If you have multiple verifiers or\nconcurrent sessions or something, you may need to thread through some context\nidentifier in the communication.\n\n### Step P2\n\nThe prover, having received this request, sends over the colors and nonces for\neach of the nodes in the edge.\n\n```\n# Only prover\ndef prover_please_reveal_colors(edge):\n    u, v = edge\n    return {u: boxed_coloring[u], v: boxed_coloring[v]}\n# For example:\n# {3: ('crimson', 51), 4: ('navy', 38)}\n\n```\n\nYou may be suspicious at this point because we’re leaking some information\nabout the coloring.\n\nNote that it’s ok for the prover to reveal the color for one edge, because 1)\nthe colors have been shuffled once per round and 2) we’re going to apply our\nbox locking protocol *each time we reveal an edge* (also once per round), so\nthe verifier accumulates no information about our colors between iterations.\n\n### Step V2\n\nThe verifier can check that the color+nonce hashes to the hash value given for\neach node in step P1. This ensures that the prover is not changing colors\naround mid-round. This relies on the verifier and the prover using the same\nhash function (and the same hash seed if using `hash`).\n\n```\n# Only verifier\nfor (node, (color, nonce)) in revealed.items():\n    assert hashed_coloring[node] == hash((color, nonce)), f\"Hash mismatch!\"\n\n```\n\nThe verifier can then inspect that the two color values are different. This\ngives a small amount of credence (`1/|E|` because you know something about one\nedge now) that the graph is 3-colored appropriately because the prover had no\nway of knowing which edge the verifier would want to inspect.\n\nIf either of these two conditions doesn’t check out, the verifier *rejects*.\n\n## Probabilities\n\nYou have to do at least a couple of rounds of this for the verifier to believe\nthe prover about the 3-coloring.\n\nThe paper goes on to assert that “the probability that the verifier will\naccept (i.e., complete all the `m²` rounds without detecting that “something is\nwrong”) is bounded above by `(1 - m⁻¹)^(m²)`” (where `m = |E|`). Which is\npretty good. For a large graph (say, 1000 edges), this falls off reasonably\nquickly:\n\n```\nm = 1000\nfor i in range(1, 4600):\n    print(\"(1 - m⁻¹)^round = \", (1 - m**-1)**i)\n\n```\n\nAt 4600 rounds, you’re at 1% possibility of “cheating”. At 10,000 rounds,\nyou’re at 0.0045% possibility of “cheating”. At `m² = 1,000,000` rounds, it’s\n*very low*.\n\n## A networked demo\n\nWriting Python code that runs in a single process with comments denoting\n“prover” and “verifier” is not very satisfying. It does not preclude accidental\ndata leaking in the slightest. It would be much more satisfying if there was\nsome sort of barrier, like a process barrier or a network barrier, between the\nprover and the verifier.\n\nFor this reason, Chris and I have prepared a server (prover) and client\n(verifier) demo. You can click “Run Round” to run a round (and show the\npermuted colors). You can visit [the docs\npage](https://zkp-3color-demo.fly.dev/docs) to see the API docs and build a\nclient yourself!\n\n    *(If you don't see a graph right below this message, please wait a\n    moment for the server to wake up.)*\n\n    \n    \n\n## Encoding other NP-complete problems\n\nAt this point, we’ve shown how you can use a zero-knowledge interactive proof\nto verify that someone has a valid 3-coloring of a graph without learning *any*\ninformation about the 3-coloring. So what? Is there anything else we can prove\nwith zero knowledge? Is the interactive proof of 3-coloring just a contrived\nparty trick without real applications?\n\nWell…\n\n### Sudoku\n\nSudoku puzzles are another example of a problem that’s hard to solve and easy\nto verify. It is algorithmically hard to fill in 81 squares to satisfy the\nconstraints of all rows, columns, and boxes containing the digits 1-9, but the\nverifier is extremely quick.\n\nLet’s say we wanted to prove we’ve finished a Sudoku, but we don’t want to give\nup a morsel of information about the solution. We can execute an interactive\nproof very analogous to 3-coloring! Instead of shuffling colors, we shuffle\ndigits. Instead of revealing edges, we reveal rows, columns, and boxes.\n\nNext time your fellow bus rider leans over asking to see your Sudoku solution,\njust ask them to go through 90,000 easy steps first!\n\n### Reduction\n\nLet’s say we have a hard problem and we’ve computed a solution it, but we don’t\nhave an obvious algorithm on hand to execute an interactive proof for it.\nThanks to the authors of the paper above, we know that if the problem is\nNP-complete there’s an interactive proof for it!\n\nWe use the power of a polynomial time reduction. We (somehow) convert our\nsolution to a graph and its 3-coloring, then just follow the steps and code\nabove! The “somehow” is the tricky part, but much research exists on converting\nbetween different NP-complete problems.\n\nFor example, you may want to create a zero-knowledge proof that you know the\nprime factors for a very large composite number. Unfortunately, for only double\ndigit numbers your graph is thousands of nodes, so reducing to 3-coloring has\nits limits in practice and you’re better off with more sophisticated proof\ntechniques than a reduction to 3-coloring.\n\n## Wrapping up\n\nAfter doing a bit of research, we decided that the most common real world use\ncases of zero-knowledge proofs (age verification, crypto, etc) aren’t\nparticularly interesting to us. We enjoyed the graphs and theory of computation\nand networked computing though. We hope you had fun playing around with\ninteractive proofs too.",
+        "url": "https://bernsteinbear.com/blog/zkp/?utm_source=rss",
+        "source": "Max Bernstein's Blog",
+        "tags": [
+          "Algorithms",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Fri, 07 Aug 2026 00:00:00 +0000",
+        "reading_time": 10,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "A quick(ish) Chinchilla check",
+        "summary": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n     ",
+        "content": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    I recently [overtrained a couple of GPT-2 style models](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining),\ntraining them both on 40 tokens per parameter rather than the 20 per parameter\nthat is generally regarded as \"Chinchilla-optimal\".\n\nThe normal heuristic is that instead of doing that, you should scale up the number\nof tokens and the number of parameters equally -- so I would have been better off\nscaling up the model by 2 and the token count by the same amount.  By\ndoing that, I should expect to get a better model in terms of loss on my held-back\ntest set than I did with my 40-tokens-per-parameter models.\n\nMy training machine `poppy` wasn't doing anything, so I decided to give that a go.\nWould the Chinchilla rule-of-thumb hold up?\n\nAs you might expect, it did.  But it was a surprisingly close-run thing, and\ncould conceivably have been in the noise.  Let's take a look.\n\n    \n        \n### The Chinchilla heuristic\n\n> If you already know all about the Chinchilla paper -- regular readers in particular\n> must be sick and tired of it by now :-) -- then [click here to skip this section](#scaling-the-model).\n\nIn [\"Training Compute-Optimal Large Language Models\"](https://arxiv.org/pdf/2203.15556),\nwhich is always called the Chinchilla paper after the name of the model they trained at\nthe end, the authors tried to work out the optimal number of tokens to train an LLM on\nbased on its number of parameters.  In particular, they were pushing back on a trend\nthey were seeing at the time, where people were making models ever-larger, but not\nincreasing the amount of data they were training on.\n\nThe authors were all at Google DeepMind, and this was the kind of project that only a large lab\ncould do: they trained \"over 400 language models ranging from 70 million to over 16 billion\nparameters on 5 to 500 billion tokens\".  Their conclusion was \"for compute-optimal training, the model size and\nthe number of training tokens should be scaled equally: for every doubling of model size the number\nof training tokens should also be doubled\".\n\nThey don't actually state an overall optimal number of tokens to train on in the\npaper, but in table 3 they provide an estimate of the optimal training FLOPs and tokens\nfor models of various sizes, and it's approximately 20 tokens per parameter.\n\nThat number has become a heuristic, and people talk about a model as being trained\nfor the Chinchilla-optimal number of tokens.  Models that were trained on fewer\ntokens per parameter are referred to as \"undertrained\", and models that were trained on\nmore as \"overtrained\".\n\nIt's worth noting that overtraining a model is not, in itself, a bad thing.  If you have\na model of a particular size and you continue training it past the Chinchilla-optimal\nnumber of tokens, it will -- in general -- get better.  The point of the heuristic\nis that doing that is not the best way to spend whatever budget you have in terms of\ncompute time.  You'll get better results, as they say, by scaling the number of tokens\nand the number of parameters equally.\n\nBut let's say you're creating a model for specific target hardware -- say, a mobile device.\nYou have a hard restriction on how large the model can be -- the device has only so much\nRAM to hold it.  So it might make sense to overtrain to get a better model. [1](#fn-1)\n\nBut if you're not so limited in how many parameters you can use, then you should indeed scale the model up, and that's what I\nwanted to try.  How would that work?\n\n### Scaling the model\n\nA week or two back, I was investigating whether I could make my GPT-2 style models\n[better at a specific instruction-following task by overtraining them](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining).\nThe details of that experiment aren't important here, but what it meant was that\nI had three GPT-2-style models, each of exactly the same size, roughly 163M parameters\n\n- A Chinchilla-optimal one, which I'll call `jax-gpt2-chinchilla` here.\n\n- One trained on twice the Chinchilla-optimal tokens, `jax-gpt2-2x-chinchilla`.\n\n- One trained on the Chinchilla-optimal tokens, with two epochs (so that it\nwas trained for as long as #2): `jax-gpt2-2-epoch-chinchilla`\n\nWhen I tested them against a held-back test set of sequences -- stuff that they'd\nnever seen before -- they got results rather like you might expect:\n\n  \n  Test loss\n\n  `jax-gpt2-2x-chinchilla`\n  3.324953\n\n  `jax-gpt2-2-epoch-chinchilla`\n  3.326482\n\n  `jax-gpt2-chinchilla`\n  3.418784\n\nA lower loss is better, and you can see that the longer-trained models were noticeably\nbetter than the Chinchilla-optimal one.  The difference between them was tiny; they were\ntrained starting with the same initial weights, and the training runs themselves were deterministic,\nbut a difference of 0.05% in loss doesn't seem like it could be meaningful -- an extra batch for one\nor one fewer for the other could easily swap them around, you'd think.\n\nNow, these models each had 163,009,536 parameters -- they were the small-size model\nfrom the [GPT-2 paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf),\nmodified to not have QKV bias or weight-tying.  `jax-gpt2-chinchilla` had been trained\non 3,260,190,720 tokens (rounded up to fit into a round number of full batches), and\nthe other two on 6,520,381,440 tokens each -- double the amount (rounded up too).\n\nWhat I needed to do for my Chinchilla check was to try training a model that used the\nsame amount of compute, scaling the parameters and the number of training tokens equally.\nBecause training compute increases roughly linearly with both parameters and tokens,\nthat would mean scaling both up by 2, giving us:\n\n163,009,536*2≈230,530,296parameters\n\n...and thus 4,610,605,920 tokens.\n\nHow to scale the model up?\n\nIn the GPT-2 paper, they train four models:\n\n  Name\n  Parameters [2](#fn-2)\n  Layers\n  `d_emb`\n  MHA heads [3](#fn-3)\n\n  small\n  124M\n  12\n  768\n  12\n\n  medium\n  345M\n  24\n  1024\n  16\n\n  large\n  762M\n  36\n  1280\n  20\n\n  xl\n  1542M\n  48\n  1600\n  25\n\nI wanted to scale my own model up from 163M parameters to about 231M.  Which of those\nnumbers would I want to increase, and by how much?\n\nThe first thing that stands out is that the number of heads is *always* 1/64th of\nthe number of embedding dimensions.  So that sorted that one out.  I just needed to\nadjust the number of layers, and the number of embedding dimensions, but ensure that the\nlatter was a multiple of 64.\n\nI decided to see if I could fit some kind of curve to the relationship between\nthe number of parameters and the GPT-2 authors' choices.  This was made a bit more\ncomplicated by one thing: they were using weight-tying, and I was not.  That meant\nthat they re-used the embedding matrix at the start of the LLM as an output head\nat the end -- which is why they had 38M fewer parameters.  Embeddings and the\noutput head make up a [surprisingly large percentage of the parameters](https://www.gilesthomas.com/2026/07/llm-parameter-counts) for\nsmall models like this -- about 47% without weight-tying, 23% with.\n\nI couldn't work out a solid way to scale things up and wound up doing some rather\nmessy [hacking around in a spreadsheet](https://docs.google.com/spreadsheets/d/1rgzoc7-bQfK43XQpp00htEgQ43b_ahtBwdrb_HfmIZk/edit?usp=sharing).\nI came up with two proposed model sizes that were within a couple of percentage\npoints of the right size:\n\n  Name\n  Layers\n  `d_emb`\n  MHA heads\n  Parameters\n  % diff\n\n  `slightly-larger`\n  15\n  896\n  14\n  235,621,120\n  +2.21%\n\n  `slightly-smaller`\n  14\n  896\n  14\n  225,978,368\n  -1.97%\n\nInterestingly, I found that because `d_emb` could only change in increments/decrements\nof 64, it was a pretty coarse control -- my first attempt at making a `slightly-smaller`\nmodel changed it to the next step down, 832, but that led to a model that was\n9.25% too small.\n\nThat was an interesting first lesson.  I'd previously been thinking of the\nChinchilla rule as being something like \"don't double the tokens, just scale the model\nand the tokens equally\".  But that \"just\" was wrong.  Scaling a model is hard --\neven with just two dials to fiddle with, like in this case, it was tricky to get\nsomething right -- and I can't say for sure that my choices were the right ones.\n\nAnyway, the next step was to double-check that these models would use the right amount\nof compute to train.\n\n### Training FLOPs\n\nAs I said earlier, the compute time scales roughly linearly with the number of\nparameters.  Let's dig into that \"roughly\".\n\nDifferent kinds of parameters take different amounts of FLOPs to train, and scale\ndifferently with things like the embedding dimensions, sequence length, and so on.\n\nNow, for very large models, a lot of that comes out in the wash, but with tiny models\nlike these where the embeddings make up such a large proportion of the parameters, it\nmight matter.\n\nConveniently, in appendix F of the Chinchilla paper, they provide a set of formulae for estimating the\nnumber of training FLOPs for a normal dense LLM like these ones.  I coded that up into\n[a script](https://github.com/gpjt/chinchilla-flop-calculator) that, given the JSON\nconfiguration files I was using for my models and training runs, would work out the\nnumber of FLOPs for a single epoch of training.  It didn't take account of the fact that\nmy real training runs round the number of tokens up so that we do a round number of\nfull batches, but I felt that so long as the results weren't *very* close that wouldn't matter.\n\nI got these results (multiplying the two-epoch numbers by two):\n\n  \n  Est. training FLOPs\n\n  `jax-gpt2-chinchilla`\n  3,544,967,596,946,227,200\n\n  `jax-gpt2-2x-chinchilla`\n  7,089,935,193,892,454,400\n\n  `jax-gpt2-2-epoch-chinchilla`\n  7,089,935,193,892,454,400\n\n  `slightly-larger`\n  7,419,664,885,127,577,600\n\n  `slightly-smaller`\n  6,804,429,215,367,168,000\n\nThe numbers were indeed different enough that I wasn't worried about the batch-rounding.\nAnd the good news was that `slightly-larger` and `slightly-smaller` would indeed use\nslightly more and slightly less compute to train than the overtrained models --\nabout 4.6% more and 4% less respectively.  A true Chinchilla-equivalent model would\nlie somewhere between them.\n\nIt was time to train some models!\n\n### Training\n\nI kicked off the run for the `slightly-larger` model first.  Because it was bigger than the\n163M models I'd been training, I couldn't\nfit such large batches into my VRAM; previously I'd been running with a batch size of\n6, and now I could only fit in a batch of 4.  Luckily, though, I was using\n[gradient accumulation](https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation),\nso by bumping that up from 16 steps to 24 steps I could keep the same\noverall batch size and keep the training runs comparable.\n\nEven despite that, the training run ran out of VRAM about 60 hours in -- I'm guessing\ndue to VRAM fragmentation, as I did not have `TF_GPU_ALLOCATOR` set to `cuda_malloc_async` --\nbut I was able to restart from the most recent checkpoint and complete the run.\nAfter just less than four days total training time, it completed.\n\nWhen it was done, I copied the last checkpoint [4](#fn-4) over to my dev box, `perry`, and\nran my standard smoke test against it, asking\nit to complete \"Every effort moves you\" with 20 tokens, using greedy sampling.  I got\nsomething reasonably coherent:\n\n```\nEvery effort moves you.\nI’m not sure what you’re thinking.\nI’m\n\n```\n\nNext, I converted the safetensors file -- which had been saved by my JAX code --\ninto a format compatible with my PyTorch code, because that's what I use for evals.\nI ran another smoke test (this one with temperature 1):\n\n```\nEvery effort moves you through the motions for your life, your soul, your body,\nand your soul’s happiness\n\n```\n\nVery spiritual.  Next, it was time to work out the loss on my held-back test set:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run test_loss.py datasets/ ../jax-gpt2-from-scratch/runs/full-llm-full-train-with-mha-output-bias-larger-chinchilla/model.json ../jax-gpt2-from-scratch/runs/full-llm-full-train-with-mha-output-bias-larger-chinchilla/checkpoints/latest/pytorch-model.safetensors\nFetching 4 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 3485.09it/s]\n100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3200/3200 [07:11<00:00,  7.42it/s]\nLoss against our test dataset: 3.280028\n`\n\nWell, it was certainly better than the 3.324953 that the best of the overtrained\nmodels got -- but only by a bit over 1% better.  Interesting!\n\nI decided to train the second model, `slightly-smaller`.  This one crashed mid-way\nthrough with an error that I've seen before:\n\n`jax.errors.JaxRuntimeError: INTERNAL: CUDA error: Failed to end stream capture: CUDA_ERROR_STREAM_CAPTURE_INVALIDATED: operation failed due to a previous error during capture [executable_name='jit_train_step']\n`\n\nI'm going to have to investigate that more in future, but for now, I just restarted\nfrom the checkpoint, and again after a bit less than four days, I had a model.\n\nThe JAX smoke test was solid:\n\n```\nEvery effort moves you forward.\nThe best way to get started is to start with a free trial.\nYou can\n\n```\n\n...and so was the PyTorch one:\n\n```\nEvery effort moves you forward in love with our products.\nI love the way it’s easy to use.\n\n```\n\nBoth quite commercial this time!  It was time for the proper test loss eval:\n\n`giles@perry:~/Dev/ddp-base-model-from-scratch (main)$ uv run test_loss.py datasets/ ~/Dev/jax-gpt2-from-scratch/runs/full-llm-full-train-with-mha-output-bias-larger-chinchilla-2/model.json ~/Dev/jax-gpt2-from-scratch/runs/full-llm-full-train-with-mha-output-bias-larger-chinchilla-2/checkpoints/latest/pytorch-model.safetensors\nFetching 4 files: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 3151.24it/s]\n100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3200/3200 [06:45<00:00,  7.90it/s]\nLoss against our test dataset: 3.292937\n`\n\nSo, slightly worse than the 3.280028 from the larger model, better than the\n3.324953 from the best overtrained one.\n\nTime to put this all together.\n\n### Results\n\nHere's an updated version of the table from the start of this post; I've added in\nthe two new models, and the improvement they each had over `jax-gpt2-2x-chinchilla`\nin both absolute terms and as a percentage rounded to 3sf.\n\n  \n  Test loss\n  Improvement\n  Improvement %\n\n  `slightly-larger`\n  3.280028\n  0.044925\n  1.35%\n\n  `slightly-smaller`\n  3.292937\n  0.032016\n  0.962%\n\n  `jax-gpt2-2x-chinchilla`\n  3.324953\n  -\n  -\n\n  `jax-gpt2-2-epoch-chinchilla`\n  3.326482\n  -\n  -\n\n  `jax-gpt2-chinchilla`\n  3.418784\n  -\n  -\n\nNow, unlike the overtrained models, prior to training these two new ones started with different\ninitial weights to the `jax-gpt2-chinchilla` one -- after all, they had to, because\nthey had more of them!\n\nA while back, I did a [bit of analysis](https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise)\nof how random variation in weight initialisation can change the resulting test loss.\nIt wasn't anything in-depth, but I trained three models with different explicit seeds\nset prior to the model initialisation, but with the same seed set before the training\nrun started [5](#fn-5).\n\nThose three models wound up with test losses of 3.681356, 3.673943, and 3.664345.\nDoing statistics with three data points is a bit flaky, but the cost of training\nmodels is so high that I'll leave the Proper Science to the likes of Google DeepMind\nand wing it :-)\n\n- Mean: ~3.673215\n\n- Sample variance: ~0.000073\n\n- Standard deviation (SD): ~0.008529\n\nNow, piling statistical flakiness on statistical flakiness, we'll compare these.\nYou'd normally expect about two thirds of results to be within one SD of the mean,\n95.4% to be within two SDs, and 99.7% to be within three.\n\nThree SDs on that (yes, different, I know) distribution is 0.025587.  That's smaller than both\nof the improvements that our Chinchilla-optimal runs had over the overtrained\nones.\n\nSo what does that tell us?  Well, perhaps not much given the statistical flakiness.  But I think it is useful\ndirectionally.  It suggests that we might be able to take these results seriously\nas an improvement, and that Chinchilla held: scaling up the model and the number of\ntokens evenly did give us a better model than just scaling up the number of tokens.\nIn particular, the fact that the loss for `slightly-smaller` was lower -- even though\nit had 4% *less* compute spent on it than the overtrained models -- was encouraging.\n\nBut it's certainly far from a slam-dunk.  A larger test, training lots of overtrained\nmodels and lots of Chinchilla-optimal ones, all with different random seeds, would give actual\nreal serious data.\n\nNot worth it for me, and perhaps not for anyone.\n\n### Conclusion\n\nI wanted to do a quick sanity check of the Chinchilla heuristic of 20 tokens per parameter.\nI came up with results that were certainly in line with it -- perfectly so in terms\nof the ordering of the models I trained.  But the effect was small enough that I could\nimagine that it was in the noise, especially given the small numbers of models I'm able\nto train.  I'll chalk it up as a tentative success.\n\nIn addition, I learned one useful thing: when talking about scaling up a model to more\nparameters, you actually have to think quite hard about where you want to put those parameters.\nI wound up doing a rough curve-fit to the models in the GPT-2 paper, but I have no\nidea if that was optimal.  At some point I should try to dig up some\nresearch into optimising embedding dimensions, numbers of layers, and so on.  But\nnot now, as I've a bunch of other stuff I want to investigate first.\n\nAnyway, I hope you found this experiment interesting, and as ever, comments and questions welcome below.\nThanks for reading!",
+        "url": "https://www.gilesthomas.com/2026/08/chinchilla-check",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Mobile",
+          "Hardware"
+        ],
+        "published_at": "Fri, 07 Aug 2026 19:00:00 +0000",
+        "reading_time": 14,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
   },
-  "highlights": [],
+  "highlights": [
+    "‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’ - On July 25, [Jeff Dean spoke to 6,000](https://www.ycombinator.com/library/Vy-jeff-dean-th...",
+    "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI - 7th August 2026 - Link Blog **[The Tokenpocalypse Is Here: Companies Are Scrambling To Sto...",
+    "I'm excited for Intel after testing the XPS 13 - Shortly after Apple launched the budget [MacBook Neo](https://github.com/geerlingguy/sbc-r...",
+    "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) - 7th August 2026 - Link Blog **[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ul...",
+    "★ App Store Rejection of the Week: Dark Hours - Terry Godier, “[Browsers Have Standards, the App Store Has Judgment](https://blog.terrygod..."
+  ],
   "wordcloud": [
     {
-      "word": "work",
+      "word": "ai",
+      "count": 12
+    },
+    {
+      "word": "https",
+      "count": 9
+    },
+    {
+      "word": "google",
+      "count": 8
+    },
+    {
+      "word": "post",
+      "count": 6
+    },
+    {
+      "word": "part",
+      "count": 5
+    },
+    {
+      "word": "cloudflare",
+      "count": 5
+    },
+    {
+      "word": "www",
+      "count": 5
+    },
+    {
+      "word": "com",
+      "count": 5
+    },
+    {
+      "word": "boom",
+      "count": 4
+    },
+    {
+      "word": "community",
+      "count": 4
+    },
+    {
+      "word": "agile",
+      "count": 4
+    },
+    {
+      "word": "muse",
+      "count": 4
+    },
+    {
+      "word": "meta",
       "count": 3
     },
     {
-      "word": "ideas",
+      "word": "companies",
+      "count": 3
+    },
+    {
+      "word": "calculate",
+      "count": 3
+    },
+    {
+      "word": "don",
+      "count": 3
+    },
+    {
+      "word": "nvidia",
+      "count": 3
+    },
+    {
+      "word": "tool",
+      "count": 3
+    },
+    {
+      "word": "fake",
       "count": 3
     },
     {
       "word": "people",
+      "count": 3
+    },
+    {
+      "word": "data",
+      "count": 3
+    },
+    {
+      "word": "software",
+      "count": 3
+    },
+    {
+      "word": "netscape",
+      "count": 3
+    },
+    {
+      "word": "internet",
+      "count": 3
+    },
+    {
+      "word": "learn",
+      "count": 3
+    },
+    {
+      "word": "including",
+      "count": 3
+    },
+    {
+      "word": "language",
+      "count": 3
+    },
+    {
+      "word": "blog",
+      "count": 3
+    },
+    {
+      "word": "dell",
+      "count": 3
+    },
+    {
+      "word": "raccoon",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "model",
       "count": 2
     },
     {
-      "word": "want",
+      "word": "another",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "testing",
+      "count": 2
+    },
+    {
+      "word": "willison",
+      "count": 2
+    },
+    {
+      "word": "gemini",
+      "count": 2
+    },
+    {
+      "word": "cosine",
+      "count": 2
+    },
+    {
+      "word": "trig",
+      "count": 2
+    },
+    {
+      "word": "functions",
+      "count": 2
+    },
+    {
+      "word": "enron",
+      "count": 2
+    },
+    {
+      "word": "earth",
+      "count": 2
+    },
+    {
+      "word": "satellite",
+      "count": 2
+    },
+    {
+      "word": "release",
+      "count": 2
+    },
+    {
+      "word": "shared",
+      "count": 2
+    },
+    {
+      "word": "maxis",
+      "count": 2
+    },
+    {
+      "word": "ipo",
+      "count": 2
+    },
+    {
+      "word": "fast",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "bad",
+      "count": 2
+    },
+    {
+      "word": "behaviors",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "radar",
+      "count": 2
+    },
+    {
+      "word": "researcher",
+      "count": 2
+    },
+    {
+      "word": "plain",
+      "count": 2
+    },
+    {
+      "word": "developer",
+      "count": 2
+    },
+    {
+      "word": "ambassadors",
+      "count": 2
+    },
+    {
+      "word": "engineers",
+      "count": 2
+    },
+    {
+      "word": "open-source",
+      "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
+    },
+    {
+      "word": "unifying",
+      "count": 2
+    },
+    {
+      "word": "workers",
+      "count": 2
+    },
+    {
+      "word": "gateway",
+      "count": 2
+    },
+    {
+      "word": "single",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "plane",
+      "count": 2
+    },
+    {
+      "word": "creating",
+      "count": 2
+    },
+    {
+      "word": "wrapper",
+      "count": 2
+    },
+    {
+      "word": "technically",
+      "count": 2
+    },
+    {
+      "word": "useful",
+      "count": 2
+    },
+    {
+      "word": "outside",
+      "count": 2
+    },
+    {
+      "word": "home",
+      "count": 2
+    },
+    {
+      "word": "apartment",
+      "count": 2
+    },
+    {
+      "word": "library",
+      "count": 2
+    },
+    {
+      "word": "learning",
+      "count": 2
+    },
+    {
+      "word": "tokenpocalypse",
+      "count": 2
+    },
+    {
+      "word": "scrambling",
+      "count": 2
+    },
+    {
+      "word": "stop",
+      "count": 2
+    },
+    {
+      "word": "spending",
+      "count": 2
+    },
+    {
+      "word": "th",
+      "count": 2
+    },
+    {
+      "word": "august",
+      "count": 2
+    },
+    {
+      "word": "link",
+      "count": 2
+    },
+    {
+      "word": "excited",
+      "count": 2
+    },
+    {
+      "word": "xps",
+      "count": 2
+    },
+    {
+      "word": "github",
+      "count": 2
+    },
+    {
+      "word": "moonlight",
+      "count": 2
+    },
+    {
+      "word": "mayhem",
+      "count": 2
+    },
+    {
+      "word": "heist",
+      "count": 2
+    },
+    {
+      "word": "codex",
+      "count": 2
+    },
+    {
+      "word": "gpt-",
+      "count": 2
+    },
+    {
+      "word": "sol",
+      "count": 2
+    },
+    {
+      "word": "ultra",
+      "count": 2
+    },
+    {
+      "word": "store",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "deepmind",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "sundar",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "spark",
+      "count": 2
+    },
+    {
+      "word": "stewardship",
       "count": 2
     }
   ]
