@@ -1,0 +1,630 @@
+{
+  "date": "2026-08-23",
+  "stats": {
+    "total_fetched": 272,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 27,
+    "long_articles": 3
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "What exactly is modified about a modified Bessel function?",
+        "summary": "Special functions often have arcane names that not very helpful without some context. The previous post goes into some reasons for this. This post will expand on a point at the end of the post about “modified” functions....",
+        "url": "https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 23 Aug 2026 18:40:57 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Why special function terminology is arcane",
+        "summary": "Special functions are special because they’re useful. They can also be shrouded in arcane terminology. These two facts are related. The more widely useful a function is, the more likely it is that the function will be di...",
+        "url": "https://www.johndcook.com/blog/2026/08/23/arcane-terminology/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Sun, 23 Aug 2026 17:56:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The difference orbit inclination makes",
+        "summary": "Suppose you wanted to find the distance between Earth and Mars over time. To first approximation, both planets orbit the sun in elliptic orbits in the same plane. If you wanted to be more accurate, you’d need to take int...",
+        "url": "https://www.johndcook.com/blog/2026/08/22/inclination/",
+        "source": "John D. Cook",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 23 Aug 2026 00:01:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Death to px, long live ch!",
+        "summary": "Pixels are a lie. Even if you think you're drawing something with \"pixel perfect\" accuracy, your monitor is lying to you. There is no grid of platonically perfect squares. In CSS, pixels are a double lie: Note that 1px d...",
+        "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Sun, 23 Aug 2026 11:34:52 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fixing an eMachines EL1200 BIOS bug with Claude",
+        "summary": "I’m no stranger to pushing hardware past its limits. For example, seven years ago, I tracked down an issue that prevented 16 GB of RAM being used in a motherboard that only supported 8. It ended up being a one-line GRUB...",
+        "url": "https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/",
+        "source": "Downtown Doug Brown",
+        "tags": [
+          "Mobile",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Sun, 23 Aug 2026 19:28:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Welcoming the Sri Lankan Government to Have I Been Pwned",
+        "summary": "Today, we welcome the 48th government onboarded to Have I Been Pwned’s free gov service: Sri Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data in HIBP, helping identify expose...",
+        "url": "https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/",
+        "source": "Troy Hunt",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 23 Aug 2026 06:39:45 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The summer of open weights",
+        "summary": "Winter 2025 was the tipping point for coding agents. Summer 2026 is shaping up to be the same for open weights - and compute supply, not model quality, is now setting the price.",
+        "url": "https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Sun, 23 Aug 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-08-23T22:10:19.341Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Drew Breunig",
+        "summary": "23rd August 2026\n\n> Prior to Fable, it felt silly to waste *too* much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over ",
+        "content": "23rd August 2026\n\n> Prior to Fable, it felt silly to waste *too* much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems.\n\n> But then Fable landed. It was (and still is!) *incredible*. But the cost was so high and Opus was *good enough* (as was 5.6, K3, and even GLM) for *most* of the code we needed.\n\n> *So we started to think about what work went where.*\n\n— [Drew Breunig](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html), Fable & The End of the Free Lunch\n\nPosted [23rd August 2026](https://simonwillison.net/2026/Aug/23/) at 7:55 pm\n\n## Recent articles\n\n  \n    - [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) - 19th August 2026\n\n  \n    - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) - 16th August 2026\n\n  \n    - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) - 7th August 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [23rd August 2026](https://simonwillison.net/2026/Aug/23/).\n\n    \n        [\n            ai\n            2,201\n        ](https://simonwillison.net/tags/ai/)\n    \n        [\n            generative-ai\n            1,950\n        ](https://simonwillison.net/tags/generative-ai/)\n    \n        [\n            llms\n            1,917\n        ](https://simonwillison.net/tags/llms/)\n    \n        [\n            anthropic\n            330\n        ](https://simonwillison.net/tags/anthropic/)\n    \n        [\n            claude\n            302\n        ](https://simonwillison.net/tags/claude/)\n    \n        [\n            drew-breunig\n            21\n        ](https://simonwillison.net/tags/drew-breunig/)\n    \n        [\n            llm-pricing\n            90\n        ](https://simonwillison.net/tags/llm-pricing/)\n    \n        [\n            claude-mythos-fable\n            38\n        ](https://simonwillison.net/tags/claude-mythos-fable/)",
+        "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-08-23T19:55:30.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "summary": "23rd August 2026 - Link Blog\n\n**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)** ([via](https://news.yc",
+        "content": "23rd August 2026 - Link Blog\n\n**[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)** ([via](https://news.ycombinator.com/item?id=49411102)) A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\":\n\n- Anthropic's \"annualized revenue\" for July is up to $65bn - it was $47bn in May, and I collected [more historic numbers here](https://simonwillison.net/2026/May/29/anthropic/).\n\n- Anthropic expect Q3 to be profitable according to the same model they used to declare Q2 profitable. \"It also told investors that it had 6,000 customers that spend $100,000 annually or more.\"\n\n- As for OpenAI, \"annualised revenue has jumped 35 per cent in the quarter to date and is now over $40bn, with the launch of GPT 5.6 in July jolting the company’s performance after a sluggish start to the year\".\n\nThis article also introduced me to the [Ramp AI index](https://ramp.com/data/ai-index), which uses billing data from 70,000 Ramp credit card using companies to estimate model adoption.\n\nHere's Ramp's breakdown of Anthropic model spend for July 2026, which looks reasonable given that Opus 5 was only released on July 24th, and supports the idea that Fable's cost has made it a less popular model:\n\n- Opus 4.8: 28.0%\n\n- Sonnet 4.6: 8.3%\n\n- Fable 5: 8.0%\n\n- Opus 4.6: 6.9%\n\n- Sonnet 5: 3.6%\n\n- Opus 5: 3.5%\n\n- Opus 4.7: 1.7%\n\n- Sonnet 4.5: 1.3%\n\n- Haiku 4.5: 1.0%\n\n- Opus 4.5: 0.7%",
+        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Database",
+          "Web Dev"
+        ],
+        "published_at": "2026-08-23T20:24:52.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Cooper Sharp Proves That American Cheese Can Be Great Cheese",
+        "summary": "## \n\nThis Week in Apple: Let’s fight\n\n\t![John Moltz and his conspiracy board. Art by Shafer Brown.](https://i0.wp.com/sixcolors.com/wp-content/uploads/2023/06/twia-moltz.png?resize=680%2C389&ssl=1)\nFi",
+        "content": "## \n\nThis Week in Apple: Let’s fight\n\n\t![John Moltz and his conspiracy board. Art by Shafer Brown.](https://i0.wp.com/sixcolors.com/wp-content/uploads/2023/06/twia-moltz.png?resize=680%2C389&ssl=1)\nFirst we’ll look at how AI IS TEARING THIS FAMILY APART! Then we’ll talk about Apple’s rumored AirPods with cameras, which are also a problem.\n\n## I’d like to have an argument, please\n\nThis week [Anthropic announced](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) that in order to identify AI from human-generated content it would be watermarking all text it generates by subtly altering the randomness at which its models picked the next word. While this might seem a perfectly cromulent means of accomplishing a worthy goal, it really rubbed John Gruber the wrong way, as if someone suggested putting autocomplete Swiss on his Philly cheesesteak AI.\n\nGruber subsequently [keyed a post](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) in which he called watermarking “a perversion of writing.” This prompted many others to say “A perversion of *whatnow*?”\n\nDaniel Jalkut responded that [“AI Can’t Adulterate its Own Writing”](https://bitsplitting.org/2026/08/17/ai-cant-adulterate-its-own-writing/):\n\n> \n> …to be offended by “the perversion of writing” you need actual writing to pervert.\n> \n\nDan Moren responded similarly, saying that [“LLMs aren’t writing”](https://sixcolors.com/post/2026/08/llms-arent-writing/):\n\n> \n> A computer that has digested the work of thousands if not millions of people and regurgitated them according to a statistical model is equivalent to a person toiling by the sweat of their brow to bring meaning into existence from nothingness?\n\n…\n\t\t\n\n\t\t\t\n\n\t\t\n\t\t\t\n## This is a post limited to Six Colors members.",
+        "url": "https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "2026-08-23T17:36:28.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting Drew Breunig - 23rd August 2026 > Prior to Fable, it felt silly to waste *too* much time improving your c...",
+    "Anthropic’s best AI model struggles to attract users as cheaper tools thrive - 23rd August 2026 - Link Blog **[Anthropic’s best AI model struggles to attract users as ch...",
+    "Cooper Sharp Proves That American Cheese Can Be Great Cheese - ## This Week in Apple: Let’s fight ![John Moltz and his conspiracy board. Art by Shafer Br..."
+  ],
+  "wordcloud": [
+    {
+      "word": "function",
+      "count": 4
+    },
+    {
+      "word": "special",
+      "count": 4
+    },
+    {
+      "word": "sri",
+      "count": 4
+    },
+    {
+      "word": "model",
+      "count": 4
+    },
+    {
+      "word": "modified",
+      "count": 3
+    },
+    {
+      "word": "functions",
+      "count": 3
+    },
+    {
+      "word": "arcane",
+      "count": 3
+    },
+    {
+      "word": "post",
+      "count": 3
+    },
+    {
+      "word": "government",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "users",
+      "count": 3
+    },
+    {
+      "word": "cheaper",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "context",
+      "count": 2
+    },
+    {
+      "word": "point",
+      "count": 2
+    },
+    {
+      "word": "end",
+      "count": 2
+    },
+    {
+      "word": "terminology",
+      "count": 2
+    },
+    {
+      "word": "useful",
+      "count": 2
+    },
+    {
+      "word": "orbit",
+      "count": 2
+    },
+    {
+      "word": "wanted",
+      "count": 2
+    },
+    {
+      "word": "time",
+      "count": 2
+    },
+    {
+      "word": "death",
+      "count": 2
+    },
+    {
+      "word": "px",
+      "count": 2
+    },
+    {
+      "word": "pixels",
+      "count": 2
+    },
+    {
+      "word": "lie",
+      "count": 2
+    },
+    {
+      "word": "perfect",
+      "count": 2
+    },
+    {
+      "word": "monitor",
+      "count": 2
+    },
+    {
+      "word": "lankan",
+      "count": 2
+    },
+    {
+      "word": "pwned",
+      "count": 2
+    },
+    {
+      "word": "lanka",
+      "count": 2
+    },
+    {
+      "word": "summer",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "weights",
+      "count": 2
+    },
+    {
+      "word": "coding",
+      "count": 2
+    },
+    {
+      "word": "price",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "rd",
+      "count": 2
+    },
+    {
+      "word": "august",
+      "count": 2
+    },
+    {
+      "word": "anthropic",
+      "count": 2
+    },
+    {
+      "word": "best",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "struggles",
+      "count": 2
+    },
+    {
+      "word": "attract",
+      "count": 2
+    },
+    {
+      "word": "tools",
+      "count": 2
+    },
+    {
+      "word": "thrive",
+      "count": 2
+    },
+    {
+      "word": "cheese",
+      "count": 2
+    }
+  ]
+}
