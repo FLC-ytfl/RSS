@@ -1,14 +1,72 @@
 {
   "date": "2026-08-29",
   "stats": {
-    "total_fetched": 263,
+    "total_fetched": 272,
     "after_filter": 150,
     "final_count": 30,
-    "short_news": 30,
-    "long_articles": 0
+    "short_news": 27,
+    "long_articles": 3
   },
   "sections": {
     "short_news": [
+      {
+        "type": "short_news",
+        "title": "A simple \"copy this code\" button in JavaScript",
+        "summary": "Next to all the code samples on this blog is a little \"copy\" button. That makes it easier to grab any of the code I've shared. The HTML and JS is delightfully simple: <button onclick=\"navigator.clipboard.writeText( this....",
+        "url": "https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "Sat, 29 Aug 2026 11:34:49 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Server Called Paranoia: Defend Autistici/Inventati",
+        "summary": "For twenty-five years, an Italian hacker collective has built communications infrastructure designed to survive censorship, surveillance and police raids. On August 26, the United States designated it a terrorist organiz...",
+        "url": "https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/",
+        "source": "micahflee",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Cloud"
+        ],
+        "published_at": "Sat, 29 Aug 2026 19:40:15 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Roku alternative streaming device",
+        "summary": "The privacy, or lack thereof, around streaming media has been bothering me lately. I’m sure some people would ask what took me so long. And I’m sure others would say I am overreacting. But it is a problem not very The po...",
+        "url": "https://dfarq.homeip.net/a-roku-alternative-streaming-device/?utm_source=rss&utm_medium=rss&utm_campaign=a-roku-alternative-streaming-device",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sat, 29 Aug 2026 16:21:35 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Dell Optiplex 3040 and 3050 micro",
+        "summary": "The Dell Optiplex 3040 and 3050 Micro are useful machines when you need a small form factor, versatility, and affordability. They aren’t as hip and chic as a Raspberry Pi, but they are more expandable and, these days, th...",
+        "url": "https://dfarq.homeip.net/dell-optiplex-3040-and-3050-micro/?utm_source=rss&utm_medium=rss&utm_campaign=dell-optiplex-3040-and-3050-micro",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Sat, 29 Aug 2026 11:00:36 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
       {
         "type": "short_news",
         "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
@@ -26,6 +84,32 @@
       },
       {
         "type": "short_news",
+        "title": "Reading List 08/29/26",
+        "summary": "Sinking London homes, US magnesium manufacturing, the World Humanoid Robot games, catastrophic flooding in Nepal, and more.",
+        "url": "https://www.construction-physics.com/p/reading-list-082926",
+        "source": "Construction Physics",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Sat, 29 Aug 2026 12:03:07 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Rise and Fall of Agent Civilizations",
+        "summary": "The whole OpenAI/Hugging Face story in plain English",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Sat, 29 Aug 2026 22:47:53 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
         "title": "Superlinear Returns",
         "summary": "",
         "url": "http://www.paulgraham.com/superlinear.html",
@@ -33,7 +117,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -46,7 +130,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -59,7 +143,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -72,7 +156,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -85,7 +169,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -98,7 +182,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -111,7 +195,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -124,7 +208,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -137,7 +221,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -150,7 +234,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -163,7 +247,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -176,7 +260,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -189,7 +273,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -202,7 +286,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -215,7 +299,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -228,7 +312,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -241,7 +325,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -254,7 +338,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -267,7 +351,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -280,139 +364,137 @@
         "tags": [
           "Web Dev"
         ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I Worked On",
-        "summary": "",
-        "url": "http://www.paulgraham.com/worked.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Earnestness",
-        "summary": "",
-        "url": "http://www.paulgraham.com/earnest.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Billionaires Build",
-        "summary": "",
-        "url": "http://www.paulgraham.com/ace.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Airbnbs",
-        "summary": "",
-        "url": "http://www.paulgraham.com/airbnbs.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Think for Yourself",
-        "summary": "",
-        "url": "http://www.paulgraham.com/think.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Early Work",
-        "summary": "",
-        "url": "http://www.paulgraham.com/early.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Modeling a Wealth Tax",
-        "summary": "",
-        "url": "http://www.paulgraham.com/wtax.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Four Quadrants of Conformism",
-        "summary": "",
-        "url": "http://www.paulgraham.com/conformism.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Database"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Orthodox Privilege",
-        "summary": "",
-        "url": "http://www.paulgraham.com/orth.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-08-29T03:25:06.095Z",
+        "published_at": "2026-08-29T23:41:02.978Z",
         "translated_title": null,
         "translated_summary": null
       }
     ],
-    "long_articles": []
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Technical note: transfer files over an ethernet patch cable",
+        "summary": "**2026-08-29** \n\nIt's possible to just connect two computers together with Ethernet and do a bit of IP configuration:\n\n# On sender...\n\nip address add dev eth0 fd42:dead:beef::1/48\nip link set dev eth0",
+        "content": "**2026-08-29** \n\nIt's possible to just connect two computers together with Ethernet and do a bit of IP configuration:\n\n# On sender...\n\nip address add dev eth0 fd42:dead:beef::1/48\nip link set dev eth0 up\n\n# On receiver...\n\nip address add dev eth0 fd42:dead:beef::2/48\nip link set dev eth0 up\n\nAfter a few seconds, pings should work:\n\n# On receiver...\n\n/ # ping fd42:dead:beef::1\n64 bytes from fd42:dead:beef::1: icmp_seq=1 ttl=64 time=0.649 ms\n64 bytes from fd42:dead:beef::1: icmp_seq=2 ttl=64 time=0.376 ms\n64 bytes from fd42:dead:beef::1: icmp_seq=3 ttl=64 time=0.414 ms\n64 bytes from fd42:dead:beef::1: icmp_seq=4 ttl=64 time=0.340 ms\n\n... and so should this:\n\n# On receiver...\n\nsocat - TCP6-LISTEN:1234 | dd status=progress > big_file.tar.gz\n\n# On sender...\n\nsocat - 'TCP6-CONNECT:[fd42:dead:beef::2]:1234' < big_file.tar.gz\n\nThese commands assume you are using Linux, but this trick works everywhere.\n\nA nothing-special patch cable and ethernet jack should have no problem hitting ~900 Mbits/second, which is 6.7 GB per minute.\nFancy network cards will allow speeds orders of magnitude faster, but it's already much faster than USB flash or cloud storage. \n\n## *Other options*\n\n... for transferring a file larger than 10 GB or so between two machines a few meters apart.\n\n*Cloud storage*: upload it to a server and download it from the other machine.\n\nIn most cases, this will be glacially slow, both because of slow internet connections and cloud providers throttling traffic.\nWorse, the file has to be transferred over the network twice which doubles the time it takes.\n\nAlso, it can be expensive unless you already have a suitable server.\n\n*Direct TCP* over LAN is better, but WiFi is still quite slow and with random dropouts:\nthose multi-gigabit speed claims are dubious at best and certainly won't be reached in a typical home networking environment (walls, interference, long distances, etc)\n\nHowever, if your house is wired for gigabit Ethernet, this can work great. \n\n*Removable storage* is quite slow unless you are willing to spend a lot of money.\n\nEven if you do, it's often limited by the cable:\nUSB theoretically supports high speeds... with a (near mythical) perfect cable and pristine connectors.\n\nI have only single cable and peripheral pair that actually reaches gigabit speeds, which has an MSRP of ~2300$.\n(and that only works if plugged into the right USB port at the right angle)\n\nAlso, it has the same problem as cloud storage, having to copy data on and off the drive effectively halves the speed.\nUnlike Ethernet, directly connecting two computers together won't work because USB is based around a host/device distinction.\n\n*Really*, Ethernet is the only common connection that can reliably reach gigabit speeds between two random devices using inexpensive cables.\nIt's also truly differential (with transformers!) which makes it resistant to RFI and ground level shifts.\n\nI think it's underappreciated for non-internet applications and doesn't even need a local network:\npoint to point wiring is perfectly fine. \n\nIt also doesn't need a TCP/IP stack:\nraw link-layer frames are perfectly fine even on a switched LAN.\nThis makes for a very simple way to move data to and from a microcontroller.\n\n## *Related*:\n\n- \n  \n    [ethtransfer.sh](https://maurycyz.com/misc/etherfiles/ethtransfer.sh): A simple shell script for file copies",
+        "url": "https://maurycyz.com/misc/etherfiles/",
+        "source": "Maurycy's Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Sat, 29 Aug 2026 00:00:00 +0000",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "This Week in Package Management: 29 August 2026",
+        "summary": "Week fifteen of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://masto",
+        "content": "Week fifteen of the roundup, built from the [package manager OPML feed collection](https://github.com/ecosyste-ms/package-managers-opml) and whatever I’ve posted or boosted on [Mastodon](https://mastodon.social/@andrewnez).\n\n## pnpm 12\n\n[pnpm 12.0](https://pnpm.io/blog/releases/12.0) is the stable release of the Rust rewrite. The commands, flags, settings and lockfile format from pnpm 11 carry over unchanged; a companion [what’s different](https://pnpm.io/blog/whats-different-in-pnpm-12) post lists the seven behavioural changes.\n\nGit dependencies on GitHub, GitLab and Bitbucket now resolve through the host’s canonical HTTPS URL regardless of how they were specified, so lockfiles record only the canonical HTTPS URL for those hosts. Dependency cycles are broken canonically during peer resolution, so the lockfile is a pure function of the dependency graph. Cycle-heavy workspaces resolve peers 2-3x faster with roughly 25% less memory.\n\nGlobally installed tools resolve to the version pinned in the current project, and pnpm can provision npm, Yarn and Bun as managed tools with a `pnx` command for one-off runs. Unrecognised keys in `pnpm-workspace.yaml` are now errors.\n\nOn the 11.x branch, [11.23](https://pnpm.io/blog/releases/11.23) reworks the `registries` setting so an Artifactory or GitLab registry can keep its tarball URLs out of `pnpm-lock.yaml`, and [11.24](https://pnpm.io/blog/releases/11.24) restores `pnpm approve-builds --global` and groups recursive publishes by registry so a credential mismatch is caught before anything is uploaded.\n\n## Releases\n\n[Stack 4.1.0.1 RC](https://github.com/commercialhaskell/stack/releases/tag/rc%2Fv4.1.0.1) adds cross-package Backpack support: when a package uses signatures and mixins to depend on an abstract interface from another package, Stack now generates the extra instantiation build steps Cabal needs. Private Backpack, with signatures and implementations in the same package, was already supported.\n\n[winget 1.29.290](https://github.com/microsoft/winget-cli/releases/tag/v1.29.290) adds an experimental `sourcePriority` feature: sources can be given a numeric priority via `source add` or `source edit`, and higher-priority sources sort first in search results when other ranking factors are equal.\n\n[Maven 3.10.0-rc-1](https://github.com/apache/maven/releases/tag/maven-3.10.0-rc-1) is the first release candidate for the 3.10 line, which aligns 3.x behaviour with Maven 4: classpath ordering, version-range resolution filtering and the Resolver 2.0.19 changes are backported, and the super POM drops the deprecated `release-profile` and default plugin management.\n\n[Renovate 44.42.0](https://github.com/renovatebot/renovate/releases/tag/44.42.0) sets `CI=true` for every child process it spawns, and [44.49.0](https://github.com/renovatebot/renovate/releases/tag/44.49.0) fetches changelog entries newest-first and stops once the target platform’s PR body length limit is reached, instead of fetching hundreds of releases.\n\nAlso out:\n\n  - [Homebrew 6.0.20](https://github.com/Homebrew/brew/releases/tag/6.0.20)\n\n  - [npm 11.19.1](https://github.com/npm/cli/releases/tag/v11.19.1)\n\n  - [Verdaccio 6.10.1](https://github.com/verdaccio/verdaccio/releases/tag/v6.10.1)\n\n  - [Deno 2.9.6](https://github.com/denoland/deno/releases/tag/v2.9.6)\n\n  - [uv 0.12.7](https://github.com/astral-sh/uv/releases/tag/0.12.7)\n\n  - [pipx 1.17.0](https://github.com/pypa/pipx/releases/tag/1.17.0)\n\n  - [pixi 0.78.0](https://github.com/prefix-dev/pixi/releases/tag/v0.78.0)\n\n  - [mise 2026.8.14](https://github.com/jdx/mise/releases/tag/v2026.8.14)\n\n  - [MacPorts 2.12.6](https://github.com/macports/macports-base/releases/tag/v2.12.6)\n\n  - [Flatpak 1.18.2](https://github.com/flatpak/flatpak/releases/tag/1.18.2)\n\n  - [Dependabot Core 0.393.0](https://github.com/dependabot/dependabot-core/releases/tag/v0.393.0)\n\n  - [Gradle 9.8.0-M2](https://github.com/gradle/gradle/releases/tag/v9.8.0-M2)\n\n  - [sbt 2.0.8](https://github.com/sbt/sbt/releases/tag/v2.0.8)\n\n## Security\n\nThe Renovate project [disclosed ten advisories](https://github.com/renovatebot/renovate/discussions/45495) affecting the CLI, nine High and one Moderate: four command injection vectors, four credential exfiltration paths via malicious `Link` headers, TLS private key exposure in logs, and a `minimumReleaseAge` bypass. All are fixed in 44.14.7, released 7 August.\n\n[Composer 2.10.3](https://github.com/composer/composer/releases/tag/2.10.3) and [2.2.30](https://github.com/composer/composer/releases/tag/2.2.30) fix four issues: [CVE-2026-59944](https://github.com/composer/composer/security/advisories/GHSA-96h3-5x6v-m776) (path traversal via symlinked `bin` entries), [command injection via a malicious Perforce URL](https://github.com/composer/composer/security/advisories/GHSA-rvx4-ffvw-m9q3), URL-embedded credentials leaking into more places than intended, and GitLab URL matching that could send credentials to the wrong domain.\n\n[ORAS 1.3.4](https://github.com/oras-project/oras/releases/tag/v1.3.4) fixes three credential-scoping issues: mTLS client certificates supplied via `--cert-file` were presented to any HTTPS peer including cross-origin redirect and bearer-realm targets, custom `--header` values were forwarded to hosts other than the configured registry, and `--debug` traces logged pre-signed URL parameters, cookies, proxy authorisation and token response bodies.\n\n## Articles\n\n[Rumour is the exploit](https://anil.recoil.org/notes/rumour-is-the-exploit) (Anil Madhavapeddy): after opening a public PR fixing a path traversal in OCaml’s cohttp, Anil’s server logs showed probes for the exact pattern within minutes, and an agent given only a rough description of the bug produced a working exploit in under a minute. He argues that once the existence of a fix is public an agent can rediscover the bug independently, so the coordinated-disclosure window that embargoes are meant to protect has closed for open source maintainers.\n\n[What’s new in Private Packagist, August 2026](https://blog.packagist.com/whats-new-in-private-packagist-august-2026-update/) (Packagist blog): MFA enforcement now covers Composer authentication tokens, regenerated tokens invalidate the old one immediately (previously cached for 14 days), and security monitoring reads Composer 2.10’s `config.policy` section to determine which advisories to suppress.\n\n## Papers\n\n[Evaluating Inference-Time Defenses Against Package Hallucination in LLM-Generated Code](https://arxiv.org/abs/2608.22652) (arXiv) shows that prior measurements overstate hallucinated-package rates by counting standard-library modules as hallucinations (by 9.4 percentage points for Python) and evaluates seven decoding-time strategies for reducing them.\n\n[The Rising Cost of Trust: Practitioners’ Trust Signals, Controls, and Responses in the Software Supply Chain](https://arxiv.org/abs/2608.20675) (arXiv) is a semi-structured interview study of 38 industry and open source practitioners on which signals they use when deciding to depend on a package and what controls they apply.\n\n[AROMA+: A Study of Factors Affecting Reproducible Builds in the Maven Ecosystem](https://arxiv.org/abs/2608.27125) (arXiv) automatically recovers the build environment for Maven Central releases and attempts to reproduce them: 32% of packages are feasible for automatic reproduction, of which 12% reproduce fully, and the recovered build specs match Reproducible Central’s manually curated ones field-for-field 99.8% of the time.\n\n## Elsewhere\n\nThe Rust project [announced](https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/) its first Maintainers in Residence, funding five contributors (including rustup maintainer rami3l) full-time and two more via grants for at least twelve months from a Rust Foundation maintainers fund backed by Google, AWS and OpenAI.\n\n[Fettle and the CVE problem](https://opensourcesecurity.io/2026/2026-08-paul-fettle-cve/) (Josh Bressers, Open Source Security): an interview with Paul Asadoorian on Fettle, a tool for checking a Linux system’s outdated packages, pending firmware updates and binary hardening flags, and on his InfraTrust Pulse report which tracks vendor advisories rather than raw CVE counts.\n\n[Additional Sustainability Topics from the CHAOSS Practitioner Guides](https://fastwonderblog.com/2026/08/25/part-2-additional-sustainability-topics-from-the-chaoss-practitioner-guides/) (Dawn Foster) covers the Security, Diverse Leadership and Sunsetting guides; the Security guide recommends Libyears and release frequency as dependency-currency metrics.\n\nThe Sovereign Tech Agency is [investing €508,640 in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) over two years, funding a contractor team organised by Modal Collective and Para-Real to build new portals for PipeWire audio, network isolation, VPN and spell-checking, plus an entitlements system for app permissions.\n\n[Rust Metadata Carver](https://github.com/decoderloop/rust_metadata_carver) (Decoder Loop) is a Binary Ninja plugin that extracts panic metadata from Rust binaries, recovering which crates and Rust version a stripped binary was built with.\n\n[renovate-pretty-log-tui 0.6.0](https://www.jvt.me/posts/2026/08/17/renovate-pretty-log/) (Jamie Tanna) adds a summary view and HTML export to the terminal UI for reading Renovate debug logs, and surfaces errors more clearly.\n\n## git-pkgs\n\nI tagged 9 repos this week:\n\n  - [gcs v0.1.0](https://github.com/git-pkgs/gcs/releases/tag/v0.1.0) (new), a Go library for Google Cloud Storage object operations via the JSON API with minimal dependencies\n\n  - [archives v0.6.0](https://github.com/git-pkgs/archives/releases/tag/v0.6.0)\n\n  - [artifacts v0.2.0](https://github.com/git-pkgs/artifacts/releases/tag/v0.2.0)\n\n  - [brief v0.12.1](https://github.com/git-pkgs/brief/releases/tag/v0.12.1)\n\n  - [clone v0.7.1](https://github.com/git-pkgs/clone/releases/tag/v0.7.1)\n\n  - [manifests v0.10.1](https://github.com/git-pkgs/manifests/releases/tag/v0.10.1)\n\n  - [purl v0.1.19](https://github.com/git-pkgs/purl/releases/tag/v0.1.19)\n\n  - [registries v0.9.0](https://github.com/git-pkgs/registries/releases/tag/v0.9.0)\n\n  - [sbom v0.1.6](https://github.com/git-pkgs/sbom/releases/tag/v0.1.6)\n\nSend links for next week to [@[email protected]](https://mastodon.social/@andrewnez).",
+        "url": "https://nesbitt.io/2026/08/29/this-week-in-package-management.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Security",
+          "AI/ML"
+        ],
+        "published_at": "2026-08-29T10:00:00.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox",
+        "summary": "Jason Snell, writing at Six Colors, [has an exemplary review of the experience](https://sixcolors.com/post/2026/08/apple-takes-first-immersive-baseball-swings-from-the-on-deck-circle/):\n\n> I didn’t mi",
+        "content": "Jason Snell, writing at Six Colors, [has an exemplary review of the experience](https://sixcolors.com/post/2026/08/apple-takes-first-immersive-baseball-swings-from-the-on-deck-circle/):\n\n> I didn’t mind the reduced pace of the NBA broadcast, which toggled\n> between cameras under each basket, but Stratechery’s Ben Thompson\n> [felt strongly](https://stratechery.com/2026/apple-you-still-dont-understand-the-vision-pro/) that the best option would’ve been a single\n> camera at mid-court, to completely eliminate the disorienting cuts\n> and replicate being at the game in person.\n\n> \n> Apple’s approach with baseball, at least based on Friday’s game,\n> seems to lean toward Thompson’s preferred approach — and it does\n> benefit from it. Each half inning was shown from a single camera\n> on the dugout rail next to the on-deck circle, giving a great view\n> of pitcher and hitter and the infield, as well as the goings on\n> right in front of the dugout in foul territory. The camera\n> switched between innings, so you were always viewing from the\n> perspective of the at-bat team’s dugout.\n\n> \n> Making it all work better was Apple’s addition of a “virtual\n> jumbotron” floating in the sky, a scoreboard with graphics and a\n> video feed of the standard 16:9 telecast on Apple TV. It was easy\n> to look up and catch a replay or even get a better view of\n> something happening in the far-off outfield, without getting in\n> the way of my view of the game itself.\n\nI concur with Snell’s review. The camera placement was terrific. You watched each team bat from the perspective of its own dugout. Perfect. A few other thoughts:\n\n- The whole thing was legit *exciting*. Vision Pro continues to get a bad rap because Apple hasn’t sold many of them, and isn’t going to sell many of them until they come out with new models that are cheaper and lighter and less fussy. But there’s no denying that these immersive experiences are fucking cool. And an immersive *live* experience adds something else. It’s ineffable. Hard to say *why*, but feeling like you’re at another place watching something happen *live* is magic. Just a few years ago it would have required literal magic. It wasn’t possible. Now it is.\n\n- The immersive audio was terrific. It really sounded like being at Yankee Stadium, and truly added to the you-are-there feel of the experience. It seems corny to say this, but I really had the urge to stand during the national anthem, and it felt slightly wrong not to take the “hat” off my head (where the “hat” was the Vision Pro). It’s exciting to feel 43,000 fans roar *around* you. Baseball is a slow game but when the crowd roars, it erupts. That never comes across on regular TV broadcasts. It did here.\n\n- Like Snell though, I felt Apple’s commentators were too chatty. I’d love an option to toggle the commentary on and off, to just experience the natural audio of the ballpark.[1](#fn1-2026-08-29) \n\n- The only thing missing was aroma. Cement, grass, dirt, sweat, beer, peanuts, hot dogs with the works. Ballparks smell like fun. (Even Fenway.) But the you-are-there experience was so visceral I swear I could *almost* smell it. It’s like my brain was filling in the missing sensation. It didn’t feel like watching a 3D TV broadcast. It didn’t feel like a better version of TV broadcasting. It felt like something new and different. Something at least as different from watching on TV as watching on TV is different from merely listening on radio. It’s profound. TVs are small — laptops, tablets, and phones are even smaller. Yankee Stadium is huge. Watching this game immersively felt huge. Awesome, in the literal sense.\n\n- I love how you could look around and see how filthy everything really is in baseball: the on-deck mats, the interior of the dugouts, the tiny bits of schmutz on the warning track. It’s a lot of dirt and quite a bit of spit. [That’s baseball, Suzyn](https://rotowear.com/products/thats-baseball-suzyn-mens-t-shirt).\n\n- There’s a resolution and/or depth of field limitation with the cameras, exacerbated by the fact that Vision Pro’s displays are, compared to reality, low resolution. They’re the highest-resolution VR displays on the market but I still couldn’t see the ball once it left the infield. When balls were hit to the outfield you just kind of had to judge what was happening by what the infielders and baserunners were doing. Ben Rice hit a double in the first inning and I thought the Sox outfielder caught it and I was confused why Rice was running to second base. Turns out the outfielder stopped running because Rice hit the ball over his head and he was waiting to play the carom off the left field wall. I was happy to be wrong. A few years from now, with better cameras and better Vision headset displays, these problems will be solved. But in the meantime, the outfield is fuzzy.\n\n- The best part about the immersive perspective compared to a traditional broadcast is watching how complex infield play really is. It’s fun to quickly look around the whole infield right before the pitch. You really see how much more stressful it is for the pitcher once there’s a runner on base — let alone more than one. It’s what I love about going to the ballpark — so much more complexity and intricacy is revealed — and watching this immersive broadcast enables the same thing. You can see the whole game, at all times, not just the pitcher, catcher, and batter.\n\n- The virtual “jumbotron” is a fine idea but I wish you could move it a bit higher, and it would be even better if you could configure it with the stats *you* want to see. But positioning it higher is my big request.\n\n- I have to admit I hadn’t used my Vision Pro in quite a few weeks before last night’s game. One thing that really struck me, almost certainly because baseball is a long game, is how heavy it is. My chin wants to droop and my face wants to look down when I’m wearing it. It’s the weight more than the isolation that makes it tiresome for anything other than short-form content, for me at least.\n\nThe whole thing was a great success. I’m writing these notes on Saturday afternoon while watching the old flat broadcast of game 2 of this 4-game series, and it feels ... well, boring. And small. Bodes well for the future of sports.",
+        "url": "https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast",
+        "source": "Daring Fireball",
+        "tags": [
+          "Algorithms",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-08-29T17:53:34.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
   },
-  "highlights": [],
+  "highlights": [
+    "Technical note: transfer files over an ethernet patch cable - **2026-08-29** It's possible to just connect two computers together with Ethernet and do a...",
+    "This Week in Package Management: 29 August 2026 - Week fifteen of the roundup, built from the [package manager OPML feed collection](https:/...",
+    "★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox - Jason Snell, writing at Six Colors, [has an exemplary review of the experience](https://si..."
+  ],
   "wordcloud": [
     {
-      "word": "work",
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "button",
       "count": 3
     },
     {
       "word": "ideas",
       "count": 3
+    },
+    {
+      "word": "ip",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "simple",
+      "count": 2
+    },
+    {
+      "word": "copy",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "built",
+      "count": 2
+    },
+    {
+      "word": "august",
+      "count": 2
+    },
+    {
+      "word": "streaming",
+      "count": 2
+    },
+    {
+      "word": "sure",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "dell",
+      "count": 2
+    },
+    {
+      "word": "optiplex",
+      "count": 2
+    },
+    {
+      "word": "micro",
+      "count": 2
     },
     {
       "word": "chinese",
@@ -427,7 +509,35 @@
       "count": 2
     },
     {
+      "word": "work",
+      "count": 2
+    },
+    {
       "word": "want",
+      "count": 2
+    },
+    {
+      "word": "ethernet",
+      "count": 2
+    },
+    {
+      "word": "dev",
+      "count": 2
+    },
+    {
+      "word": "eth",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "package",
+      "count": 2
+    },
+    {
+      "word": "com",
       "count": 2
     }
   ]
