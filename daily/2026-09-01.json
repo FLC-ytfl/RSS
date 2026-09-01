@@ -1,14 +1,128 @@
 {
   "date": "2026-09-01",
   "stats": {
-    "total_fetched": 262,
+    "total_fetched": 277,
     "after_filter": 150,
     "final_count": 30,
-    "short_news": 30,
-    "long_articles": 0
+    "short_news": 23,
+    "long_articles": 7
   },
   "sections": {
     "short_news": [
+      {
+        "type": "short_news",
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l...",
+        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "Tue, 01 Sep 2026 22:40:28 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hyperscale Normalization",
+        "summary": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, $18 a quarter, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 10,000 to 18,000 words, includ...",
+        "url": "https://www.wheresyoured.at/hyperscale-normalization/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Tue, 01 Sep 2026 17:39:44 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: ActivityPub by Evan Prodromou ★★★★⯪",
+        "summary": "As part of my grant from NLnet to improve my Fediverse bot project, I'm spending time making sure I understand all the fundamentals of ActivityPub. The problem with Internet standards is they're scattered all over the pl...",
+        "url": "https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 01 Sep 2026 11:34:18 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "New Post: A Crash Course in Predicate Logic",
+        "summary": "Logic for Programmers has now been out for a month! To celebrate, I'm releasing the entire second chapter, \"A Crash Course in Logic\", for free on my blog. Read it here!",
+        "url": "https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/",
+        "source": "Computer Things",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "Tue, 01 Sep 2026 18:30:01 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Commodore 64 released September 1, 1982",
+        "summary": "On September 1, 1982, the Commodore 64 launched. Its name referred to the amount of memory it had on board: 64 kilobytes. And it was the first computer with 64K of memory to sell for under $600. When the Commodore The po...",
+        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/?utm_source=rss&utm_medium=rss&utm_campaign=commodore-64-released-september-1-1982",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 01 Sep 2026 11:00:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weekly Update 519: Breaches & Data Integrity",
+        "summary": "It does feel like I've bitten off too much and am now chewing like crazy this week. The 3D printing talk with Elle in Oslo, the \"normal\" NDC infosec talk, the cyber-broken talk with Scott in Copenhagen and then those rat...",
+        "url": "https://www.troyhunt.com/weekly-update-519/",
+        "source": "Troy Hunt",
+        "tags": [
+          "Security",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Tue, 01 Sep 2026 22:26:38 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+        "summary": "\"This might be the clearest warning shot we ever get.\"",
+        "url": "https://www.dwarkesh.com/p/ajeya-cotra",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Tue, 01 Sep 2026 15:41:06 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+        "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+        "url": "https://blog.cloudflare.com/cache-transcoding/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "Web Dev",
+          "Cloud",
+          "Hardware"
+        ],
+        "published_at": "Tue, 01 Sep 2026 12:59:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
       {
         "type": "short_news",
         "title": "Superlinear Returns",
@@ -18,7 +132,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -31,7 +145,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -44,7 +158,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -57,7 +171,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -70,7 +184,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -83,7 +197,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -96,7 +210,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -109,7 +223,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -122,7 +236,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -135,7 +249,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -148,7 +262,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -161,7 +275,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -174,7 +288,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -187,7 +301,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -200,212 +314,182 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "An NFT That Saves Lives",
-        "summary": "",
-        "url": "http://www.paulgraham.com/nft.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Real Reason to End the Death Penalty",
-        "summary": "",
-        "url": "http://www.paulgraham.com/real.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How People Get Rich Now",
-        "summary": "",
-        "url": "http://www.paulgraham.com/richnow.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Write Simply",
-        "summary": "",
-        "url": "http://www.paulgraham.com/simply.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Donate Unrestricted",
-        "summary": "",
-        "url": "http://www.paulgraham.com/donate.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Web Dev"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I Worked On",
-        "summary": "",
-        "url": "http://www.paulgraham.com/worked.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Earnestness",
-        "summary": "",
-        "url": "http://www.paulgraham.com/earnest.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Billionaires Build",
-        "summary": "",
-        "url": "http://www.paulgraham.com/ace.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Airbnbs",
-        "summary": "",
-        "url": "http://www.paulgraham.com/airbnbs.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Think for Yourself",
-        "summary": "",
-        "url": "http://www.paulgraham.com/think.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Early Work",
-        "summary": "",
-        "url": "http://www.paulgraham.com/early.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Modeling a Wealth Tax",
-        "summary": "",
-        "url": "http://www.paulgraham.com/wtax.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Four Quadrants of Conformism",
-        "summary": "",
-        "url": "http://www.paulgraham.com/conformism.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Database"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Orthodox Privilege",
-        "summary": "",
-        "url": "http://www.paulgraham.com/orth.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Coronavirus and Credibility",
-        "summary": "",
-        "url": "http://www.paulgraham.com/cred.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-01T00:53:26.550Z",
+        "published_at": "2026-09-01T23:39:58.512Z",
         "translated_title": null,
         "translated_summary": null
       }
     ],
-    "long_articles": []
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting Tarn Adams",
+        "summary": "1st September 2026\n\n> They took the letters from me! I have to talk about *dwarf behavior* now. I can't even talk about dwarf AI. It doesn't exist. It's *dwarf behavior*, and they misbehave sometimes\n",
+        "content": "1st September 2026\n\n> They took the letters from me! I have to talk about *dwarf behavior* now. I can't even talk about dwarf AI. It doesn't exist. It's *dwarf behavior*, and they misbehave sometimes\n\n— [Tarn Adams](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/), co-creator of Dwarf Fortress\n\nPosted [1st September 2026](https://simonwillison.net/2026/Sep/1/) at 5:01 pm\n\n## Recent articles\n\n  \n    - [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) - 30th August 2026\n\n  \n    - [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) - 19th August 2026\n\n  \n    - [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) - 16th August 2026\n\n  \n\n \n\nThis is a **quotation** collected by Simon Willison, posted on [1st September 2026](https://simonwillison.net/2026/Sep/1/).\n\n    \n        [\n            game-design\n            22\n        ](https://simonwillison.net/tags/game-design/)\n    \n        [\n            ai\n            2,209\n        ](https://simonwillison.net/tags/ai/)",
+        "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Product",
+          "Systems"
+        ],
+        "published_at": "2026-09-01T17:01:11.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Codex bundles LibreOffice",
+        "summary": "1st September 2026\n\nI was poking around in my `~/.cache/` folder using [OmniDiskSweeper](https://www.omnigroup.com/more) when I spotted something interesting. The OpenAI Codex desktop app (since [rebr",
+        "content": "1st September 2026\n\nI was poking around in my `~/.cache/` folder using [OmniDiskSweeper](https://www.omnigroup.com/more) when I spotted something interesting. The OpenAI Codex desktop app (since [rebranded](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app) to just ChatGPT) has 1.7GB of stuff in there in a folder called `codex-primary-runtime`, including a full Python installation, a full Node.js installation, and native binaries for [Poppler](https://poppler.freedesktop.org/), git, and the [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) open source office suite (which forked from OpenOffice.org in 2010):\n\n![](https://static.simonwillison.net/static/2026/codex-primay-runtime.webp)\n\nThe `~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents` folder includes skills which tell Codex how to find and use those binaries.",
+        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-09-01T19:03:01.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Python 3.15.0 candidate 2 is here!",
+        "summary": "1st September 2026 - Link Blog\n\n**[Python 3.15.0 candidate 2 is here!](https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841)** ([via](https://bsky.app/profile/hugovk.dev/post/3muhjndh",
+        "content": "1st September 2026 - Link Blog\n\n**[Python 3.15.0 candidate 2 is here!](https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841)** ([via](https://bsky.app/profile/hugovk.dev/post/3muhjndhw322i)) Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:\n\n> Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]\n\n> We **strongly encourage** maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates **will work** with future versions of Python 3.15.\n\nBack in 2021 I [found a bug in Python 3.10](https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/) by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs.\n\nThe new RC isn't available for GitHub Actions just yet - keep an eye on [actions/python-versions](https://github.com/actions/python-versions/releases) for that. For the moment though you can add this to a testing matrix:\n\nstrategy:\n  matrix:\n    python-version: [\"3.14\", \"3.15\"]\n\nsteps:\n  - uses: actions/setup-python@v7\n    with:\n      python-version: ${{ matrix.python-version }}\n      allow-prereleases: true\n      check-latest: true\n\nThe [allow-prereleases](https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#allow-pre-releases) and [check-latest](https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#check-latest-version) flags mean that today this will test against RC1, and when RC2 lands it will automatically switch to that version (and then the stable version once that comes out.)",
+        "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-09-01T14:59:18.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600)\n\t\n\nApple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery. In today’s filing, Apple says that it has new “shocking evidence” based on early forensic inspection of a laptop used by former engineer Chang Liu.\n\nApple first [filed the lawsuit](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) in July, accusing ex-employees of stealing trade secrets for the benefit of OpenAI. It moved for a [preliminary injunction](https://9to5mac.com/2026/08/04/apple-preliminary-injunction-openai/) a few weeks later, while also asking the court to expedite discovery, including early document production and depositions of key OpenAI employees and executives. Apple again [emphasized](https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/) the need for expedited discovery last week. OpenAI has [called](https://9to5mac.com/2026/08/06/openai-apple-thrown-out-lawsuit/) for dismissal. \n\nAs covered before, Chang Liu is one of the parties named in Apple’s lawsuit. Liu was a senior system electrical engineer at Apple who left the company for OpenAI in January. The lawsuit alleges that Liu exploited a security bug to download confidential engineering files after leaving.\n\nIn today’s filing, Apple says that Liu’s lawyers recently handed over his MacBook that he used after leaving Apple. According to Apple, an “initial forensic analysis” of that MacBook revealed four things, quoted from Apple’s filing:\n\n- Mr. Liu not only downloaded a confidential Apple circuit schematic but also used it in his work at OpenAI;\n\n- Far from his unauthorized access to Apple’s third-party cloud storage being unknown to him, Mr. Liu and others at OpenAI were well-aware of that access;\n\n- Mr. Liu, upon learning of Apple’s internal investigation of him, sent instructions for destroying evidence to an OpenAI colleague who confirmed she would comply; and\n\n- Mr. Liu used a tool in his work at OpenAI that has the same name as an internal Apple engineering application used for Apple development work.\n\nApple alleges that Liu ran a simulation in March using the circuit schematic file in LTspice, an electrical engineering tool. In messages from around that time, Liu said his AI “agent” learned to run LTspice and review the results.\n\nApple argues that when trade secret information is fed into an AI agent or model that learns from it, that learning “may create irreversible and continually propagating uses of the trade secret.”\n\nApple says the defendants decided not to inspect the laptop and instead chose to “advance theories that the device’s data disproves.” \n\nAdditionally, Apple learned about Liu’s use of the schematic because he used it on a Mac mini which later synced via iCloud to the MacBook he took from Apple. Apple now also wants access to that Mac mini. \n\nThis “shocking evidence” is yet another point in favor of expedited discovery in the case, Apple says:\n\n> “This shocking evidence—which Defendants chose to ignore despite its availability—demonstrates why Apple urgently needs expedited discovery. The MacBook represents the very limited information Defendants provided so far (and only after weeks of delay), and shows Apple is not conducting ‘fishing expeditions’ but that its trade secrets are being used and evidence is being destroyed.”\n\nYou can read the full filing below or [via this link](https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf). \n\n### **Chance’s favorites: **\n\n- [AirPods Pro 3: $225 (Reg. $249)](https://amzn.to/4uUqAwW)\n\n- [Bring wireless CarPlay to any car](https://amzn.to/3RBXa7T)\n\n- [“Apple: The First 50 Years” by David Pogue](https://amzn.to/3RZWqtm)\n\n- [Logitech MX Master 4](https://amzn.to/4adTvDF)\n\n- [Belkin 3-in-1 MagSafe Charger](https://amzn.to/4fpVjgj)\n\n- [Beats Woven USB-C Charging Cables](https://amzn.to/4ekuxou)\n\n**Follow Chance**: [Threads](https://www.threads.net/@ChanceHMiller), [Bluesky](https://bsky.app/profile/chancemiller.me), [Instagram](https://www.instagram.com/chancehmiller/), and [Mastodon](https://mastodon.social/@ChanceHMiller).\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Tello-Banner-4-750-x-150-Mac.jpg?quality=82&strip=all)](https://www.anrdoezrs.net/click-5527864-12834157)",
+        "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "2026-09-01T17:36:08.000Z",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Tim Cook’s Departure Memo on His Last Day as CEO",
+        "summary": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/tim-cook-wwdc26-keynote-wave.jpg?quality=82&strip=all&w=1600)\n\t\n\nToday is Tim Cook’s [last day as Apple CEO](https://9to5mac.com/2026/08/31/t",
+        "content": "![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/tim-cook-wwdc26-keynote-wave.jpg?quality=82&strip=all&w=1600)\n\t\n\nToday is Tim Cook’s [last day as Apple CEO](https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/), with John Ternus set to take over tomorrow. To mark his last day in the role, Cook penned an emotional memo to Apple employees today. Read it below. \n\nIn the memo sent to employees this morning and obtained by *9to5Mac*, Cook reflects on his time at Apple and thanks employees for all of their work. He also says he takes “enormous comfort in handing the helm to someone as brilliant and wonderful and capable” as John Ternus. \n\n“Few people understand what it takes to build products that change the world the way John does and I could not be more excited for his leadership,” Cook writes. \n\nHere is the memo in full: \n\n> Team, \n\n> \n> \n> \n> Today is my last day as CEO of Apple. This is a moment I always knew would come one day, and yet it is still hard to believe it has arrived and I am writing these words. I love this company and the team behind it, and I couldn’t let this day pass without sending a note to you, to tell you how grateful I am for the outpouring of affection you’ve sent my way, for the way you’ve shown up each and every day, and most of all, for the privilege of a lifetime serving as your leader. \n\n> \n> \n> \n> The truth is, whatever there is to say about my success, I know it is all because of you. You have brought out the best in me. In all my life, I have never seen or been with such an extraordinary team of people before, and every day I get to see more examples of that. \n\n> \n> \n> \n> There is something truly special about Apple. I am most proud of what an annual report could never capture. This place is proof that culture triumphs over everything. We share a belief that what we build matters, and that we have both the opportunity and the responsibility to leave the world better than we found it. That purpose is part of what makes this place extraordinary. Apple helps nurture it, but I believe it lived within each of you long before you arrived here. It is what brought you to this company and what continues to drive the work you do every day. Together, we have created something far greater than any one of us could have imagined or accomplished alone. And that’s the secret to our success. We bring out the best in each other. We lift each other up. We have made it possible to leave our “dent in the universe,” as Steve once described it, because of who we are and what we believe, because of what we value and how we see the world. How fortunate we are. How fortunate I am. \n\n> \n> \n> \n> As you know, I am not leaving Apple. But I am stepping away from a role that I have loved deeply. I will miss this work in ways I can only begin to imagine, even as I remain completely at peace with my decision. I will miss leading you and being with you for every step, even as I take enormous comfort in handing the helm to someone as brilliant and wonderful and capable as John. Few people understand what it takes to build products that change the world the way John does and I could not be more excited for his leadership. \n\n> \n> \n> \n> I hope you know how much I appreciate you and what an honor it has been to be your CEO. Most of all, I hope you will continue to be proud to be part of this remarkable place we call Apple and always give it your very best. When we bring our whole selves to this work, with care for one another and for the people we serve, there is no limit to the profound difference we can make. \n\n> \n> \n> \n> I look forward to seeing you in my new role at Apple Park and around the world. \n\n> \n> \n> \n> With all I have and all I am, I am always \n\n> \n> \n> \n> Yours, \n\n> \n> \n> \n> Tim \n\nCook also thanked the Apple community in a [post on social media](https://x.com/tim_cook/status/2094448088199078236), writing: \n\n> Sending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I’m excited for the next chapter!\n\n## My favorite Apple deals right now: \n\n- AirPods Pro 3 [**$225** (Reg. $249)](https://amzn.to/4hQp5fw)\n\n- AirTag 2: [**from $20 each** (Reg. $29)](https://amzn.to/4xUUiTg)\n\n- M5 Pro MacBook Pro [**$2,899** (Reg. $3,199)](https://amzn.to/4gt72cK)\n\n- AirPods Max 2 [**$449** (Reg. $549)](https://amzn.to/4c1IgiO)\n\n- [Shop Amazon’s Huge Labor Day Sale](https://amzn.to/4xw96Z4)\n\n**Follow Chance**: [Threads](https://www.threads.net/@ChanceHMiller), [Bluesky](https://bsky.app/profile/chancemiller.me), [Instagram](https://www.instagram.com/chancehmiller/), and [Mastodon](https://mastodon.social/@ChanceHMiller).\n\n\t[\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-dark.png)\n\t\t\t![Add 9to5Mac as a preferred source on Google](https://9to5mac.com/wp-content/themes/ninetofive/dist/images/google-preferred-source-badge-light.png)\n\t\t](https://google.com/preferences/source?q=https://9to5mac.com)\n\t\n\n\t*FTC: We use income earning auto affiliate links.* [More.](https://9to5mac.com/about/#affiliate)\n\n[![](https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Tello-Banner-4-750-x-150-Mac.jpg?quality=82&strip=all)](https://www.anrdoezrs.net/click-5527864-12834157)",
+        "url": "https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "2026-09-01T18:11:57.000Z",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token",
+        "summary": "Every integration you have ever built follows the same shape. Your app gets an access token for a third-party API, keeps it somewhere reasonably safe, and attaches it to outbound requests so it can ac",
+        "content": "Every integration you have ever built follows the same shape. Your app gets an access token for a third-party API, keeps it somewhere reasonably safe, and attaches it to outbound requests so it can act on behalf of your users. The token sits in your process memory, maybe in an environment variable, maybe in a cache. That was fine. Your process only ran code you wrote.\n\nAgents break that assumption, and they break it in a way that is easy to miss because nothing about the code looks different. The agent still reads a token from config. It still puts the token in an `Authorization` header. The difference is that somewhere between those two lines, the agent read a GitHub issue written by someone you have never met, and that issue told it what to do next.\n\n## The assumption that just expired\n\nApplication security has always distinguished trusted code from untrusted input. Your server was trusted. The request body was not. Every defense we built, input validation, parameterized queries, output encoding, lives on that boundary.\n\nAn agent runtime erases the boundary. The untrusted input becomes the instructions. A support ticket, a scraped web page, a PDF a user uploaded, a code comment in a repo the agent was asked to review: all of it arrives in the same context window as your system prompt and gets the same consideration. You are not running code you wrote. You are running code you wrote plus whatever the model decided to do about a paragraph of text it found.\n\nNow put a long lived OAuth token in that environment and ask what could go wrong.\n\n## Where the token actually ends up\n\nIt helps to be specific, because \"the token is in the environment\" sounds abstract until you count the copies. A provider access token in an agent runtime tends to exist in more places than the person who put it there intended:\n\n- **The context window,** if the agent ever reads its own config, inspects an outbound request, or debugs a failing call. Once the token is in context, it is one summarization away from being written somewhere else.\n- **Tool call arguments,** which are usually logged verbatim by whatever observability layer you bolted on, because logging tool inputs is the only way to debug an agent.\n- **Your model provider's logs,** if the token passed through a prompt on its way anywhere.\n- **stdout and stderr,** because a `curl` command an agent composed itself does not know to redact its own headers.\n- **Error reporting,** where a failed HTTP request often serializes its request headers into the exception payload.\n- **Scratch files and memory stores,** which are how agents persist anything across steps, and which are almost never treated as secret material.\n- **The exfiltration path itself,** which needs no bug at all. An agent with a token and network access can be talked into sending both somewhere else. That is not a vulnerability in your code. It is the feature working as designed.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6a79e7bd34907a0c77781ac2_fig2-token-copy-sprawl.webp)\n\nSeven copies from one token, and every path here is ordinary agent behavior rather than a bug.None of these require an attacker to breach anything. They are the ordinary operating conditions of an agent that works.\n\n## A leak that takes one paragraph\n\nSay you have an agent that triages GitHub issues. It holds a user's GitHub token so it can read repos and comment. Someone opens an issue whose body ends with a line addressed to the agent rather than to you, asking it to include its authorization header in a diagnostic request to a URL the attacker controls.\n\nWhether the model complies depends on the model, the prompt, and the day. That is the problem. Your credential security now has a probabilistic component, and you are on the wrong side of a numbers game you have to win every single time. Even a model that resists this ninety nine times out of a hundred is not a control you would accept anywhere else in your stack.\n\nAnd the failure is not recoverable in the usual way. A leaked access token is not a session you can invalidate on your side. It is a bearer credential for someone else's API, valid until it expires or the user revokes the grant, and it works from anywhere.\n\n## Scopes and rotation help less than you would like\n\nThe two instincts here are to narrow the scopes and shorten the lifetime. Both are worth doing and neither addresses the shape of the problem.\n\nScopes are coarse because OAuth scopes were designed for apps, not agents. A token that can read the repos an agent needs to read can generally read every repo that user can see. Real provider scopes cluster around whole product surfaces, so \"the minimum this agent needs\" often turns out to be most of what the account can do.\n\nRotation shortens the window without closing it. An attacker who can reach a token once can usually reach it again, because the leak path is a property of the runtime rather than a moment in time. And a refresh flow means the runtime holds refresh material too, which is worth more than the access token was.\n\nBoth mitigations accept the premise that the token has to be in the agent's environment. That premise is the thing worth attacking.\n\n## Delegated access without handing over the token\n\nThe alternative is to stop shipping the credential to the code that needs it, and instead let the code describe the call it wants to make on behalf of a given user. WorkOS ships this as [Relay](https://workos.com/docs/pipes/relay), currently in early access, and the mechanic is simple enough to describe in a sentence: the agent sends its request to WorkOS, names the provider and the user it is acting for, and WorkOS attaches the credential on the way out.\n\nConcretely, a proxied request carries your WorkOS API key in `Authorization`, the target URL in `X-Relay-URL`, and the user's ID in `X-Relay-User`, plus `X-Relay-Organization` when the connection was authorized under an organization. The provider is resolved from the target URL's host, and `X-Relay-Provider` is available as an optional override when the host is ambiguous. WorkOS verifies the key, resolves the user's connected account, fetches the credential from the Pipes credential store, refreshes it if it has expired, strips its own control headers, injects the provider token, and streams the provider's response back untouched. Method, body, and content headers pass through unchanged, so converting a direct call into a proxied one is a header edit rather than a rewrite.\n\nConcretely, a proxied request carries your WorkOS API key in `Authorization`, the target URL in `X-Relay-URL`, and the user's ID in `X-Relay-User`, plus `X-Relay-Organization` when the connection was authorized under an organization. The provider is resolved from the target URL's host; `X-Relay-Provider` is available as an optional override when the host is ambiguous.\n\nTwo details make this usable rather than merely secure.\n\nThe first is honest error semantics. A pass through proxy has a naming problem: if it returns a `401` or `403` of its own, you cannot tell it apart from the provider's `401` or the proxy rejecting your API key. So a user who has not connected the provider, or whose grant was revoked, gets a `402` with code `relay_authorization_required` and an `authorization_url` you can send them to. Every proxied response also carries `X-Relay-Upstream-Status`, which tells you whether the request reached the provider at all. A GitHub `404` and an unknown provider `404` stop looking alike.\n\nThe second is that the token now lives behind a boundary the agent cannot cross even if it wants to. Requests can only target a supported provider's allowlisted hosts. Redirects are not followed, which matters more than it sounds: a followed redirect is how an injected credential ends up at a host nobody allowlisted. `Cookie`, `X-Forwarded-*`, and hop by hop headers are stripped on the way out, `Set-Cookie` on the way back. The upstream timeout is thirty seconds and bodies are forwarded byte for byte up to 5 MB.\n\nThe result is that a compromised agent can make provider calls it should not make. It cannot walk away with a credential.\n\n## What this does not fix\n\n- [‍**Prompt injection**](https://workos.com/blog/prompt-injection-attacks)** is untouched.** Nothing above makes an agent better at ignoring instructions embedded in the data it reads. An agent that can be convinced to post an unwanted Slack message can still be convinced to post it. The proxy changes what an attacker walks away with, not whether they can influence the agent.**‍**\n- **Your WorkOS API key is still in the runtime.** It authenticates every call for the environment, and [Relay](https://workos.com/docs/pipes/relay) does not remove it. Treat it accordingly: inject it at request time rather than baking it into agent visible code or prompts, and rotate it if a runtime is compromised. Moving one secret out of reach while leaving a more powerful one lying around is a lateral move, not an improvement.**‍**\n- **Provider permissions are still provider permissions.** Proxied calls are constrained by allowlisted hosts, not by what a given agent ought to be doing. Fine grained authorization for agent actions is a real gap, and a chokepoint is the natural place to eventually close it, but the chokepoint existing is not the same as the policy existing.\n\nWhat you actually get is a change in blast radius. A leaked token is a durable, portable, offline capability. A hijacked agent session is a live process you can kill, with calls that flow through a single point where they can be observed and cut off. Those are very different incidents, and one of them ends when you notice.\n\n## The part that outlives the product\n\nCredential proxying is not a new idea, which is a point in its favor. Payments got here first: card vaults and tokenization exist because the fastest way to reduce what an audit covers is to make sure the sensitive value never enters your systems at all. The same reasoning applies to OAuth tokens and agent runtimes, for the same reason. You cannot leak what you never held.\n\nThe durable version of this principle has nothing to do with any particular product. It is that credentials belong in the least reachable component that can still do the job, and agent runtimes are now the most reachable component in most architectures. They read attacker controlled text, they log everything, they persist state to make progress, and they act on their own conclusions. That is a fine place to make a decision. It is a bad place to keep a key.\n\nIf you are handing an agent a token today, the question worth sitting with is not whether your prompt is robust. It is what happens on the day it isn't.",
+        "url": "https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Security",
+          "Product"
+        ],
+        "published_at": "2026-09-01T07:59:07.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Git Submodules as a Package Manager",
+        "summary": "I added a worktree to a repository last week to try a branch alongside the main checkout, ran `git submodule update --init` in it because the build needed the vendored dependencies, and when I was don",
+        "content": "I added a worktree to a repository last week to try a branch alongside the main checkout, ran `git submodule update --init` in it because the build needed the vendored dependencies, and when I was done went to clean up with `git worktree remove`, which git refused. Per [the man page](https://git-scm.com/docs/git-worktree) only clean worktrees can be removed, and “unclean worktrees or ones with submodules” need `--force`. Submodules get their own clause in that sentence, distinct from dirty state. `git worktree move` is stricter again and [refuses outright](https://git-scm.com/docs/git-worktree#Documentation/git-worktree.txt-move) on any worktree containing submodules. I’d spent [the previous week](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html) cataloguing how command-line tools harden their `--force` flags, and here was git requiring one because two of its own features had collided.\n\nGitHub’s [git 2.5 announcement](https://github.blog/2015-07-29-git-2-5-including-multiple-worktrees-and-triangular-workflows/) introduced `git worktree` in July 2015 with a one-line caveat: “It’s not recommended to use `git worktree` with a repository that contains submodules.” Eleven years later git still requires `--force` to remove a worktree that has submodules and refuses to move one. In between, `worktree add` had to be [patched to ignore `submodule.recurse`](https://github.com/git/git/commit/4782cf2ab686bacca8d2908319981ac27d54ca25) because honouring it made the internal `reset --hard` recurse into submodule paths that were still empty in the fresh worktree.\n\nThis got me thinking about submodules as a package manager. Most of the pieces are there and the behaviour roughly matches, but they don’t quite line up and the experience of using them is worse at almost every step. Enough projects have adopted them and then [backed out](https://diziet.dreamwidth.org/14666.html) that [“why are git submodules so bad”](https://news.ycombinator.com/item?id=31792303) is a recurring thread.\n\nThe gitlink in the superproject’s tree, a commit SHA recorded at a path with mode `160000`, is the lockfile entry, and the [`.gitmodules` file](https://nesbitt.io/2026/02/05/git-magic-files.html) mapping paths to fetch URLs is the manifest. `git submodule update` reads both and populates the working tree, which is the install step. The pin itself is as precise as any package manager’s: an exact commit identified by object ID.\n\n## Resolution\n\nThe gitlink records only which commit to check out, so `.gitmodules` carries a `url` per submodule and `update` clones from there, which is the only resolution mechanism. If the upstream repository is renamed, transferred to a different host, or taken private, every downstream pin breaks, even though the SHA is unchanged and the objects still exist in every clone that already has them. The manifest hard-codes a host because git has no lookup from a commit ID to servers that hold it.\n\nGit also copies each URL into the superproject’s `.git/config` the first time `git submodule init` runs, under `submodule.<name>.url`, and later commands read it from there, ignoring `.gitmodules`. Editing the committed `.gitmodules` to point at a mirror or a fork leaves an already-initialised clone unchanged until [`git submodule sync`](https://git-scm.com/docs/git-submodule) copies the new value across.\n\nThe usual workaround in CI is git’s global [`url.<base>.insteadOf`](https://git-scm.com/docs/git-config) config, which rewrites any URL with a matching prefix before fetching, submodule URLs included. The common cases are rewriting `https://github.com/` to `[[email protected]](https://nesbitt.io/cdn-cgi/l/email-protection):` so an SSH deploy key applies, or redirecting an internal hostname to a mirror.\n\n## Installation\n\nA plain `git clone` writes the gitlink into the index so the submodule directory exists, and leaves it empty until `git submodule update --init` runs or the clone was made with `--recurse-submodules`. The [`submodule.recurse`](https://git-scm.com/docs/git-config) config setting makes `checkout`, `fetch`, `pull`, `grep` and several other commands recurse automatically, and it defaults to off.\n\nBy default `update` checks out the gitlink commit, detached, and two independent flags modify that:\n\n  - `--init`: copy any missing `.gitmodules` entries into `.git/config` first, required on first run and a no-op after\n\n  - `--remote`: check out the tip of the submodule’s configured remote-tracking branch instead of the gitlink commit (the remote’s `HEAD` if `submodule.<name>.branch` is unset)\n\nThe [command reference](https://git-scm.com/docs/git-submodule) documents both, though the name `update` conflates “install what’s pinned” with “update to latest”. Switching branches in the superproject changes the gitlink in the index and leaves the submodule’s working tree wherever it already was, so `git status` immediately shows the submodule as modified. Passing `--recurse-submodules` to `checkout`, or setting `submodule.recurse`, brings the submodule working tree along with the branch switch. The Rust project’s [account of moving compiler subprojects off submodules](https://blog.rust-lang.org/inside-rust/2026/06/04/how-josh-helps-rust-manage-code-across-multiple-repositories/) lists this cluster from experience: checkouts left empty or on the wrong commit after clone, unrelated submodule bumps landing in pull requests because a branch switch left the submodule dirty, and custom logic in the `bootstrap` build tool to check each submodule out to the right commit before building.\n\n## Storage\n\nA submodule’s git directory is stored under the superproject’s `$GIT_DIR/modules/<name>/`, with a `.git` file in the submodule’s working tree containing a `gitdir:` pointer back to it and a `core.worktree` setting pointing the other way. [`git submodule absorbgitdirs`](https://git-scm.com/docs/git-submodule) migrates older clones that still have a nested `.git/` directory. Each entry under `modules/` is a git directory with its own refs, HEAD, index, config, hooks, and by default its own object store. Removing a submodule is correspondingly spread across three places: `git rm <path>` drops the gitlink and the `.gitmodules` entry, `git submodule deinit <path>` clears the working tree and the `.git/config` entry, and the absorbed `$GIT_DIR/modules/<name>` directory that both leave behind is [documented](https://git-scm.com/docs/gitsubmodules#_forms) as a manual `rm -rf`.\n\nWorktrees and submodules collide over this layout because a linked worktree shares the superproject’s `$GIT_DIR` but has its own working tree, HEAD, and index under `$GIT_DIR/worktrees/<id>/`. Put two worktrees on different superproject branches and they reference the same submodule at two different commits. Each needs its own submodule checkout and index, tied to storage that’s partly per-worktree and partly shared. `worktree remove` requires the override rather than checking whether that state is disposable, and `worktree move` refuses because the pointer-file rewrite it would need is unimplemented.\n\nXavier Morel [asked on the git list this March](https://www.spinics.net/lists/git/msg520955.html) whether a submodule checkout could itself be a worktree of an existing shared clone, having found bare repositories plus worktrees worked well for a set of related projects but that adding submodules on top always cloned fresh. An [RFC](https://www.spinics.net/lists/git/msg523846.html) and a [three-patch series](https://www.spinics.net/lists/git/msg523988.html) proposing `--recurse-submodules` for `git worktree add` followed in April, giving each linked worktree its own submodule git directory under `$GIT_COMMON_DIR/worktrees/<id>/modules/` and sharing the object storage between them by hardlink.\n\nThe same multiplication happens in a single-worktree clone when two submodules both depend on a third repository. Each path in the superproject gets its own `modules/` entry, its own object store unless alternates are configured by hand, and its own gitlink. The two pins can point at different commits of the same repository, and git treats them as unrelated checkouts. Package managers with a shared cache (cargo’s [registry cache](https://doc.rust-lang.org/cargo/guide/cargo-home.html), pnpm’s [content-addressable store](https://pnpm.io/motivation), the [Go module cache](https://go.dev/ref/mod#module-cache)) store the bytes once and check them out per location.\n\n## Updating\n\nThe gitlink holds one commit SHA, so moving a submodule forward means entering it, fetching, checking out the new commit, leaving, and `git add <path>` in the superproject to record the new gitlink. `git submodule update --remote` fetches the configured branch’s tip and checks that out instead of the recorded gitlink, and committing the result in the superproject is what moves the pin. `.gitmodules` can name a `branch` per submodule for `--remote` and the update bots to follow. A plain `update` ignores that field and checks out the gitlink SHA regardless. There is no syntax for a version range, a tag pattern, or a minimum commit, so the manifest’s only floating reference is a branch name and the gitlink is the only pin.\n\nDependabot and Renovate can both open pull requests bumping a gitlink. Dependabot’s [`gitsubmodule` ecosystem](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file) proposes a new gitlink SHA when the submodule’s configured branch moves, and Renovate’s [`git-submodules` manager](https://docs.renovatebot.com/modules/manager/git-submodules/) does the same, shipping disabled by default; both follow branch tips because a branch name is the only reference the manifest exposes.\n\n## Security\n\n`.gitmodules` is committed to the repository, so a hostile upstream controls its contents, and git parses it during `clone --recurse-submodules` before the user has seen any of the fetched files, a combination that has produced remote code execution repeatedly. [CVE-2018-11235](https://nvd.nist.gov/vuln/detail/CVE-2018-11235) used `../` in a submodule’s name so its git directory, hooks included, was written outside `$GIT_DIR/modules/` and a `post-checkout` hook ran during clone. In [CVE-2018-17456](https://nvd.nist.gov/vuln/detail/CVE-2018-17456) the submodule URL began with `-`, so the child `git clone` parsed it as an option, the class of bug git’s [`--end-of-options`](https://nesbitt.io/2026/07/21/end-of-options.html) delimiter defends against. [CVE-2022-39253](https://github.com/git/git/security/advisories/GHSA-3wp6-j8xr-qw85) was a disclosure bug: a symlink in a submodule’s object directory made a local-transport clone copy arbitrary files from the victim’s disk. The fix changed the [`protocol.file.allow`](https://git-scm.com/docs/git-config) default to `user`, so local-path submodules now need an explicit opt-in. [CVE-2024-32002](https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv) combined a symlink with a case-insensitive filesystem to write a hook into `.git/` during recursive clone. I covered the broader pattern of package-manager checkout paths as an attack surface in [the CWE field guide](https://nesbitt.io/2026/05/04/package-manager-cwes.html).\n\n## Abstraction\n\nSubmodules expose git’s internals directly: object IDs as the pin, detached HEADs after update, the `$GIT_DIR/modules/` layout, transport URLs in the manifest. A package manager wraps the equivalents behind a manifest format, a resolver, and a local cache; submodules surface them raw.\n\nMost of the gaps map to things package managers already solved: a shared object cache, recursing into dependencies by default on clone and checkout, a single lifecycle for adding and removing a dependency, range constraints in the manifest. The [April patch series](https://www.spinics.net/lists/git/msg523988.html) adding `--recurse-submodules` to `git worktree add` tackles one instance of the storage problem, giving each worktree its own submodule checkout over hardlinked shared storage. Resolution is the harder one: a commit SHA is a host-independent identity for the object, and the URL in `.gitmodules` is git’s only mapping from that identity to a server that holds it.",
+        "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Systems",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-09-01T09:00:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
   },
-  "highlights": [],
+  "highlights": [
+    "Quoting Tarn Adams - 1st September 2026 > They took the letters from me! I have to talk about *dwarf behavior*...",
+    "Codex bundles LibreOffice - 1st September 2026 I was poking around in my `~/.cache/` folder using [OmniDiskSweeper](ht...",
+    "Python 3.15.0 candidate 2 is here! - 1st September 2026 - Link Blog **[Python 3.15.0 candidate 2 is here!](https://discuss.pyth...",
+    "Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&str...",
+    "Tim Cook’s Departure Memo on His Last Day as CEO - ![](https://9to5mac.com/wp-content/uploads/sites/6/2026/05/tim-cook-wwdc26-keynote-wave.jp..."
+  ],
   "wordcloud": [
     {
-      "word": "work",
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "september",
+      "count": 5
+    },
+    {
+      "word": "talk",
+      "count": 5
+    },
+    {
+      "word": "openai",
+      "count": 4
+    },
+    {
+      "word": "cache",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "week",
+      "count": 3
+    },
+    {
+      "word": "logic",
+      "count": 3
+    },
+    {
+      "word": "commodore",
       "count": 3
     },
     {
@@ -413,7 +497,199 @@
       "count": 3
     },
     {
+      "word": "st",
+      "count": 3
+    },
+    {
+      "word": "dwarf",
+      "count": 3
+    },
+    {
+      "word": "app",
+      "count": 3
+    },
+    {
+      "word": "python",
+      "count": 3
+    },
+    {
+      "word": "apple",
+      "count": 3
+    },
+    {
+      "word": "mac",
+      "count": 3
+    },
+    {
+      "word": "service",
+      "count": 2
+    },
+    {
+      "word": "selling",
+      "count": 2
+    },
+    {
+      "word": "drivers",
+      "count": 2
+    },
+    {
+      "word": "licenses",
+      "count": 2
+    },
+    {
+      "word": "launched",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "month",
+      "count": 2
+    },
+    {
+      "word": "weekly",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "activitypub",
+      "count": 2
+    },
+    {
+      "word": "project",
+      "count": 2
+    },
+    {
+      "word": "i'm",
+      "count": 2
+    },
+    {
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "crash",
+      "count": 2
+    },
+    {
+      "word": "course",
+      "count": 2
+    },
+    {
+      "word": "blog",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "memory",
+      "count": 2
+    },
+    {
+      "word": "update",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "crazy",
+      "count": 2
+    },
+    {
+      "word": "inside",
+      "count": 2
+    },
+    {
+      "word": "agent",
+      "count": 2
+    },
+    {
+      "word": "ever",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
       "word": "want",
+      "count": 2
+    },
+    {
+      "word": "behavior",
+      "count": 2
+    },
+    {
+      "word": "codex",
+      "count": 2
+    },
+    {
+      "word": "candidate",
+      "count": 2
+    },
+    {
+      "word": "lawsuit",
+      "count": 2
+    },
+    {
+      "word": "wp-content",
+      "count": 2
+    },
+    {
+      "word": "uploads",
+      "count": 2
+    },
+    {
+      "word": "sites",
+      "count": 2
+    },
+    {
+      "word": "jpg",
+      "count": 2
+    },
+    {
+      "word": "quality",
+      "count": 2
+    },
+    {
+      "word": "strip",
+      "count": 2
+    },
+    {
+      "word": "tim",
+      "count": 2
+    },
+    {
+      "word": "cook",
+      "count": 2
+    },
+    {
+      "word": "day",
+      "count": 2
+    },
+    {
+      "word": "ceo",
+      "count": 2
+    },
+    {
+      "word": "token",
+      "count": 2
+    },
+    {
+      "word": "git",
       "count": 2
     }
   ]
