@@ -1,0 +1,689 @@
+{
+  "date": "2026-09-03",
+  "stats": {
+    "total_fetched": 277,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "Phil Schiller Steps Down From Running App Store and Product Events",
+        "summary": "Mark Gurman: Apple Inc.’s Phil Schiller, one of the most visible and influential executives across both the Steve Jobs and Tim Cook eras, has stepped down from his role leading the App Store and product events. The 66-ye...",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "2026-09-03T16:39:09.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Hugging Face Easter Egg",
+        "summary": "NVIDIA has offered by buy Hugging Face for $12,930,300,000. 129303 is the Unicode code point for the Hugging Face emoj (U+1F917), which you can verify with the following Python code. >>> import unicodedata >>> 129303 ==...",
+        "url": "https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 03 Sep 2026 23:34:41 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "New RSA number factored",
+        "summary": "Eric Lu announced on X today that he has factored RSA-260, a number N with 260 digits (862 bits) that is the product of two large primes [1]. RSA numbers are challenge problems posed to gauge the security of RSA encrypti...",
+        "url": "https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/",
+        "source": "John D. Cook",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Thu, 03 Sep 2026 17:21:45 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP",
+        "summary": "If you're reading this, you've probably been hitting your head against a brick wall trying to parse and decipher the new HTTP Signatures sent by Mastodon and other Fediverse servers. This is a basic and somewhat incomple...",
+        "url": "https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Thu, 03 Sep 2026 11:34:12 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft 6502 Basic released as open source Sept 3, 2025",
+        "summary": "On September 3, 2025, Microsoft released version 1.1 of its 6502 Basic as open source. This code formed the basis for Applesoft Basic on the Apple II series as well as Commodore Basic on all of Commodore’s 8-bit computer...",
+        "url": "https://dfarq.homeip.net/microsoft-6502-basic-released-as-open-source-sept-3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-6502-basic-released-as-open-source-sept-3-2025",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Systems",
+          "Database",
+          "Mobile"
+        ],
+        "published_at": "Thu, 03 Sep 2026 11:00:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "De nieuwe AIVD/MIVD wet: een eerste overzicht",
+        "summary": "In mijn vorige artikel schreef ik hoeveel de AIVD en MIVD nu al mogen. Inmiddels is het nieuwe wetsvoorstel gepubliceerd, en wat blijkt, men wil nog veel ruimere bevoegdheden, met veel minder toezicht. Ik heb veel vragen...",
+        "url": "https://berthub.eu/articles/posts/de-wiv-202x/",
+        "source": "Bert Hubert's writings",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 03 Sep 2026 13:20:00 +0200",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+        "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation...",
+        "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Thu, 03 Sep 2026 21:03:02 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+        "summary": "This is my third and final essay looking at the 21st Century ROAD to Housing Act, and how it’s likely to affect housing supply.",
+        "url": "https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c",
+        "source": "Construction Physics",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Thu, 03 Sep 2026 19:20:13 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-03T23:41:28.052Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Putting my JAX-trained models on the Hugging Face Hub",
+        "summary": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n     ",
+        "content": "Writing the post that I wished I'd found when I started learning whatever it was...\n            \n\n            \n                    \n                        \n                            Archives \n                        \n\n                    \n                    \n                        \n                            Categories \n                        \n\n                    \n                    \n                        Blogroll \n                    \n\n                \n\n            \n\n    \n\n    \n\n    I hadn't uploaded the models that I trained using JAX to the Hugging Face Hub because\nTransformers has been PyTorch-only since [version 5](https://huggingface.co/blog/transformers-v5)\n(though they say they're working to add interoperability with JAX in the future), so it\nwould have been tough to get them working natively with `AutoModelForCausalLM` and the like.\n\nBut then it dawned on me that I'd already written [a conversion script](https://github.com/gpjt/jax-gpt2-from-scratch/blob/main/convert_model_to_pytorch.py) that could\ntake my JAX safetensors files and convert them into ones compatible with my PyTorch\ncode.  It's actually those converted models that I use for my evals -- so I could\nuse my [existing PyTorch script](https://www.gilesthomas.com/2026/01/custom-automodelforcausallm-frompretrained-models-on-hugging-face)\nto upload them.\n\nSo, I've now uploaded PyTorch-compatible versions of all of my JAX-trained models:\n\n\"[Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax)\"\n\n- [`gpjt/jax-no-mha-bias-no-dropout`](https://huggingface.co/gpjt/jax-no-mha-bias-no-dropout)\n-- the first full LLM trained in the post, in the \"Adding LayerNorm\" section.\n\n- [`gpjt/jax-no-mha-bias-with-dropout`](https://huggingface.co/gpjt/jax-no-mha-bias-with-dropout)\n-- the second full LLM trained in the post, in the \"Dropout\" section.\n\n- [`gpjt/jax-with-mha-bias-no-dropout`](https://huggingface.co/gpjt/jax-with-mha-bias-no-dropout)\n-- the third full LLM trained in the post, in the \"Adding bias to the MHA output projections\" section.\n\n\"[Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining)\"\n\n- [`gpjt/jax-with-mha-bias-no-dropout-extended`](https://huggingface.co/gpjt/jax-with-mha-bias-no-dropout-extended)\n-- the single-epoch, double-Chinchilla-tokens model.\n\n- [`gpjt/jax-with-mha-bias-no-dropout-2-epoch`](https://huggingface.co/gpjt/jax-with-mha-bias-no-dropout-2-epoch)\n-- the model trained on two epochs over the Chinchilla-optimal number of tokens.\n\n\"[A quick(ish) Chinchilla check](https://www.gilesthomas.com/2026/08/chinchilla-check)\"\n\n- [`gpjt/jax-with-mha-bias-larger-chinchilla-1`](https://huggingface.co/gpjt/jax-with-mha-bias-larger-chinchilla-1)\n-- the `slightly-larger` model.\n\n- [`gpjt/jax-with-mha-bias-larger-chinchilla-2`](https://huggingface.co/gpjt/jax-with-mha-bias-larger-chinchilla-2)\n-- the `slightly-smaller` model.\n\nI've also added links to the posts in question.\n\n    \n\n    \n        \n    \n\n    \n        \n            Citing this post\n\n            \n                This is a blog, and if you want to link to this post then please do :-)\n                However, if you're writing something more academic and need to do\n                a proper citation, then here's a BibTeX block to make things easier.\n            \n\n            @misc{thomas2026sep-jax-models-on-hugging-face,\n  author       = {Thomas, Giles},\n  title        = {{Putting my JAX-trained models on the Hugging Face Hub}},\n  year         = {2026},\n  month        = sep,\n  howpublished = {Blog post},\n  url          = {https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face},\n}",
+        "url": "https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face",
+        "source": "Giles' blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Thu, 03 Sep 2026 18:00:00 +0000",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GPT‑6 Astra",
+        "summary": "3rd September 2026 - Link Blog\n\n**[GPT‑6 Astra](https://openai.com/index/gpt-6-astra/)** ([via](https://news.ycombinator.com/item?id=49554643)) GPT-6 Astra is \"rolling out today to a limited set of or",
+        "content": "3rd September 2026 - Link Blog\n\n**[GPT‑6 Astra](https://openai.com/index/gpt-6-astra/)** ([via](https://news.ycombinator.com/item?id=49554643)) GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.\n\nIt's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than Fable on most of OpenAI's self-reported benchmarks.\n\nMost impressively, Astra scores 99.9% on the recent (released in March) [ARC-AGI 3 benchmark](https://arcprize.org/arc-agi/3) - though notably Fable 5 does not yet have a published result, and the [ARC-AGI blog notes](https://arcprize.org/blog/astra) that the 99.9% score was achieved for $19K using OpenAI's custom \"Provider Adapter harness\", while the default ARC-AGI harness scored 62.7% for $26K.\n\n> The Provider Adapter harness preserves opaque reasoning state between requests and uses compaction for longer conversations, allowing the model to reuse prior work.\n\nUnsurprisingly, given [the recent Hugging Face incident](https://simonwillison.net/tags/openai-hugging-face-incident/), Astra is a beast at security tasks. It scores 100% on ExploitBench (GPT-5.6 Sol got 78.5%), 42.4% on ExploitGym (Sol got 30.3%), and 99.2% within four attempts on SRE-Bench binary reverse engineering compared to Sol's 68.7%.\n\nIt's also better at long context: on OpenAI's eight-needle benchmark it got 100% at 256K–512K tokens and 96.3% at 512K–1M tokens. OpenAI may have vanquished one of the ongoing challenges with long context processing.\n\nIt doesn't win at everything though. [Artificial Analysis](https://twitter.com/ArtificialAnlys/status/2095595489031000350) note that Astra is still beaten by Fable on their Intelligence Index:\n\n> **Sits beside GPT-5.6 Sol in Intelligence**: GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).\n\nIt did better on their Coding Agent Index:\n\n> **Leads Coding Agent Index cost efficiency frontier**: At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.\n\nI'll write more about Astra once I get access to it. The API model label once it rolls out will be `gpt-6-astra`.\n\nOpenAI's blog keeps throwing 500 errors, but [here's a mirror](https://astratest.codergautam.workers.dev/GPT-6%20Astra_%20A%20new%20generation%20of%20intelligence%20_%20OpenAI) of the post I found [via Hacker News](https://news.ycombinator.com/item?id=49554273#49555070). -->",
+        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "2026-09-03T20:18:41.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Can We Stop With the Uptime Percentages?",
+        "summary": "I was reading Jason Gorman’s article [“The Wall Confronting Reliable Coding Agent Autonomy”](https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/) and he s",
+        "content": "I was reading Jason Gorman’s article [“The Wall Confronting Reliable Coding Agent Autonomy”](https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/) and he says:\n\n> the journey from 90% to 99% reliability is just as hard as it was to get to 90%. And from 99% to 99.9% is just as hard again.\n\nThis stood out, as I’ve been experiencing more and more “downtime” in my day-to-day work. GitHub’s down. CI’s down. AI’s down. Slack’s down. Downtime’s going mainstream! More and more I find myself visiting service [status](https://www.githubstatus.com/) [pages](https://status.claude.com/), where I’m confronted with a wall of colors and numbers like this:\n\n![Screenshot of the mobile status pages for Claude and GitHub, each showing charts and uptime percentage numbers.](https://cdn.jim-nielsen.com/blog/2026/uptime-claude-github.png)\n\n100%? 99.72%? 99.09%? 98.98%? Those don’t all seem so different or bad? I mean, those are all an A in grade school.\n\nThen I have to remind myself of Jason’s point and re-interpret the numbers, which is more like reading [earthquake measurements](https://en.wikipedia.org/wiki/Richter_scale). The difference between a 6.2 and a 7.8 might not seem that big, but it represents a massive difference in magnitude. Uptime percentages have a similar problem: 99.9% and 99.99% look pretty much the same, but the latter is 10× less!\n\nInfrastructure people understand this. They even have a shorthand for it: two nines, three nines, four nines. They intuitively grasp the difference because they swim in these numbers every day.\n\nBut the audience for status pages isn’t just infra people anymore. It’s increasingly *everybody*.\n\nI understand the math is straightforward. Percent uptime is a good metric for those in the industry. But it’s a lousy interface for people who don’t care about the best way to measure infrastructure reliability in a standardized, reliable, compliant way.\n\nAnd status pages are the public interface for understanding the reliability of a service. I just want to know, “Dude, how much have you been down lately? Seems like a lot…”\n\nSo how about, and I’ll just throw this out there, instead of:\n\nGitHub Actions: 98.31% uptime.\n\nWe say something like:\n\nGitHub Actions: 12 hours affected in the last 30 days (98.31% uptime).\n\nOne requires you to understand the nonlinear significance of numbers near 100%. The other requires knowing what an hour is.",
+        "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Thu, 03 Sep 2026 19:00:00 GMT",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "You Should be Using Rootless Containers",
+        "summary": "The other day a serious vulnerability was disclosed in one of the newer Linux distributions (the one led by the racist, so it isn't getting a mention here). The issue was interesting because it was ca",
+        "content": "The other day a serious vulnerability was disclosed in one of the newer Linux distributions (the one led by the racist, so it isn't getting a mention here). The issue was interesting because it was caused by a non-standard Docker configuration that their installer applied by default, without alerting users that this configuration was creating a security risk. The end result was that any process running on these systems had the ability to elevate itself to root, without password, `sudo` or any prompts to the user.\n\nWhile this incident did not affect me, it served as a reminder that it is difficult to set up Docker in a way that is secure. If you are interested in understanding what the issues with Docker are and what can be done to address them, then you are in the right place.\n\n## The problem with Docker\n\nThe security problems with Docker stem from the choice of using a client-server architecture that was made way back in the beginning. On a standard installation, the Docker daemon runs in the background under the `root` user, providing all the functionality through an API. Clients such as `docker-cli` send requests to this API through the Docker socket, which the server listens on.\n\nBecause the Docker daemon runs as the `root` user, an attacker that gains access to it can execute code with root permissions. You may think that this is just theoretical, or maybe an unlikely, highly complex and obscure vulnerability that only genius hackers can exploit. Well, think again.\n\nHere is a simple example in which I show how I can obtain root access on my Ubuntu 26.04 system just using the `docker` command and without using a password:\n\n```\n# as a regular user, the following command fails\n$ ls /etc/sudoers.d/\nls: cannot open directory '/etc/sudoers.d/': Permission denied\n\n# but I can ask Docker to run this command and it works, no questions asked! \n$ docker run -v /:/host alpine:latest ls /host/etc/sudoers.d/\n90-cloud-init-users\nREADME\n\n```\n\nIn case it isn't clear how this works, the `docker run` command above starts a standard Alpine Linux container, mounting the entire file system of the host under the */host* path. Because the container is running under the root account through the Docker daemon, it has access to all files and thus can bypass any restrictions of the user that issued the `docker run` command. Note that there was no need to authenticate or enter any passwords, the command just worked. A slightly more elaborate malicious script could use the same technique to modify or exfiltrate system files, install cron jobs or other nasty things, all without the user noticing.\n\nNow I don't want to lie to you. The above root escalation attack is not going to work on every Docker install out there. If you do a basic install of Docker, then \"root escalation\" does not really have much of a point, since under a default install the `docker` command is accessible only to the `root` user. If you wanted to use Docker from your regular user account you would be forced to run `sudo docker` and that requires authentication.\n\nThese types of attacks are possible because users often relax access permissions to the Docker socket in the name of convenience. A very common non-standard configuration change that people make is to add themselves to the `docker` group on their machines, which allows them to run the `docker` command without `sudo`. That is what I did for the demonstration I shared above, and also what the Linux distribution I referenced at the start did without notifying their users.\n\nThe truth is that using Docker only as the root user is incredibly inconvenient, so much that the details on how to reconfigure it to work without `sudo` are [documented](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) in the official Docker website, in spite of being a security nightmare. My guess is that if you use Docker on Linux you have made this change, and thus, your system is vulnerable to root escalation attacks.\n\n### What about Docker on macOS and Windows?\n\nEverything I discussed above relates to running Docker on Linux. In fact, Docker only runs on Linux, so products such as Docker Desktop, which support the other operating systems, have to create a Linux virtual machine (VM) as a trick to allow Docker to run there.\n\nI'm honestly not very well versed on how these solutions work, but I would imagine standard virtualization tools such as QEMU, Hyper-V, or similar are used to host the Linux VM that is home to Docker. This creates an additional layer of separation from the physical host, so my impression is that the risks to the host are considerably reduced when running Docker on these operating systems. If anyone with experience on these tools would like to chime in with more details, feel free to use the comments section at the bottom of this article.\n\nI think WSL, the native Linux support that comes with Windows, needs to be treated as a special case. WSL has a much tighter integration with the OS, with the Linux kernel running directly in the host. So there are potentially similar risks to those that exist on a regular Linux system. Once again, if you have things to share about this, I'd love to hear them.\n\n## The alternative: rootless containers\n\nAs mentioned above, Docker made the decision to go with a client-server architecture, and this largely led to the traditional root-owned daemon. But there are alternative ways to run containers that do not rely on the `root` user. Of the many alternative platforms out there, I want to mention two:\n\n- [Docker in rootless mode](https://docs.docker.com/engine/security/rootless/): a variation in the installation process of the standard Docker, where the daemon runs as a user-level service\n\n- [Podman](https://podman.io/): a daemonless container platform\n\nI find the rootless Docker solution a bit hacky. The official [installation instructions](https://docs.docker.com/engine/security/rootless/#install) ask you to do a regular install, then manually disable the Docker daemon, and finally run a script they provide that creates a user-level daemon replacement for the current user.\n\nNow for Podman, you just install it and you're done, with the added benefit that no background services need to run on the system. If you get used to typing `podman` instead of `docker` (or add `alias docker=podman` to your shell configuration), chances are the vast majority of the workflows will work the same, but all your containers will run under your own user, with no viable path for a root escalation. And you will not be running a daemon (unless you need one, see below.)\n\n## The catch with Podman\n\nWhat's not to like about Podman, right? Seems to be perfect, as it addresses the security problems that have plagued Docker since the early days.\n\nWell, note how above I carefully said that the \"vast majority\" of workflows will work the same with Podman as with Docker. The truth is that not all workflows can be transparently switched over. So let's review some of the issues I have experienced when transitioning.\n\nDocker defaults to using its own Docker Hub registry when pulling an image, but Podman sometimes does not, depending on how it was configured. Take the following command:\n\n```\ndocker pull postgres\n\n```\n\nThis may will fail under Podman because it may not know where to pull the image from. While it is possible to configure Docker Hub (or any other registries that you use) as a default registry, I find that when using Podman it is best to get used to name all container images with their fully qualified addresses:\n\n```\npodman pull docker.io/library/postgres\n\n```\n\nThere are also some significant differences in Podman due to its daemonless nature.\n\nNot having a daemon makes Podman unable to restart containers after a reboot, so using Podman on servers that need to be up 24/7 requires a bit of additional work. Podman includes an integration with `systemd` under the `podman quadlet` group of commands that can install containers as individual services.\n\nAlso in the same vein, if there is no daemon, how do applications launch or interact with containers through an API? This is actually a very popular way to use Docker.\n\nFor this, Podman provides an optional API service that you can launch via the `podman system service` command. The command accepts the socket address that you want to use and an optional time for the service to be active. Once started, the service runs just for the user that started it, exposing an API that is compatible with the one from Docker. For servers, there is also a `systemd` integration to have this user-level service running at all times in the background.\n\n## Conclusion\n\nI hope you now have a more clear view of how rootless containers would make your system more secure. Or maybe this helped you decide that rootless containers aren't for you, and that the risks of root escalation with Docker are something you can live with, which is not what I would recommend, but I guess it is fine if you understand what those risks are.\n\nAs for myself, I mostly use Podman these days. I also make use of [Podman Compose](https://podman-desktop.io/) quite a bit, the clone of Docker Compose. Even though on occasion I start the Podman API, most of the time I don't need it, so I do everything via the `podman` command without running an API service. I do use Docker sometimes, but I only go for it when I need to do some quick test on a disposable and isolated VM, where security isn't a big concern.\n\nThank you for visiting my blog! If you enjoyed this article, please consider supporting my work and keeping me caffeinated with a small one-time donation through [Buy me a coffee](https://www.buymeacoffee.com/miguelgrinberg). Thanks!",
+        "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+        "source": "Miguel Grinberg's Blog",
+        "tags": [
+          "Systems",
+          "Security",
+          "Web Dev"
+        ],
+        "published_at": "Thu, 03 Sep 2026 14:59:54 GMT",
+        "reading_time": 8,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Second Quest",
+        "summary": "**Last year, I wrote about [MapQuest](https://tedium.co/2025/05/13/mapquest-maps-history/),** and presented the company’s story as one that was fundamentally changed by a poor decision—AOL’s purchase ",
+        "content": "**Last year, I wrote about [MapQuest](https://tedium.co/2025/05/13/mapquest-maps-history/),** and presented the company’s story as one that was fundamentally changed by a poor decision—AOL’s purchase of the company, which only completed after the tech IPO bubble burst.\n\nAOL, like its merger partner Time Warner, was a frequent target for acquisition. But unlike the modern day Warner Bros. Discovery, it lost cachet every time an acquirer swooped in to pick it up. And that left companies like MapQuest to languish in a culture that simply was too big to understand what was actually going on.\n\nBut MapQuest, as I noted at the end of that piece, seemed to land in the perfect situation: In 2019, it was acquired by a company that actually made sense for it, the StartPage owner System1. Verizon essentially gave them the company for free, and System1 responded by actually making the company something of a viable player. It just needed something to put a little gas in its engine.\n\nLast year, the Trump administration gave them a prime PR opportunity by renaming the Gulf of Mexico to the “Gulf of America,” which MapQuest handled by letting you rename the gulf yourself. And last week, as the president tried the same trick on Lake Ontario, [MapQuest repeated the trick](https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/)—which stood out all the more because Google, and later Apple, chose to acquiesce.\n\nThose companies have something to lose if they make Trump mad. System1, and by extension MapQuest, does not. And audiences responded by making MapQuest the [hottest app in the App Store](https://apps.apple.com/us/iphone/charts) for the first time ever.\n\n*It sure feels like MapQuest was ready for its close-up.*\n\nI’ve covered a lot of companies in my time, and I can name on one hand the number of times a stodgy technology firm was effectively at the brink of obsolescence only to pull off a complete cultural comeback. (Apple is, famously, one. Thank you, [Dr. Gil Amelio](https://tedium.co/2025/08/06/tim-cook-apple-trump-gift/).)\n\nMapQuest wasn’t on my bingo card. But it reflects an inherent flexibility that companies who aren’t on the top of the tech world have, especially if they don’t sell physical products. Companies like Mozilla and DuckDuckGo simply have more room to get savvy as tech giants find themselves at the mercy of a transactional presidency. But that extends beyond political; for example, [Mozilla earned plaudits](https://bsky.app/profile/did:plc:m424cqoxwhxgjutbta7jmrur/post/3msqwhdciec2y) for publicly stating that it would continue to support the popular ad-blocking extension uBlock Origin, which Google seemingly upgraded its extension platform to disable. It’s a great time for easy wins if you lead a mature tech company.\n\nThat said, the hard part for MapQuest will be sticking the landing. While the app is ready for prime time, it lacks certain features that many users take for granted. For example, if you want to take the bus, MapQuest doesn’t have in-depth mass transit integration like Google or Apple’s offerings do. And good luck using it to book an Uber.\n\nBut if this sudden moment at the top of the news cycle turns into something lasting, it might just give the legacy map provider an opportunity to fill those gaps while building a lane for itself. (The company [has already pledged](https://9to5google.com/2026/09/02/mapquest-app-top-charts-android-auto/) to add Android Auto support.)\n\nAt a broader level, MapQuest’s story offers a template for other legacy tech companies to make a modern-day comeback. MySpace’s current owners, Tim and Chris Vanderhook, have already made [a recent case](https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html) for a social media “antidote” play. And at least some players, like Flickr, have found ways to stick around, [even with declining relevance](https://petapixel.com/2026/01/22/empty-promises-a-deep-dive-into-flickr-pro-for-2026/).\n\nBut there’s a real risk that the revival might end up being like what is currently happening to Digg. That company, relaunched with much fanfare by [Kevin Rose and Alexis Ohanian](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/), had to [pivot](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/) just months after its relaunch, as it became clear the domain was too easy a target for spammers. [The website](https://digg.com/tech) is now best described as a Techmeme for AI bros. That feels like a pretty easy-to-ignore model.\n\nIt won’t work for every old company with a dusty server, but the play is clear: Position yourself as an antidote to the negative parts of modern tech culture, and then position your marketing to exploit that position. That requires smart planning and a willingness to meet the moment, even if it means being divisive or stepping on toes to reach that moment.\n\nIt also probably requires a brass stomach, because it can go bad pretty easily. But I guess I’m optimistic that MapQuest is going to start a trend where mid-sized tech companies suddenly discover the backbone that was there all along.\n\n##### Directionless Links\n\n**The [first issue](https://boxed.news/2026/09/01/boxed-news-mini-pcs-first-issue) of Boxed News,** my new mini PC newsletter, landed yesterday without a hitch, and things are off to a good start. Wanna support a new newsletter built from the ground up? [Sign up here](https://boxed.news/).\n\n**There’s no reason whatsoever** to give the NES a CD add-on. Especially in 2026. But I ain’t gonna lie, [seeing this project](https://www.youtube.com/watch?v=6D8RWVwW4ZI) gave me a certain sense of joy, especially as it uses the previously vestigial [NES expansion port](https://tedium.co/2024/12/02/nintendo-expansion-port-history/). (We love [vestigial features](https://tedium.co/2021/09/08/hidden-features-manufacturing/) around these parts.) Word of warning that the video is meandering as all get-out but the result makes it worth the dig.\n\n**We actually have multiple videos** in the subgenre of “video game consoles doing things they shouldn’t be able to do” this week. Apparently it is [possible to run Mac OS X Tiger](https://www.youtube.com/watch?v=5nMPo9flmLo) on an Xbox 360, whose processor is effectively a PowerPC G5 minus a couple of features. If you feel like following in this dude’s footsteps, [here’s the GitHub project](https://github.com/osx360/osx360-drivers).\n\n**New social network alert:** One of the more interesting pitches that landed in my inbox this week was for [Innie](https://innie.social/), a MySpace-esque social platform that focuses on design, avoids profile pictures, and promises feeds that *don’t* go on forever.\n\n--\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/09/02/mapquest-unexpected-revival/)!\n\nAnd support Tedium by giving the [Tedium Shopping Network](https://shopping.tedium.co/) a spin.",
+        "url": "https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-09-03T03:24:54.000Z",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/03Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/03/broken-ar",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/03Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/03/broken-arrows/)\n\n## Today's links\n\n- [Preparing for a post-Trump internet](https://pluralistic.net/2026/09/03/broken-arrows/#things-get-worse): You'd better hope it's also a post-American internet.\n\n- [Hey look at this](https://pluralistic.net/2026/09/03/broken-arrows/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/09/03/broken-arrows/#retro): Barnum and Bailey v journalism; Wired's Wikipedia article is a wiki; Singapore's national wifi; Twitter arguments.\n\n- [Upcoming appearances](https://pluralistic.net/2026/09/03/broken-arrows/#upcoming): Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa.\n\n- [Recent appearances](https://pluralistic.net/2026/09/03/broken-arrows/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/09/03/broken-arrows/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/09/03/broken-arrows/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/09/03/broken-arrows/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/post-american-wmds.jpg?w=840&ssl=1)\n\n## Preparing for a post-Trump internet ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#things-get-worse))\n\nWhat if post-Trump America is even *worse*?\n\nI know, it's tempting to think of Trump as a cause, rather than an effect – as an aberration who dragged America into fascism. Trump *is* exceptional, but the thing that makes him exceptional isn't his corruption, recklessness or cruelty. What makes Trump exceptional is his ability to cajole, intimidate and flatter America's most corrupt, reckless and cruel people into a coalition.\n\nThese people *hate* each other. Nick Fuentes drifts off to sleep every night furiously fantasizing about turning Stephen Miller into a lampshade. Laura Loomer just got ICE to intervene in a Twitter feud by having a guy she dislikes violently arrested, shackled at wrist and ankle, perp-walked, and then shuffled from location to location so that he couldn't meet with his lawyer before being deported:\n\n[https://www.motherjones.com/politics/2026/08/milo-yiannopoulos-deportation-trump-maga-laura-loomer-benny-johnson-raheem-kassmm/](https://www.motherjones.com/politics/2026/08/milo-yiannopoulos-deportation-trump-maga-laura-loomer-benny-johnson-raheem-kassmm/)\n\nThey steal like crazy, get each other locked up, and gorge themselves on mind-altering supplements and peptides they buy from random podcast chuds. They are fantastically paranoid, marinated in conspiracy theories, and perennially high on their own supply: all that bullshit about \"great replacement,\" \"China is making America hate data centers\" and \"antifa is a terrorist organization\"? A lot of them *genuinely believe it*. It's not just ghost stories they made up to scare cognitively compromised tube-feeding Fox News addicted rubes. Trumpland is full of actual, functioning adults in positions of real power who periodically go into the bathroom, turn off the lights, hold a flashlight under their chins and scare themselves silly by saying \"Aaaaaaaaaantiiii-faaaaaaaaaa\" into the mirror.\n\nDonald Trump did not conjure these people out of thin air. They've been lurking in America since its earliest days. They worship authoritarian criminals:\n\n[https://abc30.com/post/roger-stones-tattoo-of-nixon-goes-viral/5107047](https://abc30.com/post/roger-stones-tattoo-of-nixon-goes-viral/5107047)\n\nJanuary 6 wasn't the first presidency they tried to steal, it's just the first one they got punished for:\n\n[https://en.wikipedia.org/wiki/Brooks_Brothers_riot](https://en.wikipedia.org/wiki/Brooks_Brothers_riot)\n\nThey commit brazen crimes in office that could land them in prison for the rest of their lives, and therefore can't afford to lose power, ever:\n\n[https://www.propublica.org/series/supreme-court-scotus](https://www.propublica.org/series/supreme-court-scotus)\n\nTrump didn't invent these creeps, he just emboldened them. If Reaganomics was capitalism with the gloves off, then Trumpismo is Reaganism with the mask off:\n\n[https://www.theguardian.com/books/2020/aug/16/reaganland-review-rick-perlstein-jimmy-carter-ronald-reagan](https://www.theguardian.com/books/2020/aug/16/reaganland-review-rick-perlstein-jimmy-carter-ronald-reagan)\n\nSo what happens when Trump strokes out while watching Kid Rock wrestle a Hulk Hogan impersonator in a televised barbed-wire cage match on the White House lawn that one of Trump's cronies has exclusive pay-per-view rights to? I mean, it's *possible* that the Democratic leadership will step up and insist on some form of regular order in the succession to Vance, but come *on*. These are the tiny \"Down with this sort of thing\" ping-pong paddle people:\n\n[https://www.truthdig.com/articles/ping-pong-paddles-to-a-gun-fight/](https://www.truthdig.com/articles/ping-pong-paddles-to-a-gun-fight/)\n\nMore likely is that Vance – a weak, unimportant charisma-vacuum who is loathed by *all* of Trump's factions – will end up presiding over a *far* more chaotic period in American governance than *anything* that happened under Trump. That could mean ICE leaders ordering mass graves dug in the centers of America's largest cities, drunken generals invading random countries, podcasters declaring \"The Purge\" with brackets sponsored by Kalshi.\n\nThis isn't the first time in living memory that this has happened. In 1991 the Soviet Union collapsed, virtually overnight, and the fragile threads that bound its feuding, corrupt regional bosses all snapped, leaving behind nuclear-tipped mafia states. This was a chaotic and frightening time for the people whose governments had simply winked out of existence – but it was also terrifying for the rest of the world, who scrambled to secure those nukes before they could end up in the hands of \"non-state actors\":\n\n[https://www.hks.harvard.edu/publications/what-happened-soviet-superpowers-nuclear-arsenal-clues-nuclear-security-summit](https://www.hks.harvard.edu/publications/what-happened-soviet-superpowers-nuclear-arsenal-clues-nuclear-security-summit)\n\nThe Soviet Union had some deeply dysfunctional leadership politics to be sure, but at least the people involved were beholden to various power blocs who had an interest in keeping things going. As the geopolitics wonks say, \"they were playing an iterated game,\" where some losses had to be tolerated so that the losers could try to win the next time around.\n\nBut there are plenty of people who weren't (and aren't) playing iterated games – people who are even more unhinged, more reckless, more short-termist than the maniacs who filled the world with nuclear weapons. These people don't necessarily care if civilization or even the human race persists if they can't get their way. The thought of *them* running around with these \"weapons of mass destruction\" ratcheted up the half-century of stark nuclear terror that had preceded the USSR's collapse to new heights.\n\nWhich brings me to the post-Trump internet. Trump isn't the first president to figure out that the internet could be weaponized for geopolitical ends. As the Snowden disclosures showed, there has been a longstanding bipartisan consensus that the internet is a great tool for American surveillance, conducted against friend and foe alike.\n\nBut Trump *is* the first president to openly, directly recruit American tech companies to simply *brick* foreign officials who displease him, starting with the Chief Prosecutor of the International Criminal Court, who lost his Office 365 and Outlook accounts in retaliation for swearing out a genocide warrant for Netanyahu:\n\n[https://www.justiceinfo.net/en/156691-how-sanctions-can-weaponize-us-tech-against-the-icc.html](https://www.justiceinfo.net/en/156691-how-sanctions-can-weaponize-us-tech-against-the-icc.html)\n\nAnd then Microsoft obliged Trump again, attacking the Brazilian judge who sentenced Jair Bolsonaro to prison over his unsuccessful coup.\n\nAmerica's tech giants have fully, irrevocably fused with Trump. They donated to his campaign. Their CEOs each paid $1m out of their own pockets to sit behind him on the inauguration dais. Google provides location data for Trump's racist pogroms. Microsoft provides the administrative tools to carry them out. Oracle provides the databases. Apple blocks apps that warn its customers when they're about to be snatched:\n\n[https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply](https://pluralistic.net/2025/10/06/rogue-capitalism/#orphaned-syrian-refugees-need-not-apply)\n\nIn exchange, Trump got Canada and the UK to ditch their plans to levy a 3% tax on American tech giants; he got the EU to gut its privacy laws; he sanctioned EU officials who tried to regulate social media; and he's told the tech companies to go through EU officials' private messages, looking for anti-Big Tech partisans whom he will ban from ever entering the USA:\n\n[https://judiciary.house.gov/media/in-the-news/us-committee-demands-big-tech-share-private-comms-eu-officials](https://judiciary.house.gov/media/in-the-news/us-committee-demands-big-tech-share-private-comms-eu-officials)\n\nBig Tech has proved that its only principles are not paying taxes, invading your privacy, and not being broken up by antitrust enforcers:\n\n[https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/](https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/)\n\nTech companies will do *anything* for *any* leader who can guarantee those outcomes. There's no capitulation too petty and stupid for Big Tech:\n\n[https://people.com/apple-maps-joins-google-approving-trump-lake-america-change-12074262](https://people.com/apple-maps-joins-google-approving-trump-lake-america-change-12074262)\n\nAmerica no longer has allies or trading partners. America has rivals and enemies. Trump's coalition wants him to steal Iran, steal Venezuela, steal Cuba, steal Alberta, steal Canada, steal Greenland. They want him to help Israel steal Palestine and Lebanon. And as Trump considers this program of imperial conquest, he has started to tinker with one of the most devastating geopolitical weapons the world has ever seen: tech shutdowns.\n\nIf Trump wants Greenland, he can just order Microsoft to switch off Office 365 for the country and every ministry and significant firm will be shuttered in an instant, along with many households:\n\n[https://pluralistic.net/2026/04/04/digital-subjugation/#greenlands-next](https://pluralistic.net/2026/04/04/digital-subjugation/#greenlands-next)\n\nHe can order Apple and Google to shut off all of Denmark's phones. He can order John Deere to shut off all their *tractors*:\n\n[https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/](https://pluralistic.net/2022/05/08/about-those-kill-switched-ukrainian-tractors/)\n\n(One thing we *don't* need to worry about is Trump ordering OpenAI and Anthropic to switch off all of Europe's chatbots – sure, he *could* do that, but if he did, nothing important would break:)\n\n[https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize](https://pluralistic.net/2026/06/18/their-trillions-our-billions/#eyes-on-the-prize)\n\nAs weapons of mass destruction go, nukes are pretty stupid. The big ones destroy the territory you're trying to conquer and leave behind an uninhabitable radioactive wasteland. They send clouds of nuclear fallout swirling around the globe, potentially killing you or your allies. 80 years into the Nuclear Age, the best anyone's come up with is a neutron bomb, which only *kinda* renders territory uninhabitable while still killing everyone with massive radiation blasts.\n\nCompared to nukes, tech shutdowns are *amazing*. Thanks to Big Tech, America – and *only* America – can brick almost any country on earth, shutting down its administration, agriculture and industry without firing a single shot. The only thing that prevented this from happening was an American elite bloc that was playing an iterated game and saw more benefit from sharing in Big Tech profits as they looted and spied on the world, as opposed to grabbing territory while scaring the world into breaking all land-speed records to ditch American tech and pursue meaningful digital sovereignty.\n\nTrump's chuds and freaks are not bound by these constraints. They're perfectly happy to do Gunboat Diplomacy 2.0: Cloud Diplomacy, where everything from your smartphones to your payroll records can be seized at the click of a mouse, and your country had better fall in line. And Trump is a sick, frail old man, who is not long for this world. When he goes, all bets are off: America will be at the mercy of warring factions who will deploy the coercion and bribery that turned Big Tech into Trump's geopolitical weapon in order to achieve their own purposes – which might well be even stupider, crueler and more unhinged than Trump's.\n\nThere's only one way out of this mess: the rapid disassembly of the American internet and the rapid creation of a post-American internet, one built on open, auditable, sovereign digital public goods, internationally built and maintained:\n\n[https://pluralistic.net/2026/01/01/39c3/#the-new-coalition](https://pluralistic.net/2026/01/01/39c3/#the-new-coalition)\n\nIn its own way, the creation of this post-American internet is as urgent and as global as was the creation of the covid vaccines. But whenever I speak to powerful people about this, they ask the same question: \"What if this makes Trump mad?\"\n\nThis represents a grave failure to take this crisis seriously. Trump doesn't need to be \"mad\" to attack your country. Trump attacked Canada over its *wildfires*, accusing Canada of polluting America's air:\n\n[https://www.cbc.ca/news/politics/us-complaints-trump-widlfire-smoke-9.7274466](https://www.cbc.ca/news/politics/us-complaints-trump-widlfire-smoke-9.7274466)\n\nBut even if Trump *never* gets mad at you, that's *no guarantee* of safety. *Trump is not long for this world*, and his death or incapacity is no guarantee of the restoration of a \"normal\" America. And even *if* America finds its way to \"normal\" after Trump, that's no guarantee that it will *stay* normal. The armed, organized maniacs who have seized power in America and who are cheering him on as he rampages all over the world, kidnapping leaders and dropping bombs on schoolchildren are not going to dig a hole, crawl inside it, and pull the dirt down on top of themselves.\n\nBut let's say that we find ourselves in the best of worlds, where American fascism is comprehensively defeated and the country embarks on a years-long program of denazification:\n\n[https://pluralistic.net/2026/02/10/miller-in-the-dock/#denazification](https://pluralistic.net/2026/02/10/miller-in-the-dock/#denazification)\n\nEven in that amazing future, the world should *still* race to build a post-American internet. The world should have built that internet after the Snowden revelations. That ghastly failure created the Trumpian internet. If the post-Trump internet isn't a post-American internet, then it'll only be a matter of time until the next crisis comes along, and the coming years will give Big Tech even more chances to worm its tendrils into the world's governments, firms and households, making that crisis be even *harder* to survive. The best time to act was 13 years ago, after Snowden. The second best time is now.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- The Scandal That Could Break the Latin American Far Right [https://jacobin.com/2026/09/cerimedo-latin-america-far-right-disinformation](https://jacobin.com/2026/09/cerimedo-latin-america-far-right-disinformation)\n\n- \nBarrister's powerful speech at Filton Trial reminds jury of its right to defy judge [https://jonathancook.substack.com/p/barristers-powerful-speech-at-filton](https://jonathancook.substack.com/p/barristers-powerful-speech-at-filton)\n\n- \nSo the People May Sing. The Anthem Still Goes to Trial. [https://copyrightlately.com/corretjer-brown-public-domain-boricua-en-la-luna/](https://copyrightlately.com/corretjer-brown-public-domain-boricua-en-la-luna/)\n\n- \nNeo-ZIRP Slop in the Post-ZIRP Era [https://superbowlstevehunt.substack.com/p/neo-zirp-slop-in-the-post-zirp-era](https://superbowlstevehunt.substack.com/p/neo-zirp-slop-in-the-post-zirp-era)\n\n- \nWith the backlash to data centers, Flock and AI glasses, a mass opposition to big tech is underway. Silicon Valley is in denial. [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#retro))\n\n#25yrsago Barnum & Bailey hired an ex-CIA spook to destroy a critical journalist [https://web.archive.org/web/20010913192931/http://www.salon.com/news/feature/2001/08/30/circus/print.html](https://web.archive.org/web/20010913192931/http://www.salon.com/news/feature/2001/08/30/circus/print.html)\n\n#20yrsago Wired article about Wikipedia is on a editable wiki [https://web.archive.org/web/20060901030941/http://www.socialtext.net/wired/index.cgi](https://web.archive.org/web/20060901030941/http://www.socialtext.net/wired/index.cgi)\n\n#20yrsago Singapore will have nationwide WiFi by 2007 [https://web.archive.org/web/20060901191656/http://news.com.com/2100-1039_3-6110189.html](https://web.archive.org/web/20060901191656/http://news.com.com/2100-1039_3-6110189.html)\n\n#5yrsago Twitter Arguments [https://pluralistic.net/2021/08/29/twitter-arguments/](https://pluralistic.net/2021/08/29/twitter-arguments/)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Dąbrowa Górnicza, Kongres Regeneracja! to interdyscyplinarna, Sep 5\n\n[https://regeneracja.plse.org.pl/](https://regeneracja.plse.org.pl/)\n\n- \nWarsaw: Romana i Jana Podoskich, Sep 6\n\n[https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0](https://wydarzenia.phub.pl/events/0ee0e198-f843-423a-890f-c84ff50a46c0)\n\n- \nBrighton: The Reverse Centaur's Guide to Life After AI with Carole Cadwalladr (Brighton Dome), Sep 8\n\n[https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/](https://brightondome.org/whats-on/LSC-cory-doctorow-the-reverse-centaurs-guide-to-life-after-ai/)\n\n- \nLondon: The Reverse Centaur's Guide to Life After AI with Riley Quinn (Foyle's Picadilly), Sep 9\n\n[https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn](https://www.foyles.co.uk/events/enshittification-cory-doctorow-riley-quinn)\n\n- \nBudapest: Brain Bar, Sep 17\n\n[https://brainbar.com/munkatars/cory-doctorow](https://brainbar.com/munkatars/cory-doctorow)\n\n- \nEdmonton: Elbows Up (Edmonton Public Library), Sep 28\n\n[https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/](https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n- \nHudson, OH: Hudson Library, Oct 7\n\n[https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&amp;EventID=596952&amp;PK=](https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&amp;EventID=596952&amp;PK=)\n\n- \nCalgary: Wordfest, Oct 8\n\n[https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/](https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/)\n\n- \nWinnipeg: McNally Robinson, Oct 9\n\n[https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow](https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow)\n\n- \nVancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19\n\n[https://writersfest.bc.ca/festival-event-2026/01](https://writersfest.bc.ca/festival-event-2026/01)\n\n- \nVictoria: Munro's Books, Oct 20\n\n[https://www.munrobooks.com/events/6113620261020](https://www.munrobooks.com/events/6113620261020)\n\n- \nVancouver: Life After AI (Vancouver Writers Festival), Oct 22\n\n[https://writersfest.bc.ca/festival-event-2026/46](https://writersfest.bc.ca/festival-event-2026/46)\n\n- \nOttawa: Life After AI (Ottawa Writers Festival), Oct 24\n\n[https://writersfestival.org/event/life-after-ai](https://writersfestival.org/event/life-after-ai)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#recent))\n\n- How Tech Platforms Took Over the Economy (Dystopia Now)\n\n[https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy](https://sites.libsyn.com/566555/enshittification-and-reverse-centaurs-cory-doctorow-on-how-tech-platforms-took-over-the-economy)\n\n- \nHope, AI, Fixing the Internet and the Reverse Centaur of it all (Wilosophy)\n\n[https://podcastaddict.com/everyone-relax/episode/231414816](https://podcastaddict.com/everyone-relax/episode/231414816)\n\n- \nDeflating the AI Bubble (Do Not Pass Go)\n\n[https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory](https://www.donotpassgo.ca/p/deflating-the-ai-bubble-with-cory)\n\n- \nTechnofeudal Enshittification (Fucking Cancelled)\n\n[https://www.fuckingcancelled.com/p/technofeudal-enshittification-with](https://www.fuckingcancelled.com/p/technofeudal-enshittification-with)\n\n- \nWho The Machine Serves (EFF)\n\n[https://archive.org/details/effecting-change-who-the-machine-serves](https://archive.org/details/effecting-change-who-the-machine-serves)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/09/03/broken-arrows/#bragsheet))\n\nToday's top sources:\n\n**Currently writing:**\n\n**\n- “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 574 (7730 total).\n\n**- **\n****\"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/09/03/broken-arrows/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Thu, 03 Sep 2026 08:45:19 +0000",
+        "reading_time": 18,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Putting my JAX-trained models on the Hugging Face Hub - Writing the post that I wished I'd found when I started learning whatever it was... Archiv...",
+    "GPT‑6 Astra - 3rd September 2026 - Link Blog **[GPT‑6 Astra](https://openai.com/index/gpt-6-astra/)** ([...",
+    "Can We Stop With the Uptime Percentages? - I was reading Jason Gorman’s article [“The Wall Confronting Reliable Coding Agent Autonomy...",
+    "You Should be Using Rootless Containers - The other day a serious vulnerability was disclosed in one of the newer Linux distribution...",
+    "Second Quest - **Last year, I wrote about [MapQuest](https://tedium.co/2025/05/13/mapquest-maps-history/)..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 6
+    },
+    {
+      "word": "basic",
+      "count": 5
+    },
+    {
+      "word": "com",
+      "count": 5
+    },
+    {
+      "word": "hugging",
+      "count": 4
+    },
+    {
+      "word": "face",
+      "count": 4
+    },
+    {
+      "word": "code",
+      "count": 4
+    },
+    {
+      "word": "housing",
+      "count": 4
+    },
+    {
+      "word": "astra",
+      "count": 4
+    },
+    {
+      "word": "product",
+      "count": 3
+    },
+    {
+      "word": "rsa",
+      "count": 3
+    },
+    {
+      "word": "veel",
+      "count": 3
+    },
+    {
+      "word": "vulnerability",
+      "count": 3
+    },
+    {
+      "word": "openai",
+      "count": 3
+    },
+    {
+      "word": "models",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "phil",
+      "count": 2
+    },
+    {
+      "word": "schiller",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "app",
+      "count": 2
+    },
+    {
+      "word": "store",
+      "count": 2
+    },
+    {
+      "word": "events",
+      "count": 2
+    },
+    {
+      "word": "apple",
+      "count": 2
+    },
+    {
+      "word": "number",
+      "count": 2
+    },
+    {
+      "word": "factored",
+      "count": 2
+    },
+    {
+      "word": "today",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "http",
+      "count": 2
+    },
+    {
+      "word": "signatures",
+      "count": 2
+    },
+    {
+      "word": "reading",
+      "count": 2
+    },
+    {
+      "word": "wall",
+      "count": 2
+    },
+    {
+      "word": "microsoft",
+      "count": 2
+    },
+    {
+      "word": "released",
+      "count": 2
+    },
+    {
+      "word": "open",
+      "count": 2
+    },
+    {
+      "word": "source",
+      "count": 2
+    },
+    {
+      "word": "september",
+      "count": 2
+    },
+    {
+      "word": "commodore",
+      "count": 2
+    },
+    {
+      "word": "de",
+      "count": 2
+    },
+    {
+      "word": "nieuwe",
+      "count": 2
+    },
+    {
+      "word": "aivd",
+      "count": 2
+    },
+    {
+      "word": "mivd",
+      "count": 2
+    },
+    {
+      "word": "ik",
+      "count": 2
+    },
+    {
+      "word": "en",
+      "count": 2
+    },
+    {
+      "word": "discovery",
+      "count": 2
+    },
+    {
+      "word": "remediation",
+      "count": 2
+    },
+    {
+      "word": "daybreak",
+      "count": 2
+    },
+    {
+      "word": "st",
+      "count": 2
+    },
+    {
+      "word": "century",
+      "count": 2
+    },
+    {
+      "word": "road",
+      "count": 2
+    },
+    {
+      "word": "act",
+      "count": 2
+    },
+    {
+      "word": "affect",
+      "count": 2
+    },
+    {
+      "word": "supply",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "putting",
+      "count": 2
+    },
+    {
+      "word": "gpt",
+      "count": 2
+    },
+    {
+      "word": "gpt-",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "sep",
+      "count": 2
+    }
+  ]
+}
