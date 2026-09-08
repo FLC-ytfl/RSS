@@ -1,0 +1,656 @@
+{
+  "date": "2026-09-08",
+  "stats": {
+    "total_fetched": 277,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 25,
+    "long_articles": 5
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "OpenNMC is an open replacement for expensive APC management cards",
+        "summary": "UPSes are typically the most boring part of your homelab, but they're important. One of their main jobs is to give servers time to shut down safely if the power goes out. Another job is to condition your power so your se...",
+        "url": "https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/",
+        "source": "Jeff Geerling",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 08 Sep 2026 11:00:00 -0500",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Navier-Stokes in the news",
+        "summary": "There are rumors that a long-standing math problem, one of the Millennium Prize problems, has been solved. The problem concerns technical properties of solutions to the Navier-Stokes equations [1], a set of equations tha...",
+        "url": "https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/",
+        "source": "John D. Cook",
+        "tags": [
+          "Mobile"
+        ],
+        "published_at": "Tue, 08 Sep 2026 15:26:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Concentration Risk",
+        "summary": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, $18 a quarter, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 10,000 to 18,000 words, includ...",
+        "url": "https://www.wheresyoured.at/concentration-risk/",
+        "source": "Ed Zitron's Where's Your Ed At",
+        "tags": [
+          "AI/ML"
+        ],
+        "published_at": "Tue, 08 Sep 2026 14:28:03 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+        "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping...",
+        "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+        "source": "Krebs on Security",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "Tue, 08 Sep 2026 21:44:22 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "‘Modern Day Typographer’",
+        "summary": "There are good Elle Cordova videos, and there are great ones. (Last mentioned here for her “Fonts Hanging Out” trilogy.) ★",
+        "url": "https://www.youtube.com/watch?v=0Ck-NPqf2c8",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "2026-09-08T22:57:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "ActivityPub - Is it worth defending against replay attacks and message/signature time skew?",
+        "summary": "Here's a problem that I've found with ActivityBot - my little ActivityPub server. Sometimes it receives messages which were originally sent months ago. Why does that happen and is it risky to accept and process them? My...",
+        "url": "https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 08 Sep 2026 11:34:51 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A sample use of the winstart.bat file in Windows 95",
+        "summary": "For a driver that needs high resolution mode only in Windows. The post A sample use of the <CODE>winstart.bat</CODE> file in Windows 95 appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 08 Sep 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What happened to Compuserve?",
+        "summary": "Compuserve was an online service for dialup modems from the 1970s to the 1990s. It was a way of getting online and communicating with others before the Internet was generally available to individuals. Later, it became a...",
+        "url": "https://dfarq.homeip.net/what-happened-to-compuserve/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-compuserve",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 08 Sep 2026 11:00:10 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+        "summary": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum conn...",
+        "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Tue, 08 Sep 2026 13:10:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Pretraining progress is mostly coming from data",
+        "summary": "Breaking down 6 years of pretraining progress into data vs model improvements",
+        "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+        "source": "Dwarkesh Podcast",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 08 Sep 2026 16:10:16 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-08T23:44:41.221Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "★ SuperDuper 4",
+        "summary": "I have mentioned and recommended [Shirt Pocket’s Mac backup app SuperDuper](https://www.shirt-pocket.com/superduper4.php) quite [a few times](https://daringfireball.net/search/super+duper) over the ye",
+        "content": "I have mentioned and recommended [Shirt Pocket’s Mac backup app SuperDuper](https://www.shirt-pocket.com/superduper4.php) quite [a few times](https://daringfireball.net/search/super+duper) over the years, and for good reason: it performs very important functions very well. Version 4, which shipped just over a month ago, is an extraordinary update to an extraordinary app.\n\nVisually, the interface is all new. That took some getting used to, but not much. It didn’t take long for me to see how the new UI is better in every way. The style of presentation is new and modern, but the core idea remains the same: the interface of SuperDuper is self-explanatory. It explains what, exactly, is going to happen. It remains a marvel of clarity, especially when you consider the complexity of what it does.\n\nFunctionally, SuperDuper 4 is also much improved. SuperDuper has never been slow, but now some copy operations are over 2× faster. Scheduling options are more powerful. You don’t need to worry about the details to use SuperDuper, but the details are there for your inspection.\n\nShirt Pocket’s Dave Nanian designed it, implemented it, and [thoroughly documented](https://www.shirt-pocket.com/guide.php) it. I don’t know how that’s possible. SuperDuper feels like impossibly good software. Read his post [announcing version 4](https://www.shirt-pocket.com/blog/supererduperer) to start, then catch up on [the rest of the blog](https://www.shirt-pocket.com/blog/) to get a feeling for how much work he’s put into SuperDuper 4. Just extraordinary.\n\nIn the 22 years since SuperDuper first shipped, Shirt Pocket has never charged for updates and never raised the price. (This too seems impossible, at least for a company that remains in business.) Version 4 costs $44 — an astonishing value — and discounts are available for anyone who bought version 3 after July 2020. Sans license, free of charge, SuperDuper 4 still allows you to make bootable backups.\n\nI recommend SuperDuper 4 wholeheartedly.\n\n**See also:** [Dan Moren at Six Colors](https://sixcolors.com/post/2026/08/review-superduper-4-gets-a-stem-to-stern-revamp-but-is-just-as-seaworthy-as-ever/) and [Michael Tsai](https://mjtsai.com/blog/2026/08/13/superduper-4/).",
+        "url": "https://daringfireball.net/2026/09/superduper_4",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-09-08T14:55:20.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Introducing ChatGPT Images 2.5",
+        "summary": "8th September 2026 - Link Blog\n\n**[Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)**. OpenAI's image generation models are apparently used \"more than 3 billio",
+        "content": "8th September 2026 - Link Blog\n\n**[Introducing ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)**. OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\".\n\nThere are two new model IDs in the API: `gpt-image-2.5-sunburst` and `gpt-image-2.5-flare`. Based [on this](https://developers.openai.com/api/docs/guides/image-generation#overview) I think Sunburst is the stronger option:\n\n> Choose Sunburst for workflows where editing precision matters most, and Flare for fast, high-quality everyday image generation.\n\nI [upgraded](https://github.com/simonw/tools/pull/333) my [openai_image.py](https://tools.simonwillison.net/python/#openai_imagepy) CLI tool to support passing in one or more reference images, so now this works:\n\nuv run https://tools.simonwillison.net/python/openai_image.py \\\n  'add a raccoon scientist studying the chart thoughtfully' \\\n  -i https://static.simonwillison.net/static/2026/openai-agent-usage.webp \\\n  -m gpt-image-2.5-sunburst\n\nThis is the [original image](https://static.simonwillison.net/static/2026/openai-agent-usage.webp), and here's what I got back from that prompt to \"add a raccoon scientist studying the chart thoughtfully\":\n\n![](https://static.simonwillison.net/static/2026/racoon-chart.webp)",
+        "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-09-08T22:46:33.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "The Bulldozing of an Interface",
+        "summary": "Marcin Wichary has a lovely article titled [“Photoshop’s challenges with focus, pt. 2”](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/). If you’re into the minutiae of interface de",
+        "content": "Marcin Wichary has a lovely article titled [“Photoshop’s challenges with focus, pt. 2”](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/). If you’re into the minutiae of interface design, this is a good ‘un. It perfectly illustrates how impossible it is to try and compare two interfaces side by side as static images.\n\nWhat matters in an interface is how it works, i.e. how you interface with it.\n\nAnd when you bulldoze an interface to build a new one, comparing the old vs. new side-by-side to make sure you “captured everything” is a lie. It’s never obvious what has been lost because the interactive pieces are missing from the static images — and those are what matter most because it’s how the feature works!\n\nI’ve found this to be true a lot as of late. Lots of tiny details that were meticulously crafted over years with specific rationales tied to real-world use cases, all completely bulldozed in a giant refactor. (All made possible by the great omniscient power of AI.)\n\nFew notice what’s gone because few can see what’s being lost in the first place.",
+        "url": "https://blog.jim-nielsen.com/2026/bulldoze-ui/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "Product",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 08 Sep 2026 19:00:00 GMT",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "What’s new in git-pkgs",
+        "summary": "I’m on holiday this week, so here’s a listicle.\n\nBack in February I [wrote up the fourteen Go modules](https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling) behind [git-pkgs](https:",
+        "content": "I’m on holiday this week, so here’s a listicle.\n\nBack in February I [wrote up the fourteen Go modules](https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling) behind [git-pkgs](https://github.com/git-pkgs/git-pkgs), a git subcommand for exploring dependency history. The org now has around forty-five repositories: ten standalone tools, around thirty library modules, and the GitHub Actions and agent skills that wire them into CI and coding assistants. Several of the tools have had their own posts here already ([brief](https://nesbitt.io/2026/04/21/brief), [proxy](https://nesbitt.io/2026/05/11/proxy), [forge](https://nesbitt.io/2026/03/13/forge), [actions](https://nesbitt.io/2026/03/11/git-pkgs-actions)), so for those I’ll cover what’s changed since.\n\n### [git-pkgs](https://github.com/git-pkgs/git-pkgs)\n\nThe main CLI has gone from v0.14 to v0.20 and added eight new subcommands:\n\n  - `git pkgs changelog <pkg>` fetches the upstream changelog and shows entries between two versions\n\n  - `git pkgs freshness` reports how many days behind the latest release each dependency is\n\n  - `git pkgs deprecated` checks installed versions against registry deprecation flags\n\n  - `git pkgs funding` lists sponsorship links for your dependencies, with `--missing` to invert\n\n  - `git pkgs maintainers` reports maintainer counts and names, with `--single` to find one-person projects\n\n  - `git pkgs health` scores each dependency’s project against [ecosyste.ms](https://ecosyste.ms/) metadata\n\n  - `git pkgs provenance` reports registry attestations and trusted-publishing status for npm, PyPI, and RubyGems\n\n  - `git pkgs replace` redirects a dependency to a local checkout or git ref for downstream testing\n\nEight ecosystems were added: Guix, pre-commit, Lean, opam, Chef, Helm, Solaris IPS, and Vagrant. The GitHub Actions ecosystem gained lockfile support via `.github/workflows/actions.lock`, and existing parsers now handle `conda-lock.yml`, `Directory.Packages.props`, `setup.cfg`, `compose.yml`, `go.graph`, and several Maven graph exports.\n\n`git pkgs licenses` added `--drift` to flag packages whose license changed between the installed and latest versions, and `--license-text` to download package archives and scan the actual license files inside them, independent of any package manager. `git pkgs diff` gained `--stat`, `--summary`, and `--by=ecosystem` for comparing across a lockfile migration such as `package-lock.json` to `pnpm-lock.yaml`.\n\nRelease checksums are now signed with cosign v4 bundles, and the formula moved into homebrew-core, so installation is just `brew install git-pkgs`.\n\n### [brief](https://github.com/git-pkgs/brief)\n\nI [wrote about brief in April](https://nesbitt.io/2026/04/21/brief) when it was a knowledge base of project conventions with a CLI in front of it. It’s since gained `brief inspect`, which produces a full artifact report for a package, and `brief outline`, which reduces a source tree to signatures and imports for feeding to an LLM. The knowledge base now covers over 570 tools, with new detectors for native-extension toolchains (Rust extensions for Node, Python, Ruby, and BEAM), scientific and research tooling, agent instruction files, and issue templates. It now recurses into workspaces and optionally into submodules. [Scrutineer](https://nesbitt.io/2026/06/25/scrutineer) runs it as the first step of every scan to profile the target repository.\n\n### [proxy](https://github.com/git-pkgs/proxy)\n\nThe [caching registry proxy from May](https://nesbitt.io/2026/05/11/proxy) now supports 25 registry protocols, up from 16, adding Alpine APK, Helm, Homebrew (JSON API and bottles), the Swift package registry, and a generic HTTP proxy for GitHub release assets so tools like mise and aqua can point at it. It now has a web UI, a GCS storage backend, ECR upstream auth, a Helm chart, and an artifact scanning hook that runs Trivy, ClamAV, or a custom scanner against every download and can block or just log. Cooldowns are enforced on artifact downloads as well as metadata.\n\n### [forge](https://github.com/git-pkgs/forge)\n\nThe [multi-forge library and CLI from March](https://nesbitt.io/2026/03/13/forge) has added Bitbucket Cloud, Gerrit, and [Tangled](https://tangled.org/) adapters alongside the original GitHub, GitLab, and Gitea/Forgejo. The CLI gained `forge pr checkout`, `forge pr view` for the current branch, `forge branch show-base`, and `--push` on `forge pr create`. It now derives the host from the git remote, supports plain-HTTP self-hosted instances, and handles GitLab nested group paths and agit-flow.\n\n### [pin](https://github.com/git-pkgs/pin)\n\nVendors browser assets into your repository without going through npm: you list the files you want from published packages in `pin.yaml`, `pin sync` fetches them, verifies each against the registry tarball hash, and commits them alongside a lockfile that is also a valid CycloneDX SBOM. Sources are npm by default, `github:` via jsDelivr with the tag resolved to a commit SHA, or a raw URL with trust-on-first-use. A 48-hour minimum release age is on by default, install scripts are never executed, and `--frozen` fails CI if the lock is stale.\n\n### [capcheck](https://github.com/git-pkgs/capcheck)\n\nFails CI when your Go code or one of its dependencies gains access to a new privileged operation, such as spawning processes, opening sockets, or calling into cgo. It wraps [google/capslock](https://github.com/google/capslock), diffs against a committed `capcheck.lock.json` baseline, and ships as both a binary and a GitHub Action. `capcheck init ./...` records the baseline, `capcheck ./...` checks it, and `capcheck update ./...` accepts a change.\n\n### [licenses](https://github.com/git-pkgs/licenses)\n\nA license scanner built on [ScanCode’s rule corpus](https://github.com/aboutcode-org/scancode-toolkit), compiled into a single 18 MB Go binary. ScanCode is the reference implementation for license detection but it’s a 710 MB Python install (413 MB of which is a pre-built Lucene-style index) that forks several worker processes each with over a gigabyte of RSS, which makes it awkward to embed in other tools or run on every push. `licenses` embeds the same rule set at build time and matches license texts and longer notices across variable words such as copyright holders and years. It runs [ScanCode’s own conformance suite](https://github.com/git-pkgs/licenses#conformance) with tracked differences. On a checkout of [rust-lang/cargo](https://github.com/rust-lang/cargo) (2,950 files, 8-core M1 Pro, default flags) it finishes in 0.65 s and 239 MB peak RSS against scancode -l 32.5.0’s 94 s and 4.5 GB across nine processes, roughly 145× faster and 19× lighter.\n\n`licenses .` scans a directory and reports SPDX expressions per file plus a rolled-up expression for the tree; `-json` includes declared licenses from any supported manifests alongside the detected ones. It’s also the library behind `git pkgs licenses --license-text` and git-spdx.\n\n### [git-spdx](https://github.com/git-pkgs/git-spdx)\n\nTraces detected licenses across a repository’s git history, reporting when an expression changed, a matched file was added or removed, or an `SPDX-License-Identifier` declaration appeared or disappeared, with the commit and path behind each change. It runs the `licenses` matcher against every unique blob in the object store once and diffs the results across commits, so content that appears in many revisions is matched once. On the cargo repository (23,190 commits, 1.3 GB of historical blobs, 8-core M1 Pro) a full history scan takes 4.05 s and 2.12 GiB peak RSS with the default `git cat-file` backend, or 3.57 s and 614 MiB with an in-process go-git v6 backend that runs without a git executable.\n\n`git spdx log` reports the change events, with `--group root|legal|other` to filter to top-level license files, subdirectory legal files including vendored copies, or everything else, and `git spdx scan` prints an expression histogram for the whole history.\n\n### [downstream](https://github.com/git-pkgs/downstream)\n\nTests a library against the projects that depend on it. `downstream run --upstream-path .` clones dependents from the ecosyste.ms API or a hand-curated `downstream.toml`, runs their tests against the published version to establish a baseline, swaps in your local checkout via the manager’s replace mechanism, reruns, and reports what the change breaks. Go, Cargo, and npm-family are wired up so far, with a `--github-output` flag that emits an Actions matrix for fanning the runs out across CI.\n\n### [distill](https://github.com/git-pkgs/distill)\n\nWorks out what kind of project a repository is (web framework, ORM, CLI tool, test library, and so on through the [oss-taxonomy](https://github.com/ecosyste-ms/oss-taxonomy) vocabulary) by looking at the code rather than the README, since READMEs are marketing and easy to game. It uses an LLM to label a training corpus once, then ships a small classifier that runs offline inside brief with no model calls at scan time. `distill classify pkg:pypi/torch` runs the full LLM path directly if you want the slower, more accurate answer for a single package.\n\n## Utilities\n\n[actions](https://github.com/git-pkgs/actions) packages the CLI as reusable GitHub Actions (`setup@v1`, `diff@v1`, `vulns@v1`, `licenses@v1`) with annotations and job summaries. I [wrote it up in March](https://nesbitt.io/2026/03/11/git-pkgs-actions). [skills](https://github.com/git-pkgs/skills) is a Claude Code plugin that instructs an agent to run brief and git-pkgs before touching a repository, so it starts with the toolchain and dependency picture already in context, and adds skills for driving forge, pin, and capcheck.\n\n## New modules\n\n### Provenance\n\nRecording where a package came from and verifying its integrity turned out to need five separate pieces, mostly because the existing Go options bundle parsing and verification together and pull in a lot of transitive dependencies to do it.\n\n[attestation](https://github.com/git-pkgs/attestation) parses SLSA Provenance v1 identity fields (builder ID, source repository, source revision) out of a sigstore bundle’s DSSE envelope using only the standard library. It only parses: `git pkgs provenance` and the registries client want to record what a registry claims about a package while keeping TUF, Fulcio, and Rekor out of downstream dependency trees.\n\n[sigstore](https://github.com/git-pkgs/sigstore) is the verifying half, a thin wrapper around [sigstore-go](https://github.com/sigstore/sigstore-go) that checks a bundle against the TUF trust root and returns the certificate identity, Rekor log inclusion time, and in-toto subjects. It’s a separate module so the heavy dependency tree is opt-in.\n\n[integrity](https://github.com/git-pkgs/integrity) parses Subresource Integrity strings in the various encodings registries emit them in (standard base64, URL-safe, padded and unpadded) and wraps an `io.Reader` so a download is hashed and checked against an expected digest as it streams, picking the strongest algorithm both sides have.\n\n[artifacts](https://github.com/git-pkgs/artifacts) is the value type that ties these together: a PURL, an OCI-form `sha256:...` digest, and a byte count, with validation only. `registries` produces one on download, `archives` opens it, and the SBOM writers consume it.\n\n[cooldown](https://github.com/git-pkgs/cooldown) is the version-age filter lifted out of proxy so update bots and other clients can share the same policy code. Given a publish timestamp and a config it reports whether a version is old enough to install yet, resolving package-specific overrides ahead of ecosystem defaults ahead of a global floor. Both pin’s 48-hour default and proxy’s version hiding call it.\n\n### Formats\n\n[sbom](https://github.com/git-pkgs/sbom) reads CycloneDX JSON and SPDX JSON (including documents wrapped in `{\"sbom\":...}` or in-toto `{\"predicate\":...}` envelopes) into one document model and writes CycloneDX JSON, CycloneDX XML, and SPDX JSON back out. It’s a zero-dependency alternative to [protobom](https://github.com/protobom/protobom) for tools that only need the package list, and `git pkgs sbom` now uses it in place of hand-rolled structs.\n\n[sarif](https://github.com/git-pkgs/sarif) does the equivalent for SARIF 2.1.0 static-analysis logs, with types generated from the OASIS schema and a validator, backing `git pkgs vulns scan -f sarif`.\n\n[cwe](https://github.com/git-pkgs/cwe) embeds the MITRE CWE catalogue at build time for offline lookup of weakness names and [View-1400](https://cwe.mitre.org/data/definitions/1400.html) software-assurance categories, refreshed by a monthly workflow. [Scrutineer](https://github.com/alpha-omega-security/scrutineer) uses it to classify and group findings.\n\n### Licensing\n\n[licenses](https://github.com/git-pkgs/licenses) is also importable as a library, which is how it’s mostly used across the org. `git pkgs licenses --license-text` calls `matcher.Match` directly, and proxy is [about to do the same](https://github.com/git-pkgs/proxy/issues/312) so cached artifacts get a persisted license report exposed in the API and web UI, with a [policy hook](https://github.com/git-pkgs/proxy/issues/313) that can block a fetch on a disallowed expression. Because the corpus is embedded and the matcher is a plain Go value, adding license detection to another tool is one `go get` and a function call.\n\n[reuse](https://github.com/git-pkgs/reuse) handles the other way projects declare licensing: it parses [REUSE spec](https://reuse.software/) v3.3 projects, reading SPDX identifiers and copyright lines from file-header comments, `.license` sidecar files, `REUSE.toml` annotations, and legacy `.reuse/dep5` globs, and returns the effective license per path. Between the two, brief can report a project’s licensing whether it’s declared in structured metadata or only present as text.\n\n### Content\n\n[magic](https://github.com/git-pkgs/magic) is content-type detection that works on a bounded prefix as well as a whole file, which matters when you’re reading blobs out of a bare git repository or a tarball entry and would rather avoid buffering all of a 40 MB PNG to identify it. It reports a format, MIME type, text encoding, and whether it needs more bytes to classify, covering archives, executables (ELF, Mach-O, PE, WebAssembly), images, PDF, and structured text, in pure Go using only the standard library. brief, clone, and archives all use it for extensionless files.\n\n[markup](https://github.com/git-pkgs/markup) renders README-style markup to HTML by file extension: Markdown and Org handled natively, AsciiDoc, reStructuredText, and Pod by shelling out to their reference tools if installed, and a registry for plugging in Textile, MediaWiki, Creole, or RDoc renderers. It exists so tools that show a package’s README share one format-dispatch table.\n\n### Source\n\n[outline](https://github.com/git-pkgs/outline) reduces a source tree to something an LLM can hold in context: function and method bodies dropped, signatures, types, doc comments, and imports kept, unsupported files passed through unchanged. It has body-stripping tree-sitter queries for 35 languages and import extraction for 20 of them, running in pure Go at around 6 MB/s per core, and it’s what `brief outline` calls. distill uses its identifier extraction as classifier features.\n\n[provides](https://github.com/git-pkgs/provides) is an early attempt at closing the gap between what a package is called on a registry and what you write in an `import` statement: `PyYAML` provides `yaml`, `beautifulsoup4` provides `bs4`, a Maven artifact provides several Java package prefixes. So far it has curated mappings for a handful of well-known Python cases and archive resolvers that open a wheel, jar, npm tarball, crate, or Go module and read the answer out of the file layout. Vulnerability tooling needs this to work out whether an advisory against a package name actually reaches the code that imports it.\n\n### Repository\n\n[clone](https://github.com/git-pkgs/clone) is what every tool in the org that needs a local checkout now goes through. It handles shallow clone and fetch with retries, reset to a ref, tag checkout that returns a restore function, submodule init, and a `Cache` type that keeps checkouts under one root keyed by URL. Reads go through `os.Root` so a hostile repository stays confined to its directory, refs and paths are validated before they reach a `git` argument list, and a bounded `InspectBlob` classifies file content via `magic` directly from the object store. brief, dependents, and Scrutineer use it directly, downstream through dependents.\n\n[dependents](https://github.com/git-pkgs/dependents) finds repositories that depend on a package via the ecosyste.ms API, deduplicates by repository while keeping the package-level edges, ranks them, and can detect which ones build native extensions (Maturin, napi-rs, Neon, rb-sys, Rustler, setuptools-rust) so downstream can pick a representative test set.\n\n### Maven\n\nMaven’s dependency metadata is spread across a chain of parent POMs, imported BOMs, profiles, and `${property}` references, and most Go tooling either shells out to `mvn` or parses only the top-level file.\n\n[pom](https://github.com/git-pkgs/pom) does effective-POM resolution in pure Go, walking parents and BOM imports through a one-method `Fetcher` interface, applying `dependencyManagement` and property interpolation, and tagging each dependency with how confidently its version was resolved. I built it because [packages.ecosyste.ms](https://packages.ecosyste.ms/) was shelling out to `mvn` from Sidekiq workers to extract Maven dependencies, and spinning up a JVM per job was too slow and too heavy on memory to keep up with the queue; the workers now call the `pom` binary instead. Scrutineer uses it for the same job.\n\n[nexus](https://github.com/git-pkgs/nexus) reads the Maven repository index format (the binary Lucene-derived chunks Nexus and Central publish) in pure Go, streaming artifact add and remove events in publication order with resumable checkpoints. I built it to replace the Maven indexer in [packages.ecosyste.ms](https://packages.ecosyste.ms/), which currently has to shell out to Java; that swap is pending.\n\n### Storage\n\n[gcs](https://github.com/git-pkgs/gcs) is a Google Cloud Storage client that calls the JSON API directly with only `compute/metadata` and `oauth2` as dependencies, covering `Open`, `Write`, `Delete`, `Exists`, `ListPrefix`, and V2 signed URLs. proxy’s GCS storage backend is built on it because pulling in the full Cloud SDK roughly doubled the binary size.\n\n## Updates\n\nSince February twelve of the original fourteen modules have changed (forge is covered above):\n\n  - [manifests](https://github.com/git-pkgs/manifests) now covers 47 ecosystems and added `DiscoverManifests` and `DiscoverVendors` for repository-wide manifest and vendor-directory discovery, plus a `Declaration` API exposing raw source references (git, path, URL) before resolution\n\n  - [registries](https://github.com/git-pkgs/registries) added Helm repositories, a `fetch` sub-package for streaming artifact downloads with retry and circuit-breaking, `FetchObserved` returning the final URL and content digests, and a `safehttp` transport that rejects private-network upstreams\n\n  - [vers](https://github.com/git-pkgs/vers) added Bazel, Composer, Pub, PEP 440, and apk-tools version schemes, plus `HighestSatisfying` and a conformance suite harvested from univers\n\n  - [archives](https://github.com/git-pkgs/archives) added zstd, `.conda`, and extensionless-archive detection, `ExtractAll` confined with `os.Root`, per-archive byte and entry limits, and a `diff` sub-package for comparing two archive versions; it now powers [archives.ecosyste.ms](https://archives.ecosyste.ms/)\n\n  - [enrichment](https://github.com/git-pkgs/enrichment) added an [endoflife.date](https://endoflife.date/) client, downloads, dependent, funding, and maintainer fields, and made `HybridClient.BulkLookup` run its backends concurrently\n\n  - [managers](https://github.com/git-pkgs/managers) added `init` for 30 managers, `replace` (which backs `git pkgs replace` and downstream), and a renv definition for R\n\n  - [spdx](https://github.com/git-pkgs/spdx) added identifier rewriting and a syntax-only parse mode for expressions with unknown identifiers\n\n  - [changelog](https://github.com/git-pkgs/changelog) added `FetchAndParse` for remote changelogs and version-range filtering\n\n  - [gitignore](https://github.com/git-pkgs/gitignore) added `WalkFrom` for walking a subdirectory while still applying ancestor `.gitignore` rules\n\n  - [resolve](https://github.com/git-pkgs/resolve) added end-to-end `ResolveDeps` and manifest writers for pub, mix, and lein\n\n  - [purl](https://github.com/git-pkgs/purl) added OSV ecosystem mappings and Swift registry identity handling\n\nThe design constraints are the same as in February: each module is small, has a narrow job, avoids cgo so it cross-compiles cleanly, and covers every ecosystem the underlying format allows. Several of them line up with an [ecosyste.ms](https://ecosyste.ms/) service (registries with packages, forge with repos, enrichment with the aggregate API, dependents with the dependents endpoint) and can use it as a fast path, but each also works standalone against a registry or a git remote directly. Almost everything is MIT licensed and hosted at [github.com/git-pkgs](https://github.com/git-pkgs).",
+        "url": "https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "2026-09-08T09:00:00.000Z",
+        "reading_time": 15,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Automatically detecting AI text in my browser",
+        "summary": "Automated AI text detection is currently an underserved niche. The only game in town is [Pangram](https://www.pangram.com/), which does an excellent job but desperately needs more competition. In a fe",
+        "content": "Automated AI text detection is currently an underserved niche. The only game in town is [Pangram](https://www.pangram.com/), which does an excellent job but desperately needs more competition. In a few years, I would be surprised if every major social network doesn’t scan new posts[1](#fn-1) and comments for AI content in order to tag them (or simply remove them).\n\nI like that I can rely on Pangram to confirm my suspicions when I read [something](https://arxiv.org/abs/2609.03344) that sounds like AI. But it’d be much better if I could choose to avoid AI-generated text in the first place. What I want is something that runs in the background and automatically scans text on websites I visit, without me having to ask for it. I could build something like this on top of Pangram, but it’d [cost money](https://www.pangram.com/pricing), and in general I don’t like the idea of sending every piece of text my browser sees to a third-party service. What about local models?\n\nThe open-source models available for AI text detection are *fine*. Pangram [claims](https://www.pangram.com/blog/pangram-4-technical) a 99.66% detection rate with a 0.004% false positive rate. I benchmarked[2](#fn-2) a bunch of small local models against a combination of AI-detection datasets and got these results:\n\nModel / variant\nHuman falsely flagged\nAI-involved text caught\n\n**[Gradient — MLX 4-bit](https://huggingface.co/ShantanuT01/gradient-ai-text-detector)**\n**2.712%**\n**52.35%**\n\n[EditLens RoBERTa-large — community INT8](https://huggingface.co/benreeve/editlens-roberta-large-onnx-int8)\n2.484%\n56.06%\n\n[Vanguard](https://huggingface.co/ShantanuT01/vanguard-ai-text-detector)\n2.267%\n44.92%\n\n[Desklib](https://huggingface.co/desklib/ai-text-detector-v1.01)\n3.008%\n45.04%\n\n[Raschka DistilBERT](https://huggingface.co/rasbt/ai-text-detector-distilbert)\n2.598%\n39.01%\n\n[Raschka Qwen3-0.6B](https://huggingface.co/rasbt/ai-text-detector-qwen3-0.6b-variable)\n2.028%\n28.67%\n\n[Raschka ModernBERT](https://huggingface.co/rasbt/ai-text-detector-modernbert)\n1.698%\n21.58%\n\n[TMR / Oxidane — INT8](https://huggingface.co/onnx-community/tmr-ai-text-detector-ONNX)\n1.595%\n19.35%\n\nI’m not surprised these are so much worse. I didn’t even benchmark Pangram’s own EditLens 3B model, since that’s too big to keep running in the background on my laptop, and the real production Pangram model is likely one or two orders of magnitude bigger than that. But these models are still good enough to be useful to someone who understands their limitations. If you want to flag an AI-written article, you don’t need to flag all of it, just enough to be suspicious. And so long as you’re aware that the false-positive rate is ~2%, you can avoid treating a single flag as solid proof of AI use.\n\nEncouraged by this, I vibed up [Deckard](https://github.com/sgoedecke/deckard): a Chrome extension that talks to a locally-running model (the bolded one in the table above) on your Mac. One nice thing is that I didn’t have to start a web server: the Chrome extension is happy to start the model as-needed and can talk with it over [native messaging](https://developer.chrome.com/docs/extensions/develop/concepts/native-messaging). It uses about 400MB-1.2GB of memory while active (so it’s like having five or six extra Chrome tabs open), and it turns itself off if you go five minutes without using the model.\n\nI was pleasantly surprised to see Deckard successfully mark text I knew was AI-generated, such as the built-in YouTube AI summary or the AI [snippets](https://seangoedecke.com/ai-research-with-codex/) in my own posts:\n\n      [\n    \n  ![](https://seangoedecke.com/static/d9c4176cc00bde9a34ef2c29ad9e54cb/fcda8/example2.png)\n  ](https://seangoedecke.com/static/d9c4176cc00bde9a34ef2c29ad9e54cb/c549b/example2.png)\n    \n\n      [\n    \n  ![](https://seangoedecke.com/static/9ddabc445cc492c847dc6b178801cd3c/fcda8/example1.png)\n  ](https://seangoedecke.com/static/9ddabc445cc492c847dc6b178801cd3c/07d7d/example1.png)\n    \n\nIt’s lightweight enough that I have it running all the time. I haven’t noticed my MacBook Pro get hot at all or any decrease in battery life, though your mileage may vary on different machines.\n\nIs Deckard good yet? That depends. It’s good enough that I’m planning to use it, and I recommend it to anyone who’s interested in automatic AI checking. It’s way, way worse than Pangram, and way worse than I think tooling like this is going to be in the next few years.\n\nWay back in November 2023, I [wrote](https://www.seangoedecke.com/llm-driven-agents/) that AI-driven agents were going to be a really big deal. I recommended starting to develop harnesses early, so you can be ready when the models get good enough:\n\n> As with most modern language model engineering, a ReAct agent can also see massive sudden improvements by swapping out the underlying model for a better one. … I think this is another reason to invest in agents like this early, in order to take advantage of more powerful models as they come out.\n\nI was right about that, and I (although it’s lower-stakes) think I’m also right about this. AI detection models are only going to get better[3](#fn-3) over time: Pangram is not going to be the only game in town forever, and we’re eventually going to see small local models that do a good-enough job at identifying AI-written text. I look forward to swapping out the local model in [Deckard](https://github.com/sgoedecke/deckard) with something that’s 2x or 10x better.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fdeckard%2F&t=Automatically%20detecting%20AI%20text%20in%20my%20browser).\n\nHere's a preview of a related post that shares tags with this one.\n\n> Weird projects I shipped with AI\n\nWhere are all the AI-generated projects? This is a [common question](https://news.ycombinator.com/item?id=46262545) from AI skeptics: if LLMs are so good at writing code, where is the tsunami of new AI-generated apps, services and games?\n\nI personally don’t find this to be much of a paradox. Writing code is only one of the bottlenecks involved in actually [shipping](https://seangoedecke.com/how-to-ship) a new product, after all. It’s also impossible to talk about the paid work I’ve done with AI (you’ll simply have to take my word that it’s increased my productivity). But one thing I can do is share a list of personal projects I’ve built with AI in the last twelve months.\n[Continue reading...](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)",
+        "url": "https://seangoedecke.com/deckard/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "Tue, 08 Sep 2026 00:00:00 GMT",
+        "reading_time": 5,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "★ SuperDuper 4 - I have mentioned and recommended [Shirt Pocket’s Mac backup app SuperDuper](https://www.sh...",
+    "Introducing ChatGPT Images 2.5 - 8th September 2026 - Link Blog **[Introducing ChatGPT Images 2.5](https://openai.com/index...",
+    "The Bulldozing of an Interface - Marcin Wichary has a lovely article titled [“Photoshop’s challenges with focus, pt. 2”](ht...",
+    "What’s new in git-pkgs - I’m on holiday this week, so here’s a listicle. Back in February I [wrote up the fourteen...",
+    "Automatically detecting AI text in my browser - Automated AI text detection is currently an underserved niche. The only game in town is [P..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 7
+    },
+    {
+      "word": "windows",
+      "count": 4
+    },
+    {
+      "word": "problem",
+      "count": 3
+    },
+    {
+      "word": "microsoft",
+      "count": 3
+    },
+    {
+      "word": "key",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "superduper",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "time",
+      "count": 2
+    },
+    {
+      "word": "down",
+      "count": 2
+    },
+    {
+      "word": "power",
+      "count": 2
+    },
+    {
+      "word": "job",
+      "count": 2
+    },
+    {
+      "word": "navier-stokes",
+      "count": 2
+    },
+    {
+      "word": "equations",
+      "count": 2
+    },
+    {
+      "word": "newsletter",
+      "count": 2
+    },
+    {
+      "word": "words",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "holes",
+      "count": 2
+    },
+    {
+      "word": "good",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 2
+    },
+    {
+      "word": "mentioned",
+      "count": 2
+    },
+    {
+      "word": "activitypub",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "sample",
+      "count": 2
+    },
+    {
+      "word": "winstart",
+      "count": 2
+    },
+    {
+      "word": "bat",
+      "count": 2
+    },
+    {
+      "word": "file",
+      "count": 2
+    },
+    {
+      "word": "needs",
+      "count": 2
+    },
+    {
+      "word": "code",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "compuserve",
+      "count": 2
+    },
+    {
+      "word": "online",
+      "count": 2
+    },
+    {
+      "word": "automatic",
+      "count": 2
+    },
+    {
+      "word": "exchange",
+      "count": 2
+    },
+    {
+      "word": "post-quantum",
+      "count": 2
+    },
+    {
+      "word": "secure",
+      "count": 2
+    },
+    {
+      "word": "origin",
+      "count": 2
+    },
+    {
+      "word": "pretraining",
+      "count": 2
+    },
+    {
+      "word": "progress",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "want",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "introducing",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "images",
+      "count": 2
+    },
+    {
+      "word": "interface",
+      "count": 2
+    },
+    {
+      "word": "git-pkgs",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "text",
+      "count": 2
+    },
+    {
+      "word": "pangram",
+      "count": 2
+    }
+  ]
+}
