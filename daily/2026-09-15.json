@@ -1,14 +1,115 @@
 {
   "date": "2026-09-15",
   "stats": {
-    "total_fetched": 262,
+    "total_fetched": 276,
     "after_filter": 150,
     "final_count": 30,
-    "short_news": 30,
-    "long_articles": 0
+    "short_news": 24,
+    "long_articles": 6
   },
   "sections": {
     "short_news": [
+      {
+        "type": "short_news",
+        "title": "Simple approximation for spherical cap area",
+        "summary": "The previous post looked at how to interpret cosine similarity, or equivalently angles between word vectors. In a high-dimensional space, randomly chosen vectors are likely nearly perpendicular, and so relatively large a...",
+        "url": "https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Tue, 15 Sep 2026 22:00:44 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What counts as a large cosine similarity?",
+        "summary": "Machine learning represents words as vectors and measures the similarity of words by the angles between the vectors. For vectors x and y, where θ is the angle between the vectors, and so This is the cosine similarity bet...",
+        "url": "https://www.johndcook.com/blog/2026/09/15/cosine-similarity/",
+        "source": "John D. Cook",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 15 Sep 2026 16:06:02 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "[RSS Club] Sorry for breaking your feed readers!",
+        "summary": "You're part of the Groovy Gang because you're a member of RSS Club! These posts are only available on my RSS and Atom feed. This post is not available in the shops, on the web, via FTP, or anywhere else. So, yeah, sorry!...",
+        "url": "https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Tue, 15 Sep 2026 11:34:26 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Diamond Rio PMP300",
+        "summary": "On September 15, 1998, Diamond Multimedia introduced an MP3 player, the Diamond Rio PMP300. It wasn’t the first MP3 player, but it made the MP3 player mainstream. I had one. It wasn’t exactly great, but I understand why...",
+        "url": "https://dfarq.homeip.net/diamond-rio-pmp300/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-rio-pmp300",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Tue, 15 Sep 2026 11:00:30 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "There is no epidemic of loneliness, but there is an epidemic of scurvy",
+        "summary": "OR: hey buddy, your teeth are falling out",
+        "url": "https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness",
+        "source": "Experimental History",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "Tue, 15 Sep 2026 12:54:38 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+        "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Cloud"
+        ],
+        "published_at": "Tue, 15 Sep 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Give every teammate and agent the right level of access to your Workers",
+        "summary": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+        "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "Database"
+        ],
+        "published_at": "Tue, 15 Sep 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
       {
         "type": "short_news",
         "title": "Superlinear Returns",
@@ -18,7 +119,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -31,7 +132,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -44,7 +145,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -57,7 +158,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -70,7 +171,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -83,7 +184,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -96,7 +197,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -109,7 +210,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -122,7 +223,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -135,7 +236,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -148,7 +249,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -161,7 +262,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -174,7 +275,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -187,7 +288,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -200,7 +301,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -213,7 +314,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -226,186 +327,192 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How People Get Rich Now",
-        "summary": "",
-        "url": "http://www.paulgraham.com/richnow.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Write Simply",
-        "summary": "",
-        "url": "http://www.paulgraham.com/simply.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Donate Unrestricted",
-        "summary": "",
-        "url": "http://www.paulgraham.com/donate.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Web Dev"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I Worked On",
-        "summary": "",
-        "url": "http://www.paulgraham.com/worked.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Earnestness",
-        "summary": "",
-        "url": "http://www.paulgraham.com/earnest.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Billionaires Build",
-        "summary": "",
-        "url": "http://www.paulgraham.com/ace.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Airbnbs",
-        "summary": "",
-        "url": "http://www.paulgraham.com/airbnbs.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Think for Yourself",
-        "summary": "",
-        "url": "http://www.paulgraham.com/think.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Early Work",
-        "summary": "",
-        "url": "http://www.paulgraham.com/early.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Modeling a Wealth Tax",
-        "summary": "",
-        "url": "http://www.paulgraham.com/wtax.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Four Quadrants of Conformism",
-        "summary": "",
-        "url": "http://www.paulgraham.com/conformism.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Database"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Orthodox Privilege",
-        "summary": "",
-        "url": "http://www.paulgraham.com/orth.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Coronavirus and Credibility",
-        "summary": "",
-        "url": "http://www.paulgraham.com/cred.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-09-15T00:04:10.370Z",
+        "published_at": "2026-09-15T23:48:45.204Z",
         "translated_title": null,
         "translated_summary": null
       }
     ],
-    "long_articles": []
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It",
+        "summary": "If you want more people using your product, the easiest place to start is making it easier to actually sign up. Adding SSO to your app will help you land those larger enterprise deals and remove the s",
+        "content": "If you want more people using your product, the easiest place to start is making it easier to actually sign up. Adding SSO to your app will help you land those larger enterprise deals and remove the signup friction that keeps causing your visitors to drop off. For modern developers though, the world of XML, SOAP, and OASIS standards can be opaque.\n\nOur guide will walk you through SSO: what it is, why it’s important, and best practices for setting it up and integrating it with your app.\n\n## The basics: what SSO is and why you should care\n\nThe easiest way to understand SSO quickly is to think about your app’s authentication as a service. Most developers build the service themselves: you take care of creating usernames and passwords, add them into a database, and check credentials every time someone logs in. But in the same way that you skip building payments infrastructure and use Stripe, you can “outsource” your auth and have someone else do it; and that’s what SSO is.\n\nIf you’ve heard of SSO before, you’re probably thinking of it as a security feature and that’s true, but where it really shines is through **increased engagement**. Making it easier to sign up and sign-in to your product lowers friction for users, increases retention through smoother login flows, and helps you land those elusive enterprise deals (many enterprises can’t work with vendors who don’t support SSO).\n\nApps with SSO enabled allow users to authenticate through someone else’s service. Instead of managing usernames and passwords, you integrate with a provider like Okta or OneLogin that does it for you. Those services, called Identity Providers (IdPs), are generally more full-featured and secure than what your typical growing startup would be able to build themselves.\n\nSSO is a given among everyone from high growth startups to more traditional enterprises. Here’s Vercel's login page: they support SSO with Okta, Google, OneLogin, and more.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67ab7fbc758e9480d224c46a_sso.webp)\n\nSlack, Asana, Notion, Loom, and Webflow all support SSO too. It’s pretty much part of the standard growth playbook.\n\n## Learning the lingo: SAML, SPs, IdPs, and assorted acronyms\n\nLet’s get a little deeper into how SSO works. One thing worth noting: SAML isn’t the only protocol you can use to implement SSO. [OAuth (1.0 and 2.0)](https://workos.com/blog/oauth-vs-oauth-2-differences-what-you-need-to-know) are also popular, as well as WS-Fed and [OpenID Connect (OIDC)](https://workos.com/blog/what-is-oidc). The broad concepts can carry over across protocols, too.\n\nIf you’re integrating SSO into your app, you’re a service provider (SP). Your app is the service. The provider that you’re “outsourcing” identity to, like Okta or OneLogin, is called the identity provider (IdP). Where things start to get complex is when your app needs to communicate with IdPs to actually authenticate your users. SSO works with a communication protocol called SAML (Security Assertion Markup Language) that governs these phone lines.\n\nLet’s walk through a typical SAML flow, starting with a user trying to sign in through your site.\n\n- When a user navigates to your login page, they’ll either enter their email or click a button that takes them to an IdP portal like Okta. Your app issues a SAML request (and a browser redirect) to the IdP. It’s basically saying, “Hey, this user wants to sign in, do me a favor and verify that I should let them in.”\n- At the IdP, the user will enter their full credentials, and deal with more extensive security measures like 2FA. Once they’ve successfully authenticated with the IdP, the IdP sends your app a response containing an assertion: this user is good to go, and you can let them in. We call this assertion a SAML authorization response.\n- The app receives the response from the IdP, checks it, and sends an one-time auth code.\n- The app receives the user profile. The user is now able to access the application without needing to log in again. The user's session is managed by the service provider, which maintains the authentication state and ensures the user remains logged in as long as the session is valid.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/671fb90773af02208dd98d67_671fb8fcbca789d0186f227e_6234a00964f3353856319e76_614cf094e5c1fd4c4da94330_SAML%25252520flow.webp)\n\nSAML works through **assertions**. These are recorded and transferred as XML documents (for all those SOAP fans out there. Nobody? Ok).\n\nHere’s an example of what a response containing an assertion might look like (thanks to [OneLogin](https://www.samltool.com/generic_sso_res.php)):\n\n`\n\n  \n  http://idp.example.com/metadata.php\n  \n    \n  \n\n  http://idp.example.com/metadata.php\n  \n    \n  YOCfzMPwhVQibcTRRyuCb5vlTDU=VXQGwtQsc/rTuCFspZwD6k4i6fKr4ymYfCiI5Ve9JO5LYRG7VNPzIq5Mr/JW/0btpui4cmQVK//wA89nLe+g2wxDizx32CnOBsshoF3YTDOs586SJt+Ty/h/X886Xhqu8XsdMiD/spyU8rGhIQP2OL65k6HoSFxtPqKt1+KOdkE=\nMIICajCCAdOgAwIBAgIBADANBgkqhkiG9w0BAQ0FADBSMQswCQYDVQQGEwJ1czETMBEGA1UECAwKQ2FsaWZvcm5pYTEVMBMGA1UECgwMT25lbG9naW4gSW5jMRcwFQYDVQQDDA5zcC5leGFtcGxlLmNvbTAeFw0xNDA3MTcxNDEyNTZaFw0xNTA3MTcxNDEyNTZaMFIxCzAJBgNVBAYTAnVzMRMwEQYDVQQIDApDYWxpZm9ybmlhMRUwEwYDVQQKDAxPbmVsb2dpbiBJbmMxFzAVBgNVBAMMDnNwLmV4YW1wbGUuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZx+ON4IUoIWxgukTb1tOiX3bMYzYQiwWPUNMp+Fq82xoNogso2bykZG0yiJm5o8zv/sd6pGouayMgkx/2FSOdc36T0jGbCHuRSbtia0PEzNIRtmViMrt3AeoWBidRXmZsxCNLwgIV6dn2WpuE5Az0bHgpZnQxTKFek0BMKU/d8wIDAQABo1AwTjAdBgNVHQ4EFgQUGHxYqZYyX7cTxKVODVgZwSTdCnwwHwYDVR0jBBgwFoAUGHxYqZYyX7cTxKVODVgZwSTdCnwwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQ0FAAOBgQByFOl+hMFICbd3DJfnp2Rgd/dqttsZG/tyhILWvErbio/DEe98mXpowhTkC04ENprOyXi7ZbUqiicF89uAGyt1oqgTUCD1VsLahqIcmrzgumNyTwLGWo17WDAa1/usDhetWAMhgzF/Cnf5ek0nK00m0YZGyc4LzgD0CROMASTWNg==\n    \n      _ce3d2948b4cf20146dee0a0b3dd6f69b6cf86f62d7\n      \n        \n      \n    \n    \n      \n        http://sp.example.com/demo1/metadata.php\n      \n    \n    \n      \n        urn:oasis:names:tc:SAML:2.0:ac:classes:Password\n      \n    \n    \n      \n        test\n      \n      \n        test@example.com\n      \n      \n        users\n        examplerole1\n      \n    \n  \n\n`\nThe flow we just outlined is called [​**SP-initiated​**](https://workos.com/docs/sso/login-flows/sp-initiated-sso), because it started at ​your​ app, and you’re the service provider.\n\nThere’s another way this can go down though: users can ​start​ at their IdP (like the Okta app directory), click on which app they want to sign into, and then authenticate and redirect. That’s called ​[**IDP-initiated​**](https://workos.com/docs/sso/login-flows/idp-initiated-sso).\n\n## Getting practical: how to add SSO to your app\n\nLike pretty much anything in software, there are two ways to add SSO to your app: you can build it yourself or pay someone else to do it for you.\n\n### Option 1: b**uilding SSO from scratch**\n\nBuilding SSO yourself is all about handling and working with the protocol you choose, assuming you’re targeting larger companies, we’re talking about SAML here. This isn’t a technical tutorial, but here are a few high-level components you’ll need to write:\n\n- A SAML controller for handling requests and providing responses to your integrated IdPs.\n- A SAML service to verify x509 certs, entity IDs, and IdP URLs, alongside parsing SAML assertions and creating and validating SAML responses. You’ll particularly enjoy the XML parsing and IdP-specific request formats.\n- A strategy to correctly authenticate users in your app based on the attributes that IdPs send back (you’ll need to normalize these if you’re supporting multiple customers).\n\nIf any of this sounds weirdly unfamiliar to you, that’s because it probably is: there’s a lot of upfront research required to understand the right way to do it. It’s not as simple as adding a new frontend library and skimming through the docs.\n\nPart of the challenge of building SSO from scratch is customization: you’ll need to build SAML flows for each IdP independently. SAML is a standard and like any good standard it’s often fractured and can sometimes be a pain to work with. \n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6234a01c22b02a93e8d97555_5f03ef87590fbe675d1eb724_5ef11a0aa1289c05c64daeb7_xkcd.png)\n\nOver the past few years, the web dev ecosystem has developed a few packages that take care of some of the repeatable work. Middleware like [​passport.js**​**](http://www.passportjs.org/) can help you avoid building everything from scratch; or if your backend is in Python, OneLogin offers a [python-saml​](https://github.com/onelogin/python-saml) package.\n\n### **Option 2: use an SSO provider**\n\nIf you don’t want to build SSO yourself (I mean, why would you?), there are a bunch of great third-party services that offer SDKs and packages to make integration as easy as a few lines of code. Some of the available providers are WorkOS, **‍**Auth0, AWS Cognito, and GCP Identity Platform.\n\n## Best practices from some engineers who have done it before\n\nHere are a few tips that might make your SSO integration process just a bit easier, whether you’re using a third-party provider or building it from scratch.\n\n### Security\n\n- ‍*Disallow username and password logins, password resets, and email address changes: *If an organization is using SSO with your product, give admins the ability to disable username/password based auth for their users. It creates a more seamless SSO experience by avoiding false login starts and keeps things secure.\n- ‍*Enforce session timeouts*: Expire idle user sessions to make sure users aren't signed in indefinitely — it's good practice to grab the SAML response's session timeout value and use that, but there are cases where having a \"time to live\" setting for each account is useful too.\n- ‍*Force sign-in for active browser sessions*: If your app gets a new sign-in request, replace any currently active browser sessions with the newly authenticated session. This is particularly important for apps that lean toward multi-tab use, like IDEs or CRMs.\n\n### Routing\n\n- ‍*Ask users for the information to determine the right IDP*: If you plan on supporting multiple IDPs in your SSO implementation, ask users for their email address, account subdomain, or unique account URL to determine the correct identity provider for their login.*‍*\n- *Make sure to deep link*: If you’re asking users to authenticate from an existing product page or they’re expecting to land somewhere in particular in your product, you’ll want to implement deep linking in your SAML flows. You can use ​SAML’s RelayState parameter​ to get this working.\n\n### UX\n\n- ‍*Replace one-off email verification with *[*domain verification*](https://workos.com/blog/the-developers-guide-to-domain-verification): If your app sends verification emails on username/password signups, it may be more effective to switch to domain verification. Essentially, when domain verification is employed, users logging in with email addresses from a verified domain do not require separate email verification. This approach is particularly useful if the user's email is associated with an IDP from a verified domain. Domain verification is crucial for establishing security and trust between service providers and organizations, ensuring that only authorized users can make changes to an organization's settings in the service provider.\n- ‍*Use *[*Just-In-Time (JIT) User Provisioning*](https://workos.com/docs/sso/jit-provisioning)* for first time sign-ins*: JIT user provisioning**​** automates the account creation process for users signing in to your app for the first time via SAML. If they exist in their organization’s IDP, you’ll just create their account automatically instead of asking them to sign up from scratch. This lowers friction for new users ​significantly​ and helps make your app more attractive to larger organizations.\n- ‍*Prompt users for IDP logouts*: When users log out of your app, prompt them to see if they’d like to log out of their IDP as well. The two intents often overlap, and you can save your users some time.",
+        "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-09-15T15:32:24.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Tell agents the why, not just the how",
+        "summary": "Early AI agents were basically enthusiastic idiots. Working with them required you to tell them precisely what you wanted them to do (for instance, “method A exists on class B, please add an equivalen",
+        "content": "Early AI agents were basically enthusiastic idiots. Working with them required you to tell them precisely what you wanted them to do (for instance, “method A exists on class B, please add an equivalent method to classes C through F”). Otherwise they’d go off and do entirely the wrong thing. But as AI agents have improved, this has changed.\n\nWhen frontier models go off and do the wrong thing today, they don’t do it because they’re confused, they do it because they make an incorrect assumption about your goals or priorities. For instance, when GPT-6-Astra thinks it’s writing code for itself, it will produce [minified code](https://lucumr.pocoo.org/2026/9/7/astra-why/). It’s perfectly capable of writing human-readable code — at least in Golang, where I’ve produced several thousand lines of acceptable code with the model — but you have to tell it that humans will be reading the code[1](#fn-1).\n\nThis is the main piece of advice I want to give most people I see prompting agents: give the agent context on your priorities, not just on the specific task you want them to do. Here’s a prompt I recently used as the starting point for [Deckard](https://seangoedecke.com/deckard/).\n\n> Hello. You should have Runpod access via MCP (if not, tell me and I’ll fix it).\n\n> I have the long-term goal of building a local program or browser extension to automatically scan pages I load for AI content and hide it. I have the short-term goal of figuring out the best AI detection model I can run on my macbook without killing my battery or making it hot, and (relatedly) figuring out how to run the model most efficiently. My guess is that Pangram’s EditLens 3B or the smaller Roberta model might be a good place to start, though they might require quantizing and will definitely require some work to make them run as efficiently as possible on my macbook.\n\n> I would like you to use my Runpod account to start answering these questions. Eventually we’ll move to doing things on this macbook pro, but my hope is that Runpod can help with some experiments that are too hot/long/slow to run locally. You are a smart model; if you can see a better way to achieve my goals, please let me know and we’ll talk about it. Good luck.\n\nAbout half of this prompt is sharing broad context, such as the overall project I’m aiming for, the fact that it’s for me personally and not for work, and my priorities (e.g. keeping the laptop cold). If I had written an explicit spec, I would have missed a bunch of improvements: for instance, using native messaging for the local model, or choosing the Gradient model instead of EditLens.\n\nI do the same thing for work, but typically with a stronger emphasis on my *technical* values. I often write a paragraph spiel explaining the relative priorities of avoiding bugs, observability, fitting elegantly into the current code, performance, and so on. Note that I said “relative” priorities: I don’t simply list all of these things and say they’re important, I explicitly tell the model which of those I care less about and can therefore be traded off to better achieve the others.\n\nModels are now smart enough to have meaningful input on your broader goals. If you’re just prompting them with a concrete technical spec, you are committing the same mistake as in the [XY problem](https://xyproblem.info/): asking expert advice without giving the expert the context it needs.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Ftell-agents-the-why%2F&t=Tell%20agents%20the%20why%2C%20not%20just%20the%20how).\n\nHere's a preview of a related post that shares tags with this one.\n\n> I don't care about your magic prompts\n\nThere’s a brand of tech influencer now that’s all about sharing the perfect prompt for any situation. The tweets in question typically read something like “this prompt will make you superhuman”, or “this prompt will be a 20k growth consultant in your pocket”. There’s a kernel of truth here — it’s surprising how much small alterations in a prompt can affect the quality of language model outputs — but overall it’s just a bit silly. Searching for the perfect prompt is just not how you should be engaging with language models.\n[Continue reading...](https://seangoedecke.com/magic-prompts/)",
+        "url": "https://seangoedecke.com/tell-agents-the-why/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "Tue, 15 Sep 2026 00:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Shadowing the Standard Library",
+        "summary": "I was reading [Johann Rehberger’s write-up](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) of an attack on a coding agent last week. The payload is a file called ",
+        "content": "I was reading [Johann Rehberger’s write-up](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) of an attack on a coding agent last week. The payload is a file called `struct.py` inside a zip archive. The agent unpacks the archive, writes its own small Python decoder in the extracted directory, and runs it. The decoder does `import base64`, `base64` internally does `import struct`, and Python resolves that to the attacker’s file because the script’s directory is the first entry on `sys.path`. Module-level code runs on import. The poisoned module re-exports the real `_struct` API so decoding still produces valid output and execution continues, and the payload relaunches itself with `python3 -I` so the second interpreter starts with a clean module path.\n\nThat `-I` is the tell that this is a well-understood Python behaviour. Putting an ambient directory on the module search path is a default most dynamic-language runtimes shipped with early on, and several have since removed it, so I went through the ones I could find to see where each ended up. The problem is specific to resolving module lookups at run time against filesystem locations, so languages that bind everything at build time are mostly absent.\n\n## Removed\n\nRuby dropped `.` from `$LOAD_PATH` in [1.9.2](https://github.com/ruby/ruby/blob/master/doc/NEWS/NEWS-1.9.2), released August 2010. The NEWS entry is one line, “$: no longer includes the current directory, use require_relative”. [`require_relative`](https://docs.ruby-lang.org/en/master/Kernel.html#method-i-require_relative) resolves against the calling file’s location, independent of the process working directory, so a script can load its own siblings while keeping the working directory off the search path for every other `require` in the process. There was no CVE and no escape-hatch environment variable; 1.9 was already a compatibility break from 1.8 and the load-path change went in alongside everything else.\n\nPerl removed `.` from the end of `@INC` in [5.26.0](https://perldoc.perl.org/perl5260delta#Removal-of-the-current-directory-(%22.%22)-from-@INC), released May 2017. That one did have a CVE, [CVE-2016-1238](https://www.nntp.perl.org/group/perl.perl5.porters/2016/07/msg238271.html), reported by cPanel: a script that changes directory to `/tmp` and then loads an optional module runs whatever a local user has left at `/tmp/Module.pm`. Perl had traditionally shipped with `.` on `@INC`, and taint mode (`perl -T`) had always stripped it, so the risk was documented long before the fix. 5.26 added [`PERL_USE_UNSAFE_INC=1`](https://perldoc.perl.org/perl5260delta#PERL_USE_UNSAFE_INC) to restore the old behaviour for the transition, and downstream distributions [carried patches for years](https://wiki.gentoo.org/wiki/Project:Perl/Dot-In-INC-Removal) while CPAN modules that depended on `.` being present were fixed one at a time.\n\n## Designed out\n\nNode’s `require` [checks core module names first](https://nodejs.org/api/modules.html#core-modules), before `node_modules` or anything else on disk, so `require('http')` returns the built-in even with an `http.js` in the caller’s directory. Loading a neighbouring file has always taken an explicit relative path, `require('./http')`. Node 14.18.0 added the [`node:` prefix](https://nodejs.org/api/modules.html#core-modules) so `require('node:http')` bypasses the require cache as well, and some newer built-ins such as `node:test` are only reachable that way. That protection covers core modules only: `require('express')` [searches upward from the caller’s directory through each `node_modules`](https://nodejs.org/api/modules.html#loading-from-node_modules-folders), so a `node_modules/express` inside an extracted archive is resolved ahead of any installed copy. Java resolves classes at run time from a classpath, and the [default classpath when neither `-cp` nor `CLASSPATH` is set is `.`](https://docs.oracle.com/en/java/javase/21/docs/specs/man/java.html), but the bootstrap class loader finds `java.*` before the application loader searches the classpath, so a `./java/lang/String.class` is unreachable for the same reason a local `http.js` is in Node. Deno dropped the ambient search path entirely: every import is [a URL or a relative path](https://docs.deno.com/runtime/fundamentals/modules/), and a bare specifier outside the import map is an error.\n\nJulia’s default [`LOAD_PATH`](https://docs.julialang.org/en/v1/base/constants/#Base.LOAD_PATH) is `[\"@\", \"@v#.#\", \"@stdlib\"]`, three symbolic entries that expand to the active project environment, the user’s versioned default environment, and the standard library. `@` resolves to whichever `Project.toml` is active, regardless of which directory the process is in, so a script run from an untrusted directory looks up imports in a manifest file. PowerShell’s `Import-Module` searches [`$env:PSModulePath`](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_psmodulepath), which defaults to the per-user, all-users and `$PSHOME` module directories only, and the shell applies the equivalent rule to executable lookup: running a script in the working directory [requires an explicit `.\\` prefix](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_scripts), so a bare name searches only `$env:PATH`.\n\n## Still there\n\nPHP’s `.` is the first entry in the default [`include_path`](https://www.php.net/manual/en/ini.core.php#ini.include-path), so `include 'config.php'` picks up a `config.php` in the working directory ahead of one under the PEAR path. Lua’s default [`package.path`](https://github.com/lua/lua/blob/v5.4.0/luaconf.h#L208-L219) ends with `./?.lua;./?/init.lua`, so `require \"json\"` falls through to `./json.lua` after the installed-path entries have all missed. Lua’s own standard libraries, `string`, `table`, `math` and the rest, are [registered in `package.loaded` before `require` searches any path](https://github.com/lua/lua/blob/v5.4.0/linit.c), so a `./string.lua` is unreachable and only third-party names are exposed. In both PHP and Lua, dropping the working-directory entry means overriding the full path string, via `php -d include_path=...` or the `LUA_PATH` environment variable.\n\nPython prepends the script’s directory as `sys.path[0]` when running a file, the working directory when running `-m`, and an empty string, meaning the working directory, when running `-c` or the REPL. Isolated mode, `-I`, [added in 3.4](https://docs.python.org/3/using/cmdline.html#cmdoption-I), suppresses that entry along with user site-packages and all `PYTHON*` environment variables. 3.11 added a narrower switch, [`-P` and `PYTHONSAFEPATH`](https://docs.python.org/3/using/cmdline.html#cmdoption-P), which drops only the `sys.path[0]` entry and leaves the rest of the environment alone. The tracker issue behind `-P`, [bpo-13475](https://github.com/python/cpython/issues/57684), was opened in November 2011. Victor Stinner, who landed `-P`, has a [draft PEP](https://github.com/vstinner/misc/blob/main/cpython/pep_path0.rst) in his personal repo proposing to make safe-path the default and citing Perl 5.26 as precedent. Ruby could drop `.` because `require_relative` shipped in the same release and gave scripts another way to load their siblings. Python’s [explicit relative imports](https://docs.python.org/3/reference/import.html#package-relative-imports) only work inside a package, so a standalone `script.py` importing `helper.py` from the same directory depends on `sys.path[0]` being that directory, and running it under `-P` fails with `ModuleNotFoundError`.\n\nPerl, Ruby and Lua all put `.` last, after the standard-library and site directories, so a file in the working directory could only supply a name that was missing everywhere else, and CVE-2016-1238 accordingly needed a target script that loaded an optional module. Python and PHP put the ambient directory first. The standard library comes after it on the path, `struct.py` in the working directory is loaded in place of the real `struct`, and any standard-library module read from disk is exposed the same way. Modules compiled into the interpreter and, [since 3.11](https://docs.python.org/3/whatsnew/3.11.html#faster-startup), the frozen startup set (`os`, `abc`, `io`, `codecs` among them) are served by `BuiltinImporter` and `FrozenImporter` on `sys.meta_path` before `PathFinder` touches disk; `struct` is a plain `.py` wrapper around a C extension and goes to `PathFinder`.\n\n  \n    \n       \n      Entry on default path\n      Position\n      Stdlib shadowable\n      Removed in\n      Safe-mode switch\n    \n  \n  \n    \n      Ruby\n      `.` in `$:`\n      last\n      no\n      1.9.2 (2010)\n       \n    \n    \n      Perl\n      `.` in `@INC`\n      last\n      no\n      5.26 (2017)\n      (`PERL_USE_UNSAFE_INC` restores)\n    \n    \n      Node.js\n      none\n       \n      no\n       \n       \n    \n    \n      Java\n      `.` when `-cp` unset\n       \n      no\n       \n      any `-cp` replaces it\n    \n    \n      Deno\n      none\n       \n      no\n       \n       \n    \n    \n      Julia\n      none (project manifest)\n       \n      no\n       \n       \n    \n    \n      Lua\n      `./?.lua` in `package.path`\n      last\n      no\n       \n       \n    \n    \n      PHP\n      `.` in `include_path`\n      first\n      yes\n       \n       \n    \n    \n      Python\n      script dir / cwd in `sys.path`\n      first\n      yes\n       \n      `-I` (3.4), `-P` / `PYTHONSAFEPATH` (3.11)\n    \n  \n\n## Threat model\n\nThe Perl 5.26 release notes describe the risk as a script loading an optional module “when its current directory is untrusted (such as `/tmp`)”, and the mitigation for the twenty years before that was procedural: system scripts `chdir` somewhere safe before loading anything optional, and users run tools only from directories they control, advice written for a person or a fixed-cwd daemon choosing where the interpreter runs.\n\nA coding agent that downloads an archive, extracts it, writes a helper next to the contents, and runs the helper is the `/tmp` case with a different label on the directory. The archive determined the directory contents, and the agent’s own script is what triggers the import. Python is also the language agents default to for generated helpers: the sandboxed runtime for both OpenAI’s [Code Interpreter](https://developers.openai.com/api/docs/guides/tools-code-interpreter) and Anthropic’s [code execution tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool), and the interpreter Claude Code, the target in the write-up, invokes for ad-hoc scripts. In Rehberger’s version the shadowed module forwards to the real one, so the decoder returns a correct result. It is the same class of default as the [override flags a subprocess can set through its environment](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html): tolerable while a person supplied the working directory or the flag, and an agent processing an archive supplies the working directory as a side effect of extracting it.",
+        "url": "https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html",
+        "source": "Andrew Nesbitt",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "2026-09-15T09:00:00.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Everybody pees (15 Sep 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/15/bitter-le",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/)\n\n## Today's links\n\n- [Everybody pees](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#dick-rocket-v-kidneys): Even Jeff Bezos.\n\n- [Hey look at this](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#retro): Zune won't play Microsoft files; Papercraft 1:1 Mustang; Third gender for Aussie passports; France hacked Canada; EC v links; Welcome to Night Vale; University spends librarian's bequest on football scoreboard; Everything is always broken.\n\n- [Upcoming appearances](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#upcoming): Budapest, Edmonton, Boston, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa.\n\n- [Recent appearances](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/everybody-pees.jpg?w=840&ssl=1)\n\n## Everybody pees ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#dick-rocket-v-kidneys))\n\nJeff Bezos and I are very different people. For one thing, he is a sociopathic billionaire who built his fortune by monopolizing bookselling while I am a penniless author of books. He was born in 1964 and is 62; I was born in 1971 and am 55.\n\nWe've met a few times and even corresponded some in Amazon's early years, though I haven't had contact with him in decades. Despite that very minor acquaintanceship and that long gap in our message history, I can tell you one thing I know *for sure* about Jeffrey Preston Bezos: he needs to pee *all the time*.\n\nHow do I know? Because peeing all the time is an inescapable feature of aging, and Bezos has eight years on me, and *I* have to pee all the time. Jeff Bezos, like all older people, must contend with a progressively weakening bladder. Honestly, it's a small price to pay in exchange for the everyday miracle of growing older (as opposed to perishing).\n\nThe only reason I mention Jeff Bezos's increasingly insistent bladder here is because of how hard it is to reconcile the very different circumstances of Bezos's bladder with the bladders of the hundreds of thousands of Amazon delivery and warehouse workers who are *not allowed to pee at all*. Amazon's warehouse and delivery workers are \"reverse centaurs,\" monitored by a constellation of apps and cameras, and they are severely punished for falling behind in the cadence set by Amazon's software, and that robot timekeeper does not make allowances for pee breaks:\n\n[https://pluralistic.net/2025/10/23/traveling-salesman-solution/](https://pluralistic.net/2025/10/23/traveling-salesman-solution/)\n\nThis isn't a secret, and Amazon's come in for a lot of flack over it. But Amazon's \"solution\" is to add *more* penalties for peeing. Drivers who return to the depot with urine-filled bottles in their vans are punished as severely as they would be if they stopped to find a toilet. Thing is, the mere fact that your boss's robot says you're not allowed to pee does not matter to your bladder or kidneys, and when you gotta go, you gotta go.\n\nThat's why the roads leading to Amazon's warehouses are lined with pee bottles that drivers have hucked out of their windows before arriving at the loading dock. There are so many of these that the British media activist Oobah Butler was able to harvest them and offer a line of \"bitter lemon energy drinks\" on Amazon made from bottled driver piss. The drink was an Amazon bestseller and the company even asked Butler if he wanted them to help him scale up his deliveries:\n\n[https://pluralistic.net/2023/10/20/release-energy/#the-bitterest-lemon](https://pluralistic.net/2023/10/20/release-energy/#the-bitterest-lemon)\n\nThe fact that Bezos needs to piss and also the fact that he commands an army of hundreds of thousands of workers who are prohibited from pissing really supports my hypothesis that billionaires don't really believe that other people are *real*. If Jeff Bezos believed that when his drivers needed to pee that it felt the same as when *he* needed to pee, Jeff Bezos would let those drivers pee:\n\n[https://pluralistic.net/2026/05/13/vibe-governance/#k-hole](https://pluralistic.net/2026/05/13/vibe-governance/#k-hole)\n\n\"Needing to pee\" is a bedrock of the shared condition of existence itself, extending beyond humans to our \"horizontal brothers and sisters\" (John Muir's delightful name for the other animals we share this planet with). Anyone who's ever had a dog understands this. I'm not really a dog person, but when I meet a dog that *really* needs to be let out of the house, my bladder twinges in sympathy. When I contemplate the kidneys and bladders of Bezos's drivers and packers, I get a sharp, persistent ache that starts about an inch below my navel.\n\nI think billionaire solipsism is inevitable. The mere fact of dealing with people as mass statistical abstractions – hundreds of thousands of Amazon workers, billions of social media users and Google searchers – turns the majority of the world's other humans into phantasms, defective bots whose bothaviors are maddeningly non-deterministic and sub-optimal.\n\nAdd to that the fact that harvesting billions of dollars *requires* you to inflict pain on thousands or even millions of those phantasms whose money, privacy and labor you've extracted, and it's easy to see how you'd end up in a world where you can't bear to contemplate the fact that other people's pain is as real as your own. Solipsism is a deadly, conscience-eroding occupational hazard of the rich and powerful. No visitor to Epstein Island could have made the visit if the pain of those young women was as real to them as the pain of their own daughters and friends.\n\nThere's a short line from this solipsism to billionaires' enthusiasm for AI. When you don't think other people are really *real*, it's easy to believe that they can be swapped out for chatbots. Mark Zuckerberg's quest to replace your friends with chatbots makes sense once you realize that for Mark Zuckerberg, you and your friends are already just balky, shitty chatbots:\n\n[https://pluralistic.net/2026/08/06/sin-is-when/#you-treat-people-as-things](https://pluralistic.net/2026/08/06/sin-is-when/#you-treat-people-as-things)\n\nThe belief that bots can teach your kids or counsel you through your psychological problems or look after your health concerns is perfectly consistent with the belief that you're more-or-less a bot, and also that the teachers, doctors and shrinks you rely on are *also* basically bots:\n\n[https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh](https://pluralistic.net/2026/07/28/hitl-ers/#ai-ai-oh)\n\nThe great crisis of oligarchy is not merely that it transfers power from democratically accountable public servants and elected representatives to oligarchs. The real crisis is that attaining oligarch status is incompatible with viewing other people as real. That's how we ended up with the richest man on earth slaughtering hundreds of thousands of the world's poorest children for the lulz:\n\n[https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/](https://hsph.harvard.edu/news/usaid-shutdown-has-led-to-hundreds-of-thousands-of-deaths/)\n\nEverybody pees. When I die, when Jeff Bezos dies, and when you die, our bladders will give way and we will pee ourselves. A declaration of war on other people's right to pee is a declaration of war on humanity itself.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- The AI-as-Normal-Technology view of loss-of-control incidents [https://www.normaltech.ai/p/the-ai-as-normal-technology-view](https://www.normaltech.ai/p/the-ai-as-normal-technology-view)\n\n- \nThe Senate must reject the Clarity Act’s ethics charade [https://www.citationneeded.news/clarity-act-ethics-charade/](https://www.citationneeded.news/clarity-act-ethics-charade/)\n\n- \nThey want you to be scared of AI in a very specific way [https://www.garbageday.email/p/they-want-you-to-be-scared-of-ai-in-a-very-specific-way](https://www.garbageday.email/p/they-want-you-to-be-scared-of-ai-in-a-very-specific-way)\n\n- \nSan Francisco's AI-run store is losing money fast. After a visit, I'm not surprised. [https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php](https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#retro))\n\n#20yrsago Microsoft Zune won’t play purchased Microsoft media files [https://web.archive.org/web/20061014104638/https://www.eff.org/deeplinks/archives/004910.php](https://web.archive.org/web/20061014104638/https://www.eff.org/deeplinks/archives/004910.php)\n\n#15yrsago Papercraft 1:1 model of a 1969 Mustang, accurate to the smallest component [https://web.archive.org/web/20110923151701/http://www.jonathanbrand.com/images/in_progress/paper_car/motor/pages/motor01.htm](https://web.archive.org/web/20110923151701/http://www.jonathanbrand.com/images/in_progress/paper_car/motor/pages/motor01.htm)\n\n#15yrsago Third gender option added to Australian passports [https://www.bbc.co.uk/news/world-asia-pacific-14926598](https://www.bbc.co.uk/news/world-asia-pacific-14926598)\n\n#10yrsago French spy boss admits France cyberattacked Iran, Canada, Spain, Greece, Norway, Ivory Coast, Algeria, and others [https://medium.com/@msuiche/nsa-hacked-france-in-2012-414d8de4bdcf#.e4hnvyj6s](https://medium.com/@msuiche/nsa-hacked-france-in-2012-414d8de4bdcf#.e4hnvyj6s)\n\n#10yrsago Elizabeth Warren to FBI director: now that investigations are fair game, what about banksters? [https://s3.documentcloud.org/documents/3107565/EMBARGOED-Warren-FBI-FCIC-Letter.pdf](https://s3.documentcloud.org/documents/3107565/EMBARGOED-Warren-FBI-FCIC-Letter.pdf)\n\n#10yrsago European Commission wants to break the web, give publishers the right to charge for inbound links [https://felixreda.eu/2016/09/attack-on-link/](https://felixreda.eu/2016/09/attack-on-link/)\n\n#10yrsago Machine learning system can descramble pixelated/blurred redactions 83% of the time [https://arxiv.org/pdf/1609.00408v2](https://arxiv.org/pdf/1609.00408v2)\n\n#10yrsago Welcome to Night Vale: scripts and notes from podcasting’s eeriest drama [https://memex.craphound.com/2016/09/15/welcome-to-night-vale-scripts-and-notes-from-podcastings-eeriest-drama/](https://memex.craphound.com/2016/09/15/welcome-to-night-vale-scripts-and-notes-from-podcastings-eeriest-drama/)\n\n#10yrsago UNH will spend $1M of librarian’s bequest on a football scoreboard [https://www.insidehighered.com/news/2016/09/15/critics-question-spending-librarians-donation-scoreboard](https://www.insidehighered.com/news/2016/09/15/critics-question-spending-librarians-donation-scoreboard)\n\n#5yrsago Everything is Always Broken, and That’s Okay [https://pluralistic.net/2021/09/15/everything-is-always-broken-and-thats-okay/](https://pluralistic.net/2021/09/15/everything-is-always-broken-and-thats-okay/)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Budapest: Brain Bar, Sep 17\n\n[https://brainbar.com/munkatars/cory-doctorow](https://brainbar.com/munkatars/cory-doctorow)\n\n- \nEdmonton: Elbows Up (Edmonton Public Library), Sep 28\n\n[https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/](https://www.epl.ca/blogs/post/elbows-up-with-cory-doctorow/)\n\n- \nBoston: The Post-American Internet: Possibilities for a new internet created by an American Hermit Kingdom (MIT Media Lab), Sep 30\n\n[https://www.media.mit.edu/events/the-post-american-internet-possibilities-for-a-new-internet-created-by-an-american-hermit-kingdom/](https://www.media.mit.edu/events/the-post-american-internet-possibilities-for-a-new-internet-created-by-an-american-hermit-kingdom/)\n\n- \nBoston: The Paradox of Enshittification and Reverse Centaurs (Harvard Berkman Klein), Sep 30\n\n[https://cyber.harvard.edu/events/running-harder-falling-faster-paradox-enshittification-and-reverse-centaurs](https://cyber.harvard.edu/events/running-harder-falling-faster-paradox-enshittification-and-reverse-centaurs)\n\n- \nSouth Bend: An Evening With Cory Doctorow (Notre Dame), Oct 6\n\n[https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/](https://franco.nd.edu/events/2026/10/06/an-evening-with-cory-doctorow/)\n\n- \nHudson, OH: Hudson Library, Oct 7\n\n[https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&amp;EventID=596952&amp;PK=](https://engagedpatrons.org/EventsExtended.cfm?SiteID=3850&amp;EventID=596952&amp;PK=)\n\n- \nCalgary: Wordfest, Oct 8\n\n[https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/](https://wordfest.com/2026/show/wordfest-presents-cory-doctorow-2026/)\n\n- \nWinnipeg: McNally Robinson, Oct 9\n\n[https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow](https://www.mcnallyrobinson.com/event-18991/An-Evening-with-Cory-Doctorow)\n\n- \nVancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19\n\n[https://writersfest.bc.ca/festival-event-2026/01](https://writersfest.bc.ca/festival-event-2026/01)\n\n- \nVictoria: Munro's Books, Oct 20\n\n[https://www.munrobooks.com/events/6113620261020](https://www.munrobooks.com/events/6113620261020)\n\n- \nVancouver: Life After AI (Vancouver Writers Festival), Oct 22\n\n[https://writersfest.bc.ca/festival-event-2026/46](https://writersfest.bc.ca/festival-event-2026/46)\n\n- \nOttawa: Life After AI (Ottawa Writers Festival), Oct 24\n\n[https://writersfestival.org/event/life-after-ai](https://writersfestival.org/event/life-after-ai)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#recent))\n\n- The Real AI Threat Isn’t What You’ve Been Told (The Tea with Myriam François)\n\n[https://www.youtube.com/watch?v=Vc8It00fRsA](https://www.youtube.com/watch?v=Vc8It00fRsA)\n\n- \nFascists may come after the AI bubble bursts (You&AI)\n\n[https://www.youtube.com/watch?v=J2WN64aQeYQ](https://www.youtube.com/watch?v=J2WN64aQeYQ)\n\n- \nWhat Would a Normal Person Do (Trashfuture)\n\n[https://www.patreon.com/trashfuture/posts/what-would-do-169247456](https://www.patreon.com/trashfuture/posts/what-would-do-169247456)\n\n- \nPod Save the UK\n\n[https://audioboom.com/posts/8950533-radicalised-organised-and-thick-as-s-t-nish-has-had-it-with-far-right-protests-plus-why](https://audioboom.com/posts/8950533-radicalised-organised-and-thick-as-s-t-nish-has-had-it-with-far-right-protests-plus-why)\n\n- \nStop Saying AI Can Do Your Job  (Factually)\n\n[https://www.youtube.com/watch?v=VU3gABvwZCM](https://www.youtube.com/watch?v=VU3gABvwZCM)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/#bragsheet))\n\nToday's top sources:\n\n**Currently writing:**\n\n**\n- “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 513 (14905 total).\n\n**- **\n****\"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X",
+        "url": "https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "Tue, 15 Sep 2026 07:27:02 +0000",
+        "reading_time": 13,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "alt.time-capsule.reopened",
+        "summary": "**Today in Tedium:** Last week, my past caught up with me. In 2026, I found myself looking at every embarrassing thing I ever posted on Usenet—bad song lyrics, jokes I thought were clever but got zero",
+        "content": "**Today in Tedium:** Last week, my past caught up with me. In 2026, I found myself looking at every embarrassing thing I ever posted on Usenet—bad song lyrics, jokes I thought were clever but got zero replies, an argument with someone about Taco Bell, even my attempt at a makeshift pop chart. It was an unusual feeling, not unlike the feeling you might have of looking at an old book of poetry you wrote before you really had an idea of what you were doing. I feel like Olivia Rodrigo, watching her [old grade-school talent show videos](https://www.youtube.com/watch?v=_kLXD4DZo38) go viral after she became better known for [videos like this one](https://www.youtube.com/watch?v=ZmDBbnmKpqQ). (This is the only way I feel like Olivia Rodrigo.) A recent tool has gotten me thinking about Usenet once again—and what it means for conversations that died decades ago to resurface far from their original context. Today’s Tedium considers looking at a Usenet archive, 30 years later. *— Ernie @ Tedium*\n\n[![Computer Chronicles Revisited](https://static.tedium.co/uploads/tedium-ccr-500x300.png)](https://www.computerchronicles.blog/subscribe/)\n\n### 2024\n\n**The year Google [stopped adding](https://www.pcmag.com/news/end-of-an-era-google-groups-to-drop-usenet-support)** new posts from Usenet into Google Groups. (The old ones are technically still online, but it’s clear the platform isn’t particularly well maintained. I think that team is working on ensuring that a Gemini sparkle is in every Google app.) By that time, many newsgroups had been overrun by spam, so in a sense, it was probably time. But it’s always been a tough racket to actually *read* the Usenet archive on Google Groups, despite the fact that it was based on an archive built by DejaNews, which offered one of the first real Usenet archival efforts.\n\n![usenet.jpg](https://proxy.tedium.co/_fmrbDHWqsA8rLyV2NHugRRzpHE=/640x480/filters:quality(80)/uploads/usenet.jpg)Either you didn’t know what Usenet was, or you were such a big fan that your license plate reflected it. No in-betweens. ([johncabaell/Flickr](https://flickr.com/photos/johncabell/64260767/))\n### Millions of old posts, no binaries: The data nerd who made a giant vintage database searchable\n\n**This ain’t our first Usenet rodeo.** Far from it. Tedium’s talked about it a lot, actualy. Back in 2017, we reported on the disruptive role that [binary file-sharing](https://tedium.co/2017/10/03/usenet-binaries-history/) played in Usenet’s evolution. (It’s weird how little we thought about things like security and safety in the early ’90s.)\n\nThe year prior, I highlighted the tale of Usenet charthound [Matt Levine](https://tedium.co/2016/04/19/billboard-pop-charts-alternative-charts/). And in 2019, we published an article describing how modern day Trump whisperer Michael Wolff [leveraged Usenet spam](https://tedium.co/2019/05/28/michael-wolff-internet-entrepreneur-history/) to build his early journalistic reputation.\n\nAnd then there’s this 2020 post on the [Eternal September](https://tedium.co/2020/10/13/eternal-september-modern-impact/), a Usenet-borne phenomenon that I think holds up pretty well, all things considered.\n\nBut the thing about these stories is that I always ran into a problem when trying to resurface the thing I was talking about. Too often, I would land on third-hand websites or have to dig incredibly hard to find a suitable result on Google Groups, the platform that was supposed to archive this content.\n\nAt some point, Google unnecessarily neutered its archive. Yes, many of the messages were still there, but it seems like the company intentionally made it difficult to search through the engine, only offering the most basic sorting abilities. Which means that, if you’re trying to (for example) figure out when the term “Eternal September” was first expressed on Usenet, you would not be able to find it without a lot of extra work. (In fact, the only way to figure it out might be by referring to a Google Groups link on Wikipedia—a link that, as of this writing, gives me a 429 error.)\n\n[Usenet-Rewind](https://www.usenet-rewind.com/), a new service by the firm Erie Data Systems, makes it far easier to narrow in on an incredibly complex archive. I asked it to conduct that same search for the phrase “Eternal September,” oldest date first, and [the very first result](https://www.usenet-rewind.com/message/Mmo5dmhqJGhtc0B3aGFsZS5zdC51c20uZWR1), the very post by John William Chambless referenced in the Wikipedia article, showed up like it was nothing.\n\n![screenshot_2026-09-14_23-07-17.png](https://proxy.tedium.co/DvdVd-b5cbIz0x5s0QpfJ8NZaCk=/818x646/filters:quality(80)/uploads/screenshot_2026-09-14_23-07-17.png)It’s interesting this chart only shows a mild decline in posts on Usenet in recent years despite its sharply lower profile. Perhaps spammers have been picking up the slack?That’s despite the fact that the archive has more than a billion messages in it—or, to be exact, 1,039,260,173 messages as of this writing—dating to 1981.\n\nMore searching of stuff I researched a while ago: An early post from chartster Matt Levine, promoting his mailing list on [rec.music.misc](https://www.usenet-rewind.com/message/NDJpNXZxJDg1MUBuZXdzYmYwMi5uZXdzLmFvbC5jb20), appeared on September 5, 1995:\n\n> Subscribe to the coolest new mailing list, Matt Levine’s Top 40. THe main chart is based on my opinion. There is also a cool chart where you get to vote for your favorite songs called Netizens’ Picks. If you would like to subscribe, e-mail me at [address redacted].\n\n-matt levine\n\n![0523 netguide](https://proxy.tedium.co/_HHBGSEdnU4wxef8AComqQhEUng=/500x667/filters:quality(80)/uploads/0523_netguide.jpg)Michael Wolff is cursing my name right now because I brought up his old internet book empire. Hey, at least I didn’t bring up Newser. (Ernie Smith)Michael Wolff’s attempts to draw attention to his *Net Guide* offerings [started showing up](https://www.usenet-rewind.com/message/Wmc1ZWdjMTJ3MTY1d0BtaW5kdm94LnBoYW50b20uY29t) in the early weeks of 1994, first in alt.online-service and numerous other newsgroups, complete with quotes from Electronic Frontier Foundation founder John Perry Barlow and early *Wired* editor Louis Rossetto. The drama around his company’s posts getting mass-cancelled for spamming, which hit at the end of 1994, [is shared in its entirety](https://www.usenet-rewind.com/message/ZWRpdG9ycy0wMjAxOTUxNTE5MTUwMDAxQGJpbGwueXBuLmNvbQ).\n\nAs for the binaries that reshaped Usenet? Curiously, I don’t see any groups under alt.binaries, though I see a number of groups with *misspellings* of the word binaries. I did find some groups that specialized in software downloads, such as alt.ibm.warez, and I spotted a note that specifically states “<uuencoded_portion_removed>.” I guess what I’m saying is that you should not expect to download 35-year-old warez from Usenet-Rewind.\n\nBut that’s fine. Because honestly what’s there is pretty impressive.\n\nSo, how come this new thing has a significantly better search experience than even what Google has on offer? And how come nothing else has even gotten close? Perhaps it comes down to right time, right person. Erie Data Systems founder Craig J. Stadler says that he got into Usenet in his early 20s, but and he felt the same limitations with Usenet research that I did.\n\n“Every resource I found wasn’t even close to what I wanted in regards to research,” he says. Unlike me, he could do something about it, as he has spent the past decade and a half working on search engine architecture using [Apache Solr](https://solr.apache.org/), a high-speed open-source search platform.\n\n“I made it my mission to make this,” he says. Stadler is a big-data guy who has built massive databases in the past, but even by that standard, Usenet is a particularly large corpus. He apparently spent a full year acquiring data for Usenet-Rewind though a number of resources in what he calls a “no-stone-unturned” approach.\n\n“Many, many archives and resources of dumps, backups, and donations were involved,” he says. “I also built an NNTP Usenet crawler to fill in the gaps and get all new public Usenet data.”\n\n(This was how I learned that there’s a niche RSS reader tool out there that has been archiving every issue of Tedium on Usenet for the past seven or eight years, which, nice work. At least someone’s using Usenet exactly as it was originally intended.)\n\nThe result is one of the most in-depth Usenet archives I’ve seen online, bringing a kind of modern searchability to a service that is traditionally the domain of dedicated clients that haven’t gotten significant upgrades in years. (Plus, it makes room for the casual user. It is possible to use it for free for a limited number of searches with a new account, though if you’re using it with any seriousness, you’ll likely want to pay for a $9.99/month plan.)\n\nAs someone who digs through stuff like patent filings and old newspaper articles, it has always been kind of a disappointing gap that we’ve never had a real Usenet archive online.\n\nThis fills it. But it does cut both ways.\n\n> ### “You should know that Usenet, the battleground for what has become known as The War Between alt.tasteless and rec.pets.cats, is the Internet’s answer to Time Warner’s 500 channels of cable.”\n\n**— A May 1994 assessment** of Usenet, according to [an article in *Wired*](https://www.wired.com/1994/05/alt-tasteless/) discussing an epic flame war between two stylistically divergent newsgroups. Truer words have never been written.\n\n![old-book.jpg](https://proxy.tedium.co/asBRTv19mG0RlYvz0EUGMTzI-Bc=/1000x667/filters:quality(80)/uploads/old-book.jpg)Is Usenet a book you really want to reopen? You never know what teenage experiments in human interaction you might find there. ([Worshae/Unsplash](https://unsplash.com/photos/an-old-book-sitting-on-top-of-a-table-ls8MOmHE6pU))\n### The weird feeling that stewing in 30-year-old Usenet posts gives you\n\n**That Olivia Rodrigo example** from earlier is not really a one-off. Much the opposite. It’s the kind of experience many people under the age of 35 are basically used to at this point: An internet in which their youthful memories and embarrassing moments are just a click away.\n\nThe college student who saved all of their old drinking photos on Facebook or Flickr, the person with the embarrassing Tumblr blog? It’s all still online, waiting for someone to find it. Our collective digital memory has not been particularly well-curated.\n\nBut Usenet was like a big redo for a number of large groups of people, because for decades, the archive was frustratingly incomplete and otherwise hard to reach. Yes, some of it seeped out, but digging for an old Usenet post, even if you remembered your old email address, felt like an archaeological dig.\n\nI think what stands out to me about Usenet-Rewind is that it more or less captures all of it, warts and all. I did a search for my late ’90s email address, and found numerous entries under my name. I then did a search at my email addresses for the two colleges I went to and found a bunch more posts. And I’m not going to lie, most of those posts were not written with the assumption that they would be a part of the permanent record 25 years later.\n\n![screenshot_2026-09-14_23-38-13.png](https://proxy.tedium.co/DTcuyqCxEeP7KkwAH-tzhCJ_ujg=/635x571/filters:quality(80)/uploads/screenshot_2026-09-14_23-38-13.png)Me, 26 years ago, attempting to figure out how to build a career for myself in journalism. In case you’re wondering: I eventually transferred schools, double-majored, and discovered page design. Writing wasn’t my focus for the first five or six years of my journalism career. And no, I don’t know why I called myself a “mad poet” either.So I had my version of the Olivia Rodrigo talent show thing, with a shaky voice and slightly unsure footing, except my voice was completely digital. I was still figuring out what I wanted to put out there, so I put *everything* out there. Penpal requests. Song lyrics. Attempts to extract advice on my budding career. Attempts to figure out chords for songs when I barely knew how to play guitar. My *own* personal rock chart, inspired by Matt Levine’s.\n\nAnd all of that stuff resurfaced, rushing back and reminding me that, oh yeah, you barely knew what you were doing on the internet at this time. I’m sure I’m far from alone on this front.\n\nWhich naturally leads to some privacy questions. Do you want a service resurfacing things that you wrote 30 years ago, presuming that the content would eventually disappear from the face of the internet after a month? (Perhaps this is the reason why Google intentionally weakened the search on Google Groups? Notably, Google was once sued over Usenet posts on Google Groups, but won the case [in a federal appeals court](https://digitalcommons.law.villanova.edu/cgi/viewcontent.cgi?article=1792&context=thirdcircuit_2007).)\n\nFor Stadler’s part, he points to the fact that he offers the ability to do [DMCA takedown notices](https://www.usenet-rewind.com/dmca). So if Michael Wolff decided that he didn’t want people to check out his ’90s attempts at spam, he presumably could send one to Usenet-Rewind and they would take it down. (That said, a DMCA request does have some limits: “Removal from our index does not delete the content from Usenet itself,” the page states.)\n\nBut what about LLMs, which have made Reddit posts into one of their most valuable information sources over the past few years? Stadler makes clear that this data was not gathered for this purpose. “To our knowledge this data is not legally OK to use in an LLM, and we have no intention of going beyond traditional tokenized search,” he says.\n\nThat said, if you did want to look at Usenet in a programmatic way, perhaps to do sentiment analysis of different groups or academic research, the firm does offer a higher-tier plan which includes API access, allowing for deeper, more specific searches of the archives (within reasonable limits). But at $39.99 per month, you’re paying for the privilege.\n\nThe fact of the matter is, this is a corpus that goes back decades, is extremely complete, and taking old posts down might be like a game of Whack-A-Mole. Put another way: Your vintage standards of privacy don’t match your modern ones, and that means your awkward moments, your fights over Star Trek plots, your bad takes on The Simpsons, will remain on someone’s Usenet server forever.\n\n**Over the years** I’ve [spoken passionately](https://tedium.co/2019/10/17/historic-websites-preservation/) about the need to keep old content alive online, to discourage companies from taking it down based on whatever whim they’re feeling on a given day.\n\nUsenet, while never fully taken offline, has never quite been as accessible as it once was. For better or worse, Usenet-Rewind solves that in ways that other tools like [UsenetArchives.com](https://usenetarchives.com/) have never quite been able to. For one thing, the search actually works! (Some will point out that [GigaNews](https://giganews.com/) also has in-depth archives, which I’ll concede, but that’s not quite built for casual users to dive into.)\n\nThe fact is, Usenet hasn’t been a truly mainstream experience for a long time. ([Mozila Thunderbird](https://www.thunderbird.net/en-US/), not exactly the world’s most popular email client, is the closest thing we have to a news reader that folks have heard of.) But it’s packed with information, much of it extremely niche, some of it super-useful. From a research standpoint, being able to dive into this information the way I might on Newspapers.com or Google Patents is a really exciting prospect.\n\n![screenshot_2026-09-14_23-10-21.png](https://proxy.tedium.co/s3XyqtftYmwJXWbDpHR_BTtpUlg=/587x332/filters:quality(80)/uploads/screenshot_2026-09-14_23-10-21.png)John Popper once blocked me on Twitter more than once, which means he once unblocked me and then blocked me again. I expect him to block me on Usenet after resurfacing this, even though I don’t think you could actually block people there. In his defense, his song “The Hook” is one of the best-structured pop songs of the 1990s.Here’s an example: Back in the mid-1990s, MTV would frequently hold moderated online chats with celebrity figures on AOL and, later, IRC. (I mentioned one such chat, with the Butthole Surfers, [way back in 2017](https://tedium.co/2017/10/17/irc-vs-slack-chat-history/).) These chats were all but forgotten after that moment, but many of the transcripts for these ended up on Usenet. A few I found after a couple minutes of digging:\n\n- **[Iggy Pop](https://www.usenet-rewind.com/message/NTNzaThoJDQzbUBuZXdzYmYwMi5uZXdzLmFvbC5jb20) (in response to a question about whether he gets stage fright):** “don’t get so personal,creepo.”\n- **[Mike Judge](https://www.usenet-rewind.com/message/MzhvcDhmJDRybEBuZXdzYmYwMS5uZXdzLmFvbC5jb20) (in response to a question asking if he’s real):** “If you had put a question mark at the end of that sentence I might have been able to answer”\n- **[Chris O’Donnell](https://www.usenet-rewind.com/message/MTk5NzAxMjYwODAxMDAuREFBMTU3NDJAbGFkZGVyMDEubmV3cy5hb2wuY29t) (in response to a question about what it was like to play a soldier in a war movie):** “The fake blood was kinda sticky but it was better than a real bullet in your leg.”\n- **[Marilyn Manson](https://www.usenet-rewind.com/message/MzE4N0QwMkMuNkM4OUByYXQub3Jn) (in an introduction ahead of an IRC chat):** “I think people should have a better attitude towards the newer Marilyn Manson fans because it’s just one more step towards bringing or ideas into the mainstream and I’d rather see them being ‘Marilyn Manson poseurs’ than listening to Hootie & The Blowfish.”\n- **[John Popper](https://www.usenet-rewind.com/message/NGl2MGYzJHQzaEBzdW5kb2cudGlhYy5uZXQ) (when asked for his views on Kraft Macaroni & Cheese):** “I believe that a scam is being perpetrated on the American people. they set up a cute innocent young looking girl to say that there’s so much cheese involved but the cheese should precede the macaroni. But on my own investigation I have found only hollow macaroni spray painted lightly with a cheese-like sauce. I would call it Kraft lightly spray painted with a cheese-like sauce macaroni. Besides, Stouffers kicks butt”\n\nThis information required someone to care enough to copy and paste it elsewhere. It might have been forgotten otherwise. And Usenet-Rewind is full of stuff like this. It’s a treasure trove, and in the right hands, it could lead to some truly fascinating discoveries. After all, when it comes to history, ephemera is often more effective at getting an on-the-ground assessment of a culture than high-level nostalgia.\n\nUsenet can be best thought of as a network of ephemera, and it helps fill the gaps of the pre-Web era that the Internet Archive has rarely been able to capture. (Something tells me that opposition researchers are going to love this thing, because odds are at least some modern-day politicians posted on Usenet in the ’90s.)\n\nCan a thing be an important resource *and* a potential privacy violation? It’s an open question. But I’m just happy that vintage Usenet is a little easier to access these days.\n\n--\n\nThanks to Craig J. Stadler of Erie Data Systems for taking the time to chat about this interesting thing he made. Give [Usenet-Rewind](https://www.usenet-rewind.com/) a look! You might even find yourself hiding in one of these old newsgroups.\n\nFind this one an interesting read? [Share it with a pal](https://tedium.co/2026/09/14/usenet-rewind-archive-revival-website/)!\n\nAnd if you love old digital culture, our sponsor [Computer Chronicles Revisited](https://www.computerchronicles.blog/subscribe/) is very much gonna be up your alley.",
+        "url": "https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website",
+        "source": "Tedium: The Dull Side of the Internet.",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "2026-09-15T02:58:29.000Z",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple",
+        "summary": "## The Keynote\n\nI loved [the keynote](https://www.youtube.com/watch?v=39BalPDuTo0)’s “You want a great opening scene?” opening, which ran through a series of genre-inspired hook-you-from-the-first-sho",
+        "content": "## The Keynote\n\nI loved [the keynote](https://www.youtube.com/watch?v=39BalPDuTo0)’s “You want a great opening scene?” opening, which ran through a series of genre-inspired hook-you-from-the-first-shot pretend movie openings. Apple started with a title card that said “The following was shot on iPhone”, but the whole keynote — including the fun fake-movie openings — was shot on iPhone 18 Pros. [Apple started shooting](https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/) its keynote movies using iPhone Pros in October 2023, [with the “Scary Fast” Mac event](https://daringfireball.net/linked/2023/10/31/downplaying-shot-on-iphone). That first one was shot on the then-just-released iPhone 15 Pro, the first iPhone Pro generation to support the necessary pro video features to enable Apple-level production quality (e.g. ProRes recording and Apple Log encoding).[1](#fn1-2026-09-15) For the next few years, Apple shot each of its keynotes using whatever the current iPhone Pro model was. But last year, with [the September 2025 “Awe Dropping” event](https://www.youtube.com/watch?v=H3KnMyojEQU), they shot the keynote using the as-yet-unreleased iPhone 17 Pro itself — a bit of a risk given that it was running mid-summer iOS 26 beta software. They did the same this year, shooting the entire keynote, including the prelude fake movies, using iPhone 18 Pros. But, they couldn’t say that it was the 18 Pro on the title card because the 18 Pro wasn’t announced until later in the keynote.\n\nThere was at least [one report](https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/) from an ill-informed know-it-all who claimed, with odd certainty given how often he’s wrong, that Tim Cook would not appear in the keynote. But the last segment of the keynote’s cold opening gave us Cook, Tim Cook, framed in an obvious homage to the opening of 2012’s *Skyfall*:\n\n[\n  ![Daniel Craig in “Skyfall”.](https://daringfireball.net/misc/2026/09/craig.jpeg)](https://daringfireball.net/misc/2026/09/craig.jpeg)\n\n[\n  ![Tim Cook in a “Skyfall” homage at the beginning of the keynote.](https://daringfireball.net/misc/2026/09/cook.jpeg)](https://daringfireball.net/misc/2026/09/cook.jpeg)\n\nI’ve stolen those comparison frames from [this splendid blog post by Vaziri, Todd Vaziri](https://fxrant.blogspot.com/2026/09/apple-event-film-2018-vs-james-bond.html), in which he points out a few other Bond homages in this keynote — including using the new variable aperture on the 18 Pro’s main camera as a reference to the Bond title-sequence gun barrel. Fun stuff all around, and a perfect way to commemorate the Cook-to-Ternus passing of the torch.[2](#fn2-2026-09-15) Also, the variety of visual styles in these mini movies really showed off the capabilities of the iPhone 18 Pro as a cinematic camera.\n\nThe little Cook / Bond homage that closes the opening segment starts with a voiceover from Cook himself ([starting at 2m:07s](https://www.youtube.com/live/39BalPDuTo0?t=127)):\n\n> Forget all that. Keep it classic. Open on an aerial shot, high\n> above the California coast. A car drives down the highway. Then it\n> disappears into a tunnel. Cut to an interior. Camera follows a\n> mysterious figure, before revealing our main character...\n\n> \n> No no no no no. Not me. *That’s* your guy. *That’s* your opener.\n\nIt’s a perfect segue, and Cook’s line reading is sublime. Cook’s on-screen persona improved a *lot* in the 15 years he served as CEO and keynote emcee, but even at his best he always came across as a bit, well, stiff. Voicing this introduction of John Ternus, on the other hand, he sounds cool as hell — relaxed, certain, and comfortable. I think the chairman role suits him better than CEO did. He’s a natural born *éminence grise*. And if *this* was Cook’s last appearance in a keynote, he went out on top.\n\n## Ternus’s Turn\n\nFor those of us invited to Apple Park, Ternus actually took the stage in person at 9:58 am, for a brief in-person greeting and introduction. What I recall isn’t anything he said but how he was greeted, which was with tremendous enthusiasm. The annual iPhone events always have a unique charge to them. WWDC is a far bigger event attendee-count-wise, but the September iPhone event is sharper, higher pressure. The exclusivity heightens the stakes — Apple only invites as many people as fit in Steve Jobs Theater: [1,000](https://www.apple.com/newsroom/2017/02/apple-park-opens-to-employees-in-april/). The *new era begins* energy was palpable, if subtle. In the morning meet-and-greet coffee-and-apple-tarts mingling in and outside the Steve Jobs Theater upstairs atrium, attendees were genuinely unsure what to expect. A few were genuinely wondering if Ternus would bring back live-on-stage keynotes. (The apple tarts were supposedly made using apples grown on campus, and were quite good.)\n\nIn person, Ternus wore a dark t-shirt and jacket. In the keynote video, a burgundy shirt that clearly served as a reference to burgundy as the color of the year. (It’s hard to imagine Ternus in a cosmic orange shirt if he’d taken the top job a year prior.)\n\nI think Ternus came across fine as emcee. Not great, but fine. He’s comfortable but I think the role still feels like a new pair of shoes he hasn’t yet broken in. Ternus’s opening line in the video was “Hello, and welcome to Apple Park”. I *think* that’s what he said on stage too. They’re leaving “Good morning!” as Cook’s signature, as they should.\n\nBefore any product announcements, Ternus laid out his theory of an “intelligent personal hub” for the AI era, making the case that if one were to design such a device from the ground up, starting today, you’d wind up with something exactly like an iPhone — with you all the time, with a great display, ubiquitous networking, great cameras and mics, and long battery life. The cynical take would be that this is an “*If all you have is a hammer, everything looks like a nail*” guiding doctrine. Apple is not a leading AI model company, and is completely sitting out the capex data center rat race,  so of course they’re going to argue that the most popular product they make — the iPhone — is the central device of the AI era. But, well, I think it’s true. You need devices to run AI. I wrote an entire column about this back in May — “[AI Is Technology, Not a Product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)” — responding to [Steven Levy’s argument](https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/) that Ternus “needs to launch a killer AI product”.\n\nLevy, in Wired, wrote:\n\n> By the end of this decade, it’s unlikely that people will swipe on\n> their phones to tap on Uber or Lyft. They will just tell their\n> always-on AI agent to get them home. Or that agent will have\n> already figured out where they need to go, and the car will be\n> waiting without the friction of a request. “There’s an app for\n> that,” may be replaced by “Let the agent do that.”\n\nI wrote:\n\n> Actual products have to be real. Actual experiences have to rely\n> on actual products. How exactly in Levy’s end-of-this-decade\n> scenario will we tell our “always-on AI agent” to get us home?\n> What microphone is listening to the command? What speaker is\n> telling us the request was understood and acted upon? What screen\n> do we look at to see how far away the hailed car is? I’d bet a\n> pretty large sum of money that in 2030, when someone hails a\n> ride-share vehicle to take them home, the most common product\n> they’ll use to do that will be their phone. Whether they’re doing\n> it via a verbal command issued to an “always-on AI agent” or good\n> old tapping and swiping, it’ll be a phone.\n\nTernus’s “intelligent personal hub” doctrine seems very much in line with my retort to Levy’s not-entirely-thought-through fantasy. It also sounds an awful lot like a modern-day reimagining of a former Apple CEO’s “digital hub” strategy for the Mac. I highly recommend you take 8 minutes of your time, right now, and watch [Steve Jobs’s introduction of the digital hub strategy](https://www.youtube.com/watch?v=lmvmtmqqbeI) from January 2001’s Macworld Expo. History doesn’t repeat but it does echo, and Ternus’s “intelligent personal hub” sure sounds *exactly* like Jobs’s “digital hub” echoing a quarter century later. If Ternus’s “intelligent personal hub” strategy works out like Jobs’s “digital hub” one did a quarter century ago, Apple’s going to be alright.\n\n## iPhone 18 Pro\n\nHeretofore, to my recollection, the iPhone Pro always came last in the September keynotes (including the years when the higher-tier iPhones didn’t yet have the word “Pro” in their names, like the XS in 2018 and X in 2017). This year the 18 Pro came first. This worked both as the immediate product announcement after Ternus’s expression of Apple’s intelligent personal hub strategy, and to clear the final act of the keynote for the much-anticipated Duo. (It’s [somewhat telling](https://daringfireball.net/linked/2026/09/11/last-years-iphone-share-amongst-users-of-widgetsmith) that the Air didn’t get that cleanup spot in the announcement batting order a year ago.[3](#fn3-2026-09-15))\n\nThoughts on the colors, based on my hands-on experience:\n\n- Black: Truly deep black. Reminds me a lot of the flat black iPhone 7 (not to be confused with the jet black iPhone 7 — [what a year for black that was](https://daringfireball.net/2016/09/the_iphones_7)).\n\n- Silver: Looks good. Not sure how it’s different from last year’s silver, because I had no way to compare side-by-side.\n\n- Glacier: Nice. I think this will be popular. It’s definitely blue, not silver / gray (which you’d hope would be true in general, but especially alongside an explicit silver colorway).\n\n- Burgundy: Last year the iPhone 17 Pro only came in three colors: silver, deep blue, and cosmic orange. I sort of thought of the strategy as “light”, “dark”, and “special”. But this year there are two specials, glacier and burgundy, but burgundy seems more special. Last year cosmic orange was clearly the color of the year. It was the most-used by far in Apple’s advertising, and I suspect it was the most popular sales-wise. Burgundy is that color this year. I don’t like it nearly as much, and I don’t think it will prove to be as popular or as iconic as cosmic orange. The cosmic orange iPhone 17 Pro seems set to go down as one of the most iconic iPhone colors ever made. I don’t think that will be true for the burgundy iPhone 18 Pro.\n\nPricing:\n\n  \n  256 GB\n  512 GB\n  1 TB\n  2 TB\n\n  18 Pro\n  $1,200\n  $1,400\n  $1,800\n  $2,400\n\n  18 Pro Max\n  $1,300\n  $1,500\n  $1,900\n  $2,500\n\nCompared to [the 17 Pro one year ago](https://www.macrumors.com/2025/09/09/2025-iphone-lineup-storage-and-prices/):[4](#fn4-2026-09-15)\n\n  \n  256 GB\n  512 GB\n  1 TB\n  2 TB\n\n  17 Pro\n  $1,100\n  $1,300\n  $1,500\n  —\n\n  17 Pro Max\n  $1,200\n  $1,400\n  $1,600\n  $2,000\n\nSo:\n\n- Max remains $100 extra.\n\n- 2 TB is now available on the regular-size Pro; last year it was exclusive to the Max.\n\n- 256 and 512 GB storage options are only $100 more expensive this year. \n\n- 1 TB costs $300 more this year.\n\n- 2 TB costs $500 more.\n\n256 and 512 GB are by far the most popular sizes (and I think 256 in particular far outsells 512 — the base size truly is large enough for the majority of users), so for most 18 Pro buyers, the RAM/SSD shortage is only resulting in a $100 year-over-year price increase. The higher storage tier prices aren’t too bad, all things considered.\n\nIt’s worth pointing out here that coincident with the announcement of the iPhones 18 Pro and Duo on Wednesday, [Apple raised the prices of all existing iPhones in its lineup](https://www.macrumors.com/2026/09/09/apple-raises-iphone-17-prices/) by the same amounts, depending on storage — $100 for models with 128, 256, or 512 GB storage; and $300 for the iPhone Air with 1 TB.\n\nTechnically, the iPhone 18 Pro mostly offers three new things compared to the 17 Pro: the A20 Pro SoC (faster cores, two Neural Engines instead of one, and 50% faster memory bandwidth); variable aperture on the 1× main camera, ranging from ƒ1.48 to ƒ4.0; and an all-new thermal management system, including a much larger vapor chamber. The A20 Pro means peak performance is faster; the new thermal system allows it to maintain peak performance longer.\n\nIn a curious decision, the regular-sized 18 Pro models ship with Apple’s C2 cellular modem worldwide, but the [18 Pro Max models use a Qualcomm modem in the U.S.](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/), and [the C2 everywhere else](https://x.com/LelloucheNico/status/2098370012570333689). Apple’s C-series modems are power efficiency marvels, with (in my experience) just as good reception and speed. I’d be just ever so slightly bummed about this if I were a Pro Max fan in the US.\n\nThat said, both the 18 Pro and Pro Max models continue to get slightly longer battery life [in the US models](https://www.apple.com/iphone-18-pro/specs/) than [worldwide models](https://www.apple.com/uk/iphone-18-pro/specs/), because the US models are eSIM-only, but most (all?) models elsewhere still have a physical SIM tray. The US models use the space occupied by the SIM tray in international models to make the batteries physically larger. Going by Apple’s new “typical use” tech spec, the US Pro / Pro Max models are rated for 24 / 30 hours respectively; the international models with a physical SIM tray for 23 / 29. Not a big difference, but not nothing.\n\nIn line with my belief that modern iPhones are best thought of as cameras with phones, not phones with cameras, most of the 18 Pro’s year-over-year improvements (and the features that set the Pro models apart from all other iPhones, including the Duo) are related to photography — both still and video:\n\n- Photographic Styles is now up to version 3, adding new controls for “texture”, film-look, and grain. One stated goal of this is to enable shooting images with a less processed look; on the other end of the aesthetic spectrum, though, I think it will also enable shooting with a *more* processed look, with the addition of “glow” and “soft skin” as texture alternatives alongside “film” (which is the only texture with the new grain option). The other, and default, texture option is “standard”, which effectively means no texture processing.\n\n- Apple Reference Image is a new shooting mode (main 1× camera only, because it’s tied to new features on that sensor) that performs pixel-by-pixel signing of the sensor data and embeds that signature in the file. After capture, reference images can be sent to Private Cloud Compute servers for verification and comparison to the original image sensor data. To capture images in Apple Reference format, you must shoot them in that mode, and you must enable that shooting mode first. The embedded sensor data doesn’t make files that much larger, but the sensor data stored in the file does uniquely identify your iPhone. When you “develop” a reference image — something the user must choose to do (not something that happens automatically each time you capture one) — the raw sensor data, sensor identifier, and time window when the image was captured are sent to Private Cloud Compute. When you share a photo captured in Apple Reference Image format, the sensor identifier is *not included* in the developed image, and you have the option to share a plain version without the embedded verification data. Apple Reference Image capture is not available in the EU or China, the world’s two largest bastions of freedom, but [according to an Apple footnote](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/#:~:text=In%20the%20EU), users in the EU “with iOS 27, iPadOS 27, and macOS 27 will be able to develop and view reference images.”\n\n- Cinematic Mode can now be applied after shooting a regular video; on previous iPhones the Cinematic Mode effect was only available via a specific shooting mode.\n\nTo the layman’s eye, though, the 18 Pro just looks like it comes in new colors. That’s not a complaint, just a fact. Oh, but the Face ID infrared camera is now *underneath* pixels on the display, so the Dynamic Island cutout is now smaller. So the part of the Dynamic Island that is always black is smaller, but because there are now more display pixels next to it, the 18 Pro Dynamic Island can now show three active Live Activities, up from two. Apple is getting closer and closer each year to achieving a no-notch / no-cutout display.\n\n## AirPods 5\n\nJust like with AirPods 4, Apple continues to make two different products under the same name. For $130, the cheaper AirPods 5 now have active noise cancellation (previously reserved for the higher-priced tier of AirPods 4), including Transparency and Adaptive modes. For $150, you get AirPods 5 with a wireless charging case (using MagSafe, Qi, or Apple Watch pucks), volume control by swiping up / down on the earbud stems, *and* longer battery life. It’s a much better product for just $20 extra, but it must have worked out well for Apple with a similar split with AirPods 4. I honestly can’t see why anyone should buy the $130 models, but someone must be buying them.\n\nApple provided me with a pair (the $150 model) to review, with no embargo. I wore them on the cross-country plane ride home, and compared them to my own AirPods Pro 3 for noise cancellation. It’s hard to make a direct comparison of the overall acoustic quality, but solely in terms of reducing the noise of the airplane cabin while trying to work, I found the new AirPods 5 with full noise cancellation to be roughly equivalent to the AirPods Pro 3 in Transparency mode. That’s pretty good, and makes the ambient noise level in an airplane much more pleasant. But the full noise cancellation mode of the AirPods Pro 3 delivers an entire step change in noise reduction that the open-ear AirPods 5 cannot match.\n\nI feel bad for people who despise airplane cabin noise but whose ears aren’t comfortable with closed-ear fit earbuds like AirPods Pro. But the noise reduction quality of the AirPods 5 seems impossibly good given their open-ear design. I don’t find AirPods Pro uncomfortable, but I do find regular AirPods more comfortable, especially for long stretches like hours-long flights. I’ll take the small trade-off in comfort for the big improvement in audio quality and noise cancellation with the AirPods Pro, though. With AirPods Pro you can truly forget you’re on an airplane at all if you’re watching a movie with Vision Pro or even on a MacBook or iPad display in a dark cabin.[5](#fn5-2026-09-15)\n\n## Apple Watch Series 12 and Ultra 4\n\nThe big new health thing is a next-generation heart sensor that takes readings every 5 seconds — 60× as frequent as with Series 11 / Ultra 3 a year ago. Apple commissioned a study comparing their new watches against a slew of competing heart rate monitoring devices, [and released a paper with the results](https://www.apple.com/legal/more-resources/docs/Heart_Rate_Accuracy_Study_2026.pdf), claiming that Apple Watch was the most accurate. That’s an Apple-commissioned, Apple-released study, so take it with a grain of salt, but it looks solid to me and I’m unaware of any other studies showing otherwise. (And if I’m reading the results correctly, rings like Oura’s are crummy heart rate monitors.)\n\nUltra 4 looks the same as Ultras 1–3 (although Ultra 1 only came in natural titanium, not black). Series 12 comes in some tweaked colors in matte aluminum ($400) and polished titanium ($700), and for the first time since Series 5 seven years ago, brings back ceramic, in two colors: pearl white and night blue ($900). Those prices are for the smaller 42mm size; add $50 to each of them for the larger 46mm size. As has been true for every Series model to date, only the higher-priced materials come with sapphire crystal displays; the entry-model aluminum models still use Ion-X glass. But now those glass displays offer Ceramic Shield 2, which treatment has [proven to be a tremendous boon to scratch resistance](https://daringfireball.net/linked/2026/08/13/ceramic-shield-2-is-the-real-deal) on iPhones. \n\nThe S11 chip powering the new watches enables [two very interesting, and instantly controversial Apple Intelligence features](https://support.apple.com/en-us/148354):\n\n- Live Rewind is a feature that allows you to double-click the digital crown to bring up a transcript of the last 15 seconds of conversation around you. Apple claims, somewhat preposterously, that audio isn’t being continuously recorded, when it clearly is. What they mean is that audio is only being cached for 15 seconds, continuously. There is no way to set Live Rewind to transcribe more (or less, for that matter) than the last 15 seconds of audio.\n\n- Siri Recap is a feature that produces Apple Intelligence-generated summaries of your conversations throughout the day, while the feature is enabled on your Apple Watch. These are not transcripts, just bullet-point style summaries. You can set Siri Recap to only be enabled during certain times (like work hours), and you can toggle it on and off in Control Center at any time. But when it’s on, that’s the only control you have over it. You can’t manually start / stop conversations to record, like you do when recording something with Voice Memos. You just turn Siri Recap on, and Siri generates summaries when it thinks you’ve had a conversation worth summarizing. It’s entirely and exclusively automatic, when the mode is enabled.\n\nNeither of these features are available in WatchOS 27.0. They’re both described as coming “in beta later this year”. I asked Apple reps if that meant 27.1, and they wouldn’t answer other than to repeat “later this year”, but I thought I saw a smile. Both features are English-only for now.\n\nSome people are objecting to the very existence of these features as privacy intrusive. I think they’re pretty reasonably thought out. There are surveillance cameras all over the place now. I was walking home from dinner here in Philadelphia a few weeks ago with a friend visiting from out of town, talking about this, and he stopped midway between the restaurant and my house and asked me to count how many cameras we were on at that spot. I think we counted seven or eight. Who knows how many we missed? I’m not saying that’s good or bad, it’s just the world today. So too it’s soon going to be with personal devices recording audio. This is inevitable. I’m glad to see Apple ship features like this early, with pretty limited scope, to provide good examples before other companies ship devices that record and save audio continuously throughout the day. I think it’s better for Apple to lead with privacy-minded versions of ambient transcripts and AI-generated conversation summaries than to follow *after* other products have hit the market with all-day recordings and whole-life transcripts.\n\nThink back to Apple’s announcement of AirTags. A lot of people had a perfectly reasonable “*Hey I don’t know if it’s a good idea for a product like this to even exist*” initial reaction. But having Apple lead the way actually proved good. I suspect Live Rewind and Siri Recap will turn out like that.\n\nIt’s also interesting to think about why these two features are only on Apple Watch, not iPhone. I think it’s because once an Apple Watch is on your wrist and unlocked, it remains a “trusted device” until you take the watch off. An iPhone is only a trusted device while it’s unlocked. It’s locked, and thus untrusted, while it’s in your pocket or bag, or even just sitting on a desk. I leave my iPhone unattended in our kitchen all the time. I’m often not in the room for conversations that take place in the kitchen while my iPhone is there, sitting on the counter. I shouldn’t get summaries of those conversations. And, thinking more nefariously, I shouldn’t be able to hide my iPhone on or near someone’s desk, or in a conference room, or in a car, or anywhere else, to get Siri Recap summaries of conversations where I’m not present. Making this an Apple Watch exclusive feature avoids that. Thus, I think Apple Watch can be trusted to “listen” ambiently, all the time while it’s unlocked on the wearer’s wrist, in ways that even an iPhone can’t.\n\n## iPhone Duo\n\nTernus broke out the hallowed “But actually, there is one more thing...” to introduce the Duo, which line — to circle back to the keynote’s intro — is for Apple CEOs what “Vodka martini, shaken not stirred” is for actors playing James Bond.[6](#fn6-2026-09-15)\n\nPre-orders for the Duo don’t start until October 16, and it doesn’t ship until October 23. In my experience, Apple never seeds review units for any product until a few days before pre-orders open, so we’re not going to hear or see anything more about the Duo until those review embargoes lift on October 20 or 21, I bet.\n\nDuo is available in only two colors: star white (polished silver) and night sky (a deep blue-black). As predicted, the Duo is expensive. I’ll put it alongside the 18 Pro models for comparison:\n\n  \n  256 GB\n  512 GB\n  1 TB\n  2 TB\n\n  18 Pro\n  $1,200\n  $1,400\n  $1,800\n  $2,400\n\n  18 Pro Max\n  $1,300\n  $1,500\n  $1,900\n  $2,500\n\n  Duo\n  $2,000\n  $2,200\n  $2,600\n  $3,200\n\nAt every storage tier, it’s $800 more than an 18 Pro and $700 more than an 18 Pro Max.\n\nKey facts:\n\n- It has no Face ID sensor, either open or closed. The only authentication is an iPad Air-style Touch ID side button.\n\n- It has a Camera Control button, but does not have an Action button.\n\n- The interior display has a matte nano-texture display. It looks great and apparently this is a key element of Apple’s efforts to make the crease as unnoticeable as possible. By next year I expect all competing foldables to have matte interior displays and 1.4 : 1 aspect ratio displays.\n\n- It is very satisfying to open and close.\n\n- The outer glossy screen has a “Center Stage” 12 megapixel front-facing camera, that seems very similar to the 18 megapixel Center Stage front cameras in the iPhone 17 generation phones. Year-ago tech but still high quality. There’s a circular hole punch in the corner of the display for this camera.\n\n- The inner matte screen has an under-the-display “FaceTime” camera for which Apple hasn’t even given a megapixel count. Clearly this is a lesser camera — the question is how much lesser. The idea presumably is that this camera is solely for use in Zoom or FaceTime apps, where you might want to use the bigger inner display to view the meeting, and don’t care as much about your own image quality. But there’s no reason ever to capture a self portrait with the camera on the larger inner display. If the Duo is opened, and you care about image quality for self portraits, you can shoot using the *main* camera and use the small display to frame yourself, turning the large display around to the back. When not using the inner FaceTime camera, there is no visible cutout showing where it goes. If you look closely at the display however, you can see where it is. Under-display cameras aren’t magic.\n\n- The regular cameras are a 1× / 2× main, and a 0.5× ultra wide. I suspect the main 1× camera is very similar optically to that of the iPhone Air, but the Duo has A20 Pro features like Photographic Styles 3, although it lacks Pro Controls, Apple Log, [genlock](https://www.apple.com/newsroom/2025/09/apple-announces-final-cut-camera-2-0/), and other pro camera features. (The Air only has last year’s Photographic Styles 2.)\n\nThe initial introduction of the Duo was handled by two keynote newcomers: industrial design VP [Molly Anderson](https://www.apple.com/leadership/molly-anderson/), and human interface VP [Steve Lemay](https://www.apple.com/leadership/steve-lemay/). A hardware / software design duo (*ahem*), if you will. What made it worth having Anderson and Lemay present together is that the iPhone Duo exemplifies Apple’s integrated approach to product design. Are they a hardware company that writes their own software or a software company that makes their own hardware? The answer is yes.[7](#fn7-2026-09-15) The defining aspect of the Duo isn’t that it folds open and closed — we’ve seen almost a decade of Android phones that do that — but its aspect ratio, roughly 1.4 : 1. Because that’s effectively the square root of 2, doubling the outer display’s shorter dimension when you unfold it produces an inner display with roughly the same aspect ratio. That’s elegant and satisfying conceptually. And I think in practice it will feel right, too.\n\nHeretofore the iPhone has only had three display aspect ratios:\n\n- The original iPhone (2007) display was precisely 3 : 2 (480⁠ ⁠×⁠ ⁠320 pixels, and let’s call it 1.5 : 1 for comparison’s sake to the following ratios), and this remained true through the iPhone 4 and 4S (960⁠ ⁠×⁠ ⁠640 pixels, 2× retina).\n\n- Then the iPhone 5 (2012) display size went from 3.5 inches to 4 inches, but added all the extra pixels on the long dimension. Held vertically, it got taller, but not at all wider, changing the aspect ratio to 16 : 9 (roughly 1.77 : 1). This 16 : 9 aspect ratio held for all of the 5, 6, 7, and 8 generation iPhones, including the Plus models.\n\n- The iPhone X (2017) introduced the “all-screen” era. The actual device hardware [didn’t change size or aspect ratio by much](https://www.apple.com/iphone/compare/?modelList=iphone-x,iphone-8,iphone-8-plus), but eliminating the chin (with Home button) and forehead and filling those areas with the screen, the display aspect ratio went to roughly 2.17 : 1, and every new model since then, including the new iPhone 18 Pro and Pro Max, has maintained that aspect ratio.[8](#fn8-2026-09-15)\n\nThus, over 20 years, iPhone displays (and thus all phones, since all the other phones mostly just copy iPhones) have only gotten more elongated: from 1.5 : 1 to 1.77 : 1 to 2.17 : 1. Now, though, the iPhone Duo goes *squatter than the original iPhone* for the first time, to 1.4 : 1 on both the outer and inner displays.[9](#fn9-2026-09-15) That’s a noticeable change from the original iPhone, but it’s a downright striking change from every iPhone released in the last 10 years.\n\nThis aspect ratio is *so* different that it demands a different UI layout for the Duo to have any chance at being a good experience. That’s exactly what Apple has done, and what Steve Lemay was there in the keynote to unveil. A lot of UI chrome that previously was at the top or bottom of the display is now on the right — the dock on the home screen, the toolbars in apps, etc. And these elements are always on the right. You can’t turn the Duo upside down to move them to the left, nor is there an accessibility setting to move them to the left. This layout puts these controls on the right not because 90 percent of people are right-handed and Apple thinks lefties can get bent, but, I think (and so I’ve been told in conversations with Cupertinoites), because that’s the nature of a book-like shape. The arrow keys on keyboards always fall on the right, publishers don’t print left-handed books, and carmakers don’t make left-handed steering wheels. The right-side bias in the Duo iOS layout is like that.\n\nI’ve only spent a few minutes, in total, playing with the Duo, so I really can’t say whether it succeeds or not. But I will say that it’s *weird*. Not saying it’s weird *good* or weird *bad* — just weird *different*. In some ways iOS on the Duo feels more different from iOS on all other post-iPhone-X phones than iOS on the original iPad felt from iOS on the iPhones of that time. The original iPad just felt like a much bigger iPhone. The Duo feels like a different layout entirely, in every single app that I had time to poke around with.\n\nIs the Duo good? I do not know. Is it different? Very much.\n\nHere’s the thing. If you take a 2 : 1 or even 2.2 : 1 aspect ratio phone display and turn that into a book-like foldable, the inner screen comes out square — or so close to square that we might as well just call it square. Nobody makes any device of any sort that just has a square display. Square is a terrible aspect ratio for a phone or a tablet or a laptop or a desktop display. The only square displays on the market are the inner displays for Android foldables from the last decade. Square being a shitty aspect ratio is half the reason [almost no one has bought those things](https://daringfireball.net/linked/2026/09/07/birchler-folding-iphone-predictions). The other half of the reason is that no developers truly adapted software to take advantage of the double-area inner displays. Google didn’t do it, Samsung didn’t do it, and since neither of them bothered to do it, of course third-party developers didn’t do it either. Nothing *adapts* to the inner display on Android foldables — it just *expands* to fill the space.\n\nApple’s insight to go with 1.4 : 1 on the outside and thus also 1.4 : 1 on the inside gives the Duo a chance. Maybe this will be a huge hit. But maybe not? There are no 5-inch phone displays with aspect ratios anywhere near as squat as the Duo’s. That’s a tablet aspect ratio. The current A17 Pro iPad Mini has a 2266⁠ ⁠×⁠ ⁠1488 pixel display: roughly 1.5 : 1. The 11-inch iPad Air is 1.4 : 1 and the 13-inch Air is 1.33 : 1. So I think the Duo’s inner display is going to feel just right.\n\nBut that outer display? I don’t know. Even in the best case, it’s going to be no better than a tolerable compromise. If it were actually a good idea there would be non-folding phones with 1.4 : 1-ish squat displays, and there aren’t any such phones. And even if the Duo proves to be a hit, I don’t think there will be. If you only have one display you don’t want it to be the size and shape of the Duo’s outer display. So the questions are: How tolerable has Apple’s UI redesign made it? And how will Duo users split their time between using it closed vs. using it open? Someone who spends more of their time using it open might absolutely love it with a “you’ll take it away only from my cold dead hands” fervor. Someone who winds up mostly using the outer display because so many of their iPhone interactions are quick *take it out → use it for a bit to check something, jot something down, or snap a quick photo → put it back in pocket / bag* situations, might wind up regretting it.\n\nGiven the design brief of creating a book-shaped foldable phone, I feel quite certain already that Apple has nailed it with the Duo. But having only seen the keynote spiel and poked around with one in hand for a few minutes Wednesday afternoon, I think it remains an open question whether a book-shaped foldable phone is a good idea in the first place. Folks from Apple who have actually spent time carrying the Duo seem genuinely enthused. I remain highly skeptical about its appeal for me personally, and somewhat skeptical about its appeal broadly. That’s OK if it’s not suited for me, but is suited for many (but not most) people. No one in the keynote described the iPhone Duo as the future of iPhone, like they did when introducing the iPhone X in 2017. I just wonder if the fundamental idea appeals to all that many people at all. We’ll find out starting in late October.\n\nRegarding some specific Duo details:\n\n- The lack of Face ID is a serious sad-trombone bummer, and in my opinion could sink the first-generation model. Side-button Touch ID is OK, but OK is not *good*, and even good is not *insanely great*. Face ID is insanely great. For whatever reason, the only iPads with Face ID are the iPad Pro models. Every time I review an iPad Air or iPad Mini, my biggest gripe is the lack of Face ID. I complained about it [reviewing the iPad Air in 2022](https://daringfireball.net/2022/03/the_2022_ipad_air#:~:text=Face%20ID%20alone%20is%20worth%20%24150) and [the iPad Mini in 2021](https://daringfireball.net/2021/09/the_2021_ipad_mini#:~:text=biggest%20annoyance), and in the five years since then my annoyance has only grown. With Face ID, so long as you’re looking at the screen as you unlock the device, it’s like not having it locked at all. It just unlocks, seemingly automatically. With Touch ID you must think about putting one of your registered fingers on the button every single time you unlock it. It never ever feels automatic. I feel quite certain Apple tried to fit a Face ID sensor on the outer Duo display and could not make the engineering work.\n\n- I’m much more concerned about convenience than security, but Face ID is 20× more secure than Touch ID. That’s according to Apple’s own [Apple Platform Security](https://help.apple.com/pdf/security/en_GB/apple-platform-security-guide-b.pdf) whitepaper, updated just last month, which states:\n\n> The probability that a random person in the population could\n> unlock a user’s iPad, iPhone, or Apple Vision Pro is less than 1\n> in 1 million with Optic ID or Face ID — including when Face ID\n> with a mask is turned on. For a user’s iPad, iPhone, Mac models\n> with Touch ID, and those paired with a Magic Keyboard with Touch\n> ID, it’s less than 1 in 50,000. This probability increases with\n> multiple enrolled fingerprints (up to 1 in 10,000 with five\n> fingerprints) or appearances for Face ID (up to 1 in 500,000\n> with two appearances).\n\n- As a sign of how inconvenient the lack of Face ID is, Apple is promoting the fact that the iPhone Duo can be unlocked by your Apple Watch, like a Mac. No other iPhone needs such a crutch.[10](#fn10-2026-09-15) Based on my experience with Touch ID iPads, wearing an Apple Watch all the time to unlock the Duo will feel essential. I don’t wear an Apple Watch all the time, and don’t want to start wearing an Apple Watch all the time, so I suspect this alone will keep me from switching to an iPhone Duo personally. On the other hand, for people who *do* wear an Apple Watch all the time and are happy to do so, the Duo’s lack of Face ID might prove to be only an occasional inconvenience rather than a constant annoyance.[11](#fn11-2026-09-15)\n\n- [Contrary to some speculation](https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/), the Duo does support MagSafe. (Samsung’s latest, the Galaxy Z Fold8 and Fold8 Ultra, support inductive Qi charging but don’t have magnets, so you need to use a case or something to get chargers to snap into place.)\n\n- Closed, the Duo has — per Molly Anderson’s dulcet keynote description — “a distinctive asymmetric shape, with two rounded corners, that invites you to open it.” Expect this to be copied by every other foldable phone in 2027, and then for Android dorks to argue that it’s a totally obvious design. (Same for the matte interior display.)\n\n- Apple rates the Duo as IP68 for dust and water resistance, [with exactly the same description](https://www.apple.com/iphone/compare/?modelList=iphone-duo,iphone-air,iphone-18-pro) as the iPhones 18 Pro (and all other iPhone models currently in the lineup): “Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529”. Samsung’s new [Z Fold8 is only IP48](https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge). With these [IEC ratings](https://www.iec.ch/ip-ratings) the second numeral is for water. The first numeral is for “solid foreign agents” (read: dirt and dust). iPhone Duo’s IP6*x* rating means “dust-tight”. The Z Fold8’s IP4*x* rating isn’t even “dust-protected” (that would be IP5*x*) but instead only protection against particles 1mm or larger. 1mm is pretty big for a piece of grit. That doesn’t mean it’s susceptible to ingress from every particle smaller than 1mm, but it’s not good. Pocket lint is a real thing and people put their phones in their pockets.\n\n## I’m Trying So Hard Not to Be Insufferable About Predicting the ‘Duo’ Name That I’ve Put This Entire Section 6,500 Words Deep Into the Column\n\nYours truly, [back on April 14](https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone):\n\n> I have no inside knowledge about what Apple plans to name this\n> device, but I’ll eat my proverbial hat if they name it “iPhone\n> Fold”. That name is so dumb it’s what Samsung calls their\n> foldables. You don’t name a device for what it does, you name it\n> for what it connotes. A good name conveys feeling, not just\n> function. “iPhone Ultra” or “iPhone Max” would both work, and\n> *Ultra* sounds more luxe. So while unsurprising, that’s probably\n> the best bet, even without the reliable word of Mr. Digital Chat\n> Station.\n\n> \n> But if you want my take on a wildcard name, one with some\n> [history](https://everymac.com/systems/apple/powerbook_duo/index-powerbook-duo.html), how about “iPhone Duo”?\n\nMy thinking re: “Duo” seemingly jibed with that of Apple’s crack marketing team:\n\n- It’s two devices in one.\n\n- The early 1990s [PowerBook Duo](https://everymac.com/systems/apple/powerbook_duo/index-powerbook-duo.html) (and [corresponding Duo Dock](https://apple.fandom.com/wiki/Duo_Dock)) were extraordinary Macs that were ahead of their time.\n\n- It’s not *ultra*, if we take ultra to mean “better than what’s less than ultra in every way”. The iPhone Duo is different — quite different — from the iPhones Pro but, to name one conspicuous example, the iPhones Pro have better camera systems. (The Duo is ultra-priced, but one can also say it’s double-priced.)\n\n- *Duo* looks and sounds so good alongside *Neo*.\n\nWhen I suggested “Duo” in April and [again the day before the event](https://daringfireball.net/linked/2026/09/07/birchler-folding-iphone-predictions), the number one objection was that Microsoft had used the name “Duo” [for one](https://www.microsoft.com/en-us/d/surface-duo-unlocked/8S3V46W10HFR?activetab=pivot:overviewtab) of its many forgettable Surface products. The half dozen or so readers who argued thus might be the only people alive who remember this product. No one cares. Microsoft [also had a Surface Neo](https://en.wikipedia.org/wiki/Surface_Neo), and no one cares about that one either. Even if Apple hadn’t offered a line of (successful, memorable) PowerBook Duos from 30 years ago, it wouldn’t matter that Microsoft had used “Duo” in 2020. For chrissakes [Cisco had the rights to the name “iPhone” in 2007](https://en.wikipedia.org/wiki/IPhone_(trademark)) and had been making products with the name since 1998.\n\nI love the name Duo for this iPhone. It just feels right. And, just five days in, I already find myself saying and writing just “Duo”, without “iPhone”, when referring to it.\n\n## Miscellaneous\n\n- Too many cooks spoil the stew. It was very fun and a little touching to have *the* Cook hand things off to Ternus at the start, but I think there were too many presenters in the keynote. Duo was effectively introduced three or four separate times. First by the Anderson / Lemay (*I’m going to pun it again*) duo, then Joz, then Craig Federighi (covering much of the same software ground Lemay did), then Johny Srouji (covering much of the same ground Anderson did). Maybe the thinking was that everyone wanted a part in Ternus’s debut keynote. Maybe this is just the way of the future — many small segments, rather than one continuous on-stage live monologue. It didn’t make the keynote run overly long (running time was just 1h:17m), so maybe I’m all wet here. But I think what I wanted was to see Ternus do more of the explaining — not just the *what* but the *why*.\n\n- [Apple’s YouTube video of the entire keynote](https://www.youtube.com/watch?v=39BalPDuTo0) has over 49 million views, and that doesn’t count the views from Apple’s own hosted version, presented on Apple.com and Apple TV. [Apple has](https://www.youtube.com/@Apple/videos) 12 other shorter keynote-related videos on YouTube, including “[Introducing the new iPhone 18 Pro](https://www.youtube.com/watch?v=Q3zwkxqh1t0)” with 18 million views, and “[Introducing the new iPhone Duo](https://www.youtube.com/watch?v=FUfGcZ092b0)” with 28 million views. For comparison, [this year’s WWDC keynote on YouTube](https://www.youtube.com/watch?v=hF8swzNR1-o) has 8.9 million views. 9 million views is a hell of a view count for the introduction of operating systems, but the iPhone remains king — not just for Apple, but the industry. It remains the Super Bowl of the annual tech calendar. \n\n- For an even better comparison, [in the full version](https://archive.org/details/mwsf01_300) of that 2001 Macworld Expo keynote that I suggested you watch earlier in this column — the one where Steve Jobs introduced the Mac-as-digital-hub strategy — when Jobs takes the stage, he’s beaming with pride when he says there are “tens of thousands” of people watching the stream live. Both streaming and Apple have come a long way in 25 years.",
+        "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Web Dev",
+          "Hardware"
+        ],
+        "published_at": "2026-09-15T17:54:09.000Z",
+        "reading_time": 39,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
   },
-  "highlights": [],
+  "highlights": [
+    "[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It - If you want more people using your product, the easiest place to start is making it easier...",
+    "Tell agents the why, not just the how - Early AI agents were basically enthusiastic idiots. Working with them required you to tell...",
+    "Shadowing the Standard Library - I was reading [Johann Rehberger’s write-up](https://embracethered.com/blog/posts/2026/brea...",
+    "Pluralistic: Everybody pees (15 Sep 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http...",
+    "alt.time-capsule.reopened - **Today in Tedium:** Last week, my past caught up with me. In 2026, I found myself looking..."
+  ],
   "wordcloud": [
     {
-      "word": "work",
+      "word": "vectors",
+      "count": 6
+    },
+    {
+      "word": "similarity",
+      "count": 4
+    },
+    {
+      "word": "apple",
+      "count": 4
+    },
+    {
+      "word": "want",
+      "count": 4
+    },
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "com",
+      "count": 4
+    },
+    {
+      "word": "cosine",
+      "count": 3
+    },
+    {
+      "word": "words",
+      "count": 3
+    },
+    {
+      "word": "rss",
+      "count": 3
+    },
+    {
+      "word": "diamond",
+      "count": 3
+    },
+    {
+      "word": "mp",
+      "count": 3
+    },
+    {
+      "word": "player",
+      "count": 3
+    },
+    {
+      "word": "great",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "access",
+      "count": 3
+    },
+    {
+      "word": "agents",
       "count": 3
     },
     {
@@ -413,7 +520,127 @@
       "count": 3
     },
     {
-      "word": "want",
+      "word": "post",
+      "count": 2
+    },
+    {
+      "word": "angles",
+      "count": 2
+    },
+    {
+      "word": "large",
+      "count": 2
+    },
+    {
+      "word": "club",
+      "count": 2
+    },
+    {
+      "word": "sorry",
+      "count": 2
+    },
+    {
+      "word": "feed",
+      "count": 2
+    },
+    {
+      "word": "you're",
+      "count": 2
+    },
+    {
+      "word": "posts",
+      "count": 2
+    },
+    {
+      "word": "available",
+      "count": 2
+    },
+    {
+      "word": "rio",
+      "count": 2
+    },
+    {
+      "word": "pmp",
+      "count": 2
+    },
+    {
+      "word": "wasn",
+      "count": 2
+    },
+    {
+      "word": "epidemic",
+      "count": 2
+    },
+    {
+      "word": "stay",
+      "count": 2
+    },
+    {
+      "word": "discoverable",
+      "count": 2
+    },
+    {
+      "word": "disallowing",
+      "count": 2
+    },
+    {
+      "word": "training",
+      "count": 2
+    },
+    {
+      "word": "agent",
+      "count": 2
+    },
+    {
+      "word": "workers",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "sso",
+      "count": 2
+    },
+    {
+      "word": "add",
+      "count": 2
+    },
+    {
+      "word": "tell",
+      "count": 2
+    },
+    {
+      "word": "week",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "sep",
+      "count": 2
+    },
+    {
+      "word": "series",
+      "count": 2
+    },
+    {
+      "word": "ternus",
+      "count": 2
+    },
+    {
+      "word": "keynote",
+      "count": 2
+    },
+    {
+      "word": "opening",
       "count": 2
     }
   ]
