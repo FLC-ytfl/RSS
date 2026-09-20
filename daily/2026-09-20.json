@@ -1,0 +1,576 @@
+{
+  "date": "2026-09-20",
+  "stats": {
+    "total_fetched": 273,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 23,
+    "long_articles": 7
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "datasette-explain 0.2.2",
+        "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p> <blockquote> <ul> <li>Explain plans now work on read-only stored-query pages.</li> </u...",
+        "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Database",
+          "AI/ML"
+        ],
+        "published_at": "2026-09-20T00:22:04.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆",
+        "summary": "This book, by The Times' former Architecture Correspondent, stands in direct opposition to A City on Mars. Whereas that book presented a (perhaps too) sceptical look at the realities of living on other planets, Jonathan...",
+        "url": "https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Sun, 20 Sep 2026 11:34:30 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "This is why we play",
+        "summary": "A meditation on gaming, community, and the purpose of negative space",
+        "url": "https://xeiaso.net/blog/2026/this-is-why-we-play/",
+        "source": "Xe Iaso's blog",
+        "tags": [
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "Mon, 21 Sep 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Donate Unrestricted",
+        "summary": "",
+        "url": "http://www.paulgraham.com/donate.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Web Dev"
+        ],
+        "published_at": "2026-09-20T23:41:41.957Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Quoting voxium",
+        "summary": "20th September 2026\n\n> It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, et",
+        "content": "20th September 2026\n\n> It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Everyone, literally everyone, from an L1 to an L7 engineer here is doing the same thing. Talk to Claude.\n\n— [voxium](https://twitter.com/v0xium/status/2101526107128529120)",
+        "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Systems"
+        ],
+        "published_at": "2026-09-20T21:06:43.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "llm-keys-ui 0.1",
+        "summary": "This plugin solves a very specific problem.\n\nI've started using [Codex Remote](https://learn.chatgpt.com/docs/remote) to run coding agents on various machines while controlling them from my phone. \n\nS",
+        "content": "This plugin solves a very specific problem.\n\nI've started using [Codex Remote](https://learn.chatgpt.com/docs/remote) to run coding agents on various machines while controlling them from my phone. \n\nSometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key.\n\nI don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly.\n\nWith this plugin, I can tell Codex to run:\n\n```\nuvx --with llm-keys-ui llm keys-ui --all\n\n```\n\nThen have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys.\n\nThen later it can use a command like `llm keys get anthropic` as part of a shell command when it needs to use a key.\n\n![Chat conversation requesting uvx --with llm-keys-ui llm keys-ui --all, with a response listing four server URLs on port 8010 and confirming the server is still running.](https://static.simonwillison.net/static/2026-09-20/IMG_8166.jpeg)\n  ![LLM keys web interface listing anthropic, openai, openrouter, and qwen-dummy as stored keys, with a form containing Key name and New value fields and a Save key button. Existing key values are never displayed.](https://static.simonwillison.net/static/2026-09-20/IMG_8167.jpeg)",
+        "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Security"
+        ],
+        "published_at": "2026-09-20T19:22:19.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "WorkOS: How SSO Works and the Fastest Way to Add It",
+        "summary": "If you want more people using your product, the easiest place to start is making it easier to actually sign up. Adding SSO to your app will help you land those larger enterprise deals and remove the s",
+        "content": "If you want more people using your product, the easiest place to start is making it easier to actually sign up. Adding SSO to your app will help you land those larger enterprise deals and remove the signup friction that keeps causing your visitors to drop off. For modern developers though, the world of XML, SOAP, and OASIS standards can be opaque.\n\nOur guide will walk you through SSO: what it is, why it’s important, and best practices for setting it up and integrating it with your app.\n\n## The basics: what SSO is and why you should care\n\nThe easiest way to understand SSO quickly is to think about your app’s authentication as a service. Most developers build the service themselves: you take care of creating usernames and passwords, add them into a database, and check credentials every time someone logs in. But in the same way that you skip building payments infrastructure and use Stripe, you can “outsource” your auth and have someone else do it; and that’s what SSO is.\n\nIf you’ve heard of SSO before, you’re probably thinking of it as a security feature and that’s true, but where it really shines is through **increased engagement**. Making it easier to sign up and sign-in to your product lowers friction for users, increases retention through smoother login flows, and helps you land those elusive enterprise deals (many enterprises can’t work with vendors who don’t support SSO).\n\nApps with SSO enabled allow users to authenticate through someone else’s service. Instead of managing usernames and passwords, you integrate with a provider like Okta or OneLogin that does it for you. Those services, called Identity Providers (IdPs), are generally more full-featured and secure than what your typical growing startup would be able to build themselves.\n\nSSO is a given among everyone from high growth startups to more traditional enterprises. Here’s Vercel's login page: they support SSO with Okta, Google, OneLogin, and more.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/67ab7fbc758e9480d224c46a_sso.webp)\n\nSlack, Asana, Notion, Loom, and Webflow all support SSO too. It’s pretty much part of the standard growth playbook.\n\n## Learning the lingo: SAML, SPs, IdPs, and assorted acronyms\n\nLet’s get a little deeper into how SSO works. One thing worth noting: SAML isn’t the only protocol you can use to implement SSO. [OAuth (1.0 and 2.0)](https://workos.com/blog/oauth-vs-oauth-2-differences-what-you-need-to-know) are also popular, as well as WS-Fed and [OpenID Connect (OIDC)](https://workos.com/blog/what-is-oidc). The broad concepts can carry over across protocols, too.\n\nIf you’re integrating SSO into your app, you’re a service provider (SP). Your app is the service. The provider that you’re “outsourcing” identity to, like Okta or OneLogin, is called the identity provider (IdP). Where things start to get complex is when your app needs to communicate with IdPs to actually authenticate your users. SSO works with a communication protocol called SAML (Security Assertion Markup Language) that governs these phone lines.\n\nLet’s walk through a typical SAML flow, starting with a user trying to sign in through your site.\n\n- When a user navigates to your login page, they’ll either enter their email or click a button that takes them to an IdP portal like Okta. Your app issues a SAML request (and a browser redirect) to the IdP. It’s basically saying, “Hey, this user wants to sign in, do me a favor and verify that I should let them in.”\n- At the IdP, the user will enter their full credentials, and deal with more extensive security measures like 2FA. Once they’ve successfully authenticated with the IdP, the IdP sends your app a response containing an assertion: this user is good to go, and you can let them in. We call this assertion a SAML authorization response.\n- The app receives the response from the IdP, checks it, and sends an one-time auth code.\n- The app receives the user profile. The user is now able to access the application without needing to log in again. The user's session is managed by the service provider, which maintains the authentication state and ensures the user remains logged in as long as the session is valid.\n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/671fb90773af02208dd98d67_671fb8fcbca789d0186f227e_6234a00964f3353856319e76_614cf094e5c1fd4c4da94330_SAML%25252520flow.webp)\n\nSAML works through **assertions**. These are recorded and transferred as XML documents (for all those SOAP fans out there. Nobody? Ok).\n\nHere’s an example of what a response containing an assertion might look like (thanks to [OneLogin](https://www.samltool.com/generic_sso_res.php)):\n\n`\n\n  \n  http://idp.example.com/metadata.php\n  \n    \n  \n\n  http://idp.example.com/metadata.php\n  \n    \n  YOCfzMPwhVQibcTRRyuCb5vlTDU=VXQGwtQsc/rTuCFspZwD6k4i6fKr4ymYfCiI5Ve9JO5LYRG7VNPzIq5Mr/JW/0btpui4cmQVK//wA89nLe+g2wxDizx32CnOBsshoF3YTDOs586SJt+Ty/h/X886Xhqu8XsdMiD/spyU8rGhIQP2OL65k6HoSFxtPqKt1+KOdkE=\nMIICajCCAdOgAwIBAgIBADANBgkqhkiG9w0BAQ0FADBSMQswCQYDVQQGEwJ1czETMBEGA1UECAwKQ2FsaWZvcm5pYTEVMBMGA1UECgwMT25lbG9naW4gSW5jMRcwFQYDVQQDDA5zcC5leGFtcGxlLmNvbTAeFw0xNDA3MTcxNDEyNTZaFw0xNTA3MTcxNDEyNTZaMFIxCzAJBgNVBAYTAnVzMRMwEQYDVQQIDApDYWxpZm9ybmlhMRUwEwYDVQQKDAxPbmVsb2dpbiBJbmMxFzAVBgNVBAMMDnNwLmV4YW1wbGUuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZx+ON4IUoIWxgukTb1tOiX3bMYzYQiwWPUNMp+Fq82xoNogso2bykZG0yiJm5o8zv/sd6pGouayMgkx/2FSOdc36T0jGbCHuRSbtia0PEzNIRtmViMrt3AeoWBidRXmZsxCNLwgIV6dn2WpuE5Az0bHgpZnQxTKFek0BMKU/d8wIDAQABo1AwTjAdBgNVHQ4EFgQUGHxYqZYyX7cTxKVODVgZwSTdCnwwHwYDVR0jBBgwFoAUGHxYqZYyX7cTxKVODVgZwSTdCnwwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQ0FAAOBgQByFOl+hMFICbd3DJfnp2Rgd/dqttsZG/tyhILWvErbio/DEe98mXpowhTkC04ENprOyXi7ZbUqiicF89uAGyt1oqgTUCD1VsLahqIcmrzgumNyTwLGWo17WDAa1/usDhetWAMhgzF/Cnf5ek0nK00m0YZGyc4LzgD0CROMASTWNg==\n    \n      _ce3d2948b4cf20146dee0a0b3dd6f69b6cf86f62d7\n      \n        \n      \n    \n    \n      \n        http://sp.example.com/demo1/metadata.php\n      \n    \n    \n      \n        urn:oasis:names:tc:SAML:2.0:ac:classes:Password\n      \n    \n    \n      \n        test\n      \n      \n        test@example.com\n      \n      \n        users\n        examplerole1\n      \n    \n  \n\n`\nThe flow we just outlined is called [​**SP-initiated​**](https://workos.com/docs/sso/login-flows/sp-initiated-sso), because it started at ​your​ app, and you’re the service provider.\n\nThere’s another way this can go down though: users can ​start​ at their IdP (like the Okta app directory), click on which app they want to sign into, and then authenticate and redirect. That’s called ​[**IDP-initiated​**](https://workos.com/docs/sso/login-flows/idp-initiated-sso).\n\n## Getting practical: how to add SSO to your app\n\nLike pretty much anything in software, there are two ways to add SSO to your app: you can build it yourself or pay someone else to do it for you.\n\n### Option 1: b**uilding SSO from scratch**\n\nBuilding SSO yourself is all about handling and working with the protocol you choose, assuming you’re targeting larger companies, we’re talking about SAML here. This isn’t a technical tutorial, but here are a few high-level components you’ll need to write:\n\n- A SAML controller for handling requests and providing responses to your integrated IdPs.\n- A SAML service to verify x509 certs, entity IDs, and IdP URLs, alongside parsing SAML assertions and creating and validating SAML responses. You’ll particularly enjoy the XML parsing and IdP-specific request formats.\n- A strategy to correctly authenticate users in your app based on the attributes that IdPs send back (you’ll need to normalize these if you’re supporting multiple customers).\n\nIf any of this sounds weirdly unfamiliar to you, that’s because it probably is: there’s a lot of upfront research required to understand the right way to do it. It’s not as simple as adding a new frontend library and skimming through the docs.\n\nPart of the challenge of building SSO from scratch is customization: you’ll need to build SAML flows for each IdP independently. SAML is a standard and like any good standard it’s often fractured and can sometimes be a pain to work with. \n\n![](https://cdn.prod.website-files.com/621f84dc15b5ed16dc85a18a/6234a01c22b02a93e8d97555_5f03ef87590fbe675d1eb724_5ef11a0aa1289c05c64daeb7_xkcd.png)\n\nOver the past few years, the web dev ecosystem has developed a few packages that take care of some of the repeatable work. Middleware like [​passport.js**​**](http://www.passportjs.org/) can help you avoid building everything from scratch; or if your backend is in Python, OneLogin offers a [python-saml​](https://github.com/onelogin/python-saml) package.\n\n### **Option 2: use an SSO provider**\n\nIf you don’t want to build SSO yourself (I mean, why would you?), there are a bunch of great third-party services that offer SDKs and packages to make integration as easy as a few lines of code. Some of the available providers are WorkOS, **‍**Auth0, AWS Cognito, and GCP Identity Platform.\n\n## Best practices from some engineers who have done it before\n\nHere are a few tips that might make your SSO integration process just a bit easier, whether you’re using a third-party provider or building it from scratch.\n\n### Security\n\n- ‍*Disallow username and password logins, password resets, and email address changes: *If an organization is using SSO with your product, give admins the ability to disable username/password based auth for their users. It creates a more seamless SSO experience by avoiding false login starts and keeps things secure.\n- ‍*Enforce session timeouts*: Expire idle user sessions to make sure users aren't signed in indefinitely — it's good practice to grab the SAML response's session timeout value and use that, but there are cases where having a \"time to live\" setting for each account is useful too.\n- ‍*Force sign-in for active browser sessions*: If your app gets a new sign-in request, replace any currently active browser sessions with the newly authenticated session. This is particularly important for apps that lean toward multi-tab use, like IDEs or CRMs.\n\n### Routing\n\n- ‍*Ask users for the information to determine the right IDP*: If you plan on supporting multiple IDPs in your SSO implementation, ask users for their email address, account subdomain, or unique account URL to determine the correct identity provider for their login.*‍*\n- *Make sure to deep link*: If you’re asking users to authenticate from an existing product page or they’re expecting to land somewhere in particular in your product, you’ll want to implement deep linking in your SAML flows. You can use ​SAML’s RelayState parameter​ to get this working.\n\n### UX\n\n- ‍*Replace one-off email verification with *[*domain verification*](https://workos.com/blog/the-developers-guide-to-domain-verification): If your app sends verification emails on username/password signups, it may be more effective to switch to domain verification. Essentially, when domain verification is employed, users logging in with email addresses from a verified domain do not require separate email verification. This approach is particularly useful if the user's email is associated with an IDP from a verified domain. Domain verification is crucial for establishing security and trust between service providers and organizations, ensuring that only authorized users can make changes to an organization's settings in the service provider.\n- ‍*Use *[*Just-In-Time (JIT) User Provisioning*](https://workos.com/docs/sso/jit-provisioning)* for first time sign-ins*: JIT user provisioning**​** automates the account creation process for users signing in to your app for the first time via SAML. If they exist in their organization’s IDP, you’ll just create their account automatically instead of asking them to sign up from scratch. This lowers friction for new users ​significantly​ and helps make your app more attractive to larger organizations.\n- ‍*Prompt users for IDP logouts*: When users log out of your app, prompt them to see if they’d like to log out of their IDP as well. The two intents often overlap, and you can save your users some time.",
+        "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+        "source": "Daring Fireball",
+        "tags": [
+          "Security",
+          "Web Dev",
+          "Product"
+        ],
+        "published_at": "2026-09-20T17:35:31.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "GM Revives CarPlay for 2027 Trucks",
+        "summary": "General Motors is reversing course after having begun to remove Apple CarPlay from its vehicles, showing off instead a redesigned infotainment interface for the 2027 Chevrolet Silverado and GMC Sierra",
+        "content": "General Motors is reversing course after having begun to remove Apple CarPlay from its vehicles, showing off instead a redesigned infotainment interface for the 2027 Chevrolet Silverado and GMC Sierra pickups that melds the smartphone apps with the truck’s native vehicle controls on the same screen.\n\nThe new system, which will roll out later this year, marks a significant walk-back after the automaker faced widespread criticism for removing Apple CarPlay and Android Auto from its Ultium-based electric vehicles beginning with the 2024 Chevrolet Blazer EV.\n\nRather than replacing GM’s built-in software, the new interface allows CarPlay and Android Auto to share the display with key vehicle information such as fuel level, tire pressures, Super Cruise status, and towing data. Drivers can keep navigation or media apps visible while simultaneously viewing vehicle functions without switching between screens.\n\nThe redesigned dashboard will span 60 inches of digital display area across the Silverado and Sierra, including a dedicated passenger-side screen capable of displaying video content.\n\n![](https://hips.hearstapps.com/hmg-prod/images/72a0d2df-1a96-433a-83e7-d2cc41f8b2b5.jpg?crop=1xw:1xh;center,top&resize=980:*)\n\nGeneral MotorsThe screen shows Apple CarPlay controls next to the native vehicle control display.\n\n“We listen to our customers, what they want, and going forward will still have projection in our trucks,” Michael Wahlstrom, GM’s executive director of connected apps and services, told Automotive News. He added that the interface was developed jointly with Apple and Google.\n\nGM’s decision represents a partial reversal of a strategy it began several years ago.\n\nWhen the company eliminated phone projection from its electric vehicles, executives tried to argue the move to an integrated software platform would provide a better user experience while giving GM greater control over navigation and charging functions. The reality was the automaker had its eye set on selling that control via subscription-based services. The move proved wildly unpopular with customers, particularly iPhone users accustomed to accessing Apple Maps, Messages, and other familiar apps through CarPlay.\n\n![](https://hips.hearstapps.com/hmg-prod/images/9cc5c855-0be5-45dd-b842-bc41062ce2e1.jpg?crop=1xw:1xh;center,top&resize=980:*)\n\nGeneral Motors\n\nThe backlash was significant enough that aftermarket companies introduced hardware designed specifically to restore CarPlay functionality to GM EVs and other vehicles that don’t support the feature.\n\nThe new truck interface appears to be a compromise between those competing philosophies. Rather than allowing CarPlay to occupy the entire display, GM’s own software remains responsible for vehicle functions while Apple and Google handle smartphone apps.\n\nWhat remains unclear is whether the change signals a broader shift for GM’s electric vehicles.\n\nThe automaker has not announced plans to restore CarPlay to models such as the Chevrolet Equinox EV, Blazer EV, Cadillac Lyriq, or GMC Sierra EV. Wahlstrom declined to say whether the new interface would eventually make its way into the company’s EV lineup.\n\n![Headshot of Natalie Neff](https://hips.hearstapps.com/rover/profile_photos/fa4e625a-a7f4-4101-a84c-dd1f20027c69_1576587909.png?fill=1:1&resize=120:*)\n\nBut for a couple of sketchy, short-lived gigs right out of college, Natalie Neff has had the good fortune to spend the entirety of her professional life around cars. A 2023 Chevrolet Bolt EV, 1972 VW Beetle, 2007 Porsche 911 Carrera S, and a well-loved purple-and-white five-speed Schwinn currently call her garage home.",
+        "url": "https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Product",
+          "Web Dev",
+          "Systems"
+        ],
+        "published_at": "2026-09-20T17:30:00.000Z",
+        "reading_time": 3,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "System One models like Jev can train their own replacements",
+        "summary": "“System One” models like [Jev](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) are fast general classifiers. Classifiers have existed since [1958](https://en.wikipedia.org/",
+        "content": "“System One” models like [Jev](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) are fast general classifiers. Classifiers have existed since [1958](https://en.wikipedia.org/wiki/Mark_I_Perceptron), but they have to be trained for specific tasks: if you build a classifier to identify images of dogs, it can’t be used to tell you if a streetlight is red, or if a letter is urgent. Like a LLM, Jev can be prompted for a wide variety of tasks, from [sorting email](https://www.youtube.com/watch?v=9oWxrsRo4d8) to [playing Doom](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/).\n\nI think models like this are going to be important. There are many tasks that a LLM *could* do in theory but are too slow and expensive in practice (for instance, reading each new message in Slack[1](#fn-1) and deciding whether to notify you or not). While you could train a specific classifier for these tasks, there are two main problems with that:\n\n- Despite being a well-understood ML problem, training a bespoke classifier is outside of the skillset of most ordinary engineering teams\n\n- Training a classifier requires assembling a large dataset\n\nJev obviously solves the first problem. Any engineering team can plug in a System One model with a prompt like “Based on {list of criteria}, should the user be notified about this message?” But I think it solves the second problem too.\n\nFor serious work, a specific hand-built classifier will always be cheaper and faster than Jev. Generic classifiers have to encode knowledge of all kinds of irrelevant things in their weights, so they can address lots of different tasks. That makes them larger, slower, and more expensive to run. Fortunately, **it is going to be surprisingly easy to replace a Jev instance with a hand-built classifier.**\n\nOnce you’re satisfied with how your Jev classifier is performing — presumably you’ve spent days tweaking the prompt — you can trivially collect its input and output data. In the Slack notifier case, that’d be the Slack message (plus any context) and the ultimate decision to notify or not. Once you’ve saved enough data, you’ll be able to train your own classifier on that data[2](#fn-2).\n\nIt won’t be a general classifier like Jev, but it should do well on the specific task and be much faster. Of course it’ll require some ML expertise, but it should be easier to develop (or rent) that expertise once you’ve validated that the feature is worth building.\n\nIn other words, because Jev has to be prompted for specific tasks, it should be easy to [distil](https://en.wikipedia.org/wiki/Knowledge_distillation) any successful Jev usage into a specific classifier. If System One models take off — and I hope they do — I expect this to be a common pattern.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fsystem-one-models-can-train-their-own-replacements%2F&t=System%20One%20models%20like%20Jev%20can%20train%20their%20own%20replacements).\n\nHere's a preview of a related post that shares tags with this one.\n\n> Two techniques for working with System One models\n\nI recently wrote about [Jev](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/), a new “System One” language model that only outputs *decisions*: the answers to a set of user-provided multiple-choice questions. This means it’s nowhere near as flexible as a traditional LLM like ChatGPT, but in return it’s consistently fast.\n\nWe don’t know exactly how Jev works. I’ve seen people say diffusion, or various tweaks to the Transformer architecture, or some entirely new type of model. But that doesn’t matter. Like I argued [here](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/#structured-output-can-already-be-fast), it isn’t hard to turn any LLM into a System One model. By batching prompts that generate a single token with structured output, you get a consistently fast general-purpose classifier. I vibed up a basic version to play with [here](https://github.com/sgoedecke/system-one/tree/main) in ~150 lines of Python (most of which is error handling).\n[Continue reading...](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/)",
+        "url": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Algorithms",
+          "Security"
+        ],
+        "published_at": "Sun, 20 Sep 2026 00:00:00 GMT",
+        "reading_time": 4,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Grit your teeth and ship it",
+        "summary": "Being good at building and being good at shipping are two separate skills. In the short term, they’re actually countervailing: if you have a gift for building, you’re likely to be *worse* at shipping.",
+        "content": "Being good at building and being good at shipping are two separate skills. In the short term, they’re actually countervailing: if you have a gift for building, you’re likely to be *worse* at shipping. Ira Glass has a classic quote about this.\n\n> All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you.\n\nThe only way around this is to **grit your teeth and ship it**. You have to force yourself to publish things you’ve made even when you think they’re crap.\n\n### Programming[](#programming)\n\nGifted programmers have a [nearly pathological](https://seangoedecke.com/addicted-to-being-useful/) desire to build elegant, correct, neat systems. That’s what motivates them to learn the arcane details of their languages, or to spend time polishing and refactoring over and over again. But it’s also what makes them reluctant to ship. Any flaws in the software bother them on an emotional level. If they ship with those flaws, they feel like people will think they weren’t paying enough attention to notice them, or that they weren’t good enough to fix them.\n\nThis is annoying when you’re writing software on your own, but it’s completely fatal when you’re working in a tech company. Any large software system is covered in flaws, whether due to time pressure, [relative inexperience](https://seangoedecke.com/bad-code-at-big-companies/), [wicked features](https://seangoedecke.com/wicked-features/), or a hundred other reasons. Working with it is a process of compromise: of finding the best possible solution given the quirks and foibles of the codebase. In fact, since the most important thing in large codebases is [consistency](https://seangoedecke.com/large-established-codebases/), the right thing to do is sometimes to *duplicate* flaws, assuming they’re not catastrophic.\n\nGifted programmers often freeze up. I’ve often seen them retreat to smaller domains where they can safely make the code “correct”: tweaking dev-environment setup, or refactoring tests. Sometimes they just do nothing, and spin in shame and guilt (plus the compounding shame of not achieving anything) until they implode and quit. If they had worse taste, they wouldn’t be as good at programming, but they’d be a lot more useful. You can typically improve a bad diff with time and effort. You can’t improve *no* diff.\n\n### Writing[](#writing)\n\nI have a sensitive eye for awkward sentences and uneven prose. That can make writing an unpleasant process: I know what I’m trying to say, but I can’t seem to say it in a way that’s as clear and as elegant as I know is possible. More than half the time I finish drafting a blog post, I look at the post and don’t think it’s very good. But I (mostly) grit my teeth and publish it anyway, because **you have to bias towards shipping**.\n\nLike any skill, shipping gets easier the more you practice it. If I don’t publish a blog post for a month, I always feel like the next draft is too poorly-written or uninteresting to put out there. But when I’m publishing a post per day, I typically feel great about each draft. When I go back and read my old posts, I can’t tell which ones I felt good about and which ones I felt bad about. There’s no correlation between that and the posts that become [popular](https://seangoedecke.com/popular/). Here are some posts I didn’t like as I was writing them but that resonated with my audience:\n\n- [Do the simplest thing that could possibly work](https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/)\n\n- [Software engineering may no longer be a lifetime career](https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)\n\n- [Software engineers should be a little bit cynical](https://seangoedecke.com/a-little-bit-cynical/)\n\nHere are some posts I thought were pretty good but that didn’t find popularity:\n\n- [Weak engineering managers](https://seangoedecke.com/weak-managers/)\n\n- [Paths through the space of all possible solutions](https://seangoedecke.com/solution-space/)\n\n- [Trying to impress people you don’t respect](https://seangoedecke.com/impressing-people/)\n\nYou just can’t predict what people will find interesting or useful. Producing a high volume of work thus gives much better yield than a small amount of highly-polished work.\n\nIt can be disheartening to realize that some of your most casual, throwaway work will be more successful than the work you slaved over[1](#fn-1). Specifically, it’s disheartening because it means realizing you don’t have *control* over your own success. You can’t produce something successful by focusing on a single piece until you’re satisfied it’s great. Instead, you just have to do a lot of things and see what sticks. You have to be [momentum-based](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/), not outcome-based. In other words, **you have to grit your teeth and ship it**.\n\nOne common reason to write less is getting overly precious about your ideas. If you think you’ve got a really compelling concept, you don’t want to “waste it” on a poorly-written story. But in fact you can just write about the same thing over and over until you get it right! I have written like thirty blog posts about shipping (this is one of them), or about how tech companies work, or about how internal emotional regulation is as important as technical ability. I expect to continue writing and thinking about these ideas for as long as I find them interesting.\n\nIf you liked this post, consider [subscribing](https://buttondown.com/seangoedecke) to email updates about my new posts, or [sharing it on Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fwww.seangoedecke.com%2Fgrit-your-teeth-and-ship-it%2F&t=Grit%20your%20teeth%20and%20ship%20it).\n\nHere's a preview of a related post that shares tags with this one.\n\n> The valley of engineering despair\n\nI have [delivered](https://seangoedecke.com/how-to-ship) a lot of successful engineering projects. When I start on a project, I’m now very (perhaps unreasonably) confident that I will ship it successfully. Even so, in every single one of these projects there is a period — perhaps a day, or even a week — where it feels like everything has gone wrong and the project will be a disaster. I call this the valley of engineering despair. A huge part of becoming good at running projects is anticipating and enduring this period.\n[Continue reading...](https://seangoedecke.com/the-valley-of-engineering-despair/)",
+        "url": "https://seangoedecke.com/grit-your-teeth-and-ship-it/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "AI/ML"
+        ],
+        "published_at": "Sun, 20 Sep 2026 00:00:00 GMT",
+        "reading_time": 6,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "a new world airport and its baggage",
+        "summary": "Aviation came to Denver mainly in the form of mail. Like much of the inland\nWest, the first airfields served a smattering of passenger flights (both\nexpensive and uncomfortable in the 1930s) and a reg",
+        "content": "Aviation came to Denver mainly in the form of mail. Like much of the inland\nWest, the first airfields served a smattering of passenger flights (both\nexpensive and uncomfortable in the 1930s) and a regular schedule of contract\nmail carriers. Postal Service air mail contracts built many of the nation's\nmajor airlines—and its major airports. One of Denver's simple airstrips,\nDenver Municipal Airport, transformed from a mail stop to a busy airport when\nContinental Airlines moved its headquarters to Denver 1937, and then again when\na modern passenger terminal was completed in 1946. Along the way, it had been\nrenamed for the mayor who oversaw much of its development: Stapleton.\n\nThe Second World War, and then the post-war return, brought both a boom in\naviation generally and in Denver specifically. The city's population grew by\nalmost 10,000 a year from 1940 to 1960. During the '60s, Stapleton gained an\nadditional runway and a new terminal as the schedule grew from under forty\ndepartures a day to over one hundred. When airline deregulation prompted a\ntotal restructuring of the industry, both by consolidation and widespread\nadoption of a \"hub and spoke\" model, Denver's central location made it an\nobvious choice of hub. United, Continental, Western, and Frontier Airlines all\nmade Denver Stapleton a busy node in their growing networks.\n\nWith growing traffic, Stapleton showed its age. The passenger terminals were\ntoo small, but moreover, the field had become cramped. The runways were too\nclose to each other for more than one simultaneous approach during instrument\nconditions, a bottleneck so severe that bad weather in Denver would cause flight\ndelays that cascaded nationwide. The airfield at Stapleton could not be\nexpanded: a combination of terrain, adjacent land in private ownership, and\nlegal disputes with nearby residents and Adams County (where Stapleton was\nlocated) effectively precluded any runway additions or extensions. By the '80s,\nSouthwest Airlines was rapidly expanding beyond its native Texas—but service to\nDenver was blocked by a lack of available gates at Stapleton.\n\nBy fluke of politics, the City of Denver was abruptly committed to construction\nof a brand-new airport in 1983: mayoral candidate Monte Pascoe had made a New\nWorld Airport the core of his platform. As it happened, he came up third in a\nrace of three, but not before goading the other two candidates—including winner\nFrederico Peña—into signing a written commitment to see the new airport through.\nIn 1984, planning started for the New Denver Airport. 48.3 square miles of Adams\nCounty were annexed to Denver and, in 1989, Denver voters approved a referendum\nin favor of the new airport by a wide margin. Located northeast of Denver on a\nhuge plot of mostly agricultural land, many of us have been there, at least on a\nlayover: Denver International Airport, DIA [1](#fn-1).\n\nFrom the New World Order to contracting scandals to \"Blucifer,\" DIA is an\ninfamous airport. Some level of, well, intrigue was probably guaranteed. DIA was\nthe first major airport project in the United States since Dallas-Fort Worth in\n1974. DIA planners, later defending their efforts, noted that they had\nextensively studied the lessons learned from comparable US projects since the\nSecond World War, of which they had identified only two. One of the largest\npublic works projects to date, DIA's budget started around $3 billion and ended\nat nearly $5. Along the way, a lot went wrong.\n\n![Telecar tracks](https://computer.rip/static/img/dia/1.jpg)\n\nThis is not a full history of DIA's awkward early years. That would require a\nbook, and a challenging one to write given that the ensuing lawsuits, political\nscandal, and media attention mean that many of the facts are disputed. But\nbefore we reach our main story, it will be helpful to understand some of the\ncontext in which DIA was formed.\n\nBy the time primary construction was underway in 1990, DIA was slated to be one\nof the largest airports in the nation. Despite that, it technically had no\nairlines. Political details of the project's initiation meant it went ahead\nwithout the explicit support of any of its expected tenants. United Airlines\nwould be the largest by far, occupying all of the large B terminal, but\nnegotiations between the City and United did not land a commitment from that\nairline until over a year into construction. Continental Airlines had agreed\nearlier, but had just gone bankrupt for a second time in a decade, and Denver\ncame to worry that they would not ultimately be good for the lease payments on\nthe A terminal being built for them. The C terminal, intended for all of the\nother airlines, remained unoccupied. In the mean time, Denver's booming post-war\neconomy had considerably slowed, turning the airport into an almost completely\ndebt-funded project. \n\nThe result was that the airlines, and specifically United Airlines, gained\nenormous leverage over the design of the airport. That itself is common, but\nDIA had the unique challenge that the airlines became the dominant stakeholder\nin its design only *after* much of the design was complete. While everyone\ndisagrees with everyone else on who was at fault and for what, I think this is\na fair napkin sketch: the first two years of serious effort on DIA were led by\nthe City, motivated mostly by factors like tourism and prestige and with little\nthought for the operational practicalities of a massive airport. In the second\ntwo years, United Airlines came on the scene and attempted to reshape the\npartially-built airport to their aggressive operational requirements.\n\nAnd those requirements were a formidable challenge. DIA's scale meant that it\nwould be split between four buildings, a ticketing/baggage concourse and the\nthree terminals. This layout allowed room for an ample number of gates. At the\nsame time, congestion on the airfield itself had been a challenge at Stapleton\nand an issue that the airlines were extremely sensitive to. United Airlines\nultimately agreed to operate out of DIA only if the airport could meet United's\ngoal of a breakneck operational tempo with aircraft turned around in under 35\nminutes [2](#fn-2). To keep taxiing aircraft in motion, the terminals were separated\nwidely so that the \"alleys\" in between could accommodate aircraft at gates, a\nrow of aircraft waiting for gates on each side, and still have room for two\ntaxiing jets to pass each other. It is, in effect, something like six taxiways\nbetween each terminal. The measurements work out such that terminals A, B, and\nC are about 0.5, 1, and 1.5 km from the ticketing building.\n\nThe buildings are not connected at the surface (except, today, terminal A and\nticketing). Instead, DIA used an innovative design in which all movement\nbetween the buildings happens underground. This allowed a far more open airfield\ndesign than at large airports with above-ground halls (consider, for example,\nPhoenix), enabling a traffic concept where aircraft would land on one side of\nthe field, taxi to a gate, continue away from the gate in the same direction,\nand take off from the other side of the field.\n\nThe building layout and connecting tunnel became one of the project's first\nweaknesses. Airlines, making their late entry into the project, quickly\naccumulated design changes that they made hard requirements to their leases.\nUnderground construction is notoriously difficult to modify, though, leading to\nan expensive set of changes that sometimes required almost complete demolition\nand reconstruction of parts of buildings. By the time United Airlines signed an\nagreement, at the end of 1991, the project was already behind schedule and over\nbudget.\n\nAmong DIA's most interesting facets are the conspiracy theories. The decision\nto name the commission that organized its grand opening the \"New World Airport\nCommission\" didn't help, on account of its close resemblance to the New World\nOrder which was a more prominent vein of conspiracizing in the early '90s. Early\n'90s aesthetic sensibilities were factor as well: Michael Singer's officially\nuntitled \"Interior Garden\" at Terminal C [3](#fn-3), and Luis Jiménez's \"Mustang\"\nplaced prominently at the approach of Peña Boulevard, have a certain eerie\npresence. Leo Tanguma's murals in the baggage claim area are rooted in the\nMexican Socialist tradition of murals that look to the future with equal parts\noptimism and uncertainty. They depict themes of war and peace, of harmony and\ndiscord, and moreover the tension between them—in a way that is perhaps a bit\ntoo visceral for jet-lagged travelers.\n\nAs with all conspiracy theories, there is of course a kernel of truth. There\nreally were strange things happening underground at DIA. The project really did\nhave its secrets, and it really did envision a future very different from its\npresent. On the other hand, these quiet happenings were all more pedestrian,\nmore *municipal,* than the conspiracy theorists like to think. This was a new\nworld *airport,* not an order. DIA's expansive basement was not intended, as\nsome contend, as a logistical center for hundreds of thousands of bodies. It\ncorrals something more everyday, and in even larger numbers: bags.\n\nOne of the most arduous parts of an aircraft's turnaround is the loading and\nunloading of baggage. The problem is particularly acute at a large field like\nDIA, where bags have to cover considerable distances. Consider the case of a\npassenger checking in for a flight out of Terminal C: the passenger will need to\ntravel over a mile to their gate, a problem solved by the $84 million\nWestinghouse APM100 automated guideway transit system. 26 autonomous vehicles\nrun a never-ending loop of the underground connector tunnel, serving stops at\neach terminal every 90 seconds. This system has not been trouble-free, but the\nAPM100 was a descendant of the 1970s techno-optimist \"transit plowshares\nprogram\" that saw defense and aerospace contractors apply their expertise to\nurban transit. While this program mostly failed to improve urban transit, it did\na lot for airports, and by the time DIA was underway the APM100 was a\nwell-proven design.\n\nThe larger problem was baggage. At most airports of the 1990s, and in fact at\nmost airports today, baggage handling is mostly manual. Belts take bags from the\nticketing counters to a loading area where workers sort them onto carts. Tugs\npull those carts to gates, where bags are loaded onto the airplane as its last\nset of bags are sorted onto a new set of carts to be towed to other gates or to\nthe baggage claims. DIA was going to be different: airport planners worried\nthat baggage tugs would have to drive multi-mile routes around the terminal\nbuildings to reach ticketing and the baggage claims, and that was after the\ntime and labor involved in sorting. United Airlines wanted transfer bags moved\nfrom one gate to another in under ten minutes to meet their turnaround goals,\nand in part to assuage concerns about such a large airport being a nuisance\nfor travelers, a common theme of DIA boosterism was speed and convenience.\nTravelers were promised that their bags would arrive at the claim before they\ndid.\n\nAs soon as these words were said it was known that achieving them would require\nan automated baggage handling system of unprecedented scale. There was just one\nproblem: there was no such system, and no one was even planning one.\n\nAirports are a strange form of real estate. They are almost invariably owned by\na state or municipal government (or a corporation chartered by one of the two).\nAirlines pay fees for use of the airfield, but they also pay to lease the gates.\nIn this regard, an airport is a bit like a shopping mall, a landlord that\nprovides extensive services but ultimately exists to collect the rent. Airlines\nusually do much of the logistical work themselves, or contract service providers\nto do so. In the early '90s, as it is today, the norm at airports is that\nairlines handle their own baggage. When you fly Southwest, Southwest employees\nload your bags into Southwest carts that are pulled around by Southwest tugs.\nThe airport's involvement is limited to a fairly basic set of belts, rooms, and\npathways that bring bags in and out of the building.\n\nThis was the plan at DIA, to the extent that there was any plan, when United\nAirlines signed their gate lease agreement for the entirety of Terminal B. For\nthe largest airline, operating from the largest terminal building, and moving\nbags to and from the biggest section of the ticketing and bag claim areas, the\nbaggage system would be a huge project. United is said to have quickly observed\nthat the airport project was already behind schedule and that little if any\nthought had been devoted to baggage handling. In line with norms and the City of\nDenver's expectations, United took on the problem themselves.\n\nOver a decade earlier, in 1978, United Airlines had driven down its baggage\nhandling time at San Francisco's international terminal by engaging a contractor\ncalled the Docutel Corporation. Today, Docutel is best remembered as one of the\ncompanies with a strong claim to the\n[invention of the ATM](https://computer.rip/2026-02-27-ibm-atm.html).\nThe company's history is a bit stranger: originally a loose spinoff of\nTexas Instruments called Recognition Equipment, Docutel's pioneering achievement\nwas the invention of optical character recognition (OCR). Their principal client\nfor this technology was none other than United Airlines, which used it to automate\nvalidation of boarding passes [4](#fn-4). The relationship between United and\nRecognition Equipment was strong enough that, by the 1970s, Docutel was both a\npioneer in ATMs and a major manufacturer of airport automation equipment.\n\nDocutel's solution at San Francisco involved a device they called a \"Telecar.\"\nTelecars were small electric vehicles that traveled on rails carrying a plastic\ntub. A belt could push a bag onto a Telecar, which traveled to a destination\nwhere it tipped the bag off onto another belt. The San Francisco system was not\nwithout trouble: Docutel went bankrupt during its development, and in large part\nto save the project, United is said to have been involved in brokering an\nagreement that saw Docutel's airport division bought out by Boeing. This created\nthe confusingly named Boeing Airport Equipment, or BAE. This BAE was unrelated\nto the British Aerospace BAE, a fact that has evaded a surprising number of\nhistories of the DIA baggage scandal—although I am inclined to cut these\nconfused writers a bit of slack. By the time of DIA's construction, BAE\nwas in fact under British ownership by another three letter acronym, BTR\n(British Tire and Rubber). Boeing Airport Equipment BAE still exists to some tiny degree\nas a portion of Schneider Electric. In any case, despite the eventful corporate\nhistory, the SFO international terminal automation had developed into a\nsatisfactory system that United thought was an ideal model for DIA.\n\nUnited's deal with BAE specified a $20 million system that would connect all of\nthe terminal B gates with the ticketing counters and baggage claims, all to be\ndesigned and built over the span of 2.5 years to meet DIA's opening date target.\nThis was an ambitious program, and all parties involved admitted considerable\nschedule risk, but at the time BAE was by far the dominant supplier of baggage\nhandling equipment and enjoyed an excellent reputation. If anyone could make it\nhappen, it was BAE, especially given their similar projects at SFO and Munich's\nFranz Joseph Strauss airport. What was perhaps understated as a problem is that\nDIA's installation would be orders of magnitude larger and more complex than\neither of those systems, and that meeting its performance requirements would\nrequire a complete redesign of key components.\n\nThese might have already presented an insurmountable challenge even if the\nproject had not, in 1992, been restarted. United's strict requirements for\nbaggage handling, and the trouble they were clearly having fielding such a\nsystem on schedule, seemed to have made the City of Denver nervous. Even that was\nreassuring compared to the status of terminals A and C, where just a couple of\nyears before the airport was slated to open, there was still no progress\nwhatsoever on baggage handling. Financially struggling Continental seemed to be\nexpecting to use whatever the Airport Authority came up with or to improvise\nsomething last minute, and it was still up in the air who (if anyone) would use\nterminal C. As a result of 1980s economic trends, traffic at Stapleton airport\nhad actually begun to decline rather than grow, softening the demand airlines\nhad for an improved facility. Ironically, this lack of interest from airlines\nmade the City view the project as even more urgent and critical, since they\nwould have to effectively \"win over\" the airlines with a state-of-the-art\nfacility to ensure success. Maybe, then, the decision *not* to provide a\nunified baggage handling system as a service to tenants was a mistake.\n\nIn early 1992, just a couple of months after United awarded the contract to BAE\nfor their terminal, the City of Denver developed specifications for an\nairport-wide automated baggage handling system and put them out to bid. Of the\nsixteen companies the City identified as prospective suppliers, only three\nresponded with proposals. Ironically, BAE was not among them: in part because it\nwas already scrambling to design the system for United, BAE concluded that it\nwas simply not possible to complete an airport-wide system on the timeline the\nCity required. By that point, there were not much more than 18 months before the\nairport's announced opening date.\n\nOf the three bids received, I have found historical documentation of only one.\nA coalition of industrial automation companies, including Canadian\ntransit-industrial-complex giant UTDC, proposed a design that was similar to\nthe conventional system of belts, handlers, and tugs, but with extensive use of\ncomputers to speed sorting and complete automation of the tugs. UTDC described a\nsystem of autonomous electric bag carts they called Destination Coded Vehicles,\nor DCVs. A bit like London's erstwhile Mail Rail, baggage handlers would load\nbags onto a DCV and then hit a button that would send it along tracks, through\nthe tunnels, to another sorting area near the departure gate. Each DCV would\ncarry dozens of bags, and they were large enough to also accommodate a few\noversized items. At this phase of Denver's tourist development, oversized\nluggage was on everyone's mind: among the new airport's amenities would have to\nbe first-class handling of skis.\n\n![Airport layout diagram](https://computer.rip/static/img/dia/2.png)\n\nThe City rejected all three bids. As best I can find recorded, the major\nproblem was that all three involved more manual labor for sorting, loading, and\nunloading than the City considered desirable, and that the City doubted the\nability of the systems to meet the time goals (despite vendor assurance that\nthey could). The City of Denver strongly favored a design without any manual\nloading, and so far the closest proposal by far was BAE's contract for United.\n\nCalling off the competitive bidding process, the City entered three days of\nreportedly heated negotiations with BAE that culminated in a sole-source\nagreement to extend the United system across the entire airport for $175.6\nmillion. This messy contracting process, with competitive bidding hastily\nabandoned in favor of a deal negotiated behind closed doors, compounded the\nquickly discovered problem that BAE was highly integrated and intended to\nmanufacture everything off-site at its extensive plant in Texas. This meant that\nBAE wouldn't obviously meet Denver's contracting preference rules for local\nlabor, minority-owned businesses, etc. On top of that, a dispute between BAE and\nlabor unions over payrates for mechanics (BAE's contract with the City\nstipulated a rate of $12 an hour when the union's negotiated rate for City\nprojects was $20) led to a two-day strike by key industrial electricians and\nmechanics. BAE's contract went through multiple rounds of revisions, amendments,\nand scope changes, and the lawsuits did not all settle for many years after the\nairport opened.\n\nThe schedule would be extremely tight. BAE had, reportedly, been open with the\nCity that they believed the project would take a full year longer than planned.\nThey agreed to the contract only on certain terms: that requirements and designs\nwould be frozen very early on, that BAE would receive first priority over other\ncontractors on scheduling work at the construction site, and that BAE would\nreceive almost carte blanche authority to modify the building designs to house\nthe system.\n\nOf course, in practice, no part of this agreement held: terminal A was only\npartly leased by the questionably solvent Continental Airlines and terminal C\nwasn't leased at all, so the City specified an extremely minimal installation\nin those buildings. As other airlines finally signed onto the project, they\nimmediately demanded expansion and changes. Much of the construction was\nunderway or even complete, so as a practical matter, it was rarely possible to\nmodify building designs and the baggage system had to be shoehorned into every\nnook and cranny. A combination of poorly coordinated project management and\npolitical maneuvering meant that BAE's \"priority one\" status was far from\nagreed, and much of the installation schedule was determined by posturing and\nsquabbling between the contractors, all of whom by this stage were desperate to\nfinish their own part while happy to blame delays on anyone else.\n\nSome members of the City's project team had initially been skeptical of the BAE\nproposal. BAE had won them over, in large part, by building a demonstration\nsystem at their headquarters in Texas that included most of the mechanical\nfeatures of the proposed DIA solution. What went unnoticed by even BAE's\nskeptics is that the small scale of the demonstration system didn't just\nminimize the mechanical and reliability problems. It also required none of the\ncomplex computer logic that would become one of the project's biggest problems.\n\nAs happens in any contracting debacle, there are many places to put blame, and a\nlot more people looking for somewhere to put it. There is certainly some fault\nall around: histories of the project always note the constant change orders\ncoming from the City, often either at the behest of the airlines or driven by\nlast-minute efforts to control costs. An oversize ski retrieval belt in the\nbaggage claim area was lengthened for more capacity, shortened to cut costs,\nlengthened after airline objections, then shortened again. An entire arterial\nloop was eliminated from the project for cost control, but then airlines still\nexpected its capacity to be available, leading to modifications to mitigate the\nloss. BAE contends that the project would have gone much more smoothly if the\ndesign had actually been frozen as the City had originally agreed. At the same\ntime, given the political and business considerations, the City may have been\nwell-founded in its fear that delivering anything less than the airlines\ndemanded would set Denver up for an inter-airport dispute not unlike that\nbetween Dallas-Fort Worth and Dallas Love Field.\n\nAnother problem was access. BAE expected to be able to go anywhere, and do\nanything, at any time. They believed this to be a hard requirement to complete\nthe project. At the actual worksite, things worked differently: each of the\nfour major buildings was under the leadership of a separate on-site construction\nmanager, and the four managers reached four different positions on BAE's\ninvolvement in the project. Better-connected local contractors often got their\nway over BAE, and besides, some of the places that BAE intended to start\ninstallation work hadn't been built yet anyway. BAE identifies the problems with\nproject management, on-site leadership, and coordination between contractors as\nthe major cause of delays in testing. On the other hand, the development of the\ncontrol software, which was completely under BAE's control back at their offices\nin Texas, had reportedly not even begun when the countdown to opening day\nticked under one year.\n\nKnowing that the installation proved so troubling, let's consider what, exactly,\nBAE was trying to install. The baggage handling system for DIA was based on the\nTelecar installation at SFO, but there would be many enhancements, particularly\nfor reasons of delivery time.\n\nWhen a passenger checked into DIA, a ticketing agent would affix a barcoded\nlabel to their bag and place it on a belt. The belt terminated at something like\na miniature \"train station,\" where it simply ended at the side of the Telecar\ntracks. When the bag reached the end of the belt, a barcode scanner read the\nlabel, which was associated in a database with the RFID tag on an arriving\nTelecar. To meet the deadlines involved, the Telecars really moved, with a top\nspeed of 19 to 24 MPH depending on who you ask (probably revised downwards over\ntime for reasons that will become clear). What made the system truly sporty,\nthough, is that the Telecars did not stop. Empty Telecars slowed to about 4 MPH\nas they passed a loading belt, which sort of threw the luggage into the\nTelecar's bin before it tipped upwards to make sure the bag settled into place.\n\nBecause it was a project of the early '90s, BAE opted for a distributed control\nsystem based on microcomputers rather than a design based around a large system.\nThis was a quintessential application of real-time computing, after all, an area\nin which microcomputers were increasingly dominating. Over a hundred 486\nmachines ran custom control software on OS/2, with Windows-based workstations\nfor operators and maintenance staff in multiple control rooms.\n\nThe Telecars were propelled along their tracks by linear induction motors—a fin\ndescending from the bottom of each Telecar acted as the \"rotor\" while the\npowered stator coils were fixed in long strips under the tracks. Much like the\nfamed Tomorrowland Transit Authority and its airport compatriot in the parking\ngarages of Houston's George Bush Intercontinental Airport, the linear induction\ndrive system had the advantage of simplifying the Telecars (which, in contrast\nto other proposed designs, were not self-powered at all but more like carts that\nwere pushed along the rails by the LIMs), but the disadvantage of requiring a\nrelatively new and unproven motor technology.\n\nAs each Telecar rolled along with the magnetic fields of the LIMs, RFID readers\ndetected the golf-puck tags mounted to their sides and a computer checked the\ntag ID against the database to determine which bag was in the Telecar. Based\non another database lookup to determine the bag's destination, the computer\ndecided whether or not to operate switches to direct the Telecar onto various\ndifferent tracks. A main \"bus\" of Telecar tracks in the central underground\ntunnel moved bags between buildings at high speed, where they were switched onto\none or more rings that took them around the perimeter of the terminal building.\n\nWhen a Telecar reached the gate where its bag was expected, the plastic tub on\ntop tipped high up on its side at just the right moment so that the bag would\nfall out onto a waiting belt. The Telecar never stopped, it only slowed down, to\nabout 6 MPH when unloading. The belt carried the bag to a waiting baggage\nhandler for loading onto the plane, while the departing Telecar joined a pool\nof spares that circulated around the rings until there was a bag to be picked\nup.\n\nI put a lot of time into writing this, and I hope that you enjoy reading\nit. If you can spare a few dollars, consider [supporting me on\nko-fi](https://ko-fi.com/jbcrawford). You'll receive an occasional extra,\nsubscribers-only post, and defray the costs of providing artisanal, hand-built\nworld wide web directly from Albuquerque, New Mexico.\n\nIf you think a bit about the mathematics of such a system, you can imagine the\nchallenges involved in just the management of the empty Telecars. Loading was\ndone by belts that quite literally ended at a cliff at the edge of the track,\nsuch that if a bag was waiting at the loading station the belt could not advance\nuntil a Telecar passed by to toss the bag into. This meant that any delay in\ngetting empty Telecars to a ticketing counter, for example, caused the bags to\nback up on the belt until the agents had nowhere to put them. The entire system\nwas like this: later analyses liken it to a deeply complex graph of queues\nfeeding into other queues, in which a delay at any point could cause a rapid\ncascade through the rest of the system.\n\nCompared to SFO, for example, the DIA baggage system was not only far larger\n(with nearly 20 miles of track compared to just a couple) but vastly more\ncomplex, with hundreds of gates at which bags could be either dropped off or\npicked up, bags moving between gates either within a terminal building or across\nterminal buildings, and a steady but very large flow of bags to and from the\nticketing counters and baggage claims. To meet the demand, BAE provided almost\n4,000 Telecars. Most of them were \"standard,\" but hundreds were special\noversized units designed specifically to handle skis while still negotiating\nthe tight turns of the underground tracks.\n\nBesides coordinating the movement of all the bags, the computer system had to\ncoordinate all of the empty Telecars... a big enough part of the problem that\nBAE seems to have referred to the main software package as the \"empty cart\nmanagement system.\" The scale of the system also made maintenance complex,\nsomething evidently not adequately considered since one of the many last-minute\nchange orders was the addition of a maintenance facility directly connected to\nthe rail network so that Telecars could be repaired without having to be\nhoisted from the track to a dolly.\n\nThe algorithmic complexity was not unexpected. Munich's airport used a similar\nsystem based on automated carts, and it reportedly took nearly two years of\ntesting, monitoring, and tuning the algorithm that dispatched carts to achieve\nreliable performance. That news either didn't make it to Denver or was ignored,\nsince the DIA system was expected to go from zero to production on a shorter\ntimeline than just that testing period. In the early '90s analytical solutions\nto the problem were unknown, and they remain very difficult today. In retrospect\nit is obvious that a computer simulation should have been developed to evaluate\nthe control system. It does seem like BAE had intended to do so, but they simply\nran out of time, and the software was completed so late that virtually no\ntesting was performed before attempts at commissioning the system.\n\nDIA had been slated to open on October 31st, 1993. At this point, only a bit\nover a year and a half had passed since the start of work on the airport-wide\nBAE system. By the time that date passed, the opening of the airport had already\nbeen postponed twice due to schedule slippage in the baggage handling system.\nThe new date, March 9th of 1994, flew by as well. Testing of parts of the system\nhad begun, but were plagued by electrical problems with the linear induction\nmotors. The somewhat experimental design of the LIMs was certainly a suspect,\nbut since most of the problems were related to tripping protection circuitry\n(due to voltage surges, phase imbalances, etc.), most of the blame landed on the\nCity due to its ownership of the electrical distribution system. Filtering\nequipment was ordered to protect the LIMs but, having been ordered after the\nairport was already supposed to be open, the several month lead time on the\nspecialty electrical equipment guaranteed even more severe delays.\n\nAll of these challenges came to a head in April of 1994. By this time, BAE was\ntesting the full-scale system by sending demonstration luggage between scores of\nimaginary flights operated by major names like \"Antarctic Airlines.\" In one of\nthe more incredible stories in the history of engineering debacles, the City of\nDenver decided, without informing BAE, to invite the media.\n\nThe ensuing \"open house\" led directly to open season on the project. Reporters\nwere taken into the tunnels below the terminals to observe bags flung by belts\ninto open space, landing with a thud on the concrete floor below. These were,\nit turned out, some of the better-off suitcases: others were partially caught\nby Telecars and flung into posts at speed. Telecars rounding tight bends,\nwhich were far more common than BAE had intended due to the need to cram the\ntracks into already-built utility tunnels, tended to toss their contents into\nthe corners of the tunnels where they piled up. The most unfortunate bags were\n\"loaded\" directly onto empty tracks or fell out of moving Telecars, until the\nnext Telecar ran them over and tore them open.\n\nThe media fiasco was incredibly embarrassing to the project and to the City of\nDenver. Television stations ran footage of bags that were taking flight well\nbefore they reached an airplane. Newspaper reporters described loose clothing\npiling up like dirty laundry under the tracks. Some lucky reporters witnessed a\nfull-speed collision of two Telecars, crushing what might have been someone's\nluggage in between them. Occasionally, bad sensors on the Telecars led them to\nabandon a bag on the side of a tunnel as if they were tired of carrying it.\n\nThese mechanical problems were, it turned out, the tip of the iceberg. Less\nvisible to the reporters were the engineering findings of the testing, which\nconcluded that fixing the loading and unloading process and teaching the\nTelecars to be more cautious drivers would take months and leave them with the\nbigger problem: software.\n\nThe software that controlled the system was, well, buggy. Empty cart management\nwas a huge problem: there were obvious bugs in the software that gave way to\ndeeper systemic problems. Logic errors around tracking Telecars and updating\nthe database meant that empty Telecars in one terminal building were sent to\nanother where they were needed, but by the time they arrived the computer\nsystem would forget why they were there and send them back where they came from.\nMoreover, BAE was far behind on their plans to integrate awareness of airline\nschedules and passenger volumes into the dispatching system. Instead of planning\nahead, the system was reactive, and each landing plane would cause a brief\ncrisis as empty carts were sent as quickly as possible while the bags stacked up\non a belt that couldn't move.\n\nThe concept of scanning barcodes and associating them with RFID tags on the\ncarts for routing was a familiar one in industrial environments, but it didn't\nwork very well in the chaos of an airport—or at least in the chaos of this\nparticular airport. Between the loading and unloading problems and software\nbugs, the computer system often lost track of which bag was in which Telecar,\nleading bags to be delivered to the wrong place. When the system was already\nrunning behind, it was difficult to get a bag picked up again for rerouting. The\nbarcode readers themselves turned out to be a problem, they would fail to read\nthe labels on the bags at all, forcing the system to send the bag to an\nunloading station to be relabeled. This happened to so many bags that the small\nstaff, intended to handle a few exceptional situations, couldn't keep up.\n\nThe press demonstration had such an impact that DIA's opening date was delayed\nonce again, this time indefinitely. For Denver's mayor, by that time Wellington\nWebb, it was a political disaster. The worst part of the whole thing was a\nsingle, simple mistake that dated, one could argue, to the original conception\nof the airport: there was no plan B. The automated system was just supposed to\nwork.\n\nBy this point in the project, the City of Denver had commissioned multiple\nconsulting firms that invariable concluded that the automated system would not,\nin fact, work, at least not on any reasonable timeline for the opening of the\nairport. It took the April press demonstration, though, to finally spur action.\nThe next month, the City of Denver engaged German consulting firm Logplan to\nanalyze the state of the system. Logplan intended to take a section of the\ninstalled Telecar track and run it 24/7 for an exhaustive test, intending to\ncollect statistics to understand what problems were most acute and how to\nprioritize improvements. Instead, the test track performed so poorly, with so\nmany jammed cars and collisions, that Logplan abandoned the test plan. Instead,\nthey recommended that the City install a complete second baggage handling system\nof a more conventional design so that the airport could open.\n\nOn the advice of Logplan, the City signed a contract a few months later with\nGerman-American conveyor belt firm Rapistan Demag. Rapistan installed a very\ntypical design of belts that bridged the gaps between passengers, aircraft, and\na large fleet of carts pulled by human-operated tugs. A computer system provided\nsome convenience and speed, but it was, fundamentally, the standard approach to\nairport luggage that United and Denver had completely rejected earlier in the\nproject. Because the installation of the \"backup\" luggage system required new\nelectrical supply arrangements and modifications to buildings, it cost about $50\nmillion.\n\nThe New World Airport opened on February 28th, 1995, a sixteenth month delay due\nto the lack of baggage handling. When the airport did open, almost all baggage\nhandling was manual, pulled by tugs both above ground and through tunnels that\nhad been hastily fitted with railroad-style signals to work around the inability\nof two baggage tugs to pass in the narrow tunnels. Ever since, the story of DIA\nand its baggage has become one of the most famous case studies in the failure of\nan ambitious systems engineering project. DIA and the ABE Telecar system are the\nsubject of so many term papers, masters theses, and textbook sidebars that it\nis perhaps rivaled only by the Therac-25 and the Tacoma Narrows Bridge.\n\nAlong the way, certain myths have accumulated. For example, there has been a\ntendency to cast the story of DIA as that of an AI ran amok. \"The computer\nprioritized delivering bags,\" people say, \"so it just delivered them anywhere\nthey could go.\" As with most such myths, there is a kernel of truth: the\nrouting algorithm was complex and had numerous bugs that caused nonsensical\nrouting decisions, and mechanical failures caused bags to be deposited in all\nkinds of places that were not intended. Certain overload conditions caused\n\"unidentified\" bags that had lost their barcode association to accumulate, so\nthat they were all rapidly delivered to a troubleshooting station that turned\ninto a big pile. There was none of the intention, though, that people attribute\nto this supposed rogue AI. No decisions were being made: rather, a series of\nhappenstances meant that the bags never reached the decision points. The places\nthat they piled up had less to do with the whims of an intelligent machine than\nit did with the geometry of the track, which was only made to fit by the use of\nhairpin turns. The Telecars used rollercoaster-style grip wheels that kept them\nfirmly on the rails, but the bags had no such adhesion and sometimes kept going\nin their preferred direction as the Telecar took off the other way.\n\nAmong the conspiracy theories surrounding DIA, the most prominent involve\nextensive underground construction. Whether DIA was built as a cover story for a\ndeep underground military base, as a concentration camp for political enemies of\nthe New World Order, or just in alignment with the ley lines to leave us all a\nlittle unsettled, it was impossible not to notice that throughout construction\nthere was something strange happening underground. Once again, the kernel of\ntruth: there *was* extensive underground construction, and it was controversial,\ncomplicated, and as the scandal grew it even became secretive.\n\n![Telecar tracks](https://computer.rip/static/img/dia/3.jpg)\n\nDIA's automated baggage handling system never achieved full operational\ncapability. In the years shortly following the airport's opening, United\nAirlines worked with BAE to complete a scoped-down version of their original\nairline-specific baggage handling system. The Terminal A Telecar system was\nsimplified and isolated into a separate system that operated only between gates,\nwhich never saw much use. The Terminal B system, that exclusively served United,\nwas used only to deliver outbound bags from the ticketing counters to the gates.\nTerminal C's Telecar tracks and stations, some never completed, were abandoned.\n\nWhile it would be pleasing to say that everything strange about DIA is a\nconsequence of an early-'90s industrial automation project gone wrong, that\nwould leave out so many other stories, struggles, and scandals. The baggage\nhandling system is an incredible story, but it is also mundane. Airports are\nenormous infrastructure projects, and even smaller efforts seldom go smoothly.\nDIA's baggage woes are joined by innumerable other problems with the airport's\nconstruction ranging from the quality of the runway paving to financial\nimproprieties. They say that you can't make an omelet without breaking some\neggs, and I very much doubt that you can build an airport without breaking some\nplans. I hesitate to fault a city government for swinging for the fences.\n\nIn 2005, the last operating part of the automated baggage handling system,\nUnited's outbound luggage deliveries, shut down. The Telecar system was\nshut down. United said that they were spending over a million dollars\na month maintaining the troublesome Telecars, and it was cheaper to go back to\ntraditional tugs. Most of the equipment was abandoned in place.\n\nDIA was, perhaps, ahead of its time. The kind of technology required by the\nTelecar system, from robotics to demand-responsive control algorithms, have\nadvanced tremendously over the last 30 years. Orlando Airport's new Terminal C,\nfor example, successfully operates an \"individual carrier system\" that is\nsubstantially similar to the Telecar design. Amusingly, a smaller-scale\nautomated baggage handling has operated at DIA for the last several years,\nlimited to moving bags from the ticketing counters through the security\nscreening process.\n\nEven now, automated baggage handling is rare. The majority of airports still use\ncarts, tugs, and a whole lot of manual labor. DIA's planned system, if built\ntoday, would still rank among the few largest in the world—but decisively\nbehind the Siemens-built system at Dubai International Airport, at least on a\nvolume basis. DIA might still be ahead of its time today: Dubai's\nstate-of-the-art baggage network still doesn't meet the original delivery time\ntargets at DIA. But, then, neither did BAE.\n\nIf DIA does harbor underground secrets, they won't be secret much longer. This\nyear, the airport announced plans to remove the last of the Telecar equipment\nfrom the connecting tunnel and refit the space it used to occupy as a pedestrian\nwalkway. The $300-700 million project is scheduled to start early next year, but\nfrom what I can tell they haven't announced an opening date. That's probably a\nwise decision.",
+        "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+        "source": "computers are bad",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Algorithms"
+        ],
+        "published_at": "20 Sep 2026 00:00:00 UT",
+        "reading_time": 36,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Quoting voxium - 20th September 2026 > It has been half a month since I started a new role at a big company...",
+    "llm-keys-ui 0.1 - This plugin solves a very specific problem. I've started using [Codex Remote](https://lear...",
+    "WorkOS: How SSO Works and the Fastest Way to Add It - If you want more people using your product, the easiest place to start is making it easier...",
+    "GM Revives CarPlay for 2027 Trucks - General Motors is reversing course after having begun to remove Apple CarPlay from its veh...",
+    "System One models like Jev can train their own replacements - “System One” models like [Jev](https://seangoedecke.com/jev-means-structured-output-is-int..."
+  ],
+  "wordcloud": [
+    {
+      "word": "https",
+      "count": 4
+    },
+    {
+      "word": "datasette-explain",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "book",
+      "count": 3
+    },
+    {
+      "word": "ideas",
+      "count": 3
+    },
+    {
+      "word": "want",
+      "count": 3
+    },
+    {
+      "word": "good",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "strong",
+      "count": 2
+    },
+    {
+      "word": "li",
+      "count": 2
+    },
+    {
+      "word": "space",
+      "count": 2
+    },
+    {
+      "word": "jonathan",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "since",
+      "count": 2
+    },
+    {
+      "word": "started",
+      "count": 2
+    },
+    {
+      "word": "tickets",
+      "count": 2
+    },
+    {
+      "word": "remote",
+      "count": 2
+    },
+    {
+      "word": "sso",
+      "count": 2
+    },
+    {
+      "word": "actually",
+      "count": 2
+    },
+    {
+      "word": "remove",
+      "count": 2
+    },
+    {
+      "word": "carplay",
+      "count": 2
+    },
+    {
+      "word": "general",
+      "count": 2
+    },
+    {
+      "word": "system",
+      "count": 2
+    },
+    {
+      "word": "models",
+      "count": 2
+    },
+    {
+      "word": "jev",
+      "count": 2
+    },
+    {
+      "word": "classifiers",
+      "count": 2
+    },
+    {
+      "word": "building",
+      "count": 2
+    },
+    {
+      "word": "shipping",
+      "count": 2
+    },
+    {
+      "word": "re",
+      "count": 2
+    }
+  ]
+}
