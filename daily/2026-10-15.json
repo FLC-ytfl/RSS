@@ -1,14 +1,101 @@
 {
   "date": "2026-10-15",
   "stats": {
-    "total_fetched": 262,
+    "total_fetched": 273,
     "after_filter": 150,
     "final_count": 30,
-    "short_news": 30,
-    "long_articles": 0
+    "short_news": 26,
+    "long_articles": 4
   },
   "sections": {
     "short_news": [
+      {
+        "type": "short_news",
+        "title": "C++ futures part 4: What if I want an immediate on-thread std::async?",
+        "summary": "Providing the case that the C++ language won't do. The post C++ futures part 4: What if I want an immediate on-thread <CODE>std::async</CODE>? appeared first on The Old New Thing.",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/",
+        "source": "The Old New Thing",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Thu, 15 Oct 2026 14:00:00 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What was a Token Ring network?",
+        "summary": "What was a Token Ring network? Token Ring is an obsolete networking technology that competed with Ethernet in the 1980s and 1990s. IBM first announced it October 15, 1985. It is more of a curiosity today, as the networki...",
+        "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/?utm_source=rss&utm_medium=rss&utm_campaign=what-was-a-token-ring-network",
+        "source": "The Silicon Underground",
+        "tags": [
+          "Mobile",
+          "Systems"
+        ],
+        "published_at": "Thu, 15 Oct 2026 11:00:32 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Train Your Robot",
+        "summary": "The enormous advance in AI capabilities over the last several years has in large part been driven by the availability of vast amounts of training data.",
+        "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+        "source": "Construction Physics",
+        "tags": [
+          "AI/ML",
+          "Database"
+        ],
+        "published_at": "Thu, 15 Oct 2026 14:23:58 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A fully programmable secure web gateway",
+        "summary": "Cloudflare Gateway and Data Loss Prevention have inherited the flexibility and power of Cloudflare Workers through our full-stack integration with the Cloudflare Developer platform.",
+        "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Database"
+        ],
+        "published_at": "Thu, 15 Oct 2026 17:11:12 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Deploy with Void",
+        "summary": "Introducing Void: an open-source SDK, CLI, and self-hosted platform for building full-stack Vite apps and deploying them to Cloudflare.",
+        "url": "https://blog.cloudflare.com/deploy-with-void/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "Systems",
+          "Database",
+          "Cloud"
+        ],
+        "published_at": "Thu, 15 Oct 2026 14:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
+        "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike.",
+        "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+        "source": "Cloudflare Blog",
+        "tags": [
+          "AI/ML",
+          "Web Dev",
+          "Cloud"
+        ],
+        "published_at": "Thu, 15 Oct 2026 13:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
       {
         "type": "short_news",
         "title": "Superlinear Returns",
@@ -18,7 +105,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -31,7 +118,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -44,7 +131,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -57,7 +144,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -70,7 +157,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -83,7 +170,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -96,7 +183,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -109,7 +196,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -122,7 +209,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -135,7 +222,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -148,7 +235,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -161,7 +248,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -174,7 +261,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -187,7 +274,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -200,7 +287,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -213,7 +300,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -226,7 +313,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -239,7 +326,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -252,7 +339,7 @@
         "tags": [
           "Other"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       },
@@ -265,145 +352,125 @@
         "tags": [
           "Web Dev"
         ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "What I Worked On",
-        "summary": "",
-        "url": "http://www.paulgraham.com/worked.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Earnestness",
-        "summary": "",
-        "url": "http://www.paulgraham.com/earnest.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Billionaires Build",
-        "summary": "",
-        "url": "http://www.paulgraham.com/ace.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Airbnbs",
-        "summary": "",
-        "url": "http://www.paulgraham.com/airbnbs.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "AI/ML"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "How to Think for Yourself",
-        "summary": "",
-        "url": "http://www.paulgraham.com/think.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Early Work",
-        "summary": "",
-        "url": "http://www.paulgraham.com/early.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Modeling a Wealth Tax",
-        "summary": "",
-        "url": "http://www.paulgraham.com/wtax.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "The Four Quadrants of Conformism",
-        "summary": "",
-        "url": "http://www.paulgraham.com/conformism.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Database"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Orthodox Privilege",
-        "summary": "",
-        "url": "http://www.paulgraham.com/orth.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
-        "translated_title": null,
-        "translated_summary": null
-      },
-      {
-        "type": "short_news",
-        "title": "Coronavirus and Credibility",
-        "summary": "",
-        "url": "http://www.paulgraham.com/cred.html",
-        "source": "Paul Graham: Essays",
-        "tags": [
-          "Other"
-        ],
-        "published_at": "2026-10-15T00:10:43.452Z",
+        "published_at": "2026-10-15T23:57:43.853Z",
         "translated_title": null,
         "translated_summary": null
       }
     ],
-    "long_articles": []
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Chirp Pong",
+        "summary": "Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It s",
+        "content": "Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!\n\n> `Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine than pong`\n\nClaude Opus 5.5 Extra [in Claude Code](https://claude.ai/code/session_019awUnNB7NoYd7noBNAsNdd).",
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-10-15T19:47:52.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "We Need All the Disciplines",
+        "summary": "From where I sit, figuring out what to build, building it, and shipping it are all part of the art of making software.\n\nMany disciplines have emerged through the years to facilitate this work: product",
+        "content": "From where I sit, figuring out what to build, building it, and shipping it are all part of the art of making software.\n\nMany disciplines have emerged through the years to facilitate this work: product, design, engineering, devops, etc.\n\nWe need all these disciplines to make great, dependable software  (granted, in different doses). Each brings different values and judgments; each sees things the others don’t.\n\nAnd including all might mean going a bit slower.\n\nHuman collaboration may seem less “efficient” than handing the work over entirely to the machines.\n\nBut inefficiency may be the cost of collaborating with humans, rather than extracting an output from a machine. We gain not only from their judgment and expertise in a particular discipline, but from the relationship, trust, and shared understanding that blossoms from making something together.\n\nAs the old proverb says: “If you want to go fast, go alone. If you want to go far, go together.”\n\nReformulated for today: If you want to go fast, go with the LLM. If you want to go far, go with your fellow humans.",
+        "url": "https://blog.jim-nielsen.com/2026/we-need-all-disciplines/",
+        "source": "Jim Nielsen’s Blog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Product"
+        ],
+        "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "summary": "15th October 2026 - Link Blog\n\n**[Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1)**. ",
+        "content": "15th October 2026 - Link Blog\n\n**[Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1)**. The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \"[people with knowledge of the matter](https://simonwillison.net/2023/Nov/22/deciphering-clues/#hints-to-look-out-for)\".\n\nKey things I learned from the article:\n\n- Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\"\n\n- Q2 (Apr/May/Jun) was $11.5bn\n\n- Q3 (Jul/Aug/Sep) was $16.8bn\n\n- In Q3: $1.70 in revenue for every $1 spent on \"computing power\"\n\n- Adjusted operating margins (excluding stock-based compensation) were 11%\n\nThis point about distillation is worth quoting in full (highlight mine):\n\n> The start-up has also clamped down on “distillation” — a controversial practice whereby rival AI labs train their models on the outputs of more advanced ones.\n\n> When rival companies “distil” their models from Anthropic’s models, that involves heavy usage and spending.\n\n> Anthropic told investors on Wednesday **distillation accounted for 5 per cent to 7 per cent of revenue** and that they had cut it back “materially” in the third quarter of the year, said four people with direct knowledge of the matter.\n\nNapkin maths says that if distillation was 5% of their Q2 revenue (before they cut it back in Q3) then unnamed \"other labs\" spent over half a billion dollars distilling Anthropic's models in that quarter!\n\nAlso notable: Anthropic appear to no longer be leaning on \"annualized run-rate revenue\" ([previously](https://simonwillison.net/2026/May/29/anthropic/)) in these communications to their investors.",
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "source": "Simon Willison's Weblog",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-10-15T13:04:03.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)",
+        "summary": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Oct2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/10/15/enshittip",
+        "content": "->->->->->->->->->->->->->->->->->->->->->->->->->->->->->\n\nTop Sources:\nNone\n\n-->\n\n[![](https://i0.wp.com/craphound.com/images/15Oct2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/10/15/enshittipedia/)\n\n## Today's links\n\n- [Expedia amazoned hotel rooms](https://pluralistic.net/2026/10/15/enshittipedia/#): Everything more expensive for everyone, monopolies everywhere, and we're all screwed.\n\n- [Hey look at this](https://pluralistic.net/2026/10/15/enshittipedia/#linkdump): Delights to delectate.\n\n- [Object permanence](https://pluralistic.net/2026/10/15/enshittipedia/#retro): Delta v dovening; \"Play Money\"; Alabama's ethnic cleansing; We trust neuroscience over psychology; Billionaires' anti-homeless pogrom; Game devs v DRM; What security means; Microsoft, tear down that wall! Publisher won't revert rights; SNL's Trump/Clinton debate; Chicago Tribune's murder; AI after AI.\n\n- [Upcoming appearances](https://pluralistic.net/2026/10/15/enshittipedia/#upcoming): Paris, Vancouver, Victoria, Ottawa, Vienna, Kilkenny, Oxford, Sheffield, Oxford, Montreal.\n\n- [Recent appearances](https://pluralistic.net/2026/10/15/enshittipedia/#recent): Where I've been.\n\n- [Latest books](https://pluralistic.net/2026/10/15/enshittipedia/#latest): You keep readin' em, I'll keep writin' 'em.\n\n- [Upcoming books](https://pluralistic.net/2026/10/15/enshittipedia/#upcoming-books): Like I said, I'll keep writin' 'em.\n\n- [Colophon](https://pluralistic.net/2026/10/15/enshittipedia/#bragsheet): All the rest.\n\n![](https://i0.wp.com/craphound.com/images/expedia-mfn.jpg?w=840&ssl=1)\n\n## Expedia amazoned hotel rooms ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#))\n\nNo matter where you shop, you're getting screwed by Amazon. Amazon has found a way to make everything you buy – at Target, at a mom-and-pop shop, even direct from the manufacturer – more expensive. And they're not the only one: Expedia's done the same thing, but for hotel rooms.\n\nHere's how Amazon broke the economy: first, they locked in a key group of shoppers. The vast majority of affluent shoppers in the USA have Amazon Prime accounts. Having prepaid for a year's shipping in advance, those Prime subscribers start their purchasing journey by searching Amazon, and if they find what they're looking for, that's where it ends.\n\nAmerica's affluent top decile – the 10% of richest Americans – do the majority of America's shopping, a phenomenon that has only been accelerated by America's precipitous slide into oligarchy, which has exhausted the savings *and* the credit-card limits *and* the home equity of the majority of Americans, who increasingly can't afford to buy anything:\n\n[https://dreamagainusa.org/](https://dreamagainusa.org/)\n\nIf you want to sell things in America, you *must* sell them in the place where the top decile shops, and that's Amazon. For merchants, that is an *incredibly* expensive proposition: 51-60% of every dollar you spend with an independent merchant on Amazon is claimed by Amazon through junk fees, listing fees, commissions, processing fees and other scams:\n\n[https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier](https://pluralistic.net/2026/09/04/cheating-at-fraud/#absentee-rentier)\n\nMerchants don't have 51-60% margins they can afford to turn over to Amazon. To remain viable while selling on Amazon, they have to raise prices. Amazon doesn't mind if prices go up, so long as Amazon's price remains competitive. So Amazon imposes a requirement on its suppliers called \"most favored nation,\" which requires sellers to offer their best price on Amazon:\n\n[https://pluralistic.net/2026/02/25/most-favored-nation/#price-fixing](https://pluralistic.net/2026/02/25/most-favored-nation/#price-fixing)\n\nPractically speaking, that means that when you raise your price on Amazon, you *must* raise your prices *everywhere* by the same amount, which means that no matter where you shop (Target, Walmart, the corner store or direct from the factory), you pay the Amazon Tax.\n\nThe Amazon Tax is a prime (you should forgive the expression) example of enshittification, in which an *intermediary* (a business that sits between buyers and sellers, AKA, \"a platform\") screws *both* customers *and* sellers to benefit itself.\n\nBut Amazon isn't the only example of a powerful digital intermediary that has used its market power to impose an economy-wide tax. Wherever you look online, you find digital giants who grew the way Amazon grew (buying all of their competitors) and then did what Amazon did (squeezing buyers and sellers, making prices higher everywhere).\n\nThat's what happened with Expedia. Almost every travel site you can find online has been purchased by Expedia (Hotels.com, Travelocity, and Orbitz), and the ones that aren't Expedia subsidiaries were acquired by its main rival, Priceline (Booking.com, Kayak, Agoda and even Opentable). Nearly all the hotel rooms are booked by a tiny minority of travelers – largely that same top decile that Amazon has so thoroughly captured and locked in – and hoteliers can't live without their business, and they're almost all Expedia and/or Priceline customers. Expedia accounts for *80%* of all hotel bookings by dollar value.\n\nExpedia's position, in other words, is basically Amazon's position, so Expedia is doing exactly what Amazon is doing: they charge huge fees to hotels, and then force the hotels to raise their prices everywhere through a \"most favored nation\" deal:\n\n[https://storage.courtlistener.com/recap/gov.uscourts.wawd.369601/gov.uscourts.wawd.369601.1.0.pdf](https://storage.courtlistener.com/recap/gov.uscourts.wawd.369601/gov.uscourts.wawd.369601.1.0.pdf)\n\nBut – as Lee Hepner writes for the BIG newsletter – Expedia has figured out ways to out-Amazon Amazon. They've copied one of Amazon's sleaziest businesses, and *made it worse*:\n\n[https://www.thebignewsletter.com/p/how-expedia-rigs-travel-markets-and](https://www.thebignewsletter.com/p/how-expedia-rigs-travel-markets-and)\n\nHere's Amazon's sleaziest commercial practice: when you search Amazon, the top results for your search aren't the best matches for your queries; they're products sold by the companies willing to pay the most for search placement, in a \"real-time auction\" that runs every time you search. The cost of winning that auction comes out of your pocket through higher prices: the first result for an Amazon query is, on average, 29% more expensive than the best match. The top row is *25% more* expensive. On average, the best match for your query is *17* positions down the screen, on the second page, where almost no one ever bothers to scroll:\n\n[https://pluralistic.net/2023/11/03/subprime-attention-rent-crisis/#euthanize-rentiers](https://pluralistic.net/2023/11/03/subprime-attention-rent-crisis/#euthanize-rentiers)\n\nThis rip-off is Amazon's *most* profitable line of business, more profitable than AWS or Prime. It makes the company more than *$80b/year*. And – incredibly – Expedia's found a way to make it even worse.\n\nLike Amazon, Expedia auctions off its search results. They call this their \"VIP listing\" program. Practically speaking, hotels *have* to pay for this, because it boosts booking rates by 42% (the first ten results on an Expedia search-results page get 62% of the clicks). VIP listing is expensive for the merchant – but it's even more expensive for you and me.\n\nThat's because Expedia requires hotels in its VIP listings programs to *raise their prices on non-Expedia sites by 10-25%…INDEFINITELY.*\n\nLet me repeat that: to stay in business, hotels need to be on Expedia. To stay in business on Expedia, hotels have to raise their prices to pay Expedia's junk fees, but they have to raise their prices everywhere else. But to *really* stay in business on Expedia, hotels have to use the VIP program, which is even *more* expensive. And – one more time – hotels in the VIP program have to jack up their prices *everywhere else, INDEFINITELY*. This means that, throughout the economy, hotel prices are rising at a superinflationary rate, because Expedia – who command 80% of the market – are pushing those prices up.\n\nThis goes a long way to explaining why US hotel rates rose *58%* from a 2020 average of $103/night to a 2025 average of $162/night. It explains why hotel prices rose by 5% *last year*, which is *double* the rate of inflation. And this is why Expedia stock is up 65% since the start of the Iran war, a fact that Expedia CEO Ariane Gorin attributes to \"higher margins\" from \"higher prices\":\n\n[https://s202.q4cdn.com/757635260/files/doc_financials/2026/q2/Q2-2026-Earnings-Presentation-Final.pdf](https://s202.q4cdn.com/757635260/files/doc_financials/2026/q2/Q2-2026-Earnings-Presentation-Final.pdf)\n\nIn his coverage of the Expedia lawsuit – which brought many of these details to light – Hepner notes that hotels themselves have undergone near-total cartelization, with Hilton, Marriott, and Choice International owning the majority of all hotels after a string of acquisitions that went largely unchallenged by slumbering antitrust regulators around the world. These consolidated chains have *also* jacked up prices and enshittified their service, slashing housekeeping and check-in staff and allowing their facilities to slip into disrepair.\n\nThis, too, is characteristic of monopolization: whenever a monopoly takes over part of its supply chain, the rest of the supply chain consolidates to prevent itself from being ripped off by the new giant. This is the story of publishers consolidating to defend themselves from Borders/B&N, Walmart and Costco, then Amazon; and it's the story of literary agencies consolidating to resist the power of those overgrown publishers.\n\nAnd it's the story of health-care, which saw consolidation in pharmaceuticals leading to mergers among hospitals, who screwed the insurers, who also consolidated.\n\nIn every case, it's the workers and the people who rely on them that get the shitty end of the stick. Hotel guests, readers and patients pay more for inferior products. Writers, editors, doctors, nurses, hotel staff and housekeepers get lower pay and worse working-conditions:\n\n[https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point](https://pluralistic.net/2024/12/18/loose-flapping-ends/#luigi-has-a-point)\n\nThere is nothing wrong with the idea of an intermediary. Most writers can't publish and sell their own books, and few travelers can navigate finding hotels in strange cities without help. The problem of intermediaries is that when intermediaries gain monopoly power – by buying their rivals and capturing buyers and sellers – they are able to squeeze both. As Tim Wu says, this is the moment when a company that's supposed to be helping becomes a predator, acquires \"main character syndrome\" and makes every transaction all about the middleman, at the expense of the people buying and selling:\n\n[https://pluralistic.net/2026/08/05/absentee-landlord/](https://pluralistic.net/2026/08/05/absentee-landlord/)\n\nThere are so many reasons for inflation and the cost of living crisis: wage stagnation, wars of choice in Iran, environmental cataclysm after environmental cataclysm. But under cover of these real factors is a cohort of what Matt Stoller calls \"economic termites,\" parasites that have infested the walls of our economy and are devouring it from within.\n\nYou can't solve this by shopping. Calling the hotel direct won't fix it: they have to be on Expedia to survive, and to be on Expedia, they have to sign up for VIP service, and to keep VIP service, they have to make their prices higher everywhere. To fix this, we need systemic action: the corporate death penalty for the companies that are consuming the structural members of our society.\n\n## Hey look at this ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#linkdump))\n\n![](https://i0.wp.com/craphound.com/images/heylookatthis3.jpg?w=840&ssl=1)\n\n- Palantir CTO says some AI researchers are taking up smoking because they expect AI to cure cancer [https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10)\n\n- \nThat time local news rose from the ashes [https://www.pressreader.com/canada/toronto-star/20261010/283034061533606](https://www.pressreader.com/canada/toronto-star/20261010/283034061533606)\n\n- \nThe ‘American Dream’ Now Costs More Than $5.3 Million [https://www.investopedia.com/the-2026-american-dream-cost-rises-4-percent-12154346](https://www.investopedia.com/the-2026-american-dream-cost-rises-4-percent-12154346)\n\n- \nThe Militants’ Victory at the UAW [https://prospect.org/2026/10/13/militants-victory-uaw-shawn-fain/](https://prospect.org/2026/10/13/militants-victory-uaw-shawn-fain/)\n\n- \nThe Cost of Knowledge Accounting Analysis & Profitability Report [https://sparcopen.org/our-work/cost-of-knowledge/](https://sparcopen.org/our-work/cost-of-knowledge/)\n\n![](https://i0.wp.com/craphound.com/images/worlds-famous-events.png?w=840&ssl=1)\n\n## Object permanence ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#retro))\n\n#25yrsago Delta diverts flight after passenger reports praying Hassids as suicidal jihadis [https://web.archive.org/web/20011016000622/http://dailynews.yahoo.com/h/nm/20011015/od/delta_dc_1.html](https://web.archive.org/web/20011016000622/http://dailynews.yahoo.com/h/nm/20011015/od/delta_dc_1.html)\n\n#20yrsago Play Money: memoir of a year selling game-gold [https://memex.craphound.com/2006/10/15/play-money-memoir-of-a-year-selling-game-gold/](https://memex.craphound.com/2006/10/15/play-money-memoir-of-a-year-selling-game-gold/)\n\n#15yrsago Cereal Monsters: Frankenberry and friends as Universal classic monsters [https://www.deviantart.com/jasonedmiston/art/Cereal-Monsters-106139367](https://www.deviantart.com/jasonedmiston/art/Cereal-Monsters-106139367)\n\n#15yrsago Alabama’s racist “immigration” law creates misery and fear for brown people [https://www.theguardian.com/world/2011/oct/14/alabama-immigration-law-families-trapped](https://www.theguardian.com/world/2011/oct/14/alabama-immigration-law-families-trapped)\n\n#15yrsago Neuroscience explanations are more believable than mere psychological ones [https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/)\n\n#15yrsago Writer: “my publisher said I could only get the rights to my out-of-print book back if I bought their leftover copies from them” [https://writerbeware.blog/2011/10/18/guest-blog-post-fitzhenry-and-whiteside-writer-beware/](https://writerbeware.blog/2011/10/18/guest-blog-post-fitzhenry-and-whiteside-writer-beware/)\n\n#10yrsago SNL’s Trump/Clinton debate sketch makes Saturday Night great again [https://www.youtube.com/watch?v=qVMW_1aZXRk](https://www.youtube.com/watch?v=qVMW_1aZXRk)\n\n#10yrsago The pathogens of Wells Fargo’s corruption fester in every large corporation [https://www.ineteconomics.org/perspectives/blog/three-things-to-know-to-hold-wells-fargo-accountable](https://www.ineteconomics.org/perspectives/blog/three-things-to-know-to-hold-wells-fargo-accountable)\n\n#10yrago Billionaire tech investors back ballot initiative to purge homeless people from San Francisco [https://eu.usatoday.com/story/tech/2016/10/14/silicon-valleys-acute-homeless-problem-ballot/91082346/](https://eu.usatoday.com/story/tech/2016/10/14/silicon-valleys-acute-homeless-problem-ballot/91082346/)\n\n#10yrsago Game developers say no to DRM: “hurts our customers” [https://web.archive.org/web/20161013180206/https://kotaku.com/pc-game-developers-say-anti-piracy-tech-would-make-thei-1787747680](https://web.archive.org/web/20161013180206/https://kotaku.com/pc-game-developers-say-anti-piracy-tech-would-make-thei-1787747680)\n\n#10yrsago After being outed for massive hack and installing an NSA “rootkit,” Yahoo cancels earnings call [https://www.huffingtonpost.co.uk/entry/yahoo-hacking-verizon_n_5800eef7e4b0e8c198a78b14](https://www.huffingtonpost.co.uk/entry/yahoo-hacking-verizon_n_5800eef7e4b0e8c198a78b14)\n\n#5yrsago ROT 8000 and what \"security\" means [https://pluralistic.net/2021/10/15/fargo-north-decoder/#on-trusting-trust](https://pluralistic.net/2021/10/15/fargo-north-decoder/#on-trusting-trust)\n\n#5yrsago The Chicago Tribune is being murdered before our eyes [https://pluralistic.net/2021/10/16/sociopathic-monsters/#all-the-news-thats-fit-to-print](https://pluralistic.net/2021/10/16/sociopathic-monsters/#all-the-news-thats-fit-to-print)\n\n#1yrago The AI that we'll have after AI [https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue](https://pluralistic.net/2025/10/16/post-ai-ai/#productive-residue)\n\n#1yrago Microsoft, Tear Down That Wall! [https://pluralistic.net/2025/10/15/freedom-of-movement/#data-dieselgate](https://pluralistic.net/2025/10/15/freedom-of-movement/#data-dieselgate)\n\n## Upcoming appearances ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#upcoming))\n\n![](https://i0.wp.com/craphound.com/images/appearances3.jpg?w=840&ssl=1)\n\n- Paris: Slow Tech Summit, Oct 15\n\n[https://slowtechsummit.com/](https://slowtechsummit.com/)\n\n- \nVancouver: Read, Resist, Repair, Rejoice (Vancouver Writers Festival), Oct 19\n\n[https://writersfest.bc.ca/festival-event-2026/01](https://writersfest.bc.ca/festival-event-2026/01)\n\n- \nVictoria: Munro's Books, Oct 20\n\n[https://www.munrobooks.com/events/6113620261020](https://www.munrobooks.com/events/6113620261020)\n\n- \nVancouver: Life After AI (Vancouver Writers Festival), Oct 22\n\n[https://writersfest.bc.ca/festival-event-2026/46](https://writersfest.bc.ca/festival-event-2026/46)\n\n- \nOttawa: Life After AI (Ottawa Writers Festival), Oct 24\n\n[https://writersfestival.org/event/life-after-ai](https://writersfestival.org/event/life-after-ai)\n\n- \nVienna: TED AI, Oct 28-30\n\n[https://tedai-vienna.ted.com/](https://tedai-vienna.ted.com/)\n\n- \nKilkenny (Kilkenomics), Nov 6-8\n\n[https://kilkenomics.com/](https://kilkenomics.com/)\n\n- \nVancouver: Enshittification (Sid Williams Theatre Society), Nov 10\n\n[https://www.sidwilliamstheatre.com/events/cory-doctorow-talks-enshittification/](https://www.sidwilliamstheatre.com/events/cory-doctorow-talks-enshittification/)\n\n- \nVancouver: BC Policy Solutions Gala, Nov 12\n\n[https://bcpolicy.ca/gala/](https://bcpolicy.ca/gala/)\n\n- \nOxford: Ministry of the Future, Nov 23\n\n[https://ministryforthefuture.co.uk/events.html](https://ministryforthefuture.co.uk/events.html)\n\n- \nSheffield: Reverse Centaur at Juno Books, Nov 25\n\n[https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation](https://www.outsavvy.com/event/40274/cory-doctorow-in-conversation)\n\n- \nOxford: Bennett Oxford Symposium on Open Code in Science, Dec 9\n\n[https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/](https://www.bennett.ox.ac.uk/events/2026-bennett-institute-symposium/)\n\n- \nMontreal: World Science Fiction Convention, Sep 2-6\n\n[https://montreal2027.ca/en](https://montreal2027.ca/en)\n\n![](https://i0.wp.com/craphound.com/images/recentappearances3.jpg?w=840&ssl=1)\n\n## Recent appearances ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#recent))\n\n- Life After AI (Brain Bar)\n\n[https://www.youtube.com/watch?v=IPPa43-n0vI](https://www.youtube.com/watch?v=IPPa43-n0vI)\n\n- \nTerms of Service with Clare Duffy (CNN)\n\n[https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8](https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/458ce968-af5d-11f0-b539-13ed2afe25f8)\n\n- \nAI, Work, and Power (Software Engineering Daily)\n\nAI, Work, and Power [https://softwareengineeringdaily.com/podcasts/cory-doctorow-on-ai-work-and-power/](https://softwareengineeringdaily.com/podcasts/cory-doctorow-on-ai-work-and-power/)\n\n- \nAI, Corporate Power, and the Fight for Worker Control (Plutopia)\n\n[https://plutopia.io/cory-doctorow-ai-corporate-power-and-the-fight-for-worker-control/](https://plutopia.io/cory-doctorow-ai-corporate-power-and-the-fight-for-worker-control/)\n\n- \nHow to Think About AI—Before It’s Too Late (Daniel Solove)\n\n[https://www.youtube.com/watch?v=_0xR3uEgGcc](https://www.youtube.com/watch?v=_0xR3uEgGcc)\n\n![](https://i0.wp.com/craphound.com/images/recent.jpg?w=840&ssl=1)\n\n## Latest books ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#latest))\n\n- \"The Reverse-Centaur's Guide to AI,\" a short book about being a better AI critic, Farrar, Straus and Giroux, June 2026\n\n[https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)\n\n- \n\"Canny Valley\": A limited edition collection of the collages I create for Pluralistic, self-published, September 2025 [https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce](https://pluralistic.net/2025/09/04/illustrious/#chairman-bruce)\n\n- \n\"Enshittification: Why Everything Suddenly Got Worse and What to Do About It,\" Farrar, Straus, Giroux, October 7 2025\n\n[https://us.macmillan.com/books/9780374619329/enshittification/](https://us.macmillan.com/books/9780374619329/enshittification/)\n\n- \n\"Picks and Shovels\": a sequel to \"Red Team Blues,\" about the heroic era of the PC, Tor Books (US), Head of Zeus (UK), February 2025 ([https://us.macmillan.com/books/9781250865908/picksandshovels](https://us.macmillan.com/books/9781250865908/picksandshovels)).\n\n- \n\"The Bezzle\": a sequel to \"Red Team Blues,\" about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 ([thebezzle.org](http://thebezzle.org/)).\n\n- \n\"The Lost Cause:\" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 ([http://lost-cause.org](http://lost-cause.org/)).\n\n- \n\"The Internet Con\": A nonfiction book about interoperability and Big Tech (Verso) September 2023 ([http://seizethemeansofcomputation.org](http://seizethemeansofcomputation.org/)). Signed copies at Book Soup ([https://www.booksoup.com/book/9781804291245](https://www.booksoup.com/book/9781804291245)).\n\n- \n\"Red Team Blues\": \"A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before.\" Tor Books [http://redteamblues.com](http://redteamblues.com/).\n\n- \n\"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin\", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 [https://chokepointcapitalism.com](https://chokepointcapitalism.com/)\n\n![](https://i0.wp.com/craphound.com/images/upcoming-books.jpg?w=840&ssl=1)\n\n## Upcoming books ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#upcoming-books))\n\n- \"The Post-American Internet,\" a geopolitical sequel of sorts to *Enshittification*, Farrar, Straus and Giroux, 2027\n\n- \n\"Unauthorized Bread\": a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, April 20, 2027\n\n- \n\"Enshittification, Why Everything Suddenly Got Worse and What to Do About It\" (the graphic novel), Firstsecond, 2027\n\n- \n\"The Memex Method,\" Farrar, Straus, Giroux, 2027\n\n![](https://i0.wp.com/craphound.com/images/colophon2.jpg?w=840&ssl=1)\n\n## Colophon ([permalink](https://pluralistic.net/2026/10/15/enshittipedia/#bragsheet))\n\nToday's top sources:\n\n**Currently writing:**\n\n**\n- “Once Is Enemy Action,” a science fiction novel about the origins of modern technofascism. Today's words: 508 (25536 total).\n\n**- **\n****\"The Post-American Internet,\" a sequel to \"Enshittification,\" about the better world the rest of us get to have now that Trump has torched America. Fourth draft completed. Submitted to editor.**\n\n- \nA Little Brother short story about DIY insulin PLANNING\n\n![](https://i0.wp.com/craphound.com/images/by.svg.png?w=840&ssl=1)\n\nThis work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.\n\n[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)\n\nQuotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.\n\n## How to get Pluralistic:\n\nBlog (no ads, tracking, or data-collection):\n\n[Pluralistic.net](http://pluralistic.net/)\n\nNewsletter (no ads, tracking, or data-collection):\n\n[https://pluralistic.net/plura-list](https://pluralistic.net/plura-list)\n\nMastodon (no ads, tracking, or data-collection):\n\n[https://mamot.fr/@pluralistic](https://mamot.fr/@pluralistic)\n\nBluesky (no ads, possible tracking and data-collection):\n\n[https://bsky.app/profile/doctorow.pluralistic.net](https://bsky.app/profile/doctorow.pluralistic.net)\n\nMedium (no ads, paywalled):\n\n[https://doctorow.medium.com/](https://doctorow.medium.com/)\n\nTumblr (mass-scale, unrestricted, third-party surveillance and advertising):\n\n[https://mostlysignssomeportents.tumblr.com/tagged/pluralistic](https://mostlysignssomeportents.tumblr.com/tagged/pluralistic)\n\n\"*When life gives you SARS, you make sarsaparilla*\" -Joey \"Accordion Guy\" DeVilla\n\nREAD CAREFULLY: By reading this, you agree, on behalf of your employer, to release me from all obligations and waivers arising from any and all NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap, browsewrap, confidentiality, non-disclosure, non-compete and acceptable use policies (\"BOGUS AGREEMENTS\") that I have entered into with your employer, its partners, licensors, agents and assigns, in perpetuity, without prejudice to my ongoing rights and privileges. You further represent that you have the authority to release me from any BOGUS AGREEMENTS on behalf of your employer.\n\nISSN: 3066-764X\n\n\\",
+        "url": "https://pluralistic.net/2026/10/15/enshittipedia/",
+        "source": "Pluralistic: Daily links from Cory Doctorow",
+        "tags": [
+          "Web Dev",
+          "Security",
+          "Systems"
+        ],
+        "published_at": "Thu, 15 Oct 2026 11:03:29 +0000",
+        "reading_time": 16,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
   },
-  "highlights": [],
+  "highlights": [
+    "Chirp Pong - Another game experiment - I wanted to see if it was feasible to have a two player game on...",
+    "We Need All the Disciplines - From where I sit, figuring out what to build, building it, and shipping it are all part of...",
+    "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO - 15th October 2026 - Link Blog **[Anthropic tells investors quarterly revenue up nearly 50%...",
+    "Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026) - ->->->->->->->->->->->->->->->->->->->->->->->->->->->->-> Top Sources: None --> [![](http..."
+  ],
   "wordcloud": [
+    {
+      "word": "cloudflare",
+      "count": 6
+    },
+    {
+      "word": "part",
+      "count": 4
+    },
+    {
+      "word": "want",
+      "count": 4
+    },
+    {
+      "word": "code",
+      "count": 3
+    },
+    {
+      "word": "token",
+      "count": 3
+    },
+    {
+      "word": "ring",
+      "count": 3
+    },
+    {
+      "word": "ai",
+      "count": 3
+    },
+    {
+      "word": "making",
+      "count": 3
+    },
     {
       "word": "work",
       "count": 3
@@ -413,7 +480,143 @@
       "count": 3
     },
     {
-      "word": "want",
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "futures",
+      "count": 2
+    },
+    {
+      "word": "immediate",
+      "count": 2
+    },
+    {
+      "word": "on-thread",
+      "count": 2
+    },
+    {
+      "word": "std",
+      "count": 2
+    },
+    {
+      "word": "async",
+      "count": 2
+    },
+    {
+      "word": "thing",
+      "count": 2
+    },
+    {
+      "word": "network",
+      "count": 2
+    },
+    {
+      "word": "networking",
+      "count": 2
+    },
+    {
+      "word": "october",
+      "count": 2
+    },
+    {
+      "word": "years",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "gateway",
+      "count": 2
+    },
+    {
+      "word": "full-stack",
+      "count": 2
+    },
+    {
+      "word": "platform",
+      "count": 2
+    },
+    {
+      "word": "void",
+      "count": 2
+    },
+    {
+      "word": "building",
+      "count": 2
+    },
+    {
+      "word": "openai",
+      "count": 2
+    },
+    {
+      "word": "better",
+      "count": 2
+    },
+    {
+      "word": "content",
+      "count": 2
+    },
+    {
+      "word": "users",
+      "count": 2
+    },
+    {
+      "word": "game",
+      "count": 2
+    },
+    {
+      "word": "disciplines",
+      "count": 2
+    },
+    {
+      "word": "anthropic",
+      "count": 2
+    },
+    {
+      "word": "tells",
+      "count": 2
+    },
+    {
+      "word": "investors",
+      "count": 2
+    },
+    {
+      "word": "quarterly",
+      "count": 2
+    },
+    {
+      "word": "revenue",
+      "count": 2
+    },
+    {
+      "word": "nearly",
+      "count": 2
+    },
+    {
+      "word": "bn",
+      "count": 2
+    },
+    {
+      "word": "ahead",
+      "count": 2
+    },
+    {
+      "word": "ipo",
+      "count": 2
+    },
+    {
+      "word": "pluralistic",
+      "count": 2
+    },
+    {
+      "word": "oct",
       "count": 2
     }
   ]
