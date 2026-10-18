@@ -1,0 +1,601 @@
+{
+  "date": "2026-10-18",
+  "stats": {
+    "total_fetched": 277,
+    "after_filter": 150,
+    "final_count": 30,
+    "short_news": 24,
+    "long_articles": 6
+  },
+  "sections": {
+    "short_news": [
+      {
+        "type": "short_news",
+        "title": "WorkOS AuthKit",
+        "summary": "My thanks to WorkOS for sponsoring DF last week. Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer ask...",
+        "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+        "source": "Daring Fireball",
+        "tags": [
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-10-18T22:45:00.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
+        "summary": "Manton Reece: All I can come up with is that Apple doesn’t want you to buy the wall-mounted version unless you’re really sure that’s what you need. If the wall-mounted version was cheaper, some people might buy it based...",
+        "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "2026-10-18T19:34:45.000Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Una Watch TOTP - MFA on your wrist!",
+        "summary": "Let's get this out of the way first - this is a terrible idea! I want my two-factor authentication codes to be easily accessible to me, so I've built a watch app which will display them. That's really convenient for me -...",
+        "url": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
+        "source": "Terence Eden’s Blog",
+        "tags": [
+          "Security",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 18 Oct 2026 11:34:08 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How many VICmodems Commodore sold",
+        "summary": "When researching the 1600 VICmodem, I found an assertion that the 1600 was the first modem to sell a million units. And I’ve repeated that claim myself at least once. But I never felt quite right about that. I am The pos...",
+        "url": "https://dfarq.homeip.net/how-many-vicmodems-commodore-sold/?utm_source=rss&utm_medium=rss&utm_campaign=how-many-vicmodems-commodore-sold",
+        "source": "The Silicon Underground",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 18 Oct 2026 11:00:03 +0000",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How the AI boom might really end: 5 scenarios",
+        "summary": "With chip stocks on their longest losing streak since 2008 and Anthropic heading for IPO, five ways the AI boom could end - and why I think the value is real but may not flow to the people putting the money in.",
+        "url": "https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed",
+        "source": "Martin Alderson",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Mobile"
+        ],
+        "published_at": "Sun, 18 Oct 2026 00:00:00 GMT",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Superlinear Returns",
+        "summary": "",
+        "url": "http://www.paulgraham.com/superlinear.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Do Great Work",
+        "summary": "",
+        "url": "http://www.paulgraham.com/greatwork.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Get New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/getideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Need to Read",
+        "summary": "",
+        "url": "http://www.paulgraham.com/read.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What You (Want to)* Want",
+        "summary": "",
+        "url": "http://www.paulgraham.com/want.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Alien Truth",
+        "summary": "",
+        "url": "http://www.paulgraham.com/alien.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "What I've Learned from Users",
+        "summary": "",
+        "url": "http://www.paulgraham.com/users.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Putting Ideas into Words",
+        "summary": "",
+        "url": "http://www.paulgraham.com/words.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Is There Such a Thing as Good Taste?",
+        "summary": "",
+        "url": "http://www.paulgraham.com/goodtaste.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Beyond Smart",
+        "summary": "",
+        "url": "http://www.paulgraham.com/smart.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Weird Languages",
+        "summary": "",
+        "url": "http://www.paulgraham.com/weird.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How to Work Hard",
+        "summary": "",
+        "url": "http://www.paulgraham.com/hwh.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "A Project of One's Own",
+        "summary": "",
+        "url": "http://www.paulgraham.com/own.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Fierce Nerds",
+        "summary": "",
+        "url": "http://www.paulgraham.com/fn.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Crazy New Ideas",
+        "summary": "",
+        "url": "http://www.paulgraham.com/newideas.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "An NFT That Saves Lives",
+        "summary": "",
+        "url": "http://www.paulgraham.com/nft.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "The Real Reason to End the Death Penalty",
+        "summary": "",
+        "url": "http://www.paulgraham.com/real.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "How People Get Rich Now",
+        "summary": "",
+        "url": "http://www.paulgraham.com/richnow.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      },
+      {
+        "type": "short_news",
+        "title": "Write Simply",
+        "summary": "",
+        "url": "http://www.paulgraham.com/simply.html",
+        "source": "Paul Graham: Essays",
+        "tags": [
+          "Other"
+        ],
+        "published_at": "2026-10-18T23:47:40.703Z",
+        "translated_title": null,
+        "translated_summary": null
+      }
+    ],
+    "long_articles": [
+      {
+        "type": "article",
+        "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
+        "summary": "[*](https://www.patreon.com/rubenbolling)\n\n–\n\nWhat is the Inner Hive?  It’s a subscription service. It’s a secret society. It’s a ragtag group of ne’er-do-wells with ideas that are so crazy, they just",
+        "content": "[*](https://www.patreon.com/rubenbolling)\n\n–\n\nWhat is the Inner Hive?  It’s a subscription service. It’s a secret society. It’s a ragtag group of ne’er-do-wells with ideas that are so crazy, they just might work.\n\nIt’s the team that literally makes it possible for Tom the Dancing Bug to exist in this world.\n\nAnd YOU are invited to become a member!*  Every week, you’ll get an email with that week’s Tom the Dancing Bug AT LEAST A DAY BEFORE IT’S PUBLISHED ANYWHERE ONLINE.  Plus exclusive commentary, insights, process pics, extra comics, jokes, puzzles, recipes, and all benefits accruing.\n\nHow can you join?  Let me count the ways:\n\n- You can join on **[Patreon](https://www.patreon.com/rubenbolling/membership)**, now the most popular platform for new Inner Hivers, offering not only emails but also a website on which you can read the posts.  Plus, the Patreon option offers different levels of membership, with varying benefits.  *(Monthly or annual automatic recurring payments.)* \n\n-  You can join at **[MailChimp/CampaignZee](https://manage.campaignzee.com/oJPEtfJkpA)**, the platform on which the Inner Hive was first launched, way back in 2012, offering weekly emails only (no website option). *(Semi-annual automatic recurring payments.)*\n\n-  You can join on **[Substack](https://tomthedancingbug.substack.com/subscribe)**, the latest platform to join the Inner Hive family.  *(Monthly or annual automatic recurring payments.)*\n\n-  You can avoid automatic recurring payments by joining on a **[two-year non-recurring membership](https://tomthedancingbug.com/2019/04/30/non-recurring-two-year-inner-hive-membership/)**, directly from me. *(No recurring payments.)*\n\nNo matter how you join, you’ll earn the adoration of a grateful nation and world.\n\n***Friends of Tom the Dancing Bug**: If you don’t want to join the Inner Hive, but want to make a grant to the Tom the Dancing Bug enterprise, you can become a **Friend of Tom the Dancing Bug** by making a payment **of any size** **[HER](https://buy.stripe.com/6oE6qM8mgbsM3T2bII)**[**E**](https://buy.stripe.com/6oE6qM8mgbsM3T2bII). You will get a nifty electronic Thank You message.*\n\nThank you for reading this message, and I hope to see you on the team.\n–*Ruben Bolling*\n\n![](https://i0.wp.com/tomthedancingbug.com/wp-content/uploads/2024/11/come-on-in-boys-the-waters-fine.gif?resize=400%2C170&ssl=1)",
+        "url": "https://tomthedancingbug.com/the-inner-hive/",
+        "source": "Daring Fireball",
+        "tags": [
+          "Systems",
+          "AI/ML",
+          "Security"
+        ],
+        "published_at": "2026-10-18T22:53:00.000Z",
+        "reading_time": 2,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Verizon Is Going to Charge $10/Month for iPhone Handoff",
+        "summary": "**NEW YORK, N.Y.**—It’s official. Verizon will offer [iPhone Duo](https://www.verizon.com/smartphones/apple-iphone-duo/), the first foldable iPhone, with pre-orders beginning Friday, October 16. iPhon",
+        "content": "**NEW YORK, N.Y.**—It’s official. Verizon will offer [iPhone Duo](https://www.verizon.com/smartphones/apple-iphone-duo/), the first foldable iPhone, with pre-orders beginning Friday, October 16. iPhone Duo hits stores on Friday, October 23, joining [iPhone 18 Pro](https://www.verizon.com/smartphones/apple-iphone-18-pro/) and [iPhone 18 Pro Max](https://www.verizon.com/smartphones/apple-iphone-18-pro-max/). With a breakthrough design that opens to a versatile 7.6-inch display for gaming and multitasking and closes to a pocketable 5.4-inch screen, there’s never been a better time to upgrade than with iPhone Duo. Built to last with a durable precision hinge, it pairs an advanced camera system with impressive all-day battery life.\n\nFor customers who are tired of complexity and want a simple, cost-effective plan alongside the new iPhone lineup, Verizon offers simple pricing, no activation or upgrade fees and a brand-new iPhone every single year. Plus, Verizon is offering the latest Apple products, including [Apple Watch Series 12](https://www.verizon.com/connected-smartwatches/apple-watch-series-12/), [Apple Watch Ultra 4](https://www.verizon.com/connected-smartwatches/apple-watch-ultra-4/) and [AirPods 5](https://www.verizon.com/products/apple-airpods-5/).\n\nSimplicity moves beyond tiered network confusion and provides a simple choice for mobile service, with options to get a new phone every year. With America’s Most Reliable 5G Network [*](#6ad276a3d509d962e24f8be1)  for everyone at an affordable price, including unlimited 5G Ultra Wideband data, 10GB of premium mobile hotspot and roaming in Canada and Mexico all standard. That’s it. That’s the plan.\n\nVerizon will support iPhone Handoff, giving customers the flexibility to use a single Verizon phone number seamlessly across two compatible iPhone models. Whether using the pocketable iPhone Duo on the go or iPhone 18 Pro for work, customers can switch active status between devices at any time while keeping full access to Verizon’s 5G network. iPhone Handoff will be available from Verizon for $10/month on compatible iPhones models running iOS 27.\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n**Goodbye activation and upgrade fees: **All postpaid customers on all phone and connected device plans can opt-in to Verizon’s Loyalty program and say goodbye to activation and upgrade fees—that’s up to $40 in fees per device.\n\n**Verizon Dollars:** A first-of-its-kind program that rewards customers with 3% back in Verizon Dollars every single month, just for being a customer. Verizon Dollars can be redeemed for devices (including the latest iPhones models), accessories or up to 5x for each Verizon Dollar from top brands.\n\n**Verizon Shine, every Monday, every day, all year-round: **The loyalty program that gives customers a reason to look forward to Monday, all year-round. All Verizon customers on any plan can enter weekly for a chance to win once-in-a-lifetime experiences, alongside daily drops including tickets to concerts and sporting events, exclusive merchandise, dining vouchers, gift cards and more. Opt-in into loyalty in one simple step through the My Verizon app.\n\n[iPhone Duo](https://www.verizon.com/smartphones/apple-iphone-duo/) is the first foldable iPhone, featuring a breakthrough design that’s beautiful, versatile and durable. iPhone Duo opens to a large 7.6-inch inner display for viewing content, gaming, and multitasking, and closes to a compact, pocketable 5.4-inch outer display. Built to last with an innovative hardware design and precision hinge, iPhone Duo is powered by A20 Pro to deliver pro performance and impressive all-day battery life, and offers an advanced camera system, with the folding design unlocking fun new ways to use the camera that aren’t possible on any other iPhone. iOS 27 is also reimagined for the versatile ways users can interact with iPhone Duo.\n\n[iPhone 18 Pro](https://www.verizon.com/smartphones/apple-iphone-18-pro/) and [iPhone 18 Pro Max](https://www.verizon.com/smartphones/apple-iphone-18-pro-max/) offer the new 48MP Fusion Main camera with variable aperture, the most advanced camera Apple has ever made, and new Pro controls let users customize their experience. Powered by A20 Pro, iPhone 18 Pro and iPhone 18 Pro Max deliver huge leaps in battery life and performance. iPhone Duo and iPhone 18 Pro models feature Apple Intelligence [¹](#6ad2771dd509d962e24f8be2)  and Siri AI [²](#6ad2772dd509d962e24f8be3) , an entirely new version of Siri, rolling out in beta in English with iOS 27, to bring AI capabilities together with a user’s personal context to become an intelligent personal hub with privacy and security at the core. iPhone Duo is available in two refined colors: star white and night sky. iPhone 18 Pro and iPhone 18 Pro Max are available in four elegant finishes: black, silver, glacier and an all-new burgundy.\n\niPhone Duo and iPhone 18 Pro models feature eSIM [³](#6ad27756d509d962e24f8be4) , offering greater flexibility, better security, seamless connectivity compared to traditional physical SIM cards, and more battery life on eSIM-only models. iPhone Duo features an eSIM-only design that saves internal space to maximize battery capacity while eSIM-only models of iPhone 18 Pro and iPhone 18 Pro Max take advantage of the space formerly occupied by the physical SIM with a larger battery that provides two additional hours of video playback.\n\n[Apple Watch Series 12](https://www.verizon.com/connected-smartwatches/apple-watch-series-12/) and [Apple Watch Ultra 4](https://www.verizon.com/connected-smartwatches/apple-watch-ultra-4/) offer the most accurate heart rate sensing in a wearable [⁴](#6ad27795d509d962e24f8be5) . Both new models have been engineered with the new Health Sensing System and S11 chip to offer an enhanced suite of health and fitness features including a new readiness score, higher-frequency heart rate and heart rate variability (HRV) measurements, plus extended workout battery life and faster charging. Apple Watch Series 12 is available in 42mm and 46mm sizes in an array of beautiful finishes, including dark bronze, black, light gold and space gray aluminum; radiant gold and natural titanium; and a stunning ceramic material, in pearl white and night blue. Apple Watch Ultra 4 is available in natural and black titanium.\n\nWith watchOS 27, Apple Intelligence comes to the wrist, bringing Siri AI to Apple Watch Series 12 and Apple Watch Ultra 4 with personal context understanding and broad world knowledge [⁵](#6ad277b8d509d962e24f8be6) . Arriving later this year, new Audio Intelligence features roll out in beta in English to help users stay aware of the world around them, catch what they missed, and remember key moments—with user control, privacy, security, and accessibility at the center of their design [⁶](#6ad277c7d509d962e24f8be7) —along with a redesigned Health app on iPhone and iPad, starting in U.S. English, including a new Longevity tab with a Health Age feature showing how metrics are tracking relative to a user’s age [⁷](#6ad277d9d509d962e24f8be8) .\n\n[AirPods 5](https://www.verizon.com/products/apple-airpods-5/) deliver the industry’s best Active Noise Cancellation (ANC) [⁸](#6ad27805d509d962e24f8be9)  in an open-ear design, powered by a new multiport acoustic architecture and next-generation Adaptive EQ for even more immersive sound. Their breakthrough open-ear ANC removes up to 50 percent more external noise compared to the previous generation, alongside a more natural Transparency mode. Combined with Siri AI and iPhone, AirPods enable users to draw on their personal context and get answers with broad world knowledge, entirely hands-free [¹](#6ad2771dd509d962e24f8be2) . Users can also respond to Siri using head gestures or use Live Translation to help connect across languages. For users who want even more, [AirPods 5 with Wireless Charging Case](https://www.verizon.com/products/apple-airpods-5-with-wireless-charging-case/) adds longer battery life and on-stem volume control [⁹](#6ad27835d509d962e24f8beb) .\n\nVisit [Verizon.com](http://verizon.com/), the My Verizon app or your local Verizon store to order your [iPhone 18 Pro](https://www.verizon.com/smartphones/apple-iphone-18-pro/), [iPhone 18 Pro Max](https://www.verizon.com/smartphones/apple-iphone-18-pro-max/), [Apple Watch Series 12](https://www.verizon.com/connected-smartwatches/apple-watch-series-12/), [Apple Watch Ultra 4](https://www.verizon.com/connected-smartwatches/apple-watch-ultra-4/), and [AirPods 5](https://www.verizon.com/products/apple-airpods-5/). [iPhone Duo](https://www.verizon.com/smartphones/apple-iphone-duo/) will be available to pre-order starting on Friday, October 16 with wide availability on October 23. Verizon Business customers can visit the [Verizon Business website](https://www.verizon.com/business/) or contact their account manager to order. All new iPhone models will also be available from Visible, StraightTalk, Total Wireless and Verizon Prepaid.",
+        "url": "https://www.verizon.com/about/news/iphone-duo-verizon-offers",
+        "source": "Daring Fireball",
+        "tags": [
+          "Mobile",
+          "Product",
+          "Security"
+        ],
+        "published_at": "2026-10-18T22:20:06.000Z",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances",
+        "summary": "## Log in or sign up for X\n\nSee what’s happening and join the conversation\n\n[Continue with phone](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FAbdulElSayed%2Fstatus%2F21116272",
+        "content": "## Log in or sign up for X\n\nSee what’s happening and join the conversation\n\n[Continue with phone](https://x.com/i/jf/onboarding/web?mode=signup&redirect_after_login=%2FAbdulElSayed%2Fstatus%2F2111627277578731885)\n\n or \n\n[Log in with username or email](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FAbdulElSayed%2Fstatus%2F2111627277578731885)\n\n## Relevant people\n\n[![](https://pbs.twimg.com/profile_images/1912793182800121856/bj1c8UR__normal.jpg)\n\n](https://x.com/AbdulElSayed)[Dr. Abdul El-Sayed@AbdulElSayed](https://x.com/AbdulElSayed)[Follow](https://x.com/i/jf/onboarding/web?mode=login&redirect_after_login=%2FAbdulElSayed)\n\nPublic servant running for U.S. Senate because it shouldn't be THIS hard to get by. Michigan born and raised. Girl Dad. Doctor.\n\n## Trending now\n\n[Terms](https://x.com/tos)[Privacy](https://x.com/privacy)[Cookies](https://support.x.com/articles/20170514)[Accessibility](https://help.x.com/resources/accessibility)[Ads Info](https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo)© 2026 X Corp.",
+        "url": "https://x.com/AbdulElSayed/status/2111627277578731885",
+        "source": "Daring Fireball",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-10-18T19:17:01.000Z",
+        "reading_time": 1,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Writing is no longer proof of work",
+        "summary": "Tech companies structurally depend on writing to serve as evidence, in the same way that Bitcoin depends on proof-of-work hashing. However, in the last few years, LLMs have started to undermine this p",
+        "content": "Tech companies structurally depend on writing to serve as evidence, in the same way that Bitcoin depends on proof-of-work hashing. However, in the last few years, LLMs have started to undermine this practice.\n\nHow can writing be like proof-of-work? When I’m writing something at work, it’s not always to communicate an idea. Sometimes it’s because having a piece of writing is useful as *evidence*: of compliance with some process, of the fact that I put in effort, or of the fact that I know about some topic. Here are some examples.\n\n### Writing as evidence of compliance[](#writing-as-evidence-of-compliance)\n\nThe most obvious instance of writing as evidence is filling out mandatory templates: “risk assessments”, “impact evaluations”, and so on. The purpose of these is rarely to assess risk or evaluate impact. It’s some combination of:\n\n- Employees wanting to demonstrate that they’re taking some incident seriously by introducing new process\n\n- A legal requirement that companies have developed the least-expensive way to technically satisfy\n\n- Internal company rules intending to scare lazy or uncommitted engineers away from making dangerous changes\n\n- Smaller companies trying to role-play processes from larger companies that are doing one of the above\n\nIt’s a mistake to buckle down and produce an excellent piece of writing here. You simply need to dash off something plausible enough to tick the box.\n\n### Writing as evidence of effort[](#writing-as-evidence-of-effort)\n\nIn the kinds of hundred-page reports produced by consultants, writing is evidence of *effort*. The actual piece of communication is the first page of text (or often not even that). The remaining ninety-nine pages are proof that the first page is well-researched, and that the money spent on hiring the consultancy wasn’t wasted.\n\nAnother example: if you’re working on a project by yourself, why spend time creating tickets and filling them out? I suppose theoretically someone could read them to get a sense of what you’re doing, but in that case you’ve failed to communicate the project via normal channels: telling people in Slack or in meetings, writing a proposal document, and so on. The tickets are primarily valuable as *evidence*: proof[1](#fn-1) that you haven’t just been screwing around playing video games.\n\n### Writing as evidence of learning[](#writing-as-evidence-of-learning)\n\nA third subcategory of writing-as-evidence is writing that proves that the writer has understood some topic.\n\nThe best example of this is reporting. Large organizations function via a tree of nested reports, often called “rollups”. Individual contributors give status updates to their managers, who summarize and combine those into team-level updates for their managers, and so on all the way to the top.\n\nOne of the reasons for this practice is that it forces each manager to build at least a minimal mental model of what’s going on in their local area. Taking the time to write a status report forces you to wrap your head around each detail, for the same reason that the best way to understand an idea is to try to explain it to someone else. Even if the VP or CEO doesn’t read the rollup, the fact that it exists is *evidence* that the manager has some grip over their domain.\n\n### Proof of work[](#proof-of-work)\n\nYou can think of all these kinds of writing-as-evidence as [proof of work](https://seangoedecke.com/blockchain-explained-simply/). Nobody really cares about the content, they care about the fact that you *sat down and wrote it*. Of course, this requires a measure of trust. Just like cryptocurrency proof-of-work, if you fake it (for instance, by pasting [lorem ipsum](https://www.lipsum.com/) into pages 2-100 of your report), you can swindle the rewards without having to actually put in the effort.\n\nTo avoid fraud, tech companies will typically check some percentage of writing-as-evidence: either reactively, such as when an incident causes people to actually go and read the risk assessment on the PR that broke production, or proactively, by tasking some poor soul with reviewing the consultant report in detail. Blockchains, of course, are able to check the work automatically (for instance, by confirming that the nonce and block data do in fact hash to the claimed value).\n\nTo break Bitcoin, somebody would have to break SHA-256: to figure out a way to identify in advance what content would hash to a specific value, so you could produce the hash without doing the work. To break writing-as-evidence, somebody would have to figure out a way to generate text on demand, so you could produce the evidence (of compliance, effort or learning) without actually doing the work. Unfortunately, that happened in [2023](https://en.wikipedia.org/wiki/GPT-4).\n\n### LLMs fundamentally break writing-as-evidence[](#llms-fundamentally-break-writing-as-evidence)\n\nWriting is no longer evidence of anything. LLM-produced writing makes evidence of compliance even more vacuous than it already is. It totally destroys evidence of effort: if you need a hundred-page report, you can generate one with an hour and a few dollars in inference tokens. Evidence of learning is likewise broken, since I can produce a detailed status report full of information that never passed through my mind at all (and certainly was never retained). \n\nOf course, this problem isn’t limited to tech companies. Schools and universities rely on writing to serve as evidence of effort and learning, and students are using LLMs to cheat as hard as they can. Many political or regulatory bodies [require](https://x.com/patio11/status/1640539217498632192) a certain bar of professional writing in order to filter requests, and are or will be overloaded by LLMs making that kind of writing generally available.\n\n### What happens now?[](#what-happens-now)\n\nCurrently we’re suffering through an overhang period where the processes are still in place but everyone knows how to trivially exploit them. It will be interesting to see how organizations adapt. They might:\n\n- Introduce new, harder-to-forge forms of evidence like recording a video or presenting live in a meeting (though this will take more time to consume than written reports)\n\n- Attempt to mandate that certain forms of writing not be AI-generated (universities already do this[2](#fn-2)), which will be [difficult](https://seangoedecke.com/ai-detection/) to enforce\n\n- Find other ways to track effort, such as asking an LLM to review an engineer’s code and judge how much work they put in\n\nI can’t think of any great options here, which is interesting. If there really is no easy solution to this problem, the overhang period might go on for a while, where nobody is particularly happy with the status quo but there are no good alternatives.\n\nIn this scenario, individual software engineers are incentivized to exploit the system while they can, and avoid being harmed by other system-exploiters. In other words: don’t trust or waste time poring through LLM-authored documents yourself, but also don’t waste time writing documents by hand that are just intended to serve as evidence[3](#fn-3). Save that effort for documents that are intended to serve as *communication*.\n\nHere's a preview of a related post that shares tags with this one.",
+        "url": "https://seangoedecke.com/writing-is-no-longer-proof-of-work/",
+        "source": "seangoedecke.com RSS feed",
+        "tags": [
+          "AI/ML",
+          "Systems",
+          "Web Dev"
+        ],
+        "published_at": "Sun, 18 Oct 2026 00:00:00 GMT",
+        "reading_time": 7,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+        "summary": "In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster\nin the IBM PC and other systems.\nAlthough the 8087 supports advanced operations such as tangents, square root",
+        "content": "In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster\nin the IBM PC and other systems.\nAlthough the 8087 supports advanced operations such as tangents, square roots, and logarithms,\nthis article focuses on basic arithmetic operations: addition and subtraction.\nThe 8087 provided a spectacular speed improvement over the 8086 processor, speeding up\naddition by a factor of almost 100, and complicated operations by even more.[1](#fn:speedup)\nIn this article, I examine the 8087's microcode and circuitry to explain exactly how\nfloating-point addition and subtraction are implemented, including numerous special\ncases for infinities and other special values.\n\nTo explore the 8087's circuitry, I popped the lid off a chip with a chisel\nand used a microscope to create the high-resolution image below.\nThe microcode ROM is the large rectangular region in the center of the die, holding the 1648 micro-instructions that control the chip.\nThe bottom half of the chip (red box) is the datapath, the circuitry that performs floating-point calculations on 80-bit values.[2](#fn:bits)\n\n[![](https://static.righto.com/images/8087-fadd/8087-datapath-zoom-diagram-w600.jpg)](https://static.righto.com/images/8087-fadd/8087-datapath-zoom-diagram.jpg)\n\nA close-up of the 8087's datapath, showing functional blocks that are used for addition and subtraction. Click this image (or any other) for a larger version.\n\nZooming in on the datapath shows the functional blocks that are important for\naddition and subtraction. \nThe key component is the integer adder, located in the center. It receives one argument from\nthe B register and another argument from a component such as the temporary registers or\nthe stack registers.\nThe adder's output is stored in the sum register.\nThe shifter can shift the bits in a value to the left or the right.\nThe shifter occupies a lot of space on the die because its circuitry allows a value to\nbe rapidly shifted by an arbitrary number of bits.\nFloating-point operations make heavy use of the shifter to align values; the leading zero\ncircuitry counts the number of zero bits or bytes on the left of a value so they can\nbe shifted away.\nThe exponent converter processes exponents, detecting\noverflows and underflows.\nThese specialized circuits helped the 8087 achieve its high performance.\n\nMost computers use integers as their basic representation for numbers.\nBut many applications need to use numbers with a fractional part, such as 1.23.\nMoreover, integers have a very limited range: a 32-bit integer can express numbers from\nabout -2 billion to 2 billion.\nTo solve these problems,[3](#fn:problems) computers usually implement floating-point numbers, which provide\nfractional numbers over an enormous range.\n\nIn most cases, a floating-point number is represented by *sign* × *significand* × 2*exponent*.\nThe significand is a binary number of the form `1.bbb…`:\na leading 1, followed by the binary point (the binary equivalent of the decimal point) and the rest of the bits.[4](#fn:leading-one)\nIn a binary number, each bit represents a power of 2. For the fractional part, the part\nafter the binary point, the powers of 2 are negative: 2-1, 2-2,\nand so forth.\nSo the binary number 1.1 is 1 + 1/2, or 1.5 in decimal. Similarly, binary 1.0011 is\n1 + 1/8 + 1/16 or 1.1875.\nThe exponent allows numbers to escape the limited range of the significand.\nFor instance, 1.1 (binary) × 28 is 384.\nWith larger exponents, floating-point numbers can cover a huge range;\neven a 32-bit short floating-point number covers a range exceeding 10-36 to 1038.\n\nFloating-point addition and subtraction are more complicated than\ninteger operations. Before the numbers can be added (or subtracted), their binary points\nmust be aligned, the same as aligning the decimal points for decimal numbers.\nAfter the operation, the exponent of the result must be adjusted, normalizing the\nsignificand so it starts with a 1 bit.\n\n[![](https://static.righto.com/images/8087-fadd/add1-w350.jpg)](https://static.righto.com/images/8087-fadd/add1.jpg)\n\nThe steps for a simple floating-point addition.\n\nThe diagram above illustrates a simple floating-point addition: `13.5+3.5`.\nThe first two lines show the two arguments expressed with an exponent and significand.\nBoth arguments are normalized, so the leftmost bit is a 1.\nBefore adding, the second argument must be aligned—making the exponents equal—by shifting it two positions\nto the right. (The difference between the exponents in this case is two.)\nThe values are then added, using integer addition on the aligned significands.\nIn this case, adding the values causes an overflow, an \"extra\" bit\non the left.\nThe result must be normalized by shifting it one position to the right and incrementing the\nexponent by 1.\n\nFloating-point subtraction is similar, but has a few more complications.\nThe result can be positive, negative, or zero. The result can be orders of magnitude smaller than the arguments.\nThe figure below shows a basic subtraction, 8-7.5.\nAs with addition, the second argument is shifted right so the exponents match (i.e., the binary points line up).  The two significands are subtracted with integer subtraction.\nThe result is normalized by shifting to the left so the top bit is a 1. Unlike the addition case, normalization may require a large shift.\nIn this case, the shift is four bits and the exponent is decremented by 4 to yield the result.\n\n[![](https://static.righto.com/images/8087-fadd/sub1-w320.jpg)](https://static.righto.com/images/8087-fadd/sub1.jpg)\n\nA simple floating-point subtraction.\n\nOne complication with subtraction is that the result can be negative. If that occurs,\nthe significand is made positive, and the sign of the result is flipped.\nSubtraction can also result in zero. In this case, normalization cannot be performed; instead,\na special value +0 or -0 is returned as appropriate.\n\n## Relevant hardware details of the 8087\n\nIn this section, I'll explain some features of the 8087 that play important roles\nin the microcode implementation of addition and subtraction.\n\nThe 8087 supports a variety of data types, but\ninternally, the 8087 stores numbers in an 80-bit format called \"temporary real\".\nA temporary real number has a sign bit, a 15-bit exponent, and a 64-bit significand.\nThe 15-bit exponent allows numbers that are absurdly large, over 104932.\nThe 64-bit significand supports extremely accurate numbers.\nThe exponent is stored with a \"bias\" of 16383 added to it. Thus, the stored exponent is always positive, even if the real\nexponent is negative. For instance, an exponent of 1 is stored as `0x4000`, and an exponent of -16 is stored as `0x3fef`.\n\n[![](https://static.righto.com/images/8087-fadd/registers-w550.jpg)](https://static.righto.com/images/8087-fadd/registers.jpg)\n\nThe 80-bit temporary real format and the register formats. The dot indicates the binary point, analogous to the decimal point.\n\nThe 8087 has eight internal registers, organized as a stack.\nThe programmer uses these registers when programming the 8087.\nEach register holds an 80-bit floating-point number.\nTo optimize performance,\neach value in the register stack also has an associated \"tag\" value:\nzero, valid, special, or empty.\nA value of zero is tagged as *zero*.\nA \"normal\" floating-point value is tagged as *valid*. If the value is infinity, Not a Number (NaN), or a denormalized value,\nthen it is tagged as *special*.\nFinally, an *empty* tag indicates that a register does not hold a value; this allows detection of\nstack underflow (reading an empty register) or stack overflow (storing to a non-empty\nregister).\n\nThe 8087 also has temporary registers that it uses internally.\n`tmpA` and `tmpB` are 80-bit registers, along\nwith two tag bits.\nHowever, `tmpC` is different: it doesn't have a sign, exponent, or tag.\nMoreover,\nthe significand is 68 bits; `tmpC` has an additional\nbit to prevent overflow and three additional low-order bits for rounding, known as\n*guard*, *round*, and *sticky*.\n\nIn the microcode,\neach 16-bit micro-instruction performs one low-level operation.\nMany of the operations move data from one register to another.\nOther operations provide conditional jumps, subroutine calls, and returns.\n\nThe heart of the 8087's processing is the 69-bit integer adder, which I discussed [here](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html).\n(The adder has more than 64 bits because it has three rounding bits and a couple of\nadditional high-order bits for overflow and multiplication.)\nInteger addition takes two micro-instructions. The first micro-instruction\nspecifies the first argument to add and selects various options such as\ncarry and rounding.\n(For subtraction, an option complements the second argument.)\nThe second argument to the adder always comes from the `B` register, which confusingly is\nunrelated to the `tmpB` register.\nThe result of the addition operation is placed in a special register called the sum register.\nA second micro-instruction (which may be many instructions after the first) moves the result from the sum register to a destination.\n\nFloating-point also makes extensive use of the bit shifter, which shifts a 68-bit value\nby an arbitrary number of positions, left or right; I wrote about it [here](https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html).\nLike the adder, a bit shift operation takes two micro-instructions: the first moves a value to the shifter and\nconfigures the direction and amount of shift. The second micro-instruction\nmoves the result from the shifter to a destination.\n\n## The addition/subtraction microcode\n\nThe 8087 implements almost all of its operations in microcode.\nThe basic math operations (addition, subtraction, multiplication,\nand division) start by executing the same microcode (at decimal address `#0001`.\nThe microcode moves the two arguments into temporary registers `tmpA` and `tmpB`.\nNormally, these arguments are taken from the stack registers. The arguments can also\nbe taken from memory, but I won't discuss that here.\n\nNext, the microcode does a micro-subroutine call to handle the specific operation type.\nThe 8087's microcode engine has a tiny ROM that holds a table of addresses, targets for microcode jumps or\nsubroutine calls.\nTarget 0 is special, however; it has three different addresses for multiplication, division,\nor addition/subtraction.\n(This is implemented by special-case circuitry in the ROM. When you're designing the chip, you can\ndo weird, hacky optimizations like this if you want.)\n\nThe addition/subtraction micro-subroutine starts at address `#0232`; this microcode\nis shown below.  The control flow is complicated, so I've put a flowchart in the footnotes.[5](#fn:flowchart)\nThe microcode first handles the zero cases 0+0 or 0-0.\nNext, it subtracts the exponents of the two arguments.\nIf the first argument has a smaller exponent (i.e., the result is negative), the arguments\nare swapped so the argument with the larger argument is first.\n(The 8087 keeps track of the sign of the result in the \"sign latch\"; if exchanging\nthe arguments would change the sign, the latch is toggled at `#0244`.)\n\n#0232 jmp #0236 if not tmpA:tag ZERO Check for 0+0\n#0233 jmp #0236 if not tmpB:tag ZERO\n#0234 return if not unsigned sub 0+0 same signs\n#0235 jmp #0263            handle 0+0 different signs\n#0236 tmpA sign -> sign latch nonzero: tmpA sign to sign latch\n#0237 tmpB:exp -> Breg\n#0238 adder: tmpA:exp - Breg cin=1 compare exponents\n#0239 jmp #0245 if adder pos\n#0240 sumreg:frac -> Breg  swap if tmpB's exponent larger\n#0241 adder: zero - Breg cin=1\n#0242 xchg tmp\n#0243 jmp #0245 if not unsigned sub\n#0244 !sign latch -> sign latch toggle sign if swapping matters\n#0245 xchg tmp             continue\n#0246 shift zero R 0 bytes, 0 bits zero\n#0247 call CREATE_DENORM   shift tmpB to match exponents\n#0248 xchg tmp\n#0249 zero -> tmpB:exp     store exp adjustment in tmpB:exp\n#0250 jmp #0269 if not unsigned sub base addition?\n#0251 adder: tmpA:frac - Breg cin=1, roundmode tmp A - tmpB\n#0252 jmp #0256 if adder pos\n#0253 sumreg:frac,rnd -> Breg/rnd negate frac\n#0254 adder: zero - Breg cin=1, roundmode\n#0255 !sign latch -> sign latch toggle sign\n#0256 jmp #0275 if Sum register is zero jump if result zero\n#0257 shift R -> tmpB:frac orig tmpB, from CREATE_DENORM\n#0258 jmp #0282 if tmpA top bit tmpA not denorm?\n#0259 jmp #0282 if tmpB:frac[63] tmpB not denorm?\n#0260 jmp #0289            skip normalization if both denorms\n#0261 tmpA:exp -> expConv  handle zero\n#0262 jmp #0264 if not tmpA top bit\n#0263 zero -> tmpA         handle zero cases\n#0264 0 -> tmpA sign       +0\n#0265 zero -> tmpA:frac\n#0266 return if not round chop\n#0267 1 -> tmpA sign       return -0\n#0268 return\n#0269 adder: tmpA:frac + Breg cin=0, roundmode base addition: tmpA + tmpB\n#0270 jmp #0289 if not sumreg[64] check for overflow\n#0271 shift 1 sumreg:sign,frac,rnd R shift right 1 bit to normalize\n#0272 shift R -> sumreg:frac,sign,rnd\n#0273 expAdj++             increment exp adjustment\n#0274 jmp #0289            wrap up addition\n#0275 shift sumreg:frac,rnd L 0 bytes, 3 bits zero? shift to get rounding bits\n#0276 shift L -> sumreg:frac\n#0277 jmp #0261 if Sum register is zero jump if no rounding bits\n#0278 zero -> sumreg:frac  clear result\n#0279 jmp #0289 if not tmpA top bit denorm?\n#0280 expAdj--             if not denorm, adjust exp down\n#0281 1 -> sumreg:frac,rnd set lowest bit in result\n#0282 lzcount -> shiftcountH leading zero adjust: handle bytes\n#0283 shift sumreg:frac,rnd L count byte sticky\n#0284 shift L -> sumreg:frac,rnd\n#0285 lzcount -> shiftcountL handle leading zero bits\n#0286 shift sumreg:frac,rnd L count bit sticky\n#0287 shift L -> sumreg:frac,rnd\n#0288 shiftcount -> tmpB:exp remember the bit shift amount\n#0289 sign latch -> tmpA sign store sign\n#0290 call ADJUST_PRECISION if not FBLD/FBSTP adjust precision if necessary\n#0291 sumreg:frac -> tmpA:frac store adjusted frac part\n#0292 tmpB:exp -> Breg     get exp\n#0293 adder: tmpA:exp - Breg cin=0 adjust by Breg\n#0294 expAdj -> Breg\n#0295 adder: sumreg:frac + Breg cin=0 adjust by expAdj\n#0296 sumreg:frac -> expConv exp in expConv to check for overflow, etc\n#0297 sumreg:frac -> tmpA:exp store exp in tmpA\n#0298 return               done\n\nAt address `#0247`, the important alignment step takes place, shifting `tmpB` so the\nbinary point lines up with `tmpA`. This is done by the microcode subroutine `CREATE_DENORM`.\nThe number of positions to shift `tmpB` is passed in the sum register; the difference\nbetween the two exponents was calculated in the previous subtraction.\n(If the difference was negative, it was complemented, so the value passed in is positive.)\n\nTypically, the exponent of the result will be the same as the exponent of the (larger) value,\nbut not always.\nChanges to the exponent are tracked in two places. First, a special two-bit register that I\ncall the exponent adjustment (`expAdj`) holds adjustments due to one-bit shifts left or\nright. The hardware initializes the `expAdj` register to 1 so there is room for a decrement.\nLarger exponent changes are tracked in the `tmpB` register's exponent field;\nthe microcode initializes it to 0 at `#0249`.\n\nAt address `#0250`, the microcode makes a key decision: is the low-level operation\nunsigned addition\nor unsigned subtraction?\nDepending on the signs involved, the high-level operation (addition or subtraction) may\nnot match the low-level operation.\nFor example, for 2+3, -2-3, -2+(-3), and so forth, the two unsigned numbers are added; the result is 5, either positive or negative.\nBut for -2+3, 2-3, 3-2, and so forth, the two unsigned numbers are subtracted; the result is 1, either positive or negative.\nI'll use \"unsigned addition\" to refer to the former cases, where the unsigned magnitudes are added,\nand \"unsigned subtraction\" to refer to the latter cases, where the unsigned magnitudes are subtracted.\nThe key point is that an addition instruction may result in unsigned addition or subtraction,\nand the same with a subtraction instruction.\n\nThe 8087 has specialized circuitry to determine whether the low-level unsigned operation is addition or subtraction, allowing this to be tested with a conditional.\nThe `tmpA` and `tmpB` values have sign bits of 1 for negative, 0 for positive.\nIf you assign 1 to subtraction and 0 to addition, then `tmpAsign⊕​tmpBsign⊕op` yields 1 if the unsigned operation is subtraction and 0 if the unsigned operation is addition.\nThe 8087 also has a conditional to test if the signs are the same or different.\n\n### Unsigned addition\n\nSince the unsigned addition path is simpler, I'll start with it, at address `#0269`.\nThe steps are essentially the same as described earlier: aligning the numbers, adding them,\nand normalizing.\nFirst, the smaller number, in `tmpB`, is shifted right until the exponents match.\nThen the (unsigned) values are added.\nIf there is a carry from the top bit, the result is shifted right at `#0271`.\nBecause the result is shifted right one bit,\nthe special two-bit `expAdj` counter is incremented to track the required exponent adjustment.\n\nAt `#0289`, the result's sign is updated with the value in the sign register.\nThe 8087 supports three sizes of values: 80-bit temporary reals, 64-bit reals, or 32-bit\nreals.\nFor the smaller sizes, the microcode subroutine `ADJUST_PRECISION` trims the value to the\nappropriate size.\n(This is not as trivial as it sounds, since rounding up the result could\nrequire an adjustment to\nthe result's exponent, recorded in the `expAdj` register.)\nFinally, the result's exponent is calculated from the initial exponent (in `tmpA`),\nsubtracting the adjustment value in `tmpB`'s exponent (normally 0), adding the\nadjustment value in the `expAdj` register, and subtracting 1 (because `expAdj` starts at 1).\nThe exponent is stored in the result but also stored in the \"exponent converter\",\na circuit that evaluates the exponent to detect overflow or underflow.\n\nAt this point, the addition/subtraction micro-subroutine returns to the common microcode.\nThe common microcode checks if there was an overflow or underflow, indicating the value\ndoesn't fit in a float.\nIn this case, the subroutine `NONNORMAL_RESULT` is called to handle the value, which can involve\ntriggering an interrupt, returning infinity, or returning zero.\n(For details, see my [previous article](https://www.righto.com/search?q=nonnormal_result#:~:text=Handling%20a%20non%2Dnormal%20result).)\n\nThe result is pushed on the stack by writing it to the appropriate stack register.\nIf the original instruction specified a stack pop at the end, the top of stack is marked\nempty, and the stack pointer is updated.\nFinally, the Run Next Instruction micro-instruction indicates the end of the microcode\nfor the current instruction. The floating-point instruction has finally completed.\n\n### Unsigned subtraction\n\nI'll switch now to the unsigned subtraction path, starting at `#0251`.\n(Keep in mind that the instruction could be addition, for example, -2 + 3.)\nThe microcode uses the 64-bit adder to perform an unsigned subtraction: `tmpA-tmpB`;\nthe second argument is negated to perform subtraction.\nThe result can be either positive or negative, depending on which value is larger.\nThe rest of the path is the same as addition: setting the sign, adjusting the precision, and computing the final exponent.\n\nIf the subtraction result is zero, `#0275` tests the three\nrounding bits. If a rounding bit is set, then the low bit\nof the result is set, and the exponent adjustment is decreased by 1 to\ncounteract this.\n(For a denorm, the result is cleared since there's no \"extra\" room to promote the rounding bit.)\nThere's a special path `#0261` if the result is really zero, because the microcode needs to determine if the result is +0 or -0.\nSubtracting 0-0 joins into this code path to handle the various possibilities for adding or subtracting +0 and/or -0.\nGenerally, positive and negative zeros work as you'd expect from a zero that \"leans\" one way.\nFor instance, ⁺0 + ⁺0 is ⁺0 and ⁻0 - ⁺0 = ⁻0.\nBut what if the zeros cancel? E.g.\n⁺0 + ⁻0 or ⁻0 - ⁻0? In these cases, rounding down yields ⁻0 while the other rounding modes yield ⁺0.\n\nThe leading zero circuit counts the number of leading zeros to determine how much to shift.\nTo keep the circuitry manageable, the leading zero shift is done in two steps.\nFirst, the result is shifted left by the number of leading zero bytes.\nNext, the leading zero circuitry counts the number of remaining leading zero bits, which will be 0 to 7 at this point.\nThe result is shifted left by that many bits.\nThe total shift amount is stored in `tmpB`'s exponent.\n\nThe unsigned subtraction path merges at `#0289` with the unsigned addition path described earlier,\nadjusting the precision, computing the exponent, and storing the result.\nThe micro-subroutine then returns to the common code that also handles multiplication and division.\n\n### Special-case handling in the common microcode\n\nThe 8087 handles many special cases for infinities, zeros, Not-a-Number, denormals,\nand other special values.\nThe designers of the 8087 carefully thought about these special cases and attempted\nto handle them in mathematically reasonable ways.[6](#fn:kahan)\nThe table below is just part of the special cases that the 8087 handles.\n\n[![](https://static.righto.com/images/8087-fadd/infinities-w400.jpg)](https://static.righto.com/images/8087-fadd/infinities.jpg)\n\nPart of the special-case handling of infinities as described in the [User's Manual](https://archive.org/details/8086familyusersm00inte/page/n85/mode/2up).\n\nWhile these special cases make the 8087 more accurate mathematically, they\nmake the microcode much more complicated.\nThe microcode below is common to addition, subtraction, multiplication, and division.\nIt loads arguments and stores the result as described above, but for the most part,\nit handles special cases.\nThis microcode is \"spaghetti code\", with 18 conditional branches in a row to handle numerous\nspecial cases.\nI'll describe it at a high level here; the flowchart in the footnotes[7](#fn:flowchart2) provides details.\n\n#0001 call MEM_OP if mem op maybe get args from memory\n#0002 jmp #0004 if mem op\n#0003 st(i) -> tmpB        get from stack\n#0004 jmp #0018 if DE (denormalized) interrupt quit if denormalized interrupt\n#0005 st(0) -> tmpA        top of stack to tmpA\n#0006 jmp #0008 if not reverse bit no jump if FSUBR, FMUL, FDIVR?\n#0007 xchg tmp             reverse arguments\n#0008 jmp #0019 if tmp anomalous handle anomalous values\n#0009 call INSTR_SWITCH    switch on instruction type: J1(mul), J2(add/sub), J3(div)\n#0010 call NONNORMAL_RESULT if not exp normal Back, finish up instruction\n#0011 jmp #0014 if dst st(i) test d destination bit\n#0012 tmpA -> st(0)        destination st(0)\n#0013 RNI\n#0014 tmpA -> st(i)        exit: destination st(i)\n#0015 jmp #0018 if not pop at end RNI if not pop\n#0016 empty -> SP(0) tag   mark top of stack empty\n#0017 stackPtr++           pop\n#0018 RNI\n#0019 call SPECIAL_TMPS    handle special values\n#0020 jmp #0023 if not flag\n#0021 jmp #0011 if expConv[0] jump to finish\n#0022 jmp #0009            switch on instruction type\n#0023 cond3b -> sign latch more conditions\n#0024 jmp #0039 if expConv[0]\n#0025 jmp #0032 if not tmpB:tag ZERO\n#0026 jmp #0035 if tmpA:tag ZERO\n#0027 except:zero div\n#0028 NaN -> tmpA          NaN, finish\n#0029 high bit -> tmpA:frac\n#0030 sign latch -> tmpA sign\n#0031 jmp #0037            finish up\n#0032 jmp #0035 if not tmpA:tag ZERO divide by denorm/0\n#0033 tmpB:frac -> sumreg:frac divide by 0\n#0034 jmp #0055 if not Sum register is zero\n#0035 except:invalid\n#0036 NaN -> tmpA\n#0037 jmp #0018 if intr    jump to RNI\n#0038 jmp #0011            finish\n#0039 jmp #0051 if not tmpA:tag SPECIAL more conditions\n#0040 jmp #0046 if not tmpB:tag SPECIAL\n#0041 jmp #0028 if FMUL\n#0042 jmp #0035 if FDIV FDIVR\n#0043 jmp #0035 if not affine ∞ ∞×∞: test if affine\n#0044 jmp #0035 if unsigned sub test if ∞ add or subtract\n#0045 jmp #0038\n#0046 jmp #0049 if not FMUL\n#0047 jmp #0035 if tmpB:tag ZERO\n#0048 jmp #0028\n#0049 jmp #0028 if FDIV FDIVR\n#0050 jmp #0038\n#0051 jmp #0054 if not FMUL\n#0052 jmp #0035 if tmpA:tag ZERO divide by 0?\n#0053 jmp #0028\n#0054 jmp #0057 if not FDIV FDIVR\n#0055 zero -> tmpA         0÷denorm or n÷∞\n#0056 jmp #0030            do something and finish up\n#0057 xchg tmp\n#0058 jmp #0061 if sign mismatch\n#0059 jmp #0062 if unsigned sub test if adding or subtracting\n#0060 jmp #0038            finish\n#0061 jmp #0038 if unsigned sub finish\n#0062 tmpA sign -> sign latch complement sign\n#0063 !sign latch -> tmpA sign\n#0064 jmp #0038            finish\n\nLooking at `#0008`, the 8087 micro-architecture includes a conditional test that will check if either temporary\nregister is empty or is tagged with a special value.\nIf so, a subroutine that I call `SPECAL_TMPS` is called.[8](#fn:special_tmps)\nIt examines the two temporary registers and sets two flags to indicate what special\nhandling needs to be done.\n\nIf both flags are set, one of the arguments was tagged empty, typically indicating a stack underflow. In this case, the microcode returns Not-a-Number (NaN).\nIf the second flag is clear, then one of the arguments was a denormal number, a special value very close to zero. The arithmetic operation continues in that case.\n\nThe remaining code paths get complicated, for example, branching on the signs of the arguments,\nthe specific arithmetic operation, or if an argument is zero or infinity.\nEight code paths return Not-a-Number:\nn÷denorm, 0÷0, 0÷pseudo-zero, ∞×0, ∞÷∞, 0×∞, ∞ op ∞ proj, and ∞-∞ affine.\nMany of these are straightforward—0×∞ has no meaningful value, for instance—but the\nlast two need a bit more explanation.\n\nThe 8087 has two different modes for infinity, selected by a bit in the control register.\nWith \"affine closure\", infinity is signed, so +∞ and -∞ are two different values.\nThe recommended mode is \"projective closure\", where infinity is unsigned.\nIn affine mode, ∞+∞ is perfectly valid, yielding positive infinity.\nHowever, ∞-∞ is meaningless; an answer of 0 would be arbitrary, so NaN is returned.\nIn projective mode, none of the operations on infinity make sense because infinity is both\ninfinitely positive and infinitely negative.\n\nThe microcode has eight different paths to return infinity:\nn÷0, ∞×n, ∞×∞, n×∞, ∞÷x, x±∞, ∞±x, and ∞+∞ affine.\n(The first case assumes that the divide-by-zero exception has been masked.)\nFor the first five cases, the microcode generates the sign for infinity by combining the\nsigns of the arguments.\nHowever, the last three cases take the sign from the infinity argument and ignore the other\nsign. In other words, multiplication and division can flip the sign of an infinity, but\naddition and subtraction can't.\n\nTwo paths deal with special-case 0 results: 0÷denorm and n÷∞.\nThe microcode generates 0 with the correct sign, based on the signs of the arguments.\n\n## The leading zeros circuitry\n\nWith subtraction, digits can cancel out, leaving leading zeros that need to be removed\nby shifting the value.\nThe 8087's shifter can shift a 64-bit value by an arbitrary number of bits.\nThe job of the leading-zero circuitry is to count the leading zeros to determine how\nmuch to shift.\nThat is, it counts how many zeros are to the left of the first 1 bit and turns this \ninto a binary value.\nThis is basically the same as a priority encoder that encodes the position of the first 1 bit.\n\nLeading-zero circuits are somewhat complicated because each binary output bit depends on\nall the input bits; a 64-bit detector has 64 bits coming in.\nOne approach is to take the truth table and optimize it, ending up with a pile of logic.\nAnother approach is to use a hierarchical approach, a tree with log(N) stages.\nThe 8087 takes a simpler path: one pass to eliminate leading zeros a byte at a time,\nand a second pass to eliminate the remaining 0 to 7 leading zero bits.\nEach pass requires a separate 8-input leading zero detector circuit.\nThis approach is slower, but the circuitry is much simpler: two 8-bit leading zero detectors\ninstead of a 64-bit leading zero detector.\n\nThe schematic below shows the circuit that converts 0 to 7 leading zeros into a 3-digit\nbinary value.\nTo simplify the schematic, I've replaced the first layer of logic with a bitmask that represents\nthe 8-bit input.\nFor instance, `x01xxxxx` indicates that the signal is high if the second bit is 0, the\nthird bit is 1, and the remaining bits are arbitrary.\nI've added text descriptions; due to optimizations, the descriptions have some exceptions.\nFor instance, `x01xxxxx` matches anything with two leading zeros.\nIt also matches some patterns with no leading zeros, but those don't change the result.\nThe important thing is that it matches *everything* with 2 leading zeros and *nothing* with\n1 or 3 leading zeros.\n\n[![](https://static.righto.com/images/8087-fadd/leading-zeros-w600.jpg)](https://static.righto.com/images/8087-fadd/leading-zeros.jpg)\n\nThe circuitry to detect 0 to 7 leading zero bits. The same approach is used to detect leading zero bytes.\n\nThe output from the circuit is a 3-bit binary value representing the number of leading zeros.\nThe top NOR gate generates the low bit, set for 1, 3, 5, or 7 leading zeros.\nThe high bit is generated by the bottom NOR gate: set for 4, 5, 6, or 7.\nThe middle bit is trickier, with an additional layer of logic to determine if there are 4 or 5 leading zeros\n(or maybe 0 or 1). The two 1 cases block four zeros, while the 00 pair\nmeans that four leading zeros would turn into at least 6.\n(This is a hand-waving explanation, but one can enumerate the 256 cases and verify\nthat they all produce the correct answer.)\n\nTo count the number of *bytes* with leading zeros, similar logic is used.\nHowever, each group of 8 bits goes through an OR gate to detect if any bits are\nset in the byte. Thus, the logic determines how many bytes of leading zeros are present.\n\nOn the die, the leading zero logic is immediately to the left of the sum register, examining each\nbit of the sum register.\n\n## Conclusions\n\nMost people don't give much thought to computer operations such as addition or subtraction.\nBut there are interesting algorithms and special cases behind the scenes, and\nthese features are embodied in clever silicon circuits.\nThe intricate rules to handle positive and negative zeros, positive and negative infinities,\nand Not-a-Number are part of modern computers, since the 8087 led to the IEEE-754 floating-point\nstandard used today.\nThe 8087 went a bit overboard with special cases, however.\nSome 8087 features, such as projective infinity, unnormals, and pseudo-zero\nwere dropped from the standard becauses they weren't worth the effort.\n\nI plan to continue reverse-engineering the 8087 microcode;\nfor updates, follow me on\n Bluesky ([@righto.com](https://bsky.app/profile/righto.com)),\nMastodon ([@[email protected]](https://oldbytes.space/@kenshirriff)),\nor [RSS](http://www.righto.com/feeds/posts/default).\nI've been working on this with the members of the \"Opcode Collective\", especially Smartest Blob and Gloriouscow, who converted the\nROM images to microcode data and extensively analyzed the contents.\nSee the [8087 repository](https://github.com/a-mcego/granite/tree/main/tools/8087mc) on GitHub for more.\nAI statement: Despite the presence of the em dash, no AI was used in the writing of this article ([details](https://www.righto.com/p/index.html#ai)). The Opcode Collective used an ML algorithm to classify each ROM cell to extract the microcode.\n\n## Notes and references",
+        "url": "http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "source": "Ken Shirriff's blog",
+        "tags": [
+          "Web Dev",
+          "Systems",
+          "Hardware"
+        ],
+        "published_at": "2026-10-18T16:14:00.971Z",
+        "reading_time": 26,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      },
+      {
+        "type": "article",
+        "title": "Notes on the complex roots of unity",
+        "summary": "One of the most wonderful aspects of math is how deep we can get by\nstudying seemingly trivial questions. Consider the roots of unity, where\n\"unity\" simply means the number 1.\n\n## Basics: roots of uni",
+        "content": "One of the most wonderful aspects of math is how deep we can get by\nstudying seemingly trivial questions. Consider the roots of unity, where\n\"unity\" simply means the number 1.\n\n## Basics: roots of unity for real numbers\n\nStudying the roots of unity usually begins in middle school: what is the\nsquare root of 1? Equivalently, what are the solutions to this equation?\n\nWell, there are two answers: 1 and -1.\n\nSimilarly, we can ask the question for higher roots; the third roots are\nsolutions to the equation:\n\nAnd so on. When we’re only dealing with real numbers, that’s pretty much\nthe whole story. For odd-degree roots of 1, the only answer is 1; for\neven-degree roots of 1, the answer is either 1 or -1.\n\nWhen we extend our domain to the complex numbers, things become much\nmore interesting.\n\n## Basics: roots of unity for complex numbers\n\nBy the [formal\ndefinition](https://en.wikipedia.org/wiki/Root_of_unity), a root of\nunity is any complex number that yields 1 when raised to a positive\ninteger power .\n\nRather than looking at *all* the possible roots of 1, it’s often more\nuseful to discuss the roots for a specific given : complex\nnumbers  such that .\n\nFor example, let’s consider . We’ve already seen that the\nroots are 1 and -1; these are complex numbers with a zero imaginary\npart.\n\nHow about ? There are four roots: 1, -1,  and\n. For , the three roots [[1]](#footnote-1) are 1,\n and . It’s\neasy enough to check that these indeed give 1 when raised to the third\npower, but how do we calculate them in the first place?\n\n## Calculating complex roots using polar coordinates\n\nA complex number with magnitude 1 can be represented in polar\ncoordinates  [[2]](#footnote-2) as . If we raise  to the\n-th power, we get:\n\nThe magnitude of  is still 1, which is essential if we want\n to be a -th root of unity. Let’s equate \nto 1:\n\nTo find the solutions to this equation, we’ll first want to represent 1\nitself in polar coordinates. Let’s use another variable for the angle:\n\nWhat is the value of ? Thinking about the unit circle,\n is any integer multiple of  - which we’ll\nexpress as  for :\n\nBack to :\n\nOr:\n\nSo the -th roots of unity are [[3]](#footnote-3):\n\n## Some basic examples\n\nLet’s begin with . We have the following roots:\n\nFor :\n\nAs expected. It should be similarly simple to calculate the roots for\n; give it a try.\n\n## Roots of unity and rotations on the unit circle\n\nWhat happens when we multiply some root of unity  by itself?\nSince the magnitude of the root is 1, multiplying by it is akin to a\n*rotation* along the unit circle by the root’s angle. For example,\nconsider  from the 3rd roots of unity:\n\nMultiply  by itself:\n\nIf the angle of  is , the angle of\n is . Let’s multiply by  once\nmore:\n\nThe result is 1, as expected (after all,  is a 3rd root of\nunity).\n\nThis visualization shows how roots of unity appear on the unit circle\nand how raising them to powers rotates the roots until finally\n:\n\n  \n    \n      The nth roots of unity, equally spaced around the unit circle. Use the root selector below.\n    \n    Roots *n* \n      Root *k* \n    \n\n  \n  \n    \n      The powers of the selected root. Use the power slider below.\n    \n    Power *m*\n      \n      \n    \n\n  \nSelect  first; this shows the -th roots as blue dots\non the unit circle. Now you can click any of the roots, and see its\npowers in the lower plot - drag the slidebar to see the rotations. If\nyou spend some time playing with this, you’ll notice that some roots -\nfor example  when  - go back to 1 when raised to a\nsmaller power than . We’ll revisit this outcome when we discuss\nthe group-theoretic aspects of roots of unity.\n\n## Geometry: roots of unity and regular polygons\n\nAs we’ve seen, the roots of unity are evenly spaced along the unit\ncircle on the complex plane. If we connect the roots with straight lines\nto their immediate neighbors, we’ll notice something interesting:\n\n    \n      Adjacent nth roots of unity joined to form a regular polygon on the unit circle.\n    \n    Roots *n* \n    \n\n  For different values of , we get the [Regular\nPolygons](https://en.wikipedia.org/wiki/Regular_polygon)! It’s pretty\neasy to prove this if we connect each root with a straight line to the\norigin. The triangles we get are congruent, because the sides from the\norigin to the roots are all of length 1, and the central angles are all\n. Therefore, both the sides of the polygons and their\nangles are identical, which makes them regular.\n\n## Conjugates of roots of unity\n\nSuppose we have the root of unity:\n\nFor some  and . If we take the reciprocal of\n:\n\nThen:\n\nSo  is also an n-th root of unity. While the powers of\n are rotating counter-clockwise\non the unit circle until they land on 1 for the -th power,\nthe powers of  similarly rotate\n*clockwise*.\n\n also happens to be the complex conjugate of\n:\n\nSo if we have:\n\nAs the -th roots of unity, then:\n\nAre also -th roots of unity. In fact, they are the same roots,\nbecause for any given positive :\n\nSo enumerating the conjugate roots is the same as enumerating the roots\nthemselves in the opposite order.\n\n## Group theory: the cyclic group of roots of unity\n\nLet’s look at the set of  (roots of unity) for some\n:\n\nThis set - along with the multiplication operation - forms a *group*.\nLet’s prove that.\n\n**Closure:** Assume  (so  and\n). Then:\n\nTherefore .\n\n**Identity:** The number , so it can serve as our\nidentity element for the group.\n\n**Associativity:** Taken directly from the associativity of the\nmultiplication operation on complex numbers.\n\n**Inverse:** We’ve just seen in the section on conjugates that\n is an -th root of unity when  is. So\nthe inverse exists and is part of the group.\n\nBecause the operation we have is just complex multiplication, we can\ntrivially derive additional properties, like commutativity. Therefore,\nthe group  is *Abelian*.\n\nFinally, we can show that the group is also *cyclic* and discuss its\n*generators*.\n\nFor slightly simpler notation, let’s denote . So the group\ncan be represented as:\n\nThis makes it obvious that the group is cyclic - all its elements can be\nexpressed as integer powers of . And  is a generator\nfor the group.\n\nBut interestingly,  is not the only generator for this group.\nAny  can be a generator, as long as  and \nare co-prime. For example, consider the group :\n\nObviously,  is a generator for this group. But \nisn’t! If we raise it to various powers we get:\n\nSince , the powers of  repeat after just three\nsteps, so they only reach three out of six group elements.\n\nBut if  and  are co-prime,  is a generator;\nin the case of , we can easily verify that  and\n are the only generators. The roots that are generators for\nthe group are also called the *primitive roots*.\n\nLet’s take the -roots of unity (), denoted as above\nwith:\n\nWhat’s the sum of all these roots?\n\nThis is just the sum of a geometric series with the first term 1 and\ncommon ratio . Therefore:\n\nIf you look carefully at the visualization shown above - this makes\nsense geometrically. All the roots of unity are evenly spread around the\nunit circle, so viewing them as vectors, all components cancel out.\n\nHow about the sum of roots raised to some integer power ? Let’s\ntry this for  (assuming ):\n\nUsing the same geometric series sum formula (with ), we\nget:\n\nIn general, when  is not divisible by , the sum is 0.\nBut when  *is* divisible by , each power becomes:\n\nAnd  of these sum to . In conclusion:\n\n## Powers of roots of unity as an orthogonal basis\n\nLet’s consider the powers of roots of unity as vectors. We’ll continue\nusing the notation:\n\nWe’ll begin with the 0-th power vector - each of the roots raised to\npower 0:\n\nThen power 1 - just the roots themselves:\n\nEach root raised to power 2:\n\nAnd so on, until power :\n\nTo go full linear algebra mode, we’ll collect these vectors into an\n matrix:\n\nLet’s calculate the inner product of two matrix rows. Recall that when\ncomputing the inner product on vectors over , we\nconjugate the second element:\n\nBut hold on, we’ve just calculated this exact sum in the previous\nsection. We get:\n\nSince the vector indices  and  only run over\n, this is equivalent to:\n\nWhich is to say: the vectors  and  are\nmutually orthogonal when . Since we have a set of  orthogonal vectors\nin , these vectors form a *basis* for\n - any vector in this space can be represented as a\nlinear combination of . This fact has far reaching\nconsequences in math and engineering, since it plays a critical part in\nforming the DFT (Discrete Fourier Transform), and  is also\nknown as the *Fourier matrix*. But this will be a topic for a separate\npost.\n\nAnother fun thing to notice before we’re finished here: the matrix\n happens to be *symmetric* (this is trivial to check by\nobservation). Therefore, its columns are also mutually orthogonal.\n\n[[1]](#footnote-reference-1)In general - counting multiplicity - there are exactly \ncomplex roots. This is because we’re essentially finding the\nsolutions to the polynomial , which has \ncomplex solutions according to the Fundamental theorem of algebra.\n\n[[2]](#footnote-reference-2)For some notes on converting between the different representations of\ncomplex numbers, see my post on [the Euler\nformula](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/).\n\n[[3]](#footnote-reference-3)When , , which is the same as\n. On a unit circle, the roots start repeating once\none full cycle is completed; therefore, there are only \nunique roots with .",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "source": "Eli Bendersky's website",
+        "tags": [
+          "Web Dev",
+          "AI/ML",
+          "Systems"
+        ],
+        "published_at": "2026-10-18T01:18:00.000Z",
+        "reading_time": 9,
+        "translated_title": null,
+        "translated_summary": null,
+        "translated_content": null
+      }
+    ]
+  },
+  "highlights": [
+    "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction - [*](https://www.patreon.com/rubenbolling) – What is the Inner Hive? It’s a subscription se...",
+    "Verizon Is Going to Charge $10/Month for iPhone Handoff - **NEW YORK, N.Y.**—It’s official. Verizon will offer [iPhone Duo](https://www.verizon.com/...",
+    "Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances - ## Log in or sign up for X See what’s happening and join the conversation [Continue with p...",
+    "Writing is no longer proof of work - Tech companies structurally depend on writing to serve as evidence, in the same way that B...",
+    "Inside the Intel 8087 chip: floating-point addition and subtraction - In 1980, Intel introduced the 8087, a chip that made floating-point operations much faster..."
+  ],
+  "wordcloud": [
+    {
+      "word": "want",
+      "count": 4
+    },
+    {
+      "word": "ideas",
+      "count": 4
+    },
+    {
+      "word": "wall-mounted",
+      "count": 3
+    },
+    {
+      "word": "version",
+      "count": 3
+    },
+    {
+      "word": "really",
+      "count": 3
+    },
+    {
+      "word": "people",
+      "count": 3
+    },
+    {
+      "word": "end",
+      "count": 3
+    },
+    {
+      "word": "chip",
+      "count": 3
+    },
+    {
+      "word": "work",
+      "count": 3
+    },
+    {
+      "word": "https",
+      "count": 3
+    },
+    {
+      "word": "com",
+      "count": 3
+    },
+    {
+      "word": "verizon",
+      "count": 3
+    },
+    {
+      "word": "iphone",
+      "count": 3
+    },
+    {
+      "word": "roots",
+      "count": 3
+    },
+    {
+      "word": "unity",
+      "count": 3
+    },
+    {
+      "word": "workos",
+      "count": 2
+    },
+    {
+      "word": "login",
+      "count": 2
+    },
+    {
+      "word": "re",
+      "count": 2
+    },
+    {
+      "word": "mfa",
+      "count": 2
+    },
+    {
+      "word": "manton",
+      "count": 2
+    },
+    {
+      "word": "reece",
+      "count": 2
+    },
+    {
+      "word": "buy",
+      "count": 2
+    },
+    {
+      "word": "watch",
+      "count": 2
+    },
+    {
+      "word": "i've",
+      "count": 2
+    },
+    {
+      "word": "ai",
+      "count": 2
+    },
+    {
+      "word": "boom",
+      "count": 2
+    },
+    {
+      "word": "real",
+      "count": 2
+    },
+    {
+      "word": "putting",
+      "count": 2
+    },
+    {
+      "word": "crazy",
+      "count": 2
+    },
+    {
+      "word": "simply",
+      "count": 2
+    },
+    {
+      "word": "inner",
+      "count": 2
+    },
+    {
+      "word": "hive",
+      "count": 2
+    },
+    {
+      "word": "www",
+      "count": 2
+    },
+    {
+      "word": "writing",
+      "count": 2
+    },
+    {
+      "word": "intel",
+      "count": 2
+    },
+    {
+      "word": "floating-point",
+      "count": 2
+    },
+    {
+      "word": "operations",
+      "count": 2
+    }
+  ]
+}
